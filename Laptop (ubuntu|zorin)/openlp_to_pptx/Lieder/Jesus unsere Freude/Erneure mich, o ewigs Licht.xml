@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:29">
+  <properties>
+    <titles>
+      <title>Erneure mich, o ewigs Licht</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Friedrich Ruopp (1704)</author>
+      <author type="music">O Jesu Christe, wahres Licht</author>
+    </authors>
+    <ccliNo>5225569</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Erneure mich, o ewigs Licht,
+und lass von deinem Angesicht
+mein Herz und Seel mit deinem Schein
+durchleuchtet und erfüllet sein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ertöt in mir die böse Lust,
+feg aus den alten Sündenwust.
+Ach, rüst mich aus mit Kraft und Mut,
+zu kämpfen gegen Fleisch und Blut.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Schaff in mir, Herr, den neuen Geist,
+der dir mit Lust Gehorsam leist'
+und nichts sonst, als was du willst, will;
+ach Herr, mit ihm mein Herz erfüll.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Auf dich lass meine Sinne gehn,
+lass sie nach dem, was droben, stehn,
+bis ich dich schau, o ewigs Licht,
+von Angesicht zu Angesicht.</lines>
+    </verse>
+  </lyrics>
+</song>

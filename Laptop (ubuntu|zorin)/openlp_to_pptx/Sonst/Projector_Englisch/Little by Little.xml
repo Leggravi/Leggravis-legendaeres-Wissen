@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Little by Little</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's changing me, my precious Saviour
+I'm not the same person that I used to be
+Well, it's been slow going
+But still there's knowing
+That someday perfect I will be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Little by little everyday
+Little by little in every way
+Jesus is changing me,
+He's changing me.
+Since I made that turn about face
+I've been growing in His grace
+Jesus is changing me.</lines>
+    </verse>
+  </lyrics>
+</song>

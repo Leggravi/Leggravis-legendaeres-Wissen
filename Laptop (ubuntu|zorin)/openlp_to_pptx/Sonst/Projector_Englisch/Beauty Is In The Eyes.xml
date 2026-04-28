@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Beauty Is In The Eyes</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>People laugh when they see
+ my mistakes
+And they doubt whether God
+ lives inside
+In their eyes I may never be perfect
+But God's love looks beyond
+ the outside</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beauty is in the eyes of the beholder
+He sees me for who I really am
+All my sins, His precious blood
+ just covers over
+I know beauty is in the eyes
+ of the beholder.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In God's word it says,
+ &quot;Be ye perfect.&quot;
+And I know, in my flesh,
+ I'll never be
+There are times all I see
+  is my weakness
+But I'm so glad He sees
+ His beauty in me.</lines>
+    </verse>
+  </lyrics>
+</song>

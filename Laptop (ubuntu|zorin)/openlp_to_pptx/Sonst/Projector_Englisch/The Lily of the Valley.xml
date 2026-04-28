@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Lily of the Valley</title>
+    </titles>
+    <authors>
+      <author type="words">Charles W. Fry</author>
+      <author type="music">William Shakespeare Hays</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’ve found a friend in Jesus,
+He’s everything to me.
+He’s the fairest of ten thousand to my soul;
+The Lily of the Valley in Him alone I see,
+All I need to cleanse and make me fully whole.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In sorrow He’s my comfort, in trouble He’s my stay,
+He tells me every care on Him to roll. Hallelujah!
+He’s the Lily of the Valley, the Bright and Morning Star.
+He’s the fairest of ten thousand to my soul.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He all my griefs has taken, and all my sorrows borne;
+In temptation He’s my strong and mighty tow’r;
+I have all for Him forsaken, and all my idols torn
+From my heart, and now He keeps me by His power.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Though all the world forsake me, and Satan tempt me sore,
+Through Jesus I shall safely reach the goal. Hallelujah!
+He’s the Lily of the Valley, the Bright and Morning Star,
+He’s the fairest of ten thousand to my soul.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He’ll never, never leave me, nor yet forsake me here,
+While I live by faith and do His blessed will;
+A wall of fire about me, I’ve nothing now to fear;
+With His manna He my hungry soul shall fill.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Then sweeping up to glory, we’ll see His blessed face,
+Where rivers of delight shall ever roll. Hallelujah!
+He’s the Lily of the Valley, the Bright and morning Star,
+He’s the fairest of ten thousand to my soul.</lines>
+    </verse>
+  </lyrics>
+</song>

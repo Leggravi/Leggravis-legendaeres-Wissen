@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Bleib bei uns, Herr,</title>
+    </titles>
+    <authors>
+      <author type="words">Franz-Josef Rahe</author>
+      <author type="music">Abide With Me (Eventide)</author>
+      <author type="translation">Abide With Me (Eventide)</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bleib bei uns, Herr, die Sonne gehet nieder, in dieser Nacht sei du uns Trost und Licht.
+Bleib bei uns, Herr, du Hoffnung, Weg und Leben. Lass du uns nicht allein, Herr Jesu Christ.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bleib bei uns, Herr, der Abend kehret wieder, ein Tag voll Müh und Plag hat sich geneigt.
+Bleib bei uns, Herr, die Nacht senkt sich hernieder. Lass leuchten über uns dein Angesicht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bleib bei uns, Herr, im Dunkel unsrer Sorgen. Du bist das Licht, das niemals mehr erlischt.
+Bleib bei uns, Herr, bei dir sind wir geborgen. Führ uns durchs Dunkel, bis der Tag anbricht.</lines>
+    </verse>
+  </lyrics>
+</song>

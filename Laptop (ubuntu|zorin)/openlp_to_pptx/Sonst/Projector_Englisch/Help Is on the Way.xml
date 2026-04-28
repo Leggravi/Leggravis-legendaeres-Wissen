@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Help Is on the Way</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A woman in the bible days, her last meal almost gone
+But God sent Elijah to make his word known
+He said woman don't you worry, for God sent me today
+And before you even asked him, help was on the way</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Just hold on a little longer, Help is on the way
+A brighter day is coming, for those who believe and pray
+Help won't help tomorrow, if you give up today,
+Just hold on a little longer, help is on the way</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Troubles of this life combined and burdens get you down
+You think no one is listening, you think no one's around
+Just remember what His word says, just trust Him and obey
+Keep your eyes towards the Heavens, cause help is on the way</lines>
+    </verse>
+  </lyrics>
+</song>

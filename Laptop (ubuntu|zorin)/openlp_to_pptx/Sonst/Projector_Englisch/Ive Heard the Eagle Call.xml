@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I’ve Heard the Eagle Call</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’m glad I've heard the eagle
+call today,
+It put me on that straight and
+narrow way
+And now it makes me happy to say,
+That I’ve heard that eagle call today.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’m glad I’ve heard the eagle call
+today,
+Malachi 4 and 5 is the way,
+No matter what people do
+And no matter what people say,
+I’m glad I’ve heard the eagle call today.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This eagle prophet brought a
+special message
+He gave us life by giving us the
+Word,
+The true interpretation of the hour
+Oh friends I’ve heard the eagle call.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This eagle came flying over my way
+Then all at once I recognized my day
+And it’s message then became my aim
+For my heart received the eagle call.</lines>
+    </verse>
+  </lyrics>
+</song>

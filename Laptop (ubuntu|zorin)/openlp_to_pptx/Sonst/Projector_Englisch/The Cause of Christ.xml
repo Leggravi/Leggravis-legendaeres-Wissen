@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Cause of Christ</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The only thing I want in life
+Is to be known for loving Christ
+To build His church to love his bride
+And make His name known far and wide</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For this cause I live
+For this cause I'd die
+I surrender all, for the cause of Christ
+All I once held dear
+I will leave behind
+For my joy is this
+Oh the cause of Christ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He is all my soul will prize
+Regardless of the joy or trial
+When agonizing questions rise
+In Jesus all my hope abides</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: Jesus my Jesus for your glory, for your name
+Jesus my Jesus I will only sing your praise :/ 3x</lines>
+    </verse>
+    <verse name="v5">
+      <lines>It is not fame that I desire
+Nor stature in my brothers eyes
+I pray it's said about my life
+That I lived more to build your name than mine.
+For the cause of Christ.</lines>
+    </verse>
+  </lyrics>
+</song>

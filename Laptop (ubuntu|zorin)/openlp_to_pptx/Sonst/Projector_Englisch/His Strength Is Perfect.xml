@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>His Strength Is Perfect</title>
+    </titles>
+    <authors>
+      <author type="words">Steven Curtis Chapman</author>
+      <author type="music">Steven Curtis Chapman</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>His strength is perfect
+when our strength is gone,
+He'll carry as when we cannot carry on
+raised in His power, the weak become strong,
+His strength is perfect
+His strength is perfect</lines>
+    </verse>
+  </lyrics>
+</song>

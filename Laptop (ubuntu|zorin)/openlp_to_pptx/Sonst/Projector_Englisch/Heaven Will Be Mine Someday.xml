@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heaven Will Be Mine Someday</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've got a longing now to go,
+To live up there in my new home.
+Oh won't you come and walk with me along the way.
+What priceless beauty we would share,
+In a land so bright and fair.
+I know that heaven will be mine someday.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know that heaven will be mine,
+And our love will always shine.
+I'm going to a land across the mystic sea.
+Oh won't you meet me over there,
+Where all the joy will ever share.
+I know that heaven will be mine someday.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yes will you meet me over there,
+A place of beauty, rich and rare
+To live with all the saints
+Where the love of god will shine,
+And it's glory will be mine.
+I know that heaven will be mine someday.</lines>
+    </verse>
+  </lyrics>
+</song>

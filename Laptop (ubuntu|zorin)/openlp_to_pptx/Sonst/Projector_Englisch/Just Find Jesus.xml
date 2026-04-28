@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Just Find Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When you get to heaven after the trumpet sounds,
+If you decide to look me up don't waste your time looking 'round.
+I won't be at my mansion, you won't find me by the sea,
+Just find Jesus, that's where I'll be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I want to see the unseen arms that held me through the storms,
+I want to touch the hand that touched and completely changed my heart.
+I want to hear Him speak the words that brought such peace to me.
+So just find Jesus and there I'll be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I step through those pearly gate, there'll be so much to see,
+I'Il behold mansions tall and stroll down golden streets.
+Though the splendor will be amazing, there's only one attraction for me.
+So just find Jesus, there I'll be.</lines>
+    </verse>
+  </lyrics>
+</song>

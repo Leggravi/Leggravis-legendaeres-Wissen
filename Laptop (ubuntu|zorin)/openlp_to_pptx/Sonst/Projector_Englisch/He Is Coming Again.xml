@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Is Coming Again</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All the pain and shame they caused my blessed Savior,
+All the scars that marred the body of my Lord;
+All the miles between this earth and God's blue heaven,
+Could not keep Him from returning back to earth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He's coming back again and I'm the only reason,
+Like a groom He'll be returning for His Bride;
+Preparations have been made; I'll soon be going,
+I've a mansion over on the other side.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When He comes again, He will not need a manger,
+Earthly man will not be mocking His sweet name;
+King of Kings and Lord of Lords He'll be returning,
+With great triumph He'll be rapturing the saints.</lines>
+    </verse>
+  </lyrics>
+</song>

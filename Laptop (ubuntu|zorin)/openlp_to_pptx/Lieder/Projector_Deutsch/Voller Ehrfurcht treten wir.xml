@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Voller Ehrfurcht treten wir</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Frey</author>
+      <author type="music">Albert Frey</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Voller Ehrfurcht treten wir
+in des Königs Gegenwart.
+In den heil'gen Herzensraum,
+wo er sich uns offenbart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er ist heilig, er ist rein.
+Er ist König, er allein.
+Er ist mächtig, er ist groß,
+sein Erbarmen grenzenlos.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uns're Herzen sind dein Thron,
+unser Lobpreis dein Altar.
+Uns'rem König bringen wir
+uns nun selbst als Opfer dar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du bist heilig, du bist rein.
+Du bist würdig, du allein.
+Du bist mächtig, du bist groß,
+dein Erbarmen grenzenlos.</lines>
+    </verse>
+  </lyrics>
+</song>

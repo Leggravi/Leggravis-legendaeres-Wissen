@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Never Gonna Let Me Go</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6 v2 v4 v7 v4 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Once I was lost, wandering in darkness,
+No life in sight, no hope in sight,
+He called my name and healed my blindness,
+Set me ablaze, now I'm alive with.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His love breaking through my heart of stone,
+Love breathing to awake my bones,
+Love reaching out to save my soul,
+Love never gonna let me go.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And now my heart so full of worship,
+I can't hold back, I can't contain it,
+For all He's done, Jesus my savior,
+I am ablaze and full of thanks for.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Love calling me as I am,
+Love making me new again,
+Love lifting me when I can't,
+Love never gonna let me go.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wherever you've been (wherever you've been),
+Whatever you've done (whatever you've done),
+Come as you are,
+Come into His open arms.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wherever you've been (wherever you've been)
+Whatever you've done (whatever you've done)
+Come as you are, Come find.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Love breaking through my heart of stone,
+Love breathing to awake my bones,
+Love reaching out to save my soul,
+Love never gonna let me go.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Love never gonna let me go,
+Love never gonna let me go.</lines>
+    </verse>
+  </lyrics>
+</song>

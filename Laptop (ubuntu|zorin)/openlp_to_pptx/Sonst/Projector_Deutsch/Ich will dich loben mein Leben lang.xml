@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich will dich loben mein Leben lang</title>
+    </titles>
+    <authors>
+      <author type="words">Kommunität Gnadenthal</author>
+      <author type="music">Kommunität Gnadenthal</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich will dich loben mein Leben lang
+und meine Hände aufheben zu Dir!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Halleluja, Halleluja, Halleluja, Halleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich will Dich ehren, nimm Herr mein Leben
+und mach Du selber Dir daraus ein Lob.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jubel und Dank sei Dir, Jesus Erlöser,
+dass Du Dein Gnadenlicht über mich stellst.</lines>
+    </verse>
+  </lyrics>
+</song>

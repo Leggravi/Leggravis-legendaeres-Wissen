@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There's A Great Day Coming</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a great day coming,
+ a great day coming,
+There's a great day coming
+ by and by,
+When the saints and the sinners
+ shall be parted right and left,
+Are you ready for that day to come?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Are you ready? Are you ready?
+Are you ready for the judgment day?
+Are you ready? Are you ready?
+For the judgment day?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's a bright day coming,
+ a bright day coming,
+There's a bright day coming
+ by and by,
+But its brightness shall only come
+To them that love the Lord,
+Are you ready for that day to come?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There's a sad day coming,
+ a sad day coming,
+There's a sad say coming
+ by and by,
+When the sinner shall hear his doom,
+&quot;Depart, I know ye not,&quot;
+Are you ready for that day to come?</lines>
+    </verse>
+  </lyrics>
+</song>

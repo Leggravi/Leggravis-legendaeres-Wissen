@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>One Step At a Time</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v4 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When something seems too hard to handle
+Too big to conquer, too far away to touch</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When all your dreams begin to shatter
+And deep inside you you're hurtin', oh, so much
+That's when it's time to say</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm climbing my mountain, step by step
+I'm climbing my mountain, day by day
+I'm climbing my mountain, all the way
+I'm climbing my mountain,
+I'm gonna make it!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>One step at a time,
+One step at a time,
+One step at a time,
+With Jesus by my side.
+One step at a time,
+One step at a time,
+I'm climbing my mountain,
+One step at at time.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Even though you might grow weary
+Don't be discouraged
+In our weakness God is strong
+Remember this, He'll never leave you
+He won't forsake you
+He's your strength and He's your song
+So sing and start to say…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>One step at a time,
+One step at a time,
+One step at a time,
+With Jesus by my side.
+One step at a time,
+One step at a time,
+I'm climbing my mountain,
+I'm climbing my mountain,
+One step at at time!</lines>
+    </verse>
+  </lyrics>
+</song>

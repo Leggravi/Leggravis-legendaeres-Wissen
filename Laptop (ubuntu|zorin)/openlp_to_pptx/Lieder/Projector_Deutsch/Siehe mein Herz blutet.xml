@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Siehe, mein Herz blutet</title>
+    </titles>
+    <authors>
+      <author type="words">Kommunität Gnadenthal</author>
+      <author type="music">Kommunität Gnadenthal</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Siehe, mein Herz blutet für die Völker.
+Siehe, mein Herz blutet für die Völker.
+Und darum sende ich euch zu den Völkern,
+und darum sende ich euch in die Welt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Siehe, mein Herz wartet auf die Menschen,
+siehe, mein Herz öffnet sich der Welt.
+Und darum geht, geht hin zu den Menschen,
+und darum geht mit mir in diese Welt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Siehe, vertrau'n werden mir die Menschen,
+wenn sie es seh'n, dass euch Liebe prägt.
+An eurer Liebe werden Sie erkennen,
+dass ich der HERR in eure Mitte bin.</lines>
+    </verse>
+  </lyrics>
+</song>

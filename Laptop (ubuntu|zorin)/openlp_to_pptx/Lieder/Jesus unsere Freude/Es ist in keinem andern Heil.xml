@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:30">
+  <properties>
+    <titles>
+      <title>Es ist in keinem andern Heil</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Christian Lange (1692)</author>
+      <author type="words">Johann Anastasius Freylinghausen (1714)</author>
+      <author type="music">Heinrich Schütz</author>
+    </authors>
+    <ccliNo>5209877</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es ist in keinem andern Heil,
+kein Nam ist sonst gegeben,
+in dem uns Gnade wird zuteil
+und Fried und ewges Leben,
+als nur der Name Jesu Christ,
+der unser Herr und Heiland ist.
+Ihm sei Lob, Preis und Ehre!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er ist der Weg zum Himmel hin,
+durch ihn steht alles offen
+und wer ihn geht, der hat durch ihn
+die Seligkeit getroffen.
+Ach lass mich, o mein Heil und Hort,
+auf keinem andern Weg hinfort
+noch Gott zu finden hoffen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Er ist die Wahrheit, ihn allein
+hab ich mir auserlesen;
+ohn ihn find ich nur Wort und Schein,
+in ihm ist Kraft und Wesen.
+O Wahrheit, mach mein Herze frei,
+dass es nur dir ergeben sei,
+durch den es kann genesen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Er ist das Leben, seine Kraft
+soll Leib und Seele führen.
+Sein Geist, der alles in mir schafft,
+soll mich allein regieren;
+so werd ich, weil ich nun durch ihn
+mit meinem Gott verbunden bin,
+das Leben nie verlieren.</lines>
+    </verse>
+  </lyrics>
+</song>

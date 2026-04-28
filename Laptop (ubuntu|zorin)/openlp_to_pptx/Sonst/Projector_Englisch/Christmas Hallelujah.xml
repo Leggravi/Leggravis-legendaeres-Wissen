@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Christmas Hallelujah</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've heard about this baby boy
+Who's come to earth to bring us joy
+And I just want to sing this song to you
+It goes like this, the fourth, the fifth
+The minor fall, the major lift
+With every breath I'm singing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallelujah Hallelujah Hallelujah Hallelujah</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A couple came to Bethlehem
+Expecting child, they searched the inn
+To find a place for You were coming soon
+There was no room for them to stay
+So in a manger filled with hay
+God's only Son was born</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The shepherds left their flocks by night
+To see this baby wrapped in light
+A host of angels led them all to You
+It was just as the angels said
+You'll find Him in a manger bed
+Immanuel and Savior.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A star shown bright up in the east
+To Bethlehem, the wisemen three
+Came many miles and journeyed long for You
+And to the place at which You were
+Their frankincense and gold and myrrh
+They gave to You and cried out</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I know You came to rescue me
+This baby boy would grow to be
+A man and one day die for me and you
+My sins would drive the nails in You
+That rugged cross was my cross, too
+Still every breath You drew was</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>New Name Written Down in Glory</title>
+    </titles>
+    <authors>
+      <author type="words">Charles Austin Miles</author>
+      <author type="music">Charles Austin Miles</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v3 v5 v3 v3 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was lost in shame
+Could not get past my blame
+Until He called my name
+I'm so glad He changed me
+Darkness held me down
+But Jesus pulled me out
+I'm no longer bound
+I'm so glad He changed me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>See I'm, now a new creation in Christ
+The old has gone, there's new life
+I live by faith, not by sight</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is a new name written down in glory
+And it's mine, yes, it's mine
+I've met the Author of my story
+And He's mine, yes, He's mine</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sin had left me blind
+But Jesus opened my eyes
+Now I can see the light
+I'm so glad He changed me
+Now I'm walking free
+I've got the victory
+See it's all over me
+I'm so glad He changed me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/: I am who I am because the I Am tells me who I am
+I am who I am because the I Am tells me who I am
+I am who I am because the I Am tells me who I am
+I am who I am because the I Am tells me who I am :/</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesus is mine
+Jesus is mine
+Everywhere I go
+Everywhere I'll be
+Oh, Jesus is mine (Jesus is mine)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Yes, He is, yes, He is, yes, He is
+He's mine
+Yes, He is
+Glory to God</lines>
+    </verse>
+  </lyrics>
+</song>

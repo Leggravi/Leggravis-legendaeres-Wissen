@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hallelujah to the Lamb</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallelujah to the Lamb
+Hallelujah to the Lamb
+That was slain upon the tree
+By His Stripes I am Healed
+By His Blood I know I'm Sealed
+Hallelujah to the Lamb of God</lines>
+    </verse>
+  </lyrics>
+</song>

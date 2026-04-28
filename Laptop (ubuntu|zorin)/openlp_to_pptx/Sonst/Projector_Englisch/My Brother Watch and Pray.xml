@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Brother Watch and Pray</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The scene now is setting,
+The time is drawing nigh,
+When the Lord said He’s coming
+Like a thief in the night;
+He wants us to get ready
+It may be just any day
+For the Master now is waiting
+For the bride to watch and pray.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Watch and pray the Lord is coming,
+Watch and pray;
+He’s waiting for His children
+to get desperate and say
+Oh Jesus please come quickly
+For there is no other way
+For the spirit now is calling,
+Oh my brother watch and pray.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The message has been given
+Elijah now is gone
+We are waiting for the secret
+catching of the Bride away
+It may be any moment
+In the morning, night or noon
+But the Bridegroom is just waiting
+For the bride to watch and pray.</lines>
+    </verse>
+  </lyrics>
+</song>

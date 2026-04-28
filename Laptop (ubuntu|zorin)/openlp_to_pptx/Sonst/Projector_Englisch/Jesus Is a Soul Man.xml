@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Is a Soul Man</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus is a soul man,
+Jesus is a soul man,
+Jesus Is a soul man,
+And I’m surely sold on Him.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>People say that He is a square,
+Jesus, He is nowhere,
+I know better cos He lives in my heart
+Jesus is a soul man.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You can find Him in the Bible pages,
+Jesus, He’s the Rock of Ages
+The pathway, the cleft of the Rock
+Jesus is a soul man.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He calms the sea,
+When the storm is raging
+He keeps me free
+when the devil is raging
+He is my staff,
+my shield and my sword
+Jesus is a soul man.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Shadrack, Meshack and Abednego
+The King said,
+in the fire they must go,
+They found out that the fire
+wouldn’ burn them
+They were saved by the soul man.</lines>
+    </verse>
+  </lyrics>
+</song>

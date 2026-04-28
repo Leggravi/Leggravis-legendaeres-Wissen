@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Touch Me Again</title>
+    </titles>
+    <authors>
+      <author type="words">Michael Fatkin</author>
+      <author type="music">Michael Fatkin</author>
+      <author type="translation">Stück vom Himmel</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Touch me again, Lord, I need your power,
+I need your strength in this trying hour,
+You said if I′d ask I would surely receive,
+So touch me again, Lord, that's what I need,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Touch me again, Lord,
+Touch me again, Lord,
+Let your manna fall from on high
+Wherever I′m going, you've already been,
+So I ask you to touch me again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Touch me again, Lord, I see that mountain,
+Touch me again, Lord, let me feel that fountain,
+Come, Holy Spirit, let the Heaven's descend,
+And touch me again, Lord, Touch me again.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When We All Bow Down</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Princes and paupers,
+Sons and daughters,
+Kneel at the throne of grace,
+Losers and winners,
+Saints and sinners,
+One day will see His face.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And we all bow down
+Kings will surrender their crowns
+And worship Jesus
+For He is the love
+Unfailing love
+He is the love of God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Summer and winter
+The mountains and rivers
+Whisper our Savior's name
+Awesome and holy
+A friend to the lonely
+Forever His love will reign</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He's the light of the world
+And Lord of the cross</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And we all bow down
+Kings will surrender their crowns
+And worship Jesus
+Worship Jesus
+Worship Jesus
+For He is love
+Unfailing love
+He is the Love of God</lines>
+    </verse>
+  </lyrics>
+</song>

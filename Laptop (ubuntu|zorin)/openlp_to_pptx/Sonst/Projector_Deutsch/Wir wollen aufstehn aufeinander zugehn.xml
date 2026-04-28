@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir wollen aufstehn, aufeinander zugehn</title>
+    </titles>
+    <authors>
+      <author type="words">Clemens Bittlinger</author>
+      <author type="music">Josef Piek</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir wollen aufstehn, aufeinander zugehn,
+voneinander lernen, miteinander umzugehn.
+Aufstehn, aufeinander zugehn
+und uns nicht entfernen, wenn wir etwas nicht verstehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Viel zu lange rumgelegen,
+viel zu viel schon lamentiert.
+Es wird Zeit, sich zu bewegen,
+höchste Zeit, dass was passiert.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jeder hat was einzubringen,
+diese Vielfalt wunderbar.
+Neue Lieder wolln wir singen,
+neue Texte laut und klar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Diese Welt ist uns gegeben,
+wir sind alle Gäste hier.
+Wenn wir nicht zusammenleben,
+kann die Menschheit nur verliern.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dass aus Fremden Nachbarn werden,
+das geschieht nicht von allein.
+Dass aus Nachbarn Freunde werden,
+dafür setzten wir uns ein.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Found the Lily in My Valley</title>
+    </titles>
+    <authors>
+      <author type="words">Charles W. Fry</author>
+      <author type="music">William Shakespeare Hays</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All alone and broken-hearted
+Trying to calm the raging battle in my mind,
+In search of many answers
+That my troubled soul couldn't seem to find.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, but I saw a flower blooming,
+Where there was no rain or sunshine,
+And I knew not that this flower would change the rest of my life,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I found the lily in my valley
+I found strength when I was worn
+I found a place to leave my burdens
+And I found refuge from the storm,
+A place where I could trade my dark clouds
+To beaming rays of warm sunshine,
+I found the lily in my valley
+And it blooms all the time.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So if you're down and broken hearted
+And you just can't seem to find your peace of mind,
+Oh, you've been searching for your answers,
+But your problems they're getting worse all the time.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I'm here to tell you that if you reach your, reach your hand to Jesus,
+He'll take you any place the trials cant find (oh yes he will),
+He'll be your lily in your valley,
+So you can watch him bloom all the time.</lines>
+    </verse>
+  </lyrics>
+</song>

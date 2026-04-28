@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>See His love</title>
+    </titles>
+    <authors>
+      <author type="words">Tom Lockley</author>
+      <author type="music">Tom Lockley</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>See His love nailed onto a cross
+Perfect and blameless life given as sacrifice
+See Him there all in the name of love
+Broken yet glorious, all for the sake of us</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This is Jesus in His glory
+King of Heaven dying for me
+It is finished, He has done it
+Death is beaten, Heaven beckons me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Greater love no one could ever show
+Mercy so undeserved, freedom I should not know
+All my sin, all of my hidden shame
+Died with Him on the cross, eternity won for us</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: Such love, such love
+Such love is this for me :/ 3x</lines>
+    </verse>
+  </lyrics>
+</song>

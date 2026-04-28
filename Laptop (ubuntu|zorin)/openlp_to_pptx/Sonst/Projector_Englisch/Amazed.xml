@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Amazed</title>
+    </titles>
+    <authors>
+      <author type="words">Ian Hannah</author>
+      <author type="music">Ian Hannah</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v4 v5 v4 v2 v2 v2 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You dance over me
+While I am unaware
+You sing all around
+But I never hear the sound</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord I'm amazed by You
+Lord I'm amazed by You
+Lord I'm amazed by You
+And how You love me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You paint the morning sky
+With miracles in mind
+My hope will always stand
+For You Hold me in Your hand</lines>
+    </verse>
+    <verse name="v4">
+      <lines>How deep (how deep)
+How wide (how wide)
+How great (how great) is Your love for me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>How deep (how deep)
+How wide (how wide)
+How great (how great) is Your love for me (praise Your love)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Lord I'm amazed by You
+Lord I'm amazed by You
+Lord I'm amazed by You
+And how You love me
+Still I'm amazed by You
+Still I'm amazed by You Lord
+We're amazed by You</lines>
+    </verse>
+  </lyrics>
+</song>

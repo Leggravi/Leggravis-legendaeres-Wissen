@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Danket dem Herren, denn er ist so gut</title>
+    </titles>
+    <authors>
+      <author type="words">Andreas Buhl</author>
+      <author type="music">Andreas Buhl</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Danket dem Herren, denn er ist so gut zu uns!
+Preis seinen Namen, er liebt uns für alle Zeit!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mach dir keine Sorgen um den neuen Tag,
+er ist’s der aus Liebe alles schenken mag.
+Gib ihm dein Vertrauen, weil er dich so liebt!
+Alle Lebensfülle dir der Schöpfer gibt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Liegt dein Weg im Dunkeln, weißt Du nicht wohin:
+trau ihm, der das Ziel kennt, Ende und Beginn.
+Er kennt deine Fragen, weiß, wie‘s weitergeht
+und wird dich auch tragen, bis du vor ihm stehst.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus trug am Kreuz auch deine Zukunftsangst.
+Denk an seine Liebe, wenn du um morgen bangst.
+Eines nur ist sicher: Jesus Christus lebt
+und wird Hilfe geben, dem der zu ihm geht.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wunderbarer Hirt</title>
+    </titles>
+    <authors>
+      <author type="words">Lothar Kosse</author>
+      <author type="music">Lothar Kosse</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist ein wunderbarer Hirt
+Der mich zu frischem Wasser führt
+Du hast so reich gedeckt
+Des Königs Tisch für mich</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist mein Stecken und mein Stab
+Und wandre ich im finstren Tal
+Fürcht ich kein Unheil mehr
+Denn du bist hier bei mir</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich komm, ich komm an deinen Tisch
+Ich komm, ich komm und ich bin gewiss
+Du bist mein wunderbarer Hirt</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du hast mein Haupt gesalbt mit Öl
+Den Becher bis zum Rand gefüllt
+An deiner Hand wird meine Seele still</lines>
+    </verse>
+  </lyrics>
+</song>

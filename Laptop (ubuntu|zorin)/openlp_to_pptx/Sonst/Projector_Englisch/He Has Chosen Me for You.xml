@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Has Chosen Me for You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We don't know what tomorrow holds, but we know who holds tomorrow
+Knowing this we'll live above the world and all its sorrows
+I have prayed for all my life that we would be together
+Serving Him together seems so right</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, oh yes, it's true
+He has chosen me for you
+Take my hand and we'll agree
+That He has chosen you for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now and then I like to think about the day He saved me
+All the love that He bestowed and all the gifts He gave me
+With all this I praise His name for putting us together
+He knew we'd be together from the start</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God has saved us
+Washed us white as snow
+And now we're together
+Cause He has made it so</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, oh yes, it's true
+He has chosen me for you
+Take my hand and we'll agree
+He has chosen you
+He has chosen you
+He has chosen you for me</lines>
+    </verse>
+  </lyrics>
+</song>

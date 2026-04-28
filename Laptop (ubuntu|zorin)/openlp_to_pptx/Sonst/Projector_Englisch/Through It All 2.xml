@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Through It All (2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've had many tears and sorrows
+I've had questions for tomorrow
+There've been times
+I didn't know right from wrong
+But in every situation
+God gave blessed consolation
+He only gave me trials to make me strong</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've been to a lot of places
+I’ve seen so many faces
+There’ve been times I felt so all alone
+But in those lonely hours
+Yes those precious lonely hours
+Jesus let me know I am His own</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Through it all
+Through it all
+I've learned to trust in Jesus
+I've learned to trust in God
+Through it all
+Through it all
+I've learned to depend upon His Word</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So I thank God for the mountains
+And I thank Him for the valleys
+I thank Him for the storms
+He's brought me through
+For if I’d never had a problem
+How could i know God could solve them
+I’d never know what faith in God could do</lines>
+    </verse>
+  </lyrics>
+</song>

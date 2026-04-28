@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let all Mortal flesh keep silence</title>
+    </titles>
+    <authors>
+      <author type="words">Gerard Moultrie</author>
+      <author type="music">Frankreich</author>
+      <author type="translation">Schweiget alle, die ihr sterblich</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let all mortal flesh keep silence
+And with fear and trembling stand
+Ponder nothing earthly minder
+For with blessing in His hand
+Christ our God to earth descendeth
+And full homage to demand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>King of kings yet born of Mary
+As of old on earth He stood
+Lord of lords in human vesture
+In the body and the blood
+He will give to all the faithful
+His own self for heavenly food</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rank of rank the host of heaven
+Spread its vanguard on the way
+As the light of light descendeth
+From the realms of endless day
+That the pow'r of hell may vanish
+As the darkness clears away</lines>
+    </verse>
+    <verse name="v4">
+      <lines>At his feet the six-winged seraph
+Cherubim with sleepless eye
+Veil their faces to the presence
+As with ceaseless voice they cry
+Alleluia, alleluia!
+Alleluia, Lord most high!</lines>
+    </verse>
+  </lyrics>
+</song>

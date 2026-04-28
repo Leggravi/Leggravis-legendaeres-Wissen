@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Will Magnify Your Name O Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Bob Fitts</author>
+      <author type="music">Bob Fitts</author>
+      <author type="translation">Preisen will ich Dich</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will magnify Your name O Lord
+I will exalt You forevermore
+For You are King of kings
+And Lord of lords
+And You reign in majesty
+Omnipotent Father
+Creator of all things</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Praise, Jehovah Our King</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v3 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You paint a rainbow against the grey skies
+You raise all life of every kind
+You open the window to pour down rain into the ground
+You spring up fountain to sustain our lives</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You make the Earth breathe every morning
+You fill the air with birds and butterflies
+You let the cool breeze to refresh all creation
+You turn the darkness into light</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise, praise to Your name
+Praise, praise above all things
+Praise, praise to Your name
+Praise, praise Jehovah, our King</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You move the mountains and the oceans,
+You light the moon and stars every night,
+You made Heaven and Earth in Your Own purpose,
+You bless Your people in different ways.</lines>
+    </verse>
+  </lyrics>
+</song>

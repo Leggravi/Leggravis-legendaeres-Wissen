@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:31">
+  <properties>
+    <titles>
+      <title>O Liebe ohne Schranken</title>
+    </titles>
+    <authors>
+      <author type="words">Johanna Meyer (1891)</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <ccliNo>5748967</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Liebe ohne Schranken in Gottes Heilsgedanken:
+der Sohn erscheint als Mensch in unsrer Niedrigkeit;
+als Kindlein liegt im Stalle der Herrscher über alle.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Um unsern Fluch zu tragen, lässt Er ans Kreuz sich schlagen,
+den Übeltätern gleich, der Schmach, dem Tod geweiht.
+Er stirbt, um uns zu retten und lässt ins Grab sich betten.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Der Herr erwacht; Er lebet! Die Erde freudig bebet;
+dem Grab entsteigt der Held als Sieger in dem Streit.
+Er lebt, um uns zu geben Sein Auferstehungsleben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Der Herr ist nun erhoben zur Rechten Gottes droben
+und bittet dort für uns den Vater allezeit.
+Ihm ist an uns gelegen, Er will uns nähren, pflegen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Er will, dass wir auf Erden schon eines mit Ihm werden,
+und machet unser Herz zur Wohnung sich bereit.
+Da will Er wirken, walten, von Sünden rein uns halten.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bald wird der Herr erscheinen und uns um Ihn vereinen;
+dann herrschen wir mit Ihm in Seiner Herrlichkeit.
+Mit Thronen und mit Kronen wird Er die Seinen lohnen.</lines>
+    </verse>
+  </lyrics>
+</song>

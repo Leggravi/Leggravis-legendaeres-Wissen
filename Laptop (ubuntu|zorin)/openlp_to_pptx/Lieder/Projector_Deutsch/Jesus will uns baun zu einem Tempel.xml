@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus will uns bau´n zu einem Tempel</title>
+    </titles>
+    <authors>
+      <author type="words">Gitta Leuschner</author>
+      <author type="music">Ian Traynar</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus will uns bau´n zu einem Tempel,
+als Wohnung für den heil’gen Gott.
+Dieses Haus des Herrn ist die Gemeinde,
+die Säule und der Wahrheit Grund.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wie Edelsteine schön geformt,
+aus seiner Gnade durch das Wort.
+Wenn wir uns lieben und vertrauen,
+(Halleluja!)
+/: Dann wächst der Tempel mehr und mehr. :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus will uns bau´n zu einem Tempel,
+als Wohnung für den heil’gen Gott.
+Dieses Haus des Herrn ist die Gemeinde,
+die Säule und der Wahrheit Grund.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wie Edelsteine schön geformt,
+aus seiner Gnade durch das Wort.
+Wenn wir uns lieben und vertrauen,
+(Halleluja!)
+/: Dann wächst der Tempel mehr und mehr. :/ 3x</lines>
+    </verse>
+  </lyrics>
+</song>

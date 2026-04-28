@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Lighthouse on a Hillside</title>
+    </titles>
+    <authors>
+      <author type="words">Ronnie Hinson</author>
+      <author type="music">Ronnie Hinson</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a Lighthouse on a hillside
+That overlooks life's sea
+When I'm tossed, it sends out
+A light that I might see
+And the light that shines in darkness now
+Will safely lead me thru the night
+If it wasn't for The Lighthouse
+My ship would sail no more.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I thank God for The Lighthouse
+Well, I owe my life to Him
+For Jesus is The Lighthouse
+And from the rocks I've seen
+He has shone a light all around me
+That I might clearly see
+If it wasn't for The Lighthouse
+Tell me where would this ship be</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ev'rybody that lives about me
+They said tear that lighthouse down
+'Cause the big ships they don't sail this way anymore
+There's no use of it standing'round
+Then my mind goes back to that stormy night
+When just in time, I saw that light
+Yes that light from that old lighthouse
+That stands up there on the hill.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He has shown a light all around me
+That I could clearly see
+If it wasn't for The Lighthouse
+Tell me where would this ship be.
+Tell me where would this ship be.</lines>
+    </verse>
+  </lyrics>
+</song>

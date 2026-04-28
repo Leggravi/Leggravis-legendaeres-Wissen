@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, berühre mich</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nur den Saum deines Gewandes
+Einen Augenblick berührn
+Und die Kraft, die von dir ausgeht
+Tief in meinem Innern spürn
+Nur ein Blick aus deinen Augen,
+Nur ein Wort aus deinem Mund
+Und die Heilungsströme fließen
+Meine Seele wird gesund</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, berühre mich
+Hole mich ab, öffne die Tür für mich
+Nimm mich an deiner Hand, entführe mich
+In deine Gegenwart
+Jesus, ich spüre dich,
+Strecke mich aus nach dir, berühre dich
+Und mein Herz brennt von Neuem nur für dich
+In deiner Gegenwart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nur ein Stück vom Brot des Lebens
+Nur ein Tropfen aus dem Kelch
+Dann bin ich mit dir verbunden
+Und mein Hunger wird gestillt
+Nur ein Schluck vom Strom des Lebens
+Von dem Wasser, das du gibst
+Und die Ströme werden fließen
+Aus der Quelle tief in mir</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herr, ich bin nicht würdig
+Bin oft so weit weg von dir
+Doch in deiner Liebe
+Kommst du auch zu mir.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus, berühre mich
+Hole mich ab, öffne die Tür für mich
+Nimm mich an deiner Hand, entführe mich
+In deine Gegenwart
+Jesus, ich spüre dich,
+Strecke mich aus nach dir, berühre dich
+Und mein Herz brennt von Neuem nur für dich
+In deiner Gegenwart</lines>
+    </verse>
+  </lyrics>
+</song>

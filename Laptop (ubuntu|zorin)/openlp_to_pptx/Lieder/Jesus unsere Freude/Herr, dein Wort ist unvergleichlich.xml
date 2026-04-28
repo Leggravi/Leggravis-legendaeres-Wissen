@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:52">
+  <properties>
+    <titles>
+      <title>Herr, dein Wort ist unvergleichlich</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Friedrich Hiller (1762)</author>
+      <author type="music">Bamberg</author>
+    </authors>
+    <ccliNo>6221854</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, dein Wort ist unvergleichlich,
+Menschenworte taugen nichts.
+Seine Kraft wirkt immer reichlich,
+wie Gott redet, so geschieht's.
+Bricht der Himmel, dieses stehet,
+tobt die Hölle, dieses bleibt;
+wenn dereinst dies Rund vergehet,
+fällt kein Jota, das er schreibt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Werte Schriften vom Erbarmen!
+Göttlich Wort von Gottes Huld!
+Hier ist Reichtum für die Armen
+und ein Freibrief für die Schuld,
+hier ist Balsam für die Wunden,
+hier ist Trost für alle Not,
+es gibt Nahrung den Gesunden,
+Lebenswasser für den Tod.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gott, wir danken deiner Gnade,
+die uns solch ein Wort geschenkt,
+welches auf dem Lebenspfade
+uns das Herz zum Himmel lenkt.
+Lass es dir zum Lob geschehen,
+dass wir, wie dein Wort verheißt,
+heute glauben, morgen sehen
+Gott den Vater, Sohn und Geist.</lines>
+    </verse>
+  </lyrics>
+</song>

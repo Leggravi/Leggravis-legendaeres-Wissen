@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Least I Can Do</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You never asked me to stretch out my arms,
+No one put nails in my hands,
+I'll never feel the weight of the world,
+or carry that cross on my back,
+Nothing I do could ever repay
+all that you did on that day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You took my place up there on that tree,
+You paid the price so that I could be free,
+You died for me, now I'm living for You,
+Lord, that's the least I can do.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You never sent me out on my own,
+You're always leading the way,
+All that I ask for is a hope in my heart
+and only a small seed of faith,
+I know You gave me all that I have,
+so why would I not give it back?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You didn't have to walk down that road,
+You didn't have to rescue my soul,
+lay down Your life just for me,
+I should've been taking those steps,
+It should've been my last breath,
+but You just want me to believe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Now I'm living for You,
+Lord, that's the least I can do.</lines>
+    </verse>
+  </lyrics>
+</song>

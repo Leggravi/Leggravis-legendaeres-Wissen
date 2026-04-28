@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Vater wir sind hier</title>
+    </titles>
+    <authors>
+      <author type="words">Markus Krämer</author>
+      <author type="music">Markus Krämer</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vater, wir sind hier, kommen wie wir sind,
+schauen auf zu dir, staunend wie ein Kind.
+Alles in uns preist deine Gegenwart,
+die dein Wort verheißt, dem, der auf dich harrt.
+In Wahrheit und im Geist.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>® Wir beten dich an mit ganzem Herzen.
+Wir beten dich an mit ganzer Kraft.
+Wir beten dich an mit Leib und Seele, hier und jetzt.
+Wir beten dich an mit unserem Denken.
+Wir beten dich an mit unserm Tun.
+Wir beten dich an mit unserm Leben, hier und jetzt.
+In Wahrheit und im Geist.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alles bringen wir, ehren dich allein,
+wollen immer mehr wahre Beter sein.
+Denn jetzt ist die Zeit, in der sich erfüllt,
+dass dein Volk dich preist, so wie du es willst:
+In Wahrheit und im Geist. ®</lines>
+    </verse>
+  </lyrics>
+</song>

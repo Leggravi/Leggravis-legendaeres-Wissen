@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Wanna Know More</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>While travelling through this world of sorrow
+I'm on my way to gloryland
+I'll not turn back for some tomorrow
+My trials here I'll understand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I want to know more about my Jesus
+I want to know more about my Lord
+I want to know more about that mansion
+I'm gonna receive as my reward
+I want to know more about that homeland
+And I mean to go there someday, somehow
+And after I reach that heavenly city
+I mean to know more that I know now</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm glad I know the blesses Savior
+for through his blood, he set me free
+though rough the road
+I shall not waver
+for some glad day
+his face i'll see</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He promised when His soul ascended
+&quot;I'm coming back&quot; the Lord did say,
+If on His promise you've depended
+On wings of love you'll soar away.</lines>
+    </verse>
+  </lyrics>
+</song>

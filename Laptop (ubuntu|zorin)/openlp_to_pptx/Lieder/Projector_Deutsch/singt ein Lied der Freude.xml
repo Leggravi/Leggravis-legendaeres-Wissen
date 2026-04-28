@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>singt ein Lied der Freude</title>
+    </titles>
+    <authors>
+      <author type="words">Helmut Oeß</author>
+      <author type="music">Ludwig van Beethoven</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Singt ein Lied der Freude, ruft es mit lauter Stimme aus:
+Der Bräutigam kommt, herrlich und schön.
+Sein Angesicht werden wir sehn, an seiner Hand werden wir gehen.
+Tanzt mit aller Kraft! Hebt eure Hände auf und klatscht!
+Die Stunde ist nah, Jesus kommt bald.
+Bei ihm werden wir stehn als Braut, lieblich und schön.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>® : Wir werden tanzen auf goldenen Straßen,
+der Menschensohn und die herrliche Braut.
+Aus jedem Volk u. allen Nationen
+erklingt das Lied von dem Lamm</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Singet laut, die Zeit der Freude ist nah:
+Der auferstandne König und Bräutigam kommt.
+Zum großen Hochzeitsfest ist alles bereit,
+erzählt es überall: Jesus kommt bald!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>|: Dir sei die Ehre (3x) für immer :|</lines>
+    </verse>
+  </lyrics>
+</song>

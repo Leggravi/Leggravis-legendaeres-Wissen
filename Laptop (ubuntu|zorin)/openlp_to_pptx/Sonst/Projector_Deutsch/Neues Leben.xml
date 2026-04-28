@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Neues Leben</title>
+    </titles>
+    <authors>
+      <author type="words">Klaus Göttler</author>
+      <author type="music">Ben Cantelon</author>
+      <author type="translation">New Day (Your love has opened my eyes)</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du hast mich erwählt, bereits von Anfang an
+Jetzt hab ich dich gefunden und hab dich erkannt
+Ohne dass ich es verdient hab
+Gibst du mir ein neues Fundament</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du gibst mir ein neues Leben
+Aus Gnade allein schenkst du mir ein neues Leben
+Unverdient bin ich ganz dein
+Nichts ist mehr, wie es einmal war
+Du machst alles neu – du hast alles neu gemacht</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich höre jetzt auf
+Alles selbst zu tun
+Und leb aus deiner
+Kraft Ich darf in dir ruhn
+Ich ergreife alles, was du gibst
+Lebe in der Wahrheit, die du mir zusprichst</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich bin nicht mehr derselbe, mein altes Leben ist vorbei
+Ein neues hat begonnen, Jesus du hast mich befreit
+Ich bin nicht mehr derselbe, mein altes Leben ist vorbei
+Ein neues hat begonnen, in deiner Herrlichkeit</lines>
+    </verse>
+  </lyrics>
+</song>

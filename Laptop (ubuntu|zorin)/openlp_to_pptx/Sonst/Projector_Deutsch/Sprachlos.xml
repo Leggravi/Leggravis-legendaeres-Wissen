@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sprachlos</title>
+    </titles>
+    <authors>
+      <author type="words">Timo Langner</author>
+      <author type="music">Austin Cobb</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v3 v4 v7 v8 v9 v9 v10 v11</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich suche nach Worten,
+Um zu beschreiben,
+Wie stark meine Liebe für Dich ist,
+Meine Liebe für Dich ist, Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich suche nach Bildern,
+Um zu beschreiben,
+Wie stark meine Liebe für Dich ist,
+Meine Liebe für Dich ist, Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und ich steh sprachlos,
+Sprachlos vor Dir.
+Ich steh sprachlos,
+Sprachlos vor Dir.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und wir beten an.
+Ich bete an.
+Ich bete an.
+Ich bete an.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Du wirfst Dein Licht, Herr,
+Warm auf mein Gesicht, Herr.
+Und ich spür: Deine Liebe für mich lässt,
+Deine Liebe für mich lässt nie los.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Und es ist offensichtlich:
+Ich bin Dir unendlich wichtig.
+Und Du wirfst Deine Arme um mich, Herr,
+Ziehst mich zu Dir, immer näher, Jesus.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Deine Größe lässt mich staunen.
+Deine Schönheit ertrag ich kaum.
+Deine Größe lässt mich staunen.
+Deine Schönheit ertrag ich kaum.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Und ich bete an.
+Ich bete an.
+Ich bete an.
+Ich bete an.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>In Freude, unter Tränen,
+Auf Bergen und in Tälern bete ich an.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Und Du wirfst Deine Arme um mich, Herr,
+Ziehst mich zu Dir, immer näher, Jesus.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Ich bete an.
+Ich bete an.</lines>
+    </verse>
+  </lyrics>
+</song>

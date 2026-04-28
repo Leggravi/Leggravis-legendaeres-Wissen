@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All the Other Gods</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v1 v2 v2 v3 v3 v2 v2 v3 v3 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All other gods
+They are the works of man
+But you are the Most High God
+There's none like You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jehovah you are the most high!
+You are the most high God
+Jehovah, you are the most high!
+You are the most high God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are good and your mercy is forever, Hallelujah!
+You are good and your mercy is forever, Hallelujah!</lines>
+    </verse>
+  </lyrics>
+</song>

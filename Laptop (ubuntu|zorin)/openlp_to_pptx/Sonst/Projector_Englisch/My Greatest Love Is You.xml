@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Greatest Love Is You</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Lass</author>
+      <author type="music">Egon Arnaut</author>
+    </authors>
+    <verseOrder>v1 v1 v2 v3 v4 v2 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Every new day Your glory unfolds
+Filling my eyes with Your treasures untold
+The beauty of holiness brings worship anew
+My greatest love is You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Call me deeper into Your grace
+The river that flows from the Holy Place
+Wash over me, cleansing me through
+My greatest love is You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Every new day Your glory unfolds
+Filling my eyes with Your treasures untold
+The beauty of holiness brings worship anew
+My greatest love is You, call me deeper</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Call me deeper into Your grace
+The river that flows from the Holy Place
+Wash over me, cleansing me through
+My greatest love is You, Jesus</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wash over me, cleansing me through
+My greatest love is You
+Wash over me, cleansing me through
+My greatest love is You</lines>
+    </verse>
+  </lyrics>
+</song>

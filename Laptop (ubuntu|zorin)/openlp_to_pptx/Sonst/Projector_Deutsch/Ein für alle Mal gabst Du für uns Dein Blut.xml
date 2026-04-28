@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ein für alle Mal gabst Du für uns Dein Blut</title>
+    </titles>
+    <authors>
+      <author type="words">Corina Schweizer</author>
+      <author type="music">Corina Schweizer</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, auf deinen Wunsch sind wir jetzt hier.
+Brot und Kelch erzählen still von Dir,
+erinnern uns an dich und deinen Tod,
+der uns in Gemeinschaft bringt mit Gott.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ein für alle mal gabst Du für uns Dein Blut,
+ein für alle Mal starbst Du uns zugut,
+ein für alle mal gabst Du Dich als Opfer hin
+und machtest die vollkommen, die geheiligt sind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr, Du warst das wahre Passahlamm,
+opfertest Dich selbst am Kreuzesstamm.
+Du hast vom Todesurteil uns befreit
+und berufen zur Gerechtigkeit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herr, Dein Werk gilt ein für alle Mal;
+darum feiern wir voll Dank Dein Mahl,
+bis Du einst wiederkommst in Herrlichkeit
+und wir bei Dir sind in Ewigkeit.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ehre Dir dem Lamm, für das was Du getan.
+Ehre Dir dem Lamm! Wir beten dankbar an.
+Ehre Dir dem Lamm, für das was Du getan.
+Ehre Dir dem Lamm! Wir beten dankbar an.
+Ehre dem Lamm! Wir beten Dich an!</lines>
+    </verse>
+  </lyrics>
+</song>

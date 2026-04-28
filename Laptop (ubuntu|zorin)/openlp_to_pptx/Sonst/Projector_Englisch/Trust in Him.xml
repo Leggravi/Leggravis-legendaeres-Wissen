@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Trust in Him</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our Father above, giver of all life
+The mighty maker, savior forever
+He will make a way when things start to turn gray
+I'll hold onto Him every single day
+My heart's desire to be forever in His arms</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'll forever trust in Him
+Even when the things start to dim
+For He is the one who holds tomorrow
+This World will fall apart
+But His Word will always be an art
+Of His wonderful works in my heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Every sorrow and pain, rain after the rain
+Has a purpose for us to gain
+Filled with His love
+With promise from above</lines>
+    </verse>
+  </lyrics>
+</song>

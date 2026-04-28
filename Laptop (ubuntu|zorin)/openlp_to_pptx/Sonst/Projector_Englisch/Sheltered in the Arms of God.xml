@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sheltered in the Arms of God</title>
+    </titles>
+    <authors>
+      <author type="words">Jimmie Davis</author>
+      <author type="music">Jimmie Davis</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I feel the touch of hands so kind and tender.
+They're leading me in the paths that I must trod.
+I'll have no fear when Jesus walks beside me
+For I'm sheltered in the arms of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So let the storm rage high,
+The dark clouds rise,
+They don't worry me;
+For I'm sheltered safe in the arms of God.
+He walks with me,
+And naught of earth can harm me,
+Sheltered safe within the arms of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Soon I shall hear the call from heaven's portals
+'Come home my child,
+It's the last mile you must trod'
+I'll fall asleep
+And wake in God's new heaven
+Sheltered safe within the arms of God</lines>
+    </verse>
+  </lyrics>
+</song>

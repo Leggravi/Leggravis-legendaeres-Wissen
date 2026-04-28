@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Feel the Pull</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I feel the pull, I hear the call,
+I know His Spirit's moving me,
+To give my all;
+He speaks to me, and I agree,
+Lord, please come and take control,
+I feel the pull.</lines>
+    </verse>
+  </lyrics>
+</song>

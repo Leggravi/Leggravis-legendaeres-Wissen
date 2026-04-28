@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wither Pilgrims Are You Going?</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wither, pilgrims, are you going,
+Going each with staff in hand?
+We are going on a journey,
+Going to our King’s command,
+Over hills and plains and valleys,
+We are going to His palace,
+(Repeat)
+Going to the better land.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tell us, pilgrims, what you hope for
+In that far-off, better land?
+Spotless robes, and crowns of
+glory,
+From a Saviour’s loving hand.
+We shall drink of life’s clear river,
+We shall dwell with God for ever,
+(Repeat)
+In that bright, that better land.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pilgrims, may we travel with you
+To that bright and better land?
+Come and welcome, come and
+welcome,
+Welcome to our pilgrim band.
+Come, oh, come! And do not leave us;
+Christ is waiting to receive us,
+(Repeat)
+In that bright, that better land.</lines>
+    </verse>
+  </lyrics>
+</song>

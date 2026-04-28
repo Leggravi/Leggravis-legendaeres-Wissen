@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh the Thought That Jesus Loves Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh the thought that Jesus loves me
+More than I can understand
+Fills my heart with calm assurance
+I am safe inside His plan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So I will let it change and heal me
+Let it ease my troubled mind.
+Oh the thought that Jesus loves me
+That he loves me for all time.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, the thought that Jesus loves me
+And He loves what I will be.
+Some sweet day
+When He has finished
+His creative work in me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>OH, the thought that Jesus loves me
+Loved when we were far apart.
+When my will was set against Him
+Loved enough to win my heart.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I will let it change and heal me
+Let it ease my troubled mind.
+Oh, the thought that Jesus loves me
+That he loves me for all time.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh, the thought that Jesus loves me
+That He'd choose a cross to die
+Take the death I was deserving
+Just to offer me new life.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>So I will let it change and heal me
+Let it ease my troubled mind.
+Oh, the thought that Jesus loves me
+That he loves me for all time.
+Oh, the thought that Jesus loves me.</lines>
+    </verse>
+  </lyrics>
+</song>

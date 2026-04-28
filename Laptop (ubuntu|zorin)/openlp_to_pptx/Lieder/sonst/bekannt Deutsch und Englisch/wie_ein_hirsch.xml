@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 2, 2018, 7:51:59 PM">
+  <properties>
+    <titles>
+      <title>Wie ein Hirsch</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Wie ein Hirsch lechzt nach frischem Wasser,
+So sehn’ ich mich Herr nach dir.
+Aus der Tiefe meines Herzens
+bete ich dich an, o Herr.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Du allein bist mir Kraft und Schild,
+Von dir allein sei mein Geist erfüllt.
+Aus der Tiefe meines Herzens bete ich dich an, o Herr.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Was bedeuten mir Gold und Silber,,
+Herr nur du kannst Erfüllung sein.
+Du allein bist der Freudengeber,
+Wurdest mir zum hellen Schein.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Du, o Herr, bist mir Freund und Bruder,
+Du mein König und mein Gott!
+Dich begehre ich mehr als alles,
+so viel mehr als höchstes Gut.</lines>
+    </verse>
+  </lyrics>
+</song>

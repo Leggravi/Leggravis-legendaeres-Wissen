@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Read your Bible, Pray every day</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Harry D. Clarke</author>
+      <author type="translation">Lies die Bibel, bet jeden Tag</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Read your Bible, Pray every day,
+Read your Bible, Pray every day,
+Read your Bible, Pray every day,
+/: And you’ll grow, grow, grow. :/ x3
+Read your Bible, Pray every day,
+And you’ll grow, grow, grow.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm gonna sing</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm gonna sing just as long as it takes for a song
+To make sad, heavy spirits free
+I'm gonna keep making music that carries the secret
+That Jesus is liberty
+I'm gonna turn off the sounds that would drag people down
+To the pit of despondency
+With the sweet happy tune
+He is coming soon
+For His children like you and me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's a song that'll carry a message along
+Through the densest of foggy nights
+And a tune is the rope
+That can throw a man hope
+When he's going down for the third time
+It's a sweet melody that can cut your heart free
+From the chains of a past defeat
+You can suddenly see through the sweet harmony
+A path for your wand'ring feet</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Don't tell me the world is a hopeless old place
+And I might as well give in
+To the doom and gloom-life's a waiting room
+For the blow that'll do us all in
+I can't sympathize when before my eyes
+Is a hope shining as bright as day
+I gotta follow the song that keeps drawing me on
+With my feet dancing all the way</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yeah, with the sweet happy tune
+He is coming soon
+For His children like you and me</lines>
+    </verse>
+  </lyrics>
+</song>

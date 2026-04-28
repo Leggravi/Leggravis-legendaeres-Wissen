@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It's through the blood</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I think of heaven and all the sights I'll see
+The walls of Jasper, gates of pearl, the clear and golden street
+Why should I be present? Why should I enter in?
+After all the sinful living, and the wicked one I've been</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the presence of Jehovah, I stand before the throne
+The accusers of the brethren starts to read the things I've done
+As I hear that awful charges the question fills my mind
+Why should I not be put in hell to suffer for all time?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It's through the blood, that's all I have to plea
+It's through the blood, that Jesus shed for me
+Not by works of my own righteousness for filthy rags are they
+But because of that old rugged tree hanging on dark Calvary
+That is my only plea it's through the blood</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When I'm walking through a valley, and I feel there's no way out
+When the winds of sorrow threaten me and they turn my world around
+That's when I look to Jesus, and the price He paid for me
+I can lift my hands in praise to Him and shout the victory</lines>
+    </verse>
+  </lyrics>
+</song>

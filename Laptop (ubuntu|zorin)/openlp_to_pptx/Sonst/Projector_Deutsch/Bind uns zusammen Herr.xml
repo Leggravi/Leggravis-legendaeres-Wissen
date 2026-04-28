@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Bind' uns zusammen, Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Bob Gillman</author>
+      <author type="translation">Bind us together, Lord</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bind' uns zusammen, Herr. Bind' uns zusammen mit Bändern, die nie zerreißen.
+Wir haben nur einen Herrn, er ist der König der Welt.
+Wir haben nur einen Gott; der diese Erde erhält.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bind' uns zusammen, Herr. Bind' uns zusammen und Liebe sei dieses Band;
+Wir haben nur einen Herrn, er ist der König der Welt.
+Wir haben nur einen Gott; der diese Erde erhält.</lines>
+    </verse>
+  </lyrics>
+</song>

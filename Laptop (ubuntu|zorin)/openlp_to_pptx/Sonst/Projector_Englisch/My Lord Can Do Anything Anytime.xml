@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Lord Can Do Anything, Anytime</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My Lord can do anything,
+anytime, anywhere,
+My Lord can do anything,
+He makes the lame to rise and walk,
+The deaf to hear,
+the blind to see,
+My Lord can do anything.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He calmed the raging storms
+with His Word
+Peace be still’ Jesus said
+and that was all;
+He raised the dead Lazarus,
+after four days in the grave,
+(My Lord x2) can do anything.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let your hearts not be troubled
+my Jesus said,
+As you believe in the Father
+believe in Me,
+In my Father’s house there are
+many mansions there;
+Behold I go to prepare
+you a place.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then to the twelve disciples
+Jesus said;
+Behold I go to the Father,
+but I’ll return, If you abide in my Word
+then Ill abide in you,
+And then by my power you will do anything. ’</lines>
+    </verse>
+    <verse name="v5">
+      <lines>How my heart doth rejoice
+just to know
+That one morning my Lord shall
+speak and all be changed
+Then He shall call the names of saints
+And from the dead they shall
+rise in the resurrection morning,
+My Lord can do everything!</lines>
+    </verse>
+  </lyrics>
+</song>

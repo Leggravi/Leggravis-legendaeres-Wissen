@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mine, Mine, Mine</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mine, mine, mine, Jesus is mine,
+Mine when I'm weary,
+Mine when I'm dreary;
+Mine, mine, mine, Jesus is mine,
+Mine all the time, oh yes, He's mine.</lines>
+    </verse>
+  </lyrics>
+</song>

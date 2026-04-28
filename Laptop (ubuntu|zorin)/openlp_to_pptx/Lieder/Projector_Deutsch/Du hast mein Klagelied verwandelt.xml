@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du hast mein Klagelied verwandelt</title>
+    </titles>
+    <authors>
+      <author type="words">Glaubenszentrum Bad Gandersheim</author>
+      <author type="music">Charlie Mathews</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du hast mein Klagelied verwandelt
+in einen Jubelruf voll Freud‘!
+Du gabst mir Freudenöl statt Trauer,
+statt Angst und Sorgen Lobgesang.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nun sind wir Bäume der Gerechtigkeit,
+die Pflanzung unseres Herrn,
+damit der Herr verherrlicht wird. “</lines>
+    </verse>
+  </lyrics>
+</song>

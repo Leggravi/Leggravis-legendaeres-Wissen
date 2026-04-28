@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, wir feiern Deinen Sieg am Kreuz!</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Frey</author>
+      <author type="music">John Gibson</author>
+      <author type="translation">Jesus, We Celebrate Your Victory</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, wir feiern Deinen Sieg am Kreuz! 
+Jesus, voll Freude jubeln wir.
+Jesus, Du hast uns von Schuld befreit!
+Jesus, wir leben weil Du starbst!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Denn für die Freiheit hat Christus uns befreit,
+damit das Joch der Knechtschaft nicht länger auf uns liegt.
+Wir sind voll Freude über Seinen Sieg,
+voll Dankbarkeit, weil Er uns liebt. ®</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sein Geist wohnt in uns und nimmt uns alle Angst.
+Der Weg zu Gott steht offen, wir dürfen uns ihm nahn.
+In Seiner Nähe hört unser Sorgen auf, weil Gottes Liebe uns erfüllt. ®</lines>
+    </verse>
+  </lyrics>
+</song>

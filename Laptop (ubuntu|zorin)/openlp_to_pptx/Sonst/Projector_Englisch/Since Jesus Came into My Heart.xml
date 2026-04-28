@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Since Jesus Came into My Heart</title>
+    </titles>
+    <authors>
+      <author type="words">Rufus H. McDaniel</author>
+      <author type="music">Charles H. Gabriel</author>
+      <author type="translation">O, welch Wunder</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What a wonderful change
+in my life has been wrought
+Since Jesus came into my heart;
+I have light in my soul
+for which long I have sought,
+Since Jesus came into my heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Since Jesus came into my heart,
+Since Jesus came into my heart;
+Floods of joy o'er my soul
+like the sea billows roll,
+Since Jesus came into my heart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I have ceased from my
+wand'ring and going astray,
+Since Jesus came into my heart;
+And my sins which were
+many are all washed away,
+Since Jesus came into my heart.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'm possessed of a hope
+that is steadfast and sure,
+Since Jesus came into my heart;
+And no dark clouds of doubt
+now my pathway obscure,
+Since Jesus came into my heart.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There's a light in the valley
+of death now for me,
+Since Jesus came into my heart;
+And the gates of the City
+beyond I can see,
+Since Jesus came into my heart.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I shall go there to dwell
+in that City I know,
+Since Jesus came into my heart;
+And I'm happy, so happy
+as onward I go,
+Since Jesus came into my heart.</lines>
+    </verse>
+  </lyrics>
+</song>

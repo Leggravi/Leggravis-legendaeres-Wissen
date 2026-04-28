@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Life</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, my endless love
+You are so beautiful
+Your love has saved me
+With all I am I will honor you
+You gave it all for me
+Now I'm Yours
+So I'm here to say that</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm living my life for the one above the heavens
+The one whose Son was crucified for me
+I'm living my Life for the Son who bled to save us
+I want the world to see this love in me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, strength of my heart
+You are so beautiful
+Your passion's my safety
+In gentleness You have healed my heart
+And captured me with Your love
+Now I'm Yours
+So I'm here to say that</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'll live my life in love with You
+You're all I really want in this world</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I'll live my live in love with you
+You're all I really want in this world
+I'll live my life in love with you
+You're all I really want in this world</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nichts habe ich, was nicht frei ich empfing</title>
+    </titles>
+    <authors>
+      <author type="words">James Martin Gray</author>
+      <author type="music">Daniel Brink Towner</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nichts habe ich, was nicht frei ich empfing
+durch Gottes Gnade bin ich, was ich bin!
+Rühmen sei fern, doch das sei bekannt:
+ich bin einer, den die Gnade fand!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>|: Einer, den Gottes Gnade fand!: |
+An mir erwiesen,
+sei laut sie gepriesen:
+ich bin einer, den die Gnade fand!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Einst war ich arm und in Sünden verstrickt,
+dem Gott der Gnade so sehr fern gerückt,
+doch Jesus kam und griff meine Hand,
+ich bin einer, den die Gnade fand!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nicht meine Tränen je haben's gemacht,
+Nur Sein Erbarmen hat alles vollbracht!
+Sünden vergiftet, einst abgewand,
+bin ich einer, den die Gnade fand!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lass mich's dir sagen mit strahlendem Blick,
+mein Herz fließt über vor Freude und Glück;
+noch einmal ruf ich's laut übers Land:
+Ich bin einer, den die Gnade fand!</lines>
+    </verse>
+  </lyrics>
+</song>

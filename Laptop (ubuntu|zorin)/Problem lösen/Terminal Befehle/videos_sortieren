@@ -1,0 +1,33 @@
+#!/bin/bash
+
+# === Zenity: Ordnerauswahl mit GUI ===
+QUELLE=$(zenity --file-selection --directory --title="Quellordner auswählen") || exit
+ZIEL=$(zenity --file-selection --directory --title="Zielordner auswählen (oder erstelle ihn)") || exit
+
+mkdir -p "$ZIEL"
+cd "$QUELLE" || { zenity --error --text="❌ Quellordner nicht gefunden"; exit 1; }
+
+# Zielordner leeren
+rm -f "$ZIEL"/*
+
+# === Dateien durchgehen ===
+for f in *; do
+    [[ "$f" =~ \.(thm|sec)$ ]] && continue
+    [[ -f "$f" ]] || continue
+
+    [[ "$f" =~ ([0-9]{4}) ]] || continue
+    num="${BASH_REMATCH[1]}"
+
+    if ls "$ZIEL"/"${num}"_* &>/dev/null; then
+        continue
+    fi
+
+    ext="${f##*.}"
+    name="${f%.*}"
+    ln -s "$QUELLE/$f" "$ZIEL/${num}_${name}.${ext}"
+done
+
+# Erfolgsmeldung und öffnen
+zenity --info --text="✅ Fertig! Zielordner wird geöffnet:"
+xdg-open "$ZIEL"
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Zur Heimat da droben zieht's mich aus der Welt</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Octavius Voget</author>
+      <author type="music">Ehrenfried Liebich</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zur Heimat da droben zieht's mich aus der Welt,
+die Heimat da droben allein mir gefällt.
+Nichts stillt hier mein Sehnen, mein Herz bleibet leer,
+dort ewig zu wohnen, ist, was ich begehr,
+dort ewig zu wohnen, ist, was ich begehr.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Was beugst du dich nieder, o Seele, in mir?
+Was suchst du vergebens die Ruhe allhier?
+Es brausen die Wogen der Trübsal daher,
+oft schwanket mein Schifflein auf tobendem Meer.
+Oft schwanket mein Schifflein auf tobendem Meer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dort rinnt keine Träne, dort wird es nie Nacht,
+dort leuchten die Sterne in himmlischer Pracht,
+und was dort vor allem mein Auge entzückt,
+ist, dass es dort ewig den Herren erblickt.
+Ist, dass es dort ewig den Herren erblickt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Leb wohl denn, o Erde, ich bin nur dein Gast,
+behalt deine Freuden, behalt deine Last!
+Es sind deine Berge und Täler gar schön,
+doch nicht zu vergleichen den himmlischen Höhn!
+Doch nicht zu vergleichen den himmlischen Höhn!</lines>
+    </verse>
+  </lyrics>
+</song>

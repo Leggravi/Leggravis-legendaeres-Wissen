@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Glory-Land Way</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm in the way,
+The bright and shining way,
+I'm in the glory-land way;
+Telling the world
+That Jesus saves today,
+Yes, I'm in the glory-land way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm in the glory-land way
+I'm in the glory-land way;
+Heaven is nearer,
+And the way groweth clearer,
+For I'm in the glory-land way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>List to the call,
+The gospel call today,
+Get in the glory-land way;
+Wand'rers, come home,
+Oh, hasten to obey,
+And get in the glory-land way.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Onward I go,
+Rejoicing in His love,
+I'm in the glory-land way;
+Soon I shall see Him
+In that home above,
+Oh, I'm in the glory-land way.</lines>
+    </verse>
+  </lyrics>
+</song>

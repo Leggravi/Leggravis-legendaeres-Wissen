@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Nov 9, 2019, 11:27:37 AM">
+  <properties>
+    <titles>
+      <title>Give thanks</title>
+    </titles>
+    <verseOrder>V1 V2 V1 V2 V3 V4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Give thanks with a grateful heart
+Give thanks to the Holy One
+Give thanks because He's given Jesus Christ, His Son</lines>
+    </verse>
+    <verse name="V2">
+      <lines>And now let the weak say, &quot;I am strong&quot;
+Let the poor say, &quot;I am rich
+Because of what the Lord has done for us&quot;</lines>
+    </verse>
+    <verse name="V3">
+      <lines>And now let the weak say, &quot;I am strong&quot;
+Let the poor say, &quot;I am rich
+Because of what the Lord has done for us&quot;
+Give thanks</lines>
+    </verse>
+    <verse name="V4">
+      <lines>We give thanks to You oh Lord
+We give thanks</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Just A Prayer Away</title>
+    </titles>
+    <authors>
+      <author type="words">Gregory Curtis</author>
+      <author type="music">Gregory Curtis</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tears that fell like rain
+Streamed down from my heart
+Colors turned to gray
+Emptiness led the way
+Until I fell apart
+You came to save me
+To show me that</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're just a prayer away
+No matter where I am
+I know in my heart
+You're never too far
+When I'm losing my way
+You're just a prayer away
+My strength is in my faith
+I'm never alone, I'm never afraid
+Cause You're just a prayer away</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I close my eyes
+Lord, I call Your name
+And the dark subsides
+Nothing can take the place
+Of the peace I find
+You came to save me
+To show me that</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Whenever I need to find You
+I just fall on my knees
+In You I find the strength
+That I need to live
+To believe</lines>
+    </verse>
+  </lyrics>
+</song>

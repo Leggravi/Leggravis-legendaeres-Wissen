@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jul 23, 2019, 5:44:29 PM">
+  <properties>
+    <titles>
+      <title>Zieh mich hin zu Dir, Herr</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Zieh mich hin zu Dir, Herr,
+lass uns zusammen laufen.
+Zieh mich hin zu Dir, o Herr,
+und halt mich fest.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Komm und führe mich, Herr,
+in Deine Königskammer,
+in die Verborgenheit,
+wo Deine Liebe mich umfängt.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Ich will mich freu´n in Dir,
+ich will mich freu´n in Dir,
+ich will mich freu´n in Dir,
+und fröhlich sein.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Es ist recht, Dich zu lieben, Herr,
+Es ist recht, Dich zu lieben, Herr,
+Es ist recht, Dich zu lieben, Herr,
+Du mein König und mein Gott.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Herzlich lieb hab ich Dich, o Herr,
+Herzlich lieb hab ich Dich, o Herr,
+Herzlich lieb hab ich Dich, o Herr,
+Du mein König und mein Gott!</lines>
+    </verse>
+  </lyrics>
+</song>

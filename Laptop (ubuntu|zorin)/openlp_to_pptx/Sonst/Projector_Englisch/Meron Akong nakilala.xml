@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Meron Akong nakilala</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meron akong nakilala
+Isang tunay na kaibigan
+Ako'y kanyang minamahal 
+Inaaliw sa kalungkutan</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pumasok siya sa puso ko 
+Binago nya ang buhay ko
+Ngayon ko lang natagpuan 
+Ang tunay na kaibigan ko</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Di mo ba alam ang tunay na pag-ibig ay nagmumula sa Diyos
+Di mo ba alam ang tunay na pag-ibig ay nagmumula sa Diyos</lines>
+    </verse>
+  </lyrics>
+</song>

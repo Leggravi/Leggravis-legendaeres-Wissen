@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 17, 2021, 2:59:31 PM">
+  <properties>
+    <titles>
+      <title>Eagle Scream</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>All my life I searched for the truth,
+I struggled deep inside
+I knew this life just wouldn't do.
+There was no comfort in some men's philosophy,
+I knew there must be more of His Word in store for me.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>And then an eagle screamed, &quot;Child, come out of her,
+I'll take you in My arms and lead you to the Word.
+Come on and spread your wings I'll teach you how to fly.&quot;
+I've been so happy since I heard God's eagle cry.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>There I was in a nest of unbelief,
+Another empty heart was really all I could see;
+I needed something fresh to feed my hungry soul,
+I felt so out of place more of His wondrous grace
+I had to know.</lines>
+    </verse>
+  </lyrics>
+</song>

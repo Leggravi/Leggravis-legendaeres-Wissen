@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh How Good It is</title>
+    </titles>
+    <authors>
+      <author type="words">Keith Getty</author>
+      <author type="music">Keith Getty</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, how good it is
+When brethren dwell together,
+Dwell together in unity;
+Oh, how good it is
+When brethren dwell together,
+Dwell together in unity.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For there the Lord
+Commands a blessing,
+Life forevermore;
+For there the Lord
+Commands a blessing,
+Life forevermore</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For there the Lord
+Pours out His Spirit,
+Like a river that overflows;
+For there the Lord
+Pours out His Spirit,
+Let Your river flow.</lines>
+    </verse>
+  </lyrics>
+</song>

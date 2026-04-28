@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 17, 2021, 1:14:04 PM">
+  <properties>
+    <titles>
+      <title>Lord You Know I Need a Brand New Touch</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>I thought the sun had come to stay,
+but all too soon it went away
+And in its place the storm clouds came
+and with the clouds there came the rain
+It rained so hard and, oh, so long
+but midst the storm I felt a calm
+It was your touch that brought me through it all
+Without your help I’d surely fall.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Lord, You know I need a brand new touch
+My strength from yesterday is gone
+But if you’ll give me, Lord, another touch
+I’ll have the strength to carry on.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Yesterday has come and gone
+And now a new day’s comin’ on
+I do not know what it may bring
+My heart may cry instead of sing
+But it matters not what comes my way, Lord
+If you’ll just touch me new each day
+Your loving touch drives all my fears away
+Close by Your side I want to stay.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Lord, You know how weak I really am
+Even better than myself
+But with Your help I know I really can
+Make it through the darkest night
+Ev’rything’s gonna’ be all right.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When I say I love you</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can't hardly believe that
+today you'll become mine
+God's fulfilled the dreams
+I had, in His perfect time
+Words cannot convey the way
+I feel, I can't believe it's true
+When you look into my eyes
+And lo, I cherish you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I say I love you
+I mean I always will
+When I say, you're mine alone
+there'll be no other
+When I give my heart to you
+It will be yours to keep
+And when I say I do
+I mean forever</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For a while I was confused
+So many questions from the start
+But I couldn't keep your precious
+love from reaching to my heart
+You are beyond what I imagine
+nobody love me like you do
+I can't believe the joy that come
+from being in love with you…</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And when I say I do
+It will be me in love with you
+forever…
+And when I say I do
+I mean forever…</lines>
+    </verse>
+  </lyrics>
+</song>

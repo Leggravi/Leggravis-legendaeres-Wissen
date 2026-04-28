@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:59">
+  <properties>
+    <titles>
+      <title>Danke, mein Vater, für alles, was du schenkst</title>
+    </titles>
+    <authors>
+      <author type="words">Christine Seibel (1976)</author>
+      <author type="music">Christine Seibel</author>
+    </authors>
+    <themes>
+      <theme>Dank</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Danke, dass alles zu meinem Besten dient,
+auch wenn ich es nicht verstehe, du siehst den Sinn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Danke, dass Fragen, die uns das Dasein stellt,
+vor dir nicht verborgen sind. Herr, das gibt uns Mut.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Danke, dass durch dich die Schuld vergeben ist,
+dass du freimachst von Zwängen, die uns bedrohen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Danke, dass Beten an offene Ohren dringt,
+dass du hörst auf unser Rufen, uns Hilfe schenkst.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Danke, dass mit dir die Fülle zu uns kommt,
+dass ein Leben aus Freude uns ganz erfüllt.</lines>
+    </verse>
+  </lyrics>
+</song>

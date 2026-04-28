@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>o Herr deine Sanftheit</title>
+    </titles>
+    <authors>
+      <author type="words">Manfred Schmidt</author>
+      <author type="music">Graham Kendrick</author>
+      <author type="translation">O Lord, Your tenderness</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Herr, Deine Sanftheit löst all meine Bitterkeit, 
+deine Liebe empfang ich Herr!
+O Herr Deine Lieblichkeit verwandelt die Lieblosigkeit,
+deine Liebe empfang ich Herr! - ® |: Deine Liebe empfang ich Herr!:|</lines>
+    </verse>
+  </lyrics>
+</song>

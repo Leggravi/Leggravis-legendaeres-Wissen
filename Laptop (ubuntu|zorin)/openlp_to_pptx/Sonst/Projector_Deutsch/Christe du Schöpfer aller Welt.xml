@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Christe, du Schöpfer aller Welt</title>
+    </titles>
+    <authors>
+      <author type="words">Theodor Kliefoth</author>
+      <author type="music">Königsberg</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1) Christe, du Schöpfer aller Welt,
+du König, der die Gläub’gen hält,
+weil unser Bitten dir gefällt,
+nimm unser Loblied an, o Held.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2) Kein Maß hat deine Gnad gekannt,
+hat in Geduld mit starker Hand
+durch Leid am Kreuz gelöst das Band,
+das Adams Sünde um uns wand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3) Vor dem die Sterne neigen sich,
+du kamst ins Fleisch demütiglich,
+darin zu leiden williglich;
+in Todesschmerz dein Leib erblich.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4) Die Hand gebunden ausgestreckt,
+zu lösen, was in Banden steckt,
+hast du mit Gnad den Zorn bedeckt,
+den Menschenschuld in Gott erweckt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5) Du hangst am Kreuze sterbend hier,
+und doch erbebt die Erd vor dir,
+der Geist der Kraft geht aus von dir,
+die stolze Welt erblasst vor dir.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6) Jetzt um dein Siegerangesicht
+des ewgen Vaters Glanz sich flicht,
+jetzt mit des Geistes Kraft und Licht,
+o König du, verlass uns nicht.</lines>
+    </verse>
+  </lyrics>
+</song>

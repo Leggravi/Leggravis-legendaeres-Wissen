@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Feb 1, 2020, 10:55:48 AM">
+  <properties>
+    <titles>
+      <title>Your Ways are Higher than Mine</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>It's not what I prayed for
+It's not what I wanted
+It's not something I understand
+My circumstances seem so confusing
+I'm placing it all in Your hands</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Your ways are higher than mine
+I want mountains to move
+You want me to climb
+So I'm gonna trust Your work, Your will, and Your time
+Your ways are higher than mine</lines>
+    </verse>
+    <verse name="V3">
+      <lines>One day I'm sure
+I will look back and marvel
+At how You knew best all along
+You see from Heaven
+You know it's the hard times
+That make my face steady and strong</lines>
+    </verse>
+    <verse name="V4">
+      <lines>When I start to doubt, help me believe
+Somewhere, so far above me</lines>
+    </verse>
+    <verse name="C5">
+      <lines>Your ways are higher than mine
+I want mountains to move
+You want me to climb
+So I'm gonna trust Your work, Your will, and Your time
+Oh
+Your ways are so much higher than mine
+Your ways are higher than mine</lines>
+    </verse>
+  </lyrics>
+</song>

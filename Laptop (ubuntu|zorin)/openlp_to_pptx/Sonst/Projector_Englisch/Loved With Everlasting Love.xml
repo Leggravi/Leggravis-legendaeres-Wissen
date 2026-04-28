@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Loved With Everlasting Love</title>
+    </titles>
+    <authors>
+      <author type="words">George Wade Robinson</author>
+      <author type="music">James Mountain</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Loved with everlasting love,
+Led by grace that love to know,
+Spirit breathing from above,
+Thou hast taught me it is so.
+O this full and perfect peace!
+O this transport all divine! 
+In a love which cannot cease,
+I am His, and He is mine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Heav'n above is softer blue,
+Earth around is sweeter green;
+Something lives in every hue
+Christless eyes have never seen:
+Birds with gladder songs o’erflow,
+Flow’rs with deeper beauties shine,
+Since I know, as now I know,
+I am His, and He is mine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Things that once were wild alarms
+Cannot now disturb my rest;
+Closed in everlasting arms,
+Pillowed on the loving breast.
+Oh, to lie forever here,
+Doubt and care and self resign,
+While He whispers in my ear,
+I am His, and He is mine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>His forever, only His:
+Who the Lord and me shall part?
+Ah, with what a rest of bliss
+Christ can fill the loving heart.
+Heaven and earth may fade and flee,
+Firstborn light in gloom decline;
+But, while God and I shall be,
+I am His, and He is mine.</lines>
+    </verse>
+  </lyrics>
+</song>

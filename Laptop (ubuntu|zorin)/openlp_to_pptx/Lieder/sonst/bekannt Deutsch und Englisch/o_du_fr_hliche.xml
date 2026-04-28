@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Dec 5, 2019, 5:08:14 PM">
+  <properties>
+    <titles>
+      <title>O du fröhliche</title>
+    </titles>
+    <verseOrder>V1 V2 V3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>O du fröhliche, o du seligie,
+gnaden bringen der Weihnachtszeit!
+Welt ging verloren, Christ ist geboren:
+Freue, freue dich, o Christenheit!</lines>
+    </verse>
+    <verse name="V2">
+      <lines>O du fröhliche, o du seligie,
+gnaden bringen der Weihnachtszeit!
+Christ ist erschienen, uns zu versühnen:
+Freue, freue dich, o Christenheit!</lines>
+    </verse>
+    <verse name="V3">
+      <lines>O du fröhliche, o du seligie,
+gnaden bringen der Weihnachtszeit!
+Himmlische Heere jachzet dir Ehre:
+Freue, freue dich, o Christenheit!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Freedom Reigns</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v3 v7 v8 v9 v10 v11 v3 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Where the spirit of the Lord is
+There is freedom
+Where the spirit of the Lord is
+There is freedom</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lift Your eyes to heaven
+There is freedom
+Lift Your eyes to heaven
+There is freedom</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Freedom reigns in this place
+Showers of mercy and grace
+Falling on every face
+There is freedom</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If You're tired and thirsty
+There is freedom
+If You're tired and thirsty
+There is freedom</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Give Your all to Jesus
+Give him all, there is freedom
+Give Your all to Jesus
+There is freedom</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesus reigns in this place
+Showers of mercy and grace
+Falling on every face
+There is freedom</lines>
+    </verse>
+    <verse name="v7">
+      <lines>My Jesus reigns in this place
+Showers of mercy and grace
+Falling on every face
+There is freedom</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Feel the chains fall away
+Feel the heaviness blown away
+Jesus reigns</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Where the spirit of the Lord is
+There is freedom
+There is freedom
+There is freedom</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Jesus
+You reign
+You reign</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Great is Your faithfulness
+Great is Your faithfulness
+Great is Your faithfulness
+Great is Your faithfulness</lines>
+    </verse>
+  </lyrics>
+</song>

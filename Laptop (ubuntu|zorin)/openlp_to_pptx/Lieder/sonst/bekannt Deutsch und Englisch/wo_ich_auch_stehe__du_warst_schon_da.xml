@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="May 3, 2020, 11:43:55 AM">
+  <properties>
+    <titles>
+      <title>Wo ich auch stehe, du warst schon da</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Wo ich auch stehe, du warst schon da.
+Wenn ich auch fliehe, du bist mir nah.
+Was ich auch denke, du weißt es schon.
+Was ich auch fühle, du wirst verstehn.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Und ich danke dir, dass du mich kennst und trotzdem liebst.
+Und dass du mich beim Namen nennst und mir vergibst.
+Herr, du richtest mich wieder auf,
+und du hebst mich zu dir hinauf.
+Ja, ich danke dir, dass du mich kennst und trotzdem liebst.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Du kennst mein Herz, die Sehnsucht in mir.
+Als wahrer Gott und Mensch warst du hier.
+In allem uns gleich und doch ohne Schuld.
+Du bist barmherzig, voller Geduld.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Ja, ich danke dir, dass du mich kennst und trotzdem liebst.</lines>
+    </verse>
+  </lyrics>
+</song>

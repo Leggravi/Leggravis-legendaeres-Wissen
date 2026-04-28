@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:35">
+  <properties>
+    <titles>
+      <title>Von dir, o Vater, nimmt mein Herz</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Caspar Lavater (1771)</author>
+      <author type="music">Johann Baptista Serranus</author>
+    </authors>
+    <ccliNo>5217113</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Von dir, o Vater, nimmt mein Herz
+Glück, Unglück, Freuden oder Schmerz,
+von dir, der nichts als lieben kann,
+vertrauensvoll und dankbar an.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nur du, der du allweise bist,
+nur du weißt, was mir heilsam ist;
+nur du siehst, was mir jedes Leid
+für Heil bringt in der Ewigkeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ist alles dunkel um mich her,
+die Seele müd und freudenleer,
+bist du doch meine Zuversicht,
+bist in der Nacht, o Gott, mein Licht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verzage, Herz, verzage nie;
+Gott legt die Last auf, Gott kennt sie.
+Er weiß den Kummer, der dich quält,
+und geben kann er, was dir fehlt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wie oft, Herr, weint ich, und wie oft
+half deine Hand mir unverhofft!
+Oft jammert ich untröstbar heut,
+und morgen schon ward ich erfreut.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oft sah ich keinen Ausgang mehr;
+dann weint ich laut und klagte sehr:
+Wo bist du, mein Gott? Schauest du
+denn meinem Elend gar nicht zu?</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Dann hörtest du, o Herr, mein Flehn
+und eiltest, bald mir beizustehn;
+du öffnetest mein Auge mir,
+ich sah mein Glück und dankte dir.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Die Stunde kommt früh oder spät,
+wo Dank und Freud aus Leid entsteht;
+vielleicht dass, eh du ausgeweint,
+dir Gott mit seiner Hilf erscheint.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Und helfen will er, zweifle nicht.
+Er hält getreu, was er verspricht:
+"Nicht lassen will ich, Seele, dich;
+sei guten Mutes, glaub an mich!"</lines>
+    </verse>
+  </lyrics>
+</song>

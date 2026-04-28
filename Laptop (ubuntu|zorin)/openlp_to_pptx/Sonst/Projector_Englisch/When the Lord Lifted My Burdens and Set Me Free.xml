@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When the Lord Lifted My Burdens and Set Me Free</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh! When the Lord
+Lifted my burdens and Set Me free,
+Lifted my burdens soul
+Open my eyes and now I can see
+Praise God I'm from sin set free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I was found in this troubled World,
+Knowing not which way to church,
+Sing happy bound
+But Jesus set me free,
+And took all my sin away.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Since Jesus save me and
+Make me bore,
+There's a rejoicing down in my soul,
+Life is for reaning, each step I take,
+For Jesus leads the way.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Praise God I'm from sin set free.
+Praise God I'm from sin set free.</lines>
+    </verse>
+  </lyrics>
+</song>

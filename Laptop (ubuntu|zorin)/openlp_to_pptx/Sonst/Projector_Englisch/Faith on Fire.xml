@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Faith on Fire</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v6 v6 v7 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na na na na na na na,
+Na na na na na na na,
+Na na na na na na na na,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's an ember, deep within me
+But it's only a little flame
+But my faith keeps growing stronger
+And it won't be long till it starts a blaze</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Set my faith on fire
+That's my one desire
+Make my life a pure and holy flame
+So the world can see
+There's a fire in me
+Burning by the power of your name
+Start a blaze and set my faith,
+Faith on Fire</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If you take one candle and light another
+And then that other does the same
+Before you know it the world will show it
+Burning bright with a holy flame</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We got a message
+We must share it with the world
+Igniting every man, woman, boy and girl</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Set my faith on fire
+That's my one desire
+Make my life a pure and holy flame
+So the world can see
+There's a fire in me
+Burning by the power of your name</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Start a blaze and set my faith,
+Faith on Fire…
+Faith on Fire…</lines>
+    </verse>
+  </lyrics>
+</song>

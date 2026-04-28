@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm Longing for Home</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm only a pilgrim and stranger, in this unfriendly world I roam,
+serving him who has called me from darkness,
+and promised a heavenly home, of his wonderful love I am telling,
+where ever on earth I may be, I'm striving each day to be faithful,
+to the Savior who suffered for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm longing for home, for the sun's going down,
+I want to go where, sweet rest can be found,
+I'm just about through, with this old house of clay,
+I'm leaving this world, for glory someday.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Soon labors on earth will be ended, we'll be leaving this old world for aye,
+we'll leave the dark valley of shadows, for a land that is better they say,
+in the Bible we read of a city, who's builder is Jesus we're told,
+someday this frail tent will be folded, and the beautiful scene shall unfold.</lines>
+    </verse>
+  </lyrics>
+</song>

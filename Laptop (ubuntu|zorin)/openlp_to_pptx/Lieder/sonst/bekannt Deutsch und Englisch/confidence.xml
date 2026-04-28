@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jun 28, 2021, 5:17:23 PM">
+  <properties>
+    <titles>
+      <title>Confidence</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C5 C6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>I'm not a warrior
+I'm too afraid to lose
+I feel unqualified for what you're callin' me to
+But Lord with your strength
+I've got no excuse
+'Cause broken people are exactly who you use</lines>
+    </verse>
+    <verse name="C2">
+      <lines>So, give me faith like Daniel in the lion's den
+Give me hope like Moses in the wilderness
+Give me a heart like David, Lord be my defense
+So, I can face my giants with confidence</lines>
+    </verse>
+    <verse name="V3">
+      <lines>You took a shepherd boy
+And made him a King
+So, I'm gonna trust you and give you everything
+I'll be a conquerer
+'Cause you fight for me
+I'll be a champion claiming your victory</lines>
+    </verse>
+    <verse name="V4">
+      <lines>I'm gonna sing and shout and shake the walls
+I won't stop until I see them fall
+Gonna stand up, step out when you call
+Jesus, Jesus
+I'm gonna sing and shout and shake the walls
+I won't stop until I see them fall
+Gonna stand up, step out when you call
+Jesus</lines>
+    </verse>
+    <verse name="C5">
+      <lines>Give me faith like Daniel in the lion's den
+Give me hope like Moses in the wilderness
+Give me a heart like David, Lord be my defense
+So, I can face my giants with confidence</lines>
+    </verse>
+    <verse name="C6">
+      <lines>Give me faith like Daniel in the lion's den
+Give me hope like Moses in the wilderness
+Give me a heart like David, Lord be my defense
+So, I can face my giants with confidence
+I'll face my giants with confidence</lines>
+    </verse>
+  </lyrics>
+</song>

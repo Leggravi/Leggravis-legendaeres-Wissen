@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>How Precious Is the Promise</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Years of time, are swiftly passing
+Bringing nearer heaven’s goal
+Soon I’ll be at home with Jesus
+While eternal ages roll.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh how precious is the promise
+That with gladness fills my soul
+I shall be at home with Jesus
+While eternal ages roll</lines>
+    </verse>
+    <verse name="v3">
+      <lines>After the last farewells are spoken
+I shall meet my dear
+ones I’ve known
+In the presence of my Saviour
+When we stand before His Throne.</lines>
+    </verse>
+  </lyrics>
+</song>

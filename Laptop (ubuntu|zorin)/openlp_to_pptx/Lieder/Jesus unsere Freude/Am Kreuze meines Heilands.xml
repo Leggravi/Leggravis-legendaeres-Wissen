@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:15">
+  <properties>
+    <titles>
+      <title>Am Kreuze meines Heilands</title>
+    </titles>
+    <authors>
+      <author type="words">Theodor Kübler (1880)</author>
+      <author type="music">Frederick Charles Maker</author>
+    </authors>
+    <ccliNo>5790946</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Am Kreuze meines Heilands, da ist mein sichrer Stand,
+da labt der Allmacht Schatten mich im dürren Wüstenland.
+Hier beut sich mir ein süßes Heim, der Seele Ruhestatt,
+wenn Trübsalshitze ringsum brennt, wenn ich werd müd und matt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O sichre, selge Zuflucht, erprobter Felsengrund,
+wo Gottes Liebe ewig steht mit Gottes Macht im Bund!
+Ich sehe wie ein Jakob einst die Himmelsleiter hier;
+das Kreuz des Heilands zeigt ja klar den Himmelsweg auch mir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hier unter diesem Kreuze verliert der Tod sein Graun;
+in Jesu Wunden, tief und weit, darf ich die Rettung schaun.
+Die Arme hält Er ausgestreckt zu aller Sünder Heil;
+als Himmelsherold weist Er hin nach unserm Erb und Teil.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Da blick ich auf und sehe im Geiste Gottes Lamm,
+wie es für mich geblutet hat und starb am Kreuzesstamm;
+dann muss ich schamerfüllt gestehn: Zwei Wunder ich hier find,
+das Wunder Seiner großen Lieb und meiner großen Sünd.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Im stillen Kreuzesschatten bleib ich fortan allein.
+O Herr, ich will kein andres Licht, Du bist mein Sonnenschein!
+Die ganze Welt mag mir vergehn, ich frage nichts darum.
+Mein eignes Ich sink hin in Schmach, das Kreuz ist all mein Ruhm.</lines>
+    </verse>
+  </lyrics>
+</song>

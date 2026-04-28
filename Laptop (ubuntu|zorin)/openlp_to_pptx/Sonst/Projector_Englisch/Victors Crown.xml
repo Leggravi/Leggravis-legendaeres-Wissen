@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Victor's Crown</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v5 v5 v5 v6 v7 v5 v5 v5 v8 v5 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are always fighting for us
+Heaven's angels all around
+My delight is found in knowing
+That You wear the Victor's crown
+You're my help and my defender
+You're my Savior and my friend
+By Your grace I live and breathe to worship You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>At the mention of Your greatness
+In Your Name I will bow down
+In Your presence fear is silent
+For You wear the Victor's crown
+Let Your glory fill this temple
+Let Your power overflow
+By Your grace I live and breathe to worship You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelujah
+You have overcome
+You have overcome
+Hallelujah
+Jesus, You have overcome the world</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are ever interceding
+As the lost become the found
+You can never be defeated
+For You wear the Victor's crown
+You are Jesus the Messiah
+You're the Hope of all the world
+By Your grace I live and breathe to worship You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Every high thing must come down
+Every stronghold shall be broken
+You wear the Victor's crown
+You have overcome, You have overcome</lines>
+    </verse>
+    <verse name="v6">
+      <lines>At the cross the work was finished
+You were buried in the ground
+But the grave could not contain You
+For You wear the Victor's crown</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hallelujah
+You have overcome
+You have overcome
+Hallelujah
+Jesus, You have overcome</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Every high thing must come down
+Every stronghold shall be broken
+You wear the Victor's crown
+You have overcome</lines>
+    </verse>
+  </lyrics>
+</song>

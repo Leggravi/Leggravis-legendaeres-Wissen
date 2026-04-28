@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Es liegt Kraft in dem Warten auf den Herrn</title>
+    </titles>
+    <authors>
+      <author type="words">Arne Kopfermann</author>
+      <author type="music">Brenton Brown</author>
+      <author type="translation">Everlasting God (Strength Will Rise)</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: Es liegt Kraft in dem Warten auf den Herrn
+Warten auf den Herrn
+Warten auf den Herrn :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Denn Du regierst für immer
+Denn Du bist unser Retter</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du bist der ewig treuer Gott
+der ewig treuer Gott
+Du bleibst dir treu und wirst nicht müde
+Den Schwachen stehst du immer bei
+schenkst Trost und machst uns frei
+Und wir fahr'n auf mit Adlersschwingen</lines>
+    </verse>
+  </lyrics>
+</song>

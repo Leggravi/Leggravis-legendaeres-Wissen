@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Matchless</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your name is matchless
+Your name is priceless
+Your name means more
+Than I could know
+You're so far above me
+The way that You love me
+Goes further than any love could go</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Son of Man Great I Am
+King of Heaven Son of God
+You hold the measure of my days
+Holy Lamb spotless Lamb
+You are worthy I am not
+Before Your throne I stand amazed</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Every tongue confess
+And every knee will bow
+To Jesus Christ the Lord forever
+Hear our praises now</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wonderful Counselor
+Root of David Morning Star
+You are the Way the Truth the Life
+Lion of the tribe of Judah
+Mighty God is who You are
+The only perfect sacrifice</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In Your name You took the blind man
+And You gave him back his sight
+In Your name You took the dead man
+And You brought him back to life
+In Your name You took this prisoner
+And You opened up the doors
+And I will sing before Your throne forever more</lines>
+    </verse>
+  </lyrics>
+</song>

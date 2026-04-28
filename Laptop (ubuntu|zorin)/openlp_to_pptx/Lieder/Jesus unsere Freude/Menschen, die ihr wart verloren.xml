@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:38">
+  <properties>
+    <titles>
+      <title>Menschen, die ihr wart verloren</title>
+    </titles>
+    <authors>
+      <author type="words">Christoph Bernhard Verspoell (1810)</author>
+      <author type="music">Christoph Bernhard Verspoell</author>
+    </authors>
+    <ccliNo>6221768</ccliNo>
+    <themes>
+      <theme>Weihnachten</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Menschen, dir ihr wart verloren,
+lebet auf, erfreuet euch!
+Euch ist Gottes Sohn geboren,
+heut ward er den Menschen gleich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Seht, vom engen Raum beschränket
+liegt die Unermesslichkeit;
+der die Ewigkeiten lenket,
+ist geboren in der Zeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Menschen, liebt, o liebt ihn wieder
+und vergesst der Liebe nie!
+Singt mit Andacht Dankeslieder
+und vertraut, er höret sie.</lines>
+    </verse>
+  </lyrics>
+</song>

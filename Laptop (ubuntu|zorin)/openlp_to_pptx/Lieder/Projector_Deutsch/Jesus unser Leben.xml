@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, unser Leben</title>
+    </titles>
+    <authors>
+      <author type="words">Ernst Christoph Homburg</author>
+      <author type="music">Halle</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Fels, auf dem wir stehn,
+Jesus, Brot, von dem wir leben,
+Jesus, Tür, durch die wir gehn,
+Jesus, unser Leben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, Weg, auf dem wir gehn,
+Jesus, Wahrheit, die wir glauben,
+Jesus, Licht, durch das wir sehn,
+Jesus, unser Leben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Menschensohn, Bruder und Freund,
+Gottes Sohn, Erlöser der Welt,
+auf dem Thron herrschst du in Ewigkeit,
+Jesus, unser Leben.</lines>
+    </verse>
+  </lyrics>
+</song>

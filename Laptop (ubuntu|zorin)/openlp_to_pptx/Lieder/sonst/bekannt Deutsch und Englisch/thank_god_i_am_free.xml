@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 10, 2019, 10:28:15 PM">
+  <properties>
+    <titles>
+      <title>Thank God I Am Free</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>For a long time I travelled
+Down a long lonely road;
+My heart was so heavy in sin I sank low.
+Then I heard about Jesus,
+What a wonderful hour;
+I'm so glad that I found out
+He could bring me out
+Through His saving power.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Thank God I am free, free, free
+From this world of sin.
+Been washed in the blood of Jesus,
+I've been born again.
+Hallelujah, I'm saved, saved, saved
+By His wonderful grace.
+I'm so glad that I found out
+He could bring me out
+And show me the way.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Like a bird out of prison
+That's taken its flight;
+Like a blind man that God
+Gave back his sight.
+Like a poor wretched beggar
+That's found fortune and fame,
+I'm so glad that I found out
+He could bring me out
+Thro' His Holy name.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nothing Like Your Presence</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v2 v3 v2 v2 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's nothing like Your presence, Lord
+All I want is to be with You
+There's nothing like Your presence, Lord
+All I want is to be with You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To be with You
+To be with You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's nothing like Your presence, Lord
+All I want is to worship You
+There's nothing like Your presence, Lord
+All I want is to worship You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There's nothing like Your presence, Lord
+All I want is to be with You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There's nothing like Your presence, Lord
+All I want is to be with You
+There's nothing like Your presence, Lord
+All I want is to worship You</lines>
+    </verse>
+    <verse name="v6">
+      <lines>There's nothing like Your presence, Lord
+All I want is to worship</lines>
+    </verse>
+    <verse name="v7">
+      <lines>You are God and we worship You
+You are God</lines>
+    </verse>
+    <verse name="v8">
+      <lines>And we worship You
+You are God and we worship You</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Said Come to the Waters</title>
+    </titles>
+    <authors>
+      <author type="words">Jodi Page-Clark</author>
+      <author type="music">Jodi Page-Clark</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You said you’d come
+To share all my sorrows
+You said you’d be there,
+For all my tomorrow;
+I came so close to sending you
+away
+But just like you promised
+You came here to stay
+I just had to pray.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And Jesus said come to the
+waters
+Stand by my side,
+I know you’re thirsty
+You won’t be denied
+I felt every tear drop
+When in darkness you cried
+And I strove to remind you,
+That for those tears I died.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your goodness so great,
+I can’t understand,
+And dear Lord I know,
+That all this was planned
+I know you’re here now
+And always will be;
+Your love loosed my chains
+And now I am free
+But Jesus why me?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Saviour I give you
+My life and my soul,
+I know that without God,
+I’d never be whole,
+Saviour you opened all the right
+doors
+And I thank you and praise you
+From earth’s humble shores
+Take me I’m yours.</lines>
+    </verse>
+  </lyrics>
+</song>

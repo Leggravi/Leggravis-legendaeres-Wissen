@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord Lift Me Up</title>
+    </titles>
+    <authors>
+      <author type="words">Mike Guglielmucci</author>
+      <author type="music">Mike Guglielmucci</author>
+      <author type="translation">Du bist hoch erhoben, Herr (Herr der ganzen Welt und aller Himmel)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thy steadfast love oh Lord
+Extends unto the heavens,
+And Thy faithfulness unto the clouds.
+I feel the cold winds of judgement blowing,
+The Northerner is coming,
+The Great White Eagle must appear anytime now.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To lift me up on the seventh mountain,
+Bear me on Your eagle wings so strong.
+Lord, lift me up on the seventh mountain,
+I feel in my heart it's the place where I belong.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In my heart's a desperation,
+An anointed expectation,
+That a paradox must be performed;
+For the deep in me is calling,
+For that super anointing,
+Where divine love and power just
+take supreme control.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>On my ash heap waiting for Your divine promise,
+Your response to my faith in Your Word;
+Still trusting in You my Savior My absolute forever;
+That You'll finish the work in me You have begun.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I'm looking beyond my afflictions
+To a perfect restoration,
+A new body Thou has prepared for me;
+I'm tired of this dimension,
+Of its chaos and confusion,
+A new heaven and a new earth I long to see.</lines>
+    </verse>
+  </lyrics>
+</song>

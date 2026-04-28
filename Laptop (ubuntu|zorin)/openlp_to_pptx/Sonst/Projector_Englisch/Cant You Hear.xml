@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Can't You Hear</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A new day has dawned
+And I know not what it brings
+But somehow I feel
+I'm almost home
+Not turning back to yesterday
+But pressing towards my high calling
+I can hear my theophany calling me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Can't you hear
+Your theophany calling you
+It's a sign it's almost home time
+And I'm just waiting
+For my promised body change
+For soon I know
+We'll be with Him on high</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The whole earth is groaning
+And travailing in pain
+But we as the bride
+Have been glorified in Him
+Saints, even though we may suffer
+Stand, and gird your loins
+For your perfection, draweth near</lines>
+    </verse>
+  </lyrics>
+</song>

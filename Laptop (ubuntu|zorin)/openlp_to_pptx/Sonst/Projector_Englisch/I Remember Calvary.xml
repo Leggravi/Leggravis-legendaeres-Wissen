@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Remember Calvary</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Where He may lead me, I will go,
+For I have learned to trust Him so,
+And I remember'twas for me,
+That He was slain on Calvary.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus shall lead me night and day,
+Jesus shall lead me all the way,
+He is the truest Friend to me,
+For I remember Calvary.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, I delight in His command,
+Love to be lead by His dear hand;
+His divine will is sweet to me,
+Hallowed by blood-stained Calvary.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Onward I go, no doubt, nor fear,
+Happy with Christ my Savior near,
+Trusting that I some day shall see,
+Jesus, my Friend of Calvary.</lines>
+    </verse>
+  </lyrics>
+</song>

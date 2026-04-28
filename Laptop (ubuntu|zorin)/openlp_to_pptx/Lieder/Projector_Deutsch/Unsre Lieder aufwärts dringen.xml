@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Unsre Lieder aufwärts dringen</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Bamberg</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Unsre Lieder aufwärts dringen
+zu Dir, Gott der Liebe, hin.
+Deine Güte zu besingen,
+ist nur Freude, nur Gewinn.
+Deine Gnade machte offen
+uns den Weg zur Herrlichkeit.
+Dorthin dringet unser Hoffen,
+dort liegt unser Teil bereit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja, Dich loben unsre Seelen,
+Gott der Macht und Liebe Du.
+Wer kann Deinen Ruhm erzählen,
+wer ist reich, o Herr, wie Du?
+Lieb' und Güte, Gnad' und Stärke
+sind zu segnen uns vereint,
+leiten uns in jedem Werke,
+bis der Morgenstern erscheint.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du hast Jesus uns gegeben,
+mit Ihm alle Herrlichkeit,
+und Er selbst wird uns erheben
+zu des Himmels ew'ger Freud'.
+Dann, wenn aller Herzen brennen
+in dem Schauen Seiner Pracht,
+werden völlig wir erkennen
+deine Liebe, Gnad' und Macht.</lines>
+    </verse>
+  </lyrics>
+</song>

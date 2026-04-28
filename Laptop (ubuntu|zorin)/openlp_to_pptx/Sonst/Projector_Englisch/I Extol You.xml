@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Extol You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Prince of Peace, Counselor
+Merciful, Son of God
+Lord of hosts, Conqueror
+Coming King, and Everliving God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I extol You, Lord, I extol You
+You are high above the earth,
+All creation shout Your worth
+I extol You, Lord, I extol You
+My Jehovah I extol You</lines>
+    </verse>
+  </lyrics>
+</song>

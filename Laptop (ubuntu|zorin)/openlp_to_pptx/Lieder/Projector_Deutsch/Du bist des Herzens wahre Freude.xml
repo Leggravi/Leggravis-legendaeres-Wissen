@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist des Herzens wahre Freude</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">P. Kurzenwort</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist des Herzens wahre Freude,
+Der Seele reinstes Lebenslicht,
+Bist, Herr, auch meine Lust und Weide,
+Mein Trost und meine Zuversicht.
+Denn alles, was das Herz erquickt,
+Wird, Jesu, nur in Dir erblickt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist mir wunderbar gewogen
+Und bleibest es in Ewigkeit,
+Du hast mich herrlich angezogen
+Mit Deinem Schmuck und Ehrenkleid.
+Du nährest mich mit Himmelsbrot,
+Du tröstest mich in jeder Not.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dein treues Herz kann mich nicht lassen,
+Dein starker Arm bewahret mich,
+Stets wird mich Deine Lieb' umfassen,
+Ich stütze mich, o Herr, auf Dich.
+So lang ich wall' im Fremdlingsort
+Bleibst Du mein Stab, mein Fels, mein Hort.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wir bleiben ewig ungeschieden,
+Es trennet uns kein Kreuz, kein Tod,
+Bald führst Du aus Kampf hienieden
+Mich hin zu Dir aus aller Not.
+Dann wird' ich, was mein Glaube fand,
+Erkennen, wie ich bin erkannt.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>At the Cross (Love Ran Red)</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Armstrong</author>
+      <author type="music">Matt Armstrong</author>
+      <author type="translation">Hier am Kreuz (Welch ein Ort, wo Gnade herrscht)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a place where mercy reigns
+And never dies
+There's a place where streams of grace
+Flow deep and wide
+Where all the love I've ever found
+Comes like a flood
+Comes flowing down</lines>
+    </verse>
+    <verse name="v2">
+      <lines>At the cross, at the cross
+I surrender my life
+I'm in awe of You
+I'm in awe of You
+Where Your love ran red
+And my sin washed white
+I owe all to You
+I owe all to You, Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's a place where sin and shame
+Are powerless
+Where my heart has peace with God
+And forgiveness
+Where all the love I've ever found
+Comes like a flood
+Comes flowing down</lines>
+    </verse>
+    <verse name="v4">
+      <lines>At the cross, at the cross
+I surrender my life
+I'm in awe of You
+I'm in awe of You
+Where Your love ran red
+And my sin washed white
+I owe all to You
+I owe all to You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Here my hope is found
+Here on holy ground
+Here I bow down
+Here I bow down
+Here arms open wide
+Here You save my life
+Here I bow down
+Here I bow down</lines>
+    </verse>
+    <verse name="v6">
+      <lines>At the cross, at the cross
+I surrender my life
+I'm in awe of You
+I'm in awe of You
+Where Your love ran red
+And my sin washed white
+I owe all to You
+I owe all to You
+Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

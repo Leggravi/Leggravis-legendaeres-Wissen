@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Aber der Herr ist immer noch größer</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Schnitter</author>
+      <author type="music">Gerhard Schnitter</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aber der Herr ist immer noch größer, größer als ich denken kann. Er hat das ganze Weltall erschaffen. Alles ist ihm untertan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wellen der Angst kommen auf mich zu, beklemmen und hemmen, nehmen mir die Ruh. Angst vor dem Leben und der Einsamkeit, dem Sterben, dem Alltag und der freien Zeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wellen der Schuld überrollen mich, bedrücken, blockieren und vermehren sich. Schuld durch mein Handeln, Reden und Sein an Gott und dem Nächsten und an mir allein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wellen des Leides fesseln meinen Blick, verdunkeln und lähmen, ziehen mich zurück. Leid durch Entbehrung, Hoffnungslosigkeit, durch Bosheit, durch Gräber und durch Krankheitszeit.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wellen der Sorge strömen durch den Tag; sie treiben und quälen, werden mir zur Plag. Sorge um´s Dasein, um das Lebensglück, um Aufstieg und Ehre und um mein Geschick.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Durch alle Wellen trägt er mich an Land, geborgen, voll Freude fass ich seine Hand. Ist auch das Brausen übermächtig groß: Er geht auf den Wellen, und er lässt mich nicht los.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Denn der Herr ist immer noch größer, als ich denken kann. Er hat das ganze Weltall erschaffen. Alles ist ihm untertan.</lines>
+    </verse>
+  </lyrics>
+</song>

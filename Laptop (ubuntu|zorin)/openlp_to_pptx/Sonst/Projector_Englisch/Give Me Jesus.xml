@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Give Me Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Spiritual</author>
+      <author type="music">Jeremy Camp</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v8 v9 v3 v10 v11 v12 v13 v3 v3 v14</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I don't want anything but You
+You're more than every dream come true
+All of the things I thought I wanted
+Don't come close to knowing You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now that I'm Yours and You are mine
+Our love is the secret that I find
+I'll spend forever in the pleasure
+I found looking in Your eyes</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Give me Jesus
+Give me Jesus
+You can have all this world
+You can have all this world</lines>
+    </verse>
+    <verse name="v4">
+      <lines>More than silver, more than gold
+You are the treasure that I hold
+Now that I've tasted of Your goodness
+Nothing else will satisfy</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Just give me Jesus
+Give me Jesus
+And you can have all this world
+You can have all this world</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Give me Jesus
+Give me Jesus
+And you can have all this world</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Just give me Jesus
+I only want Jesus
+I only want Jesus
+I only want Jesus</lines>
+    </verse>
+    <verse name="v8">
+      <lines>I don't want anyone else
+I don't need anything else
+You are my one thing
+You are my one thing</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Just give me Jesus
+Give me Jesus
+You can have all this world
+You can have all this world</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Oh, and I don't want anyone else
+And I don't need anything else
+'Cause You are my one thing
+You are my one thing
+I don't want anyone else
+And I don't need anything else
+'Cause You are my one thing
+You are my one thing</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Oh, I don't want anyone else
+And I don't need anything else
+'Cause You are my one thing
+You are my one thing
+I don't want anyone else
+And I don't need anything else</lines>
+    </verse>
+    <verse name="v12">
+      <lines>You are my one thing
+You are my one thing
+You are my one thing
+Oh, You are my one thing
+You are my one thing
+You are my one thing</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Oh, You are my one thing
+You are my one thing
+You are my one thing
+Yeah, You are my one thing
+You are my one thing
+You are my one thing
+'Cause You are my one thing
+You are my one thing</lines>
+    </verse>
+    <verse name="v14">
+      <lines>You can have all this world</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O wie unaussprechlich selig</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Samuel Diterich</author>
+      <author type="music">Elberfeld</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O wie unaussprechlich selig
+Werden wir im Himmel sein,
+Wo die Deinen unaufhörlich
+Sich mit Dir, o Jesu, freun'!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ewig fern sind alle Leiden,
+Wenn wir dort verherrlicht stehn'.
+Unser Herz frohlockt mit Freuden,
+Wenn wir Dich, o Jesu, sehn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jedes Auge wird Dich kennen,
+Wird Dich sehen, wie Du bist,
+Jedes Herz in Liebe brennen,
+Dort, wo alles Liebe ist.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dann wird Deiner Heil'gen Menge
+Ein Herz, eine Seele sein.
+Preis und Dank und Lobgesänge
+Werden sie Dir ewig weih'n.</lines>
+    </verse>
+  </lyrics>
+</song>

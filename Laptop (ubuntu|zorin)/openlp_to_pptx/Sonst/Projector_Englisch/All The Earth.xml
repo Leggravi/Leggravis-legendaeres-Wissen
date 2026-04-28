@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All The Earth</title>
+    </titles>
+    <authors>
+      <author type="words">Lothar Kosse</author>
+      <author type="music">Lothar Kosse</author>
+      <author type="translation">Die ganze Welt ist voll von der Herrlichkeit des Herrn</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v1 v2 v5 v4 v3 v4 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father
+Into Your courts I will enter
+Maker of heaven and earth
+I tremble
+In Your holy presence</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glory
+Glory in Your sanctuary
+Splendor and majesty Lord
+Before You
+All life adores You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All the earth will declare
+That Your love is everywhere
+The fields will exalt, seas resound</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hear the trees' joyful cry
+Praising You and so will I
+A new song I'll sing
+Lord I will glorify and bless Your Holy Name</lines>
+    </verse>
+    <verse name="v5">
+      <lines>All the earth will declare
+That Your love is everywhere
+All the fields will exalt, seas resound</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hear the trees' joyful cry
+Praising You and so will I
+A new song I'll sing
+Lord I will glorify and bless Your Holy Name
+Glorify and bless Your Holy Name
+Glorify and bless Your Holy Name</lines>
+    </verse>
+  </lyrics>
+</song>

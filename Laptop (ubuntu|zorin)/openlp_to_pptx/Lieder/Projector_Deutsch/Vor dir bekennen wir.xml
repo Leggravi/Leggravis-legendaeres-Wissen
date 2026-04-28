@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Vor dir bekennen wir</title>
+    </titles>
+    <authors>
+      <author type="words">Hartmut Sünderwald</author>
+      <author type="music">Malcolm du Plessis</author>
+      <author type="translation">We declare Your majesty</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vor dir bekennen wir: Wir sind schwach,
+unendlich schwach, doch du bist stark.
+Mit leeren Händen stehen wir vor deinem Thron und rufen zu dir:
+Wir brauchen Hilfe, Herr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ein Herz voller Demut und zerbrochenheit weißt du niemals ab.
+Dein Herz schlägt für uns mit unendlicher Liebe,
+komm mit deinem Geist erfüll uns ganz, wir schrei'n zu dir:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lass deine Gnade fließen, herab vom Himmel fließen,
+neue Gnade, jeden Tag. Herr, lass sie fließen,
+wir flehen dich an!</lines>
+    </verse>
+  </lyrics>
+</song>

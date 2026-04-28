@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Go Feed My Sheep</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Go search them today,
+On the mountains over hills
+My sheep gone astray,
+So far from their fold
+Go find them and bring them
+And ask me not why
+And I will reward when I come.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Go feed all my sheep,
+my little lambs too, (x3)
+And I will reward you
+when I come.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Upon thine own shoulders,
+Go bring them today,
+And fervently lead those,
+Who have all gone astray,
+Go find them and bring them,
+And ask me not why
+And I will reward when I come.</lines>
+    </verse>
+  </lyrics>
+</song>

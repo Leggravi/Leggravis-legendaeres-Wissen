@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When the Spirit of the Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the Spirit of the Lord
+comes upon my heart,
+When the Spirit of the Lord
+comes upon my heart
+I will dance, like David danced,
+I will dance, like David danced
+When the Spirit of the Lord
+comes upon my heart,
+When the Spirit of the Lord
+comes upon my heart,
+I will dance, like David danced,
+I will dance, like David danced.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will dance, dance,
+Dance like David danced,
+I will dance, dance,
+Dance like David danced,
+I will dance, dance,
+Dance like David danced,
+I will dance, dance,
+Dance like David danced.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the Spirit of the Lord
+comes upon my heart,
+When the Spirit of the Lord
+comes upon my heart,
+I will pray like David prayed,
+I will pray like David prayed,
+When the Spirit of the Lord
+comes upon my heart,
+When the Spirit of the Lord
+comes upon my heart,
+I will pray like David prayed,
+I will pray like David prayed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will pray, pray,
+Pray like David prayed,
+I will pray, pray,
+Pray like David prayed,
+I will pray, pray,
+Pray like David prayed,
+I will pray, pray,
+Pray like David prayed.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When the Spirit of the Lord
+comes upon my heart,
+When the Spirit of the Lord
+comes upon my heart,
+I will sing like David sang,
+I will sing like David sang,
+When the Spirit of the Lord
+comes upon my heart,
+When the Spirit of the Lord
+comes upon my heart,
+I will sing like David sang,
+I will sing like David sang.</lines>
+    </verse>
+  </lyrics>
+</song>

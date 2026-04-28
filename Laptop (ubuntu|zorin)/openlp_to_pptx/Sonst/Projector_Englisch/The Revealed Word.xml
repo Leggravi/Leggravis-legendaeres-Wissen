@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Revealed Word</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Can't you see why
+I'm so happy?
+I have accepted the Word
+of the Lord,
+The revealed Word
+that was spoken,
+By the prophet
+of Malachi 4.</lines>
+    </verse>
+  </lyrics>
+</song>

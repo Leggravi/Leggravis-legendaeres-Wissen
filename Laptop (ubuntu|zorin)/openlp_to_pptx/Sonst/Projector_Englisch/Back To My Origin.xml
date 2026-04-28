@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Back To My Origin</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Back to where I was before
+I never realized
+I existed in the mind of Him
+Who caused the sun to shine
+And taught the birds to sing
+In His presence I am found again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now I live to praise Him
+To worship and adore Him
+I'm back to my origin
+I live in His sight again
+I'm shining like a morning star
+Translated in His majesty
+I'm back to my Origin
+I'm back in His arms again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Trapped and shackled by this world
+I was bound in time
+But now I'm lifted to eternity
+Something's changed in me
+My soul has been set free
+I'm back to where my spirit
+Used to be.</lines>
+    </verse>
+  </lyrics>
+</song>

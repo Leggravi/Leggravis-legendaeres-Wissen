@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>For the Lord Is My Tower</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For the Lord is my Tower
+And he gives me the power
+To turn down the works of the enemy
+In a difficult hour
+He will crush and devourer
+And bring the power of darkness
+Underneath my feet</lines>
+    </verse>
+  </lyrics>
+</song>

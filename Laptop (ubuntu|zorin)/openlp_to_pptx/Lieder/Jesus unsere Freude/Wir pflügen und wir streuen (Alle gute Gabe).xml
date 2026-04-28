@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:01">
+  <properties>
+    <titles>
+      <title>Wir pflügen und wir streuen (Alle gute Gabe)</title>
+    </titles>
+    <authors>
+      <author type="words">Matthias Claudius (1783)</author>
+      <author type="music">Johann Abraham Peter Schulz</author>
+    </authors>
+    <ccliNo>4353810</ccliNo>
+    <themes>
+      <theme>Erntedank</theme>
+      <theme>Erntezeit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir pflügen, und wir streuen
+den Samen auf das Land,
+doch Wachstum und Gedeihen
+steht in des Himmels Hand:
+der tut mit leisem Wehen
+sich mild und heimlich auf
+und träuft, wenn heim wir gehen,
+Wuchs und Gedeihen drauf.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er sendet Tau und Regen
+und Sonn- und Mondenschein,
+er wickelt seinen Segen
+gar zart und künstlich ein
+und bringt ihn dann behende
+in unser Feld und Brot:
+es geht durch unsre Hände,
+kommt aber her von Gott.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Was nah ist und was ferne,
+von Gott kommt alles her,
+der Strohhalm und die Sterne,
+der Sperling und das Meer.
+Von ihm sind Busch und Blätter
+und Korn und Obst von ihm,
+das schöne Frühlingswetter
+und Schnee und Ungestüm.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Er lässt die Sonn aufgehen,
+er stellt des Mondes Lauf;
+er lässt die Winde wehen
+und tut den Himmel auf.
+Er schenkt uns so viel Freude,
+er macht uns frisch und rot;
+er gibt den Kühen Weide
+und unsern Kindern Brot.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Auch Frommsein und Vertrauen
+und stiller, edler Sinn
+ihm flehn und auf ihn schauen,
+kommt alles uns durch ihn.
+Er gehet ungesehen
+im Dorfe um und wacht
+und rührt, die herzlich flehen,
+im Schlafe an bei Nacht.</lines>
+    </verse>
+  </lyrics>
+</song>

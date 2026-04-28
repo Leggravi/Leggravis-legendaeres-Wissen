@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Is Holy Ground</title>
+    </titles>
+    <authors>
+      <author type="words">Christopher Beatty</author>
+      <author type="music">Christopher Beatty</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is Holy ground, we're standing on holy ground,
+For the Lord is here and where He is, is holy,
+This is Holy ground, we're standing on holy ground,
+For the Lord is here and where He is, is holy,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>These are holy hands, we're lifting up holy hands,
+For the Lord is here and where He is, is holy,
+These are holy hands, we're lifting up holy hands,
+For the Lord is here and where He is, is holy,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We are standing, on holy ground,
+And I know that there are Angels all around,
+Let us praise, Jesus Christ,
+We are standing in His presence on holy ground.</lines>
+    </verse>
+  </lyrics>
+</song>

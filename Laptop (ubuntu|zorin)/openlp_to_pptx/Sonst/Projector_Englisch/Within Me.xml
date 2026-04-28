@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Within Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Down here below
+I'm not much at all,
+Down here below
+I really am quite small;
+But within me
+there lives Someone,
+Who made the earth,
+the moon and the sun.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh within me (oh within me),
+There lives Someone (there lives Someone),
+Said, &quot;Let there be,&quot; and it was done.
+Oh, within me (oh within me),
+Though I am small (though I am small),
+There lives a King, the all in all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If Satan tries to lay
+a trap for me,
+I do not fear
+for Jesus said to me,
+&quot;Greater is He that is in thee,
+Than all the lies of the enemy.</lines>
+    </verse>
+  </lyrics>
+</song>

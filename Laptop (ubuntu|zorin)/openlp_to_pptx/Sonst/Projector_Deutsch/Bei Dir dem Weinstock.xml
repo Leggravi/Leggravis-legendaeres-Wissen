@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Bei Dir, dem Weinstock</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Schnitter</author>
+      <author type="music">Gerhard Schnitter</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bei dir dem Weinstock, hilf uns bleiben als die Reben,
+denn nur am Weinstock kann die Rebe leben,
+und nur am Weinstock kann sie Früchte bringen.
+Dein Geist und deine Kraft soll uns durchdringen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich möchte bei dir bleiben in Versuchung,
+auch dann wenn mich die Sünde niederwarf.
+Du lässt uns wieder atmen, schenkst Vergebung.
+Nichts ist so groß, das uns dir nehmen darf.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich möchte bei dir bleiben auch im Zweifel,
+wenn du mir nicht vertrauenswürdig scheinst.
+Herr, dir misstrauen, so rät nur der Teufel,
+du hast am Kreuz bewiesen, wie du’s meinst.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich möchte bei dir bleiben in Verfolgung,
+wenn Angst und Spott und Nöte mich bedrohn.
+Du kannst uns dann auch stärken zur Bewahrung;
+denn du hast selbst erduldet Schmerz und Hohn.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ich möchte bei dir bleiben durch die Jahre,
+wenn ich dein Führen nicht verstehen kann.
+Du willst ja nicht nur einen guten Anfang,
+ans Ziel soll kommen, wer mit dir begann.</lines>
+    </verse>
+  </lyrics>
+</song>

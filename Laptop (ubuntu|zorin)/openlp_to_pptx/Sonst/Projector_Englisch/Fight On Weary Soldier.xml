@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Fight On Weary Soldier</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can see you're in the battle
+Yes the war still rages on
+You don't have to be defeated
+Though you're struggling to hold on
+Oh my brother, my sister
+I am here to stand with you
+You are still an overcomer
+And by faith, you'll make it through.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fight on, fight on
+Through the darkest night when hope
+seems nearly gone
+In the Name of Jesus, the battle will
+be won
+Fight on weary soldier, fight on.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's a Kingdom in the making
+So keep holding to your sword,
+For your weapons are so mighty
+Through the Spirit of the Lord
+Oh be strong and take courage
+He will never let you fall
+In the morning light of victory
+You'll say, &quot;It was worth it all&quot;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fight on, fight on
+Through the darkest night when evil
+rages on
+In the Name of Jesus, the battle will
+be won
+Fight on weary soldier, fight on.</lines>
+    </verse>
+  </lyrics>
+</song>

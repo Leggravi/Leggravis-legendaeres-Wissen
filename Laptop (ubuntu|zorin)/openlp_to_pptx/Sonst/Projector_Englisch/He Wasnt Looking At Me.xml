@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Wasn't Looking At Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He wasn't looking at me,
+When He took me in,
+He wasn't looking at my heart,
+That was black by sin,
+He was looking at the blood
+Flowing rich and free,
+That precious blood, that covers me.</lines>
+    </verse>
+  </lyrics>
+</song>

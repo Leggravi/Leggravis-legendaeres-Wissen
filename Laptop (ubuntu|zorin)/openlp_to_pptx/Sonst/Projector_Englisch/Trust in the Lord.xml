@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Trust in the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Sam Blake</author>
+      <author type="music">Sam Blake</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Trust, trust in the Lord
+Lean not on your
+own understanding
+In all, all of your ways
+Acknowledge Him
+He'll make your path straight</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You'll be my God for life
+I'll walk by Your side
+With Your hand in mine
+I'll go where You lead me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My eyes can only see
+The grounds beneath my feet
+Your dreams are greater
+Your ways are higher
+O Lord, please show me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bless my thoughts
+My dreams, my imaginations
+Step by step
+Your delight, Your creation</lines>
+    </verse>
+  </lyrics>
+</song>

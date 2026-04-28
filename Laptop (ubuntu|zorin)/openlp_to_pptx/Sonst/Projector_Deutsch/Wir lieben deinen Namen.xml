@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir lieben deinen Namen</title>
+    </titles>
+    <authors>
+      <author type="words">Veronika Lohmer</author>
+      <author type="music">Veronika Lohmer</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wunder geschehen wenn du sprichst,
+Alles ist möglich, wenn du hier bist.
+Nichts bleibt wie es ist, weil dein Name unser Leben ist.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir lieben deinen Namen,
+Wir lieben deinen Namen,
+Und wir hören nicht auf,
+Wir hören nicht auf,
+Wir hören nicht auf zu singen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wer einst Bettler war wird reich,
+Und den Kranken schenkst du Heil.
+Waisenkindern reichst du deine Hand und trägst sie heim (so bist bist nur du Herr).
+Wer einst Bettler war wird reich,
+Und den Kranken schenkst du Heil.
+Waisenkindern reichst du deine Hand und trägst sie heim.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wir lieben deinen Namen,
+Wir lieben deinen Namen,
+Und wir hören nicht auf,
+Wir hören nicht auf,
+Wir hören nicht auf zu singen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Es ist recht dich zu lieben Herr!
+Es ist recht dich zu loben Herr!
+Es ist recht dich zu lieben Herr,
+Denn niemand kommt dir gleich.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wir lieben deinen Namen,
+Wir lieben deinen Namen,
+Und wir hören nicht auf,
+Wir hören nicht auf,
+Wir hören nicht auf zu singen.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Und ich werde nicht aufhören,
+Dir zu singen, Herr.
+Bis in alle Ewigkeit.
+Bis in alle Ewigkeit.
+Und ich werde nicht aufhören,
+Dir zu singen, Herr.
+Bis in alle Ewigkeit.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Wir lieben deinen Namen,
+Wir lieben deinen Namen,
+Und wir hören nicht auf,
+Wir hören nicht auf,
+Wir hören nicht auf zu singen.</lines>
+    </verse>
+  </lyrics>
+</song>

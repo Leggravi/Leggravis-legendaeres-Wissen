@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Here to eternity</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your kingdom generation declares Your majesty
+Our lives are resounding with Your praise
+We see Your spirit moving, we burn with holy fire
+And Your glory is seen through all the earth</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You set eternity in my heart
+So I'll live for You, for You, yeah</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelujah, Hallelujah, honor and praise forever
+We'll shout a victory cry from here to eternity
+Hallelujah, Hallelujah, we'll take our place in history
+We'll shout Your awesome love from here to eternity</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You set eternity in my heart
+So I'll live for You, for You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hallelujah, Hallelujah, honor and praise forever
+We'll shout a victory…</lines>
+    </verse>
+  </lyrics>
+</song>

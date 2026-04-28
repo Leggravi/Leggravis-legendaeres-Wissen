@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Still, still, still, weil's Kindlein schlafen will</title>
+    </titles>
+    <authors>
+      <author type="words">Volksweise</author>
+      <author type="music">überliefert</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Still, still, still,
+Weil's Kindlein schlafen will.
+Die Englein tun schön jubilieren,
+Bei dem Kripplein musizieren.
+Still, still, still,
+Weil's Kindlein schlafen will</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Schlaf, schlaf, schlaf,
+Mein liebes Kindlein schlaf!
+Maria tut dich niedersingen
+Und ihr treues Herz darbringen.
+Schlaf, schlaf, schlaf,
+Mein liebes Kindlein schlaf!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Groß, groß, groß,
+Die Lieb' ist übergroß.
+Gott hat den Himmelsthron verlassen
+Und muss reisen auf der Straßen.
+Groß, groß, groß,
+Die Lieb' ist übergroß.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Auf, auf, auf,
+Ihr Adamskinder auf!
+Fallet Jesum all zu Füßen,
+Weil er für uns d'Sünd tut büßen!
+Auf, auf, auf,
+Ihr Adamskinder auf!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wir, wir, wir,
+Wir rufen all zu dir:
+Tu uns des Himmels Reich aufschließen,
+Wenn wir einmal sterben müssen.
+Wir, wir, wir,
+Wir rufen all zu dir.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ruh't, ruh't, ruh't,
+Weil's Kindlein schlafen tut.
+Sankt Josef löscht das Lichtlein aus,
+Die Englein schützen's kleine Haus.
+Ruh't, ruh't, ruh't,
+Weil's Kindlein schlafen tut.</lines>
+    </verse>
+  </lyrics>
+</song>

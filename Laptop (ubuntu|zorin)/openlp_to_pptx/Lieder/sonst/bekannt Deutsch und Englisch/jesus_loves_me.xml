@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 4, 2023, 8:37:51 PM">
+  <properties>
+    <titles>
+      <title>Jesus Loves Me</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2 V5 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Jesus loves me! this I know,
+For the Bible tells me so;
+Little ones to Him belong,
+They are weak but He is strong.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Yes, Jesus loves me,
+Yes, Jesus loves me,
+Yes, Jesus loves me,
+The Bible tells me so.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Jesus loves me! He who died,
+Heaven's gate to open wide;
+He will wash away my sin.
+Let His little child come in.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Jesus loves me! loves me still,
+Though I'm very weak and ill;
+From His shining throne on high,
+Comes to watch me where I lie.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Jesus loves me; He will stay
+Close beside me all the way;
+If I love Him, when I die
+He will take me home on high.</lines>
+    </verse>
+  </lyrics>
+</song>

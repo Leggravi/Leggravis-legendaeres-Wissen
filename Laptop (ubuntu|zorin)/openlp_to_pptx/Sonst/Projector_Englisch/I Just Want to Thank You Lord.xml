@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Just Want to Thank You Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For making the sun to shine, putting the stars in the sky,
+For the flowers that bloom, the ocean so blue, thank you Lord.
+For the sparrow that sing and makes sweet melody,
+For the rivers that flow, the rain and the snow, thank you Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I just want to thank you Lord, I just want to thank you Lord,
+For everything you've done for me thank you Lord.
+I just want to thank you Lord, I just want to thank you Lord,
+For making me whole, saving my soul, thank you Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For my whole family, for the joys you've given to me,
+For the shoes on our feet, plenty to eat, thank you Lord.
+For the church where I worship and pray, for the freedoms I have to today,
+For your Spirit I feel, presence so real, thank you Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For being a friend so dear, giving my sad heart cheer,
+For holding my hand when I could not stand, thank you Lord.
+For giving your life for me, on a cross at Calvary,
+For taking my place, mercy and grace, thank you Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

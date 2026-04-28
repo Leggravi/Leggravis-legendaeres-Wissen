@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:42">
+  <properties>
+    <titles>
+      <title>Nun gehören unsre Herzen</title>
+    </titles>
+    <authors>
+      <author type="words">Friedrich von Bodelschwingh (1938)</author>
+      <author type="music">Richard Lörcher</author>
+    </authors>
+    <themes>
+      <theme>Ostern</theme>
+      <theme>Auferstehung</theme>
+      <theme>Passion</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nun gehören unsre Herzen
+ganz dem Mann von Golgatha,
+der in bittern Todesschmerzen
+das Geheimnis Gottes sah,
+das Geheimnis des Gerichtes
+über aller Menschen Schuld,
+das Geheimnis neuen Lichtes
+aus des Vaters ewger Huld.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nun in heilgem Stilleschweigen
+stehen wir auf Golgatha.
+Tief und tiefer wir uns neigen
+vor dem Wunder, das geschah,
+als der Freie ward zum Knechte
+und der Größte ganz gering,
+als für Sünder der Gerechte
+in des Todes Rachen ging.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Doch ob tausend Todesnächte
+liegen über Golgatha,
+ob der Hölle Lügenmächte
+triumphieren fern und nah,
+dennoch dringt als Überwinder
+Christus durch des Sterbens Tor;
+und die sonst des Todes Kinder,
+führt zum Leben er empor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Schweigen müssen nun die Feinde
+vor dem Sieg von Golgatha,
+die begnadigte Gemeinde
+sagt zu Christi Wegen: Ja!
+Ja, wir danken deinen Schmerzen;
+ja, wir preisen deine Treu,
+ja wir dienen dir von Herzen.
+Ja, du machst einst alles neu!</lines>
+    </verse>
+  </lyrics>
+</song>

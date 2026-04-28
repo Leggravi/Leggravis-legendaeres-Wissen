@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wie ein Fest nach langer Trauer</title>
+    </titles>
+    <authors>
+      <author type="words">Jürgen Werth</author>
+      <author type="music">Johannes Nitsch</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wie ein Fest nach langer Trauer,
+wie ein Feuer in der Nacht.
+Ein offnes Tor in einer Mauer,
+für die Sonne auf gemacht.
+Wie ein Brief nach langem Schweigen,
+wie ein unverhoffter Gruß.
+Wie ein Blatt an toten Zweigen
+ein-ich-mag-dich-trotzdem-Kuss.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So ist Versöhnung,
+so muss der wahre Friede sein.
+So ist Versöhnung,
+so ist vergeben und verzeihn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wie ein Regen in der Wüste,
+frischer Tau auf dürrem Land.
+Heimatklänge für vermisste,
+alte Feinde Hand in Hand.
+Wie ein Schlüssel im Gefängnis,
+wie in Seenot - Land in Sicht.
+Wie ein Weg aus der Bedrängnis
+wie ein strahlendes Gesicht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wie ein Wort von toten Worten Lippen,
+wie ein Blick der Hoffung weckt.
+Wie ein Licht auf steilen Klippen,
+wie ein Erdteil neu entdeckt.
+Wie der Frühling, der Morgen,
+Wie ein Lied wie ein Gedicht.
+Wie das Leben, wie die Liebe,
+Wie Gott selbst das wahre Licht</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/: So ist Versöhnung,
+so muss der wahre Friede sein.
+So ist Versöhnung,
+so ist vergeben und verzeihn. :/</lines>
+    </verse>
+  </lyrics>
+</song>

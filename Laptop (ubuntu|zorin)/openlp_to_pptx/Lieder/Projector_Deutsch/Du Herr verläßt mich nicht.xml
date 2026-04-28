@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du, Herr, verläßt mich nicht</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Johann Georg Bäßler</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du, Herr, verläßt mich nicht.
+Auf Dich mein Herz allein vertraut,
+Mein Auge glaubend auf Dich schaut.
+Du bist mein Heil, mein Licht,
+Mein Fels, mein sichrer Hort.
+Bin ich versucht, gibt's Not und Leid,
+Du bleibst mein Trost, mein Arm im Streit,
+Mein Licht am dunklen Ort.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich weiß, daß Du mich liebst.
+Bist mir in jeder Lage nah',
+Wohin ich gehe – Du bist da,
+Ja, Du mir alles gibst.
+Ich überlaß mich Dir;
+Denn Du, Herr, kennst mich ganz und gar
+Und führst mich sicher, wunderbar,
+Und bist selbst alles mir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In dieser Wüste hier
+Find't nirgend meine Seele Ruh',
+Denn meine Ruh' bist, Jesu, Du.
+Wohl mir, ich geh' zu Dir!
+Bald werd' ich bei Dir sein,
+Bald mit den Deinen ewiglich
+Anbeten, loben, preisen Dich,
+Mich Deiner stets erfreun.</lines>
+    </verse>
+  </lyrics>
+</song>

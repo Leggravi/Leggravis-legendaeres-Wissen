@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The B-I-B-L-E, That's The Book For Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The B-I-B-L-E
+Yes, that’s the book for me
+I stand alone on the Word of God
+The B-I-B-L-E</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sing, Sing, Sing, Sing, Sing and Pray</title>
+    </titles>
+    <authors>
+      <author type="words">Arno Backhaus</author>
+      <author type="music">Arno Backhaus</author>
+      <author type="translation">Sing and pray (Ich schau in mein Leben)</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing, sing, sing, sing, sing and pray (3x) oh what a wonderful day!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I look into my life and I have to say: sing and pray, sing and pray.
+Jesus take my troubles away! sing and pray, sing and pray.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I go to Jesus every day: sing and pray, sing and pray.
+I ask for joy and he says: OK! sing and pray, sing and pray.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I say: My Lord, I want to obey.. sing and pray, sing and pray.
+b’cause I’m blind, I can’t see the way… sing and pray, sing and pray.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I say: “Hey Jesus, make my day!” sing and pray, sing and pray.
+He says: Allright, this is the way…. sing and pray, sing and pray.</lines>
+    </verse>
+  </lyrics>
+</song>

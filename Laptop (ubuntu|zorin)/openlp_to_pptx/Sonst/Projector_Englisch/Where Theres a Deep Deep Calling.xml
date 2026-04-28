@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Where There's a Deep, Deep Calling</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We see the trees in winter
+The green has turned brown and red,
+But there is a promise of spring time,
+When life will be made anew
+It speaks of a resurrection morning
+It shows that Gods Word is true</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where there's a deep deep calling
+There's a deep deep to respond
+Where theres a hope for a city
+Theres a land beyond the sky
+Where theres a yearning, burning
+Just to leave this old world that we know
+There is a King returning
+Coming to take us Home</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gods Son had to die and be buried,
+But in Luther it started to sprout,
+For the work had began drawn forth by the sun,
+The message of faith brought it out,
+Then came the stalk by John Wesley,
+The Holy Ghost made the wheat grow,
+Then the chaff and the wheat separated,
+Gods seventh angels word made this so.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Each one must come to his winter
+But God for His children has said,
+That though they may lay us beneath the cold ground,
+The life that was there isn't there,
+For we have a promise of spring time,
+When life will be made anew
+We’ll leave on the resurrection morning,
+We’ll sail beyond the sun</lines>
+    </verse>
+  </lyrics>
+</song>

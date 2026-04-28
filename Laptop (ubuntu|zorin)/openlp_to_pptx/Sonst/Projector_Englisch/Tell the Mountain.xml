@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Tell the Mountain</title>
+    </titles>
+    <authors>
+      <author type="words">Spiritual</author>
+      <author type="music">Spiritual</author>
+      <author type="translation">Geht, ruft es von den Bergen</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the foothills of sorrow
+Looking up from the valley of fear
+You can see doubt off in the distance
+And you’re about to lose heart right here
+But don’t ever give in don’t ever give up
+God is in you and you’ll overcome</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The mountain will tell you
+That you can’t make it over
+It will try to convince you that it’s way too high
+Though you feel defeated
+Know that God keeps His promise
+So you tell the mountain
+Just how big your God is</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Just try to remember
+All the trials he’s brought you through
+And when his power gave you strength for the journey
+The very hour you needed it to
+So don’t be discouraged
+Cause time after time
+God’s never failed you
+Go on and climb</lines>
+    </verse>
+  </lyrics>
+</song>

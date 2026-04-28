@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>His Grace Was Sufficient for Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>His grace was sufficient for me!
+When in trembling and fear;
+To His side I drew near,
+And He cleansed me from sin,
+Made my heart pure within,
+His grace was sufficient for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For me… for me…
+His grace is sufficient for me…
+For me… for me
+His grace is sufficient for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His grace was sufficient for me!
+And whatever my lot,
+I can hear His Fear not!
+I am safe in His care,
+Who can guard from each snare
+His grace is sufficient for me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>His grace is sufficient for me!
+All my needs He’ll provide,
+And my steps homeward guide;
+And in death I shall sing,
+As I rest neath His wing,
+His grace is sufficient for me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>His grace is sufficient for me!
+When in mansions of bliss,
+Still my theme shall be this;
+And for aye I shall sing
+To the praise of my King
+Whose grace is sufficient for me.</lines>
+    </verse>
+  </lyrics>
+</song>

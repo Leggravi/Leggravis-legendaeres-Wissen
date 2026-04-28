@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm Living On The Mountain</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm living on the mountain
+Underneath a cloudless sky.
+I'm drinking at the fountain
+That never shall run dry.
+I'm feasting on the manna
+From a bountiful supply.
+For I am dwelling in Beulah land.</lines>
+    </verse>
+  </lyrics>
+</song>

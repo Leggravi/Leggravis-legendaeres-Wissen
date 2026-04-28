@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Is All I Have</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From a world, a world of sin and shame
+Jesus brought me out
+And into the light I came;
+Showed me truth so I'll not be deceived,
+His Word I believe,
+Now I live to lift His name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For Jesus all
+He's all that I have to live for
+And even though His way seem hard sometime
+The end's eternal life,
+So I live for Jesus Christ
+So I live for Jesus Christ.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I hold close the opportunity
+That's been given me
+To serve the Lord in my day
+Tell me what could be a greater
+privilege than to serve God in this age
+To walk in His provided way</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We can't live in a world of fantasy
+Of worldy thoughts and dreams
+They will fade away so fast
+But this truth, this Word that sets us free
+is the only reality
+It is the only thing that always shall last.</lines>
+    </verse>
+  </lyrics>
+</song>

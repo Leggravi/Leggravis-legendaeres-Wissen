@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wo nichts ich seh' als eine Wüste</title>
+    </titles>
+    <authors>
+      <author type="words">Julius Anton von Poseck</author>
+      <author type="music">Guillaume Franc</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wo nichts ich seh' als eine Wüste,
+Ein ödes Land, wo Dürre wohnt,
+Ein Meer von Sand, wo keine Küste,
+Nicht Frucht noch Quell den Pilger lohnt,
+Will Gott aus frischem Quell mich laben
+Mit Lebenswasser, hell und klar.
+Aus den Fluten, die kein Ende haben,
+Reicht Er mir stets Erquickung dar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gott selbst will mir den Weg bezeichnen,
+Sein Licht umstrahlt die Schritte mir.
+Er kann sich selber nicht verleugnen,
+Ich geh' mit Ihm – Er geht mit mir.
+Sein reicher Segen fließt verborgen,
+Und nimmer geh' ich kärglich aus,
+Er leitet mich zu ew'gem Morgen,
+Er führt mich heim ins Vaterhaus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zu Kana'ns heißersehnter Wohnung
+Führt Gottes Liebe meinen Fuß,
+Dort zu der sicheren Belohnung,
+Wo auf Entbehrung folgt Genuß,
+Wo im Triumphgesang von allen,
+Die einst getragen Christi Schmach,
+In Zion heil'ge Lieder schallen,
+Von Kummer fern und Weh und Ach.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dort, in den Höfen voller Segen,
+Wo aus der Fremd' ich kehre ein,
+Kommt mir kein fremder Gott entgegen,
+Denn Er ist Gott und Vater mein.
+Die Liebe, die mich dort begrüßet,
+Die mich umgibt mit Herrlichkeit,
+Hat mir die Wüste schon versüßet,
+Hat mich erquickt in dieser Zeit.</lines>
+    </verse>
+  </lyrics>
+</song>

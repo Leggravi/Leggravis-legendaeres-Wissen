@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Die Gemeinde ist gegründet</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Gerhard Wagner</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Die Gemeinde ist gegründet
+auf Dich selbst, Herr Jesus Christ,
+weil Du der Behausung Gottes
+Felsengrund und Eckstein bist.
+Die der Vater Dir gegeben
+aus der Welt zum Eigentum,
+führst Du, trotz des Feindes Wüten,
+siegreich heim zu Deinem Ruhm.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du, der Christus Gottes selber,
+bauest nun Sein geistlich Haus,
+bauest mit lebendgen Steinen,
+führst des Vaters Willen aus,
+das der Tempel Gottes wachse,
+festgefügt nach Seinem Plan,
+wo nach Seinem Wohlgefallen
+nun der Höchste wohnen kann.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Die Gemeinde ist durch Gnade
+aus den Völkern auserwählt
+und vereint zu einem Volke
+als ein Zeugnis für die Welt.
+Sie hat königliche Würde,
+ist ein heilges Priestertum,
+zu verkünden Deine Tugend,
+zu erhöhen Deinen Rum.</lines>
+    </verse>
+  </lyrics>
+</song>

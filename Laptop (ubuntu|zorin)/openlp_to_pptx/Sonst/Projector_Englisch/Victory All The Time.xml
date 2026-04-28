@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Victory All The Time</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Victory, victory blessed blood
+  bought victory,
+Victory, victory, victory all the time,
+As Jehovah liveth, strength divine
+  He giveth,
+Unto those who know Him victory
+  all the time.</lines>
+    </verse>
+  </lyrics>
+</song>

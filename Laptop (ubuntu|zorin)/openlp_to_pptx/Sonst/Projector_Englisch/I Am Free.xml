@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Am Free</title>
+    </titles>
+    <authors>
+      <author type="words">Jon Egan</author>
+      <author type="music">Jon Egan</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am resting on the finished work
+Of Jesus Christ today
+All circumstances will be gone,
+The Word of God will still remain!
+No sickness, fear, no guilt or sin
+Can have control and worry me,
+The keys of faith are in my hands,
+And I am bound for victory!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am free, my new day has come
+Now I can be who I truly am
+I am free, covered by His blood!
+All things are possible with God
+All things are possible with God
+A great commission from my Lord
+I have now received
+The prince of power of the air
+Will never have a part in me
+As amateur creator I
+Can change the atmosphere around
+I use the chain of circumstance
+For any spirits to be bound</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know that Jesus “The I AM” is the same today
+The prophet came to show the Life
+The Bride must have It on display
+The hour has come for Christ in us to be completely glorified
+I want the Spirit to be free
+To do the greater works in me!</lines>
+    </verse>
+  </lyrics>
+</song>

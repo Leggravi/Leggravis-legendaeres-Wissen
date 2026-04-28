@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dear Stay with Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yes, there are times I want to stop serving my Lord
+Forgetting all what Jesus said from day to day
+My mind has told me, what do I get in serving God
+And I’ll be weary and I’ll be sorry throughout the years</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And then I cried, and cried, and cried, thinking of
+Blessings I received,
+The joy and peace He gave to me, from day to day
+With all my heart
+I closed my eyes and then I feel the touch of God
+Is really real
+And Jesus said in simple words, ‘Dear, stay with me. ’</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now, I received and feel the joy and victory
+For Jesus said, ‘I’ll be with you from day to day’,
+Now I am singing, my heart is dreaming in serving God
+And He is risen, and He has liveth deep in my heart.</lines>
+    </verse>
+  </lyrics>
+</song>

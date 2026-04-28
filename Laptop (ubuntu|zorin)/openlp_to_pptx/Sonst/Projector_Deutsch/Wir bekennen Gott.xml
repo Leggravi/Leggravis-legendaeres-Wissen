@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir bekennen Gott</title>
+    </titles>
+    <authors>
+      <author type="words">Manfred Schmidt</author>
+      <author type="music">Graham Kendrick</author>
+      <author type="translation">We believe in God the Father</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir bekennen Gott, den Vater, Schöpfer des gesamten Seins, und den Sohn und Retter Jesus, Gott und Mensch sind in ihm eins.
+Er ward Mensch und brachte Heil uns, trug die Sünde, starb am Kreuz, siegreich ist er auferstanden, sitzt zur rechten Gottes heut!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, Herr der Herrn, Herr der Herrn! (3x)
+Jesus, Herr der Herrn!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Er schenkt seines Geistes Fülle seiner Kirche, kommt mit Macht, sendet uns zu allen Völkern, richtet auf sein Reich in Kraft.
+Er kommt wieder um zu richten, die Toten und die Lebenden. Dann muss jedes Knie sich beugen, jeder Mund bekennen:</lines>
+    </verse>
+  </lyrics>
+</song>

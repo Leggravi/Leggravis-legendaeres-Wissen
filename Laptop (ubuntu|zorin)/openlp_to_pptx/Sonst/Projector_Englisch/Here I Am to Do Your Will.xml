@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Here I Am to Do Your Will</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If You asked me for an offering, I'd give it
+If You wanted sacrifice, I would obey
+But my life is all I have and I will live it
+Dedicated to the honor of Your name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gladly will I bow down as Your servant
+Gladly will I wait for your command
+I commit my trust to You for You deserve it
+I delight within the guidance of Your hand</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Here I am
+And I long to do Your will
+Here I am
+I'll follow Your command
+Here I am
+Until my calling is fulfilled
+Here I am
+Here I am</lines>
+    </verse>
+  </lyrics>
+</song>

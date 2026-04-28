@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Weapons of Our Warfare</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For the weapons
+of our warfare are not carnal,
+But they are mighty, yes,
+they are mighty!
+For the weapons
+of our warfare are not carnal,
+But they are mighty
+through the Holy Ghost.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For they are strong
+through the pulling down
+of strongholds,
+And they are mighty, yes,
+they are mighty!
+For they are strong
+through the pulling down
+of strongholds,
+And they are mighty
+through the Holy Ghost.</lines>
+    </verse>
+  </lyrics>
+</song>

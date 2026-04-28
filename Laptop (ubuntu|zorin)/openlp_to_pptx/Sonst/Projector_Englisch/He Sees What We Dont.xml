@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Sees What We Don’t</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There are times in this life when fear is so heavy
+And burdens weigh on your mind
+You are weak in the knees and no strength can you find
+Just hold on, helps right on time, my Jesus is always on time.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And though you may see a valley
+He sees the mountain you'll be standing on
+When all you can see are the tears falling down
+I'm so glad He sees what we don't.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I've seen his children walk thru the darkest of midnight
+I've witnessed faith put to the test
+And I have watched as the storms flew in with the thunder
+But in each trial He knows what's best
+And I am so glad He knows what's best</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He knows the end from the beginning
+He looks ahead past the hurt and the pain
+To a place where the peace passes all understanding
+He sees the sun thru the rain</lines>
+    </verse>
+  </lyrics>
+</song>

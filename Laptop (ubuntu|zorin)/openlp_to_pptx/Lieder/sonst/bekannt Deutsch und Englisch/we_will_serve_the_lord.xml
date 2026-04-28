@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Mar 9, 2020, 7:38:02 PM">
+  <properties>
+    <titles>
+      <title>We will serve the Lord</title>
+    </titles>
+    <verseOrder>V1 V2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>We will serve the Lord even when trials come
+For none can separate us from the love of God
+We are more than conquerors, no one can defeat us
+We are the chosen generation, we are the sons of God</lines>
+    </verse>
+    <verse name="V2">
+      <lines>We will serve the Lord
+We will serve the Lord
+As for me and my house
+We will serve the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

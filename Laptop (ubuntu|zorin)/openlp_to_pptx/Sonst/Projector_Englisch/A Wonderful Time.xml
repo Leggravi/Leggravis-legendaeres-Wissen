@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>A Wonderful Time</title>
+    </titles>
+    <authors>
+      <author type="words">Paul McCartney</author>
+      <author type="music">Paul McCartney</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A wonderful time is just ahead,
+The Lord whom we love
+and own
+Will open the gates of gloryland
+Revealing His glory throne.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A wonderful time for you,
+a wonderful time for me;
+If we are prepared
+to meet Jesus, the King,
+A wonderful time it will be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A wonderful time is just ahead,
+Our conflicts and trials passed;
+Our wilderness journey at an end,
+Safe home everyone at last.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A wonderful time is just ahead,
+The groans of creation cease;
+And all that is held
+in bondage now
+The Lord will that day release</lines>
+    </verse>
+  </lyrics>
+</song>

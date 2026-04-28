@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Anbetung dir, dem Lamme</title>
+    </titles>
+    <authors>
+      <author type="words">Julius Löwen</author>
+      <author type="music">Melchior Teschner</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Anbetung Dir, dem Lamme,
+Das unsre Sünden trug.
+Dort an des Kreuzes Stamme
+Wardst Du für uns ein Fluch!
+Preis Dir, daß Du gegeben
+In heißer Liebesglut
+Für uns Dein teures Leben
+Und Dein Versöhnungsblut!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wer könnte je ergründen
+Die Tiefen und die Höhn,
+Und wer Verständnis finden
+Von dem, was dort geschehn!
+Du, alles Lebens Quelle,
+Des ew'gen Gottes Sohn,
+Du hast an unsrer Stelle
+Geschmeckt der Sünde Lohn!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Preis und Anbetung bringen
+Wir Dir, o Herr, dafür!
+Von Deiner Liebe singen
+In Schwachheit wir schon hier.
+Was wird es sein, wenn droben,
+In Deiner Herrlichkeit,
+Dich jeder Mund wird loben,
+O Lamm, in Ewigkeit!</lines>
+    </verse>
+  </lyrics>
+</song>

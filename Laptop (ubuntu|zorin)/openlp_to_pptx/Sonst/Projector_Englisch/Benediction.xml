@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Benediction</title>
+    </titles>
+    <authors>
+      <author type="words">John Rutter</author>
+      <author type="music">John Rutter</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>May the Lord Grant you peace
+May his love shine down, love shine down
+And meet, your every need
+And keep your feet from stumbling</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And fix your eyes on the mark, on the prize
+As you go may you rest in Christ
+Receive his grace to love all men
+In spite of all our differences</lines>
+    </verse>
+    <verse name="v3">
+      <lines>May your words be filled with life
+That crumble walls of fear and pride
+Take up the cross to serve the least and the lost
+As you go be the hands of God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cause He is your strength and your victory yeah
+He comes behind you and heals
+He is the cup and the portion your better and shield</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So be released, Be blessed be free
+Live and move as the Spirit breathes
+As you go, Go with God, Go in peace</lines>
+    </verse>
+  </lyrics>
+</song>

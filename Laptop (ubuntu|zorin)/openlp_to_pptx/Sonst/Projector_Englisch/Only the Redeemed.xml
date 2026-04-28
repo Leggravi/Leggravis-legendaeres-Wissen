@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Only the Redeemed</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As I look around me
+In these days we're living in
+I question, how much longer will it be
+Till our God, send the Message
+To the Bride, in this last age
+And we know now
+That our redemption is drawing nigh</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And only the redeemed
+Shall hear His voice on that day
+As he comes in clouds of glory
+To catch His bride away</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The graves will then burst open
+And the dead in Christ will rise
+And we which are alive in Jesus
+Will be changed in the twinkling of an eye</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Up to now, we've been waiting
+for the Bridegroom in His coming
+And the mystr'y of the Godhead shall be known
+And we knew now, in our spirit
+His returning is upon us
+With a shout and God's
+Trumpet we'll be gone</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And we which are alive in Jesus
+Will be changed
+in the twinkling of an eye</lines>
+    </verse>
+  </lyrics>
+</song>

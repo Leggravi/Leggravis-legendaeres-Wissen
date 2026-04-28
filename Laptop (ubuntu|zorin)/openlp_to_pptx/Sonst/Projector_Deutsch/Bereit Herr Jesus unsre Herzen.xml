@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Bereit, Herr Jesus, unsre Herzen</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Guillaume Franc</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bereit', o Jesu, unsre Herzen
+Durch Deinen Geist der Liebe zu,
+Dass unverweilt durch Kampf und Schmerzen
+Wir eilen hin zu Deiner Ruh'.
+Nur Liebe nähret das Verlangen
+Nach Deiner Ankunft sel'gen Freud'.
+O eile Du, uns zu empfangen,
+Dein Kommen endet alles Leid!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Welch glücklich Los, dass wir Dich schauen
+In Deines Vaters Herrlichkeit,
+Mit Dir auf jenen Friedensauen,
+Für immer ruhn von allem Streit!
+Ja, selig sind, die Dir anhangen
+Und warten Dein in dieser Zeit.
+O eile Du, uns zu empfangen,
+Dein Kommen endet alles Leid!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja, eile – rufen, Herr, die Deinen,
+Und ende unsern Pilgerlauf!
+Wie glücklich macht uns Dein Erscheinen!
+O führ' uns bald zu Dir hinauf!
+Ja, komm und stille das Verlangen,
+Erfülle unsre Seligkeit!
+O eile Du, uns zu empfangen,
+Dein Kommen endet alles Leid!</lines>
+    </verse>
+  </lyrics>
+</song>

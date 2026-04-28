@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Still Blessed</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sometimes I wake up in the morning
+I see I made it through the night
+I listen for my family sure enough they're alright
+As we gather round the table
+Bow our heads in thankfulness
+With tear filled eyes my heart cries still blessed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's never a day He doesn't give me all I need
+Even when I wake up to the storm
+My soul cries peace
+Sometimes I try to count them
+They're too many I confess
+So with arms upraised I just say still blessed</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now I don't want to leave my family
+I don't want to leave my friends
+Oh but lately I've been homesick
+How I long just to be with Him
+So in the morning should you find me
+With my eyes closed in death
+Oh what victory, what glory, still blessed</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sometimes I try to count them
+They're too many I confess
+So with arms upraised I just say still blessed</lines>
+    </verse>
+  </lyrics>
+</song>

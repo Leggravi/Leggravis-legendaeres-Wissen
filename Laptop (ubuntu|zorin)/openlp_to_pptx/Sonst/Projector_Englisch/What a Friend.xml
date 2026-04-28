@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What a Friend</title>
+    </titles>
+    <authors>
+      <author type="words">Joseph Medlicott Scriven</author>
+      <author type="music">Charles C. Converse</author>
+      <author type="translation">Welch ein Freund ist unser Jesus</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What a friend we have in Jesus,
+All our sins and griefs to bear!
+What a privilege to carry
+Everything to God in prayer!
+O what peace we often forfeit,
+O what needless pain we bear,
+All because we do not carry
+Everything to God in prayer!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Have we trials and temptations?
+Is there trouble anywhere?
+We should never be discouraged,
+Take it to the Lord in prayer.
+Can we find a friend so faithful,
+Who will all our sorrows share?
+Jesus knows our every weakness,
+Take it to the Lord in prayer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Are we weak and heavy laden,
+Cumbered with a load of care?
+Precious Saviour, still our refuge,
+Take it to the Lord in prayer.
+Do thy friends despise, forsake thee?
+Take it to the Lord in prayer;
+In His arms He’ll take and shield thee,
+Thou wilt find a solace there.</lines>
+    </verse>
+  </lyrics>
+</song>

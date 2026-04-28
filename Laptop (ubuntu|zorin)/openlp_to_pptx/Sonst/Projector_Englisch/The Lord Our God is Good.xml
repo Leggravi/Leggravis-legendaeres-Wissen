@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Lord Our God is Good</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord our God is good
+The Lord our God is great
+The Lord our God is faithful 
+He never changes</lines>
+    </verse>
+  </lyrics>
+</song>

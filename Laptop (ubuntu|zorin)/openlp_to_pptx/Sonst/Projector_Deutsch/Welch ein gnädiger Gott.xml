@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Welch ein gnädiger Gott</title>
+    </titles>
+    <authors>
+      <author type="words">Ken Janz</author>
+      <author type="music">Terry Butler</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Welch ein gnädiger gnädiger gnädiger Gott bist du
+Du bist voll Sanftmut und voll Vergebung.
+Du bringst mich immer an dein Herz.
+Wenn ich dir fern bin bist du mir gnädig,
+du ziehst mir nah an dein Herz</lines>
+    </verse>
+  </lyrics>
+</song>

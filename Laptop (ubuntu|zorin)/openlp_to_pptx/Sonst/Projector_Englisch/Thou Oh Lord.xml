@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thou Oh Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Many are they increased that trouble me,
+Many are they that rise up against me
+Many are they which say of my soul
+There is no hlp for him in God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(But thou Oh! Lord
+Are a shield for me
+My glory and the lifter of my head)*2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I cried unto the Lord with my voie
+And he heard me out of his holy hill
+I laid me down and slept and awaked
+For the Lord sustained, for he sustained me!</lines>
+    </verse>
+  </lyrics>
+</song>

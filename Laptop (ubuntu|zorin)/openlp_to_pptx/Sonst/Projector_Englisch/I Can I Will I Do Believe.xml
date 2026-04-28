@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Can, I Will, I Do Believe</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can, I will, I do believe,
+I can, I will, I do believe;
+I can, I will, I do believe
+That Jesus heals me now.
+ (I'm trusting only in the Lord…)</lines>
+    </verse>
+  </lyrics>
+</song>

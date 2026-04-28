@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Closer/ Wrap Me in Your Arms</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Into your arms
+I'm drawing near again
+To dwell with you
+It's my only heart's desire
+It's my only heart's desire</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All I can do
+Is fall on my knees and cry
+Cleanse me with fire
+And purify my heart
+And purify my heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Draw me close
+Closer than before
+Closer than I've ever been</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wrap me in your arms
+Wrap me in your arms
+Wrap me in your arms, oh God</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So take me to that place Lord
+To that secret place where
+I can be with you
+You can make me like you</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wrap me in your arms
+Wrap me in your arms
+Wrap me in your arms
+You might also like
+Wrap me in your arms</lines>
+    </verse>
+  </lyrics>
+</song>

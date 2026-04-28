@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Danket dem Herrn, denn er ist freundlich</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Schnitter</author>
+      <author type="music">Gerhard Schnitter</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Danket dem Herrn, denn er ist freundlich
+seine Güte währet es ewiglich.
+Danket dem Herrn, denn er ist freundlich
+seine Güte währet es ewiglich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sie währet ewiglich, sie währet ewiglich,
+Sie währet ewiglich, sie währet ewiglich,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dank sei dir Herr, denn du bist freundlich
+und deine Güte währet ewiglich.
+Dank sei dir Herr, denn du bist freundlich
+und deine Güte währet ewiglich.</lines>
+    </verse>
+  </lyrics>
+</song>

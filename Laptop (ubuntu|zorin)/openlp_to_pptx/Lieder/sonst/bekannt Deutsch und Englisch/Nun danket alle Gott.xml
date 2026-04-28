@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:05:20">
+  <properties>
+    <titles>
+      <title>Nun danket alle Gott</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Rinckart (1636)</author>
+      <author type="music">Leipzig</author>
+    </authors>
+    <ccliNo>4335364</ccliNo>
+    <themes>
+      <theme>Dank</theme>
+      <theme>Lob</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nun danket alle Gott
+mit Herzen, Mund und Händen,
+der große Dinge tut
+an uns und allen Enden,
+der uns von Mutterleib
+und Kindesbeinen an
+unzählig viel zugut
+bis hierher hat getan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Der ewigreiche Gott
+woll' uns bei unserm Leben
+ein immer fröhlich Herz
+und edlen Frieden geben
+und uns in seiner Gnad
+erhalten fort und fort
+und uns aus aller Not
+erlösen hier und dort.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lob, Ehr und Preis sei Gott
+dem Vater und dem Sohne
+und Gott dem Heilgen Geist
+im höchsten Himmelsthrone,
+ihm, dem dreiein'gen Gott,
+wie es im Anfang war
+und ist und bleiben wird
+so jetzt und immerdar.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Marriage Prayer</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v3 v3 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father, I said till
+Death do us part
+I want to mean it
+With all of my heart
+Help me to love You
+More than I love her
+Then I know I can
+Love her more
+Than anyone else</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And bring her in
+Your presence today
+Make her what
+You want her to be</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I pray to hear her heart
+I pray she'll love You more
+I pray to cherish and serve her
+And we'll bring You glory today, I pray</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Father, I said till
+Death do us part
+I want to mean it
+With all of my heart</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Help me to love You
+More than I love him
+Then I know I can
+Love him more
+Than anyone else</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And bring him in
+Your presence today
+Make him what
+You want him to be</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I pray to hear his heart
+I pray he'll love You more
+I pray to cherish and serve him
+And we'll bring You glory today, I pray</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Lord, help me love her
+As You love the church, Your bride
+Help me submit to him
+As I submit to You, my life</lines>
+    </verse>
+    <verse name="v9">
+      <lines>This is my prayer Amen</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Is Anyone Thirsty? Steve Kuban</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Is anyone thirsty, Anyone,
+Is anyone thirsty, Anyone,
+Is anyone thirsty, Anyone,
+Is anyone thirsty.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus said,
+&quot;Let them come to me and drink,
+Let them come to me.&quot;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/: Let the living water flow,
+Let the living water flow,
+Let the river of your Spirit
+flow through me. :/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let the living water flow,
+Let the living water flow,
+Let the living water flow,
+Let the living water flow.</lines>
+    </verse>
+  </lyrics>
+</song>

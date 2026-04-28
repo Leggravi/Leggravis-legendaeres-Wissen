@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let the Worshipers Arise (Bride Version)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father, I see a bride rejoicing
+In the song of victory
+every scheme of death is broken
+They have been set free
+Satan's Kingdom is defeated
+Let our worship ring
+Praise to our Lord, Glory to our King</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let the worshippers arise
+Let the sons and the daughters sing
+I'm surrendering my all
+I surrender to the King</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Father I see a bride in Power
+With full Authority
+She is claiming every promise
+And believing what she speaks
+Every weapon formed against her
+Has fallen at her feet
+Oh hear her praise, to the King of kings</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Know I’m Saved</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I once was sad and lonely,
+I felt so all alone
+Until I asked the Lord to take control
+He gave me an answer,
+and said that I was set free
+He cleansed my heart
+and really blessed by soul.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know I’m saved
+I know I’m saved
+I’m filled with the Holy Spirit
+deep inside
+I know I’m saved
+I know I’m saved
+I’ll always Keep my Saviour
+by my side.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I want to live for Jesus
+and tell of His great love
+And thank Him for my blessings
+every day
+He gave me sweet contentment
+and filled my heart with joy
+And now in His loving kindness
+I shall stay.</lines>
+    </verse>
+  </lyrics>
+</song>

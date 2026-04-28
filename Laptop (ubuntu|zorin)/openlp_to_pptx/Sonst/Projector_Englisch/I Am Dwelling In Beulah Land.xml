@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Am Dwelling In Beulah Land</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Far away the noise of strife
+upon my ear is falling,
+Then I know the sins of earth
+beset on every hand
+Doubt and fear and things
+of earth in vain to me are calling
+None of these shall move
+me from Beulah land.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm living, on the mountain,
+underneath a cloudless sky
+I’m drinking at the fountain
+that never shall run dry
+Oh yes I’m feasting, on the manna
+from a bountiful supply
+For I am dwelling in Beulah land.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Far below the storm of doubt
+upon the world’s beating
+Sons of men in battle long
+the enemy withstand Safe am I
+within the castle of God’s Word retreating.
+Nothing then can reach
+me in Beulah land.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let the stormy breezes blow,
+their cry cannot alarm me
+I am safely sheltered here
+protected by God’s hand
+Here the sun always shining,
+here there’s naught can harm me.
+I am safe forever in Beulah land.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Viewing here the works of God,
+I sink in contemplation
+Hearing now his blessed voice,
+I see the way He planned
+Dwelling in the spirit here,
+I learn of full salvation
+Gladly will I tarry in Beulah land.</lines>
+    </verse>
+  </lyrics>
+</song>

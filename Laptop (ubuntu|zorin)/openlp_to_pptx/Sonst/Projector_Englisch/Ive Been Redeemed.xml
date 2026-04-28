@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I’ve Been Redeemed</title>
+    </titles>
+    <authors>
+      <author type="words">Wendy O’Connell</author>
+      <author type="music">Wendy O’Connell</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’ve been redeemed, by the blood
+of the Lamb
+I’ve been redeemed
+(I’ve been redeemed)
+By the blood of the Lamb
+I’ve been redeemed by the blood
+of the Lamb
+Saved and sanctified I am
+All my sins are under the blood
+I’ve been redeemed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And that’s not all (and that’s not all)
+There’s more beside (there’s more beside)
+And that’s not all there’s more beside
+I’ve been to the river and been baptized
+In the name of Jesus Christ
+I’ve been redeemed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My Lord and I (my Lord and I)
+We’ve got so close (we’ve got so close)
+My Lord and I we’ve got so close
+My Lord and I we’ve got so close
+He baptized me with the Holy Ghost
+All my sins are under the blood
+I’ve been redeemed.</lines>
+    </verse>
+  </lyrics>
+</song>

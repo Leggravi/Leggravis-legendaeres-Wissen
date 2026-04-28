@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:48">
+  <properties>
+    <titles>
+      <title>Jesu, schenk mir wahre Liebe</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt (1930)</author>
+      <author type="music">Herrnhaag</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesu, schenk mir wahre Liebe,
+die nicht bloß im Wort besteht,
+sondern die ich täglich übe,
+die von ganzem Herzen geht!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Liebe ist ein klares Zeichen,
+dran man Jesu Jünger kennt;
+wo die ist, muss alles weichen,
+was sonst leicht die Herzen trennt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Liebe deckt der Sünden Menge,
+hilft zurechte jederzeit;
+sie ist niemals scharf und strenge,
+nein, stets voll Gelindigkeit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Liebe kann auch alles dulden,
+wenn ihr Unrecht gleich geschehn;
+sie vergibet gern die Schulden,
+denn sie kann auf Jesus sehn.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Liebe lässt sich nie ermüden,
+wenn sie viel zu wirken hat,
+sucht und stiftet immer Frieden,
+dienet gern mit Rat und Tat.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Liebe wird auch nicht aufhören,
+denn sie währt in Ewigkeit;
+da kann sie kein Feind mehr stören,
+da wird sie Vollkommenheit.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Darum, Jesu, schenk mir Liebe,
+die vor deinem Geist besteht,
+Liebe, die ich täglich übe,
+die von ganzem Herzen geht!</lines>
+    </verse>
+  </lyrics>
+</song>

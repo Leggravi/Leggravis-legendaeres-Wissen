@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let the Rain of You Presence</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the rain of Your presence fall on me
+Everyday that I live
+With every breathe I breathe
+Let the rain of Your presence fall on me
+Everywhere that I go
+Lord let Your presence flow
+Rain on me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord Divine, Joy unspeakable
+Overflow, Within my soul
+This heart of mine
+Is refreshed and at rest
+In Your presence</lines>
+    </verse>
+  </lyrics>
+</song>

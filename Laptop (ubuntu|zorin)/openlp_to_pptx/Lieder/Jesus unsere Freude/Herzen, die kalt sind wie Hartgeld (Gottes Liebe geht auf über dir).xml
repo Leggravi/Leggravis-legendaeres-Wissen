@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:48">
+  <properties>
+    <titles>
+      <title>Herzen, die kalt sind wie Hartgeld (Gottes Liebe geht auf über dir)</title>
+    </titles>
+    <authors>
+      <author type="words">Theo Lehmann (1983)</author>
+      <author type="words">Jörg Swoboda (1983)</author>
+      <author type="music">Hella Heizmann</author>
+    </authors>
+    <ccliNo>5132535</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herzen, die kalt sind wie Hartgeld,
+Herzen, die hart sind wie Stein,
+soll'n wieder Herzen werden,
+soll'n wieder Herzen sein!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fäuste, die drohen und schlagen,
+Fäuste, die roh und gemein,
+soll'n wieder Hände werden,
+soll'n wieder Hände sein!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Augen, die falsch sind wie Schlangen,
+Augen, die kalt sind und klein,
+soll'n wieder Augen werden,
+soll'n wieder Augen sein!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Menschen, die starr sind wie Eisen,
+Menschen, die niemals verzeihn,
+soll'n wieder Menschen werden,
+soll'n wieder Menschen sein!</lines>
+    </verse>
+  </lyrics>
+</song>

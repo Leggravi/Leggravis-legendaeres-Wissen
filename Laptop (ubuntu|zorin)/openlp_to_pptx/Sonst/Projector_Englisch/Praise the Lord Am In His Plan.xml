@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Praise the Lord Am In His Plan</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise the Lord, He knows my name
+All that I have is His to control
+Praise the Lord am in His plan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He knew me before I knew Him
+He knew just what I’ll go through
+He wrote my name in the
+Lamb’s Book of Life
+Praise the Lord, am in His plan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He had a good plan of my life
+Before I thought of having one
+He took me out of denominational
+chains
+Praise the Lord am in His plan.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Praise the Lord, I am in His plan
+No matter what may come on my way
+With the world falling He’ll hide
+me in His land
+Praise the Lord, am in His plan.</lines>
+    </verse>
+  </lyrics>
+</song>

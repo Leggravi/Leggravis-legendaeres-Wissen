@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Shout to the King</title>
+    </titles>
+    <authors>
+      <author type="words">David Fellingham</author>
+      <author type="music">David Fellingham</author>
+      <author type="translation">Ruft es laut und singt den Lobgesang des Herrn</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v2 v2 v3 v2 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I give you praise for you deserve it
+I give you praise for what you've done
+I give you praise for you are able
+I'll give you praise till I overcome
+I give you praise when the sun is shining
+I give you praise in the dark of night
+I give you praise when the battle rages
+I give you praise'til it works out right</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The shout of the king is among us
+God lives here in our praises
+The shout of the king is among us
+Praise him
+Praise him
+Praise him in everything</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Heaven opens as we sing your praise
+Angels join us as we praise your name
+Heaven opens as we sing your praise
+Angels join us as we praise your name</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Praise him (praise him)
+Praise him (praise him)
+Praise him (praise him)
+Praise him in everything (praise him in everything)</lines>
+    </verse>
+  </lyrics>
+</song>

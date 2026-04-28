@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In Moments Like These</title>
+    </titles>
+    <authors>
+      <author type="words">David Graham</author>
+      <author type="music">David Graham</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v3 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In moments like these, I sing out a song
+I sing out a love song to Jesus
+In moments like these, I lift up my hands
+I lift up my hands to the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Singing, &quot;I love You, Lord&quot;
+Singing, &quot;I love You, Lord&quot;
+Singing, &quot;I love You, Lord&quot;
+I love You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In moments like these, I sing out a song
+I sing out a love song to Jesus
+In moments like these (la la-la la, la), I lift up my hands
+I lift up my hands to the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

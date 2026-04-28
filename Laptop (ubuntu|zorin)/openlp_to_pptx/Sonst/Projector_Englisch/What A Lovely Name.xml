@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What A Lovely Name</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What a lovely name,
+The name of Jesus
+Reaching higher far
+Than the brightest star.
+Sweeter than the songs
+They sing in heaven.
+Let the saints proclaim,
+What a lovely name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Soon He'll come in clouds of glory
+Saints of every race
+Shall behold His face.
+With Him enter heaven's city,
+Ever to acclaim, what a lovely name.</lines>
+    </verse>
+  </lyrics>
+</song>

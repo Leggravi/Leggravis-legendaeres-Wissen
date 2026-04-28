@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, Du schaust in Gnaden nieder</title>
+    </titles>
+    <authors>
+      <author type="words">Rudolf Brockhaus</author>
+      <author type="music">Andreas Stoll</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, Du schaust in Gnaden nieder
+Auf die Deinen allezeit,
+Breitest segnend Deine Hände
+Über sie in Kampf und Leid.
+Seelenspeise für die Reise
+Reichst Du unermüdlich dar,
+Schenkest auch zur Pilgerschaft
+Licht und Weisheit, Mut und Kraft.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All die Schäflein Deiner Herde
+Leitest Du in Lieb' und Huld,
+Lagerst sie auf grüner Weide,
+Hebst und trägst sie mit Geduld.
+Segnest immer, lässt sie nimmer,
+Schirmest sie vor Satans List,
+Bleibst ihr fester, starker Hort,
+Lehrst sie durch Dein teures Wort.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lenke auch in dieser Stunde
+Unsre Herzen, Herr, zu Dir!
+Tröste, lehre, nähre, pflege,
+Gib, was not ist, jedem hier!
+Und in Frieden sei beschieden
+Uns auch jetzt das gute Teil.
+Lass uns wie Maria tun,
+Still zu Deinen Füßen ruhn!</lines>
+    </verse>
+  </lyrics>
+</song>

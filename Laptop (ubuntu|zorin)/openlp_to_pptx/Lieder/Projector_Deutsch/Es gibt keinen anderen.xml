@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Es gibt keinen anderen</title>
+    </titles>
+    <authors>
+      <author type="words">Lothar Gassmann</author>
+      <author type="music">Lothar Gassmann</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es gibt keinen ändern, den ich verehr
+es gibt keinen zweiten, den ich begehr!
+Du allein sollst es sein, der mein Herz betört
+und dem mein Leben gehört!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Denn ich weiss, dass mein Erlöser lebt,
+mein Freund der immer zu mir steht.
+Deine Lieb, die ich kaum beschrieben kann,
+Zieht mich in deinen Bann.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, ich liebe dich.
+Was wär ich ohne dich.
+Du machst mein Leben reich.
+du machst mich glücklich!</lines>
+    </verse>
+  </lyrics>
+</song>

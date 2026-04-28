@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh am Kreuz</title>
+    </titles>
+    <authors>
+      <author type="words">Mia Friesen</author>
+      <author type="music">Mia Friesen</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Endlose Gnade, neu jeden Tag.
+Ich fand Vergebung, als ich Jesus traf.
+War völlig verloren und suchte den Weg.
+Was ich selbst nicht konnte, tat Jesus für mich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh am Kreuz da hat der Tod,
+Sein Recht auf mich verloren.
+Freigesprochen durch den Sohn,
+Fängt ein neues Leben in mir an.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Es ist so viel leichter, ohne die Last.
+Alle Verdammnis, nahm Jesus mir ab.
+In all meinen Kämpfen, hat er schon gesiegt.
+Sein Sieg ist auch meiner, weil er in mir lebt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich sing Hallelu-ja, dem der für mich starb.
+Ich sing Hallelu-ja, drei Tage lag er in dem Grab.
+Hallelu-ja, weil er nicht dort blieb.
+Ich sing Hallelu-ja, Jesus hat den Tod besiegt.</lines>
+    </verse>
+  </lyrics>
+</song>

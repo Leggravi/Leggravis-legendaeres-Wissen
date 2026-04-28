@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He's Been There</title>
+    </titles>
+    <authors>
+      <author type="words">Ray Hildebrand</author>
+      <author type="music">Ray Hildebrand</author>
+      <author type="translation">Er ist wunderbar</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You feel alone and forsaken
+And all by yourself
+Your problems are many
+There are no answers to help
+You've tried hard to manage
+And you feel no one cares
+But there's someone to help you
+Because He's been there</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He prayed alone in the garden
+While the others slept,
+Jesus talked to His Father
+Tears flowed as He wept,
+In His heart wеre words of wisdom
+'Cause He knеw someone cared
+He daily reminds
+&quot;You're not alone, I've been there&quot;.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He's been there before you
+Understands how you feel
+He walked in your same shoes
+And obeyed His Father's will,
+You'll never have to wonder
+If He really cares
+His Word won't ever fail you
+Because He's been there</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When Satan tries to tempt you
+And bring you much pain,
+Don't let him fool you
+And bring your life shame
+Forty days Jesus talked
+To His Father in prayer
+Three times Satan tempted
+Yet Jesus never failed.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He's been there before you
+Understands how you feel
+He walked in your same shoes
+And obeyed His Father's will
+You'll never have to wonder
+If He really cares
+His Word won't ever fail you
+Because He's been there
+No, His Word won't ever fail you
+Because He's been there</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Covenant – v2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let me walk with you,
+As I journey to this life
+Searching for a meaning
+as each moment passes by
+Let the hand of time be
+like footprints in the sand
+As I carry you from the
+dawn to setting sun…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With just one hand we
+can travel far together
+One's life sharing in love
+I will hold you forever
+Yes, I love you with all my life…</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There'll be many crossroads
+as we walk along the way
+There'll be many questions
+as we live life day by day
+This will never matter if the
+Lord will always be there
+He will surely find the
+answers 'coz He cares</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yes, I love you with all my life…
+Yes, I love you with all my life…</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Thanks and God Bless</lines>
+    </verse>
+  </lyrics>
+</song>

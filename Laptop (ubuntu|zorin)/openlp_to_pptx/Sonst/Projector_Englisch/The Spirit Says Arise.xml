@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Spirit Says Arise</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The voice of God,
+Almighty Warrior, declaring war.
+Hear His command,
+You are a chosen generation,
+a mighty force in the land.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All of creation now is waiting
+to see the righteous take their stand;
+moving out in His anointing,
+fulfilling God's eternal plan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Arise, this is the final hour.
+Arise, you soldiers of the King.
+Arise, put on your holy armor.
+No, the gates of hell will not prevail;
+so arise, the spirit says arise.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The army of God is now assembled,
+a people filled with power and might.
+The time is now no hesitation,
+take up your swords, stand up and fight.</lines>
+    </verse>
+  </lyrics>
+</song>

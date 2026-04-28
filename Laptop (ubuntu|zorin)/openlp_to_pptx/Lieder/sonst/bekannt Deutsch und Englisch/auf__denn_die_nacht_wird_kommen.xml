@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Nov 12, 2019, 8:55:20 PM">
+  <properties>
+    <titles>
+      <title>Auf, denn die Nacht wird kommen</title>
+    </titles>
+    <verseOrder>V1 V2 V3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Auf, denn die Nacht wird kommen,
+auf mit dem jungen Tag!
+Wirket am frühen Morgen,
+eh's zu spät sein mag!
+Wirket im Licht der Sonnen,
+fanget beizeiten an!
+Auf, denn die Nacht wird kommen,
+da man nicht mehr kann.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Auf, denn die Nacht wird kommen,
+auf, wenn es Mittag ist!
+Weihet die besten Kräfte
+dem Herrn Jesus Christ!
+Wirket mit Ernst, ihr Frommen,
+gebt alles andre dran!
+Auf, denn die Nacht wird kommen,
+da man nicht mehr kann.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Auf, denn die Nacht wird kommen,
+auf, wenn die Sonne weicht!
+Auf, wenn der Abend mahnet,
+wenn der Tag entfleucht!
+Auf, bis zum letzten Zuge,
+wendet nur Fleiß daran!
+Auf, denn die Nacht wird kommen,
+da man nicht mehr kann.</lines>
+    </verse>
+  </lyrics>
+</song>

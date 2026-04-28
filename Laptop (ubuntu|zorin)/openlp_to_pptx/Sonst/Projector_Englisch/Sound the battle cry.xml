@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sound the battle cry</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sound the battle cry! See, the foe is nigh;
+Raise the standard high for the Lord;
+Gird your armor on, stand firm every one;
+Rest your cause upon His holy Word.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rouse, then, soldiers, rally round the banner,
+Ready, steady, pass the word along;
+Onward, forward, shout aloud, &quot;Hosanna!&quot;
+Christ is captain of the mighty throng.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Strong to meet the foe, marching on we go,
+While our cause we know must prevail;
+Shield and banner bright, gleaming in the light,
+Battling for the right we ne'er can fail.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Thou God of all, hear us when we call,
+Help us one and all by Thy grace;
+When the battle's done, and the vict'ry's won,
+May we wear the crown before Thy face</lines>
+    </verse>
+  </lyrics>
+</song>

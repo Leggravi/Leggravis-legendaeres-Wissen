@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I will sing</title>
+    </titles>
+    <authors>
+      <author type="words">Sebastian Cuthbert</author>
+      <author type="music">Sebastian Cuthbert</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord You seem so far away,
+A million miles or more it feels today.
+And though I haven't lost my faith,
+I must confess right now
+That it's hard for me to pray,
+But I don't know what to say,
+And I don't know where to start.
+But as You give the grace
+With all that's in my heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will sing, I will praise.
+Even in my darkest hour
+Through the sorrow and the pain
+I will sing, I will praise,
+Lift my hands to honor You
+Because Your Word is true
+I will sing.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord it's hard for me to see
+All the thoughts and plans You have for me
+But I put my trust in You
+Knowing that You died to set me free.
+But I don't know what to say,
+And I don't know where to start.
+But as You give the grace
+With all that's in my heart.</lines>
+    </verse>
+  </lyrics>
+</song>

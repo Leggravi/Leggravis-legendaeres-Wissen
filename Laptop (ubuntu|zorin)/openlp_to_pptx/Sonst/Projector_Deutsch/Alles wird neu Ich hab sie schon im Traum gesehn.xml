@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Alles wird neu (Ich hab sie schon im Traum gesehn)</title>
+    </titles>
+    <authors>
+      <author type="words">Werner Arthur Hoffmann</author>
+      <author type="music">Werner Arthur Hoffmann</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich hab sie schon im Traum gesehn:
+Gottes neue Welt.
+Sie leuchtete unglaublich schön:
+Gottes neue Welt.
+Wie eine Stadt aus Gold gebaut,
+wie eine schön geschmückte Braut
+ist Gottes neue Welt, seine Welt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Und wir werden dort leben, immer nur leben,
+ohne Ende, ohne Zeit. Leben, immer nur leben,
+bis in alle Ewigkeit. Leben, immer nur leben,
+ohne Abschied, endlich frei.
+Und der Tod hat keine Macht. Alles wird neu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So wie ein schöner Edelstein
+ist Gottes neue Welt.
+Ein Diamant, so klar und rein,
+ist Gottes neue Welt.
+Die alte Erde wird vergehn
+und endlich werden wir sie sehn:
+Gottes neue Welt. Gottes neue Welt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und wir werden dort leben, immer nur leben,
+ohne Ende, ohne Zeit. Leben, immer nur leben,
+bis in alle Ewigkeit. Leben, immer nur leben,
+ohne Abschied, endlich frei.
+Und der Tod hat keine Macht. Alles wird neu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sie leuchtet hell, vertreibt die Nacht,
+Gottes neue Welt.
+Denn Gott hat alles gut gemacht
+in seiner neuen Welt.
+Er selber strahlt in ihr als Licht
+und wir sehn staunend sein Gesicht
+in seiner neuer Welt, in seiner neuer Welt.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Und wir werden dort leben, immer nur leben,
+ohne Ende, ohne Zeit. Leben, immer nur leben,
+bis in alle Ewigkeit. Leben, immer nur leben,
+ohne Abschied, endlich frei.
+Und der Tod hat keine Macht. Alles wird neu.</lines>
+    </verse>
+  </lyrics>
+</song>

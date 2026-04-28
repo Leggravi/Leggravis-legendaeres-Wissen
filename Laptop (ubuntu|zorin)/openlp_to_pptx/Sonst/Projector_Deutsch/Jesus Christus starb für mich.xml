@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Christus starb für mich</title>
+    </titles>
+    <authors>
+      <author type="words">Peter Strauch</author>
+      <author type="music">Peter Strauch</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus Christus starb für mich,
+Jesus Christus starb für dich.
+Für die ganze Welt starb er am Kreuz.
+Er nahm unsre Schuld auf sich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr, ich danke dir, dass du mich liebst.
+Deine Gnade gilt auch mir.
+Danke, Herr, dass du die Schuld vergibst.
+Ich will leben, Herr, mit dir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus ist der Weg für mich.
+Jesus ist der Weg für dich.
+Jesus ist der Weg zum Vaterhaus.
+Er nahm unsre Schuld auf sich.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus Christus, er ruft mich.
+Jesus Christus, er ruft dich.
+Mach dich auf und folge Jesus nach.
+Er nahm unsre Schuld auf sich.</lines>
+    </verse>
+  </lyrics>
+</song>

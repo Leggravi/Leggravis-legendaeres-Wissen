@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 20, 2021, 8:43:37 PM">
+  <properties>
+    <titles>
+      <title>Chain Breaker</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2 V5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>If you've been walking the same old road for miles and miles
+If you've been hearing the same old voice tell the same old lies
+If you're trying to fill the same old holes inside
+There's a better life, there's a better life</lines>
+    </verse>
+    <verse name="C2">
+      <lines>If you've got pain, He's a pain taker
+If you feel lost, He's a way maker
+If you need freedom or saving, He's a prison-shaking Savior
+If you got chains, He's a chain breaker</lines>
+    </verse>
+    <verse name="V3">
+      <lines>We've all searched for the light of day in the dead of night
+We've all found ourselves worn out from the same old fight
+We've all run to things we know just ain't right
+When there's a better life, there's a better life</lines>
+    </verse>
+    <verse name="V4">
+      <lines>If you believe it, if you receive it
+If you can feel it, somebody testify
+If you believe it, if you receive it
+If you can feel it, somebody testify, testify
+If you believe it, if you receive it
+If you can feel it, somebody testify</lines>
+    </verse>
+    <verse name="V5">
+      <lines>If you need freedom or saving, He's a prison-shaking Savior
+If you got chains, He's a chain breaker</lines>
+    </verse>
+  </lyrics>
+</song>

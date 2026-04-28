@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:34">
+  <properties>
+    <titles>
+      <title>O du mein Trost und süßes Hoffen</title>
+    </titles>
+    <authors>
+      <author type="words">Heinrich Elmenhorst (1681)</author>
+      <author type="words">Wilhelm Osterwald (1856)</author>
+      <author type="music">Johann Wolfgang Franck</author>
+    </authors>
+    <ccliNo>4907493</ccliNo>
+    <themes>
+      <theme>Advent</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O du mein Trost und süßes Hoffen,
+lass mich nicht länger meiner Pein;
+mein Herz und Seele sind dir offen,
+o Jesu, ziehe bei mir ein!
+Du Himmelslust, du Erdenwonne,
+du Gott und Mensch, du Morgenglanz,
+ach komm, du teure Gnadensonne,
+durchleuchte meine Seele ganz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O dass Du doch mein Herz Dir machtest
+zu Deiner Krippe, Kindlein hehr,
+und in ihm schlummertest und wachtest,
+als wenn es Deine Wiege wär!
+Dann war in Wahrheit mir gegeben
+ein selig Ende meiner Pein;
+ach Herr, dass Du in mir kannst leben,
+woll erst in mir geboren sein!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Heiland, stille mein Verlangen
+mit Deines Kommens Seligkeit;
+voll Demut will ich Dich empfangen,
+mein Herz und Seele sind bereit,
+mein Denken, Herr, und all mein Sinnen
+ganz Deinem teuren Dienst zu weihn,
+o lass mich Deinen Trost gewinnen,
+o Jesus, ziehe bei mir ein!</lines>
+    </verse>
+  </lyrics>
+</song>

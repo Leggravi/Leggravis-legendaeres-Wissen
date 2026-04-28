@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:07">
+  <properties>
+    <titles>
+      <title>O Gott, dir sei Ehre (Preist den Herrn)</title>
+    </titles>
+    <authors>
+      <author type="words">Charlotte Sauer (1955)</author>
+      <author type="music">William H. Doane</author>
+    </authors>
+    <ccliNo>4336507</ccliNo>
+    <themes>
+      <theme>Dank</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Gott, Dir sei Ehre, der Großes getan!
+Du liebtest die Welt, nahmst der Sünder Dich an!
+Dein Sohn hat Sein Leben zum Opfer geweiht.
+Der Himmel steht offen zur ewigen Freud'!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O große Erlösung, erkauft durch Sein Blut!
+Dem Sünder, der glaubt, kommt sie heute zugut!
+Die volle Vergebung wird jedem zuteil,
+der Jesus erfasset, das göttliche Heil.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wie groß ist Sein Lieben! Wie groß ist Sein Tun?
+Wie groß unsre Freude, in Jesus zu ruh'n!
+Doch größer und reiner und höher wird's sein,
+wenn jubelnd und schauend wir droben zieh'n ein!</lines>
+    </verse>
+  </lyrics>
+</song>

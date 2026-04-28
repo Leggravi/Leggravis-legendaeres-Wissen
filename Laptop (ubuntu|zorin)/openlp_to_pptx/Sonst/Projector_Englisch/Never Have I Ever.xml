@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Never Have I Ever</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was running wild fell in love with the chase
+I've been up and down and all over the place
+Wasting all my days and nights
+Never feeling satisfied
+Putting on a smile I was keeping it fake
+But there's no imitating what I've found in Your grace
+All the things I left behind
+Are shadows now I've seen the light</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In my head and my soul
+My heart my all
+I know that I know know know know</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Never never have I ever
+Ever found a love so good, so good
+Never never am I ever
+Ever getting over living with you
+Nothing will change it
+All I can say is
+Never never have I ever
+Ever found a love so good, so good</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I've got a million reasons why I can't be the same
+You've got me looking forward never turning my gaze
+For ever God it's You and I
+Together till the end of time</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Your Love is patient, love Is kind
+Your Love is never hard to find
+Forever I am Yours and You're mine
+All right, All right</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Never have I ever no
+Never have I ever no</lines>
+    </verse>
+  </lyrics>
+</song>

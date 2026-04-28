@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord Make Me An Instrument</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, make me an instrument of Your peace
+Where there's hatred, let me sow love
+And where there is injury, pardon
+And where there is doubt, then faith
+And where there's despair, then hope</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's in dying that I will be born
+And in giving that I will receive
+It's in loving that I will be loved
+This is my faith, it is what I believe
+Lord, make me an instrument
+Make me an instrument</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, I am a stranger traveling
+In a brutal yet wondrous land
+Far from the promise of home
+On a journey led by Your hand
+To where the lion lies down with the lamb</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Father, grant that I'd never seek
+To be comforted as to console
+Let the blood of Your Son cover me
+Touching my spirit
+Seizing my soul</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lord, make me an instrument
+Lord, make me an instrument
+Lord make me your instrument</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Let Your divine mystery guide my heart
+It's in dying that I will be born
+And in giving that I will receive
+It's in loving that I will be loved
+This is my faith, it is what I believe</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Christ within me
+Christ before me
+Christ behind me
+Christ above me
+Christ beneath me</lines>
+    </verse>
+    <verse name="v8">
+      <lines>To my left and my right
+Christ where I lie and where I arise
+Christ in the hearts of all who think of me
+Christ on the lips of all who speak of me
+Christ in the eyes of all who see me</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Make me Your instrument, Lord
+Make me Your instrument, Lord
+Make me Your instrument, Lord
+Make me Your instrument, Lord
+Make me Your instrument</lines>
+    </verse>
+  </lyrics>
+</song>

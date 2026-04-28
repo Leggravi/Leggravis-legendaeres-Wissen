@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sweeter as the Days Go By</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The more I trust Him, the more I love Him,
+Nothing good for me He'll deny
+The longer I know Him, the better I can show Him,
+I couldn't stop now if I tried.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It gets sweeter as the days go by,
+It gets sweeter as the moments fly,
+His love is richer, deeper, fuller, sweeter,
+Sweeter, sweeter, sweeter as the days go by.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, the moment He saved my His good grace He gave me,
+He place His love down deep in my heart,
+There's great joy in knowing with Him I am going,
+And never more from Him to depart.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It gets sweeter as the days go by,
+It gets sweeter as the moments fly,
+His love is richer, deeper, fuller, sweeter,
+Sweeter, sweeter, sweeter as the days go by,
+Sweeter, sweeter, sweeter as the days go by.</lines>
+    </verse>
+  </lyrics>
+</song>

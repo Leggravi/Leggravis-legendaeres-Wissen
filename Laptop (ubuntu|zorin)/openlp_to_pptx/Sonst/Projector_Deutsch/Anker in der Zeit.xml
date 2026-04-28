@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Anker in der Zeit</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es gibt bedingungslose Liebe,
+die alles trägt und nie vergeht
+und unerschütterliche Hoffnung,
+die jeden Test der Zeit besteht.
+Es gibt ein Licht, das uns den Weg weist,
+auch wenn wir jetzt nicht alles sehn.
+Es gibt Gewissheit unsres Glaubens,
+auch wenn wir manches nicht verstehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Es gibt Versöhnung selbst für Feinde
+und echten Frieden nach dem Streit,
+Vergebung für die schlimmsten Sünden,
+ein neuer Anfang jederzeit.
+Es gibt ein ewges Reich des Friedens.
+In unsrer Mitte lebt es schon:
+ein Stück vom Himmel hier auf Erden
+in Jesus Christus, Gottes Sohn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Er ist das Zentrum der Geschichte,
+er ist der Anker in der Zeit.
+Er ist der Ursprung allen Lebens
+und unser Ziel in Ewigkeit,
+und unser Ziel in Ewigkeit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Es gibt die wunderbare Heilung,
+die letzte Rettung in der Not.
+Und es gibt Trost in Schmerz und Leiden,
+ewiges Leben nach dem Tod.
+Es gibt Gerechtigkeit für alle,
+für unsre Treue ewgen Lohn.
+Es gibt ein Hochzeitsmahl für immer
+mit Jesus Christus, Gottes Sohn.</lines>
+    </verse>
+  </lyrics>
+</song>

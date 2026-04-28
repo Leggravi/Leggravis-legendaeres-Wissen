@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Isaiah 43 (Do Not Fear)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When you pass through the waters,
+I will be with you,
+And the waves will not Overcome you.
+Do not fear, For I have redeemed you,
+I have called you by name,
+You are Mine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For I am the Lord your God (I am the Lord your God),
+I am the Lord your God (I am)
+The Holy One of Israel, Your Savior
+For I am the Lord your God (I am the Lord your God),
+I am the Lord your God (I am)
+The Holy One of Israel, Your Savior
+I am the Lord (do not fear)
+I am the Lord (do not fear)
+I am the Lord (do not fear)
+I am the Lord (do not fear)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When you walk through the fire
+You'll not be burned,
+And the flames will not Consume you.
+Do not fear, For I have redeemed you,
+I have called you by name,
+You are Mine.</lines>
+    </verse>
+  </lyrics>
+</song>

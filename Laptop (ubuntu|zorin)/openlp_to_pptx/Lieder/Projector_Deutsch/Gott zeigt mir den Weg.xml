@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gott zeigt mir den Weg</title>
+    </titles>
+    <authors>
+      <author type="words">Ute Orth</author>
+      <author type="music">Don Moen</author>
+      <author type="translation">God Will Make A Way</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott zeigt mir den Weg,
+Wenn ich keinen Ausweg seh'.
+Bei ihm ist alles gut geplant,
+Besser als ich je geahnt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gott zeigt mir den Weg,
+Wenn ich nur ganz mit ihm geh
+Und meine Sorgen auf ihn leg,
+Zeigt er mir den Weg.
+Gott zeigt mir den Weg.</lines>
+    </verse>
+  </lyrics>
+</song>

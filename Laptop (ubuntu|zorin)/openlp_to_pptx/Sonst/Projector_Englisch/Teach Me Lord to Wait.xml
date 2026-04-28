@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Teach Me, Lord, to Wait</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teach me, Lord, to wait down on my knees.
+Till in Your own good time You answer my pleas;
+Teach me not to rely on what others do,
+But to wait in prayer for an answer from You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>They that wait upon the Lord, shall renew their strength,
+They shall mount up with wings as an eagle.
+They shall run and not be weary, they shall walk and not faint;
+Teach me, Lord, teach me, Lord, to wait.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Teach me, Lord, to wait while hearts are aflame,
+Help me humble my pride and call on Your name;
+Keep my faith renewed, keep my eyes on Thee,
+Help me be on this earth what You want me to be.</lines>
+    </verse>
+  </lyrics>
+</song>

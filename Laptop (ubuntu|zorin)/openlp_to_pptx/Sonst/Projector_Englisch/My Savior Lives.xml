@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Savior Lives</title>
+    </titles>
+    <authors>
+      <author type="words">Jon Egan</author>
+      <author type="music">Jon Egan</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our God will reign forever
+And all the world will know His name
+Everyone together
+Sing the song of the redeemed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know that my redeemer lives
+And now I stand on what He did
+My Savior, my Savior lives
+Everyday a brand new chance to say
+Jesus, You are the only way
+My Savior, my Savior lives</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The King is come from Heaven
+And darkness trembles at His name
+Victory forever
+Is the song of the redeemed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My Savior lives, my Savior lives, my Savior lives,
+My Savior lives, my Savior lives, my Savior lives,
+My Savior lives, my Savior lives, my Savior lives,
+My Savior lives, my Savior lives, my Savior lives.</lines>
+    </verse>
+  </lyrics>
+</song>

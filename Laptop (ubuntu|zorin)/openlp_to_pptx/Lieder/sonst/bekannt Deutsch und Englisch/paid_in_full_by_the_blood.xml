@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Dec 18, 2024, 8:55:37 PM">
+  <properties>
+    <titles>
+      <title>Paid in Full by the Blood</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>When justice called for a payment for sin
+No one worthy could be found among men
+But the precious Son of God
+With a cross and thorny crown
+Paid the debt with the Blood of the Lamb</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Paid in full by the Blood of the Lamb
+Free from sin, free to live now I am
+And it reads on the page,
+Where my sins were written down,
+&quot;Paid in full by the Blood of the Lamb.&quot;</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Oh how great was the debt that I owed
+Bound to pay for the seeds I have sown
+But in Jesus my Lord
+A great treasure I have found
+I'm redeemed by the Blood of the Lamb</lines>
+    </verse>
+  </lyrics>
+</song>

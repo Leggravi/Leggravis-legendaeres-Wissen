@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Anbetung Dir! Sei hoch gepriesen</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Anbetung Dir! Sei hochgepriesen
+Für Deine Liebe, Jesu Christ!
+Die Du an Sündern hast bewiesen,
+Da Du für uns gestorben bist.
+Wie viel hast Du für uns getan!
+Wir beten dankend, Herr, Dich an.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Anbetung Dir! So wird es schallen
+Im neuen Liede fort und fort.
+Anbetung Dir! Das schwache Lallen
+Wird bald zum mächt'gen Chore dort,
+Wo, bei der goldnen Harfen Klang,
+Dir tönt der ew'ge Lobgesang.</lines>
+    </verse>
+  </lyrics>
+</song>

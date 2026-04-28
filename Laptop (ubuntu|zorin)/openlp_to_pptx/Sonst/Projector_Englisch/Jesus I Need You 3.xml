@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus I Need You (3)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hope be my anthem
+Lord when the world has fallen quiet
+You stand beside me
+Give me a song in the night</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus I need You
+Every moment I need you
+Hear now this grace bought heart sing out
+Your praise forever</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Beauty for ashes
+You find the weak and contrite heart
+Shoulder its burdens
+And carry it into the light</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Remember love
+Remember mercy
+Christ before me
+Christ behind me
+Your loving kindness
+Has never failed me
+Christ before me
+Christ behind me</lines>
+    </verse>
+  </lyrics>
+</song>

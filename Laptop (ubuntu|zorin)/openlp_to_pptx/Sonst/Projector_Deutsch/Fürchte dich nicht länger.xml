@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Fürchte dich nicht länger</title>
+    </titles>
+    <authors>
+      <author type="words">Hans-Joachim Eckstein</author>
+      <author type="music">Hans-Joachim Eckstein</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fürchte dich nicht länger, sieh ich bin bei dir!
+Das ist meine Leuchte auf dem Wege hier.
+Durch die Wolken funkelt der Verheißung Licht:
+&quot;Siehe, ich bin bei dir, und ich verlasse dich nicht!&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>|: Nein, niemals allein! Nein, niemals allein!
+So hat der Herr mir verheißen, niemals lässt er mich allein. : |</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Blumen mögen welken, Rosenduft verwehn,
+Sonne sich verdunkeln, dennoch bleibt es stehn:
+Jesus, meine Wonne, er, mein Sonnenschein,
+wird mich nie verlassen, er lässt mich niemals allein!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ist der Pfad auch dunkel, droht manch Übel mir,
+hör ich ihn doch sagen: &quot;Kind, ich bin bei dir!&quot;
+Droben werd ich schauen Jesu Angesicht,
+jubelnd wird's dann tönen: Nein, er verließ mich hier nicht!</lines>
+    </verse>
+  </lyrics>
+</song>

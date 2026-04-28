@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What a Mighty God We Serve</title>
+    </titles>
+    <authors>
+      <author type="words">traditionell</author>
+      <author type="music">Charles C. Converse</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What a mighty God we serve
+What a mighty God we serve
+What a mighty God we serve
+What a mighty God we serve</lines>
+    </verse>
+  </lyrics>
+</song>

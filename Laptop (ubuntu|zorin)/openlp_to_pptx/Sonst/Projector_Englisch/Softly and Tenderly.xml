@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Softly and Tenderly</title>
+    </titles>
+    <authors>
+      <author type="words">William Lamartine Thompson</author>
+      <author type="music">William Lamartine Thompson</author>
+      <author type="translation">Leise und inniglich mahnet</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Softly and tenderly Jesus is calling,
+Calling for you and for me,
+See on the portals He’s waiting and watching,
+Watching for you and for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come home, come home,
+Ye who are wary, come home;
+Earnestly, tenderly, Jesus is calling,
+Calling, O sinner, come home!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Why should we tarry when Jesus is pleading,
+Pleading for you and for me?
+Why should we linger and head not His mercies,
+Mercies for you and for me?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Time is now fleeting, the moments are passing,
+Passing from you and from me;
+Shadows are gathering, death’s night is coming,
+Coming for you and for me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh! For the wonderful love He has promised,
+Promised for you and for me;
+Though we have sinned, He has mercy and pardon,
+Pardon for you and for me.</lines>
+    </verse>
+  </lyrics>
+</song>

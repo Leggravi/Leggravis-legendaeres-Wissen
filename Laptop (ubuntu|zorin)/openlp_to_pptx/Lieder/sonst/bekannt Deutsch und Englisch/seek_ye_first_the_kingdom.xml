@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jun 2, 2024, 9:39:09 PM">
+  <properties>
+    <titles>
+      <title>Seek Ye First The Kingdom</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Seek ye first the kingdom
+  of God,
+And His righteousness.
+And all these things
+shall be added unto you,
+Hallelu…, Hallelujah.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Hallelujah, hallelujah!
+Hallelujah, hallelujah!
+Hallelu…, Hallelujah!</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Man shall not live by
+  bread alone.
+But by every Word
+That proceeds from
+the mouth of God.
+Hallelu…, Hallelujah.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Ask, and it shall be given
+  unto you,
+Seek, and ye shall find.
+Knock, and it shall be
+opened unto you.
+Hallelu…, Hallelujah.</lines>
+    </verse>
+  </lyrics>
+</song>

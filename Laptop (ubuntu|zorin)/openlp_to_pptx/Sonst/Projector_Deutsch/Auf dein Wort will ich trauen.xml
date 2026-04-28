@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Auf dein Wort will ich trauen</title>
+    </titles>
+    <authors>
+      <author type="words">Dora Rappard</author>
+      <author type="music">Heinrich Schütz</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Auf dein Wort will ich trauen, mein Herr und Gott, allein;
+auf Felsen muss man bauen, um still und stark zu sein.
+Was Gott sagt, das bestehet, es ist des Glaubens Hort.
+Ob alle Welt vergehet, fest bleibt dein heilig Wort.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Auf dein Wort will ich merken, es leuchtet meinem Fuß,
+zeigt, wie in Wort und Werken ich sein und handeln muss.
+Lehr mich ihm folgen schlichte an jedem Tag und Ort,
+dass meinen Gang ich richte mit Fleiß nach deinem Wort.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Auf dein Wort will ich's wagen, das Netz zu werfen aus,
+will deine Botschaft tragen in manches Herz und Haus.
+Herr, lass es wohl gelingen, schaff Früchte da und dort;
+nicht Eignes will ich bringen, nur dein lebendig Wort.</lines>
+    </verse>
+  </lyrics>
+</song>

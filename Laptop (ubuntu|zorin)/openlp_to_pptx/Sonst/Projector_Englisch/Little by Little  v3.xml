@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Little by Little – v3</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Just yesterday I was so small
+I've been learning new things as I grow
+Some people say I'm getting so tall
+Where did the little kid go?
+Inside and out, God is making me new
+You may not see it happening 'til he is through</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Little by little, I'm changing, I'm growing
+Little by little, I hope that it's showing
+I'm not who I'll be, I'm not who I was
+I'm somewhere in the middle
+But God is changing me little by little</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sometimes it seems that I'm so far away
+From all I want someday to be
+But His word says that He'll finish one day
+All that He started in me
+I look at me and I don't understand
+But God has a vision and God has a plan</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Little by little, we're changing, we're growing.
+Little by little, we hope that it's showing.
+We're not who we'll be, we're not who we were.
+We're somewhere in the middle.
+But God is changing us, little by little.
+But God is changing me, little by little</lines>
+    </verse>
+  </lyrics>
+</song>

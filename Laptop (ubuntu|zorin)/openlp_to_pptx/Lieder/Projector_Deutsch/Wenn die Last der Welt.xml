@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wenn die Last der Welt</title>
+    </titles>
+    <authors>
+      <author type="words">Christoph Zehendner</author>
+      <author type="music">Mark Heard</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wenn die Last der Welt dir zu schaffen macht, hört er dein Gebet.
+Wenn dich Furcht befällt vor der langen Nacht, hört er dein Gebet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er hört dein Gebet, hört auf dein Gebet.
+Er versteht was sein Kind bewegt, Gott hört dein Gebet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn du kraftlos bist und verzweifelt weinst, hört er dein Gebet.
+Wenn du ängstlich bist und dich selbst verneinst, hört er dein Gebet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wenn die Menschheit vor ihrem Ende steht, hört er dein Gebet.
+Wenn die Sonne sinkt und die Welt vergeht, hört er dein Gebet.</lines>
+    </verse>
+  </lyrics>
+</song>

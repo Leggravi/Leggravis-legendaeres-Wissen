@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Down on my knees</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Down on my knees I found my Jesus
+Down on my knees I found my Lord
+It wasn't on the mountain
+Not in the valley
+But it was on my knees I found my Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Once I was blind I could not see
+The Glory of Jesus so rich and free
+I've heard about Him the man of Galilee
+I cried out Lord oh help me please</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He took my hands I held up high
+And He saw the tears that I have cried
+Oh He came down and held me tight
+And He said my child you are Mine
+I went down on my knees
+And I asked the Lord, have mercy please
+He had compassion
+He showed me love
+Now I praise the Lord above</lines>
+    </verse>
+  </lyrics>
+</song>

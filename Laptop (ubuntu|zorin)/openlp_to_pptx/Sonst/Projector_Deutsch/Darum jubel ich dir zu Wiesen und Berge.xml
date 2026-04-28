@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Darum jubel ich dir zu (Wiesen und Berge)</title>
+    </titles>
+    <authors>
+      <author type="words">Ute Meißner</author>
+      <author type="music">Danny Plett</author>
+      <author type="translation">Stand Here And Rejoice</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wiesen und Berge, die Wälder und Seen,
+Was lebt und atmet in Tälern und Höhn:
+Es trägt deine Handschrift bezeugt dein Tun,
+Verkündet deinen Ruhm!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Und darum jubel ich dir zu,
+Dass jeder es hört: der Meister bis du.
+Ich will tanzen und singen vor dir,
+Du herrlicher Schöpfer, Ehre sei dir!.
+Ehre sei dir!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Das Werk deiner Liebe, das du in mir vollbracht,
+Das mich zum Kind deines Reiches gemacht:
+Es trägt deine Handschrift bezeugt dein Tun,
+Verkündet deinen Ruhm!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und darum jubel ich dir zu,
+Dass jeder es hört: der Meister bis du.
+Ich will tanzen und singen vor dir,
+Du herrlicher Schöpfer, Ehre sei dir!.</lines>
+    </verse>
+    <verse name="v5">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

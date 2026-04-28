@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Child in My Eyes (Always Be a Child)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was there when you drew the breath of life
+And I could hear your voice
+The first time that you cried
+And though you couldn't see me
+I was very near
+And there's something now
+That I want you to hear</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You will always be a child in my eyes
+And when you need some love
+My arms are open wide
+And even when you're growing old
+I hope you realize
+You will always be a child in my eyes</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I was there the first time that you prayed
+And I heard all the promises you made
+And when you fell before me
+Crying father I have sinned
+I picked you up
+And held you close again.</lines>
+    </verse>
+  </lyrics>
+</song>

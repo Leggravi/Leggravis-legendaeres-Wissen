@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:09">
+  <properties>
+    <titles>
+      <title>Segne und behüte uns durch deine Güte</title>
+    </titles>
+    <authors>
+      <author type="words">Johannes Evangelista Goßner (1825)</author>
+      <author type="music">Johann Friedrich Francke</author>
+    </authors>
+    <ccliNo>4834250</ccliNo>
+    <themes>
+      <theme>Segen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Segne und behüte
+uns durch Deine Güte,
+Herr, erheb Dein Angesicht
+über uns und gib uns Licht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Schenk uns Deinen Frieden
+alle Tag hienieden,
+gib uns Deinen guten Geist,
+der uns stets zu Christus weist.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amen, Amen, Amen!
+Ehre sei dem Namen
+Jesu Christi, unsers Herrn,
+denn Er segnet uns so gern.</lines>
+    </verse>
+  </lyrics>
+</song>

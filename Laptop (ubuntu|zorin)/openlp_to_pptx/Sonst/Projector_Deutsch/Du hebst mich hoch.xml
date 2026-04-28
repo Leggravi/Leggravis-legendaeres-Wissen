@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du hebst mich hoch</title>
+    </titles>
+    <authors>
+      <author type="words">Eugen Eckert</author>
+      <author type="music">Hubert H. Parry</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wenn meine Seele tief betrübt und schwer ist,
+mein Herz gebunden von der Sorgenlast,
+dann wird ich still vor Dir, mein Gott und warte
+bis Du in Gnade mich gefunden hast.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du hebst mich hoch weit über alle Berge.
+Du hebst mich hoch weit über Sturm und Flut.
+Jesus DU bist die Kraft zu überwinden.
+In deiner Hand liegt alles was ich bin.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Es gibt kein Leben ohne Not und Sehnsucht.
+Ein jedes Herz ist ruhelos und leer,
+doch wenn du kommst, es füllst mit deinem Leben
+erstrahlt dein Glanz der Herrlichkeit in mir.</lines>
+    </verse>
+  </lyrics>
+</song>

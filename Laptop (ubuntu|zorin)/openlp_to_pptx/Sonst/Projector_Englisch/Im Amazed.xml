@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm Amazed</title>
+    </titles>
+    <authors>
+      <author type="words">Ian Hannah</author>
+      <author type="music">Ian Hannah</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No one knew how alone I was feeling,
+And the emptiness I tried so hard to hide
+Though I laughed and said my life
+was fine without You,
+I was covering up
+the secret tears I cried</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Then one day someone told me
+of Your mercy
+And the love You showed
+on a hill called Calvary
+There You died and purchased
+my redemption
+When You broke sin's power
+and set my spirit free</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm amazed that You love me
+I'm amazed how You care
+Through Your precious Blood,
+I've found pardon
+And my sins are washed,
+They're all washed away
+All my sins are washed away</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It’s true there have been days
+when I’ve failed You
+Lord, You know the many times
+I’ve gone astray
+But I’ve learned that Your love
+is stronger than my weakness
+And Your ear is open every time I pray.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>No one else has ever cared
+for me like You, Lord
+Other friends could never be
+as close to me
+I’m not afraid to face
+the problems of tomorrow
+Knowing You are everything
+I’ll ever need</lines>
+    </verse>
+  </lyrics>
+</song>

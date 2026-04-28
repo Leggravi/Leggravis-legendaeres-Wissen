@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I lift up Your name</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Open my eyes
+I see you Glory
+When your work of your hands
+All things it will stand
+Meditate of Your Word</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I cannot deny that You are
+great and wonderful God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I lift up Your name
+I worship Your name
+I lift Your name
+I worship Your name
+Lord Jesus, Jesus Christ
+Jesus Christ today and forever</lines>
+    </verse>
+  </lyrics>
+</song>

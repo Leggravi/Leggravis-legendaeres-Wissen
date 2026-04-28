@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Chosen</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v7 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There are many who are called, few are chosen by you
+Created just to worship, in Spirit and in Truth</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We're laying down our lives oh Lord, to follow where you lead
+Not only called, but we're chosen by you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Redeemed for a purpose, we are your Church Lord,
+called out of the darkness to reveal the light
+The time is now for, for the worshippers to arise and serve you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Laboring in the harvest, we are your hands and feet
+Building up the kingdom till you come</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We're laying down our lives oh Lord, for the days are so few
+Not only called, but we're chosen by you</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Chosen generation, royal priesthood, holy nation
+We are a peculiar people, to give you praise, we show your light</lines>
+    </verse>
+    <verse name="v7">
+      <lines>We need you to make us a
+Chosen generation, royal priesthood, holy nation
+We are a peculiar people, to give you praise, we show your light</lines>
+    </verse>
+  </lyrics>
+</song>

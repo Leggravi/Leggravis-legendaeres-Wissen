@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, dein Wort, die edle Gabe</title>
+    </titles>
+    <authors>
+      <author type="words">Nikolaus Ludwig Graf von Zinzendorf</author>
+      <author type="music">O, gesegnetes Regieren</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, dein Wort, die edle Gabe,
+diesen Schatz erhalte mir;
+denn ich zieh es aller Habe
+und dem größten Reichtum für.
+Wenn dein Wort nicht mehr soll gelten,
+worauf soll der Glaube ruhn?
+Mir ist's nicht um tausend Welten,
+aber um dein Wort zu tun.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Halleluja, Ja und Amen!
+Herr, du wollest auf mich sehn,
+dass ich mög' in deinem Namen
+fest bei deinem Worte stehn.
+Lass mich eifrig sein beflissen,
+dir zu dienen früh und spat
+und zugleich zu deinen Füßen
+sitzen, wie Maria tat!</lines>
+    </verse>
+  </lyrics>
+</song>

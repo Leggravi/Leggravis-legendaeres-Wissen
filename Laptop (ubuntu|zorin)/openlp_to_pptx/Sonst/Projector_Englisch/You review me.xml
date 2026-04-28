@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You review me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v5 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: I will lift up my head
+I will worship now
+I will say that the Lord is
+Worthy to be praised :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You revive me
+Forever, and ever
+You revive me
+Forever, and ever more</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will not be ashamed
+Of Your mighty name, yeah
+Jesus the Son of God
+Is worthy of the praise</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will not be ashamed (no, no)
+Of Your mighty name
+Jesus the Son of God</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Forever I give You praise
+Forever I shout Your name
+Whatever You want me to do
+Lord I'm here for You</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Forever I sing and dance
+Forever I take the chance
+Wherever You want me to go</lines>
+    </verse>
+  </lyrics>
+</song>

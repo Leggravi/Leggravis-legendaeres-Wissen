@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let Me Introduce You to Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It looks like there’s pain in your eyes
+I can see tears,
+I would imagine a long road you’ve traveled
+Through the years…
+You must be hurting inside
+I know the struggle,
+What if I told you
+There’s someone who cares about
+Your trouble?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let me introduce you to Jesus!
+Let me introduce you to Him,
+He can take the rain away,
+Make the sun shine again
+Let me introduce you to Jesus!
+Let me introduce you to Him,
+I can’t wait for you to meet my wonderful friend</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Is there a problem that you’ve been facing, you can’t seem to solve it?
+Is your mind and your heart racing, and you can’t calm them?
+Is the weight of the World so heavy on your shoulders?
+I’ve got good news for you my friend,
+It’s not over!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(But) Let me introduce you to Jesus!
+Let me introduce you to Him,
+He can take your frown away,
+make you smile again…
+So let me introduce you to Jesus!
+Let me introduce you to Him,
+I can’t wait for you to meet my Best Friend</lines>
+    </verse>
+    <verse name="v5">
+      <lines>If there’s a mountain in your way,
+He’ll help you climb it!
+And those stormy winds and rains,
+He can silence!
+You’ve tried everything that you know and done all that you can,
+Now here we are and it’s not by accident,
+Here is Jesus, here He is, what can I say?
+I fail to explain His greatness!
+Here is Jesus, here He is,
+I’ll step out of the way and let you talk to Him.</lines>
+    </verse>
+  </lyrics>
+</song>

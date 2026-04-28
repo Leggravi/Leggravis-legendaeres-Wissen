@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Like a Rock in The Billows</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Like a rock in the billows I would stable be,
+Till the storm is overpast;
+Then I long to harbor, Lord, with Thee,
+In my heav’nly home at last.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If I trust in Jesus, and obey His word,
+If I lean upon His breast;
+If I keep low down at His feet, I know
+He will give me peace and rest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Like a rock in the billows I would never yield
+To the angry tossing wave;
+I would cling to Christ, my sun and shield,
+For His pow’r alone can save.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Like a rock in the billows of a boiling sea,
+When its waters leap and foam,
+I would rest secure, my Lord, in Thee,
+Till the trumpet calls me home.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Like a rock in the billows I would fearless stand,
+And defy the threat’ning blast;
+For the Savior holds me by the hand,
+Till the raging storm is past.</lines>
+    </verse>
+  </lyrics>
+</song>

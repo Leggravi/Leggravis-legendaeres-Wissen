@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Der du die Zeit in Händen hast, Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Jochen Klepper</author>
+      <author type="music">Siegfried Reda</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Der du die Zeit in Händen hast, Herr,
+nimm auch dieses Jahres Last und wandle sie in
+Segen. Nun von dir selbst in Jesus Christ
+die Mitte fest gewiesen ist, führ
+uns dem Ziel entgegen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Da alles, was der Mensch beginnt,
+vor seinen Augen noch zerrinnt,
+sei du selbst der Vollender.
+Die Jahre, die du uns geschenkt,
+wenn deine Güte uns nicht lenkt,
+veralten wie Gewänder.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Wer ist hier, der vor dir besteht?
+Der Mensch, sein Tag, sein Werk vergeht:
+Nur du allein wirst bleiben.
+Nur Gottes Jahr währt für und für,
+drum kehre jeden Tag zu dir,
+weil wir im Winde treiben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Der Mensch ahnt nichts von seiner Frist.
+Du aber bleibest, der du bist,
+in Jahren ohne Ende.
+Wir fahren hin durch deinen Zorn,
+und doch strömt deiner Gnade Born
+in unsre leeren Hände.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Und diese Gaben, Herr, allein
+lass Wert und Maß der Tage sein,
+die wir in Schuld verbringen.
+Nach ihnen sei die Zeit gezählt;
+was wir versäumt, was wir verfehlt,
+darf nicht mehr vor dich dringen.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6. Der du allein der Ewge heißt
+und Anfang, Ziel und Mitte weißt
+im Fluge unsrer Zeiten:
+Bleib du uns gnädig zugewandt
+und führe uns an deiner Hand,
+damit wir sicher schreiten.</lines>
+    </verse>
+  </lyrics>
+</song>

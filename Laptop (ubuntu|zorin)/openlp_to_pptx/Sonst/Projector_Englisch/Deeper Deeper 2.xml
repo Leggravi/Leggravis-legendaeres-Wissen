@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Deeper, Deeper (2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v4 v1 v5 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O deeper yet, I pray,
+And higher every day,
+And wiser blessed Lord,
+In Thy precious Holy Word.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deeper, deeper in the love of Jesus
+Daily let me go;
+Higher, higher in the school of wisdom,
+More of grace to know.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Deeper, deeper! blessed Holy Spirit,
+Take me deeper still,
+Till my life is wholly lost in Jesus,
+And His perfect will.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Deeper, deeper! though it cost hard trials,
+Deeper let me go!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Rooted in the Holy love of Jesus,
+Let me fruitful grow.
+Deeper, higher! every day in Jesus,
+Till all conflict past,
+Finds me conqueror and in His own image,
+Perfected at last.</lines>
+    </verse>
+  </lyrics>
+</song>

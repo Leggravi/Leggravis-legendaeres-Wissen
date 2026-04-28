@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>With You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will sing about everything You are always
+I will tell the world everything You've done in me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I stand on higher ground
+I was lost but now I'm here</lines>
+    </verse>
+    <verse name="v3">
+      <lines>With You, my refuge, my stronghold
+Always with You, faithful one, holding on
+I am always with You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The future of the world is within Your hands of love
+Love reaches me, I am in awe of You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Well, I stand on higher ground
+I was lost but now I'm here</lines>
+    </verse>
+    <verse name="v6">
+      <lines>With You, my refuge, my stronghold,
+Always with You, faithful one, holding on,
+I am always with You, my refuge, my stronghold,
+Always with You, faithful one, holding on,
+I am always with You.</lines>
+    </verse>
+  </lyrics>
+</song>

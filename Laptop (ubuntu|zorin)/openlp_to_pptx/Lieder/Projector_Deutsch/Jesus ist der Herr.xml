@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus ist der Herr!</title>
+    </titles>
+    <authors>
+      <author type="words">Lothar Gassmann</author>
+      <author type="music">Lothar Gassmann</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus ist der Herr!(4x) :| aller Völker. 
+Sein Thron steht fest in Gerechtigkeit,
+Sein Thron steht fest in Wahrheit.
+Jesus hat durch sein Blut unsere Feinde besiegt,
+Er ist der starke Erlöser!</lines>
+    </verse>
+  </lyrics>
+</song>

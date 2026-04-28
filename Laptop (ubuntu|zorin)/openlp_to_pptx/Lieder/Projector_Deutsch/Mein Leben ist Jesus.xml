@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mein Leben ist Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Frey</author>
+      <author type="music">Albert Frey</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mein Leben ist Jesus,
+kein anderer Name bedeutet mir mehr,
+alles geb ich für ihn.
+Er gab mir sein Leben, ich bin neu geboren.
+Durch seinen Geist lebt er in mir, ich in ihm.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er ist Herr, nun hat mein Leben Sinn.
+Er ist Herr, auf ewig mein Gewinn.
+Er ist Herr, er ist Herr, ich bin frei in ihm.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Am Ende der Zeiten
+muss jeder sich beugen vor Jesus, dem Herrn,
+wenn er kommt zum Gericht.
+Der Herr allen Lebens wird ganz offenbar sein.
+Was alle dann sehn, das gilt jetzt schon für mich:</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Mar 14, 2021, 9:34:39 PM">
+  <properties>
+    <titles>
+      <title>In Christ alone my hope is found</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4 V5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>In Christ alone my hope is found
+He is my light, my strength, my song
+This corner stone, this solid ground
+Firm through the fiercest drought and storm
+What heights of love, what depths of peace
+When fears are stilled, when strivings cease
+My comforter, my all in all
+Here in the love of Christ I stand</lines>
+    </verse>
+    <verse name="V2">
+      <lines>There in the ground His body lay
+Light of the world by darkness slain
+Then bursting forth in glorious day
+Up from the grave He rose again
+And as He stands in victory
+Sin's curse has lost its grip on me
+For I am His and He is mine
+Bought with the precious blood of Christ</lines>
+    </verse>
+    <verse name="V3">
+      <lines>No guilt in life, no fear in death
+This is the pow'r of Christ in me
+From life's first cry to final breath
+Jesus commands my destiny
+No pow'r of hell, no scheme of man
+Can ever pluck me from His hand
+'til He returns or calls me home
+Fere in the pow'r of Christ I'll stand</lines>
+    </verse>
+    <verse name="V4">
+      <lines>I find my strength, I find my hope
+I find my help in Christ alone
+When fear assails, when darkness falls
+I find my peace in Christ alone
+I give my life, I give my all
+I sing my song to Christ alone
+The King of kings, the Lord I love
+All heaven sings to Christ alone</lines>
+    </verse>
+    <verse name="V5">
+      <lines>'til He returns or calls me home
+Here in the power of Christ I'll stand
+Here in the power of Christ we stand</lines>
+    </verse>
+  </lyrics>
+</song>

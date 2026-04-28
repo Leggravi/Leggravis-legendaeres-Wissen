@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In jener Nacht</title>
+    </titles>
+    <authors>
+      <author type="words">Günter Balders</author>
+      <author type="music">Robert Henry Earnshaw</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In jener Nacht vor seinem Tod
+nahm der Herr Jesus selbst das Brot,
+dankte und brach’s und sprach zugleich:
+“Das ist mein Leib, mein Leib für euch. ”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In jener Nacht vor seinem Tod
+nahm er den Kelch gleich wie das Brot:
+“Trinkt alle draus”, und sprach zugleich:
+“Das ist mein Blut, mein Blut für euch. ”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir essen heute dieses Brot,
+verkünden heute deinen Tod,
+trinken den Kelch, bis nach der Zeit
+den Tisch du deckst in Ewigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

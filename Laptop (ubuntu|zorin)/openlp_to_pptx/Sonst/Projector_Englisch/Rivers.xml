@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Rivers</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6 v2 v4 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This one thing I need
+Lord, immerse me in Your glory
+Heaven has released
+Your anointing saturating me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I lay me
+Down in the rivers of Your presence
+This is what I've been waiting for
+Here is my heart surrendered, Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This one thing I need
+Lord, to know You, oh so deeply
+Overwhelm my soul
+Holy Spirit You can have everything</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let Your Spirit flood me
+Wash over, saturate me
+This is what I've been waiting for
+Here is my heart surrendered, Lord</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/: I give all, I give all
+Lord take me deeper than I've ever been
+I let go, I let go
+Heaven is open and I'm diving in :/</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I give all, I give all
+Lord take me deeper than I've ever been
+I let go, I let go
+Heaven is open and I'm diving into You</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I give all, I give all
+Lord take me deeper than I've ever been
+I let go, I let go
+Heaven is open and I'm diving in</lines>
+    </verse>
+    <verse name="v8">
+      <lines>I give all, I give all
+Lord take me deeper than I've ever been
+I let go, I let go</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Heaven is open and I'm diving into You, to You
+Heaven is open and I'm diving into You, to You
+Heaven is open and I'm diving into You, to You
+Heaven is open and I'm diving into You, to You
+Heaven is open and I'm diving into You, to You
+Heaven is open and I'm diving into You, to You
+Heaven is open and I'm diving into You</lines>
+    </verse>
+  </lyrics>
+</song>

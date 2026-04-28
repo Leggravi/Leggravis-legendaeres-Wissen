@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:09">
+  <properties>
+    <titles>
+      <title>Ein volles, freies, ewges Heil</title>
+    </titles>
+    <authors>
+      <author type="words">Ernst Heinrich Gebhardt (1875)</author>
+      <author type="music">Johann Georg Christian Störl</author>
+    </authors>
+    <ccliNo>5568130</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ein volles, freies, ew'ges Heil
+hat Jesus uns gebracht!
+Mein Herz, ergreife jetzt dein Teil,
+das völlig selig macht!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O zweifle nicht am Wort des Herrn!
+O klügle nicht daran!
+Nein, glaub vielmehr, Gott tut so gern
+mehr, als man denken kann!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Er bietet heute wieder dar
+in seines Geistes Kraft,
+wie einstens es am Anfang war,
+das Wort, das Neues schafft.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sein Wort verheißt ja sonnenklar,
+gestützt auf Gottes Treu',
+wie Jesus Christus, ewig wahr,
+der Sünder Heiland sei.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Drum starb Er auch, drum lebt Er nun,
+drum wirkt Sein Heil'ger Geist.
+Was Er tut, will Er völlig tun,
+dass Ihn Sein Werk auch preist.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Herr Jesus, sieh, ich leg’ mich hier
+dir ganz zum Opfer hin,
+dass deines Geistes Feuer mir
+durchdringe Herz und Sinn.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du, Herr, heißt uns hoffen</title>
+    </titles>
+    <authors>
+      <author type="words">Otmar Schulz</author>
+      <author type="music">Otmar Schulz</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du, Herr, heißt uns hoffen
+und lassen vorwärts schauen,
+Deine Zukunft steht uns offen,
+wenn wir Dir fest vertraun.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du, Herr, heißt uns glauben,
+dass Du selbst die Hoffnung bist.
+Nichts soll die Gewißheit rauben,
+dass Du siegst, Jesus Christ.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du, Herr, heißt uns lieben,
+für den andern da zu sein.
+Hilf uns glaubhaft Liebe üben,
+dass man sieht: Wir sind Dein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du, Herr, heißt uns hoffen
+und gelassen vorwärts schaun,
+allen steht die Zukunft offen,
+die sich Dir anvertraun.</lines>
+    </verse>
+  </lyrics>
+</song>

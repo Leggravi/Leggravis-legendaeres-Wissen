@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Vater, unser Vater, alle Ehre deinem Namen!</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bist zu uns wie ein Vater, der sein Kind nie vergisst,
+der trotz all seiner Größe immer ansprechbar ist.
+Deine Herrschaft soll kommen, das, was du willst, geschehn.
+Auf der Erde, im Himmel sollen alle es sehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vater, unser Vater, alle Ehre deinem Namen!
+Vater, unser Vater, bis ans Ende der Zeiten. Amen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gib uns das, was wir brauchen, gib uns heut unser Brot.
+Und vergib uns den Aufstand gegen dich und dein Gebot.
+Lehre uns zu vergeben, so wie du uns vergibst.
+Lass uns treu zur dir stehen, so wie du immer liebst.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nimm Gedanken des Zweifels und der Anfechtung fort.
+Mach uns frei von dem Bösen durch dein mächtiges Wort.
+Deine Macht hat kein Ende, wir vertrauen darauf;
+Bist ein herrlicher Herrscher und dein Reich hört nie auf.</lines>
+    </verse>
+  </lyrics>
+</song>

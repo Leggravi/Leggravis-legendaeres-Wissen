@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:09">
+  <properties>
+    <titles>
+      <title>Wir fahrn dahin. Wirf helles Licht, Herr Jesu Christ</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Fritzsche (1939)</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir fahrn dahin.
+Wirf helles Licht, Herr Jesu Christ,
+auf alle Straßen hin!
+Auf dich wir glaubend trauen.
+Beim Scheidegruß aufschauen
+wir nun in festem Sinn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dein Wort die Fahn!
+Herr Jesu Christ, du Führer bist,
+der Heerfahrt Ziel und Plan.
+Geleit uns durch die Zeiten
+und brich du selbst beim Streiten
+der Botschaft freie Bahn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Behüt euch Gott!
+Bleibt allezeit zu Kampf und Streit
+des Herren Aufgebot.
+Zum Dienst und harten Ringen
+schenk Gott euch sein Gelingen,
+speis euch mit Lebensbrot.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Steht ihr allein
+und trifft euch Not: der Herr ist Gott.
+Herr Christus, bringe heim,
+die treu den Kampf gestritten,
+im Elend hart gelitten;
+leucht uns mit hellem Schein.</lines>
+    </verse>
+  </lyrics>
+</song>

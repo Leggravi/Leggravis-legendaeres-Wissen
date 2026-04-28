@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:51">
+  <properties>
+    <titles>
+      <title>Mit dem Herrn fang alles an</title>
+    </titles>
+    <authors>
+      <author type="words">Christoph Christian Hohlfeld (1833)</author>
+      <author type="music">Karl Julius Hermann Grobe</author>
+    </authors>
+    <ccliNo>4340359</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mit dem Herrn fang alles an!
+Kindlich musst du ihm vertrauen,
+darfst auf eigne Kraft nicht bauen;
+Demut schützt vor stolzem Wahn.
+Mit dem Herrn fang alles an!
+Mit dem Herrn fang alles an!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mit dem Herrn fang alles an!
+Die sich ihn zum Führer wählen,
+können nie das Ziel verfehlen;
+sie nur gehn auf sichrer Bahn.
+Mit dem Herrn fang alles an!
+Mit dem Herrn fang alles an!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mit dem Herrn fang alles an!
+Mut wird dir der Helfer senden,
+froh wirst du dein Werk vollenden,
+denn es ist in Gott getan.
+Mit dem Herrn fang alles an!
+Mit dem Herrn fang alles an!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:07">
+  <properties>
+    <titles>
+      <title>Ich hab dich je und je geliebt</title>
+    </titles>
+    <authors>
+      <author type="words">Helga Poppe (1979)</author>
+      <author type="music">Helga Poppe</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich, der Herr, dein Gott,
+habe dich gemacht,
+schön und wertvoll bereitet,
+du bist mein!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich, der Herr, dein Gott,
+habe dich erlöst,
+rief dich bei deinem Namen,
+du bist mein!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich, der Herr, dein Gott,
+will stets bei dir sein,
+keine Not kann dir schaden,
+du bist mein!</lines>
+    </verse>
+  </lyrics>
+</song>

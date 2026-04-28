@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Aus Gnade, nur aus Gnade</title>
+    </titles>
+    <authors>
+      <author type="words">Corina Schweizer</author>
+      <author type="music">Corina Schweizer</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aus Gnade, nur aus Gnade hast Du mich vom Tod befreit.
+Weil ich Jesus Christus habe, lebe ich in Ewigkeit.
+O mein Vater, nur aus Gnade hast Du mich gerecht gemacht.
+Du hast meine Schuld vergeben, Trost und Hoffnung mir gebracht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aus Gnade, nur aus Gnade niemals durch mein eignes Tun,
+kann ich nun vor Dir bestehen und in Deiner Liebe ruhn.
+O mein Vater, nur aus Gnade nahmst Du als Dein Kind mich an.
+und ich weiß, dass nichts auf Erden, mich Dir je entreißen kann.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aus Gnade, nur aus Gnade richtest Du mich wieder auf,
+wenn ich falle und versage, und zeigst mir den Weg nach Haus.
+O mein Vater, durch die Gnade kann ich Überwinder sein.
+Deine Kraft wird mir genügen, Deine Gnade trägt mich heim.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Aus Gnade, nur aus Gnade werde ich im Thronsaal stehn
+und mit unzählbaren Scharen meinen Herrn und Retter sehn.
+O mein Vater, Deine Gnade, die mich trug durch diese Zeit,
+werd ich dann erst ganz verstehen dort im Licht der Ewigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

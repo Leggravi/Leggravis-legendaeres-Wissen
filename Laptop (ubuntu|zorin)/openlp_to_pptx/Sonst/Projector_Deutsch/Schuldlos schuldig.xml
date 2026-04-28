@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Schuldlos schuldig</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es war noch nie so dunkel, nie so kalt:
+Ein Kreuz auf einem Hügel,
+starres Schweigen, Hohn und Spott.
+Die Liebe stirbt an Gleichmut und Gewalt
+und flüstert leise Worte:
+„Warum bist du fort, mein Gott“</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Schuldlos schuldig
+und verraten
+hängst du zwischen Gott und Welt.
+Bist in unsern Krieg geraten
+und machst Frieden,
+und machst Frieden,
+der ewig hält.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du stirbst an satter Überheblichkeit,
+an tausend schalen Träumen
+einer selbstgerechten Welt.
+Du stirbst an stolzer
+Gottvergessenheit,
+an selbsterdachten Zielen,
+falschen Wegen ungezählt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Es war noch nie so dunkel, nie so kalt.
+Doch so bricht Gottes Gnade
+heiß in unsre kühle Welt.
+Liebe besiegt gewaltig die Gewalt.
+Wir feiern die Versöhnung
+zwischen Gott und seiner Welt.</lines>
+    </verse>
+  </lyrics>
+</song>

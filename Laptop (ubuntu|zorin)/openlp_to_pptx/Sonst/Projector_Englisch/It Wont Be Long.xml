@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It Won't Be Long</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It won't be long,
+Soon we'll be leaving here
+It won't be long,
+We'll be going home</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Count the years as months,
+And count the months as weeks,
+And count the weeks as days,
+Anyday now we'll be going home.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We shall be like Him
+We shall be like Him
+We shall be like Him
+Anyday now we'll be going home</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We shall be like Him, like Jesus
+We shall be like Him, like Jesus
+In a twinkling of an eye
+In the moment of time
+We'll be going home.</lines>
+    </verse>
+  </lyrics>
+</song>

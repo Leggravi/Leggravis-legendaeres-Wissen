@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Komm zu Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">J. Hart</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verwundet, schwach, ein Sünder,
+verloren, wenn du stirbst.
+O, heb den Kopf, weil Liebe um dich wirbt.
+Komm zu Jesus,
+komm zu Jesus,
+komm zu Jesus und leb.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jetzt ist die Last verschwunden,
+ins tiefste Meer versenkt.
+Sein Tod hat dir das Leben neu geschenkt.
+Nun sing zu Jesus,
+sing zu Jesus,
+sing zu Jesus und leb.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hab keine Angst zu krabbeln,
+als neugebornes Kind.
+Vergiss nicht, manchmal fallen wir auch hin.
+Dann fall auf Jesus,
+fall auf Jesus,
+fall auf Jesus und leb.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dein Weg ist manchmal einsam,
+gepflastert auch mit Schmerz.
+Dein Himmel schwarz und tränenvoll dein Herz.
+Dann schrei zu Jesus,
+schrei zu Jesus,
+schrei zu Jesus und leb.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wenn Liebe übersprudelt,
+Musik die Nacht erfüllt,
+die Freude deine Leidenschaft enthüllt.
+Dann tanz für Jesus,
+tanz für Jesus,
+tanz für Jesus und leb.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Und mit dem letzten Herzschlag,
+sage Lebewohl.
+Geh in Frieden, denn er wartet schon.
+Flieg heim zu Jesus,
+heim zu Jesus,
+heim zu Jesus und leb!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Keep Falling in Love with Him (2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I keep falling in love with Him,
+Over and over and over
+and over again;
+I keep falling in love with Him,
+Over and over and over
+and over again;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He gets sweeter and sweeter
+as the days go by,
+Oh, what a love between
+my Lord and I,
+I keep falling in love with Him;
+Over and over and over
+and over again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I first fell in love with Jesus,
+I have Him all my heart.
+I didn't think I could love Him no more,
+Than I did right at the start.
+When I look back over the mountains,
+And the valleys where we've been.
+It let's me know I could love Him so
+Much more than I did then.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>His Name is Jesus, Jesus,
+Sad hearts weep no more;
+He has healed the broken hearts,
+Open wide the prison's door;
+He is able, to deliver ever more.</lines>
+    </verse>
+  </lyrics>
+</song>

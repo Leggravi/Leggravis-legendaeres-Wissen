@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The door of Mercy</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mercy's door is open wide today
+Jesus said there is no other way
+You can come and live forever
+Serve Him while you may
+Don't let that door of mercy close on you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Don't let that door of mercy close on you,
+Don't let that door of mercy close on you,
+Time is swiftly passing, life will soon be through,
+Don't let that door of mercy close on you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If you're walking daily by His side
+In the rock of ages you may hide
+What an awful feeling,
+To be standing there outside
+And let that door of mercy close on you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When you face that judgement day my friend,
+Will you hear Him say come enter in?
+Or depart from Him forever
+You've lived your life in sin
+And let that door of mercy close on you.</lines>
+    </verse>
+  </lyrics>
+</song>

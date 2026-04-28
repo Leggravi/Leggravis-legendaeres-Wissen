@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Zu deinen Füßen</title>
+    </titles>
+    <authors>
+      <author type="words">Anja Lehmann</author>
+      <author type="music">Zach Neese</author>
+      <author type="translation">The more I seek you</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Je mehr ich dich suche
+Desto mehr erkenne ich dich
+Und je mehr ich erkenne
+Desto lieber hab ich dich</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zu deinen Füßen sitze ich
+Trink aus dem Becher den du reichst
+Lehn mich an und atme aus
+Fühl dein Herzschlag</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und diese Liebe ist so viel
+Tiefer als ich es begreife
+Und dieser Friede den du gibst
+Ist überwältigend</lines>
+    </verse>
+  </lyrics>
+</song>

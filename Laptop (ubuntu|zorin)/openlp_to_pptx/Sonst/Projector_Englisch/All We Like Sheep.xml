@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All We Like Sheep</title>
+    </titles>
+    <authors>
+      <author type="words">Don Moen</author>
+      <author type="music">Don Moen</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All we like sheep have gone astray
+Each of us turning our own
+separate way
+We have all sinned and fallen short
+ of Your glory</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But Your glory is what we desire to see
+And in Your presence
+is where we long to be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh Lord, show us Your mercy and grace
+Take us to Your Holy place
+Forgive our sin and heal our land
+We long to live
+In Your presence once again</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Taking our sickness, taking our pain
+Jesus the sacrifice Lamb has been slain
+He was despised, rejected by men,
+He took our sin.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Draw us near to You Father
+through Jesus Your Son
+Let us worship before You
+And cleansed by Your blood.</lines>
+    </verse>
+  </lyrics>
+</song>

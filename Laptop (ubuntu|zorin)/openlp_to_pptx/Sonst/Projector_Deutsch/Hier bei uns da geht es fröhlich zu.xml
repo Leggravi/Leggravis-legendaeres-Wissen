@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hier bei uns, da geht es fröhlich zu</title>
+    </titles>
+    <authors>
+      <author type="words">Elisabeth Hammer</author>
+      <author type="music">Hans-Gerhard Hammer</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hier bei uns, da geht es fröhlich zu,
+wir haben meistens etwas zum Lachen.
+Kommt herbei, wir laden alle ein,
+dann feiern wir zusammen ein Fest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gott gab uns Hände, er gab uns Füße,
+er gab uns einen frohen Sinn,
+er gab uns Freunde, die uns verstehen,
+er sandte uns zum Nächsten hin.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hier bei uns, da geht es fröhlich zu,
+wir haben meistens etwas zum Lachen.
+Kommt herbei, wir laden alle ein,
+dann feiern wir zusammen ein Fest.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und seh ich einen ganz einsam stehen,
+den Sorgen plagen tief und schwer,
+lad ich ihn ein, mit dem zu gehen,
+der alle Sorgen mit uns trägt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hier bei uns, da geht es fröhlich zu,
+wir haben meistens etwas zum Lachen.
+Kommt herbei, wir laden alle ein,
+dann feiern wir zusammen ein Fest.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mit Jesus haben wir Grund zur Freude,
+er gibt dem Leben einen Sinn.
+Und wenn wir sehen, wie einer leidet,
+dann sendet er uns zu ihm hin.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hier bei uns, da geht es fröhlich zu,
+wir haben meistens etwas zum Lachen.
+Kommt herbei, wir laden alle ein,
+dann feiern wir zusammen ein Fest.</lines>
+    </verse>
+  </lyrics>
+</song>

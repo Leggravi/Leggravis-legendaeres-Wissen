@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There's a sweet sweet pirit in this place</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a sweet sweet spirit in this place
+And I know that it's the spirit of the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There are sweet expressions on each face
+And I know that it's the presence of the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sweet Holy Spirit Sweet heavenly dove
+Stay right here with us
+Filling us with your love
+And for these blessings
+We lift our hearts in praise (hearts in praise)
+Without a doubt we'll know that we have been revived
+When we shall leave this place</lines>
+    </verse>
+  </lyrics>
+</song>

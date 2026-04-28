@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Mar 30, 2021, 11:13:40 PM">
+  <properties>
+    <titles>
+      <title>Näher, noch näher</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Näher, noch näher, fest an dein Herz
+ziehe mich, Jesus, durch Freude und Schmerz!
+Birg mich aus Gnaden in deinem Zelt,
+schirme und schütze mich, Heiland der Welt,
+schirme und schütze mich, Heiland der Welt.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Näher, noch näher! Nichts hab ich hier,
+nichts was als Opfer, Herr, tauget vor dir;
+ach, nur ein sündges Herze ist mein,
+Jesus, mein König, o wasche mich rein!
+Jesus, mein König, o wasche mich rein!</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Näher, noch näher! Ganz in den Tod
+gebe ich willig, mein Heiland und Gott,
+was deinen Segen hemmte in mir:
+weltliche Freuden und irdische Zier,
+weltliche Freuden und irdische Zier.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Näher, noch näher, völliger frei,
+bis alles eigene Ringen vorbei,
+bis all mein Leben dein Abglanz ist
+und du, Herr Jesus, mein alles mir bist!
+Und du, Herr Jesus, mein alles mir bist!</lines>
+    </verse>
+  </lyrics>
+</song>

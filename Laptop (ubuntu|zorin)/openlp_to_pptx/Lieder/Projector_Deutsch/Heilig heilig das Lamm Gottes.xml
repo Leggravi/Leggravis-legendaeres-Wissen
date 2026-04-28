@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heilig, heilig, das Lamm Gottes</title>
+    </titles>
+    <authors>
+      <author type="words">Wolf-Eberhard Röhling</author>
+      <author type="music">Tore W. Aas</author>
+      <author type="translation">Holy Is The Lamb</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heilig, heilig, das Lamm Gottes
+Das geopfert ist
+Lob und Ehre sei dir, dem König
+Auf dem Gnadenthron</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Heilig, heilig, heilig
+Ist der Herr, Gott, allmächtig
+Der war und ist und der da kommt.
+Die ganze Schöpfung singt und
+Preist dich, den König.
+Du bist mir alles, Herr
+Und ich will dich ehren.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn dein Name auch nur erwähnt wird
+Wirkst du Wunder unter uns.
+Jesus, in deinem Namen
+Ist die Kraft zum Leben.
+Welch ein Geheimnis öffnet sich.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Deine Schönheit ist unbeschreiblich.
+Dein Licht strahlt heller als die Sonne.
+Lobpreis und Ehre, Weisheit
+Und Macht sei dir allein.
+Nur dir, dem einzig wahren Gott.</lines>
+    </verse>
+  </lyrics>
+</song>

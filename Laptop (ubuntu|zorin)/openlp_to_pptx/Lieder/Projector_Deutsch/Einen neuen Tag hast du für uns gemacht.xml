@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Einen neuen Tag hast du für uns gemacht</title>
+    </titles>
+    <authors>
+      <author type="words">Eva Lowen</author>
+      <author type="music">Eva Lowen</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Einen neuen Tag hast du für uns gemacht,
+eine neue Tür für uns aufgemacht.
+Einen neuen Tag hast du für dieses Land gemacht,
+eine Tür aus Gold und Licht für uns aufgemacht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir loben und wir preisen Dich,
+wir erheben und anbeten Dich.
+Heil ist uns durch Dich widerfahr'n.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Denn deine Hände, denn deine Hände,
+berühren unser Land.
+Denn deine Hände, denn deine Hände,
+berühren unser Land.</lines>
+    </verse>
+  </lyrics>
+</song>

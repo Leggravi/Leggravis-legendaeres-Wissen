@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Press On</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the valley is deep
+When the mountain is steep
+When the body is weary
+When we stumble and fall</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When the choices are hard
+When we're battered and scarred
+When we've spent our resources
+When we've given our all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In Jesus' Name we press on
+In Jesus' Name we press on
+Dear Lord, with the prize
+Clear before our eyes
+We find the strength to press on</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We have heard from our Lord
+The call of Malachi 4
+Our hearts are rejoicing
+For what we have in store</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We are lonesome for home
+And the saints who've gone on
+To be changed in a moment
+And walk through heaven's door</lines>
+    </verse>
+    <verse name="v6">
+      <lines>In Jesus' Name we press on
+In Jesus' Name we press on
+Dear Lord, with the prize
+Clear before our eyes
+We find the strength to press on</lines>
+    </verse>
+  </lyrics>
+</song>

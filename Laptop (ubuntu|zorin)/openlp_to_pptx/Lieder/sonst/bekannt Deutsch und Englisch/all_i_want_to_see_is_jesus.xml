@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 19, 2025, 9:49:27 PM">
+  <properties>
+    <titles>
+      <title>All I Want to See Is Jesus</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Oh, I know the time is near,
+Where everything that I hold dear
+Will lay before the Holy consuming fire
+All my works and all my deeds
+And every prayer said on my knees
+Will lay before the Holy consuming fire</lines>
+    </verse>
+    <verse name="C2">
+      <lines>All I want to see is Jesus
+All I want to see is Him in me
+All I want to see is Jesus
+Shining through me</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Hurt and self-inflicted pain
+And everything that I thought gain
+Will lay before the Holy consuming fire
+Words of knowledge in His name
+And healing hands that touched the lame
+Will lay before Holy consuming fire</lines>
+    </verse>
+    <verse name="V4">
+      <lines>And here Him say well done
+My precious one
+Well done, well done!
+My faithful one</lines>
+    </verse>
+  </lyrics>
+</song>

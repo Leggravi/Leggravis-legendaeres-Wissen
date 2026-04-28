@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 18, 2020, 10:53:10 AM">
+  <properties>
+    <titles>
+      <title>Die Gott lieben werden sein wie die Sonne</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2 V5 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Noch verbirg die Dunkelheit das Licht,
+und noch sehen wir die Sonne nicht.
+Doch schon zieht ein neuer Tag herauf,
+und das Licht des Morgens leuchtet auf.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Die Gott lieben werden sein wie die Sonne,
+die aufgeht in ihrer Pracht.
+Die Gott lieben werden sein wie die Sonne,
+die aufgeht in ihrer Pracht.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Viele Tränen werden noch geweint,
+und der Mensch ist noch des Menschen Feind.
+Doch weil Jesus für die Feinde starb,
+hoffen wir, weil er uns Hoffnung gab.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Krieg und Terror sind noch nicht gebannt,
+und das Unrecht nimmt noch überhand.
+Doch der Tag, er steht schon vor der Tür.
+Herr, du kommst! Wir danken dir dafür.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Noch verbirgt die Dunkelheit das Licht,
+und noch sehen wir den Himmel nicht.
+Doch die Zeit der Schmerzen wird vergehn,
+und dann werden wir den Vater sehn.</lines>
+    </verse>
+  </lyrics>
+</song>

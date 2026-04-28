@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>For This Cause</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v3 v6 v7 v7 v8 v3 v3 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hope has found its home within me
+Now that I've been found in You
+Let all that I am be all You want me to be
+'Cause all I want is more of You
+'Cause all I want is more of You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let Your presence fall upon us
+I want to see You face to face
+Let me live forever lost in Your love, yeah
+'Cause all I want is more of You
+'Cause all I want is more of You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm living for this cause
+I lay down my life into Your hands
+I'm living for the truth
+The hope of the world, in You I'll stand</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All I want is You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let Your presence fall upon us, Jesus
+I want to see You face to face
+Let me live forever lost in Your love, yeah
+'Cause all I want is more of You
+'Cause all I want is more of You</lines>
+    </verse>
+    <verse name="v6">
+      <lines>All I want is You
+All I want is You
+All I want is You
+All I want is You</lines>
+    </verse>
+    <verse name="v7">
+      <lines>All I want is, all I want is You, Jesus
+All I want is, all I want is You, Jesus
+All I want is, all I want is You, Jesus
+All I want is, all I want is You, Jesus</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Let Your presence fall upon us
+I want to see You face to face
+Let me live forever lost in Your love, yes
+'Cause all I want is more of You
+'Cause all I want is more of You</lines>
+    </verse>
+    <verse name="v9">
+      <lines>'Cause all I want is You
+All I want is You
+All I want is You
+All I want is You</lines>
+    </verse>
+  </lyrics>
+</song>

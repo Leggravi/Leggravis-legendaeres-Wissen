@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Tell Your Children of His Second Coming</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hear ye the trumpet in Zion
+Our Lord is coming back
+to earth again
+In the Holy mountain sound
+the warning
+Call all those who wear the
+yoke of sin.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tell your children and your
+children’s children
+Of the second coming of
+our King
+He will stand upon the
+Mount of Olives
+Salvation to the dying world
+to bring.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Joel prophesied of his wisdom
+If we fail to walk in righteousness
+It will be too late to ask for mercy
+And the dawning of the day will
+end.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 10, 2019, 10:13:29 PM">
+  <properties>
+    <titles>
+      <title>Bless The Lord, Oh My Soul</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Bless the Lord, Oh, my soul,
+And all that is within me
+Bless His holy name.
+Bless the Lord, Oh, my soul
+And all that is within me
+Bless His holy name.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>For He has done great things,
+He has done great things,
+He has done great things,
+Bless His holy name.</lines>
+    </verse>
+  </lyrics>
+</song>

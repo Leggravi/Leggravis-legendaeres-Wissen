@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 29, 2018, 5:06:12 PM">
+  <properties>
+    <titles>
+      <title>All die Fülle ist in Dir. Dank sei dir</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>All die Fülle ist in Dir, o Herr,
+und alle Schönheit kommt von Dir, o Gott.
+All die Fülle ist in Dir, o Herr,
+und alle Schönheit kommt von Dir, o Gott.
+Quelle des Lebens, lebendiges Wasser.
+Halleluja.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Du bist unser König, o Herr,
+Du sitzt auf dem Thron, o Gott.
+Du bist unser König, o Herr,
+Du sitzt auf dem Thron, o Gott.
+Meister des Lebens, ewiger Herrscher.
+Halleluja.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Dank sei dir, ja, Dank sei dir,
+wir danken dir, Herr.
+Dank sei dir, ja, Dank sei dir, o Herr.
+Denn du bist uns nah,
+dein Wirken, Herr, ist offenbar.
+Dank sei dir, ja, Dank sei dir, o Herr.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Die Nacht ist vorgedrungen, der Tag ist nicht mehr</title>
+    </titles>
+    <authors>
+      <author type="words">Jochen Klepper</author>
+      <author type="music">Johannes Petzold</author>
+      <author type="translation">The night is nearly over</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Die Nacht ist vorgedrungen, der Tag ist nicht mehr fern.
+So sei nun Lob gesungen dem hellen Morgenstern.
+Auch wer zur Nacht geweinet, der stimme froh mit ein.
+Der Morgenstern bescheinet auch deine Angst und Pein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dem alle Engel dienen, wird nun ein Kind und Knecht.
+Gott selber ist erschienen zur Sühne für sein Recht.
+Wer schuldig ist auf Erden, verhüll nicht mehr sein Haupt.
+Er soll errettet werden, wenn er dem Kinde glaubt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Die Nacht ist schon im Schwinden, macht euch zum Stalle auf!
+Ihr sollt das Heil dort finden, das aller Zeiten Lauf
+von Anfang an verkündet, seit eure Schuld geschah.
+Nun hat sich euch verbündet, den Gott selbst ausersah.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Noch manche Nacht wird fallen auf Menschenleid und -schuld.
+Doch wandert nun mit allen der Stern der Gotteshuld.
+Beglänzt von seinem Lichte, hält euch kein Dunkel mehr.
+Von Gottes Angesichte kam euch die Rettung her.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gott will im Dunkel wohnen und hat es doch erhellt.
+Als wollte er belohnen, so richtet er die Welt.
+Der sich den Erdkreis baute, der lässt den Sünder nicht.
+Wer hier dem Sohn vertraute, kommt dort aus dem Gericht.</lines>
+    </verse>
+  </lyrics>
+</song>

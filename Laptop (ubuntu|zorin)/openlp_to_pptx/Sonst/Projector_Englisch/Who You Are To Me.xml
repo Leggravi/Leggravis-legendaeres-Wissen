@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Who You Are To Me</title>
+    </titles>
+    <authors>
+      <author type="words">Dave Haywood</author>
+      <author type="music">Dave Haywood</author>
+      <author type="translation">Das bist du für mich</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Some people think You're distant, just some words on a page
+That You're nothing more than fables handed down along the way
+But I've seen You part the waters when no one else could pull me from the deep
+That's who You are to me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Some people think You just live in cathedrals made of stone
+But I know You live inside my heart, I know that it's Your home
+And I've seen You in a sunset and in the eyes of a stranger on the street
+That's who You are to me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You're amazing, faithful, love's open door
+When I'm empty You fill me with hunger for more
+Of Your mercy, Your goodness
+Lord, You're the air that I breathe
+That's who You are to me
+Who You are to me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sometimes I have my doubts, I'm sure that everybody does
+And I wonder when I stumble, am I still worthy of Your love?
+But I know that I get stronger when I'm talking to You down on my knees
+You're everything I need</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You're forever Holy
+You're the Lamb who is worthy
+My forgiveness (My forgiveness), my healer (My healer)
+The Messiah, my Redeemer</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You're amazing, faithful, love's open door
+When I'm empty You fill me with hunger for more
+Of Your mercy, Your goodness
+Lord, You're the air that I breathe
+(Lord, You're the air I breathe)
+That's who You are</lines>
+    </verse>
+    <verse name="v7">
+      <lines>You are greater, higher over it all
+In Your presence, Jesus, I stand in awe
+Of Your mercy, Your goodness
+Lord, You're the air that I breathe
+That's who You are to me</lines>
+    </verse>
+    <verse name="v8">
+      <lines>That's who You are
+That's who You are
+That's who You are
+That's who You are to me
+That's who You are
+That's who You are
+That's who You are
+That's who You are to me</lines>
+    </verse>
+  </lyrics>
+</song>

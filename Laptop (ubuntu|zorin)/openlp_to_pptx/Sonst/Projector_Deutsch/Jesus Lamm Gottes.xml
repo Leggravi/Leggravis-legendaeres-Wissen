@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, Lamm Gottes</title>
+    </titles>
+    <authors>
+      <author type="words">Georg Thurmair</author>
+      <author type="music">Franz Schubert</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Lamm Gottes, in Herrlichkeit droben gekrönet,
+Warest einst hier und hast sterbend am Kreuz uns versöhnet.
+Ewiger Sohn,
+Gingst von dem Kreuze zum Thron,
+Du, der hienieden verhöhnet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deine Geliebten, versammelt, um Dich zu erheben,
+Die Du geführt hast vom Tode zum ewigen Leben,
+Beten Dich an,
+Der Du so Großes getan,
+Selber Dich für uns gegeben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Preis und Anbetung sei Deinem hochheiligen Namen,
+Hoch und erhaben ist er über jeglichen Namen!
+Preis sei schon hier,
+Preis einst in Herrlichkeit Dir!
+Preis sei Dir ewiglich! Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

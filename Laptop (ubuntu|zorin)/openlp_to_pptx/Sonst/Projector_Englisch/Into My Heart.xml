@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Into My Heart</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Into my heart, into my heart
+Come into my heart,
+Lord Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come in today, come in to stay,
+Come into my heart, Lord Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

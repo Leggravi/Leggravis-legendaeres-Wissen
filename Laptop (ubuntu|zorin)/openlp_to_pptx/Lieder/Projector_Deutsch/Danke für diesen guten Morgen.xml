@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Danke für diesen guten Morgen</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Gotthard Schneider</author>
+      <author type="music">Martin Gotthard Schneider</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Danke für diesen guten Morgen,
+danke für jeden neuen Tag.
+Danke, dass ich all meine Sorgen
+auf dich werfen mag.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Danke für alle guten Freunde,
+danke, oh Herr, für jedermann.
+Danke, wenn auch dem größten Feinde
+Ich verzeihen kann.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Danke für meine Arbeitsstelle,
+danke für jedes kleine Glück.
+Danke, dass in der Fern und Nähe
+du die Menschen liebst.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Danke für manche Traurigkeiten.
+Danke für jedes gute Wort.
+Danke, dass deine Hand mich leiten will
+an jedem Ort.</lines>
+    </verse>
+  </lyrics>
+</song>

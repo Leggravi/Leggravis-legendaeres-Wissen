@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Valley of Dry Bones</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I see you lying in.
+This desert dry and parched. .
+Is just a passing test.
+You need to realise, for God to use your life
+He has to bring you out, remake you again
+Be still I say my friend, be sure that everything
+Will work out for your good.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am not a stranger to this valley
+I've walked this road before
+I've stumbled on these rocks, I've fallen on my face
+But I stood right up again.
+It's not the strength I own, but the strength I have in Christ
+I'll pray for you my friend, I'll lend a helping hand
+We'll make it home together.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elijah had his wilderness, Moses ran to Midian
+Israel had to roam 40 years to pass her test.
+Jesus overcame temptation after 40 days and nights
+Yet He was the very life of God.
+I say again my friend, be still and wait on God.
+You'll come out as pure Gold&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

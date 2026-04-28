@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Until He Was All That I Had</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The storm they were facing was fearful
+Their ship seemed so small in the waves
+And the wind just kept blowing harder
+And yet they were still all so safe
+From out of the dark He came walking
+He had never lost them from view
+He can see through the darkest of troubles
+He just wanted them to see it too</lines>
+    </verse>
+    <verse name="v2">
+      <lines>That you'll never be filled till your emptied
+Until your broken you'll never be whole
+Until the potter has tried your vessel with fire
+You'll never come forth as pure gold
+I didn't know how much He loved me
+Until I'd passed through the storm and looked back
+I didn't know Jesus was all that I needed
+Until He was all that I had</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sometimes the storm that your facing
+May seem like your whole world has changed
+And the fire just keeps getting hotter
+As the Potter is shaping the clay
+Friends Jesus knows what He's doing
+Even though it causes you pain
+He just wants us to know the lesson he showed
+His disciples is still the same</lines>
+    </verse>
+  </lyrics>
+</song>

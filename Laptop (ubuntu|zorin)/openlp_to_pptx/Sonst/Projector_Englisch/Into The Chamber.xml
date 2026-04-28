@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Into The Chamber</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Into the chamber, be free Holy Spirit
+Speak to me gently as I close the door
+Heavenly Lover, let Thy presence cover
+Shekinah unending, is all I long for</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Father I worship You out of my spirit
+Praising and thanking You in my own way
+Your heart I covet,
+Lord Your will and purpose
+Into submission I surrender this day</lines>
+    </verse>
+  </lyrics>
+</song>

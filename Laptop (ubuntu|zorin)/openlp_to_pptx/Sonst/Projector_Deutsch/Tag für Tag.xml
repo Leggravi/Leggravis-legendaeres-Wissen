@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Tag für Tag</title>
+    </titles>
+    <authors>
+      <author type="words">Dietrich Werner</author>
+      <author type="music">Indien</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tag für Tag geh ich ein bißchen näher mit dem Herrn.
+Tag für Tag!
+Tag für Tag!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich will folgen, ich will folgen
+Wo Er mich hinführt,
+Wo Er mich hinführt,
+Ich will gehen, ich will gehen
+wohin Er will.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ein neues Lied</title>
+    </titles>
+    <authors>
+      <author type="words">Olaf Trenn</author>
+      <author type="music">Marc Kurepkat</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ein neues Lied will ich singen zu loben meinen Gott
+Ein neues Lied so erklingen, was für Wunder er uns tut.
+Ein neues Lied singt mein Herz, dem Gott, dem ich gehör.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ein neues Lied will ich singen von der Treue meines Herrn.
+Ein neues Lied soll erklingen, er kämpft und hilft uns gern.
+Ein neues Lied singt mein Herz, denn Dir ist niemand gleich!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Denn aus der Grube hast du mich rausgezogen,
+errettet aus allem Schmutz und Schlamm.
+Du stelltest meine Füße auf den festen Grund,
+dass ich sicher treten kann.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und wieder setz ich meine Hoffnungen ganz auf dich.
+Deinen Willen mein Gott, den tue ich,
+meinen Mund lass ich mir stopfen nicht,
+an Dir nur freu ich mich… freu ich mich!</lines>
+    </verse>
+  </lyrics>
+</song>

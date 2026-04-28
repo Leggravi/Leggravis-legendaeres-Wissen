@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ein jeder trage die Last des andern</title>
+    </titles>
+    <authors>
+      <author type="words">Manfred Siebald</author>
+      <author type="music">Manfred Siebald</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ein jeder trage die Last des andern,
+so wie es Jesus geboten hat.
+Ein jeder trage die Last des andern,
+so wie es Jesus für jeden tat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lasten gibt ist genug, jeder trägt sein Paket
+von den Sorgen und Ängsten der Zeit.
+Es gibt Arbeit, die über die Kräfte geht,
+es gibt Schuld, Hass und Lieblosigkeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Er nahm uns von den Lasten das schwerste Stück.
+Er trug unsere Schuld, und dabei machte er
+unsre Hände und unseren Blick
+für die Lasten des anderen frei.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Keiner ist da zu schwach und zu ungeschickt,
+denn wer immer es will, der stellt fest:
+Auch der Schwächste kann tragen, was andre bedrückt,
+wenn er selbst sich von Gott tragen lässt.</lines>
+    </verse>
+  </lyrics>
+</song>

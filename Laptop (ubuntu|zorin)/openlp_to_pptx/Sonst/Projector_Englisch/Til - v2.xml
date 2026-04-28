@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Til - v2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As a man, I admit
+I have so many mistakes
+In my eyes, In my mind
+In my heart always
+Especially by the words I say
+Errors I can see
+Lord You know what I have in me
+What my heart thinks before Thee
+To please men is not my desire
+Be pleasing to You is what I aspire</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To be honest, with all honesty
+To be sincere, with all sincerity
+To be faithful, with all integrity
+Till I see myself in Your image Lord
+Till all Your ways be my ways
+And we are one
+To be loyal, with all loyalty,
+To be waiting, waiting for Thee
+Till all Your love, till all Your deity
+Reveals in me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord I know You had set
+Your predestinated plan
+In Your mind, I was there
+Perfect in Your sight
+With power and authority
+I was with You
+For the meantime I will endure
+By Your Spirit
+I will overcome
+Be watchful to avoid the fall
+Strive my best to live Your Call.</lines>
+    </verse>
+  </lyrics>
+</song>

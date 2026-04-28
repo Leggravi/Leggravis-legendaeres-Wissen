@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God is Good All the Time</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God is good, yes He is.
+He's good all the time.
+God is good, you know He is.
+He's good all the time.
+You can search the whole world over,
+No greater friend you'll find.
+He's not good just once in awhile;
+He's good all the time.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now we've all had friends who've let us down.
+You know what I'm talking about;
+At the very first sign of trouble,
+They're nowhere to be found.
+Well, Jesus stays when others go;
+He'll never leave your side,
+He's your friend in stormy weather'cause
+He's good all the time.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Well, He's the one you call in the middle of the night when
+your body moans with pain.
+Don't worry about that wayward child,
+'Cause He heard you call his name.
+He'll put food in your kitchen when you don't have a dime.
+He's not good just now and then,
+He's good all the time.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You can search the whole world over,
+No greater friend you'll find.
+He's not good just once in awhile,
+He's good all the time.</lines>
+    </verse>
+  </lyrics>
+</song>

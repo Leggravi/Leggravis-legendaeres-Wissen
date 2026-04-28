@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Claim the Blood</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have a source of strength when I am weak,
+That takes me through when life is pressing me.
+I have a source of power from above,
+I'm covered over by a shield of love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I claim the blood Jesus shed on Calvary,
+Those precious blood stains were made there just for me.
+For all my sins, my sickness and my pain,
+When I need healing, I claim those precious blood stains.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I do not know how others make it through,
+Who never go to Calvary as I do.
+For there's a healing, cleansing stream which flows,
+With peace that only His redeemed can know.</lines>
+    </verse>
+  </lyrics>
+</song>

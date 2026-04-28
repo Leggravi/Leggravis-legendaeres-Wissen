@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 13, 2019, 6:08:16 PM">
+  <properties>
+    <titles>
+      <title>Bist du groß oder bist du klein</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Bist du groß oder bist du klein,
+oder mittendrin: Gott liebt dich!
+Bist du dick oder bist du dünn,
+oder mittendrin: Gott liebt dich!</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Er liebt dich, wenn du lächelst,
+er liebt dich, wenn du weinst.
+Er liebt dich, wenn du müde bist,
+er liebt dich, wenn du träumst.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Oh, egal wie du aussiehst,
+egal wie du dich fühlst.
+Gott liebt dich, gib ihm die Ehre!
+Gott liebt dich, gib ihm die Ehre!</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Gott liebt dich
+und dich
+und dich
+und dich
+und mich!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist der Schöpfer des Universums</title>
+    </titles>
+    <authors>
+      <author type="words">Bene Müller</author>
+      <author type="music">Bene Müller</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist der Schöpfer des Universums,
+du bist der König der Könige,
+du bist der Herr über alle Herren in Ewigkeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist der Anfang und auch das Ende,
+du bist der Gott, der die Herzen kennt,
+du bist der Hirte, der seine Schafe beim Namen nennt.  
+Du bist der Schöpfer des Universums</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/: Du hast Worte des ewigen Lebens,
+und das gibst du den Menschen umsonst.
+Wer dich sucht, von dem lässt du dich finden,
+weil du die Menschen liebst. :/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du bist die Hilfe, die nie zu spät kommt,
+du bist der Retter in großer Not,
+du bist der Vater, der seine Kinder nie verlässt.</lines>
+    </verse>
+  </lyrics>
+</song>

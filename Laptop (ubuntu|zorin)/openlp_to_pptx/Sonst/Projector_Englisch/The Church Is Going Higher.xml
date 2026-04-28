@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Church Is Going Higher</title>
+    </titles>
+    <authors>
+      <author type="words">Russell Fragar</author>
+      <author type="music">Russell Fragar</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Church is going higher
+than it's been before,
+Rejoicing over Zion,
+We'll sing forever more;
+We'll renew old acquaintance
+on that golden shore,
+And the Church is going higher
+than it's been before</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On the day of Pentecost
+came a mighty rushing wind,
+Well, it filled the house with power
+all men knew their own language;
+And God gave them just a taste
+of what we all have in store,
+'Cause someday we're going higher
+than we've been before.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God's children have been battered,
+scorned on every hand.
+The world sees the Church
+and says this ship is going down;
+But I have got good news,
+and that the world just can't ignore,
+Victory's already mine,
+I'm going higher than before..</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Rising up, rising up!
+There's a new testament Church
+Rising up.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Your Love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The cross of Calvary
+Is the story that reminds
+Your love for me
+You took my sin and shame
+So I can live again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You won the victory
+For you pay the price that set
+The captives free
+Death is overcome
+Worthy is the Lamb</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus Your love is beautiful
+Jesus Your love is beautiful
+I'm longing to be close to you my Savior
+I'm hungry for more and more of You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There is power in Your name
+There is power in Your name
+There is power in Your name
+Lord Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

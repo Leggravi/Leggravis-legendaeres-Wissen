@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Such Love Pure as the Whitest Snow</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Such Love, Pure As The Whitest Snow
+Such Love, Weeps For The Shame I Know,
+Such Love, Paying The Debt I Owe,
+O, Jesus, Such Love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Such Love, Stilling My Restlessness
+Such Love, Filling My Emptiness
+Such Love, Showing Me Holiness
+O, Jesus, Such Love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Such Love, Springs From Eternity
+Such Love, Streaming Through History,
+Such Love, Fountain Of Life To Me,
+O, Jesus, Such Love.</lines>
+    </verse>
+  </lyrics>
+</song>

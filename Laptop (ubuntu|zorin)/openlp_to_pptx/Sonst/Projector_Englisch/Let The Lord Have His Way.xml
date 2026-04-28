@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let The Lord Have His Way</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the Lord have His way,
+In your heart every day;
+There's no rest, there's no peace,
+Until the Lord has His way.
+Place your life in His hands,
+Rest secure in His plans,
+Let the Lord, let the Lord
+Have His way.</lines>
+    </verse>
+  </lyrics>
+</song>

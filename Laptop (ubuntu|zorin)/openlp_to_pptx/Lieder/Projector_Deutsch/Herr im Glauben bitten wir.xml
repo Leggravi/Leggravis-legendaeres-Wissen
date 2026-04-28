@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, im Glauben bitten wir</title>
+    </titles>
+    <authors>
+      <author type="words">Johanna Meyer</author>
+      <author type="music">Charles W. Frey</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, im Glauben bitten wir nicht
+um irdisch Gut von Dir,
+das vor andern glänzt und prangt
+und wonach die Welt verlangt.
+Sieh, wir wollen, Herr, Du weißt,
+wandeln nur nach Deinem Geist;
+nichts soll Seinem sanften Wehn hemmend
+mehr im Wege stehn!
+Nimm, o Herr, Du allein bleibend
+unsre Herzen ein!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nicht das Fleisch, der Geist allein
+soll in uns der Herrscher sein,
+und wir wollen lauschen still,
+wenn Er mit uns reden will.
+Sieh, wir wollen, Herr, Du weißt,
+wandeln nur nach Deinem Geist;
+nichts soll Seinem sanften Wehn hemmend
+mehr im Wege stehn!
+Nimm, o Herr, Du allein bleibend
+unsre Herzen ein!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Er allein bestimme nun
+unser Renken, Reden Tun,
+also, dass sich kein Gebiet
+Seinem Einfluss mehr entzieht.
+Sieh, wir wollen, Herr, Du weißt,
+wandeln nur nach Deinem Geist;
+nichts soll Seinem sanften Wehn hemmend
+mehr im Wege stehn!
+Nimm, o Herr, Du allein bleibend
+unsre Herzen ein!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Unter Deines Geistes Zucht
+reife still die Geistes frucht;
+jeder müsse an uns sehn
+das, was in uns ist geschehn.
+Sieh, wir wollen, Herr, Du weißt
+wandeln nur nach Deinem Geist;
+nichts soll Seinem sanften Wehn hemmend
+mehr im Wege stehn!
+Nimm, o Herr, Du allein bleibend
+unsre Herzen ein!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Welche Gnade liegt darin,
+ganz zu tun nach Deinem Sinn,
+als Dein Werkzeug dazustehn,
+sich von Dir gebraucht zu sehn!
+Sieh, wir wollen, Herr, Du weißt
+wandeln nur nach Deinem Geist;
+nichts soll Seinem sanften Wehn hemmend
+mehr im Wege stehn!
+Nimm, o Herr, Du allein bleibend
+Unsre Herzen ein!</lines>
+    </verse>
+  </lyrics>
+</song>

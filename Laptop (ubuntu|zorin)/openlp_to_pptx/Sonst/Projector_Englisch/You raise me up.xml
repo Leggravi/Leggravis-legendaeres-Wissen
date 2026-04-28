@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You raise me up!</title>
+    </titles>
+    <authors>
+      <author type="words">Brendan Joseph Graham</author>
+      <author type="music">Rolf Løvland</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I am down, and, oh, my soul, so weary
+When troubles come, and my heart burdened be
+Then, I am still and wait here in the silence
+Until you come and sit awhile with me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You raise me up, so I can stand on mountains
+You raise me up to walk on stormy seas
+I am strong when I am on your shoulders
+You raise me up to more than I can be</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is no life - no life without its hunger
+Each restless heart beats so imperfectly
+But when you come and I am filled with wonder
+Sometimes, I think I glimpse eternity</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You raise me up, so I can stand on mountains
+You raise me up to walk on stormy seas
+I am strong when I am on your shoulders
+You raise me up to more than I can be</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You raise me up to more than I can be</lines>
+    </verse>
+  </lyrics>
+</song>

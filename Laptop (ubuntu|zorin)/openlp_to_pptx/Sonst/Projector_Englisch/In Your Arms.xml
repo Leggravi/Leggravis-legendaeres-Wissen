@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In Your Arms</title>
+    </titles>
+    <authors>
+      <author type="words">Ken Riley</author>
+      <author type="music">Ken Riley</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the waves dash against the boulders
+And my ship's tossed on an angry sea,
+I feel Your hand rest gently on my shoulder,
+You guide me home and still the storm in me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In Your arms, I'm safe inside the harbor,
+In Your arms, my heart can rest at ease,
+Walk with me beside the quiet waters,
+In Your arms is where I long to be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Even if the rainbow's colors faded
+And the sun stopped shining from above,
+No power on Earth nor anything created,
+Could ever separate me from Your love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In Your arms, I'm safe inside the harbor,
+In Your arms, my heart can rest at ease,
+Walk with me beside the quiet waters,
+In Your arms is where I long to be (long to be),
+In Your arms is where I long to be.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>To be.</lines>
+    </verse>
+  </lyrics>
+</song>

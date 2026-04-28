@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Holy Spirit Thou Art Welcome</title>
+    </titles>
+    <authors>
+      <author type="words">Dottie Rambo</author>
+      <author type="music">David Huntsinger</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy Spirit
+Thou art welcome in this place x2
+Omnipotent father
+of Mercy and Grace
+Thou art welcome in this place</lines>
+    </verse>
+  </lyrics>
+</song>

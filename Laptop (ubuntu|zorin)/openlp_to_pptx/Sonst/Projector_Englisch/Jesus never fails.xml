@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus never fails</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>So many souls have tested Him
+throughout the course of time.
+So many still reach out to Him
+with broken hearts and minds.
+And everyone of them will say,
+With no exception that they find
+Jesus never fails</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Even in the days of old,
+He brought His people through.
+And then He came to show
+His love and died for me and you.
+Then He rose again to prove,
+That every story has been true
+Jesus never fails</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus never fails.
+Jesus never fails.
+You might as well get thee
+Behind me, Satan
+You cannot prevail,
+Because Jesus never fails.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sometimes this world brings trouble
+I find so hard to bear.
+I know I could not make it
+without Jesus being there.
+It's so encouraging to know,
+However deep we're in despair
+Jesus never fails.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So what can I do to prove to you,
+Tell me how can you deny?
+No untold facts, no mysteries,
+It's all so cut and dried.
+On the witness stand of your life,
+I'll be the first to testify
+Jesus never fails!</lines>
+    </verse>
+  </lyrics>
+</song>

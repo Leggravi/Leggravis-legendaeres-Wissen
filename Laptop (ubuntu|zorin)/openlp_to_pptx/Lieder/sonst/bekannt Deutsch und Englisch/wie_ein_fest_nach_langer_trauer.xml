@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 23, 2021, 4:51:51 PM">
+  <properties>
+    <titles>
+      <title>Wie ein Fest nach langer Trauer</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Wie ein Fest nach langer Trauer,
+wie ein Feuer in der Nacht.
+Ein offnes Tor in einer Mauer,
+für die Sonne auf gemacht.
+Wie ein Brief nach langem Schweigen,
+wie ein unverhoffter Gruß.
+Wie ein Blatt an toten Zweigen
+ein-ich-mag-dich-trotzdem-Kuss.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>So ist Versöhnung,
+so muss der wahre Friede sein.
+So ist Versöhnung,
+so ist vergeben und verzeihn.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Wie ein Regen in der Wüste,
+frischer Tau auf dürrem Land.
+Heimatklänge für vermisste,
+alte Feinde Hand in Hand.
+Wie ein Schlüssel im Gefängnis,
+wie in Seenot - Land in Sicht.
+Wie ein Weg aus der Bedrängnis
+wie ein strahlendes Gesicht.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Wie ein Wort von toten Worten Lippen,
+wie ein Blick der Hoffung weckt.
+Wie ein Licht auf steilen Klippen,
+wie ein Erdteil neu entdeckt.
+Wie der Frühling, der Morgen,
+Wie ein Lied wie ein Gedicht.
+Wie das Leben, wie die Liebe,
+Wie Gott selbst das wahre Licht</lines>
+    </verse>
+    <verse name="C5">
+      <lines>/: So ist Versöhnung,
+so muss der wahre Friede sein.
+So ist Versöhnung,
+so ist vergeben und verzeihn. :/</lines>
+    </verse>
+  </lyrics>
+</song>

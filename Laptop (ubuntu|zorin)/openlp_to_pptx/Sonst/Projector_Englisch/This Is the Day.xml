@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Is the Day</title>
+    </titles>
+    <authors>
+      <author type="words">Andrew Mitchell</author>
+      <author type="music">Andrew Mitchell</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is the day this is the day
+That the Lord has made;
+That the Lord has made.
+We will rejoice we will rejoice,
+And be glad in it, and be glad in it
+This is the day
+That the Lord has made,
+We will rejoice and be glad in it,
+This is the day this is the day,
+That the Lord has made.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Christ is the day, Christ is the day
+That the Lord has made;
+That the Lord has made.
+We will rejoice we will rejoice,
+And be glad in it, and be glad in it.
+Christ is the day
+That the Lord has made,
+We will rejoice and be glad in it,
+Christ is the day, Christ is the day,
+That the Lord has made.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord, I Need You Now</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The night Is dark my heart is weak
+I've lost my way my soul can't speak
+Tears keep falling drowning me
+Oh Lord where could you be</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have wandered far from grace
+Felt the silence in this place
+But even now through all my pain
+I call your name again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord I need you now, I need you near
+Take my sorrow, take my fear
+Lift me up from this deep sea
+Jesus have mercy on me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The world is loud but I feel alone
+A broken heart, a heart of stone
+If you are here then show me light
+Hold me close through this long night</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I have wandered far from grace
+Felt the silence in this place
+But even now through all my pain
+I call your name again</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Lord I need you now, I need you near
+Take my sorrow, take my fear
+Lift me up from this deep sea
+Jesus have mercy on me</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Even in the Valley you are God
+Even in my Weakness you are Strong
+Through my Tears I Lift my Hands
+I will trust your perfect plan</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Lord I need you now, I need you near
+Take my sorrow, take my fear
+Lift me up from this deep sea
+Jesus have mercy on me</lines>
+    </verse>
+    <verse name="v9">
+      <lines>You are Faithful you are True
+Even when I cannot see
+In my Darkness still I'll Sing
+Jesus, Jesus you're everything</lines>
+    </verse>
+  </lyrics>
+</song>

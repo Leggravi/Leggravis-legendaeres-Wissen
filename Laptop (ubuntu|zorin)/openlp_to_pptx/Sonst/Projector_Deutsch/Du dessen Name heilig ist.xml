@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du, dessen Name heilig ist</title>
+    </titles>
+    <authors>
+      <author type="words">Thomas Eger</author>
+      <author type="music">Thomas Eger</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du, dessen Name heilig ist,
+dich beten wir an, du ewiger Gott.
+Du, der du Herr des Lebens bist,
+dich loben wir laut, o Gott.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Und dass du unser Vater bist,
+lässt uns auf Erden hoffen.
+Und dass du uns als Kinder liebst,
+hält uns den Himmel offen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du, vor dem Lug und Trug zerfällt,
+dich staunen wir an, du heiliger Gott.
+Du, der das Recht in Händen hält,
+dich ehren wir hier, o Herr.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und dass du unser Vater bist,
+lässt uns auf Erden hoffen.
+Und dass du uns als Kinder liebst,
+hält uns den Himmel offen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Du, der uns mit Namen kennst,
+dich rufen wir an, allmächtiger Gott.
+Du, der du Erd und Himmel lenkst,
+dir dienen wir gern, o Gott.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Und dass du unser Vater bist,
+lässt uns auf Erden hoffen.
+Und dass du uns als Kinder liebst,
+hält uns den Himmel offen.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Du, der du selbst die Liebe bist,
+dir danken wir froh, erbarmender Herr.
+Du, dessen Wort wahrhaftig ist,
+dir singen wir zu, o Herr.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Und dass du unser Vater bist,
+lässt uns auf Erden hoffen.
+Und dass du uns als Kinder liebst,
+hält uns den Himmel offen.</lines>
+    </verse>
+  </lyrics>
+</song>

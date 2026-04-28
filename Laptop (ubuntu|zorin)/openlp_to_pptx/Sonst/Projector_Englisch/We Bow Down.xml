@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Bow Down</title>
+    </titles>
+    <authors>
+      <author type="words">Viola Grafström</author>
+      <author type="music">Viola Grafström</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We bow down and we worship lord
+We bow down and we worship lord
+We bow down and we worship lord
+Lord of all Lords he will be</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord lead us into battle</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord lead us into battle,
+Let us glorify your name.
+Holy Spirit you have set our hearts aflame.
+We will never be the same.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh how I love you Jesus.
+What a joy to sing your praise.
+I have placed my hope in You and You alone.
+I've found healing in your name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord fill us with the vision
+To see the church as one
+Break our hearts, release us from our pride.
+Father glorify your bride.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord teach us how to worship.
+May it never be in vain
+Draw us into the throne room of the King
+In your power rule and reign.</lines>
+    </verse>
+  </lyrics>
+</song>

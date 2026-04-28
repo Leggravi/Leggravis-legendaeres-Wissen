@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Is My Reason for Living</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He is my reason for living
+Oh He is the king of all kings
+I long to be His possession
+Oh, He is my everything</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I remember my days of darkness
+Without sunshine or sight to lead my way
+But a whisper of His voice softly calling
+To the arms of my Maker to stay</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He is my reason for living
+Oh, He is the king of all kings
+I long to be His possession
+Oh, He is my everything</lines>
+    </verse>
+    <verse name="v4">
+      <lines>After the lighting and thunder
+After the last bell has rung
+I want to bow down…</lines>
+    </verse>
+  </lyrics>
+</song>

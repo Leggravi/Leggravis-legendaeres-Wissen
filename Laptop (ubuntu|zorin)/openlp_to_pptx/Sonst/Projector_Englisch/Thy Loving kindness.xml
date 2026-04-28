@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thy Loving kindness</title>
+    </titles>
+    <authors>
+      <author type="words">Hugh Mitchell</author>
+      <author type="music">Hugh Mitchell</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My lips shall praise Thee
+Thus will I bless Thee
+I will lift up my hands
+Unto Thy name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thy loving kindness
+Is better than life
+Thy loving kindness
+Is better than life</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I lift my hands Lord
+Unto Thy name
+I lift my hands Lord
+Unto Thy name</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Rememb'ring Thee Lord
+I'm satisfied
+Rememb'ring Thee Lord
+I'm satisfied</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Safe in Thy Shadow
+I will rejoice
+Safe in Thy shadow
+I will rejoice</lines>
+    </verse>
+  </lyrics>
+</song>

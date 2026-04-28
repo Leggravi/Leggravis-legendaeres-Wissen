@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:00">
+  <properties>
+    <titles>
+      <title>Herr, die Erde ist gesegnet</title>
+    </titles>
+    <authors>
+      <author type="words">Heinrich Puchta (1843)</author>
+      <author type="music">O Durchbrecher aller Bande</author>
+    </authors>
+    <ccliNo>4353834</ccliNo>
+    <themes>
+      <theme>Erntedank</theme>
+      <theme>Erntezeit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, die Erde ist gesegnet
+von dem Wohltun deiner Hand.
+Güt' und Milde hat geregnet,
+dein Geschenk bedeckt das Land:
+auf den Hügeln, in den Gründen
+ist dein Segen ausgestreut,
+unser Warten ist gekrönet,
+unser Herz hast du erfreut.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aller Augen sind erhoben,
+Herr, auf dich zu jeder Stund',
+dass du Speise gibst von oben
+und versorgest jeden Mund.
+Und du öffnest deine Hände,
+dein Vermögen wird nicht matt,
+deine Hilfe, Gab' und Spende
+machet alle froh und satt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du gedenkst in deiner Treue
+an dein Wort zu Noahs Zeit,
+dass dich nimmermehr gereue
+deiner Huld und Freundlichkeit.
+Und solang die Erde stehet,
+Über der dein Auge wacht,
+soll nicht enden Saat und Ernte,
+Frost und Hitze, Tag und Nacht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gnädig hast du ausgegossen
+deines Überflusses Horn,
+ließest Gras und Kräuter sprossen,
+ließest wachsen Frucht und Korn.
+Mächtig hast du abgewehret
+schaden, Unfall und Gefahr,
+und das Gut steht unversehret
+und gesegnet ist das Jahr.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Herr, wir haben solche Güte
+nicht verdient, die du getan.
+Unser Wissen und Gemüte
+klagt uns vieler Sünden an:
+Herr, verleih, dass deine Gnade
+jetzt an unsre Seelen rührt,
+dass der Reichtum deiner Milde
+unser Herz zur Buße führt!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hilf, dass wir dies Gut der Erden
+treu verwaltet immerfort!
+Alles soll geheiligt werden
+durch Gebet und Gotteswort.
+Alles, was wir Gutes wirken,
+ist gesät in Deinen Schoß,
+und du wirst die Ernte senden
+unaussprechlich reich und groß.</lines>
+    </verse>
+  </lyrics>
+</song>

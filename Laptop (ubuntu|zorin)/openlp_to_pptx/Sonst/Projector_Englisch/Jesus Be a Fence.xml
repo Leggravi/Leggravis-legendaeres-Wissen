@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, Be a Fence</title>
+    </titles>
+    <authors>
+      <author type="words">Gospel</author>
+      <author type="music">Gospel</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, be a fence all around me everyday,
+Jesus, I want You to protect me as I travel along the way,
+I know You can, yes, Lord, I know You will, yes, Lord
+Fight my battle, yes, Lord, if I just keep still, yes, Lord
+Lord, be a fence all around me everyday</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This is my prayer Lord that I pray each and every day
+That You would guide my footsteps lest I stumble and stray
+Lord, I need You to direct me all the way long,
+Oh, Lord, be a fence all around me everyday, Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sometimes the way get so rough y'all and the nights are so long,
+In my hour of weakness, that old enemy tries to steal my song
+But when he comes like a flood to surround me
+My God will step in and a standard he'll raise
+Oh, Lord, be a fence all around me everyday, ohh Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

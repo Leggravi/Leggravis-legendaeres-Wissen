@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Der Himmel, der ist, ist nicht der Himmel,</title>
+    </titles>
+    <authors>
+      <author type="words">Kurt Marti</author>
+      <author type="music">Winfried Heurich</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1 Der Himmel, der ist,
+ist nicht der Himmel, der kommt,
+wenn einst Himmel und Erde vergehen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2 Der Himmel, der kommt,
+das ist der kommende Herr,
+wenn die Herren der Erde gegangen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3 Der Himmel, der kommt,
+das ist die Welt ohne Leid,
+wo Gewalttat und Elend besiegt sind.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4 Der Himmel, der kommt,
+das ist die fröhliche Stadt
+und der Gott mit dem Antlitz des Menschen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5 Der Himmel, der kommt,
+grüßt schon die Erde, die ist,
+wenn die Liebe das Leben verändert.</lines>
+    </verse>
+  </lyrics>
+</song>

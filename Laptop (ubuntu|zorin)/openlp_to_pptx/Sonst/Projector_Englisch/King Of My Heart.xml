@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>King Of My Heart</title>
+    </titles>
+    <authors>
+      <author type="words">John Mark McMillan</author>
+      <author type="music">John Mark McMillan</author>
+      <author type="translation">Der mein Herz regiert</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the King of my heart
+Be the mountain where I run
+The fountain I drink from
+Oh, He is my Song</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let the King of my heart
+Be the shadow where I hide
+The ransom for my life
+Oh, He is my Song</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/: You are good, good, oh
+You are good, good, oh :/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let the King of my heart
+Be the wind inside my sails
+The anchor in the waves
+Oh, He is my Song</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let the King of my heart
+The fire inside my veins
+The echo of my days
+Oh, He is my Song</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You are good, good, oh
+You are good, good, oh
+Yes, You are good, good, oh
+You are good, good, oh</lines>
+    </verse>
+    <verse name="v7">
+      <lines>/: You’re never gonna let, never gonna let me down
+You’re never gonna let, never gonna let me down :/</lines>
+    </verse>
+    <verse name="v8">
+      <lines>You are good, good, oh
+You are good, good, oh
+You are good, good, oh
+(When the night is holding on to me)
+You are good, good, oh
+(Your are holding on)</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Yes, You are good, good, oh
+(When the night is holding on to me)
+You are good, good, oh
+(Your are holding on)
+You are good, You’re good, oh
+You are good, good, oh</lines>
+    </verse>
+    <verse name="v10">
+      <lines>When the night is holding on to me
+God is holding on
+When the night is holding on to me
+God is holding on</lines>
+    </verse>
+  </lyrics>
+</song>

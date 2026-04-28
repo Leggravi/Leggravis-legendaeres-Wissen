@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 28, 2019, 10:29:34 AM">
+  <properties>
+    <titles>
+      <title>I Stand In Awe</title>
+    </titles>
+    <verseOrder>V1 V2 C3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>You are beautiful beyond description,
+Too marvelous for words,
+Too wonderful for comprehension,
+Like nothing ever seen or heard;</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Who can grasp Your infinite wisdom,
+Who can fathom the depth of Your love?
+You are beautiful beyond description,
+Majesty enthroned above.</lines>
+    </verse>
+    <verse name="C3">
+      <lines>And I stand, I stand in awe of You,
+I stand, I stand in awe of You.
+Holy God to whom
+All praise is due,
+I stand in awe of You.</lines>
+    </verse>
+  </lyrics>
+</song>

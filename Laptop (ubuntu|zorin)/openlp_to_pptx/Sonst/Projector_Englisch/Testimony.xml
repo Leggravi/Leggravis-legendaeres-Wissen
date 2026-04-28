@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Testimony</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I would like to speak
+About what Jesus has done for me
+Since I came into contact with Him
+I had never met
+A God who transforms
+He is Wonderful
+He has done so much for me,
+I want! I want!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I want to give this testimony
+For the glory of God
+I am not what I should be
+I am not what I would like to be
+But one thing is certain
+I am no longer who I was! x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I listened to His Word
+It touched my heart
+I cried a lot for my sins and for my life
+I said, Lord, have mercy on me,
+I didn't know it
+And I repented He changed my life,
+I want! I want!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I don't understand
+What Jesus has placed in me
+He makes me always oppose
+Sin and evil
+He makes me unable to bear
+The desires of the world
+He is Wonderful
+He has done so much for me,
+I want! I want!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My heart has been vaccinated
+Against sin
+I am not afraid to backslide
+For a single moment
+For I have passed from death to life
+I will praise my God
+In the assembly of the Saints,
+I want! I want!</lines>
+    </verse>
+  </lyrics>
+</song>

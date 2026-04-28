@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:51">
+  <properties>
+    <titles>
+      <title>Dass dein Wort in meinem Herzen starke Wurzeln schlägt</title>
+    </titles>
+    <authors>
+      <author type="words">Theo Lehmann (1986)</author>
+      <author type="words">Jörg Swoboda (1986)</author>
+      <author type="music">Jörg Swoboda</author>
+    </authors>
+    <ccliNo>4329947</ccliNo>
+    <themes>
+      <theme>Bibel</theme>
+      <theme>Heilung</theme>
+      <theme>Hingabe</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gut gemeint und schlecht gemacht,
+oberflächlich ausgedacht ist so vieles.
+Es verdorrt ohne dein Wort.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Erst komm ich und dann komm ich.
+Pausenlos geht es um mich.
+Was mich aus dem Strudel reißt,
+ist, Herr, dein Geist.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ist die Weiche falsch gestellt,
+wird am Schluss das Ziel verfehlt.
+Dass ein Mensch die Umkehr schafft,
+wirkt deine Kraft.</lines>
+    </verse>
+  </lyrics>
+</song>

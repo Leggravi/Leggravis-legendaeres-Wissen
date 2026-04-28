@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Resurrection Morning</title>
+    </titles>
+    <authors>
+      <author type="words">Keith Getty</author>
+      <author type="music">Keith Getty</author>
+      <author type="translation">Christus ist auferstanden</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm looking for a day,
+a bright &amp; cloudless morning,
+When the pain of sin and
+ death shall pass away;
+And if I look into the mirror,
+I may see a new reflection,
+And I'll know that it's the breaking
+of that great resurrection morning
+With a body glorified around
+ me forming.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On that resurrection morning
+ bright &amp; fair,
+the saints shall come together
+ and declare
+That all the ones Christ died to save
+ will surely rise up from the grave,
+And together we'll meet Jesus
+ in the air.
+On this resurrection morning
+ no more strife,
+Just peace and joy forever
+-Eternal Life.
+And before that time we may
+ be tossed and torn,
+But we'll be caught up from the
+raging storm-on that resurrection morn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And if I leave this world before you,
+and I cross that crystal tide,
+and be numbered with the ones
+ in Christ awaiting.
+Just remember on that day I'll take
+ a body in perfection,
+And I'll stand before you, shining,
+and you'll know the resurrection is at hand.
+And like a thought we'll be translated
+ to that promised land.</lines>
+    </verse>
+  </lyrics>
+</song>

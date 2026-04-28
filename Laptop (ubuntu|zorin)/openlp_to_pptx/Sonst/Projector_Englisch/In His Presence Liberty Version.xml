@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In His Presence (Liberty Version)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In His presence
+In His holy presence
+The weary can find perfect rest
+And a broken heart restore
+In His presence
+In His holy presence
+There’s nothing like the presence of the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

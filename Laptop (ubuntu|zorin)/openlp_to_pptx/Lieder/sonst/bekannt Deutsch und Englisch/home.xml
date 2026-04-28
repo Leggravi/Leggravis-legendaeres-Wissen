@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Apr 1, 2020, 6:18:46 PM">
+  <properties>
+    <titles>
+      <title>Home</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Home is where the heart is,
+My heart's own home
+Though I never really
+Had one to call my own
+I've been given a key
+By the Carpenter of Galilee
+With interest paid the title's made to me</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Home, where there is no night
+Home, where the Son is the light
+The place I've been dreaming of so long
+Loved ones there to welcome me
+But His sweet face will be the first I see
+When my journey's over I am going home</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Everybody dreams
+Of going home it seems
+Lately I am no exception to the rule
+But home is so much more
+Than windows, walls and doors
+It's a warm embrace
+And smiling faces awaiting you</lines>
+    </verse>
+  </lyrics>
+</song>

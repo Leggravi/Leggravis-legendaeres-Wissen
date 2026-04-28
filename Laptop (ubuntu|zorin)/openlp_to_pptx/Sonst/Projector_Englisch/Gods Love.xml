@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God's Love</title>
+    </titles>
+    <authors>
+      <author type="words">Joel Houston</author>
+      <author type="music">Joel Houston</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Once I thought that love was meant for
+Anyone else but me,
+Once I thought that no one knew the way
+Now that only goes to show
+How wrong we all can be
+Cause now I know He loves me more each day</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God's love is warmer than the warmest sunshine,
+Softer than a sigh,
+God's love is deeper than the deepest ocean,
+Wider than the sky,
+God's love is brighter than the brightest star,
+That shines every night above,
+And there is nothing in this world that can,
+Ever change God's love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Something happened to my heart The day that I met Him,
+Something that I never felt before
+And that something is that,
+He has buried all my sins,
+And now I know He loves me more and more.</lines>
+    </verse>
+  </lyrics>
+</song>

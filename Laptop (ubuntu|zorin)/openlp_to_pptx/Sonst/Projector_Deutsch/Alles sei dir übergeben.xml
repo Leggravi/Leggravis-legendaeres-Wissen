@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Alles sei dir übergeben</title>
+    </titles>
+    <authors>
+      <author type="words">Samuel Elsner</author>
+      <author type="music">Bamberg</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alles sei Dir übergeben,
+Du sollst Rat und Helfer sein.
+Du bist Wahrheit, Weg und Leben,
+Dir vertrau' ich mich allein.
+Geht es gleich durch manche Gedränge,
+Siehst Du doch den Ausgang schon,
+Und Dein Weg trägt in die Länge
+Den erwünschten Sieg davon.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deine Wahrheit kann nicht trügen,
+Weil Du selbst die Wahrheit bist,
+Deine Liebe nie versiegen,
+Weil Du selbst die Liebe bist.
+Du wirst alles das erfüllen,
+Was Dein heilig Wort verheißt,
+Und mein Herz vollkommen stillen.
+Diesen Trost mir nichts entreißt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja, Du wirst mich treu bewahren,
+Leiten mich durch Deinen Geist,
+Und mein Glaube wird erfahren,
+Dass Du Rat und Helfer heißt.
+Ich vertrau' mich Deinen Händen,
+Sehe Deiner Führung zu,
+Und Dein gnädiges Vollenden
+Leitet mich zur ew'gen Ruh'.</lines>
+    </verse>
+  </lyrics>
+</song>

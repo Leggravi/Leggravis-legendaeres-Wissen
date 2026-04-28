@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God is in the shadows</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm just a little flower here I'm blooming by this rock.
+Sometimes it feels so lonely in this isolated spot.
+But living in the valley where He's placed me here to grow.
+I try to do my best for Him, He sees me now I know.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yes, God is in the shadows, in the valley here below,
+He sees one tiny flower as its beauty softly glows.
+He never fails one time, each tiny detail He controls,
+Yes, God is in the shadows, He is every where I go.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He gives me morning sunshine and the cool and gentle rain,
+He softly smiles upon me as I spend a few short days
+He loves me as He made me, He's a loving Heavenly King
+I'm never all alone, He is always watching me.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Is My Desire (2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is my desire
+To honor You
+Lord, with all my heart
+I worship You
+All I have within me
+I give You praise
+All that I adore
+Is in You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, I give You my heart
+I give You my soul
+I live for you alone
+And every breath that I take
+Every moment I'm awake
+Lord, have Your ways in me</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Wrote a Letter to my Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I wrote a letter to my Lord
+I didn't know where ro start.
+There was so much to thank Him for
+that swelled within my heart.
+I thanked Him for the love inside
+that i didn't have befor.
+And at the end i signed it
+I'll be yours forevermore</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I wanna be yours forever, yours forever
+Lord I wanna be
+yours, forever,
+Yours forever, yours forever, yours forever more.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A few days later in Sunday School
+We learned John 3: 16.
+IT told of everlasting life if only we'd believe.
+Now, everlasting means forever
+And i began to see.
+God's Word was a letter to my heart.
+He's written back to me.</lines>
+    </verse>
+  </lyrics>
+</song>

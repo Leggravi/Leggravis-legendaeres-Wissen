@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Just Keep On Believing</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus is leading us on day by day,
+He walks besides us always,
+Giving us the victory
+as we overcome
+And He will be there
+when we lay our burdens down.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Just keep on remembering
+That God Is always near;
+Just keep on believing
+That His love will cast out fear,
+The sun waits to break through,
+And the clouds will roll away,
+If you have faith that
+there will be
+A better brighter day</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Just keep His word before you
+As you walk this narrow way,
+Don’t let Satan get you
+down today,
+Stay by your post of duty,
+The race is almost run,
+Time is late now,
+It’s the setting of the sun.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Because He Lives (Amen)</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Carson</author>
+      <author type="music">Daniel Carson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I believe in the Son
+I believe in the risen One
+I believe, I overcome
+By the power of His blood
+Amen, Amen</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm alive, I'm alive because He lives
+Amen, Amen
+Let my song join the One that never ends
+Because He lives</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I was dead in the grave
+I was covered in sin and shame
+I heard mercy call my name
+He rolled the stone away</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Amen, Amen
+I'm alive, I'm alive because He lives
+Amen, Amen
+Let my song join the One that never ends</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Because He lives (He lives)
+I can face tomorrow
+Because He lives (He lives)
+Every fear is gone
+I know (I know)
+He holds (He holds)
+My life (my life)
+My future in His hands</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Amen, Amen
+I'm alive, I'm alive because He lives
+Amen, Amen
+Let my song join the one that never ends
+Amen, Amen
+I'm alive, I'm alive because He lives
+Amen, Amen</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Let my song join the one that never ends
+Because He lives
+Because He lives</lines>
+    </verse>
+  </lyrics>
+</song>

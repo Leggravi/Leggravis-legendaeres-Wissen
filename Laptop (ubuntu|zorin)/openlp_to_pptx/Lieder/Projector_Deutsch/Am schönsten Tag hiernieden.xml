@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Am schönsten Tag hiernieden</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Am schönsten Tag hienieden,
+wenn Müh und Arbeit fern,
+versammeln wir in Frieden
+uns um das Wort des Herrn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja, Herr, in Deinem Namen
+sind wir beisammen heut.
+Lass Du des Lebens Samen
+recht werden ausgestreut.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gib Deinen Segen allen,
+gib Weisheit und Verstand,
+und möcht der Same fallen
+auf lauter gutes Land.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dass wir die Früchte tragen,
+so schön und vielerlei,
+dass nach des Lebens Tagen
+die Ernte herrlich sei.</lines>
+    </verse>
+  </lyrics>
+</song>

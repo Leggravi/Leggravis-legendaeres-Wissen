@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:10">
+  <properties>
+    <titles>
+      <title>Horch, dein Heiland lässt dich laden</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Bickel (1874)</author>
+      <author type="music">Amerika</author>
+    </authors>
+    <ccliNo>6222523</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Horch, dein Heiland lässt dich laden,
+komm, komm und sieh!
+Zu dem Hochzeitsmahl der Gnaden,
+komm, komm und sieh!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sagt's den Kleinen, sagt's den Großen,
+komm, komm und sieh!
+Keiner wird hinaus gestoßen,
+komm, komm und sieh!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Komm, eh' dich die Nacht ereilet,
+komm, komm und sieh!
+Jesus rettet, Jesus heilet,
+komm, komm uns sieh!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gott will dir viel Gnad' erweisen,
+komm, komm und sieh!
+Dich an seinem Tische speisen,
+komm, komm und sieh!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Alle, die den Tisch umringen,
+komm, komm und sieh!
+Darum auch mit Freuden singen:
+komm, komm und sieh!</lines>
+    </verse>
+  </lyrics>
+</song>

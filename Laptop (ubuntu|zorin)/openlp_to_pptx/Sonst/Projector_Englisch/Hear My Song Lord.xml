@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hear My Song Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v4 v5 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hear my song Lord
+You fill me with music
+Hear my words Lord
+You fill me with praise
+Take this moment
+I just can't waste it
+This one is Yours Lord
+I give You this day</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I'm hungry
+You feed me living bread
+When I'm thirsty
+Water of Life…
+I will not fear
+You're always with me
+Every need I have
+You satisfy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hear Your children, oh Lord
+We are lifting our praise to You
+Let singing like incense now rise to Your throne
+Come dwell in the place hollowed out for Your Spirit
+Come make of our praises Your temple Your home</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hear my song, Lord (hear Your children, oh Lord)
+You fill me with music (we are lifting our praise to You)
+Hear my words, Lord (let singing like incense now)
+You fill me with praise (rise to Your throne)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Take this moment (come dwell in the place hollowed out)
+I just can't waste it (for Your Spirit)
+This one is Yours, Lord (come make of our praises Your)
+I give you this day (temple Your home)</lines>
+    </verse>
+  </lyrics>
+</song>

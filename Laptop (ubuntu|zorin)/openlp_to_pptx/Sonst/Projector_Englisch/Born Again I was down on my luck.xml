@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Born Again (I was down on my luck...)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v2 v3 v4 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was down on my luck,
+I was stuck
+I was running 'round
+broken-hearted
+I was sinking so fast
+I couldn't last falling apart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You could've ran away
+Leaving me there in my shame
+Leaving me fighting my pain
+But You made a better way</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I've been saved
+Goodbye to the sinner,
+I'm held by the Father above
+No more shame, for
+I'm out of the desert and
+drowned in the power of love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Amazing grace,
+My soul set free
+Ain't no grave,
+Got a hold on me
+I'm born again, born again
+Washed by the water, I'm clean</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My eyes have been open
+You're showing me all of
+my life in a new light
+Every step, every breath
+Like it's the first time</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Preacher told me
+the good, good news,
+Went way down deep
+in the river blue,
+Preacher told me
+the good, good news,
+And ever since my heart met You</lines>
+    </verse>
+  </lyrics>
+</song>

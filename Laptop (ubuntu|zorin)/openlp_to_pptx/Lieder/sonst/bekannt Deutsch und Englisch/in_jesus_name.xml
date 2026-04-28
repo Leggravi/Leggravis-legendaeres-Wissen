@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Apr 12, 2020, 5:30:46 PM">
+  <properties>
+    <titles>
+      <title>In Jesus name</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4 V5 V6 V7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>God is fighting for us
+God is on our side
+He has overcome
+Yes, He has overcome</lines>
+    </verse>
+    <verse name="V2">
+      <lines>We will not be shaken
+We will not be moved
+Jesus You are here, oh…</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Carrying our burdens
+Covering our shame
+He has overcome
+Yes, He has overcome</lines>
+    </verse>
+    <verse name="V4">
+      <lines>We will not be shaken
+We will not be moved
+Jesus You are here</lines>
+    </verse>
+    <verse name="V5">
+      <lines>I will live, I will not die
+The resurrection power of Christ
+Alive in me and I am free
+In Jesus' Name</lines>
+    </verse>
+    <verse name="V6">
+      <lines>I will live, I will not die
+I will declare and lift You high
+Christ revealed and I am healed
+In Jesus' Name</lines>
+    </verse>
+    <verse name="V7">
+      <lines>God is fighting for us
+Pushing back the darkness
+Lighting up the Kingdom
+That cannot be shaken
+In the Name of Jesus
+Enemy's defeated
+And we will shout it out
+Shout it out</lines>
+    </verse>
+  </lyrics>
+</song>

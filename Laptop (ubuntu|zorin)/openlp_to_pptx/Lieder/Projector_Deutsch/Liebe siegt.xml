@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Liebe siegt</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ein Ereignis hat die Welt geprägt für die Ewigkeit
+Eine Schlacht, wurde einmal geführt für alle Menschheit
+Auf dem Hügel bei Jerusalem der sündlose Erlöser hing am Kreuz
+Verlassen und allein, kam Gott selbst und zahlte diesen Preis</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dort ein Grab, wird bewacht von den Soldaten, in dem Jesus liegt
+Und ein Stein, der den Anschein erweckt, dass Hoffnung vergebens ist
+Doch der Tod wurde besiegt, als morgens dann das Licht des Tages kam
+In Dunkelheit kam Licht, denn Gott alleine hat das letzte Wort</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Liebe siegt, Jesus Christus lebt
+Liebe siegt, für alle Ewigkeit
+Ruhmvoll ist er auferstanden, Jesus das Lamm Gottes
+Es ist vollkommen vollbracht, Liebe siegt
+
+Haleluja, Haleluja, Haleluja
+Halleluja, Christus überwand (Christus überwand)
+Haleluja, Haleluja
+Halleluja, Christus überwand, überwand
+
+Liebe siegt, Jesus Christus lebt
+Liebe siegt, für alle Ewigkeit
+Ruhmvoll ist er auferstanden, Jesus das Lamm Gottes
+Es ist vollkommen vollbracht, Liebe siegt</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Gottes Lamm, das an des Kreuzes Stamm</title>
+    </titles>
+    <authors>
+      <author type="words">Walter Brockhaus</author>
+      <author type="music">Straßburg</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Gottes Lamm, das an des Kreuzes Stamm
+die Strafe auf sich nahm für meine Sünden,
+ich liebe Dich, der Du Dich gabst für mich,
+und werde ewiglich Dein Lob verkünden.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Auf Erden hier zu Deines Namens Zier,
+weih' ich mein Leben Dir zum Eigentume.
+So nimm mich hin, Leib, Seele, Herz und Sinn,
+ja, alles, was ich bin, zu Deinem Ruhme!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr Jesus, gib, dass stets nur Deine Lieb'
+sei meines Herzens Trieb zu allem Handeln!
+Herr, lehre mich! Verwandle Du mein Ich,
+dass alle sehen Dich in meinem Wandeln!</lines>
+    </verse>
+  </lyrics>
+</song>

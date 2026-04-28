@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Undignified</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Many battles
+Many struggles
+But God has been there for me
+Fighting for me
+Winning for me
+He has never lost a fight</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The number of my scars
+Are the number of my victories
+That's why my praise
+Can never be the same as yours</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Excuse me
+If I get undignified
+You don't know
+Like I know what He has done
+For me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will sing
+I will shout
+I will dance
+I will let them know
+I will let them know</lines>
+    </verse>
+  </lyrics>
+</song>

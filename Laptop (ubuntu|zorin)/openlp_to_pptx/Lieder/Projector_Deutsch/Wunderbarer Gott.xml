@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wunderbarer Gott</title>
+    </titles>
+    <authors>
+      <author type="words">Timo Langner</author>
+      <author type="music">Timo Langner</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist ein wunderbarer Gott. 
+Du bist mein Hirte und mein Tröster. 
+Du bist ein wunderbarer Freund. 
+Du bist mein Heiler, mein Erlöser.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir zwei gehören zusammen. 
+Mit jedem Schritt zum Kreuz hast du gezeigt. 
+Du bist zum Äußersten bereit
+hast mich aus Feindeshand befreit und ich weiß.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ein wunderbarer Gott bist du
+ich sing zu dir, ich ruf dir zu
+Heilig, schön und königlich
+Wunderbar bist du. 
+Wunderbarer Gott ich weiß. 
+Das ganze Universum preist. 
+Die Größe deiner Herrlichkeit
+Wunderbar bist du. 
+Wunderbar bist du. 
+Wunderbar bist du.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du bist mein wunderbarer Jesus. 
+Du bist der Fels auf dem ich Bau. 
+Du bist mein wunderbarer König. 
+Dem ich mein Leben anvertrau.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wir zwei gehören zusammen. 
+Mit jedem Schritt zum Kreuz hast du gezeigt. 
+Du bist zum Äußersten bereit
+hast mich aus Feindeshand befreit und ich weiß.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ein wunderbarer Gott bist du
+ich sing zu dir, ich ruf dir zu
+Heilig, schön und königlich
+Wunderbar bist du. 
+Wunderbarer Gott ich weiß. 
+Das ganze Universum preist. 
+Die Größe deiner Herrlichkeit
+Wunderbar bist du.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Wunderbarer Gott bist du
+ich sing zu dir, ich ruf dir zu
+Heilig, schön und königlich
+Wunderbar bist du. 
+Wunderbarer Gott ich weiß. 
+Das ganze Universum preist. 
+Die Größe deiner Herrlichkeit
+Wunderbar bist du. 
+Wunderbar bist du.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Wunderbar bist du. 
+Wunderbar bist du.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Du bist ein wunderbarer Gott. 
+Du bist mein Hirte und mein Tröster. 
+Du bist ein wunderbarer Freund. 
+Du bist mein Heiler, mein Erlöser.</lines>
+    </verse>
+  </lyrics>
+</song>

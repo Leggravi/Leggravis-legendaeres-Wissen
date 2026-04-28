@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, dein Name sei erhöht</title>
+    </titles>
+    <authors>
+      <author type="words">Karin Geitz</author>
+      <author type="music">Rick Founds</author>
+      <author type="translation">Lord, I lift Your name on high</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, Dein Name sei erhöht,
+Herr, ich singe Dir zur Ehre.
+Danke, dass du in mir lebst,
+danke für Deine Erlösung.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du kamst vom Himmel herab,
+zeigst uns den Weg.
+Herr, Du hast am Kreuz bezahlt
+für meine Schuld.
+Und sie legten Dich ins Grab,
+doch Du stiegst zum Himmel auf,
+Herr, Dein Name sei erhöht.</lines>
+    </verse>
+  </lyrics>
+</song>

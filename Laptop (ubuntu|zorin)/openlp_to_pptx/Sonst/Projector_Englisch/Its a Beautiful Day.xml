@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It's a Beautiful Day</title>
+    </titles>
+    <authors>
+      <author type="words">Stuart Garrard</author>
+      <author type="music">Stuart Garrard</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>So this morning I wake up and
+I looked in the mirror
+And every part of my body was in the place
+Many people died and never saw this day
+So another day I live appreciate
+Don't ever wanna act too high and mighty
+Cause tomorrow I can fall down on my face
+So in everything Lord I give you praise
+And that puts a smile on my face</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord I thank you for sunshine, Thank you for Rain,
+Thank you for joy, Thank you for pain,
+It's a beautiful Day Ey Ey Ey ey
+It's a beautiful Day Ey Ey ey
+Don't fuss and fight let us unite
+We got one life so let's make it right
+It's a beautiful Day Ey Ey Ey ey
+It's a beautiful Day
+It's a beautiful Day, Beautiful day</lines>
+    </verse>
+  </lyrics>
+</song>

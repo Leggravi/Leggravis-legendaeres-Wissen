@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Where Will You Stand</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Where will you stand on
+judgment day
+You better make your mind up
+right away
+You say there’s time you’ll enter in
+But how long have you lived In
+sin
+Now tell me, on that day
+where will you stand?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now the Bible tells that the Word
+of God
+Is revealed to a prophet,
+In Amos three and seven it’s found
+Now the Prophet has all come and gone
+And we are waiting for the rapture
+When the Lord will take the waiting
+Bride away.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There’s a tribulation time that’s wrote
+In the book of Revelation
+The Bride will be in glory
+before that time
+The spirit of God shall be taken away
+And the wicked shall remain
+With those that rejected
+God’s messenger that came.</lines>
+    </verse>
+  </lyrics>
+</song>

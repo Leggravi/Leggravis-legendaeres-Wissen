@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Yes He Can</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sometimes I wonder, is He faithful?
+Does He see me in my trouble?
+Does He understand?
+Sometimes I question if He's able
+Can He rescue, can He save me
+Again and again?
+But when I look back</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Did He move every mountain?
+Did He part every sea?
+Yes, He did
+So yes, He can, oh
+Did He defeat the darkness?
+Did He deliver me?
+Yes, He did
+So yes, He can
+Whoa, yes, He did
+So yes, He can</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Cause sometimes those voices try to tell me
+I'm forgotten, and I've fallen
+Too far from His hands
+But I know what kind of God He is
+And I'm trusting in His promises
+I'm believing and I'm singing
+Yes, He can
+Whoa</lines>
+    </verse>
+    <verse name="v4">
+      <lines>'Cause I've seen too much, now I can't deny
+He's come through every single time
+From the beginning until the end
+He did, He will, He can
+Now, ooh</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Did He move every mountain?
+Did He part every sea?
+Yes, He did
+So yes, He can, oh
+Did He defeat the darkness?
+Did He deliver me?
+Yes, He did
+So yes, He can (movin' a mountain)
+Did He move every mountain? (Part the sea)
+Did He part every sea?
+Yes, He did (oh yes, He did)
+So yes, He can, oh (oh)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Did He defeat the darkness? (He set me free)
+Did He deliver me?
+Yes, He did (oh, I know He will)
+So yes, He can (oh, I know He can)
+Whoa, yes, He did (I know that He can)
+So yes, He can
+Yes, He did
+Yes, He can</lines>
+    </verse>
+  </lyrics>
+</song>

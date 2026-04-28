@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir wollen singn ein’ Lobgesang</title>
+    </titles>
+    <authors>
+      <author type="words">Nikolaus Herman</author>
+      <author type="music">Bartholomäus Gesius</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1) Wir wollen singn ein’ Lobgesang
+Christus dem Herrn zu Preis und Dank,
+der Sankt Johann vorausgesandt,
+durch ihn sein Ankunft macht bekannt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2) Die Buß er predigt in der Wüst:
+»Euer Leben ihr bessern müsst,
+das Himmelreich kommt jetzt herbei,
+tut rechte Buß ohn Heuchelei! «</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3) Man fragt ihn, ob er Christus wär.
+»Ich bin’s nicht, bald wird kommen er,
+der lang vor mir gewesen ist,
+der Welt Heiland, der wahre Christ. «</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4) Er zeigt ihn mit dem Finger an,
+sprach: »Siehe, das ist Gottes Lamm,
+das trägt die Sünd der ganzen Welt,
+sein Opfer Gott allein gefällt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5) Ich bin viel zu gering dazu,
+dass ich auflösen sollt sein Schuh;
+taufen wird er mit Feu’r und Geist,
+wahrer Sohn Gotts er ist und heißt. «</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6) Wir danken dir, Herr Jesu Christ,
+des Vorläufer Johannes ist;
+hilf, dass wir folgen seiner Lehr,
+so tun wir dir die rechte Ehr.</lines>
+    </verse>
+  </lyrics>
+</song>

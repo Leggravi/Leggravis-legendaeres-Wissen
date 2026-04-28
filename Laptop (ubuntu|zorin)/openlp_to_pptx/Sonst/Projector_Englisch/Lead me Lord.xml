@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lead me Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Samuel Sebastian Wesley</author>
+      <author type="music">Frances Ridley Havergal</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lead me Lord, lead me by the hand
+And make me face the rising sun
+Comfort me through all the pain
+That life may bring
+There's no other hope
+That I can lean upon
+Lead me Lord
+Lead me all my life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Walk by me, walk by me across
+The lonely road of everyday
+Take my arms and let your hand
+Show me the way
+Show the way to live inside your heart
+All my days, all my life</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are my Light
+You're the Lamp upon my feet
+All the time my Lord I need You there
+You are my Light, I cannot live alone
+Let me stay by Your guiding love
+All through my life, lead me Lord
+(All through my life, all through my days
+Lead me, Oh Lord. Lead me Lord)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lead me Lord, even though at times
+I'd rather go alone my way
+Help me take the right direction
+Take Your road
+Lead me Lord and never leave my side
+All my days, all my life</lines>
+    </verse>
+  </lyrics>
+</song>

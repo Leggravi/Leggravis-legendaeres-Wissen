@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come Holy Spirit</title>
+    </titles>
+    <authors>
+      <author type="words">Lilo Keller</author>
+      <author type="music">Lilo Keller</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, Holy Spirit I need you
+Come, Holy Spirit I pray
+Come in your strength and your power
+Come in your own gentle way</lines>
+    </verse>
+  </lyrics>
+</song>

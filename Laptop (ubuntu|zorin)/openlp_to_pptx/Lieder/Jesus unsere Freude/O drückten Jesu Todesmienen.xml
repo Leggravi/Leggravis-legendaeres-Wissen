@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:42">
+  <properties>
+    <titles>
+      <title>O drückten Jesu Todesmienen</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Jakob Bossart (1755)</author>
+      <author type="words">Christian Gregor (1755)</author>
+      <author type="words">Christian Ludwig Brau (1777)</author>
+      <author type="music">Wilhelm Amandus Auberlen</author>
+    </authors>
+    <ccliNo>6221809</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O drückten Jesu Todesmienen
+sich meiner Seel auf ewig ein.
+O möchte stündlich sein Versühnen
+in meinem Herzen kräftig sein.
+Denn ach, was hab ich ihm zu danken!
+Für meine Sünden floss sein Blut;
+das heilet mich, den Armen, Kranken,
+und kommt mir ewiglich zugut.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ein Glaubensblick auf Jesu Leiden
+gibt dem verzagten Herzen Mut;
+die Quelle wahrer Geistesfreuden
+ist sein vergossnes teures Blut,
+wenn seine Kraft das Herz durchfließet,
+sein Lieben unsern Geist durchdringt,
+die Glaubenshand sein Kreuz umschließet
+und uns sein Anblick Frieden bringt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Für mich starb Jesus. Meine Sünden
+sind's, die ihn in den Tod versenkt;
+drum lässt er Gnade mir verkünden,
+die mich mit Lebenswasser tränkt.
+O Strom, so lauter, klar und helle,
+mein Herz soll offenstehn für dich;
+du unerschöpfte Friedensquelle,
+ergieße dich doch stets in mich!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herr Jesu, nimm zum Lohn der Schmerzen
+mich Armen an, so wie ich bin!
+Ich setze dir in meinem Herzen
+ein Denkmal deiner Liebe hin,
+die dich für mich in Tod getrieben,
+die mich aus meinem Jammer riss.
+Ich will dich herzlich wieder lieben;
+du nimmst es an, ich bin's gewiss.</lines>
+    </verse>
+  </lyrics>
+</song>

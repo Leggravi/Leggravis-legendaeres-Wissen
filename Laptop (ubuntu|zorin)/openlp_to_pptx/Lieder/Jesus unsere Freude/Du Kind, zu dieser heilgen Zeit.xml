@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:35">
+  <properties>
+    <titles>
+      <title>Du Kind, zu dieser heilgen Zeit</title>
+    </titles>
+    <authors>
+      <author type="words">Jochen Klepper (1938)</author>
+      <author type="music">Gerhard Schwarz</author>
+    </authors>
+    <ccliNo>5732038</ccliNo>
+    <themes>
+      <theme>Weihnachten</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du Kind, zu dieser heil'gen Zeit
+gedenken wir auch an dein Leid,
+das wir zu dieser späten Nacht
+durch unsre Schuld auf dich gebracht.
+Kyrieleison.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Die Welt ist heut voll Freudenhall.
+Du aber liegst im armen Stall.
+Dein Urteilsspruch ist längst gefällt,
+das Kreuz ist dir schon aufgestellt.
+Kyrieleison.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Die Welt liegt heut im Freudenlicht.
+Dein aber harret das Gericht.
+Dein Elend wendet keiner ab.
+Vor deiner Krippe gähnt das Grab.
+Kyrieleison.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Die Welt ist heut an Liedern reich.
+Dich aber bettet keiner weich
+und singt dich ein zu lindem Schlaf.
+Wir häuften auf dich unsre Straf.
+Kyrieleison.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wenn wir mit dir einst auferstehn
+und dich von Angesichte sehn,
+dann erst ist ohne Bitterkeit
+das Herz uns zum Gesange weit.
+Hosianna.</lines>
+    </verse>
+  </lyrics>
+</song>

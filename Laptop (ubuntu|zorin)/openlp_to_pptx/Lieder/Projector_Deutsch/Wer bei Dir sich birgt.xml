@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wer bei Dir sich birgt</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wer bei Dir sich birgt steht fest auf einem Berg,
+denn Du bist seine Burg, sein fester Turm.
+Meine Augen richten sich auf Dich allein,
+denn Du bist meine Burg mein fester Turm.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich vertrau auf Deinen Namen, oh Herr,
+und ich preise Deinen Namen oh Herr,
+nur Du bist für mich Sonne und Schild.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So hoch der Himmel ist, ist Deine Gnade
+über mir, ist Deine Gnade über mir.
+Wenn mein Herz voll Schatten ist,
+strahlt Dein Lächeln über mir,
+strahlt Dein Lächeln über mir.</lines>
+    </verse>
+  </lyrics>
+</song>

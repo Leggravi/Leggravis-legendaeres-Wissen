@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lobt den Herrn! Er ist die Liebe</title>
+    </titles>
+    <authors>
+      <author type="words">1)</author>
+      <author type="music">Elberfeld</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lobt den Herrn! Er ist die Liebe,
+Er verlässt die Seinen nicht.
+Scheint es um uns her auch trübe,
+freundlich strahlt Sein Angesicht,
+freundlich strahlt Sein Angesicht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lobt den Herrn! Er brachte Frieden,
+stand einst für uns im Gericht,
+ging voran im Kampf hienieden
+freundlich strahlt Sein Angesicht,
+freundlich strahlt Sein Angesicht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lobt den Herrn! Er ist voll Gnade,
+ist voll Langmut, Kraft und Licht.
+Sind auch dornig unsre Pfade,
+freundlich strahlt Sein Angesicht,
+freundlich strahlt Sein Angesicht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lobt den Herrn, rühmt Seine Treue!
+Nein, Sein Volk verlässt Er nicht,
+spendet Segen stets aufs neue,
+freundlich strahlt Sein Angesicht,
+freundlich strahlt Sein Angesicht.</lines>
+    </verse>
+  </lyrics>
+</song>

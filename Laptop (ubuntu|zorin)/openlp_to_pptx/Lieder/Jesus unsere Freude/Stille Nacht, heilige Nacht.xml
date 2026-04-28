@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:40">
+  <properties>
+    <titles>
+      <title>Stille Nacht, heilige Nacht</title>
+    </titles>
+    <authors>
+      <author type="words">Joseph Mohr (1816)</author>
+      <author type="music">Franz Xaver Gruber</author>
+    </authors>
+    <ccliNo>4227771</ccliNo>
+    <themes>
+      <theme>Weihnachten</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stille Nacht, heilige Nacht!
+Alles schläft, einsam wacht
+nur das traute, hochheilige Paar.
+Holder Knabe im lockigen Haar,
+schlaf in himmlischer Ruh,
+schlaf in himmlischer Ruh.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Stille Nacht, heilige Nacht!
+Hirten erst kundgemacht,
+durch der Engel Halleluja
+tönt es laut von fern und nah:
+Christ, der Retter, ist da,
+Christ, der Retter, ist da!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Stille Nacht, heilige Nacht!
+Gottes Sohn, o wie lacht
+Lieb aus Deinem göttlichen Mund,
+da uns schlägt die rettende Stund,
+Christ, in Deiner Geburt,
+Christ, in Deiner Geburt.</lines>
+    </verse>
+  </lyrics>
+</song>

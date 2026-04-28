@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Revelation 10: 7</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I see the people,
+they're oh so confused,
+Hearing varied voices
+proclaiming the Truth;
+&quot;Here, &quot; says one,
+&quot;There, &quot; sounds another,
+The poor souls in chaos,
+don't know where to go;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>&quot;Come, &quot; says the Master,
+&quot;I'll give you rest,&quot;
+He has spoken the Word
+for each one to hear;
+But the voices so loud
+have muffled the shout,
+The Door has been opened,
+but the Way they found not;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>But in the days of the Voice
+of the seventh angel,
+When he shall begin to sound,
+The mystery of God should be finished,
+As He has declared
+to His servants, the prophets.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The churches are decked
+with silver and gold,
+So socially attractive,
+so hard to resist;
+But the Voice when it sounds,
+the Message is sure,
+&quot;Come out, my people,
+get back to the Word.&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

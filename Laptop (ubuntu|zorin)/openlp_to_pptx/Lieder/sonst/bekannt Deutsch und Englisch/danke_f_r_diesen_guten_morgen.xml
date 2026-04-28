@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jul 12, 2020, 4:00:13 PM">
+  <properties>
+    <titles>
+      <title>Danke für diesen guten Morgen</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4 V1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Danke für diesen guten Morgen,
+danke für jeden neuen Tag.
+Danke, dass ich all meine Sorgen
+auf dich werfen mag.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Danke für alle guten Freunde,
+danke, oh Herr, für jedermann.
+Danke, wenn auch dem größten Feinde
+Ich verzeihen kann.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Danke für meine Arbeitsstelle,
+danke für jedes kleine Glück.
+Danke, dass in der Fern und Nähe
+du die Menschen liebst.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Danke für manche Traurigkeiten.
+Danke für jedes gute Wort.
+Danke, dass deine Hand mich leiten will
+an jedem Ort.</lines>
+    </verse>
+  </lyrics>
+</song>

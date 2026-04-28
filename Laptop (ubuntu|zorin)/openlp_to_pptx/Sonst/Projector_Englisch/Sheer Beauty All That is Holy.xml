@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sheer Beauty (All That is Holy)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here in your presence
+I fall to my knees
+I’m overcome
+I’m overcome
+I am defeated
+You conquer me
+With your love
+With your love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I raise my hands in surrender
+You have captured my heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are sheer beauty
+Absolute glory
+Consummate mercy
+Incomparable grace
+Infinite power
+Unchanging wonder
+Everything worthy
+Of undying praise
+All that is holy
+All that is holy
+All that is holy
+You are sheer beauty</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Here in your presence
+You speak my name
+I come undone
+I come undone
+All of my worship and
+All of my praise
+Is not enough
+Is not enough</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I raise my hands in surrender
+You have captured my heart</lines>
+    </verse>
+  </lyrics>
+</song>

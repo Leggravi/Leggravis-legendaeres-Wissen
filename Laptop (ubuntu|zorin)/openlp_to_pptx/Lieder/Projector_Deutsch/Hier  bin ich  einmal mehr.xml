@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hier  bin ich , einmal mehr</title>
+    </titles>
+    <authors>
+      <author type="words">Irene Heidenreich</author>
+      <author type="music">Craig Musseau</author>
+      <author type="translation">Here I am, once again (Pour out my heart)</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hier bin ich, einmal mehr, ich geb mich ganz hin; 
+Denn ich weiß, daß du jeden Schrei hörst.
+Du bist da für mich, egal, wie's mir geht und was mich bewegt:
+du gibst Antwort, wenn ich rufe.
+ Deine Worte sind wahr, deine Hoffnung real und ich weiß: 
+Deine Nähe, sie macht mich ganz frei von dem, was mich hält. Ich sehne mich nach dir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>® Ich geb mich ganz hin und sage: Ich liebe dich.
+Ich geb mich ganz hin und sage: Ich brauch dich.
+Ich geb mich ganz hin und sag: ich bin dankbar.
+Ich geb mich ganz hin- denn du bist wunderbar!</lines>
+    </verse>
+  </lyrics>
+</song>

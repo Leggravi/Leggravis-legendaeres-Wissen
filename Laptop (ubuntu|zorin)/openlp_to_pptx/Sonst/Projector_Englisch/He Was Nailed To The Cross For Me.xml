@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Was Nailed To The Cross For Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What a wonderful, wonderful Savior,
+Who would die on the cross for me!
+Freely shedding His precious life blood,
+That the sinner might be made free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He was nailed to the cross for me,
+He was nailed to the cross for me;
+On the cross crucified, for me He died;
+He was nailed to the cross for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thus He left His heavenly glory
+To accomplish His Father's plan;
+He was born of the Virgin Mary,
+Took upon Him the form of man.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He was wounded for our transgressions,
+And He carried our sorrows, too;
+He's the Healer of every sickness,
+This He came to the world to do.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So He gave His life for others
+In redeeming this world from sin,
+And He's gone to prepare a mansion,
+That at last we may enter in.</lines>
+    </verse>
+  </lyrics>
+</song>

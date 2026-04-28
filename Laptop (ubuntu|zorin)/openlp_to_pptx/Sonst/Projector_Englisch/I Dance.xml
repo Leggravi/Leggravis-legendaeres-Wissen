@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Dance</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I'm alone with You, Lord
+My troubles seem to disappear.
+And the peace that comforts me
+Always comes when You are near.
+And Your love's too much for my heart to contain
+Joy too much that my feet won't refrain.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So, I dance like the rain on the roof
+Tell my soul that my spirit's on the loose
+Don't know if anyone will understand
+Feels like an angel's got a hold of my hand,
+So I dance.
+I dance, I dance, I dance.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I think about the ways
+That You have blessed my life,
+I sing a song of praise and thankful tears fill my eyes,
+'Cause Your love's too much for my heart to contain,
+Joy too much that my feet won't refrain.</lines>
+    </verse>
+  </lyrics>
+</song>

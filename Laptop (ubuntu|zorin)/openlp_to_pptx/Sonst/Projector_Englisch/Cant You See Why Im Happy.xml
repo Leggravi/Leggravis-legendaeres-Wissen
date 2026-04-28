@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Can't You See Why I'm Happy</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We know that the end is nearing
+And time is growing so short,
+That God has promised a message
+And promised his word to restore,
+The restoring is now in progress,
+The Bride is accepting His word,
+Her heart is been turned to Her father,
+The Voice Of God She has heard.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Can't you see why I'm happy
+I've accepted the word of the Lord
+The Revealed Word that was spoken
+By the Prophet of Malachi four.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This world has rejected his promise
+The word they're already denied
+That god has favor his chosen
+The elected of this message will find
+We're waiting now for the rapture
+Will change in the twinkling of an eye
+We'll be cought up to meet our master
+We'll bid this old world goodbye.</lines>
+    </verse>
+  </lyrics>
+</song>

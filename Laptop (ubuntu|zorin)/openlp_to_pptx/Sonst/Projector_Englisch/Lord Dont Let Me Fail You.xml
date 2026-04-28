@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord Don’t Let Me Fail You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord don’t let me fail you
+I wonna be in your bride
+When my way grows dark
+Keep me by your side
+When my faith grows weak
+Always let me see
+Something in my life Lord
+You have done for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We follow on our way
+We are all like sheep Lord
+Who’ve gone astray
+Christ is our Saviour
+He’ll never forsake His own
+In this age of sin
+I know He’s gonna lead me home.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sometimes the way is weary
+I am burdened down with tears
+It seems I have no friends to keep
+me here
+Then I hear your voice
+Saying come I am your God
+I will take you through.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Will Not Let You Fall</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I look up to the mountains
+To the hills I turn my eyes
+Who will come to help me
+Can I find a place to hide
+The One who made the heavens
+And the earth will hear my call
+The Lord will come to help me
+And He will not let me fall</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He will not let you fall
+He will not let you fall
+He is never weary and
+He will not let you fall
+He will not let you fall
+He will not let you fall
+He is never weary and
+He will not let you fall</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The One who watches Israel
+Will His vigil keep
+Through the burning sunlight
+And in the darkness deep
+Constantly beside you
+You need not fear at all
+The Lord is there to help you
+And He will not let you fall</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So when you are in danger
+When by trouble you are found
+And your very soul is threatened
+By the evil all around
+In all of your ways and
+In your troubles great and small
+Now and ever after
+He will not let you fall</lines>
+    </verse>
+  </lyrics>
+</song>

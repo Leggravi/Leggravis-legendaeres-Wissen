@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O lieber Herre Jesu Christ</title>
+    </titles>
+    <authors>
+      <author type="words">Michael Weiße</author>
+      <author type="music">Böhmische Brüder</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1) O lieber Herre Jesu Christ,
+der du unser Erlöser bist,
+nimm heut an unsre Danksagung
+aus Genaden.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2) Du hast gesehen unsre Not,
+da wir in Sünden waren tot,
+und bist vom Himmel gestiegen
+aus Genaden.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3) Hast in Marien Jungfrauschaft
+durch deines Heilgen Geistes Kraft
+angenommen unsre Menschheit
+aus Genaden.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4) Du lehrest uns die neu Geburta
+und zeigest an die enge Pfortb
+und den schmalen Steig zum Leben
+aus Genaden.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5) Danach erlittest du den Tod
+in viel Verachtung, Hohn und Spott
+für unsre Sünd und Missetat
+aus Genaden.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6) Du stiegest auf zum höchsten Thron
+zu Gottes Rechten als sein Sohn,
+uns ewiglich zu vertreten
+aus Genaden.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>7) O Christe, versammle dein Heer,
+regiere es mit treuer Lehr
+deinem Namen zu Lob und Ehr
+aus Genaden.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>8) Hilf durch dein Mühe und Arbeit,
+dass es erlang die Seligkeit,
+Lob zu singen in Ewigkeit
+deiner Gnaden.</lines>
+    </verse>
+  </lyrics>
+</song>

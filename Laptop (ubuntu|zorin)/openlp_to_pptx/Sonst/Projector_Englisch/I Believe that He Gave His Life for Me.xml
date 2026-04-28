@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Believe that He Gave His Life for Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I see the sunrise in the morning
+When I feel the wind blow across my face
+When I hear the sound of children playing
+I know it’s all a part of god’s amazing grace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I believe there’s a place called heaven
+I believe in a place called Calvary
+I believe in a man his name is Jesus
+And I believe that he gave his life for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I was there the day my mamma went to heaven
+I held her hand as she closed her eyes to sleep
+I felt the power of ten thousand angels
+Take her soul away to be crowned at Jesus’ feet</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And I believe there’s a place called heaven
+I believe in a place called Calvary
+I believe in a man whose name is Jesus
+And I believe that he gave his life for me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, and I believe that he gave his life for me</lines>
+    </verse>
+  </lyrics>
+</song>

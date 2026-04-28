@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wegebner</title>
+    </titles>
+    <authors>
+      <author type="words">Philip Ngoiei</author>
+      <author type="music">Osinachi Kalu Okoro Egbu</author>
+      <author type="translation">Way Maker</author>
+    </authors>
+    <verseOrder>v1 v1 v2 v2 v3 v4 v2 v2 v5 v6 v7 v7 v7 v8 v2 v2 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist hier mitten unter uns
+Ich bet dich an, ich bet dich an
+Du bist hier, wirkst an diesem Ort
+Ich bet dich an, ich bet dich an</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist Wegebner, Wundervollbringer
+Worteinhalter, Lichtstrahl im Dunkeln
+Mein Gott, das ist, wer du bist</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du bist hier, du rührst jedes Herz
+Ich bet dich an, ich bet dich an
+Du bist hier, du heilst jedes Herz
+Ich bet dich an, ich bet dich an</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du bist hier, du machst Leben neu
+Ich bet dich an, ich bet dich an
+Du bist hier, du machst Herzen heil
+Ich bet dich an, ich bet dich an</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Das ist, wer du bist, das ist, wer du bist  4x</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Auch wenn ich es nicht sehe, wirkst du, Gott
+Auch wenn ich es nicht fühle, wirkst du, Gott
+Du hörst nie auf, zu jeder Zeit wirkst du
+Du hörst nie auf, zu jeder Zeit wirkst du</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Wegebner, Wundervollbringer
+Worteinhalter, Lichtstrahl im Dunkeln
+Mein Gott, das ist, wer du bist (das ist, wer du bist)</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Das ist, wer du bist (wer du bist)
+Das ist, wer du bist (wer du bist)
+Das ist, wer du bist
+Das ist, wer du bist</lines>
+    </verse>
+  </lyrics>
+</song>

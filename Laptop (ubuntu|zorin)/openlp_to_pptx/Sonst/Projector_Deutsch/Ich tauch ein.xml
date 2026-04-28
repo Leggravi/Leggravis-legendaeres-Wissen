@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich tauch ein</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Bruch</author>
+      <author type="music">Joel Davies</author>
+      <author type="translation">Sinking Deep</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wenn ich hier vor dir stehe
+Deine starke Gnade sehe
+Dann ergreift
+Mich deine Liebe
+Du nimmst mich in deine Arme
+Friede hüllt mich ein für immer
+Ich tauch' ein ins Gnadenmeer</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du weckst mich auf
+Gnade zieht mich zu dir
+Denn dir gehört mein Herz
+Die Angst vergeht
+Ich atme ein
+Nehm' deine Liebe an
+Deine Liebe an</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn ich mich auch verirre
+Richt' meine Augen zu dir, Herr des Alls
+So wunderschön
+Hier bei dir bin ich sicher
+Deine Herrlichkeit ergreift mich
+Du nur bist mein Zufluchtsort</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Denn deine Liebe ist so weit und tief
+Ewig umströmt sie mich
+Und nun schau ich auf dich
+Jesus, du bist alles, was ich such'
+Ich bete und ich ruf':
+&quot;Ich will dich kennen, Herr&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

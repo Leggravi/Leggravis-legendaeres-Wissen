@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Valley Is for Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As I look down this mountainside,
+I don't know where this road goes
+The shepherd is leading me to a place where I can grow
+Though it seems to be a trying test
+I have no doubt He knows what's best
+It just might be a place of perfect rest: this valley is for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This valley is for me the waters have been made so sweet
+A pleasant rest for my weary feet,
+this valley is for me
+A far cry from the mountain scene,
+the grass here has been made so green
+My Shepherd chose this route so I can say without a doubt
+This valley is for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Standing here beside still waters,
+I know why I am here today
+This place of restoration will strengthen me along the way
+Through the valley I can feel His presence here is oh-so-real
+And now I know it was his perfect will
+This valley is for me.</lines>
+    </verse>
+  </lyrics>
+</song>

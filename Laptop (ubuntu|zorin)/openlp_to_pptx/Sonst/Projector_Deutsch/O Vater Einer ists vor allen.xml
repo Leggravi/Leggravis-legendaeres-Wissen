@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Vater, Einer ist’s vor allen</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Justin Heinrich Knecht</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Vater! Einer ist’s vor allen.
+Auf Ihn blickst Du mit Wohlgefallen,
+auf den geliebten, Eignen Sohn.
+Wie in dem Schoß der Ewigkeiten,
+so war Er’s in der Füll‘ der Zeiten,
+als Gott und Mensch jetzt auf dem Thron.
+In Ihm sind Deine Wesenheiten,
+Dein Abdruck ist Er und Dein Bild,
+der Abglanz Deiner Herrlichkeiten;
+Er ist’s, der Dein Verlangen stillt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eh‘ diese Schöpfung noch geboren,
+hast Du zum Opfer Ihn erkoren
+als reines, makelloses Lamm.
+Für uns ward er zur Sünd‘, zum Fluche,
+für Dich zum lieblichen Geruche
+am martervollen Kreuzesstamm.
+Er hat vollendet Deinen Willen,
+Dein göttlich großes Werk vollbracht;
+Er kam, um alles zu erfüllen,
+was deine Lieb‘ zuvor bedacht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zu Deiner Rechten hoch erhoben
+der Sohn des Menschen, Vater, droben,
+o wunderbarer Gottesrat!
+Bald wird Er noch zu sich erheben
+die Braut, um dort mit ihr zu leben,
+die Er so teu‘r erkaufet hat.
+Auch sie ist dann zu Deiner Ehre,
+o Gott, zu Deiner Herrlichkeit,
+damit sie Deinen Ruhm vermehre
+von Ewigkeit zu Ewigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

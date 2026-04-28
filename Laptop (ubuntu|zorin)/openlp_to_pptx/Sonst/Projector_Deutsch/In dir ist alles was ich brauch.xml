@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In dir ist alles, was ich brauch</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In Dir ist alles,was ich brauch, in Dir ist alles für mich.
+in Dir ist alles was ich brauch: :|:alles in allem bist Du :|: , Jesus !</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr Du bist unsere Weisheit,
+Herr , Du bist unsre Gerechtigkeit.
+Herr , Du bist unsre Erlösung.
+Herr , Du bist unsere Heiligkeit. ®</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr , Du bist unsre Versorgung,
+gemeinsam mit Dir haben wir den Sieg.
+Wir starben mit Dir und wir leben,
+Du bist die Hoffnung der Herrlichkeit !</lines>
+    </verse>
+  </lyrics>
+</song>

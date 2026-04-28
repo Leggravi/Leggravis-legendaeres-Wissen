@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Behold I Live</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>John was in the Spirit
+On the Lord's day,
+He heard a voice from heaven
+And this is what it said:
+I'm the Alpha and Omega
+The beginning and the end;
+Behold I live forevermore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Behold I live, behold I live,
+Behold I live forevermore,
+Behold I live, behold I live,
+Behold I live forevermore.</lines>
+    </verse>
+  </lyrics>
+</song>

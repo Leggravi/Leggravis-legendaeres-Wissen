@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Unser Mund, der ist voll Jubel</title>
+    </titles>
+    <authors>
+      <author type="words">Kommunität Gnadenthal</author>
+      <author type="music">Kommunität Gnadenthal</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Unser Mund, der ist voll Jubel,
+unser Herz das ist voll Dank,
+daß du uns hast erlöset,
+erkauft ein Leben lang.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir preisen deine Güte,
+die jeden Morgen neu,
+mit der du uns behütet.
+Wie groß ist deine Treu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir richten unsre Blicke
+zu dir, dreieinger Gott,
+und gehen nicht zurücke,
+Nur dir gebührt das Lob.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Was unsre Augen sehen,
+schuf deine Wunderhand.
+Vor dir vereint wir stehen,
+du knüpfst das Liebesband.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord You are Good</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v2 v3 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord You are good
+And Your mercy endureth forever
+Lord You are good
+And Your mercy endureth forever
+People from every nation and tongue
+From generation to generation</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: We worship You
+Hallelujah Hallelujah
+We worship You
+For who You are :/
+You are good</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/: Yes You are :/ x3
+So good, so good
+/: Yes You are :/ x3</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: You are good. all the time all the time. You are good :/ x4
+/: Lord You are good and Your mercy endureth forever :/ x4
+People from every nation and tongue
+From generation to generation</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, hilf siegen, du Fürste des Lebens</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Heinrich Schröder</author>
+      <author type="music">Darmstadt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, hilf siegen, du Fürste des Lebens;
+sieh, wie die Finsternis dringet herein,
+wie sie ihr höllisches Heer nicht vergebens
+mächtig aufführet, mir schädlich zu sein!
+Satan, der sinnet auf allerhand Ränke,
+wie er mich sichte, verstöre und kränke.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, hilf siegen und lass mir's gelingen,
+dass ich das Zeichen des Sieges erlang;
+so will ich ewig Dir Lob und Dank singen,
+Jesus, mein Heiland, mit frohem Gesang.
+Wie wird Dein Name da werden gepriesen,
+wo Du, o Herr, Dich so mächtig erwiesen!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Deine Gnade sei mit uns</title>
+    </titles>
+    <authors>
+      <author type="words">Werner Arthur Hoffmann</author>
+      <author type="music">Werner Arthur Hoffmann</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deine Gnade sei mit uns!
+Lass uns offen vor dir stehn.
+Segne und behüte uns,
+wenn wir auseinandergehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wenn wir auseinandergehn,
+wird dein Friede bei uns sein.
+Hilf uns, Herr, auf dich zu sehn.
+Lass uns nicht allein!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Deine Liebe sei mit uns!
+Zünde sie neu in uns an.
+Schenke, Herr, dass man durch uns
+diese Liebe sehen kann.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Die Gemeinschaft schenkst du uns;
+du verbindest uns mit dir.
+Dein Geist führt und tröstet uns.
+Danke, Vater, du bist hier.</lines>
+    </verse>
+  </lyrics>
+</song>

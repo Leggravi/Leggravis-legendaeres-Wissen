@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du, o Herr, bist unser Leben</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Wilhelm Brockhaus</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du, o Herr, bist unser Leben,
+Unser Heil bist Du allein.
+Dich und Deine Lieb' erheben,
+Kann nur Freude für uns sein.
+Uns zu gut bist Du gestorben,
+Hast uns ganz für Dich erworben.
+Deine Liebe lässt uns nie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wie viel Schmerz hast Du erduldet,
+Wie viel Tränen Du geweint!
+Alles das, was wir verschuldet,
+Lag auf Dir, o Herr, vereint.
+Durch Dein Blut sind wir versöhnet,
+Werden dort mit Dir gekrönet.
+Deine Liebe endet nie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja, Dein Lieben ohn' Ermüden
+Brachte unsern Seelen Ruh',
+Daß wir jetzt in Deinem Frieden
+Wallen Deiner Wohnung zu.
+Deine Freude ist, zu segnen,
+Freundlich allen zu begegnen.
+Deine Liebe ruhet nie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gehen wir durch Kampf und Leiden,
+Deine Liebe hält uns fest.
+Sehen wir hier alles scheiden,
+Deine Lieb' uns nie verläßt.
+Auch die Trübsal wird verschwinden,
+Jeder Kampf sein Ende finden.
+Deine Liebe schwindet nie.</lines>
+    </verse>
+  </lyrics>
+</song>

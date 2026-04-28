@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Complete – v2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here I am, Oh God
+I bring this sacrifice
+My open heart
+I offer up my life
+I look to You, Lord
+Your love that never ends
+Restores me again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So I lift my eyes to You Lord
+In Your strength, will I break through Lord.
+Thank you God, because You are alive in me.
+I know Your love dispels all my fears.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Through the storm I will hold on Lord
+And by faith I will walk on Lord
+Then I'll see beyond my calvary one day
+And I will be complete in You</lines>
+    </verse>
+  </lyrics>
+</song>

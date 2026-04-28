@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Calls Me Friend</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v3 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have a friend, a faithful friend
+And Jesus is His name,
+He will not leave, He stands by me,
+My Shepherd, He remains.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have a friend, a mighty friend
+And Jesus is His name,
+I shall not fear, He holds me near,
+His strength will keep me safe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His name is True King, Lord of Creation,
+Ruler without end,
+I call Him Hope, Peace, Wonderful Savior,
+And what joy that Jesus calls me friend.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I have a friend, the kindest friend
+And Jesus is His name,
+He hears my cry by day or night,
+And wipes my tears away.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>His name is True King, Lord of Creation,
+Ruler without end,
+I call Him Hope, Peace, Wonderful Savior,
+And what joy that Jesus calls me friend,
+He calls me friend.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I have a friend, a Savior friend,
+And Jesus is His name,
+He fought for me on Calvary,
+And trampled on the grave.</lines>
+    </verse>
+  </lyrics>
+</song>

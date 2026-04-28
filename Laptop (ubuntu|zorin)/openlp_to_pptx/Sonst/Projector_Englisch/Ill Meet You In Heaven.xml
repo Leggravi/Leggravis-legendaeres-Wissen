@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'll Meet You In Heaven</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Side by side we stand waiting
+God's command
+Worshipping the savior King
+Living by His grace
+And moving His power
+Jesus will save you as true</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'll meet you in heaven,
+We'll join hands together
+Meet you by the savior's side
+I'll meet you in heaven,
+We'll sing a song together
+Brothers and sisters,
+I'll be there.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Soldiers on the way
+To go where Jesus lead
+To fight the foe
+And you'll overcome
+Heaven is our goal
+To save every soul
+We'll pray that all will be there.</lines>
+    </verse>
+  </lyrics>
+</song>

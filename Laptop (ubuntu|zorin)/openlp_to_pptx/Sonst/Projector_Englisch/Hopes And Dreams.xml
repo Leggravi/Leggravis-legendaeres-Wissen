@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hopes And Dreams</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've got to tell you something
+It might change your life
+I once was lost and broken
+Just like you are tonight
+All out of options
+Living with no hope
+But now I'm done with walking
+Down those same old dead end roads</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have seen the light
+I have come alive
+I tell you I believe in
+The God of hopes and dreams
+Never felt this before
+Tomorrow is an open door
+He's got big plans for me
+The God of hopes and dreams</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know His ways are perfect
+Amazing and divine
+One taste of life abundant
+Absolutely blew my mind</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: Right now - anything is possible
+Caught up - on a love unstoppable
+Don't know what my future holds but I know
+Know Who holds it :/</lines>
+    </verse>
+    <verse name="v5">
+      <lines>(Right now - anything is possible)
+Hopes and dreams
+(Caught up - on a love unstoppable)
+The God of hopes and dreams
+(Right now - anything is possible)
+Hopes and dreams</lines>
+    </verse>
+  </lyrics>
+</song>

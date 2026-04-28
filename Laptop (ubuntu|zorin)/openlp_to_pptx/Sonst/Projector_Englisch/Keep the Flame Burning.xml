@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Keep the Flame Burning</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, I find myself needing you like I've never had before,
+In all of the darkness around me,
+Everyday my hunger's growing more.
+It's clear to me now, You are my only refuge,
+My port in a troubled sea,
+Help me to give my life completely to You
+And make me only what you want me to be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord just keep the flame burning in my heart,
+Light my way with the fire of Your Spirit,
+Keep the flame burning in my heart
+and let it spread to whoever comes near it
+Lord, just keep the flame burning in my heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Children, He knows what you are going through,
+He suffered more than you'll ever know,
+He is drawing us closer and closer to him,
+He'll be back soon, woh, woh, you got to get ready to go</lines>
+    </verse>
+  </lyrics>
+</song>

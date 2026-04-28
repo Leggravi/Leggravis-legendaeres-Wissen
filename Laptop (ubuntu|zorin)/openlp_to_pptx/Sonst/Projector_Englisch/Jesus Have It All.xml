@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Have It All</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v5 v6 v11 v12 v11</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus have my heart,
+My will, my soul
+Jesus have my hopes,
+My dreams, my world.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With joy I lay it down
+With joy I cast
+my crowns
+Jesus have it all!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To You I bring my praise,
+My lips, my song.
+A living sacrifice
+as one reborn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your life is
+now my own
+Your will is what I want.
+Jesus have it all!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus have it all
+Jesus have it all
+To You belongs the glory
+The praise of all the world</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesus have it all
+Jesus have it all
+All blessing and all honor
+All majesty and awe
+Jesus have it all</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jesus have Your church,
+Your love, Your bride
+The joy for which you
+freely gave your life</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Radiant in white
+Washed and purified
+Jesus have us all.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Jesus have Your worth,
+Your due, Your sum
+The praise of every nation,
+tribe, and tongue</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Let all that
+has been made,
+Glorify Your name,
+Jesus have it all.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>/: Jesus have it all! :/</lines>
+    </verse>
+    <verse name="v12">
+      <lines>/: All my days
+All my life
+Have it all. :/</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Be Still and Know</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Unbekannt</author>
+      <author type="translation">Seid still und erkennt, dass ich bin Gott</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Be still and know that I am God, x3
+I am the Lord that healeth thee x2
+You are the Lord that healeth me x3
+In thee my Lord I put my trust x3</lines>
+    </verse>
+  </lyrics>
+</song>

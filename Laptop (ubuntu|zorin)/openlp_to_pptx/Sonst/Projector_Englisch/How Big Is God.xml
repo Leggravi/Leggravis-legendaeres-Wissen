@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>How Big Is God</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Though man may strive to go beyond
+the reef of space,
+To crawl beyond
+the distant glimmering star,
+This world's a room
+so small within my Master's house
+the open sky, but a portion of his yard</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How Big is God
+How big and wide
+His vast domain
+To try to tell,
+these lips can only start.
+He's big enough
+to rule His mighty universe
+yet small enough to live
+within my heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As winter's chill
+may cause the tiny seed to fall
+To lie asleep till
+waked by summer's rain
+The heart grown
+cold will warm and
+throb with life anew
+The Master's touch
+will bring the glow again</lines>
+    </verse>
+  </lyrics>
+</song>

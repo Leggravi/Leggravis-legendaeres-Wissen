@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>By Your Side</title>
+    </titles>
+    <authors>
+      <author type="words">Noel Richards</author>
+      <author type="music">Noel Richards</author>
+      <author type="translation">Nah bei dir will ich sein</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v4 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, dear God, we ask for your favor,
+Come and sweep through this place,
+Oh, we desire You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I just want to be with You be where You are,
+Dwell in your presence, oh, God,
+O, I want to walk with You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I will climb this mountain,
+And I'll step of the shore,
+And I have chosen to follow,
+And be by Your side forever more.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tell me what You want me to do, Lord God,
+Tell me what You want for my life,
+It's Yours, oh, God it's Yours.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Do your will, have Your way,
+Be, Lord Go, d in this place,
+O, I want Your will to be done.</lines>
+    </verse>
+  </lyrics>
+</song>

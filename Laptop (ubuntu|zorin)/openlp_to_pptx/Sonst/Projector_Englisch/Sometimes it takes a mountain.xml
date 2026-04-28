@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sometimes it takes a mountain</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I faced a mountain,
+That I never faced before
+That's why I'm calling on the Lord
+I know it's been awhile,
+But Lord please hear my prayer
+I need you like I never have before.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sometimes it takes a mountain
+Sometimes a troubled sea
+Sometimes it takes a desert
+To get a hold of me
+Your Love is so much stronger
+Then whatever troubles me
+Sometimes it takes a mountain
+To trust you and believe</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Forgive me, Jesus
+I thought I could control
+Whatever life would throw my way
+But this I will admit
+Has brought me to my knees
+I need you Lord and I'm not ashamed to say</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sometimes it takes a mountain
+Sometimes a troubled sea
+Sometimes it takes a desert
+To get a hold of me
+Your Love is so much stronger
+Then whatever troubles me
+Sometimes it takes a mountain
+To trust you and believe</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sometimes it takes a mountain
+To trust you and believe</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Had it not been</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Just suppose God searched through Heaven,
+And couldn't find one willing to be,
+The supreme sacrifice that was needed,
+That would buy eternal life for you and me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Had it not been for a place called Mount Calvary,
+Had it not been for the old rugged cross,
+Had it not been for a man called Jesus,
+Then forever my soul would be lost</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Well I'm so glad He was willing to drink His bitter cup,
+Although He prayed &quot;Father let it pass from me&quot;,
+And I'm so glad He never called Heaven's angels,
+From these hands, Pulled the nails that torment me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then forever my soul would be lost</lines>
+    </verse>
+  </lyrics>
+</song>

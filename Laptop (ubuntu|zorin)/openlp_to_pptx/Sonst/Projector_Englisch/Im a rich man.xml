@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm a rich man</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Some folks just don't understand
+about the things I say
+When food is low and shoes have holes
+and bills are hard to pay
+Even though they look and see
+I might not have a dime
+But keep me hear on testifying
+Claiming all the time</lines>
+    </verse>
+    <verse name="v2">
+      <lines>That I'm a rich man
+Oh, I'm a rich man
+I've got the things that money cannot buy
+Oh, I'm a rich man
+Yes I'm a rich man
+With the greatest gift of all
+Eternal life.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I've got the things that wealthy men
+Would give their money for
+Health and strength and family with children I adore
+The breath I breathe, the blood that flows
+Are precious in His sight
+But most of all the greatest gift
+That's God's eternal life.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Riches are not measured by the money in your hand
+The cars you drive, the clothes you wear
+Your houses or your land
+The greatest thing that you can have
+Don't change from day to day
+They can't be bought, they can't be sold and never pass away.</lines>
+    </verse>
+  </lyrics>
+</song>

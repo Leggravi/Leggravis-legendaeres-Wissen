@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Be Strong</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v2 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The wind blows, the child wakes
+The years go, the heart breaks
+The rains come, the castle falls
+You lose hope, the soul cries
+The fears grow the time flies
+Life goes on, but through it all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be strong, don't be afraid
+You're not alone in this world
+Be strong, take courage and fly
+'Cause now's the time to stand
+Walk in the promised land of life
+Be strong</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A road ends, a dream dies
+You breathe deep, and realize
+To press on, you must believe
+The Lord knows, the tears dry
+You find hope, you live life
+You look back, and finally see peace</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Be strong, don't be afraid
+You're not alone in this world
+Be strong, take courage and fly
+'Cause now's the time to stand
+Walk in the promised land of life</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Feel the wind blow on your face
+Taste the victory of grace
+Touch the joy of freedom knowing you have overcome</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Now's the time to stand
+Walk in the promised land of life
+Be strong
+Be strong</lines>
+    </verse>
+  </lyrics>
+</song>

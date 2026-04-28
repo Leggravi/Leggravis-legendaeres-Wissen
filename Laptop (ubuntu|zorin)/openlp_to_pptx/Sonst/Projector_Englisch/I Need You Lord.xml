@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Need You Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Lindell Cooley</author>
+      <author type="music">Lindell Cooley</author>
+      <author type="translation">Ich brauch dich mehr</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord I come to You today,
+Because I have a need to pray,
+For the troubles in my life,
+they are so great,
+Lord I know beyond a doubt,
+that in myself there is no way out
+So I pray Oh Lord You'll help me find my way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I need You Lord, every day,
+I need You Lord, all the way,
+There is no one to guide my steps,
+Lord I have nobody else
+So Lord You know, I need Your help,
+For I can't make it by myself.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I remember very well,
+when down on my knees I fell,
+With a burden of my sins upon my soul
+When I cried in deep despair,
+And You came and saved me there,
+Then I know Oh Lord that You,
+Can answer prayer.</lines>
+    </verse>
+  </lyrics>
+</song>

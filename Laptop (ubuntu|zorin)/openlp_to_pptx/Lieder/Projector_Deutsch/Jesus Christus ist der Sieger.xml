@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Christus ist der Sieger</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus Christus ist der Sieger über Hölle, Tod u. Teufel, darum lieb ich ihn.
+Er gab meinem Leben Sinn und ew'ges neues Leben, darum sing ich froh von ihm:
+Jesus Christus gestern und auch heute und derselbe auch in Ewigkeiten!
+Fasse seine Hand er wird Dich leiten - er hält Dich für alle Zeiten!</lines>
+    </verse>
+  </lyrics>
+</song>

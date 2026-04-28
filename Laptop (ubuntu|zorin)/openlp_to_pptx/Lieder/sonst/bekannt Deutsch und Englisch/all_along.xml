@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="May 10, 2020, 8:03:34 PM">
+  <properties>
+    <titles>
+      <title>All along</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Time just draws away
+And as I look back on the year
+Memories of happiness and bitter tears
+Through it all there was a common thread that cannot be ignore
+You were there teaching me to be your servant Lord</lines>
+    </verse>
+    <verse name="C2">
+      <lines>All along, your hand has been guiding me
+Shaping my life to be a beautiful song
+All along, you've led me through
+The things that you do would make me strong
+For thou has been there all along</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Every joy and pain had a reason of its own
+Now i've realized that I was not alone
+The changing season of my life would not left us the chance
+But I know you are working to fulfill your plans</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Tomorrow that we turn around
+And I look back unto day
+I will understand your purpose
+And my faithful heart will sing</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich will den Herrn loben allezeit</title>
+    </titles>
+    <authors>
+      <author type="words">Rolf Troche</author>
+      <author type="music">Rolf Troche</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich will den Herrn loben allezeit,
+allezeit, sein Lob soll immerdar in meinem Munde sein,
+in meinem Munde sein,
+sein Lob soll immerdar in meinem Munde sein,
+in meinem Munde sein
+in meinem Munde sein</lines>
+    </verse>
+  </lyrics>
+</song>

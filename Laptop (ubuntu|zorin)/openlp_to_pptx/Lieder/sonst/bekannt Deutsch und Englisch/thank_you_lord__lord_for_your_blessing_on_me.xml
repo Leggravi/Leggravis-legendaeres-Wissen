@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Aug 15, 2025, 7:29:54 PM">
+  <properties>
+    <titles>
+      <title>Thank You Lord, Lord for Your Blessing on Me</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>While the world looks upon me, as I struggle along,
+They say I have nothing but they are so wrong.
+In my heart I'm rejoicing, how I wish they could see;
+Thank You, Lord, for Your blessings on me.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>There's a roof up above me, I have a good place to sleep;
+There's food on my table, and shoes on my feet.
+You gave me Your love Lord, and a fine family;
+Thank You, Lord, for Your blessings on me.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>I know I'm not wealthy and these clothes, they're not new;
+I don't have much money, but Lord I have You.
+And that's all that matters, though the world may not see;
+Thank You, Lord, for Your blessings on me.</lines>
+    </verse>
+  </lyrics>
+</song>

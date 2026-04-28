@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Kommt und singt dem Herrn</title>
+    </titles>
+    <authors>
+      <author type="words">Wort des Glaubens München</author>
+      <author type="music">Leon Patillo</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kommt und singt dem Herrn ein neues Lied.
+Sein Lob erfülle die Erde.
+Er ist der ew'ge Gott und der Herr der Herrn.
+Beuget euch vor ihm
+Halleluja, Ehre sei Gott!
+Halleluja, Ehre sei Gott</lines>
+    </verse>
+  </lyrics>
+</song>

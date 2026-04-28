@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Your Love Awakens Me</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Quilala</author>
+      <author type="music">Chris Quilala</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v3 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There were walls between us
+And by the cross you came and broke them down
+You broke them down
+And there were chains around us
+By Your grace we are no longer bound
+No longer bound</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You called me out of the grave
+You called me into the light
+You called my name and then my heart came alive</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your love is greater
+Your love is stronger
+Your love awakens, awakens, awakens me
+Your love is greater
+Your love is stronger
+Your love awakens, awakens, awakens me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Feel the darkness shaking
+All the dead are coming back to life
+Back to life
+Hear the song awaken
+All creation singing we're alive
+'Cause You're alive</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And what a love we found
+Death can't hold us down
+We shout it out we're alive, 'cause you're alive
+And what a love we found
+Death can't hold us down
+We shout it out we're alive, 'cause you're alive
+And what a love we found
+Death can't hold us down
+We shout it out we're alive, 'cause you're alive</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Your love is greater
+Your love is stronger
+Your love awakens, awakens, awakens me
+Your love is greater
+Your love is stronger
+Your love awakens, awakens, awakens me
+(Oh, oh) Your love awakens me
+(Oh, oh)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Your love is greater
+Your love is stronger
+Your love awakens, awakens, awakens me</lines>
+    </verse>
+  </lyrics>
+</song>

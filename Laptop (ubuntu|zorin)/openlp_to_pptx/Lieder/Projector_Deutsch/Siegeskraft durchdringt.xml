@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Siegeskraft durchdringt</title>
+    </titles>
+    <authors>
+      <author type="words">Wolfgang Kemper</author>
+      <author type="music">Diane Fung</author>
+      <author type="translation">Victory</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Siegeskraft durchdringt das Dunkel unserer Nacht.
+Denn Jesus erstand vom Tod und herrscht voller Macht.
+Die Dunkelheit muss fliehen vor dem Sieger Jesus.
+Sein ist das Reich und die Kraft.
+Niemals wird der Herrscher des Dunkels siegreich sein,
+denn Jesus ist Herr! Jesus ist Herr, Jesus ist Herr, er allein!</lines>
+    </verse>
+  </lyrics>
+</song>

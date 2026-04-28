@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God makes no mistakes</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My life I give to you, o Lord use me I pray
+May I glorify Your precious name in all I do and say
+Let me trust you in the valley dark as well as in the light
+Knowing you will always lead me Your will is always right</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know God makes no mistakes
+He leads in every path I take
+Along the way that's leading me to home
+Though at times my heart would break
+There's a purpose in every change He makes
+That others would see my life
+And know that God makes no mistakes</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And when someday in Heaven above I see His dear face
+May I then be counted faithful as a runner in His race
+But now I'm trusting in the Savior to show me the way
+In His righteousness He guides me as I seek to please Him day by day</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I know…</lines>
+    </verse>
+  </lyrics>
+</song>

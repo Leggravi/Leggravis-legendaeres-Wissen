@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Saviour Like a Shepherd Lead Us</title>
+    </titles>
+    <authors>
+      <author type="words">Dorothy A. Thrupp</author>
+      <author type="music">William Batchelder Bradbury</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Savior, like a shepherd lead us,
+much we need thy tender care;
+in thy pleasant pastures feed us,
+for our use thy folds prepare.
+Blessed Jesus, blessed Jesus!
+Thou hast bought us, thine we are.
+Blessed Jesus, blessed Jesus!
+Thou hast bought us, thine we are.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are thine, thou dost befriend us,
+be the guardian of our way;
+keep thy flock, from sin defend us,
+seek us when we go astray.
+Blessed Jesus, blessed Jesus!
+Hear, O hear us when we pray.
+Blessed Jesus, blessed Jesus!
+Hear, O hear us when we pray.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou hast promised to receive us,
+poor and sinful though we be;
+thou hast mercy to relieve us,
+grace to cleanse and power to free.
+Blessed Jesus, blessed Jesus!
+We will early turn to thee.
+Blessed Jesus, blessed Jesus!
+We will early turn to thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Early let us seek thy favor,
+early let us do thy will;
+blessed Lord and only Savior,
+with thy love our bosoms fill.
+Blessed Jesus, blessed Jesus!
+Thou hast loved us, love us still.
+Blessed Jesus, blessed Jesus!
+Thou hast loved us, love us still.</lines>
+    </verse>
+  </lyrics>
+</song>

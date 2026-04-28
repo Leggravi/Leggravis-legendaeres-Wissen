@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Er ist wahrhaftig auferstanden, der für uns litt</title>
+    </titles>
+    <authors>
+      <author type="words">Hermann Heinrich Grafe</author>
+      <author type="music">Gerhard Wagner</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Er ist wahrhaftig auferstanden,
+der für uns litt und für uns starb,
+der uns erlöst aus Todesbanden
+und ewges Leben uns erwarb,
+der uns dereinst lebendig
+macht zu seiner Herrlichkeit und Pracht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er ist wahrhaftig auferstanden!
+O Seele, was verzagst du noch?
+Für dich ist alles nun vorhanden,
+was dich beglückt; so glaub es doch!
+Komm, nimm aus seiner Fülle heut
+den Reichtum, den sein Leben beut.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Er ist wahrhaftig auferstanden!
+Mein Herz erfährts, in dem er lebt.
+Was alle Gläubigen empfanden,
+die Freude, die auch mich durchbebt,
+gibt Zeugnis mir durch seinen Geist,
+dass mich sein Leben tränkt und speist.</lines>
+    </verse>
+  </lyrics>
+</song>

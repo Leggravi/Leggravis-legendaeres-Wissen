@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lobe den Herren</title>
+    </titles>
+    <authors>
+      <author type="words">Dorothee Müller</author>
+      <author type="music">Dorothee Müller</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lobe den Herren,
+den mächtigen König der Ehren,
+meine geliebete Seele,
+dass ist mein Begehren.
+Kommet zu Hauf,
+Psalter und Harfe wacht auf,
+lasset den Lobgesang hören.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lobe den Herren,
+der alles so herrlich regieret,
+der dich auf Adelers Fittichen sicher geführet,
+der dich erhält, wie es dir selber gefällt.
+Hast du nicht solches verspüret?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lobe den Herren,
+der künstlich und fein dich bereitet,
+der dir Gesundheit verliehen,
+dich freundlich geleitet.
+In wie viel Not hat nicht der gnädige Gott
+über die Flügel gebreitet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lobe den Herren,
+der deinen Stand sichtbar gesegnet,
+der aus dem Himmel mit Strömen der Liebe geregnet.
+Denke daran, was der Allmächtige kann,
+der dir mit Liebe begegnet!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lobe den Herren,
+was in mir ist, lobe den Namen!
+Alles was Odem hat,
+lobe mit Abrahams Samen!
+Er ist dein Licht; Seele, vergiss es ja nicht,
+Lobende, schließe mit Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

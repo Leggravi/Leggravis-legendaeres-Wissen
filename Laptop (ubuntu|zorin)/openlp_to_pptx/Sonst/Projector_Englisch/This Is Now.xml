@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Is Now</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You were all alone
+You were constantly broken
+You felt so unloved
+You were left abandoned
+What a difference love can make
+To the deep heartbreak back then</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This is now
+This is hope
+This is the end of a longing
+The beginning of a road
+To a change
+Where everything around you no longer falling down
+This is now
+This is now</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You're allowed to dream
+You can think of tomorrow
+And you can say goodbye
+To all of your sorrow
+That's the difference love can make
+To the hurt you've held within</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This is now
+This is hope
+This is the end of a longing
+The beginning of a road
+To a change
+Where everything around you no longer falling down
+This is now</lines>
+    </verse>
+    <verse name="v5">
+      <lines>This is Jesus
+What you've been waiting for
+So open up
+Hear the words
+Your life is lost no more</lines>
+    </verse>
+    <verse name="v6">
+      <lines>This is now
+This is hope
+Beginning of a road
+Where every chain around you no longer has you bound</lines>
+    </verse>
+    <verse name="v7">
+      <lines>This is now
+This is hope
+This is the end of a longing
+The beginning of a road
+To a change
+Where everything around you no longer falling down
+This is now
+This is now
+This is hope
+This is Jesus
+This is now</lines>
+    </verse>
+  </lyrics>
+</song>

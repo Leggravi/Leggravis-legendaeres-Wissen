@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lamm, das geschlachtet</title>
+    </titles>
+    <authors>
+      <author type="words">Nikolaus Ludwig Graf von Zinzendorf</author>
+      <author type="music">Heinrich Isaak</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lamm, das geschlachtet, Dich bet ich an
+in meiner Ohnmacht, die nichts, gar nichts kann,
+Du, meine Starke, und Du, mein Licht,
+in Dir hab alles ich, was mir gebricht!
+In Dir hab alles ich, was mir gebricht!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lamm, das gesieget, in Dir allein
+kann ich auch Sieger in Ewigkeit sein!
+Mit Dir gekreuzigt, leb ich in Dir;
+Frieden und Freiheit gibst Du, Jesus, mir.
+Frieden und Freiheit gibst Du, Jesus, mir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lamm, das gekrönet, Lamm auf dem Thron,
+Dein bin ich ewig als Frucht und als Lohn!
+Auf Deinen Wegen lass gehn mich hier,
+hier schon wie droben einst folgen nur Dir.
+Hier schon wie droben einst folgen nur Dir.</lines>
+    </verse>
+  </lyrics>
+</song>

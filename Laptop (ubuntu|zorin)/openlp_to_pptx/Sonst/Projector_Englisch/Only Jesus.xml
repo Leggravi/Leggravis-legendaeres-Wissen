@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Only Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Make it count, leave a mark, build a name for yourself
+Dream your dreams, chase your heart, above all else
+Make a name the world remembers
+But all an empty world can sell is empty dreams
+I got lost in the light when it was up to me
+To make a name the world remembers
+But Jesus is the only name to remember</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I, I don't want to leave a legacy
+I don't care if they remember me
+Only Jesus
+And I, I've only got one life to live
+I'll let every second point to Him
+Only Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All the kingdoms built, all the trophies won
+Will crumble into dust when it's said and done
+'Cause all that really mattered
+Did I live the truth to the ones I love?
+Was my life the proof that there is only One
+Whose name will last forever?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus is the only name
+Jesus is the only name
+Jesus is the only name to remember, oh
+Jesus is the only name
+Jesus is the only name
+Jesus is the only name to remember</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I don't want to leave a legacy
+I don't care if they remember me
+Only Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

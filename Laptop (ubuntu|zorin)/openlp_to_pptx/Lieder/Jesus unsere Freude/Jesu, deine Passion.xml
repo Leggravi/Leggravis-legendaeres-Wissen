@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:42">
+  <properties>
+    <titles>
+      <title>Jesu, deine Passion</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Stockmann (1633)</author>
+      <author type="words">Heinrich Held (1658)</author>
+      <author type="words">Sigmund von Birken (1663)</author>
+      <author type="music">Lobt Gott den Herrn, ihr Heiden all</author>
+    </authors>
+    <ccliNo>4346236</ccliNo>
+    <themes>
+      <theme>Passion</theme>
+      <theme>Leid</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesu, deine Passion
+will ich jetzt bedenken;
+wollest mir vom Himmelsthron
+Geist und Andacht schenken.
+In dem Bilde jetzt erschein,
+Jesu, meinem Herzen,
+wie du, unser Heil zu sein,
+littest alle Schmerzen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Meine Seele sehen mach
+deine Angst und Bande,
+deine Schläge, deine Schmach,
+deine Kreuzesschande,
+deine Geißel, Dornenkron,
+Speer- und Nägelwunden,
+deinen Tod, o Gottes Sohn,
+der mich dir verbunden.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aber lass mich nicht allein
+deine Marter sehen,
+lass mich auch die Ursach fein
+und die Frucht verstehen!
+Ach, die Ursach war auch ich,
+ich und meine Sünde.
+Diese hat gemartert dich,
+dass ich Gnade finde.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesu, lehr bedenken mich
+dies mit Buß und Reue;
+hilf, dass ich mit Sünde dich
+martre nicht aufs neue.
+Sollt ich dazu haben Lust
+und nicht wollen meiden,
+was du selber büßen musst
+mit so großem Leiden?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wenn mir meine Sünde will
+machen heiß die Hölle,
+Jesu, mein Gewissen still,
+dich ins Mittel stelle!
+Dich und deine Passion
+lass mich gläubig fassen;
+liebet mich sein lieber Sohn,
+wie kann Gott mich hassen?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gib auch, Jesu, dass ich gern
+dir das Kreuz nachtrage,
+dass ich Demut von dir lern
+und Geduld in Plage,
+dass ich dir geb Lied um Lieb.
+Lass indes dies Lallen
+– bessern Dank ich dorten geb –,
+Jesu, dir gefallen.</lines>
+    </verse>
+  </lyrics>
+</song>

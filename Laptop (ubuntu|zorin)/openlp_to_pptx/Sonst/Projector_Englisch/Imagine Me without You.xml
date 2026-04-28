@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Imagine Me without You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v3 v4 v5 v7 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As long as stars shine down from heaven
+And the rivers run into the sea
+Til the end of time forever
+You're the only love I'll need</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In my life you're all that matters
+In my eyes the only truth I see
+When my hopes and dreams have shattered
+You're the one that's there for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I found you I was blessed
+And I will never leave you, I need you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Imagine me without you
+I'd be lost and so confused
+I wouldn't last a day, I'd be afraid
+Without you there to see me through</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Imagine me without you
+Lord, you know it's just impossible
+Because of you, it's all brand new
+My life is now worthwhile
+I can't imagine me without you</lines>
+    </verse>
+    <verse name="v6">
+      <lines>When you caught me I was falling
+You're love lifted me back on my feet
+It was like you heard my calling
+And you rush to set me free</lines>
+    </verse>
+    <verse name="v7">
+      <lines>When I found you I was blessed
+And I will never leave you, I need you oh</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let the Lord Have His Way</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the Lord have His way,
+Let the Lord have His way,
+Put your hand In His hand
+and let Him lead,
+Look up high and see a crown
+awaiting over there,
+And let the Lord,
+Oh let the Lord have His way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When the road seems so rough
+And the valleys so low,
+And the mountains so high
+you cannot climb
+Cast your care upon the Lord
+He will clear the way for you
+So let the Lord, so let the Lord
+Have His way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I think of men of old,
+I think of Noah a man of God
+When he was told to build an ark by the Lord
+This he did without complaint
+And so was saved from the flood,
+Because he let,
+he let the Lord have His way.</lines>
+    </verse>
+  </lyrics>
+</song>

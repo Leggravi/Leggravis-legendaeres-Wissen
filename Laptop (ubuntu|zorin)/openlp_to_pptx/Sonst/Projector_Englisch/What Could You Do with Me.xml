@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What Could You Do with Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You took a stone to kill a giant
+You took a staff to part the sea
+And only you could do so much with ordinary things
+You took a slave to tame a lion
+You took a rock to make a stream
+And only, you could would choose a shepherd to be a king, so</lines>
+    </verse>
+    <verse name="v2">
+      <lines>i don't have to be the strongest
+You are perfect in my weakness
+If You can move a mountain
+With faith like a grain of mustard seed
+i wonder what you could do with me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You're the God of all creation
+You're the King above all kings
+But only you, could choose a rugged cross to rescue me
+You're the healer of the broken,
+By faith I still believe
+You took on my flesh, you conquered death
+Lord you are my victory, cause</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Open my eyes
+Show me who I could be
+Lord help me see that</lines>
+    </verse>
+  </lyrics>
+</song>

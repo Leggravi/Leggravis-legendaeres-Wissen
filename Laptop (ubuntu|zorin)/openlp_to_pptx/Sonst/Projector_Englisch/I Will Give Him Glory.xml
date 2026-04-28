@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Will Give Him Glory</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will give Him glory
+I will give Him praises
+I will shine His light deep into the night
+I will give him glory</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will give Him glory
+I will give Him praises
+Every song I sing
+I just wanna bring glory to my King</lines>
+    </verse>
+  </lyrics>
+</song>

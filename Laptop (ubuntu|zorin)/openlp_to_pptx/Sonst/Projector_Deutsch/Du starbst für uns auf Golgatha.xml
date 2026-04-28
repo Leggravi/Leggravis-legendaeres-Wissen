@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du starbst für uns auf Golgatha</title>
+    </titles>
+    <authors>
+      <author type="words">Eva Lowen</author>
+      <author type="music">Eva Lowen</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du starbst für uns auf Golgatha
+und zogst dort uns're Sünde an,
+und durch dein Blut machtest Du uns rein,
+und heute stehen wir vor Gott
+als die Gerechtigkeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir sind frei! Hab Dank dafür,
+Herr Jesus Christ!
+Wir sind frei und unermeßlich reich durch dich.
+Wir sind frei
+Hab Dank dafür, wir lieben Dich!
+Gottes Lamm, Herr der Herren,
+du bist unserm Friedefürst!
+Wir sind frei.</lines>
+    </verse>
+  </lyrics>
+</song>

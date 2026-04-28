@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Never Failed Me Yet</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Never failed me yet,
+Never failed me yet,
+Jesus' love never failed me yet;
+This one thing I know,
+That where e'er I go,
+Jesus' love never failed me yet.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Reich, Du machst mein Leben wirklich reich</title>
+    </titles>
+    <authors>
+      <author type="words">Andreas Malessa</author>
+      <author type="music">Dieter Falk</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Reich, du machst mein Leben wirklich reich und gut.
+Mit einem Gut, das zu erreichen sich lohnt
+und dessen Wert sich ständig vermehrt,
+mit jedem Menschen der mich prägt,
+der mich liebt und erträgt. Ich bin reich;
+manche Begegnung macht mich reich und froh,
+wenn mich beeindruckt, wie ein anderer lebt.
+Dann lern ich viel und komme dem Ziel
+ein gutes Stück näher.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bin überreich beschenkt mit soviel Kapital,
+weil du mein Gott, mir liebevolle Freunde gibst.
+Wie sich das weiße Licht in bunte Farben bricht,
+so seh in vielen Menschen ich auch dein Gesicht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ruhig, tragende Treue macht mich ruhig und frei.
+Wenn mir ein Mensch trotz meiner Fehler vertraut,
+mich hinterfragt durch das, was er sagt,
+und dennoch fest bei mir bleibt, meine Ängste vertreibt.
+Ruhig, solche Gemeinschaft macht mich ruhig und stark.
+Es gibt mir Kraft, dein Wort von Freunden zu hör'n,
+bin fasziniert. Bin persönlich berührt,
+dass du, Gott, so nah bist.</lines>
+    </verse>
+  </lyrics>
+</song>

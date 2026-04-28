@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wo ist ein Vater, Gott, wie Du</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Spitta</author>
+      <author type="music">Wilhelm Brockhaus</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wo ist ein Vater, Gott, wie Du,
+Der so an uns gedenket,
+Uns liebt und segnet so wie Du,
+Und uns so willig schenket?
+Was fehlt uns doch
+Nun weiter noch,
+Da wir zum Vater haben
+Dich, Geber aller Gaben?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du, der so viel an uns gewandt
+Zu unserm Heil und Leben,
+Der Du uns Deinen Sohn gesandt,
+Ihn für uns hingegeben,
+Der so geneigt
+Sich Sündern zeigt –
+Wie solltest Du denn minder
+Versorgen Deine Kinder?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Stets bleibet uns Dein Vaterherz
+In Jesu Christo offen.
+Dort fliehn wir hin in Not und Schmerz
+Mit kindlich gläub'gem Hoffen.
+Und da, da ruht
+Sich's sanft und gut,
+Da sind wir wohl geborgen
+Und ledig aller Sorgen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du hast uns lieb. Das ist genug,
+Uns Trost hier zu verleihen.
+Du hast uns lieb. Das ist genug,
+Uns ewiglich zu freuen.
+Drum laß uns auch
+Nach Kindesbrauch,
+Durch Deinen Geist getrieben,
+Verehren Dich und lieben.</lines>
+    </verse>
+  </lyrics>
+</song>

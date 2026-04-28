@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hallelujahs To The Lamb</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We've gathered here
+on holy ground
+Angels singing all around
+Stand now before Him
+Oh, magnify Him!
+Hallelujah to the Lamb!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Adoration and praises fill my soul
+Hallelujahs I will bestow
+I will sing to the Lord
+Lifting my hands
+Hallelujah to the Lamb</lines>
+    </verse>
+    <verse name="v3">
+      <lines>King of kings and Lord of lords
+We come to You in one accord
+Holy, holy, Lamb of glory
+Hallelujahs to the Lamb</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Breathe On Me</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Lass</author>
+      <author type="music">Chris Lass</author>
+      <author type="translation">Halte mich</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy Spirit, breathe on me,
+Until my heart is clean;
+Let sunshine fill its inmost part,
+With not a cloud between.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Breathe on me, breathe on me,
+Holy Spirit, breathe on me;
+Take Thou my heart, cleanse every part,
+Holy Spirit, breathe on me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy Spirit, breathe on me,
+My stubborn will subdue;
+Teach me in words of living flame
+What Christ would have me do.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Holy Spirit, breathe on me,
+Fill me with pow'r divine;
+Kindle a flame of love and zeal
+Within this heart of mine.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Holy Spirit, breathe on me,
+Till I am all Thine own,
+Until my will is lost in Thine,
+To live for Thee alone.</lines>
+    </verse>
+  </lyrics>
+</song>

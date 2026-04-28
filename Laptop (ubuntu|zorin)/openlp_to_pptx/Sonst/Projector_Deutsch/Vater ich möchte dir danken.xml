@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Vater, ich möchte dir danken</title>
+    </titles>
+    <authors>
+      <author type="words">Christiane Hermann</author>
+      <author type="music">Thomas Eger</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vater, ich möchte dir danken, dass du mein Retter bist.
+Vater ich möchte dir danken, weil deine Güte nie erlischt.
+Weil er für mich gestorben, vertrau ich still auf dich.
+Jesus hat mir erworben dein helles, warmes Licht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vater, ich möchte dir danken, dass du mein Helfer bist.
+Vater ich möchte dir danken, weil deine Güte nie erlischt.
+In meinen Schwierigkeiten vertrau ich still auf dich.
+Auch in den schwersten Zeiten scheint mir dein helles Licht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vater, ich möchte dir danken, dass du stets bei mir bist.
+Vater, ich möchte dir danken, weil deine Güte nie erlischt.
+Auch wenn ich nichts verstehe, vertrau ich still auf dich.
+Wohin ich immer gehe, begleitet mich dein Licht.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Why Do You Wait?</title>
+    </titles>
+    <authors>
+      <author type="words">Sam Blake</author>
+      <author type="music">Sam Blake</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Why do you wait, dear brother?
+Oh, why do you tarry so long?
+Your Savior is waiting to give you
+A place in His sanctified throng.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Why not? Why not?
+Why not come to Him now?
+Why not? Why not?
+Why not come to Him now?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What do you hope, dear brother,
+To gain by a further delay?
+There's no one to save you but Jesus.
+There's no other way but His way;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Do you not feel, dear brother,
+His Spirit now striving within?
+Oh, why not accept His salvation,
+And throw off your burden of sin?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Why do you wait, dear brother?
+The harvest is passing away;
+Your Savior is longing to bless you;
+There's danger and death in delay.</lines>
+    </verse>
+  </lyrics>
+</song>

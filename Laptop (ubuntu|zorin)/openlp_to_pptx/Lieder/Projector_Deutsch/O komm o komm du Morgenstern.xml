@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O komm, o komm, du Morgenstern</title>
+    </titles>
+    <authors>
+      <author type="words">Otmar Schulz</author>
+      <author type="music">Thomas Helmore</author>
+      <author type="translation">O come, o come Emmanuel</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. O komm, o komm, du Morgenstern,
+lass uns dich schauen, unsern Herrn.
+Vertreib das Dunkel unsrer Nacht
+durch deines klaren Lichtes Pracht.
+Freut euch, freut euch, der Herr ist nah.
+Freut euch und singt Halleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. O komm, du Sohn aus Davids Stamm,
+du Friedensbringer, Osterlamm.
+Von Schuld und Knechtschaft mach uns frei
+und von des Bösen Tyrannei.
+Freut euch, freut euch, der Herr ist nah.
+Freut euch und singt Halleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. O komm, o Herr, bleib bis ans End,
+bis dass uns nichts mehr von dir trennt,
+bis dich, wie es dein Wort verheißt,
+der Freien Lied ohn Ende preist.
+Freut euch, freut euch, der Herr ist nah.
+Freut euch und singt Halleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

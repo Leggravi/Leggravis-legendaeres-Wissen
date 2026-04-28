@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Zuerst geliebt</title>
+    </titles>
+    <authors>
+      <author type="words">Andrea Adams-Frey</author>
+      <author type="music">Albert Frey</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Weil Du mehr als Deinen Tod vor Augen sahst
+Nahmst Du das Kreuz auf Dich
+Auch wenn Dieser Weg der schwerste für Dich war
+Nahmst Du das Kreuz auf Dich</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dass Du selbstlos diesen Schmerz ertragen hast
+Das überwältigt mich
+Bin ich schwach, ist diese Liebe meine Kraft
+Das überwältigt mich</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du hast mich zuerst geliebt
+Darum will ich Dich anbeten
+Für Liebe, die den Tod besiegt
+Danke, Jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ja, ich glaub, dass Du das Beste für mich willst
+Jesus, ich folge Dir
+Ich vertrau Dir, denn Du siehst das große Bild
+Jesus, ich folge Dir</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Was ich hab, was ich bin
+Leg ich dankbar vor Dich hin
+Denn ich weiß, was Du gabst
+Als Du aus Liebe für mich starbst</lines>
+    </verse>
+  </lyrics>
+</song>

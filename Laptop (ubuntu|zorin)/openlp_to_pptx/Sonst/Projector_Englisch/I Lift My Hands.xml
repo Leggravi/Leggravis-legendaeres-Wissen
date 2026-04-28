@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Lift My Hands</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Be still, there is a healer
+His love is deeper than the sea
+His mercy, it is unfailing
+His arms are a fortress for the weak</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let faith arise
+Let faith arise</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I lift my hands to believe again
+You are my refuge, You are my strength
+As I pour out my heart, these things I remember
+You are faithful, God, forever</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Be still, there is a river
+That flows from Calvary's tree
+A fountain for the thirsty
+Pure grace that washes over me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So let faith arise
+Let faith arise
+Open my eyes
+Open my eyes</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I lift my hands to believe again
+You are my refuge, You are my strength
+As I pour out my heart, these things I remember
+You are faithful, God
+You are faithful, God, forever</lines>
+    </verse>
+  </lyrics>
+</song>

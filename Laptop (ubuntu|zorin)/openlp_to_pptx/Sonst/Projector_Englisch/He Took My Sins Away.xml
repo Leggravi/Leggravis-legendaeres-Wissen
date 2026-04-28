@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Took My Sins Away</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I came to Jesus,
+Weary worn and sad,
+He took my sins away,
+He took my sins away.
+And now His love
+Has made my heart so glad,
+He took my sins away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He took my sins away,
+He took my sins away,
+And keeps me singing every day!
+I'm so glad He took my sins away,
+He took my sins away.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The load of sin
+Was more than I could bear,
+He took them all away,
+He took them all away.
+And now on Him
+I roll my every care,
+He took my sins away.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No condemnation
+Have I in my heart,
+He took my sins away,
+He took my sins away.
+His perfect peace
+He did to me impart,
+He took my sins away.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>If you will come
+To Jesus Christ today,
+He'll take your sins away,
+He'll take your sins away.
+And keep you happy
+In His love each day,
+He'll take your sins away.</lines>
+    </verse>
+  </lyrics>
+</song>

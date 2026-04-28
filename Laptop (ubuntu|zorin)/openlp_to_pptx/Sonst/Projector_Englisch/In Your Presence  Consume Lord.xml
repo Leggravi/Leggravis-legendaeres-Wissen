@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In Your Presence – Consume Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In Your presence there is fullness of joy,
+In Your presence is the new wine and oil,
+And in Your presence is where I long to be,
+Father draw me,
+Draw me near to where You are.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For You are Holy, so Holy,
+And I worship before You now,
+Lord, You are Holy, so Holy,
+Spirit of God breathe on us now.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Consume me Lord
+by the fire of Your Spirit.
+Consume me Lord
+And make me more like You.
+Won't You break me Lord
+And bless the broken pieces
+of my life;
+Let me be used, Lord,
+by You!</lines>
+    </verse>
+  </lyrics>
+</song>

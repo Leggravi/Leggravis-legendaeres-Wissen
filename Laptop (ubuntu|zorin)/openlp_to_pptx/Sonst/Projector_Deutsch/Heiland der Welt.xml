@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heiland der Welt</title>
+    </titles>
+    <authors>
+      <author type="words">Max Graf</author>
+      <author type="music">Ruedi Geissbühler</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Menschen stehen und frieren, in der Nacht der Welt.
+Suchen nach der Liebe, die sie zusammenhält.
+Jeder führt den Wind der Zeit, der ins Gesicht uns bläst,
+bis vom Himmel Licht erstrahlt und allen erzählt:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, unser Retter, du kamst als Kind in diese Welt.
+Jesus, unsere Hoffnung, dein Stern erhellt die Nacht der Welt.
+Jesus, du bist König über alle Macht der Welt.
+Jesus, du bist Sieger, du bist der Heiland dieser Welt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Menschen gehen weiter mit Reichtum, Macht und Geld.
+Sie sehen nach den Sternen und greifen nach der Welt.
+Ihr Herz ist voller Sehnsucht nach allem Glanz der Welt,
+bis sie vor dem Stalle stehen, dem Licht dieser Welt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Seht, in dieser Krippe, da liegt die Liebe für die Welt.
+Seht, in diesem Stalle kam Gottes Sohn zur Welt.
+Seht, zu diesem Licht kann jeder kommen aus der Nacht.
+Gemeinsam staunen wir, und erkennen Gottes Macht.</lines>
+    </verse>
+  </lyrics>
+</song>

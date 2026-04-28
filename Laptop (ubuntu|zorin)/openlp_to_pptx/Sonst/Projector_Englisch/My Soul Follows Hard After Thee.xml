@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Soul Follows Hard After Thee</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My soul follows hard after thee
+Early in the morning will I rise
+Up and seek Thee
+And because Thou has been my help
+Under the shadow of Thy wing,
+I will rejoice. .</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord I'm gonna love You
+Love You Lord
+Lord I'm gonna love You
+Love You Lord
+Lord I'm gonna love You
+With all that's in my heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord I'm gonna follow
+Follow You
+Lord I'm gonna follow
+Follow You
+Lord I'm gonna follow
+With all that's in my heart</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord I'm gonna worship
+Worship You
+Lord I'm gonna worship
+Worship You
+Lord I'm gonna worship
+With all that's in my heart</lines>
+    </verse>
+  </lyrics>
+</song>

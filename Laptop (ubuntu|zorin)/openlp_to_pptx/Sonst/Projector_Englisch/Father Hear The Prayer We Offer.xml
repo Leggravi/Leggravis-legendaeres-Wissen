@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Father Hear The Prayer We Offer</title>
+    </titles>
+    <authors>
+      <author type="words">Love Maria Willis</author>
+      <author type="music">traditionell</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father, hear the prayer we offer:
+not for ease that prayer shall be,
+but for strength that we may ever
+live our lives courageously.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Not for ever in green pastures
+do we ask our way to be;
+but the steep and rugged pathway
+may we tread rejoicingly.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Not for ever by still waters
+would we idly rest and stay;
+but would smite the living fountains
+from the rocks along our way.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Be our strength in hours of weakness,
+in our wanderings be our guide;
+through endeavor, failure, danger,
+Father, be Thou at our side.</lines>
+    </verse>
+  </lyrics>
+</song>

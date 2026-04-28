@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Danke für alles (Thank you for everything)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Danke für alles, was du gibst, Herr.
+Danke, dass du uns reich beschenkst.
+Danke, dass du uns so sehr liebst, Herr.
+Danke, dass du gut von uns denkst.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist die Quelle des Lebens,
+bei dir finden wir alles was wir brauchen.
+Du bist der Grund unsrer Freunde
+zu dir singen wir:
+Vater Gott wir danken Dir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thank you for everything you give Lord.
+Thank you for giving us rich gifts.
+Thank you for loving us so much, sir.
+Thank you for thinking well of us.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are the source of life,
+with you we find everything we need.
+You are the reason of our friends
+we sing to you:
+Father God, we thank you</lines>
+    </verse>
+  </lyrics>
+</song>

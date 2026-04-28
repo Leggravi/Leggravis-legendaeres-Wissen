@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Say It into Praises</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It’s late at night in a prayer room,
+On his knees praying for peace,
+A troubled life, an injured wings,
+How can he fly and soar the sky again?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>“In this world, where nobody cares.”
+Lean unto God and lift everything.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When pain is too much, you couldn’t bear,
+When the heart is torn and the soul grieves,
+Say it into praises, call His Name…</lines>
+    </verse>
+    <verse name="v4">
+      <lines>One busy morning in a busy life
+On a prayer, tucked on her knees
+Little children with hungry eyes
+How can she manage all on her own?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Say it into praises, call His Name.</lines>
+    </verse>
+  </lyrics>
+</song>

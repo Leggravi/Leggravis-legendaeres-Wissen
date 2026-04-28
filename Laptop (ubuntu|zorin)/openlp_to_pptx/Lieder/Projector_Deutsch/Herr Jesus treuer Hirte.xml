@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr Jesus, treuer Hirte</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Wilhelm Brockhaus</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr Jesus, treuer Hirte,
+wer liebt, wer sorgt wie Du!
+Dein Schäflein, das verirrte,
+trugst Du der Herde zu.
+Dein Geist mich jetzt begleitet,
+Dein Auge mich bewacht,
+Dein starker Arm mich leitet,
+mich schützet Tag und Nacht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tränkst mich an frischer Quelle,
+die grüne Au mich nährt.
+Schützt mich an sichrer Stelle,
+wenn die Versuchung währt.
+Du bist mein Licht hienieden,
+mein Trost, mein Arm im Streit.
+Dein Nahsein gibt mir Frieden,
+gibt Freud' und Seligkeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bald weichen alle Sorgen
+bei der Posaune Klang.
+Dann kommt ein neuer Morgen,
+dann tönt ein ew'ger Sang.
+Dann wirst Du, Herr, vereinen
+um Dich die gläub'ge Schar
+und wirst mit ihr erscheinen,
+verherrlicht, wunderbar.</lines>
+    </verse>
+  </lyrics>
+</song>

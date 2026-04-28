@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>How could you say no to this man</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thorns on his head spear in his side
+Yet it was a heartache that made him cry
+He gave his life so you would understand
+Is there any way you could say no to this man</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If Christ himself were standing here
+Face full of glory and eyes full of tears
+And he held out his arms and his nail printed hands
+Is there any way you could say no to this man</lines>
+    </verse>
+    <verse name="v3">
+      <lines>How could you look in his tear stained eyes
+Knowing it's you he's thinking of
+Could you tell him you're not ready to give him your life
+Could you say you don't think you need his love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus is here with his arms open wide
+You can see him with your heart if you'll stop looking with your eyes
+He's left it up to you, he's done all that he can
+Is there any way you could say no to this man</lines>
+    </verse>
+    <verse name="v5">
+      <lines>How could you look in his tear stained eyes
+Knowing it's you he's thinking of
+Could you tell him you're not ready to give him your life
+Could you say you don't think you need his love</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Thorns on his head your life in his hands
+Is there any way you could say no to this man
+Oh, is there any way you could say no to this Man?</lines>
+    </verse>
+  </lyrics>
+</song>

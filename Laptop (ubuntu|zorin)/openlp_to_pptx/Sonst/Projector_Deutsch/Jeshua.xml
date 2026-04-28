@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jeshua</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist ein Gott des Universums,
+setzt jeden Stern ans Himmelszelt.
+Du bist ein Gott der weiten Ferne,
+und trotzdem bist du uns ganz nah.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeshua, Licht der Welt,
+treuer Freund, starker Held.
+Jeshua, Friedefürst,
+du bist uns auch jetzt ganz nah.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du bist ein Gott von großer Stärke,
+sprichst nur ein Wort und es geschieht.
+Doch kennst du auch die tiefste Schwäche,
+und darin bist du uns ganz nah.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du bist ein Gott der ganzen Menschheit,
+du warst von Anbeginn der Zeit
+für immer Alpha und Omega,
+und doch bist du uns jetzt ganz nah.</lines>
+    </verse>
+  </lyrics>
+</song>

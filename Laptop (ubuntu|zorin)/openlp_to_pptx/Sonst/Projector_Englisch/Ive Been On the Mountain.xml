@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I’ve Been On the Mountain</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Well I’ve been on the mountain,
+and I’ve walked through the
+valleys,
+And when troubles come up
+Had my share;
+But heavens eternal,
+at the end of my journey
+Will be worth every mile of the trip.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Like a happy pilgrim
+who’s arrived on the shore
+And forgot how the waves
+tossed his ship,
+If I could see Jesus smile,
+hear Him say well done child
+It'll be worth every mile of the trip.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Well I stood at the bedside
+of a Christiain departing,
+And I heard these last words
+from his lips:
+I see the crystal streams aflowing,
+And hear the gentle breeze blowing
+And its worth every mile of the trip.</lines>
+    </verse>
+  </lyrics>
+</song>

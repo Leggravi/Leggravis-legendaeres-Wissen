@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let Your Word Be Born (Medley)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let Your Word be born
+In the manger of my heart,
+Let It live in me, let It start;
+Live inside this house of clay,
+And mold me everyday;
+Let Your Word be born
+In the manger of my heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Consume me Lord
+by the fire of Your Spirit.
+Consume me Lord
+And make me more like You.
+Won't You break me Lord
+And mend the broken pieces
+ of my life;
+Let me be used, Lord,
+ by You!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'll obey and trust You,
+I'll obey because I love You.
+I'll obey, My life is in Your hands!
+For it's the way to prove my love
+When feelings go away,
+Though it cost me everything,
+I'll obey!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>How Good It Is</title>
+    </titles>
+    <authors>
+      <author type="words">Keith Getty</author>
+      <author type="music">Keith Getty</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How good it is
+to give thanks unto the Lord
+How good it is
+to give thanks unto our God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O he heals the broken hearted,
+binding up their wounds
+It is good to bless his holy name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm gonna bless his name
+Oh we give thanks unto our Savior,
+and with a heart of gratItude
+we give him praise;
+His mercy shall endure forever and I will
+Worship him all of my days.</lines>
+    </verse>
+  </lyrics>
+</song>

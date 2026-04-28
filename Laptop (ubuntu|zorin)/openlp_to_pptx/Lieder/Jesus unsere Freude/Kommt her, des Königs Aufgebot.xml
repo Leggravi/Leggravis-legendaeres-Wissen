@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:46">
+  <properties>
+    <titles>
+      <title>Kommt her, des Königs Aufgebot</title>
+    </titles>
+    <authors>
+      <author type="words">Friedrich Spitta (1898)</author>
+      <author type="music">Heinrich Schütz</author>
+    </authors>
+    <ccliNo>5224670</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kommt her, des Königs Aufgebot,
+die seine Fahne fassen,
+dass freudig wir in Drang und Not
+sein Lob erschallen lassen.
+Er hat uns seiner Wahrheit Schatz
+zu wahren an vertrauet.
+Für ihn wir treten auf den Platz,
+und wo's den Herzen grauet,
+zum König aufgeschauet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ob auch der Feind mit großem Trutz
+und mancher List will stürmen,
+wir haben Ruh und sichern Schutz
+durch seines Armes Schirmen.
+Wie Gott zu unsern Vätern trat
+auf ihr Gebet und Klagen,
+wird er, zu Spott dem feigen Rat,
+uns durch die Fluten tragen.
+Mit ihm wir wollen's wagen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Er mache uns im Glauben kühn
+und in der Liebe reine.
+Er lasse Herz und Zunge glühn,
+zu wecken die Gemeine.
+Und ob auch unser Auge nicht
+in seinen Plan mag dringen:
+Er führt durch Dunkel uns zum Licht,
+lässt Schloss und Riegel springen.
+Des wolln wir fröhlich singen!</lines>
+    </verse>
+  </lyrics>
+</song>

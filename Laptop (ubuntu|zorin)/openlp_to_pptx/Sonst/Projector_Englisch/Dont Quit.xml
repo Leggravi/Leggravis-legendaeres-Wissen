@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Don't Quit</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When things go wrong as they sometimes will,
+And the road you're travelling seems all
+uphill,
+When the money's low and the debts are high,
+And you want to smile but you just have to sigh.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Don't quit, Don't quit
+Just stick to the fight when you're hardest hit,
+Don't quit, Don't quit
+It's when things seem worst, that you must not quit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Don't give up tho the pace, may seem so slow,
+Remember God gives, you grace as you go,
+A winner never quits and a quitter never wins,
+Oh you can't go wrong if you depend on Him.</lines>
+    </verse>
+  </lyrics>
+</song>

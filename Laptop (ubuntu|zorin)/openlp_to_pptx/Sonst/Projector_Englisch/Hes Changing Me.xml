@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He's Changing Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From glory to glory He's changing me,
+Changing, changing me
+His likeness and image
+To perfect in me.
+The love of God shown to the world</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For He's changing, changing me,
+From earthly thing to the heavenly.
+His likeness and image
+To perfect in me,
+The love of God shown to the world.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 17, 2024, 12:41:47 PM">
+  <properties>
+    <titles>
+      <title>All Heaven Declares</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>All heaven declares
+The glory of the risen Lord
+Who can compare with
+The beauty of the Lord</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Forever He will be
+The Lamb upon the throne
+I gladly bow the knee
+And worship Him alone</lines>
+    </verse>
+    <verse name="V3">
+      <lines>I will proclaim
+The glory of the risen Lord
+Who once was slain
+To reconcile man to God</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Forever You will be
+The Lamb upon the throne
+I gladly bow the knee
+And worship You alone</lines>
+    </verse>
+  </lyrics>
+</song>

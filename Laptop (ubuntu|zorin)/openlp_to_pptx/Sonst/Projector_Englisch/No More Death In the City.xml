@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>No More Death In the City</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No more death in the city
+No more pain the homeland
+No crying, neither sorrows
+Oh, brother, live a holy life
+Sister, live a holy life.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is a song I ought to sing
+within my heart
+The city for people who are
+born again,
+Born of water, spirit and the
+blood of the Lamb
+The city is for people who are
+born again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Apostle Paul sang this song
+I sing The city is for people
+who are born again And so I sing
+to you this song my friends,
+The city is for people
+who are born again.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My brother come to Jesus for the
+days are gone
+The city is for people who are born
+again For just a little moment and the
+trumpet will sound
+The city is for people who are
+born again.</lines>
+    </verse>
+  </lyrics>
+</song>

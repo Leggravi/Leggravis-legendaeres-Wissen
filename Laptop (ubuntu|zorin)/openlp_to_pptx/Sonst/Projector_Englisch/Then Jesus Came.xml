@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Then Jesus Came</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One sat alone beside the highway begging.
+His eyes were blind, the light he could not see;
+He clutched his rags and shivered in the shadows,
+Then Jesus came and bade his darkness flee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When Jesus comes the tempter’s pow’r is broken;
+When Jesus comes the tears are wiped away.
+He takes the gloom and fills the life with glory,
+For all is changed when Jesus comes to stay.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From home and friends the evil spirits drove him,
+Among the tombs he dwelt in misery;
+He cut himself as demon pow’rs possessed him.
+Then Jesus came and set the captive free.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Unclean! Unclean! The leper cried in torment,
+The deaf, the dumb, in helplessness stood near;
+The fever raged, disease had gripped its victim,
+Then Jesus came and cast out every fear.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So men today have found the Saviour able,
+They could not conquer passion, lust and sin;
+Their broken hearts had left them sad and lonely,
+Then Jesus came and dwelt Himself within.</lines>
+    </verse>
+  </lyrics>
+</song>

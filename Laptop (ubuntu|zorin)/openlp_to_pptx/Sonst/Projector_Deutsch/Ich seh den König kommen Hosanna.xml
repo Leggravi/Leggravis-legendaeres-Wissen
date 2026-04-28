@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich seh den König kommen Hosanna</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Janke</author>
+      <author type="music">Brooke Fraser Ligertwood</author>
+      <author type="translation">Hosanna (I See The King Of Glory)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich seh den König kommen
+mächtig und in Herrlichkeit.
+Die Erde bebt, die Erde bebt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich seh, wie Seine Gnade
+uns von aller Schuld befreit
+und jeder singt
+und jeder singt:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/: Hosianna, Hosianna,
+Hosianna in der Höhe. :/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich seh seine Gemeinde,
+die Ihn in der Welt bezeugt
+und für Ihn lebt
+und für Ihn lebt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ich seh eine Erweckung,
+wenn wir ernsthaft um sie flehn.
+Es kann geschehn,
+es kann geschehn.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>/: Hosianna, Hosianna,
+Hosianna in der Höhe. :/</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Heil mein Herz und mach es rein,
+lass Verborgenes für mich sichtbar sein.
+Zeig mir, wie man liebt, so wie Du mich liebst.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Lass mich fühl’n, was Dein Herz bricht,
+ich will leben, Herr, ganz in Deinem Licht,
+bis ich dann zu Dir heim geh in die Ewigkeit.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>/: Hosianna, Hosianna,
+Hosianna in der Höhe. :/</lines>
+    </verse>
+  </lyrics>
+</song>

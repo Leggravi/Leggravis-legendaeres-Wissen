@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Stimmt zu Gottes Ehren froh ein Loblied an</title>
+    </titles>
+    <authors>
+      <author type="words">Johanna Meyer</author>
+      <author type="music">Heinz Fuhrmann</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stimmt zu Gottes Ehre froh ein Loblied an!
+Rühmet, was der hehre Gott an uns getan;
+in die Zukunft schauen wir mit frohem Mut,
+gab uns Heil und Segen, unverdientes Glück.
+Die einst Knechte waren, hat Er frei gemacht;
+rühmt, erlöste Scharen, rühmet Gottes Macht!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Liebe, ohn Ermessen, nahm sich unser an,
+wird uns nie vergessen, zieht uns himmelan;
+in die Zukunft schauen wir mit frohem Mut,
+weil wir dem vertrauen, welcher Wunder tut.
+Er wird uns bewahren als Sein Eigentum!
+Bringt erlöste Scharen, bringt Gott seinen Ruhm!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vater, nur in schwachen Lauten preisen wir
+Deine tausendfachen Wundertaten hier.
+Doch wenn all die Deinen einst im Jubelton
+droben sich vereinen vor des Lammes Thron,
+dann, wie Meereswellen, wird mit mächt´gem Klang
+hoch und höher schwellen der Triumphgesang!</lines>
+    </verse>
+  </lyrics>
+</song>

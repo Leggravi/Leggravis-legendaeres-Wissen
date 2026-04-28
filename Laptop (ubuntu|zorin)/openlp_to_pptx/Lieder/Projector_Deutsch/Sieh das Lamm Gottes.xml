@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sieh das Lamm Gottes</title>
+    </titles>
+    <authors>
+      <author type="words">Henry Barton</author>
+      <author type="music">Henry Barton</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sieh das Lamm Gottes, das die Sünden trug
+Starb für uns
+Und wir gedenken, dass dem, der zu ihm kommt und ihm vertraut
+Alle Schuld vergeben wird</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So teilen wir dieses Lebensbrot
+Erinnern uns nun an seinen Tod
+Sein Friedensbund wird sichtbar durch den Wein
+So kommen wir zum Tisch des Herrn</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Als Lösegeld gab Christus seinen Leib für dich hin
+Iss und gedenke
+Durch seine Wunden überwindet er
+Selbst den Tod und macht uns eins</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So teilen wir dieses Lebensbrot
+Erinnern uns nun an seinen Tod
+Sein Liebesbund wird sichtbar durch den Wein
+So kommen wir zum Tisch des Herrn</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Das Blut, das uns von aller Sünde heilt, floss für dich
+Trink und gedenke
+Er starb für uns, lädt jeden zu sich ein
+Ewig leben wir mit ihm</lines>
+    </verse>
+    <verse name="v6">
+      <lines>So teilen wir dieses Lebensbrot
+Erinnern uns nun an seinen Tod
+Sein Gnadenbund wird sichtbar durch den Wein
+So kommen wir zum Tisch des Herrn</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mit neuem Glauben und voll Dankbarkeit stehn wir auf
+Und wir gedenken
+Wir sind berufen, ihm zu folgen und
+Hier zu leben als sein Leib</lines>
+    </verse>
+    <verse name="v8">
+      <lines>So sind wir Teil am Leiden unsres Herrn
+Verkünden so, dass er wiederkommt
+Das Himmelsfest feiern wir mit ihm
+Gemeinsam an dem Tisch des Herrn</lines>
+    </verse>
+  </lyrics>
+</song>

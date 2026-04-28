@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>One thing my heart is set upon</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+      <author type="translation">Nur eins, das ist mein Herzenswunsch (Näher zu Dir)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One thing my heart is set upon
+One thing that I would ask
+To know You Lord as close as one
+Could hope to on this Earth</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Intimacy O Jesus intimacy
+My treasure will be
+O Jesus Your intimacy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To look upon Your beauty Lord
+Your glory and Your heart
+To know You close and closer still
+Each day upon this Earth</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord since the day I saw You first
+My soul was satisfied
+And yet because I see in part
+I m searching more to find</lines>
+    </verse>
+  </lyrics>
+</song>

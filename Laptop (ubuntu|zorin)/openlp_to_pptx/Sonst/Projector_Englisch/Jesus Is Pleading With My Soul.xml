@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Is Pleading With My Soul</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus is pleading with my poor soul,
+Shall I be saved to-night?
+If I believe, He will make me whole,
+Shall I be saved to-night?
+Tenderly, sadly, I hear Him say,
+How can you grieve me from
+day to day?
+Shall I go on in the old, old way,
+Or shall I be saved to-night?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus was nail’d to the cross for me,
+Shall I be saved to-night?
+How can my heart so ungrateful be?
+Shall I be saved to-night?
+Now He will save me by grace divine,
+Now, if I will, I make Him mine,
+Can I the pleasure of earth resign?
+Shall I be saved to-night?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus is knocking at my poor heart,
+Shall I be saved to-night?
+What if His Spirit should now depart?
+Shall I be saved to-night?
+Over and over His voice I hear,
+Sweetly it falls on my list’ning ear:
+Shall I reject Him a friend so dear?
+Oh, shall I be saved to-night?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>What if that voice I should hear
+no more?
+Shall I be saved to-night?
+Quickly I’ll open this bolted door,
+Save me, 0 Lord to-night!
+Blessed Redeemer, come in, come in,
+Pity my sorrow, forgive my sin!
+Now let Thy work in my soul begin,
+For I will be saved to-night!</lines>
+    </verse>
+  </lyrics>
+</song>

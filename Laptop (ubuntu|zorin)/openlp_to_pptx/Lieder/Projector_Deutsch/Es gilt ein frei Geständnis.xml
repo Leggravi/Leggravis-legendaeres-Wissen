@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Es gilt ein frei' Geständnis</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Spitta</author>
+      <author type="music">Melchior Teschner</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es gilt ein frei' Geständnis
+in dieser unsrer Zeit,
+ein offenes Bekenntnis
+bei allem Widerstreit.
+Trotz aller Feinde Toben,
+trotz allem Heidentum
+zu preisen und zu loben
+das Evangelium.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fern in der Heiden Lande
+erschallt Dein kräftig Wort;
+sie werfen Satans Bande
+und ihre Götzen fort.
+Und wir, wir sollten feige
+am Markte müssig stehn?
+Herr, uns die Arbeit zeige,
+die Du für uns ersehn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du woll'st uns zubereiten
+zu einem Werkzeug Dein,
+dass in den letzten Zeiten
+wir noch von Nutzen sei'n.
+O öffne Du die Herzen
+der Welt und uns den Mund,
+dass wir in Freud' und Schmerzen
+das Heil ihr machen kund.</lines>
+    </verse>
+  </lyrics>
+</song>

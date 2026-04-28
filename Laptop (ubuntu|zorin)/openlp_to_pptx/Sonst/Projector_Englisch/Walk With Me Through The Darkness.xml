@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Walk With Me Through The Darkness</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Walk with me through darkness,
+Everyday and every night;
+Walk with me through the darkness,
+Walk with me till I reach the Light.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We all stumble on life's journey,
+We all need a helping hand;
+From time to time we all wonder,
+How we fit into Your plan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hold my hand when I am lost,
+Carry me when the road gets rough;
+Pick me up each time I fall,
+Let Your Presence be here with me,
+Everyday and every night;
+Walk with me through the darkness,
+Walk with me till I reach the Light.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When I'm in my darkest hour,
+And I feel I'm giving up,
+Take this weight from off my shoulder;</lines>
+    </verse>
+  </lyrics>
+</song>

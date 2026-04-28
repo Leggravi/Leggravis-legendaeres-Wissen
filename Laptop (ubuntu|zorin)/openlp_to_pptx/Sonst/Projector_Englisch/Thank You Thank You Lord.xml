@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thank You, Thank You Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Spiritual</author>
+      <author type="music">Spiritual</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thank You Lord, Thank You Lord
+For Your love to me
+Thank You Lord, Thank You Lord
+For Your liberty
+You sent Your Holy Ghost within
+That I might praise Your Holy Name
+Thank You, Thank You Lord</lines>
+    </verse>
+  </lyrics>
+</song>

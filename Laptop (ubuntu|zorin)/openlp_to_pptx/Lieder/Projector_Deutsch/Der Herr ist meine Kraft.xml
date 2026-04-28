@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Der Herr ist meine Kraft</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Frey</author>
+      <author type="music">John Barnett</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Der Herr ist meine Kraft sein Schild umgibt mich.
+Der Herr ist meine Kraft, mein Fels, der nie mals wankt.(2x).
+Du bist meine Festung, mein starker Befreier,
+Du richtest mich auf zu Deinem Ruhm!
+Herr, Du bist mein Lied, die Freude meiner Rettung,
+die Hoffnung, die mich trägt und für immer steht!
+
+Du Herr bist...</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Want to Be Ready</title>
+    </titles>
+    <authors>
+      <author type="words">Spiritual</author>
+      <author type="music">Spiritual</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I want, to be ready, I want to
+be ready,
+I want to be ready,
+To walk in Jerusalem,
+Just like John.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh John, O John, didn’t you
+say?
+Walking in Jerusalem just like John.
+That you’d be there on that great day
+Walking in Jerusalem just like John.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sister/brother better
+mind how you step on the cross,
+Walking in Jerusalem just like John,
+Your foot may slip, and your soul get lost,
+Walking in Jerusalem just like John.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If you get there before I do,
+Walking in Jerusalem just like John
+Tell all my friends I am coming too,
+Walking Jerusalem just like John.</lines>
+    </verse>
+  </lyrics>
+</song>

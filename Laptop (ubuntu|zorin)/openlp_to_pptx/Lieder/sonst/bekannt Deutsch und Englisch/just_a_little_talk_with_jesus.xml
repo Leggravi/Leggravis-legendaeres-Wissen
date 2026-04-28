@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 11, 2018, 11:25:16 AM">
+  <properties>
+    <titles>
+      <title>Just a Little Talk With Jesus</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>I once was lost in sin, but Jesus took me in
+And then a little light from heaven filled my soul;
+It bathed my heart in love and wrote my name above
+And just a little talk with Jesus makes me whole</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Now let us, Have a little talk with Jesus
+Let us, tell Him all about our troubles
+He will, Hear our faintest cry
+And He will, answer by and by;
+Now when you, Feel a little pary'r wheel turning
+And you, know a little fire is burning
+You will, Find a little talk with Jesus makes it right</lines>
+    </verse>
+    <verse name="V3">
+      <lines>I may have doubts and fears, my eyes be filled with tears
+But Jesus is a friend who watches day and night;
+I go to him in prayer, He knows my every care
+And just a little talk with Jesus makes it right</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Sometimes my path seems drear, without a ray of cheer
+And then a cloud of doubt may hide the light of day;
+The mists of sin may rise and hide the starry skies
+But just a little talk with Jesus clears the way</lines>
+    </verse>
+  </lyrics>
+</song>

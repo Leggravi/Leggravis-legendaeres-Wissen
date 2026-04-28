@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nun lebe nicht mehr ich</title>
+    </titles>
+    <authors>
+      <author type="words">Kommunität Gnadenthal</author>
+      <author type="music">Kommunität Gnadenthal</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nun lebe nicht mehr ich,
+Christus lebt in mir.
+Nun lebe nicht mehr ich,
+Christus lebt in mir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich bin mit ihm gekreuzigt
+und mit ihm auferstanden,
+auf seinem Namen getauft.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und was ich nunmehr lebe,
+dass lebe ich im Glauben
+an den lebendigen Gott.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und was er mir verheißen,
+dass wird er auch erfüllen
+durch seinen heiligen Geist.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Und ich will in ihm bleiben;
+er ist der wahre Weinstock,
+wir sind die Reben an ihm.</lines>
+    </verse>
+  </lyrics>
+</song>

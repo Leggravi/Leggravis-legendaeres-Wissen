@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Anthem of Grace</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I believe in a hope that's so secure
+In Your love that is no fear, salvation is sure
+I believe on the cross you took my pain
+All my sins are washed away, forgiven and free</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And now I see
+As You are, so are we</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let my life resound Your praise
+As an anthem of Your grace
+There is power in Your Name
+Hallelujah Jesus You Reign</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I believe I am righteous through the One
+Your obedience has won, I rest in all You've done
+I believe You are everything I need
+More of You and less of me, I fall at your feet</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And now I see
+As You are, so we are</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Let my life resound Your praise
+As an anthem of Your grace
+There is power in Your Name
+Hallelujah Jesus!</lines>
+    </verse>
+  </lyrics>
+</song>

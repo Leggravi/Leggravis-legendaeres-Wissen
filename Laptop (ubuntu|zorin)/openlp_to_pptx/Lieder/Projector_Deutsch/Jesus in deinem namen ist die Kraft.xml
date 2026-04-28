@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus in deinem namen ist die Kraft</title>
+    </titles>
+    <authors>
+      <author type="words">Wort des Glaubens München</author>
+      <author type="music">Tommy Coomes</author>
+      <author type="translation">Jesus, You're the sweetest name of all</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, in deinem namen ist die Kraft,
+Jesus, die selbst die Blinden sehend macht.
+Der Name Jesus ist erfüllt von Herrlichkeit.
+Jesus, Gott von Ewigkeit!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, in deinem Namen liegt das Heil.
+Jesus, mein Lob wird dir allein zuteil.
+O Jesus du bist die Gerechtigkeit,
+Leben in alle Ewigkeit!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, mein König, der bald wiederkehrt,
+Jesus, mein Herz nur dich allein begehrt.
+Dem Namen Jesus singen wir für alle Zeit.
+Jesus, Herr der Herrlichkeit!</lines>
+    </verse>
+  </lyrics>
+</song>

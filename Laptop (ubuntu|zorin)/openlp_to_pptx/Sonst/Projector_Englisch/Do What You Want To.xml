@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Do What You Want To</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v1 v2 v3 v4 v2 v5 v6 v7 v2 v8 v2 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's Your heart we're searching for
+We want You and nothing more
+Let Your glory fill this place
+We're alive in Your presence</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We surrender all to You
+Do what You want to
+Do what You want to</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God, we long to see You move
+Do what You want to
+Do what You want to
+Do what You want to</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We are standing in Your light
+And our hearts are open wide
+Let us see more than before
+Lord, come have Your way here, yeah</lines>
+    </verse>
+    <verse name="v5">
+      <lines>God, we long to see You move
+Do what You want to
+Do what You want to, yeah</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Have Your way here, in our hearts
+In our lives, in this place
+Have Your way</lines>
+    </verse>
+    <verse name="v7">
+      <lines>And all consuming fire fall, fall on us
+All consuming fire fall, fall on us
+All consuming fire fall, fall on us, let's go
+All consuming fire fall, fall on us!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>God, we long to see You move
+Do what You want to
+Do what You want to</lines>
+    </verse>
+  </lyrics>
+</song>

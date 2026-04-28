@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Day of Redemption</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nations are breaking,
+Israel’s awakening,
+The signs that the prophets foretold;
+The Gentile days numbered,
+with horrors encumbered;
+Eternity soon will unfold.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The day of redemption is near,
+Men’s hearts are failing for fear,
+Be filled with the Spirit,
+your lamps trimmed and clear,
+Look up!
+Your redemption is near.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The fig tree is growing;
+Jerusalem’s restoring,
+Her national life, long dethroned;
+Today she is calling,
+her latter rain’s falling,
+Return, O dispersed, to your own.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Heaven’s powers are shaking,
+and many are mistaking
+God’s meaning to be of the sky;
+God’s Church is the power
+that’s shaking this hour:
+The day of redemption is nigh.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>False prophets are lying,
+God's Truth they’re denying
+That Jesus the Christ is our God;
+Though this generaton spurns
+God’s revelation,
+We’ll walk where the apostles
+have trod.</lines>
+    </verse>
+  </lyrics>
+</song>

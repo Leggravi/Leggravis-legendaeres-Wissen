@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Viele Wege gibt</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: Viele Wege gibt es hier, ich kann sie alle ausprobiern`
+doch nur einer führt zu dir, zum Leben.
+Was hab ich noch zu verliern`, ohne dich bin ich verlorn`hab das schon längst eingesehn`.
+Darum lauf ich zu dir :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist alles, du bist alles für mich.
+Du bist alles, ich such dein Angesicht.
+Du bist alles, du bist alles für mich.
+Du bist alles, ich liebe dich</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Halte dich nicht fest, an dem was doch zerbricht.
+Was wirklich wichtig ist, das sehn` wir nur in seinem Licht.
+Keinen Umweg mehr, ich will nicht mehr im Kreis routiern,
+denn es gibt nur einen Weg, ich will mich ganz in dir verliern.</lines>
+    </verse>
+  </lyrics>
+</song>

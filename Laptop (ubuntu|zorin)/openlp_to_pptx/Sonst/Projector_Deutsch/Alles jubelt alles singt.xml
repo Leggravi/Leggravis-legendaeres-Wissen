@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Alles jubelt alles singt</title>
+    </titles>
+    <authors>
+      <author type="words">Johannes Jourdan</author>
+      <author type="music">Hella Heizmann</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alles jubelt, alles singt
+alles tanzt, und alles springt
+dass die Freude deutlich wird
+und in allen Herzen klingt</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wer die richtigen Augen hat,
+der sieht Berge und Hügel tanzen
+alle Bäume verbeugen sich
+und die Freude wächst wie die Pflanzen</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alles jubelt, alles singt
+alles tanzt, und alles springt
+dass die Freude deutlich wird
+und in allen Herzen klingt</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wer die richtigen Ohren hat
+hört das Lied das die Blumen singen
+Weil die Sonne sie munter macht
+denn Musik ist in allen Dingen</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Alles jubelt, alles singt
+alles tanzt, und alles springt
+dass die Freude deutlich wird
+und in allen Herzen klingt</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wenn der Regen vom Himmel fällt
+singt die Erde das Lied der Freude
+aus der Saat die reift und wächst
+Wird das Brot für hungrige Leute</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Alles jubelt, alles singt
+alles tanzt, und alles springt
+dass die Freude deutlich wird
+und in allen Herzen klingt</lines>
+    </verse>
+  </lyrics>
+</song>

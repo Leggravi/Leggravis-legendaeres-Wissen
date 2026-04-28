@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ho! Everyone That Is Thirsty</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ho! ev'ry one that is thirsty in spirit,
+Ho! ev'ry one that is weary and sad,
+Come to the fountain,
+There's fullness in Jesus,
+All that you're longing for,
+Come and be glad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>&quot;I will pour water on him who is thirsty,
+I will pour floods upon the dry ground;
+Open your heart
+For the gift I am bringing,
+While ye are seeking Me,
+I will be found.&quot;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Child of the world,
+Are you tired of your bondage?
+Weary of earth-joys,
+So false, so untrue;
+Thirsting for God,
+And his fullness of blessing?
+List to the promise --
+A message for you.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Child of the kingdom,
+Be filled with the Spirit,
+Nothing but fullness
+Thy longing can meet.
+'Tis the enduement
+For life and for service;
+Thine is the promise,
+So certain, so sweet.</lines>
+    </verse>
+  </lyrics>
+</song>

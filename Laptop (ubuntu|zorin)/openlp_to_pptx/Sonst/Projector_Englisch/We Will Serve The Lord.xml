@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Will Serve The Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There are times for me
+when I can't always be
+All my mom and dad wants me to be
+When I want to turn away
+Jesus says to stay
+And He'll hug the ones
+who really loved me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hand in hand and heart to heart,
+together in the Lord
+We will serve each other
+all in one accord
+Father, mother, sister, brother,
+we have been restored
+United as a family,
+we will serve the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Every now and then,
+although we're just like friends
+There are days when
+we don't get along
+But Jesus showed us how to live,
+he taught us how to forgive
+Cause He keeps our
+family growing stronger.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>CODA
+With a heart of a child
+To make us his family,
+God gave us His son
+So let's forget about our pride
+and put our differences aside
+And be God's family the way
+He wants us to be.</lines>
+    </verse>
+  </lyrics>
+</song>

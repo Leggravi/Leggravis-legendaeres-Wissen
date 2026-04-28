@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Just To PLease You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Waking up early in a cool dawn
+Kneeling and praying to you alone
+Worshipping you before your throne
+Seeking your face till in Your
+presence be drawn</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Just to please you is my desire
+To offer an aroma of praise you inspire
+And though there are times
+I'm unfaithful to you
+Oh Lord remember that I love you
+Still my desire is to please you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord I live to serve you
+And i give you the best
+in everything I do
+To make my whole life
+Obedient and true
+Holy and acceptable offering to you</lines>
+    </verse>
+  </lyrics>
+</song>

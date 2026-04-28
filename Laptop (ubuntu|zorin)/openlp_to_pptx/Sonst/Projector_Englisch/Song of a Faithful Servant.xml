@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Song of a Faithful Servant</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord I’m glad I heard when I was just a child
+The stories of Your love You have for me
+How You help me find my way, How You listen when I pray
+And how You died to set my spirit free</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord I’m glad I found the power of Your Word
+And knew my life would never be the same
+So I chose to follow You, ever faithful ever true
+And answered when I heard You call my name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord I am Your Servant, Your humble faithful servant
+Help me share Your love in all I do and say
+Walk along beside me, strengthen me and guide me
+Help me be Your servant everyday</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord I turn to You, to find the peace I need
+I feel Your presence every where I go
+And with every step I take, every choice I have to make
+I know that You would help my faith to grow</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lord I know at times, the journey may be hard
+So help me keep my eyes upon the prize
+Keep me safely in Your grace, Help me run and win the race
+And one day live with You in paradise</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Lord I am Your Servant, Your humble faithful servant
+Help me share Your love in all I do and say
+Walk along beside me, strengthen me and guide me
+Help me be Your servant everyday
+Lord, Help me be Your servant everyday</lines>
+    </verse>
+  </lyrics>
+</song>

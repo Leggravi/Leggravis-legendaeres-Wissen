@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Auf deine Gnade Herr kommt es an</title>
+    </titles>
+    <authors>
+      <author type="words">Petra Halfmann</author>
+      <author type="music">Petra Halfmann</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Auf deine Gnade Herr kommt es an
+Und nicht auf das was wir selbst getan
+Herr davon leben wir, dass du gnädig bist,
+Und uns mit Augen der Liebe stets ansiehst.
+Auf deine Gnade Herr kommt es an.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Das Leben haben wir doch selbst nicht in der Hand.
+So vieles lief ganz anders als geplant.
+So vieles, was wir aufgebaut, das stürzte bald schon wieder ein.
+Wie gut ist es in Gottes Hand zu sein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>War jeder Tag nicht neu von Gott, dem Herrn geführt?
+Wie oft schon hatten wir uns sehr verirrt
+Doch seine Gnade, die viel weiter reicht noch als der Horizont,
+Hat uns vor schlimmen Dingen oft verschont.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wir danken Gott für alles, was er uns geschenkt,
+Für die Geduld, mit der er uns stets lenkt,
+Für seine Liebe, seine Treue und seine Barmherzigkeit.
+Wir wollen dankbar sein zu jeder Zeit.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heart's Cry</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For many years now, You've been part of our lives,
+We've walked together through the good times and the trials;
+If there is one thing that I admire as I watch your life,
+It's your greatest heart's desire to live the life of Christ.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know your heart's cry, I know your earnest desire,
+To follow the perfect will and leading of our Lord;
+Because your heart's cry, has helped lead so many home,
+I want my heart's cry to be just like yours.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For all the precious moments you have prayed alone,
+And on the midnight hours counseling on the phone;
+You've always been there, never holding back,
+You gladly gave your all;
+With the passion for His Kingdom,
+And the thirst to heed the call.</lines>
+    </verse>
+  </lyrics>
+</song>

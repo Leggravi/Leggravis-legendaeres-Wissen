@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 21, 2024, 9:12:52 PM">
+  <properties>
+    <titles>
+      <title>He Is Risen</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>It's the dawning of a new day
+The Daystar has risen in our hearts
+Now the cold stiff dead body
+Has quickening transforming power
+From death unto life we have passed
+Into this bright eternal day
+Now the resurrected Christ in us lives.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Hallelujah He is risen
+He is alive in me to tell
+From the realm of this old earthly,
+Now I live in the heavenly realm
+And soon I'll change dimension
+For this earth won't be able
+To hold me anymore.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Now the glory of His gospel
+Shines through us wherever we may go,
+Changing ugly caterpillar
+Into beautiful heavenly creature,
+Oh death, you've been conquered by Him
+Our victory and promise is sure,
+Now the gates of hell cannot prevail
+For we are the Bride of the living God.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>This the season of immortals,
+The spring sun has returned,
+The restoration of the Bride is on,
+All that's lost He has brought back
+And unto the resurrection we are heading now,
+To awake the saints that sleepeth
+And forever we will be with you Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

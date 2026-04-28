@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Worship You Almighty God / There Is None Like You</title>
+    </titles>
+    <authors>
+      <author type="words">Sondra Corbett</author>
+      <author type="music">Sondra Corbett</author>
+      <author type="translation">Ich bet' dich an, Allmächtiger Gott</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I worship You, Almighty God,
+There is none like You.
+I worship You, oh Prince of Peace,
+That is what I long to do.
+I give you praise, for You are my righteousness.
+I worship You, Almighty God;
+There is none like You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is none,
+There is none,
+There is none like You.</lines>
+    </verse>
+  </lyrics>
+</song>

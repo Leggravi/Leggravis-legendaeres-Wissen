@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>To Have and to Hold</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This very moment right here and now
+Begins the journey of my dreams
+On to forever, hand in hand
+With the one who matters most to me
+I have tomorrow to look forward to
+For God has given me you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To have and to hold
+To cherish and honor
+To love and call my very own
+To share all I am with
+body heart and soul
+You are mine as I am yours
+To have and to hold</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Partner, companion, lover and friend
+Keeper of all things I hold dear
+I see you before me and my heart
+Is filled with joy
+For everything that has brought me here
+And I have tomorrow to look forward to
+For God has given me you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I have tomorrow to look forward to
+For God has given me you</lines>
+    </verse>
+  </lyrics>
+</song>

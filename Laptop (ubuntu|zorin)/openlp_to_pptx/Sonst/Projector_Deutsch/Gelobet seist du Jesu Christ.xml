@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gelobet seist du, Jesu Christ</title>
+    </titles>
+    <authors>
+      <author type="words">Medingen</author>
+      <author type="music">Medingen</author>
+      <author type="translation">All praise to you, eternal Lord</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Gelobet seist du, Jesu Christ,
+daß du Mensch geboren bist
+von einer Jungfrau, das ist wahr;
+des freuet sich der Engel Schar.
+Kyrieleis.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Des ewgen Vaters einig Kind
+jetzt man in der Krippen findt;
+in unser armes Fleisch und Blut
+verkleidet sich das ewig Gut.
+Kyrieleis.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Den aller Welt Kreis nie beschloß,
+der liegt in Marien Schoß;
+er ist ein Kindlein worden klein,
+der alle Ding erhält allein.
+Kyrieleis.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Das ewig Licht geht da herein,
+gibt der Welt ein´ neuen Schein;
+es leucht´ wohl mitten in der Nacht
+und uns des Lichtes Kinder macht.
+Kyrieleis.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Der Sohn des Vaters, Gott von Art,
+ein Gast in der Welt hier ward
+und führt uns aus dem Jammertal,
+macht uns zu Erben in sein´m Saal.
+Kyrieleis.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6. Er ist auf Erden kommen arm,
+daß er unser sich erbarm
+und in dem Himmel mache reich
+und seinen lieben Engeln gleich.
+Kyrieleis.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>7. Das hat er alles uns getan,
+sein groß Lieb zu zeigen an.
+Des freu sich alle Christenheit
+und dank ihm des in Ewigkeit.
+Kyrieleis.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Take Your Shoes Off Moses</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Well, God spoke to Moses at the burning bush,
+Burning bush, Lord, the burning bush,
+God spoke to Moses at the burning bush,
+Saying I am the Lord, thy God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take your shoes off Moses, you’re on holy ground,
+Holy ground, you’re on holy ground,
+Take your shoes off Moses, you’re on Holy ground,
+For I am the Lord, thy God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Go yonder Moses and smite that rock,
+Smite that rock, Lord, smite that rock,
+Go yonder Moses and smite that rock,
+For I am the Lord, thy God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Stand still Moses see salvation work,
+Salvation work, see salvation work,
+Stand still Moses and see salvation work,
+For I am the Lord, thy God.</lines>
+    </verse>
+  </lyrics>
+</song>

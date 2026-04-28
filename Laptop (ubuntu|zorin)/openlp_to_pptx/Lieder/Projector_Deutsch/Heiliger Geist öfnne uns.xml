@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heiliger Geist, öfnne uns</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heiliger Geist öffne uns Augen, Ohren, Herzen
+Heiliger Geist, wehe sanft, fülle uns mir Gnade.
+Mit Gnade, mit Liebe
+mit Ehrfurcht mit Freude
+mit Lobpreis, Anbetung
+Heiliger Geist, wehe sanft, fülle uns mir Gnade.</lines>
+    </verse>
+  </lyrics>
+</song>

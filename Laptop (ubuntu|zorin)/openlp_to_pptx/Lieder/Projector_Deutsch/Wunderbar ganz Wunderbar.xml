@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wunderbar, ganz Wunderbar</title>
+    </titles>
+    <authors>
+      <author type="words">Werner Finis</author>
+      <author type="music">Tim Hughes</author>
+      <author type="translation">Beautiful One (Wonderful, So Wonderful)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wunderbar, ganz Wunderbar ist deine Liebe Herr.
+Am Kreuz hast du gezeigt was Gnade ist.
+Keine Auge hat es je gesehn, kein Herz hat je erkannt,
+wie herrlich und wie wunderbar du bist.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unendlich schön bist du,
+mit ganzer Kraft sing ich dir zu.
+Unendlich schön bist du! Nur du.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Deine Macht und Herrlichkeit erfüll‘n die ganze Welt
+und jeder Mensch kann deine Werke sehn.
+Die Schönheit deiner Majestät erweckt in mir ein Lied,
+wie herrlich und wie wunderbar du bist.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du schärfst mir den Blick für die Wunder der Welt,
+eroberst mit Liebe mein Herz,
+doch nichts auf der Welt ist so wunderbar wir du.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Und meine Seele singt. Und meine Seele singt.
+Und meine Seele singt. Du bist so schön!
+Und meine Seele singt. Und meine Seele singt.
+Und meine Seele singt. Du bist so schön!</lines>
+    </verse>
+  </lyrics>
+</song>

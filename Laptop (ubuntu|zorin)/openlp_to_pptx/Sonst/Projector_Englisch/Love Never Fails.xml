@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Love Never Fails</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Love is not proud
+Love does not boast
+Love after all
+Matters the most</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Love does not run
+Love does not hide
+Love does not keep
+Locked inside</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Love is the river that flows through
+Love never fails you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Love will sustain
+Love will provide
+Love will not cease
+At the end of time</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Love will protect
+Love always hopes
+Love still believes
+When you don't</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Love is the arms that are holding you
+Love never fails you</lines>
+    </verse>
+    <verse name="v7">
+      <lines>When my heart won't make a sound
+When I can't turn back around
+When the sky is falling down
+Nothing is greater than this
+Greater than this</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Love is right here
+Love is alive
+Love is the way
+The truth the life</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Love is the river that flows through
+Love is the arms that are holding you
+Love is the place you will fly to
+Love never fails you</lines>
+    </verse>
+  </lyrics>
+</song>

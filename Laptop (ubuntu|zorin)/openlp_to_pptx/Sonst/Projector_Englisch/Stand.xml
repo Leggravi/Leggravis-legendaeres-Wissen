@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Stand</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Today, today is the day
+I'm living for You
+No more doing it my way
+I make the change today</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I don't wanna talk about it
+I don't wanna think about it
+I don't wanna dream about it
+Living my way</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From now I'm living for You
+Everything I'm doing for You
+I will stand, I'll stand for You
+I'll stand, I'll stand, I'll stand for You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will stand, stand for You
+Everything I do, is for You my Jesus
+I will stand, I'll stand for You
+I'll stand, I'll stand, I'll stand for You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Whatever happens to me
+I make a promise to be
+True to my Lord and Saviour
+I will stand</lines>
+    </verse>
+  </lyrics>
+</song>

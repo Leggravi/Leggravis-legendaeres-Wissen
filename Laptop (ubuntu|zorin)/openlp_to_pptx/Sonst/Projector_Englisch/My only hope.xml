@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My only hope</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My only hope is You, Jesus,
+My only hope is You.
+From early in the morning till late at night,
+My only hope is You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My only peace is You, Jesus,
+My only peace is You.
+From early in the morning till late at night,
+My only peace is You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My only joy is You, Jesus,
+My only joy is You.
+From early in the morning till late at night,
+My only joy is You.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All that I need is You, Jesus,
+All that I need is You.
+From early in the morning till late at night,
+All that I need is You.</lines>
+    </verse>
+  </lyrics>
+</song>

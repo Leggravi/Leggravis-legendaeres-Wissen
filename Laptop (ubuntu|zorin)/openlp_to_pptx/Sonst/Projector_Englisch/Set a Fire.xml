@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Set a Fire</title>
+    </titles>
+    <authors>
+      <author type="words">Will Reagan</author>
+      <author type="music">Will Reagan</author>
+      <author type="translation">Kein Ort</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No place I'd rather be
+No place I'd rather be
+No place I'd rather be
+But here in your love,
+Here in your love!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Set a fire down in my soul
+That I can't contain
+That I can't control
+I want more of you God!
+I want more of you God!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Das alte Jahr vergangen ist</title>
+    </titles>
+    <authors>
+      <author type="words">Erfurt</author>
+      <author type="music">Melchior Vulpius</author>
+      <author type="translation">The old year now has passed away</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Das alte Jahr vergangen ist;
+Wir danken dir, Herr Jesu Christ,
+Dass du uns in so groß Gefahr
+Bewahrt hast lange Zeit und Jahr.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Und bitten dich, ewigen Sohn
+Des Vaters in dem höchsten Thron,
+Du wollst dein arme Christenheit
+Bewahren ferner allezeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Entzeuch uns nicht dein heilsam Wort,
+Welchs ist der Seelen höchster Hort:
+Vors Papst Lehr und Abgötterei
+Behüt uns, Herr, und seh uns bei.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Hilf, dass wir fliehn der Sünde Bahn
+Und fromm zu werden fangen an;
+Der Sünd' im alten Jahr nicht denk,
+Ein gnadenreiches Jahr uns schenk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Christlich zu leben, seliglich
+Zu sterben und hernach fröhlich
+Am jüngsten Tage aufzustehn,
+Mit dir in' Himmel einzugehn.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6. Zu loben und zu preisen dich
+Mit allen Engeln ewiglich.
+O Jesu, unsern Glauben mehr'
+Zu deines Namens Ruhm und Ehr.</lines>
+    </verse>
+  </lyrics>
+</song>

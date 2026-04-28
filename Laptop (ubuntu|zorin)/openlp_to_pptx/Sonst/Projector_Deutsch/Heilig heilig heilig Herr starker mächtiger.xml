@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heilig, heilig, heilig, Herr, starker, mächtiger</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heilig, heilig, heilig, Herr, starker, mächtiger Gott!
+Himmel und Erde sind Deiner Ehre voll!
+Hosianna, Hosianna in der Höh!</lines>
+    </verse>
+  </lyrics>
+</song>

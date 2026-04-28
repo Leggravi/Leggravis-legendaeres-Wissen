@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sing</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v2 v4 v2 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It used to be darkness
+Without you,
+I lived my life in blindness,
+Now I am found</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I'll sing, sing
+I love you so
+And I'll sing
+Because the world can't take away
+Your love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Found me in weakness
+Broken
+You came to me in kindness
+And now I live</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For all You've done I'll give
+My life for You, Lord
+For all You've done I'll give
+My life for You, Lord
+For all You've done I'll give
+My life for You, Lord
+For all You've done</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I'll sing, sing
+I love you so
+I'll sing
+Because the world can't take away
+Your love, oh</lines>
+    </verse>
+  </lyrics>
+</song>

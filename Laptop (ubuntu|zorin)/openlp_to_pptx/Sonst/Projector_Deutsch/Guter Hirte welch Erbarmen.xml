@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Guter Hirte! welch Erbarmen</title>
+    </titles>
+    <authors>
+      <author type="words">Wilhelm Brockhaus</author>
+      <author type="music">Wilhelm Brockhaus</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Guter Hirte! welch Erbarmen,
+Welche Liebe wohnt in Dir!
+Gabst Dein Leben für die armen
+Schäflein, die verirret hier.
+Aus der Wüste Nacht und Grauen,
+Von des Elends breiter Bahn,
+Trägst Du uns zu sel'gem Schauen
+Auf den Achseln himmelan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dass uns Heil und Rettung werde,
+Wurdest Du die Gnadentür.
+Rufst mit Namen Deine Herde,
+Gehst voran, sie folget Dir.
+Nie, weil Du Dich hingegeben,
+Werden sie verloren gehn,
+Weil Du selbst bist unser Leben,
+Werden ewig wir bestehn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Keine Macht auf dieser Erde
+Raubt uns Deine Liebe jetzt.
+Sichtet Satan auch die Herde,
+Nichts ist da, was uns verletzt.
+Keine Macht kann Deinen Händen,
+Keine Macht des Vaters Hand
+Uns entreißen, uns entwenden,
+Ew'ge Gnade knüpft das Band.</lines>
+    </verse>
+  </lyrics>
+</song>

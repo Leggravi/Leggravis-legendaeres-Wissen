@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr wir glauben, dass Du wiederkommst</title>
+    </titles>
+    <authors>
+      <author type="words">Andreas Malessa</author>
+      <author type="music">We will glorify the King of kings</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, wir glauben, dass Du wiederkommst,
+Wie es uns dein Wort verspricht.
+Dass du allem Leid ein Ende setzt,
+Gibt uns Mut und Zuversicht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr, wir hoffen auf Gerechtigkeit,
+Brich in unsre Welt hinein.
+Lass uns voll Geduld in Trauer
+Und fröhlich in der Hoffnung sein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr, wir lieben es, dein Reich zu baun
+und zu tun, was dein Wort sagt.
+Gut, dass wir in jenem Frieden stehn,
+Der unser Denken überragt.</lines>
+    </verse>
+  </lyrics>
+</song>

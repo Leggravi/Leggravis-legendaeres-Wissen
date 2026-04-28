@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>New Jerusalem</title>
+    </titles>
+    <authors>
+      <author type="words">Ro­bert Camp­bell</author>
+      <author type="music">Henry J. Gauntlett</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I saw the Holy City,
+Descending from the sky
+So brilliant with the light of God
+The city is His bride
+There is no temple in this town
+No sun, no moon, no lamp
+For God's own glory is it's light
+Illuminated by the Lamb
+And God Himself will wipe the tears
+From every weeping eye
+No death, no pain, no mourning cry
+And every tear made dry</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And now our God will dwell with them
+The new Jerusalem
+And He Himself will walk with them
+The new Jersulaem</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And so let all of those who thirst
+Come now and drink for free
+And to the one who overcomes
+Come now and you will see
+Behold the old has passed away
+Now everything is new
+The Alpha and Omega's words
+Are trustworthy and so true
+And God Himself will wipe the tears
+From every weeping eye
+No death, no pain, no mourning cry
+And every tear made dry</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And now our God will dwell with them
+The new Jerusalem
+And He Himself will walk with them
+The new Jersulaem
+And now our God will dwell with them
+The new Jerusalem
+And He Himself will walk with them
+The new Jersulaem
+And He Himself will walk with them
+The new Jersulaem</lines>
+    </verse>
+  </lyrics>
+</song>

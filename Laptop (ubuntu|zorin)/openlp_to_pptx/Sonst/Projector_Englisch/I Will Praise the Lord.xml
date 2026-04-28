@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Will Praise the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Susanne Riecker</author>
+      <author type="music">Susanne Riecker</author>
+      <author type="translation">Lobe Gott, er ist Herr</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will praise the Lord,
+I will praise the Lord,
+No matter what tomorrow brings,
+What it has in store;
+I will praise the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

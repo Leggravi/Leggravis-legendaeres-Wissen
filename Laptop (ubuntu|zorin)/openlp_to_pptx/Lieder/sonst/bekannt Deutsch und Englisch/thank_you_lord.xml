@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Aug 28, 2021, 5:42:14 PM">
+  <properties>
+    <titles>
+      <title>Thank You Lord</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2 V5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>I thank you Lord for the trials that comes my way,
+In that way I can grow each day as I let You lead,
+And thank you Lord for the patience those trials bring
+In that process of growing I can learn to care</lines>
+    </verse>
+    <verse name="C2">
+      <lines>But it goes against the way I am
+To put my human nature down
+And let the Spirit take control of all I do
+Cause when those trials comes, my human nature
+shouts that things to do
+And God's soft prompting can be easily ignored</lines>
+    </verse>
+    <verse name="V3">
+      <lines>I thank you Lord with each trial I feel inside
+That You're there to help, lead and guide me away from wrong
+Cause You promised Lord that with every testing
+That Your way of escaping is easier to bear</lines>
+    </verse>
+    <verse name="V4">
+      <lines>I thank you Lord for the victory that growing brings
+In surrender of everything life is so worth while
+And I thank you Lord that when everything's put in place
+Out in front I can see You face and it's there you belong</lines>
+    </verse>
+    <verse name="V5">
+      <lines>So give me strength to do
+Thy Holy will Lord</lines>
+    </verse>
+  </lyrics>
+</song>

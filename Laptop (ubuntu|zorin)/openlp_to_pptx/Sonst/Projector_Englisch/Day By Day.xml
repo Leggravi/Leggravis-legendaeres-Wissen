@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Day By Day</title>
+    </titles>
+    <authors>
+      <author type="words">Stephen Schwartz</author>
+      <author type="music">Stephen Schwartz</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Day by day, I walk a little closer with my Lord.
+Day by day!
+Day by day!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where He leads me, where He leads me
+I will follow! I will follow!
+Where He wants me, where He wants me
+I will go!</lines>
+    </verse>
+  </lyrics>
+</song>

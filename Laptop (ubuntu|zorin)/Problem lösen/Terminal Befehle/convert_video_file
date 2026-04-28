@@ -1,0 +1,35 @@
+#!/bin/bash
+
+# Wähle mehrere Videodateien mit Zenity aus
+FILES=$(zenity --file-selection --title="Wähle eine oder mehrere Videodateien aus" --multiple --separator="|")
+
+# Überprüfe, ob Dateien ausgewählt wurden
+if [ -n "$FILES" ]; then
+    # Frage nach der gewünschten ProRes-Qualität
+    PROFILE=$(zenity --list --title="Wähle die ProRes-Qualität" --column="Profile" \
+        "0 (Proxy)" "1 (LT)" "2 (422)" "3 (HQ)" "4 (4444)" "5 (4444 XQ)")
+
+    if [ -n "$PROFILE" ]; then
+        # Extrahiere nur die numerischen Werte für das Profil
+        PROFILE_NUM=$(echo $PROFILE | cut -d ' ' -f 1)
+
+        # Konvertiere jede ausgewählte Datei
+        IFS="|" read -r -a FILE_ARRAY <<< "$FILES"
+        for FILE in "${FILE_ARRAY[@]}"; do
+            # Setze den Ausgabepfad
+            OUTPUT="${FILE%.*}_converted.mov"
+            
+            # Führe die Konvertierung mit ffmpeg durch
+            ffmpeg -i "$FILE" -c:v prores -profile:v "$PROFILE_NUM" -c:a pcm_s16le "$OUTPUT"
+            
+            # Zeige eine Erfolgsmeldung an
+            zenity --info --text="Video erfolgreich konvertiert: $OUTPUT"
+        done
+    else
+        # Zeige eine Fehlermeldung an, wenn kein Profil ausgewählt wurde
+        zenity --error --text="Keine ProRes-Qualität ausgewählt!"
+    fi
+else
+    # Zeige eine Fehlermeldung an, wenn keine Dateien ausgewählt wurden
+    zenity --error --text="Keine Dateien ausgewählt!"
+fi

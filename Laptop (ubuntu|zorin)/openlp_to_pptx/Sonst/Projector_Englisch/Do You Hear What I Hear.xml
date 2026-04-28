@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Do You Hear What I Hear?</title>
+    </titles>
+    <authors>
+      <author type="words">Noel Regney</author>
+      <author type="music">Noel Regney</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Said the night wind to the little lamb
+Do you see what I see?
+(Do you see what I see?)
+Way up in the sky, little lamb
+Do you see what I see?
+(Do you see what I see?)
+A star, a star, dancing in the night
+With a tail as big as a kite
+With a tail as big as a kite</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Said the little lamb to the shepherd boy
+Do you hear what I hear?
+(Do you hear what I hear?)
+Ringing through the sky, shepherd boy
+Do you hear what I hear?
+(Do you hear what I hear?)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A song, a song high above the trees
+With a voice as big as the sea
+With a voice as big as the sea</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Said the shepherd boy to the mighty king
+Do you know what I know?
+(Do you know what I know?)
+In your palace warm, mighty king
+Do you know what I know?
+(Do you know what I know?)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A Child, a Child shivers in the cold
+Let us bring him silver and gold
+Let us bring him silver and gold</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Said the king to the people everywhere
+Listen to what I say! (Listen to what I say!)
+Pray for peace, people, everywhere
+Listen to what I say! (Listen to what I say!)
+The Child, the Child sleeping in the night
+He will bring us goodness and light,
+He will bring us goodness and light.</lines>
+    </verse>
+  </lyrics>
+</song>

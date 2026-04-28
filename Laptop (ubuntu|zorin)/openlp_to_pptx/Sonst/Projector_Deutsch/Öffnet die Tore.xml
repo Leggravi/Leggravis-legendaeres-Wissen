@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Öffnet die Tore</title>
+    </titles>
+    <authors>
+      <author type="words">Johannes Hartl</author>
+      <author type="music">Johannes Hartl</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wer darf hinaufziehn zum Berg des Herrn
+Kann vor dem Hof deines Throns bestehn
+Dem Ort wo du wohnst
+Dem Ort wo du wohnst</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mit Augen des Glaubens
+Und liebenden Herzen
+Treten wir ein in deinen Tempel o Herr
+Wir treten ein in deinen Tempel o Herr</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mit Augen des Glaubens
+Und liebenden Herzen
+Treten wir ein in deinen Tempel o Herr
+Wir treten ein in deinen Tempel o Herr
+Den Ort wo du wohnst</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Öffnet die Tore denn der König kommt
+Öffnet die Tore denn der König kommt
+Öffnet die Tore denn der König kommt
+Der König kommt</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hosanna, komm Herr Jesus komm
+Hosanna, komm Herr Jesus komm
+Deine Braut wartet mit erhobenen</lines>
+    </verse>
+  </lyrics>
+</song>

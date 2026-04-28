@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Write It On My Heart</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It should be easy enough to remember
+That You meet my every need
+It should come natural by now
+but it slips my mind somehow
+And I forget to trust the truth that I believe</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I thought by now it would be second nature
+to love my neighbor as myself
+But then sometimes I can't quite tell
+If I love myself that well
+But it's obvious my mind could use some help</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So write It on my heart
+'til I can't forget It
+Write It on my heart
+'til It's as good as nailed in stone
+I want to love Your will
+'til at last I let it become my own
+So write It on my heart.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>By faith, I say I am a new creation
+and what I was has ceased to be
+And as I live from day to day
+Now I want my life to say
+those words of faith are my reality.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>'Til it's more than words on paper
+'Til it's more than memorized
+'TIl its more than whom I am
+and how I live my life</lines>
+    </verse>
+  </lyrics>
+</song>

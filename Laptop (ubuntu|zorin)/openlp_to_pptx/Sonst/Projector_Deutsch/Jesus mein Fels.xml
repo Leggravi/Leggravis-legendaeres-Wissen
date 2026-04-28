@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, mein Fels</title>
+    </titles>
+    <authors>
+      <author type="words">Peter Enns</author>
+      <author type="music">Peter Enns</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Herr, mein Fels und mein Erlöser,
+größter Schatz, nach Dir verlangt mein Herz.
+Mein Gott, wie Du ist sonst kein andrer,
+wahre Freude liegt in Dir allein.
+Ja, wer kann Deine Gnade fassen?
+Du liebst wie niemand anders sonst.
+Dein Wort ist Quelle aller Weisheit.
+Habe ich Dich, so wünsche ich nichts mehr.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Herr, mein Fels und mein Erlöser,
+Du beschützt und hältst mein müdes Herz.
+Dein Wort löscht aus den Pfeil des Bösen,
+Du bewahrst mich vor des Teufels List.
+Mein Lied, wenn Feinde mich bedrängen,
+mein Halt, wenn Sorgen mich bedrohn.
+In Not bleibst Du, Herr, meine Freude.
+Ja, Deine Treue ist mein Zufluchtsort.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Herr, mein Fels und mein Erlöser,
+Du gabst meinem Leben Halt und Sinn.
+Am Kreuz trugst Du all meine Sünden,
+an meiner Statt gabst Du Dein Leben hin.
+Du lebst, bist siegreich auferstanden,
+die Macht der Sünde ist besiegt.
+O Herr, mein Fels und mein Erlöser,
+mein Leben soll ein Lobpreis für Dich sein.
+Mein Leben soll ein Lobpreis für Dich s</lines>
+    </verse>
+  </lyrics>
+</song>

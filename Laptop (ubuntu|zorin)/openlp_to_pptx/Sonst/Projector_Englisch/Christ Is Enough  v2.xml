@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Christ Is Enough – v2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christ is my reward
+And all of my devotion
+Now there's nothing in this world
+That could ever satisfy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Through every trial
+My soul will sing
+No turning back
+I've been set free</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Christ is enough for me
+Christ is enough for me
+Everything I need is in You
+Everything I need</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Christ my all in all
+The joy of my salvation
+And this hope will never fail
+Heaven is our home</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Through every storm
+My soul will sing
+Jesus is here
+To God be the glory</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I have decided to follow Jesus
+No turning back
+No turning back. 2X
+The cross before me
+The world behind me
+No turning back
+No turning back. 2X</lines>
+    </verse>
+  </lyrics>
+</song>

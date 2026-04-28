@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Mar 23, 2021, 9:14:52 PM">
+  <properties>
+    <titles>
+      <title>Nothing Is Impossible</title>
+    </titles>
+    <verseOrder>C1 V2 V3 C1 V2 V3 C1 V4 C1 V4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="C1">
+      <lines>Through You I can do anything,
+I can do all things
+'Cause it's you who gives me strength, nothing is impossible
+Through you blind eyes are open,
+Strongholds are broken
+I am living by faith, nothing is impossible</lines>
+    </verse>
+    <verse name="V2">
+      <lines>I'm not gonna live by what I see,
+I'm not gonna live by what I feel</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Deep down I, know that You're here with me
+I know that, You can do anything</lines>
+    </verse>
+    <verse name="V4">
+      <lines>/: I believe, I believe,
+I believe, I believe in You :/</lines>
+    </verse>
+  </lyrics>
+</song>

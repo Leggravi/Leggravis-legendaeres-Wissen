@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich seh das Kreuz</title>
+    </titles>
+    <authors>
+      <author type="words">Stefan Amolsch</author>
+      <author type="music">Brian Doerksen</author>
+      <author type="translation">I see the cross</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich seh das Kreuz
+Und nichts andres muss ich sehn
+Ich seh das Kreuz
+&quot;Komm und glaube&quot; ruft es mich</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kein andrer Weg, der zur Freiheit führt
+Um Versöhnung zu erfahren
+Kein andrer Ort, der Vergebung bringt
+Wo der Preis für uns bezahlt ist</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und ich komm, wie ich bin
+Und begegne Deiner Gnade
+Ich seh das Kreuz</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du littest und starbst, hast für mich bezahlt
+Du hast uns gezeigt, was groß zu sein heißt
+Durch Dich wird der Plan des Vaters erfüllt
+Der Weg ist jetzt frei
+Und wir werden auferstehen und ewig leben
+Weil Du für uns starbst</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wir werden auferstehen und ewig leben
+Weil du in uns lebst
+Ich seh das Kreuz</lines>
+    </verse>
+  </lyrics>
+</song>

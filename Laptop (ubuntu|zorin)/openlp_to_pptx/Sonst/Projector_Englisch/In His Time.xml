@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In His Time</title>
+    </titles>
+    <authors>
+      <author type="words">Diane Ball</author>
+      <author type="music">Diane Ball</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In His time,
+In His time,
+He makes all things beautiful
+In His time.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, please show me everyday,
+As You're teaching me Your way;
+That You do just what You say,
+In Your time.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In Your time,
+In Your time,
+You make all things beautiful,
+In Your time.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord, my life to You I bring;
+May each song I have to sing,
+Be to You a lovely thing
+In Your time.</lines>
+    </verse>
+  </lyrics>
+</song>

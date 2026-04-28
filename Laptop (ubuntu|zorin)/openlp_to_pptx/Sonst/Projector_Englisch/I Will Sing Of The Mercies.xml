@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Will Sing Of The Mercies</title>
+    </titles>
+    <authors>
+      <author type="words">James Henry Fillmore</author>
+      <author type="music">James Henry Fillmore</author>
+      <author type="translation">Ich will singen von der Gnade meines Herrn</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will sing of the mercies of the Lord forever
+I will sing, I will sing.
+I will sing of the mercies of the Lord forever
+I will sing of the mercies of the Lord.
+With my mouth shall I make known
+Thy faithfulness, Thy faithfulness,
+With my mouth shall I make known
+Thy faithfulness to all generations.
+I will sing of the mercies of the Lord forever
+I will sing of the mercies of the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

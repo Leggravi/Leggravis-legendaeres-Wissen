@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Stay in Line</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stay in line, stay in line,
+My brother, stay in line
+Stay in line, stay in line
+My sister, stay in line</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Don't go to your left or to your right
+Just press on, stay in line
+Do not give up or turn around
+Press on, stay in line</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though many had slipped away,
+Just look at the cross
+Just press on, stay in line
+All of our trials will be over soon,
+Press on, stay in line.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The Prophet had told us,
+&quot;Time be no more!&quot;
+Press on, stay in line.
+The Lord will return
+And catch away His Bride,
+Press on, stay in line.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hallelujah, hallelujah hallelujah
+Hallelujah, hallelujah hallelujah</lines>
+    </verse>
+    <verse name="v6">
+      <lines>All Bride of Christ, stay in line</lines>
+    </verse>
+  </lyrics>
+</song>

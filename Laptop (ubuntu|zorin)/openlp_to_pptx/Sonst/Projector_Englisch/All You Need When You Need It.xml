@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All You Need When You Need It</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know your heart sees no way out
+As you face the shadows of your doubt
+A trial that you know, you can′t run from
+You dread the pain you feel tomorrow
+Not sure that you'll survive the sorrow
+You knew a time like this would surely come
+But just hold on
+It wont be long</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You′ll have all you need when you need it
+Though for now you just can't see it
+When your ready to receive it
+Grace will overflow
+Put your fear on the alter and leave it
+Walk on by faith and believe it
+You'll have all you need when you need it
+I know</lines>
+    </verse>
+    <verse name="v3">
+      <lines>One day soon you′ll understand
+How all of this was in Gods plan
+And how he gave you strength for every mile
+And as the pages keep on turning
+You′ll look back upon the journey
+And see he was all you needed all the while
+But until then, I'll remind you again</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Put your fear on the alter and leave it
+Walk on by faith and believe it
+You′ll have all you need when you need it
+I know</lines>
+    </verse>
+  </lyrics>
+</song>

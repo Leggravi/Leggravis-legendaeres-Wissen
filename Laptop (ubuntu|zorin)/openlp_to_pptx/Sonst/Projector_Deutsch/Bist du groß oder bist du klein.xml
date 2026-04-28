@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Bist du groß oder bist du klein</title>
+    </titles>
+    <authors>
+      <author type="words">Johannes Kleiner</author>
+      <author type="music">Ralph Glöckner</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bist du groß oder bist du klein,
+oder mittendrin: Gott liebt dich!
+Bist du dick oder bist du dünn,
+oder mittendrin: Gott liebt dich!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er liebt dich, wenn du lächelst,
+er liebt dich, wenn du weinst.
+Er liebt dich, wenn du müde bist,
+er liebt dich, wenn du träumst.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, egal wie du aussiehst,
+egal wie du dich fühlst.
+Gott liebt dich, gib ihm die Ehre!
+Gott liebt dich, gib ihm die Ehre!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gott liebt dich
+und dich
+und dich
+und dich
+und mich!</lines>
+    </verse>
+  </lyrics>
+</song>

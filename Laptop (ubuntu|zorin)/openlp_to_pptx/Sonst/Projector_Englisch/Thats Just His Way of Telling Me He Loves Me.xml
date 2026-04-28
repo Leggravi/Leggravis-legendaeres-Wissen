@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>That's Just His Way of Telling Me He Loves Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He lets me walk down roads
+of disappointment
+He watches and He knows
+what's best for me.
+My greatest strength comes through
+my darkest trials;
+And my greatest joy is knowing
+that He can trust in me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>That's just His way
+of telling me He loves me;
+Love beyond
+all human understanding.
+I won't question trials
+that bring me to my knees;
+That's just His way of telling me
+He loves me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If I'm successful walking
+in this valley,
+He'll give me strength
+to climb the highest hill.
+The more I try, the better
+He can mold me;
+Change my life completely
+to fit His perfect will.</lines>
+    </verse>
+  </lyrics>
+</song>

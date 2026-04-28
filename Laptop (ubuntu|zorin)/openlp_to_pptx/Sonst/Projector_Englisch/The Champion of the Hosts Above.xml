@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Champion of the Hosts Above</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The champion of the hosts above,
+In (And) captain of my destiny,
+In You alone I make my boast,
+You reign alone as Lord of all.</lines>
+    </verse>
+  </lyrics>
+</song>

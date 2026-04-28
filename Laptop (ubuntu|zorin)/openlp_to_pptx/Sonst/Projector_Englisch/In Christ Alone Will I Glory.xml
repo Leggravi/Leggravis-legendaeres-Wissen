@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In Christ Alone Will I Glory</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In Christ alone will I glory,
+Though I could pride myself in battles won,
+For I’ve been blessed beyond measure,
+And by His strength alone I’ll overcome,
+Oh, I could stop and count successes like diamonds in my hands,
+But those trophies could not equal to the grace by which I stand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In Christ alone I place my trust
+And find my glory in the power of the cross
+In every victory Let it be said of me
+My source of strength
+My source of hope Is Christ alone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In Christ alone do I glory,
+For only by His grace I am redeemed,
+For only His tender mercy,
+Could reach beyond my weakness to my need,
+And now I seek no greater honor in just to know Him more,
+And to count my gains but losses to the glory of my Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

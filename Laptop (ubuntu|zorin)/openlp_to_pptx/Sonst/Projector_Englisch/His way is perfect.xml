@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>His way is perfect</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When my way seems dark and drear
+And the future I don't know
+My heart feels so empty
+As the tears unending flow
+When my heart breaks with sorrow
+And a tempest fills my soul
+This one thing I know for sure
+My God is in control</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His way is perfect,
+His way is perfect,
+Though I don't understand
+His wise and loving plan
+His way is perfect,
+His way is perfect,
+Take my life and make a vessel purified
+God makes no mistakes
+His way is best</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the toils of life are come
+And my heart is worn with care
+I faint'neath the burden
+Of a cross I cannot bear
+When the joy has departed
+From my sorrow stricken soul
+This one thing I know for sure
+My God is in control</lines>
+    </verse>
+  </lyrics>
+</song>

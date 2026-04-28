@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Greater Than All My Sin</title>
+    </titles>
+    <authors>
+      <author type="words">Tore W. Aas</author>
+      <author type="music">Tore W. Aas</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Greater than all my sin
+Is the blood that still cleanses me
+Is the Grace that still sets me free
+O, To praise Him
+I know the blood applied
+I'm walking in newness of life
+I cannot fall for its greater than all
+The Blood of the Lamb</lines>
+    </verse>
+  </lyrics>
+</song>

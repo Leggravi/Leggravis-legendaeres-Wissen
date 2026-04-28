@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Home Where I Belong</title>
+    </titles>
+    <authors>
+      <author type="words">Pat Terry</author>
+      <author type="music">Pat Terry</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>They say that heavens pretty,
+and living here is too.
+But if they said that I would have to choose between the two.
+I'd go home,
+going home,
+where I belong.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And sometimes when I'm dreaming,
+it comes as no surprise.
+That if you look and see the homesick feeling in my eyes.
+I'm going home,
+going home,
+where I belong.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>But while I'm here I'll serve him gladly,
+and sing him all my songs.
+I'm here,
+but not for long.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When I'm feeling lonely,
+When I'm feeling blue.
+It's such a joy to know that I am only passing through.
+I'm headed home,
+going home,
+where I belong.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>One day I'll be sleeping,
+when death knocks on my door.
+And I'll awake and find that I'm not homesick anymore.
+I'll be home,
+going home,
+where I belong.</lines>
+    </verse>
+  </lyrics>
+</song>

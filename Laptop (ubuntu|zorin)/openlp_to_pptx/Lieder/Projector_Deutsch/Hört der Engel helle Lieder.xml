@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hört, der Engel helle Lieder</title>
+    </titles>
+    <authors>
+      <author type="words">1)</author>
+      <author type="music">Frankreich</author>
+      <author type="translation">Angels We Have Heard On High</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hört, der Engel helle Lieder
+klingen das weite Feld entlang,
+und die Berge hallen wider
+von des Himmels Lobgesang:
+Gloria in excelsis Deo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hirten, warum wird gesungen?
+Sagt mir doch eures Jubels Grund!
+Welch ein Sieg ward denn errungen,
+den uns die Chöre machen kund?
+Gloria in excelsis Deo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sie verkünden uns mit Schalle,
+dass der Erlöser nun erschien,
+dankbar singen sie heut alle
+an diesem Fest und grüßen ihn.
+Gloria in excelsis Deo.</lines>
+    </verse>
+  </lyrics>
+</song>

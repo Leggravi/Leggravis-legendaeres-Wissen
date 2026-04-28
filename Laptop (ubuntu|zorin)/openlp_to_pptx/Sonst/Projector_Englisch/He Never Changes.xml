@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Never Changes</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He never changes
+He never changes at all
+He's always there
+Every time when I fall
+Jesus is an answer away
+Whenever I call
+He never changes
+He never changes at all</lines>
+    </verse>
+  </lyrics>
+</song>

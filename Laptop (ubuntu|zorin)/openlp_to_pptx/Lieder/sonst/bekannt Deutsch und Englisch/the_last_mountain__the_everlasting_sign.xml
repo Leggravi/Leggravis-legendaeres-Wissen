@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 18, 2025, 8:27:38 AM">
+  <properties>
+    <titles>
+      <title>The Last Mountain (The everlasting sign)</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>I've fought a good fight,
+I've kept the faith
+Henceforth for me a crown of righteousness awaits
+Which The Righteous Judge shall give to me
+When He shall appear
+So when He comes He'll find me waiting here
+So here I stand</lines>
+    </verse>
+    <verse name="C2">
+      <lines>I'm standing on the last mountain before
+I cross over on the other side
+From here I see the new world
+The new Jerusalem
+Someday soon I'll cross the great divide
+Someday soon I'll be on the other side</lines>
+    </verse>
+    <verse name="V3">
+      <lines>I've been battle scarred, been through many wars
+But they have only made me strong
+So I'll keep fighting on
+In the midst of all adversity I've stood victoriously
+It is God's grace that gives me victory
+So here I stand</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Feeling that strange call of God
+I know it's time to leave
+Calling me to my Father's house
+Things that are to be
+I see the setting sun
+I know I'll find what I'm looking for
+From where I stand
+I'll walk through the open door</lines>
+    </verse>
+  </lyrics>
+</song>

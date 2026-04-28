@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Offer My Life</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All that I am, all that I have
+I lay them down before you, oh Lord
+All my regrets, all my acclaims
+The joy and the pain, I'm making them yours</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, I offer my life to you
+Everything I've been through
+Use it for your glory
+Lord I offer my days to you
+Lifting my praise to you
+As a pleasing sacrifice
+Lord I offer you my life</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Things in the past, things yet unseen
+Wishes and dreams that are yet to come true
+All of my hope, all of my plans,
+My heart and my hands are lifted to you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>What can we give
+That you have not given?
+And what do we have
+That is not already yours?
+All we possess
+Are these lives we're living
+That's what we give to you, Lord</lines>
+    </verse>
+  </lyrics>
+</song>

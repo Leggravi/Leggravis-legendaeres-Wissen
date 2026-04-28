@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Anbetung bringen wir Dir, Jesus, Gotteslamm</title>
+    </titles>
+    <authors>
+      <author type="words">Edwin Donnabauer</author>
+      <author type="music">Edwin Donnabauer</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Anbetung bringen wir Dir, Jesus, Gotteslamm.
+Wir stehen staunend hier, sehen, was Du getan.
+Nichts ist für Dich zu schwer, nichts Dich bezwingen kann!
+Du bist der einz’ge Herr, Jesus, wir beten an.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Christus, auf Golgatha hast Du den Feind besiegt.
+Deine erlöste Schar anbetend vor Dir liegt.
+Aus dunkler Leidensnacht stiegst Du zum Licht empor,
+dann brach mit aller Macht, Jesus, Dein Sieg hervor!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr, Deine Botschaft heut neu unser Herz beglückt:
+„Jesus, der Herr der Herrn, bald Seine Braut entrückt! “
+Froh warten wir auf Dich und machen uns bereit,
+bald werden wir Dich sehn, Jesus, in Herrlichkeit</lines>
+    </verse>
+  </lyrics>
+</song>

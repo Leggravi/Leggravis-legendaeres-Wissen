@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Will Stand for You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Have there been so many trials,
+in your life’s journey
+Just Open up your heart to God
+and Completely surrender
+and all trials in life will surely all pass
+You just trust in God
+for He will stand for you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh… He will stand for you
+He will stand for you
+fear not then God’s bride
+You shall overcome
+He will stand for you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fighting with fervor and faith
+No looking back
+Even though Satan will try
+To make you go slack
+All trials in life will surely all pass
+Oh, just trust in God
+He will stand for you</lines>
+    </verse>
+  </lyrics>
+</song>

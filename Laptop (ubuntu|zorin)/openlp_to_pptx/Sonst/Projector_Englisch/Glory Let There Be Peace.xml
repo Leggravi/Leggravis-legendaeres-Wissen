@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title> Glory (Let There Be Peace)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One star burns in the darkness,
+Shines with the promise, Emmanuel.
+One child born in the stillness,
+Living within us, Emmanuel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We're singing glory, glory,
+Let there be peace, let there be peace.
+Singing glory, glory,
+Let there be peace, let it is start in me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>One voice speaks for the voiceless
+Hope for the hopeless, Emmanuel.
+One love brings us together 
+Now and forever, Emmanuel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Do not be afraid His love is strong enough to save us
+Nothing stands in the way His love is strong enough to lead us
+Do not be afraid His love is strong enough to save us
+Nothing stands in the way His love is strong enough to lead us</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We sing glory, glory let there be peace, let there be peace,
+Singing glory, glory let there be peace, let it start in me.
+Singing glory, glory let there be peace, let there be peace,
+Singing glory, glory let there be peace, let it start in me,
+Let there be peace, let it start in me.</lines>
+    </verse>
+  </lyrics>
+</song>

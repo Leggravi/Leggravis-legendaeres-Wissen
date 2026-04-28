@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:27">
+  <properties>
+    <titles>
+      <title>Lasset uns mit Jesus ziehen</title>
+    </titles>
+    <authors>
+      <author type="words">Sigmund von Birken (1653)</author>
+      <author type="music">Sollt ich meinem Gott nicht singen</author>
+    </authors>
+    <ccliNo>5226238</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lasset uns mit Jesus ziehen,
+seinem Vorbild folgen nach,
+in der Welt der Welt entfliehen,
+auf der Bahn, die er uns brach,
+immer fort zum Himmel reisen,
+irdisch, doch schon himmlisch sein,
+glauben recht und leben fein,
+in der Lieb den Glauben weisen.
+Treuer Jesu! Bleib bei mir,
+gehe für, ich folge dir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lasset uns mit Jesus leiden,
+seinem Vorbild werden gleich.
+Nach dem Leide folgen Freuden,
+Armut hier macht dorten reich.
+Tränensaat, die erntet Lachen,
+Hoffnung tröstet mit Geduld,
+es kann leichtlich Gottes Huld
+aus dem Regen Sonne machen.
+Jesu! Hier leid ich mit dir,
+dort teil deine Freud mit mir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lasset uns mit Jesus sterben!
+Sein Tod uns vom andern Tod
+Rettet und vom Seelverderben
+Von der ewgen Höllennot.
+Lasst uns töten, weil wir leben,
+unser Fleisch ihm sterben ab,
+so wird er uns aus dem Grab
+in das ewge Leben heben.
+Jesu, sterb ich, sterb ich dir,
+dass ich lebe für und für.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lasset uns mit Jesus leben,
+weil er auferstanden ist,
+muss das Grab uns wiedergeben.
+Jesu! Unser Haupt du bist,
+wir sind deines Leibesglieder
+wo du lebst, da leben wir,
+ach! erkenn uns für und für,
+treues Herz, für deine Brüder.
+Jesu, dir ich lebe hier,
+lass mich ewig sein bei dir!</lines>
+    </verse>
+  </lyrics>
+</song>

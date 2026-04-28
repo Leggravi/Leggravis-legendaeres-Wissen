@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Am What I Am Because of His Grace</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I could stand here and tell you
+what I used to be
+I could tell of the change
+thats come over me
+But the Lord showed His grace
+when He died on the tree
+So I'll let the blood Jesus
+shed speak for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am what I am because
+of His grace
+For one spotless Lamb
+died in my place
+All my sins are forgiven
+my past is erased
+I am what I am because
+of His grace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I was lost and undone
+now found and fulfilled
+God traded His Son for
+my shame and my guilt
+Now I'm His Child,
+no longer sins slave
+His mercy has made me
+what I am today.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now I'm Bride to the King
+robed in my wedding gown
+Place my life in His Hands
+and He won't let me down
+Faithful and true without
+spot or stain
+What I am today was
+always in His plan.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Help Me</title>
+    </titles>
+    <authors>
+      <author type="words">Kees Kraayenoord</author>
+      <author type="music">Kees Kraayenoord</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, help me walk another mile, just one more mile
+I'm tired of walkin' all alone
+Lord, help me smile another smile, just one more smile
+You know I just can't make it on my own</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I never thought I needed help before
+I thought that I could get by, by myself
+But now I know I just can't take it any more
+With a humble heart, on bended knee
+I'm beggin' You, please, help me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come down from your golden throne to me, to lowly me
+I need to feel the touch of Your tender hand
+Remove the chains of darkness let me see, Lord let me see
+Just where I fit into Your master plan</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I never thought I needed help before
+I thought that I could get by, by myself
+But now I know I just can't take it any more
+With a humble heart, on bended knee
+I'm beggin' You, please, help me
+With a humble heart, on bended knee
+I'm beggin' You, please, help me</lines>
+    </verse>
+  </lyrics>
+</song>

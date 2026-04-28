@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Storms of Life</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The storms of life may blow, we got to be prepared for them
+By doing what God tells us to do
+We hear the word that strengthens us
+When the storms of life come,
+Faith will rise to the occasion.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So when the storms of life gather, let the anchor hold within the veil,
+They're sent to test your revelation on Christ the solid rock we stand,
+The storms of life will not shake us, because the anchor holds,
+The rock of revelation, will stand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God wants mighty men of valor prepared for combat,
+We are Christ’s Mighty Gentile Warriors, when the storms of life come,
+So lift up your hands and praise God, he has counted you worthy
+to stand for him in this day</lines>
+    </verse>
+  </lyrics>
+</song>

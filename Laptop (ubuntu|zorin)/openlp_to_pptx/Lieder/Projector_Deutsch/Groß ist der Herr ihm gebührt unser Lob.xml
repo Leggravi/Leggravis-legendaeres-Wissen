@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Groß ist der Herr, ihm gebührt unser Lob</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Groß ist der Herr, ihm gebührt unser Lob.
+In Herrlichkeit ragt seine Stadt empor,
+zur Freude aller Welt.
+Groß ist der Herr, und in ihm haben wir den Sieg.
+Denn er hat uns aus Feindeshand befreit.
+Wir beugen unsre Knie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Und wir erheben deinen Namen, Herr.
+Wir danken dir von Herzen
+für dein Werk in unserm Leben.
+Und wir vertrauen deiner Liebe, Herr.
+Denn du allein bist unser Gott,
+in Ewigkeit regierst du die Welt.</lines>
+    </verse>
+  </lyrics>
+</song>

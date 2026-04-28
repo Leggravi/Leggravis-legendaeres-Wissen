@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dein ist die Herrschaft und die Stärke</title>
+    </titles>
+    <authors>
+      <author type="words">Stephan Krahe</author>
+      <author type="music">Joel Houston</author>
+      <author type="translation">Yours Is The Kingdom</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dein ist die Herrschaft und die Stärke,
+alle Ehre gehört dir allein.
+Himmel und Erde beugen sich erfurchtsvoll vor dir.
+Der Himmel ist offen, der Tod ist bezwungen.
+Und die Ehre gehört dir allein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nichts überwindet deinen Namen, deine Macht.
+König der Welt, alle Schöpfung singt dir zu.
+Gott der Ewigkeit du bist wunderbar, du bist wunderbar.
+Und der Ruf dieser Welt wird dein Lob sein.
+Gott dein wunderbarer Name wird jedem ewig scheinen als Licht.
+Denn die Herrlichkeit ist dein.
+Gott für immer alle Herrlichkeit ist dein.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Christus ist der Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Dietmar Fischenich</author>
+      <author type="music">Dietmar Fischenich</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, nimm mich, nun gehört mein Leben dir.
+Komm und zerbrich allen Eigensinn in mir.
+Ich bin bereit, dir zu folgen, Tag für Tag.
+Für allezeit gelte, was auch kommen mag:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr, mach mich rein, ohne dich ist mein Leben nichts.
+Hilf mir, zu sein wie ein Spiegel deines Lichts.
+Alles ist mir soll in diesem Licht bestehn,
+rein sein vor dir, damit andre an mir sehn:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ursprung und Ziel allen Lebens auf der Welt.
+Unfassbar viel, das durch dich zusammen hält.
+Noch ist nicht klar, was wir nur im Glauben sehn.
+Mach offenbar, laß die Welt durch uns verstehn:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus Christus ist der Herr
+Jesus Christus ist der Herr
+Jesus Christus ist der Herr
+Jesus Christus ist der Herr</lines>
+    </verse>
+  </lyrics>
+</song>

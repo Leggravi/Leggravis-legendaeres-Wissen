@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Praise your name</title>
+    </titles>
+    <authors>
+      <author type="words">Bob Fitts</author>
+      <author type="music">Bob Fitts</author>
+      <author type="translation">Preisen will ich Dich</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will praise your name
+Be exalted forever more
+I will shout your praise
+You are king and you rule over all the earth</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise your name
+Praise your name
+Praise your name
+Praise your name</lines>
+    </verse>
+  </lyrics>
+</song>

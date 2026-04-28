@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Here We Are All Together</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here we are all together as we sing a song our song joyfully;
+Here we are joined together, as we pray we’ll always be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Join we now as friends
+And celebrate the unity we share, all as one
+Keep the fire burning, kindle it with care
+And we’ll all join in &amp; sing chorus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let us make this world an alleluia,
+Let us make this world a better place
+Keep a smile handy, lend a helping hand
+And we’ll all join in &amp; sing chorus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Glorify our God with all our voices
+Show him we are sincere by all our deeds
+Shout the joys of freedom everywhere
+Let us all join in and sing.</lines>
+    </verse>
+  </lyrics>
+</song>

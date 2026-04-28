@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Love You Lord Greater Than Anything</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I love You, Lord,
+Greater than anything
+I love You, Lord
+More than my heart could sing
+I love You, Lord
+More than I love myself
+I love You, Lord
+I love You, Lord
+I love You, Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I worship You
+High above everything
+I worship You
+With all that my heart could sing
+I worship You
+O let my life give praise
+I love You
+I love You
+I love You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I lift my hands
+I am a sacrifice
+I lift my hands
+My body and soul a prize
+I lift my hands
+All that I have is Yours
+I lift my hands
+I lift my hands
+I lift my hands</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hallelujah!
+This is my song of praise
+Hallelujah!
+I'll worship You all my days
+Hallelujah!
+All that I am is Yours
+Hallelujah!
+Hallelujah!
+Hallelujah!</lines>
+    </verse>
+  </lyrics>
+</song>

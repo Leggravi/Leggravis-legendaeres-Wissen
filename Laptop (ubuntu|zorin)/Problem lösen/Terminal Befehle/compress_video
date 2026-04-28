@@ -1,0 +1,67 @@
+#!/bin/bash
+
+# Funktion zur Berechnung der geschätzten Dateigröße
+calculate_estimated_size() {
+    local input_file=$1
+    local crf_value=$2
+
+    # Durchschnittliche Reduktionsrate für verschiedene CRF-Werte
+    case $crf_value in
+        18) reduction_factor=1 ;;
+        20) reduction_factor=1.1 ;;
+        23) reduction_factor=1.5 ;;
+        28) reduction_factor=2 ;;
+        30) reduction_factor=2.5 ;;
+        *) reduction_factor=2 ;;
+    esac
+
+    # Original Dateigröße in MB
+    original_size=$(du -m "$input_file" | cut -f1)
+    estimated_size=$(echo "$original_size / $reduction_factor" | bc)
+
+    echo $estimated_size
+}
+
+# Wähle eine Datei mit Zenity aus
+FILE=$(zenity --file-selection --title="Wähle eine Videodatei aus")
+
+# Überprüfe, ob eine Datei ausgewählt wurde
+if [ -n "$FILE" ]; then
+    # Frage nach dem gewünschten CRF-Wert
+    CRF=$(zenity --scale --text="Wähle die gewünschte Qualität (CRF-Wert):\n18 (höchste Qualität) - 30 (niedrigste Qualität)" --min-value=18 --max-value=30 --value=23 --step=1)
+    
+    if [ -n "$CRF" ]; then
+        # Frage nach dem gewünschten Preset
+        PRESET=$(zenity --list --title="Wähle das Preset" --column="Preset" ultrafast superfast veryfast faster fast medium slow slower veryslow)
+        
+        if [ -n "$PRESET" ]; then
+            # Setze den Ausgabepfad
+            OUTPUT="${FILE%.*}_compressed.mp4"
+            
+            # Berechne die geschätzte Dateigröße
+            ESTIMATED_SIZE=$(calculate_estimated_size "$FILE" "$CRF")
+            
+            # Zeige die geschätzte Dateigröße an
+            zenity --info --text="Geschätzte Dateigröße nach der Komprimierung: ${ESTIMATED_SIZE} MB"
+
+            # Führe die Konvertierung mit ffmpeg durch
+            # (alt) ffmpeg -i "$FILE" -vcodec libx264 -crf "$CRF" -preset "$PRESET" -acodec aac -b:a 128k "$OUTPUT"
+            # neu: so, dass es für handys passt
+            ffmpeg -i "$FILE" -vcodec libx264 -pix_fmt yuv420p -profile:v high -level 4.0 -crf "$CRF" -preset "$PRESET" -acodec aac -b:a 128k -movflags +faststart -f mp4 "$OUTPUT"
+		#ffmpeg -i "$FILE" -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2,format=yuv420p" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart -f mp4 output.mp4
+
+            
+            # Zeige eine Erfolgsmeldung an
+            zenity --info --text="Video erfolgreich konvertiert: $OUTPUT"
+        else
+            # Zeige eine Fehlermeldung an, wenn kein Preset ausgewählt wurde
+            zenity --error --text="Kein Preset ausgewählt!"
+        fi
+    else
+        # Zeige eine Fehlermeldung an, wenn kein CRF-Wert ausgewählt wurde
+        zenity --error --text="Keine Qualität ausgewählt!"
+    fi
+else
+    # Zeige eine Fehlermeldung an, wenn keine Datei ausgewählt wurde
+    zenity --error --text="Keine Datei ausgewählt!"
+fi

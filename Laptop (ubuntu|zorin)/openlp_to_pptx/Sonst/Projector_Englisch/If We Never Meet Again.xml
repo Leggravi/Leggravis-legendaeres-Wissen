@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>If We Never Meet Again</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Soon we’ll come to the end
+of life’s journey
+And perhaps, we’ll never meet
+any more,
+Till we gather in heaven’s
+bright city
+Far away on that beautiful shore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where the charming roses bloom,
+forever,
+And where separations
+come no more,
+If we never meet again this
+side of heaven
+I’ll meet you on that beautiful shore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh they say we’ll meet by the river,
+Where no stormy clouds
+ever darken the sky
+And they say we'll be happy in heaven,
+In that wonderful sweet by and by.</lines>
+    </verse>
+  </lyrics>
+</song>

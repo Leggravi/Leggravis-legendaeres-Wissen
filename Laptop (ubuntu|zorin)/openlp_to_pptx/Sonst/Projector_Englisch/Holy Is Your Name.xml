@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Holy Is Your Name</title>
+    </titles>
+    <authors>
+      <author type="words">John Paculabo</author>
+      <author type="music">John Paculabo</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Now I want to say
+Holy is Your name
+Let all creation proclaim
+Holy is Your name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now I praise You Lord of all creation
+You ordain the sun to rise and fall
+You scatter the stars across the heavens
+You come close enough to hear me call</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your love is the shelter over my soul
+You fill me with the wonder of a child
+You will heal the humble and the broken
+Mercy flows like a river running wild</lines>
+    </verse>
+    <verse name="v4">
+      <lines>BRIDGE
+On the highest mountain
+I will lift my heart to the sky
+From the lowest valley
+Hear my cry</lines>
+    </verse>
+  </lyrics>
+</song>

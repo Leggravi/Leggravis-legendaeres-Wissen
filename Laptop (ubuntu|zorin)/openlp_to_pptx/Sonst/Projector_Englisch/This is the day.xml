@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This is the day</title>
+    </titles>
+    <authors>
+      <author type="words">Andrew Mitchell</author>
+      <author type="music">Andrew Mitchell</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v1 v3 v4 v4 v5 v6 v6 v6 v6 v7 v4 v4 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Whoa. O. ooh, Whoa. O. ooh,
+This is the day You've made
+I'll rejoice and be glad with all that I am
+This is the day You've made
+I'll rejoice and be glad in You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Whoa. O. ooh, Whoa. O. ooh,
+This is the day You've made
+And Your mercies are new, Your promises true
+This is the day You've made
+I'll rejoice and be glad in You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's a supernatural praise
+Rising up in my heart, up in my heart
+A sound that has to be made, O Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So my heart will sing
+You are good, You are good
+And with everything
+I will praise, I will praise</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Whoa. O. ooh, Whoa. O. ooh,</lines>
+    </verse>
+    <verse name="v6">
+      <lines>This is the day You've made
+So I will give You praise
+Whatever comes my way
+I'll rejoice in You</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Whoa. O. ooh, Whoa. O. ooh,
+Whoa. O. ooh, Whoa. O. ooh,</lines>
+    </verse>
+  </lyrics>
+</song>

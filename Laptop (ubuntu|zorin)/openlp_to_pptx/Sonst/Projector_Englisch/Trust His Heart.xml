@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Trust His Heart</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All things work for our good
+Though sometimes we don't see
+How they could
+Struggles that break our hearts in two
+Sometimes blind us to the truth</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Our Father knows what's best for us
+His ways are not our own
+So when your pathway grows dim
+And you just don't see Him,
+Remember you're never alone</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God is too wise to be mistaken
+God is too good to be unkind
+So when you don't understand
+When don't see His plan
+When you can't trace His hand
+Trust His Heart
+Trust His Heart</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He sees the master plan
+And he holds our future in His hand,
+So don't live as those who have no hope,
+All our hope is found in Him</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We see the present clearly
+But He sees the first and the last
+And like a tapestry He's weaving you and me,
+To someday be just like Him</lines>
+    </verse>
+    <verse name="v6">
+      <lines>God is too wise to be mistaken
+God is too good to be unkind
+So when you don't understand
+When don't see His plan
+When you can't trace His hand
+Trust His Heart</lines>
+    </verse>
+    <verse name="v7">
+      <lines>He alone is faithful and true
+He alone knows what is best for you</lines>
+    </verse>
+    <verse name="v8">
+      <lines>God is too wise to be mistaken
+God is too good to be unkind
+So when you don't understand</lines>
+    </verse>
+    <verse name="v9">
+      <lines>When don't see His plan
+When you can't trace His hand
+Trust His Heart</lines>
+    </verse>
+    <verse name="v10">
+      <lines>When you don't understand
+When you don't see His plan</lines>
+    </verse>
+    <verse name="v11">
+      <lines>When you can't trace His hand
+Trust His Heart
+Trust His Heart</lines>
+    </verse>
+  </lyrics>
+</song>

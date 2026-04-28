@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Is the Great Day</title>
+    </titles>
+    <authors>
+      <author type="words">Spiritual</author>
+      <author type="music">Spiritual</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: This is a great day
+That the LORD has made
+This is a great day
+That we celebrate
+This is a great day
+That the LORD has made
+I will rejoice and be glad :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This is a great day the Spirit is moving
+This is a great day a season to rejoice
+This is a great day and we have a reason
+To celebrate the presence of the LORD</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This is a great day of joy and jubilation
+This is a great day to sing in one accord
+This is a great day to shout halleluja
+To celebrate the presence of the LORD</lines>
+    </verse>
+  </lyrics>
+</song>

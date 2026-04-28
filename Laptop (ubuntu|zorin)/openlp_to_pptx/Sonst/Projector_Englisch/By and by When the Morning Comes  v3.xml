@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>By and by When the Morning Comes – v3</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are often tossed and driven
+On the restless sea of time,
+Somber skies and howling tempests
+Oft succeed a bright sunshine,
+In that land of perfect day,
+When the mists have rolled away,
+We will understand it better by and by.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>By and by when the morning comes,
+And all the saints of God are gathered home,
+We will tell the story how we've overcome;
+For we'll understand it better by and by.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We are often destitute
+Of the things that life demands,
+Want of food, want of shelter,
+Thirsty hills and barren lands,
+We are trusting in the Lord,
+And according to His Word,
+We will understand it better by and by.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Temptations, hidden snares
+Often take us unawares,
+And our hearts are made to bleed
+For many thoughtless word or deed,
+And we wonder why the test
+When we try to do our best,
+But we'll understand it better by and by.</lines>
+    </verse>
+  </lyrics>
+</song>

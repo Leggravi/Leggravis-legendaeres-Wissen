@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Teach Me Lord to Be Humble</title>
+    </titles>
+    <authors>
+      <author type="words">Graham Tucker</author>
+      <author type="music">Graham Tucker</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Last night when I'm down on my knees
+I prayed with tears
+Asking God to forgive me
+For they say I did something
+And they put the blame on me
+Once more Lord, have mercy on me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Teach me Lord to be humble
+Not to lean to my own
+Let Your Spirit be with me
+And Your love flow through me
+In everything I do and say
+Let Your Name be praised</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Last night when I'm down on my knees
+I prayed with tears
+Asking God to forgive me
+Something happened while I pray
+I felt His loving care
+Once more, Oh Lord
+Give answers to my prayer</lines>
+    </verse>
+  </lyrics>
+</song>

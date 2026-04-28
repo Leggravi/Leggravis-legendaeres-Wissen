@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My God Is So Big (4)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My God is so big, so strong and so mighty
+There's nothing my God cannot do
+My God is so great, so strong and so mighty
+There's nothing my God cannot do
+My God is so great, so strong and so mighty
+There's nothing my God cannot do</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The mountains are His
+The rivers are His
+The stars are His handy works too</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My God is so great, so strong and so mighty
+There's nothing my God cannot do
+There's nothing my God cannot do
+There's nothing my God cannot do
+For you</lines>
+    </verse>
+  </lyrics>
+</song>

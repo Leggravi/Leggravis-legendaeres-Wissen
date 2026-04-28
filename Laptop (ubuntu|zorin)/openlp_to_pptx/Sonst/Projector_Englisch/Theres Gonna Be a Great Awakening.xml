@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There’s Gonna Be a Great Awakening</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, pour out Your spirit
+On all the peoples of the earth
+Let your sons and daughters
+Speak your Words of prophesy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Send us dreams and visions
+Reveal the secrets of your heart
+Lord our faith is rising
+Let all heaven sound the coming of Your day</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's gonna be a great awakening
+There's gonna be a great revival in our land
+There's gonna be a great awakening
+And everyone who calls on Jesus
+They will be save</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord pour out Your Spirit
+On all the nations of the world
+Let them see your glory
+Let them fall in reverent awe</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Show Your mighty power
+Shake the heavens and the earth
+Lord the world is waiting
+Let creation see the coming of your day</lines>
+    </verse>
+  </lyrics>
+</song>

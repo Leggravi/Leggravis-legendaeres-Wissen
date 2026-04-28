@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Pledge</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v2 v3 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We stand as youths, we stand for Christ,
+We give our all, we dedicate our lives,
+We fight the fight, we keep the faith,
+We are the salt of the earth, we run the race.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We dedicate our lives to Jesus,
+We pledge that we will stand,
+We promise to live our lives
+by all that He commands
+We'll fulfill the words of the prophet,
+our hearts are being returned
+to Jesus Christ.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In this Dark Age, we shine as lights
+on that seventh peak, eagles high in flight,
+We're soaring towards the heavens above
+We’ll lay down our lives, as Jesus did in love.</lines>
+    </verse>
+  </lyrics>
+</song>

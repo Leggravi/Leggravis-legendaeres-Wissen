@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Refuge</title>
+    </titles>
+    <authors>
+      <author type="words">Brenton Brown</author>
+      <author type="music">Brenton Brown</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will lift my eyes to the heavens
+Where my help comes from
+I run into Your courts
+To be near You, Lord
+I long to hear Your voice
+All that I desire is You alone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will sing to You
+In the shelter of Your wings
+Surrounded by Your favor, Oh Lord
+I will sing
+You're my refuge
+I will sing
+You're my refuge</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Forever I will lift Your name on high
+For You are worthy</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In your mercy</title>
+    </titles>
+    <authors>
+      <author type="words">Ben Cantelon</author>
+      <author type="music">Ben Cantelon</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In Your mercy You have shown me Your salvation;
+Undeserving of your favor, I am free.
+And I'll never be the same
+All my life I will remain
+In your mercy, tender mercy shown to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In Your mercy You have promised to be near me
+I am resting in the shelter of Your wings
+Every fear I leave behind
+Every confidence I find
+In Your mercy, tender mercy shown to me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So great is Your love, higher than the heavens
+Your faithfulness reaches the sky
+Be exalted O Lord, over all the earth
+Let Your glory be seen in my life,
+In my life.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In Your mercy You have given of Your life blood
+One last heartbeat and redemption was complete
+What a debt of love You paid
+With Your death, my soul was saved
+In Your mercy, tender mercy shown to me.</lines>
+    </verse>
+  </lyrics>
+</song>

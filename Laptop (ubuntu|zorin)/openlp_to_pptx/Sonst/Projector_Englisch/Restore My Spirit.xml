@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Restore My Spirit</title>
+    </titles>
+    <authors>
+      <author type="words">Ruthild Wilson</author>
+      <author type="music">Helmut Jost</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Restore my spirit, Lord, I need restored;
+My heart is empty, please help me, dear Lord.
+I stand in need of more strength from Your Word.
+Renew my love, rebuild my faith, O, restore my soul.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Revive the fire, Lord, deep in my soul;
+Stir my desire to work in Your fold.
+Light in my heart, dear God, Your zeal grown cold.
+Renew my love, rebuild my faith, O, restore my soul.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Renew my courage, Lord, it needs restored;
+My cup is empty, refill it, dear Lord.
+Replace all doubts and fear with faith so bold.
+Renew my love, rebuild my faith, O, restore my soul.</lines>
+    </verse>
+  </lyrics>
+</song>

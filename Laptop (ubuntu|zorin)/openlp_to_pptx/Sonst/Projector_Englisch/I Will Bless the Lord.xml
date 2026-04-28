@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Will Bless the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Frank Hernandez</author>
+      <author type="music">Frank Hernandez</author>
+      <author type="translation">Herr, wir loben dich</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will bless the Lord at all times,
+His praise shall continually be in my mouth.
+My soul shall make her boast in Thee, Lord
+The humble shall hear thereof and be glad.
+Oh magnify the Lord with me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And let us exalt His name together.
+I sought the Lord, and He heard me,
+And delivered me from all my fears.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Süßer Trost! der Herr wird kommen</title>
+    </titles>
+    <authors>
+      <author type="words">Wilhelm Brockhaus</author>
+      <author type="music">Wilhelm Brockhaus</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Süßer Trost! der Herr wird kommen
+Eilend mit Posaunenschall.
+Morgenrot, bereits erglommen,
+Mehrt das Sehnen überall.
+Geist und Braut, sie rufen, flehen:
+Komm, o Jesu, Bräutigam!
+Lass uns bald zur Heimat gehen,
+Dich zu schauen, Gotteslamm.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Engel brachten einst die Kunde,
+Was in Davids Stadt geschah,
+Hirten lauschten – sel'ge Stunde!
+In der Flur von Ephrata.
+Ja, Du kamst, trugst unsre Sünden,
+Littest für uns Hohn und Schmach,
+Mustest selbst den Tod hier finden,
+Eh' die Kette Satans brach.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Doch Du lebst und kehrst zurücke,
+Führst die Braut zur Hochzeit ein,
+Und den Feind, voll List und Tücke,
+Schließt der finstre Abgrund ein.
+Ja, Du kommst, Du wirst erscheinen,
+Sinkst nicht mehr in Tod und Grab,
+Wirst dann teilen mit den Deinen
+Himmelsglanz und Herrscherstab.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Welch ein Glück, mit Dir zu leben
+Dort in Deiner Herrlichkeit,
+Deinen Thron stets zu umgeben,
+Fern von Kummer, Angst und Leid!
+Dort im Vaterhaus zu wohnen,
+Mit Dir, der so hoch beglückt,
+Dort an Deiner Seit' zu thronen,
+Ganz des Feindes Macht entrückt!</lines>
+    </verse>
+  </lyrics>
+</song>

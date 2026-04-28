@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>For This Cause I Came</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v2 v3 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For this cause I came,
+For this purpose I was born,
+That I will manifest the life of the living God,
+It's not my will but thine oh Lord,
+So I lay it all on the altar,
+That my life may be a sacrifice,
+Offered unto thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I was born to declare your life,
+And reason of your death,
+Here I am to pay the price,
+Fully surrendering to your will,
+I only want dear Lord,
+To be surrendered unto thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In this age we see
+Through the opening of the word,
+That we must overcome all life's challenges,
+The pride of life, the lust of the flesh and the lust of the eyes,
+And stand to manifest the life of Jesus Christ.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord you say unto your Prophet,
+Be more sincere,
+He spoke and did create with word,
+Let there be,
+All of these great things that you did in this life,
+I will see in its fullness as,
+Your life unfolds in mine.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>His Love Is Wonderful</title>
+    </titles>
+    <authors>
+      <author type="words">Audrey Mieir</author>
+      <author type="music">Audrey Mieir</author>
+      <author type="translation">Sein Nam heißt Wunderbar</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>His love is wonderful to me
+His love is wonderful to me
+For Jesus loved me so,
+He did to Calvary go
+His love is wonderful to me.</lines>
+    </verse>
+  </lyrics>
+</song>

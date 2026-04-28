@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Holy Spirit Rain Down</title>
+    </titles>
+    <authors>
+      <author type="words">Russell Fragar</author>
+      <author type="music">Russell Fragar</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy Spirit, rain down, rain down
+Oh, Comforter and Friend
+How we need Your touch again
+Holy Spirit, rain down, rain down</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let Your power fall
+Let Your voice be heard
+Come and change our hearts
+As we stand on Your word
+Holy Spirit, rain down, rain down</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let Your power fall
+Let Your voice be heard
+Come and change our hearts
+As we stand on Your word
+Holy Spirit, rain down</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No eye has seen, no ear has heard
+No mind can know what God has in store
+Open up Heaven, open it wide
+Over Your church and over our lives</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Holy Spirit, rain down, rain down
+Let Your power fall
+Let Your voice be heard
+Come and change our hearts
+As we stand on Your word
+Holy Spirit, Holy Spirit</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Holy Spirit, rain down
+Please rain down
+Please rain down
+I need you
+Fill us, fill us, Lord
+Change us,
+We need Your to change us now
+Rain down, thank you Lord</lines>
+    </verse>
+  </lyrics>
+</song>

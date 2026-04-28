@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Meine Seele ist stille in dir</title>
+    </titles>
+    <authors>
+      <author type="words">Klaus Heizmann</author>
+      <author type="music">Klaus Heizmann</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meine Seele ist stille in dir, denn ich weiß:
+Mich hält deine starke Hand.
+Auch im dunklen Tal der Angst bist du da
+und schenkst Geborgenheit.
+Meine Seele ist stille in dir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Meine Seele ist stille in dir,
+du allein bist der Gott, der gerne hilft.
+Wer da bittet, der empfängt
+aus dem Reichtum deiner Herrlichkeit.
+Meine Seele ist stille in dir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Meine Seele ist stille in dir, denn ich weiß:
+Du führst sicher an das Ziel.
+Du kennst meinen nächsten Schritt
+und du weißt um die Gefahr der Nacht.
+Meine Seele ist stille in dir.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Meine Seele ist stille in dir, denn ich weiß:
+Du bist da und richtest auf,
+wie der Regen dürres Land neu belebt
+und zum Erblühen bringt.
+Meine Seele ist stille in dir.</lines>
+    </verse>
+  </lyrics>
+</song>

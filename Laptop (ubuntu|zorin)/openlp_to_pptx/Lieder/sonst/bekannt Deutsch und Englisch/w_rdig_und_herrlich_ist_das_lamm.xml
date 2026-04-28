@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 2, 2018, 11:34:57 PM">
+  <properties>
+    <titles>
+      <title>Würdig und herrlich ist das Lamm</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Würdig und herrlich ist das Lamm.
+Jesus, dir allein sei Ehre, du,
+der du sitzt auf deinem Thron,
+dir sei Ruhm in Ewigkeit.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Halleluja! Sei erhoben, o Herr,
+du bist König, und wir beugen uns, Herr.
+In Anbetung singen wir zu dir.</lines>
+    </verse>
+  </lyrics>
+</song>

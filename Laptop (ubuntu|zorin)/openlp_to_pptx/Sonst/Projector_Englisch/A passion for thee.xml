@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>A passion for thee</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Set my heart o dear Father
+On thee and thee only
+Give me a thirst for thy presence divine
+Lord keep my focus on loving thee wholly
+Purge me from earth, set my heart after thine</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A passion for thee
+O lord set a fire in my soul
+And a thirst for my God
+Hear thou my pray'r
+Lord thy power impart
+Not just to serve, but to love thee with all of my heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Father fill with thy spirit
+And fit me for service,
+Let love for Christ every motive inspire
+Teach me to follow in selfless submission
+Be thou my joy and my souls one desire</lines>
+    </verse>
+  </lyrics>
+</song>

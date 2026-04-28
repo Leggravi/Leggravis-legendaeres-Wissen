@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lobet den Herren alle, die ihn ehren</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Gerhardt</author>
+      <author type="music">Johann Crüger</author>
+      <author type="translation">Praise and thanksgiving</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lobet den Herren alle, die ihn ehren;
+lasst uns mit Freuden seinem Namen singen
+und Preis und Dank zu seinem Altar bringen.
+Lobet den Herren!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Der unser Leben, das er uns gegeben,
+in dieser Nacht so väterlich bedecket
+und aus dem Schlaf uns fröhlich auferwecket:
+Lobet den Herren!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dass unsre Sinnen wir noch brauchen können
+und Händ und Füße, Zung und Lippen regen,
+das haben wir zu danken seinem Segen.
+Lobet den Herren!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dass Feuerflammen uns nicht allzusammen
+mit unsern Häusern unversehns gefressen,
+das macht's, dass wir in seinem Schoß gesessen.
+Lobet den Herren!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dass Dieb und Räuber unser Gut und Leiber
+nicht angetast' und grausamlich verletzet,
+dawider hat sein Engel sich gesetzet.
+Lobet den Herren!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O treuer Hüter, Brunnen aller Güter,
+ach lass doch ferner über unser Leben
+bei Tag und Nacht dein Huld und Güte schweben.
+Lobet den Herren!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Gib, dass wir heute, Herr, durch dein Geleite
+auf unsern Wegen unverhindert gehen
+und überall in deiner Gnade stehen.
+Lobet den Herren!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Treib unsern Willen, dein Wort zu erfüllen;
+hilf uns gehorsam wirken deine Werke;
+und wo wir schwach sind, da gib du uns Stärke.
+Lobet den Herren!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Richt unsre Herzen, dass wir ja nicht scherzen
+mit deinen Strafen, sondern fromm zu werden
+vor deiner Zukunft uns bemühn auf Erden.
+Lobet den Herren!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Herr, du wirst kommen und all deine Frommen,
+die sich bekehren, gnädig dahin bringen,
+da alle Engel ewig, ewig singen:
+&quot;Lobet den Herren!&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

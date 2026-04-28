@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The End Time</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Buddy Kaye</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I look and see earth’s sorrowing picture,
+The hoarding mobs for selfish gain;
+Their toil of hand for ease and comfort,
+Can they not see, their doom is sealed, it’s all in vain.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The end is here, it’s now at hand,
+The Bride is gathering; the world is failing;
+Israel’s awak’ning; nations are breaking’
+Our prophet taught us, we believe the end is here.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sirs, this is the time!
+Our prophet spoke of,
+The Angel came with a Shout,
+The mountain shook as His Voice cried out, “Time is no more.”
+Loud and clear the Shout went forth.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Have you considered the end-time Message?
+Have you considered Malachi 4?
+Revelation 10: 7 and St. Luke 17
+Proclaims this Message now, and then forevermore.</lines>
+    </verse>
+  </lyrics>
+</song>

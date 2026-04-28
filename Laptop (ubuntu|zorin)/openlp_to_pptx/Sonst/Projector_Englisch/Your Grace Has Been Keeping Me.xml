@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Your Grace Has Been Keeping Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I remember, times when I would have given up
+I remember, moments I would have lay down my cross
+In all the trials, temptations all sorrows
+I know Your Grace has been keeping me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So I can't turn back,
+There's Something inside that's keeping me
+I'd been beyond the veil, I've seen Your Glory.
+And I don't want to go back, to where I used to be
+I know Your Grace,
+I know Your Grace has been keeping me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We're living satan's eden, a world of darkness would be
+So time's it's hard to see, we were meant to be
+Lord you have given me, Your Spirit and Your Mercy
+And if it wasn't of Your Grace, I know where I would be.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I know I'm a sinner, saved by Your Grace
+It's nothing I had done, nothing I deserved
+But Lord You given me, Your Life abundantly
+And I will always be, amazed by Your Grace.</lines>
+    </verse>
+  </lyrics>
+</song>

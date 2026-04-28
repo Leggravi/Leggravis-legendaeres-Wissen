@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O du fröhliche</title>
+    </titles>
+    <authors>
+      <author type="words">Johannes Daniel Falk</author>
+      <author type="music">Johann Gottfried Herder</author>
+      <author type="translation">O this joyous time</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O du fröhliche, o du seligie,
+gnaden bringen der Weihnachtszeit!
+Welt ging verloren, Christ ist geboren:
+Freue, freue dich, o Christenheit!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O du fröhliche, o du seligie,
+gnaden bringen der Weihnachtszeit!
+Christ ist erschienen, uns zu versühnen:
+Freue, freue dich, o Christenheit!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O du fröhliche, o du seligie,
+gnaden bringen der Weihnachtszeit!
+Himmlische Heere jachzet dir Ehre:
+Freue, freue dich, o Christenheit!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All along</title>
+    </titles>
+    <authors>
+      <author type="words">Sam Bailey</author>
+      <author type="music">Sam Bailey</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Time just draws away
+And as I look back on the year
+Memories of happiness and bitter tears
+Through it all there was a common thread that cannot be ignore
+You were there teaching me to be your servant Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All along, your hand has been guiding me
+Shaping my life to be a beautiful song
+All along, you've led me through
+The things that you do would make me strong
+For thou has been there all along</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Every joy and pain had a reason of its own
+Now i've realized that I was not alone
+The changing season of my life would not left us the chance
+But I know you are working to fulfill your plans</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tomorrow that we turn around
+And I look back unto day
+I will understand your purpose
+And my faithful heart will sing</lines>
+    </verse>
+  </lyrics>
+</song>

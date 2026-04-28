@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 14, 2020, 5:49:22 PM">
+  <properties>
+    <titles>
+      <title>Vergiss es nie</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Vergiss es nie: Dass du lebst, war keine eigene Idee,
+und daß du atmest, kein Entschluss von dir.
+Vergiss es nie: Dass du lebst, war eines anderen Idee,
+und daß du atmest, sein Geschenk an dich.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Vergiss es nie: Niemand denkt und fühlt und handelt so wie du,
+und niemand lächelt so, wie du's grad tust.
+Vergiss es nie: Niemand sieht den Himmel ganz genau wie du,
+und niemand hat je, was du weißt, gewusst.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Vergiss es nie: Dein Gesicht hat niemand sonst auf dieser Welt,
+und solche Augen hast alleine Du.
+Vergiss es nie: Du bist reich, egal ob mit, ob ohne Geld;
+denn du kannst leben! Niemand lebt wie du.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Du bist gewollt, kein Kind des Zufalls, keine Laune der Natur,
+ganz egal, ob du dein Lebenslied in Moll singst oder Dur.
+Du bist ein Gedanke Gottes, ein genialer noch dazu!
+Du bist du,
+das ist der Clou,
+ja, du bist du!</lines>
+    </verse>
+  </lyrics>
+</song>

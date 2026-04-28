@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Higher Throne</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a higher throne
+Than all this world has known
+Where faithful ones from every tongue
+Will one day come
+Before the Son we'll stand
+Made faultless through the Lamb
+Believing hearts find promised grace
+Salvation comes</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hear heaven's voices sing
+Their thunderous anthem rings
+Through emerald courts and sapphire skies
+Their praises rise
+All glory, wisdom, pow'r
+Strength, thanks and honour are
+To God our King who reigns on high
+Forevermore</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And there we'll find our home,
+Our life before the throne;
+We'll honour Him in perfect song
+Where we belong.
+He'll wipe each tear-stained eye
+As thirst and hunger die.
+The Lamb comes as our Shepherd King;
+We'll reign with him.</lines>
+    </verse>
+  </lyrics>
+</song>

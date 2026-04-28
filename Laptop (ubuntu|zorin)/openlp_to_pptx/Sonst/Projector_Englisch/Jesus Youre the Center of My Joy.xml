@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, You're the Center of My Joy</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, You're the center of my joy
+All that's good and perfect comes from You
+You're the heart of my contentment, hope for all I do
+Jesus, You're the center of my joy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I've lost my direction, You're the compass for my way
+You're the fire and light when nights are long and cold
+In sadness, You are the laughter that shatters all my fears
+And when I'm all alone, Your hand is there to hold</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are why I find pleasure in the simple things of life
+You're the music in the meadows and the streams
+The voices of the children, my family and my home
+You're the source and finisher of my highest dreams</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ah Lord God Thou Hast Made</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ah Lord God, Thou hast made the heavens,
+And the earth by Thy great power,
+Ah Lord God, Thou hast made the heavens,
+And the earth by Thine outstretched arm.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nothing is too difficult for Thee,
+Nothing is too difficult for Thee,
+O, Great and mighty God,
+Great in counsel and mighty in deed,
+Nothing, nothing, absolutely nothing,
+Nothing is too difficult for Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

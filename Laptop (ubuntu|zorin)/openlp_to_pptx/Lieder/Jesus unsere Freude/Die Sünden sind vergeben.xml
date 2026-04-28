@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:14">
+  <properties>
+    <titles>
+      <title>Die Sünden sind vergeben</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Friedrich Hiller (1767)</author>
+      <author type="music">O Welt, ich muss dich lassen</author>
+    </authors>
+    <ccliNo>6222578</ccliNo>
+    <themes>
+      <theme>Vergebung</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Die Sünden sind vergeben!
+Das ist ein Wort zum Leben
+für den gequälten Geist.
+Sie sind's in Jesu Namen,
+in dem ist Ja und Amen,
+was Gott uns Sündern je verheißt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Das ist auch mir geschrieben:
+auch ich bin von den Lieben,
+weil Gott die Welt geliebt;
+auch ich kann für die Sünden
+bei Gott noch Gnade finden.
+Ich glaube, dass er mir vergibt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mein Hauptgesuch auf Erden
+soll die Vergebung werden,
+so wird mein Tod nicht schwer.
+O, in den Sünden sterben,
+ist ewiges Verderben!
+Denn wer will dann bestehen, wer?
+4) Hier ist die Zeit der Gnaden,
+der Angst sich zu entladen,
+auf Gottes Wort zu ruhn.
+Die Seele zu erretten,
+zu glauben und zu beten,
+und das in Jesu Namen tun.
+5) Ach Gott, lass meiner Seelen
+den Trost doch niemals fehlen,
+dass du die Schuld vergibst!
+Wenn ich mich betend beuge,
+so sei dein Geist mein Zeuge,
+dass du dein Kind in Christus liebst.
+6) Wenn ich von hinnen scheide,
+so mach mir das zur Freude,
+dass ich begnadigt bin.
+Im Glauben der Vergebung,
+in Hoffnung der Belebung
+geh ich alsdann im Frieden hin.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hier ist die Zeit der Gnaden,
+der Angst sich zu entladen,
+auf Gottes Wort zu ruhn.
+Die Seele zu erretten,
+zu glauben und zu beten,
+und das in Jesu Namen tun.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ach Gott, lass meiner Seelen
+den Trost doch niemals fehlen,
+dass du die Schuld vergibst!
+Wenn ich mich betend beuge,
+so sei dein Geist mein Zeuge,
+dass du dein Kind in Christus liebst.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wenn ich von hinnen scheide,
+so mach mir das zur Freude,
+dass ich begnadigt bin.
+Im Glauben der Vergebung,
+in Hoffnung der Belebung
+geh ich alsdann im Frieden hin.</lines>
+    </verse>
+  </lyrics>
+</song>

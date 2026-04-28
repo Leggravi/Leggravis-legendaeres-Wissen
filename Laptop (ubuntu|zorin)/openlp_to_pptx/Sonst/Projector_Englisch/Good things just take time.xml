@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Good things just take time</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v4 v3 v1 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do-dooby-do-do-do-dooby-dooby
+Do-dooby-do-do-do-dooby-dooby
+Do-dooby-do-do-do-dooby-dooby
+Dooby-wow-ba-da-da-da-da</lines>
+    </verse>
+    <verse name="v2">
+      <lines>An acorn grows a mighty oak
+A stream can cut through rock,
+A House becomes a home, sweet home
+A baby learns to walk,
+Paint will be a masterpiece
+And words can make a rhyme.
+A boy will turn into a man,
+Good things just take time.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Don't give up, don't give in
+That hill was made to climb.
+With some food and fortitude
+You will be just fine.
+Great is worth its weight in gold
+Easy ain't worth a dime.
+Stand for the long, long haul,
+Good things just take time.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A child can be a wise man
+A sinner can be a saint
+A brick can be a temple,
+A link can be a chain.
+Some notes can be a love song.
+Steel can be a chime.
+A moment can last forever.
+Good things just take time.</lines>
+    </verse>
+  </lyrics>
+</song>

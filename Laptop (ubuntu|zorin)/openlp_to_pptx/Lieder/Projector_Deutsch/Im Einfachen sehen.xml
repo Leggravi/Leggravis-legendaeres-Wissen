@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Im Einfachen sehen</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du hast Schönheit zum Leben erweckt,
+lass mich Dich im Einfachen sehn.
+Deine Liebe hast Du in uns gesetzt,
+lass mich Dich im Einfachen sehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Im Kleinen Dich zu sehen
+lässt mich niederknien.
+Es überwältigt mich
+zu spüren, wer Du bist.
+Im Kleinen Dich zu sehen
+lässt mich niederknien.
+Voll Ehrfurcht seh ich Dich,
+erfassen kann ich's nicht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ganz umgeben von Wundern bin ich,
+lass mich Dich im Einfachen sehn.
+Im Erstaunen da finde ich Dich,
+lass mich Dich im Einfachen sehn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und doch ist das,
+was ich erfassen kann,
+nur ein Funke Deiner Fülle. x4</lines>
+    </verse>
+  </lyrics>
+</song>

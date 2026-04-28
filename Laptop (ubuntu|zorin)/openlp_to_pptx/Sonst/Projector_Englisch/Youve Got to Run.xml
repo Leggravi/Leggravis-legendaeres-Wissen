@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You've Got to Run</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You've got to run, run, run
+ run with the Message of Malachi 4
+ Tell it like you've never told it before
+ Let him that readeth run
+ Let him that heareth run
+ For this Message is the
+ coming of the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Surrender All</title>
+    </titles>
+    <authors>
+      <author type="words">Judson Wheeler Van DeVenter</author>
+      <author type="music">Winfield Scott Weeden</author>
+      <author type="translation">Alles will ich Jesus weihen (Alles geb ich dir)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Broken, torn apart
+This empty and lonely road
+Restless, blown by the wind
+Wandering, I am lost
+My heart is calling You
+My soul is weary and cold</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I bow down to surrender
+Here I am at the mercy of Your grace
+I beg Your forgiveness
+Here I am in the promises of Your love
+Pardon and remember me
+This life, I surrender</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I see mountains ahead
+And I fear those deep rivers
+Darkness will soon return
+Praying, You'll be here on time
+My heart is calling You
+My soul is weary and cold</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Broken, torn apart
+This empty and lonely road</lines>
+    </verse>
+  </lyrics>
+</song>

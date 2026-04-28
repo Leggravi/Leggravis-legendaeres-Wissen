@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Apr 11, 2021, 10:02:10 AM">
+  <properties>
+    <titles>
+      <title>Refiner’s Fire</title>
+    </titles>
+    <verseOrder>V1 V2 V3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Purify my heart
+Let me be as gold and precious silver
+Purify my heart
+Let me be as gold, pure gold</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Refiner's fire, my heart's one desire
+Is to be holy
+Set apart for You, Lord
+I choose to be holy
+Set apart for You, my Master
+Ready to do Your will</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Purify my heart
+Cleanse me from within and make me holy
+Purify my heart
+Cleanse me from my sin, deep within</lines>
+    </verse>
+  </lyrics>
+</song>

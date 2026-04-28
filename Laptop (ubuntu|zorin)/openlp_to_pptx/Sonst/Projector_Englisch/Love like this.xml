@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Love like this</title>
+    </titles>
+    <authors>
+      <author type="words">Lauren Daigle</author>
+      <author type="music">Lauren Daigle</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v6 v6 v3 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh the wonder of Your love
+Leaves me speechless, undone
+Oh the mystery of Your grace
+That it covers my mistakes</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In awe of You, I'm in awe of You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I've never known love like this, so beautiful
+I'll never get used to this, my heart is Yours
+Of this I am convinced, from now until the end
+I'll never know love like this, so beautiful</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When I think of what You've done
+Every sin You've overcome
+That You would do it all again
+I will never comprehend</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So beautiful
+So beautiful</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You don't leave me where You found me
+You pull me up out of the mess
+You don't leave me brokenhearted
+Never break Your promises
+You keep giving second chances
+Far above what I deserve
+You keep telling me I'm worth it
+Not a love I have to earn</lines>
+    </verse>
+    <verse name="v7">
+      <lines>So beautiful</lines>
+    </verse>
+  </lyrics>
+</song>

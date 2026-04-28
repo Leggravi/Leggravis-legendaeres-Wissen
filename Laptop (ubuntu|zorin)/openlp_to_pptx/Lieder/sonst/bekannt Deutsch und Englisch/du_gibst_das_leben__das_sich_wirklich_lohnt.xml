@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Mar 21, 2020, 1:00:07 PM">
+  <properties>
+    <titles>
+      <title>Du gibst das Leben, das sich wirklich lohnt</title>
+    </titles>
+    <verseOrder>C1 V2 C1 V3 C1 V4 C1 V5 C1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="C1">
+      <lines>Du gibst das Leben, das sich wirklich lohnt. Für dies Versprechen hast du dich nicht verschont. Und du gibst nicht nur ein wenig, Herr, die Fülle ist bei dir! Du, das Leben, gibst das Leben, das sich lohnt.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Du gibst das Leben mit einem klaren Sinn, beendest das Verloren sein, schenkst einen Neubeginn.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Du machst das Leben mit dir tief und weit, Du reißt uns Horizonte auf, zeigst uns das Ziel der Zeit.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Mit dir zu leben, bewahrt uns nicht vor Leid. Doch, weil dies auf dich schauen lehrt, lohnt sich auch Traurigkeit.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Wer in dir bleibt, der lebt nicht mehr für sich, er wird bestimmt von deiner Liebe und bringt Frucht für dich.</lines>
+    </verse>
+  </lyrics>
+</song>

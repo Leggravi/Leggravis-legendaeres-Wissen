@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr deine Gnade (sie fällt auf mein Leben)</title>
+    </titles>
+    <authors>
+      <author type="words">Heidi Klingberg</author>
+      <author type="music">David Ruis</author>
+      <author type="translation">Mercy is falling</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, deine Gnade, sie fällt auf mein Leben,
+So wie der Regen im Frühling fällt.
+Herr, deine Gnade,
+Sie fließt und durchdringt mich ganz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hey ho, du schenkst mir Gnade
+Hey ho, und Barmherzigkeit
+Hey ho, ich will tanzen, Herr, vor dir</lines>
+    </verse>
+  </lyrics>
+</song>

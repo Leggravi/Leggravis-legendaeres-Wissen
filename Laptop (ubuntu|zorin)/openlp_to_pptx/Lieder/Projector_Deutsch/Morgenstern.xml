@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Morgenstern</title>
+    </titles>
+    <authors>
+      <author type="words">Till Matton</author>
+      <author type="music">Till Matton</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meine Seele singe,
+Denn die Nacht ist vorbei.
+Mach dich auf und bringe,
+Deinem Gott Lob und Preis.
+Alle Schöpfung juble,
+Wenn der Tag nun anbricht.
+Gottes Töchter und Söhne
+Strahlen in seinem Licht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Der wahre Morgenstern, er ist aufgegangen.
+Der Erlöser ist hier.
+Ich weiß, dass Jesus lebt.
+Er ist auferstanden
+Und er lebt auch in mir.</lines>
+    </verse>
+  </lyrics>
+</song>

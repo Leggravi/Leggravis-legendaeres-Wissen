@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There Is Power In The Name of Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Noel Richards</author>
+      <author type="music">Noel Richards</author>
+      <author type="translation">Es ist Kraft in dem Namen Jesus</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A mother barely twenty
+Out there in her own
+A teenage boy in prison before
+He's even grown
+An illness of a love one
+A widow no one calls
+There is one solution
+One answer for it all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is Power in the Name of Jesus
+There is Hope
+There is Strength and victory to claim
+There is Healing in His Holy Presence
+There is Power in His Name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A nation needing healing
+Fighting for her life
+A church that needs revival
+A broken man and wife
+But inthe name of Jesus
+The chains of bondage fall
+Prayers are heard
+And answered when
+God's Children call</lines>
+    </verse>
+  </lyrics>
+</song>

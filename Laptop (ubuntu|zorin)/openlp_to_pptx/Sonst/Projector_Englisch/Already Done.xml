@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Already Done</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's already done
+It's already done
+The battle is over
+The victory is won
+It's already done</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm already healed
+I'm already healed
+The battle is over
+The victory is won
+It's already done</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My family is sealed
+My family is sealed
+The battle is over
+The victory is won
+It's already done</lines>
+    </verse>
+  </lyrics>
+</song>

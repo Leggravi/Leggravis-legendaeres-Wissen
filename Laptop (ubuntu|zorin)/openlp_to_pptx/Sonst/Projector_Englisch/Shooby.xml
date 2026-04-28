@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Shooby</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I believe in Jesus
+And I won't apologize
+He has bought me my freedom
+With His blood and with His life
+I believe in Jesus
+And I ain't ashamed to testify
+You might change this world around me
+But you'll never change my mind</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And it makes me want to
+Shooby, Doobee Doobee, Doo-wop
+Throw my hands up high and
+Shooby, Doobee Doobee, Doo-wop
+Feels so good I gotta
+Shooby, Doobee Doobee, Doo-wop
+Makes me want to holla
+Shooby, Doobee Doobee, Doo-wop
+Drop</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I believe in Jesus
+I'm a fanatic bonafide
+When I think about His goodness
+It brings water to my eyes
+(Makes me want to cry now)
+I believe in Jesus
+I ain't ashamed to testify
+You might change this world around me
+But you'll never change my mind</lines>
+    </verse>
+  </lyrics>
+</song>

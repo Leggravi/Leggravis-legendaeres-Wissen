@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Am I a Soldier of the Cross</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v7 v9 v7 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Am I a soldier of the cross,
+A follower of the Lamb,
+And shall I fear to won His cause,
+Or blush to speak His Name?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And when the battle’s over, we shall wear a crown!
+Yes, we shall wear a crown!
+Yes, we shall wear a crown!
+In the new Jerusalem.
+Wear a crown, wear a crown.
+Wear a bright and shining crown.
+And when the battle’s over, we shall wear a crown
+In the new Jerusalem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Must I be carried to the skies
+On flow’ry beds of ease,
+While others fought to win the prize,
+And sailed through bloody seas?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Are there no foes for me to face?
+Must I not stem the flood?
+Is this vile world a friend to grace
+To help me on to God?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sure I must fight if I would reign,
+Increase my courage, Lord;
+I’ll bear the toil, endure the pain,
+Supported by Thy Word.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Let me walk, blessed Lord, in the way Thou hast gone,
+Leading straight to the land above;
+Giving cheer everywhere to the sad and the lone,
+Fill my way every day with love.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Fill my way every day with love,
+As I walk with the heav'nly Dove;
+Let me go all the while with a song and a smile,
+Fill my way every day with love.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Keep me close to the side of my Saviour and guide,
+Let me never in darkness rove;
+Keep my path free from wrath and my soul satisfied,
+Fill my way every day with love.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Soon this race will be o'er and I'll travel no more,
+But abide in my home above;
+Let me sing, blessed King, all the way to that shore,
+Fill my way every day with love.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>At the cross, at the cross,
+Where I first saw the light,
+And the burden of my heart rolled away,
+It was there by faith I received my sight,
+And now I am happy all the day!</lines>
+    </verse>
+  </lyrics>
+</song>

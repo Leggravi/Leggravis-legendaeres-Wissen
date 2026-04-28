@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus is the Way</title>
+    </titles>
+    <authors>
+      <author type="words">Andraé Crouch</author>
+      <author type="music">Andraé Crouch</author>
+      <author type="translation">Jesus ist die Antwort</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus is the Way,
+the Truth and the Life
+His banner over me is Love
+Jesus is the Way,
+the Truth and the Life
+His banner over me is Love
+His banner over me is Love</lines>
+    </verse>
+  </lyrics>
+</song>

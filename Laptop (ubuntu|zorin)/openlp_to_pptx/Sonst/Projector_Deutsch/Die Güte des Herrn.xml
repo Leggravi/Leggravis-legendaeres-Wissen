@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Die Güte des Herrn</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Peter van Woerden</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Die Güte des Herrn hat kein Ende.
+Sein Erbarmen hört niemals auf.
+Es ist neu jeden Morgen, neu jeden Morgen.
+Groß ist deine Treue, oh Herr!
+Groß ist deine Treue.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Up from the Grave He Arose</title>
+    </titles>
+    <authors>
+      <author type="words">Robert Lowry</author>
+      <author type="music">Robert Lowry</author>
+      <author type="translation">In finst'rer Gruft er lag</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Low in the grave he lay,
+Jesus my Savior,
+Waiting the coming day,
+Jesus my Lord!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Up from the grave he arose;
+With a mighty triumph o'er His foes;
+He arose a victor
+from the dark domain,
+And He lives forever,
+with His saints to reign.
+He arose! He arose!
+Hallelujah! Christ arose!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vainly they watch His bed,
+Jesus my Savior,
+Vainly they seal the dead,
+Jesus my Lord!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Death cannot keep its prey,
+Jesus my Savior;
+He tore the bars away,
+Jesus my Lord!</lines>
+    </verse>
+  </lyrics>
+</song>

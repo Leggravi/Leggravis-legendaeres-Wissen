@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Kept by The Power of God</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are kept by the power and favor of God
+From all the dominion of sin;
+He cleanseth by faith in His own precious blood,
+His spirit is reigning within.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are kept by the power of God,
+We are kept by the power of God;
+By trusting, obeying,
+By watching and praying,
+We are kept by the power of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We are kept by the power of God through faith
+So long as we walk in the light;
+Our helper is Jesus who faithfully saith,
+“I’m with you by day and by night. ”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We are kept by the power of God if we trust,
+We never need faint by the way;
+Then do as He bids you, His counsel is just,
+Be humble, be watchful, and pray.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We are kept by the power of God each day,
+The story of grace we’ll repeat;
+Through Him we are conquerors if we obey,
+The foe we will ever defeat.</lines>
+    </verse>
+  </lyrics>
+</song>

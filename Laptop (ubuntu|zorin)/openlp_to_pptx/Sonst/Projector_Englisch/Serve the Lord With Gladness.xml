@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Serve the Lord With Gladness</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Serve the Lord with gladness
+In our works and ways.
+Come before His presence
+With our songs of praise.
+Unto Him our Maker,
+We would pledge anew
+Life's supreme devotion
+ to service true.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Serve Him with gladness,
+Enter His courts with song.
+To our Creator, true praises belong.
+Great is His mercy,
+Wonderful is His name.
+We gladly serve Him,
+His great love proclaim.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Serve the Lord with gladness,
+Thankful all the while
+For His tender mercies,
+For His loving smile.
+Blessed truth enduring,
+Always just the same.
+We will serve with gladness
+ and praise His name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Serve the Lord with gladness,
+This shall be our theme.
+As we walk together,
+In His love supreme.
+Listening, ever listening
+For the still small voice.
+His sweet Will so precious,
+ will be our choice.</lines>
+    </verse>
+  </lyrics>
+</song>

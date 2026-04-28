@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Choose to Be a Christian</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was taught the scriptures before I could read them,
+I found them to be true, that's why I believe them
+With all of my heart, my soul and my strength,
+With every song I sing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I choose to be a Christian, I will follow Christ,
+Carry the cross that leads to light,
+I will be true, stand for my convictions,
+Whatever others do, I choose to be a Christian.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As this world grows darker, my lamp will be burning,
+Kindled with love for the one who is worthy,
+He gave his all, so I will give mine,
+I'll lay my life on the line.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will be bold,
+Unashamed of the gospel of his name.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Won't Let You Go</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He won't let you go,
+The moment that you say;
+Come and live in me,
+Take me all the way;
+What He said is true,
+He will never leave you;
+Forever by your side;
+Oh, its true.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He wont let you go,
+Though the seasons change;
+He's never been so close,
+He's just a prayer away,
+When you hear the father's call,
+When He's calling to you,
+Just run into His arms,
+Don't hesistate to do.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He won't let you go,
+He's forever by your side,
+He wants you to know,
+Jesus has paid the price,
+He wants you to go,
+Forever in paradise.
+Getting close to him,
+Is really all you have to do,
+Even when you die,
+He will still be by your side.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He wont let you go,
+His love will never change,
+Let Him hold you close,
+Closer everyday,
+He would have died for You,
+Had you been the only one,
+So don't you ever doubt,
+Oh, it's true.</lines>
+    </verse>
+  </lyrics>
+</song>

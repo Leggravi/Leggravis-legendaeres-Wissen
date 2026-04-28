@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Pearl</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All that I have, I'll sell all that I have
+To hold in my hand the pearl
+Nothing I have, can compare with the prize
+When I hold in my hand the pearl</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Brighter than sun!
+Clearer than glass!
+Dearer than gold, the pearl!
+Kingdom of God, is the kingdom of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Is life, with my lord, the pearl!
+All that I have, is ashes, is earth
+Now that I've seen the pearl!
+I will not rest, I cannot be content</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Til' at last, it is mine
+Forever to shine
+The kingdom of God… the pearl!
+Let me gather every thing I own</lines>
+    </verse>
+    <verse name="v5">
+      <lines>All that in this dreary world, I've known
+Pleasures and possessions, now, I bring
+Trade them for one, single shining thing
+All that I have, is ashes, is earth</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Now that I've seen the pearl!
+I will not rest, I cannot be content
+Til' at last, it is mine, Forever to shine
+The kingdom of God, the pearl!</lines>
+    </verse>
+  </lyrics>
+</song>

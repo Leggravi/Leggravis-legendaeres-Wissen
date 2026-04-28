@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Year of Jubilee</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There will come a time
+In a moment
+In a twinkling of an eye
+At the last trump
+The trumpet shall sound
+And the dead in Christ
+Shall rise up from the grave
+Then we which are alive
+Shall be changed
+From mortal to immortal one</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And shall be caught up with them
+In the cloud
+To meet the Lord in the air</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So let us claim the year
+Of our freedom
+Let it echo throughout the land
+Let's anoint the trumpet to sound
+To meet the resurrected ones
+So we can go home to where we were before</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Where there's no pain, no more tears
+It's such a lovely place
+Prepared for you and me
+The place of eternity
+And we can be right there soon
+If we all stand in unity
+To claim our Jubilee</lines>
+    </verse>
+  </lyrics>
+</song>

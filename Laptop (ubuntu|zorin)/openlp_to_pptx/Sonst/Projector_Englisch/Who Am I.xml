@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Who Am I</title>
+    </titles>
+    <authors>
+      <author type="words">Rusty Goodman</author>
+      <author type="music">Rusty Goodman</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v2 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who am I, that the Lord of all the earth
+Would care to know my name,
+Would care to feel my hurt?
+Who am I, that the bright and morning star
+Would choose to light the way
+For my ever wandering heart?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Not because of who I am
+But because of what you've done
+Not because of what I've done
+But because of who you are</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I am a flower quickly fading
+Here today and gone tomorrow
+A wave tossed in the ocean
+A vapor in the wind
+Still you hear me when I'm calling
+Lord, you catch me when I'm falling
+And you've told me who I am
+I am yours</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Who am I, that the eyes that see my sin
+Would look on me with love
+And watch me rise again?
+Who am I, that the voice that calmed the sea
+Would call out through the rain
+And calm the storm in me?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Whom shall I fear
+Whom shall I fear
+Cause I am yours… I am yours…</lines>
+    </verse>
+  </lyrics>
+</song>

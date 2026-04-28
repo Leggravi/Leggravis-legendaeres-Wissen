@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:19">
+  <properties>
+    <titles>
+      <title>Wir bekümmern uns nicht</title>
+    </titles>
+    <authors>
+      <author type="words">Ursula Jankowiak (1982)</author>
+      <author type="music">Christel Schröder</author>
+    </authors>
+    <ccliNo>4347596</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir leben vom Erbarmen des Herrn und seiner Kraft.
+Er führt mit starken Armen aus der Gefangenschaft!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir leben von der Treue des Königs, der uns hält
+und der sich stets aufs neue an unsre Seite stellt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir leben vom Vergeben des Vaters, der uns liebt
+und der in unser Leben mehr als die Fülle gibt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wir leben von der Güte, von Gottes Freundlichkeit!
+Er ist in unsrer Mitte und führt uns durch die Zeit.</lines>
+    </verse>
+  </lyrics>
+</song>

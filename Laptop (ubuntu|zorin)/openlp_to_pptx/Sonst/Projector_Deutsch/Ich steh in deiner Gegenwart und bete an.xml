@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich steh in deiner Gegenwart und bete an</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Pepper</author>
+      <author type="music">Martin Pepper</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich steh in Deiner Gegenwart und bete an. 
+Ich hebe meine Hände auf zu Dir!
+Ich fühle soviel mehr als ich jetzt sagen kann,
+drum sing ich nur dies eine Wort zu Dir: :
+|: Halleluja, Halleluja, Halleluja, ich erhebe Dich: I o Herr!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Morgenglanz der Ewigkeit</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Opitz</author>
+      <author type="music">Johann Rudolf Ahle</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Morgenglanz der Ewigkeit,
+Licht vom unerschöpften Lichte,
+schick uns diese Morgenzeit
+deine Strahlen zu Gesichte
+und vertreib durch deine Macht
+unsre Nacht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deiner Güte Morgentau
+fall auf unser matt Gewissen;
+lass die dürre Lebensau
+lauter süssen Trost genießen
+und erquick uns, deine Schar,
+immerdar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gib, dass deiner Liebe Glut
+unsre kalten Werke töte,
+und erweck uns Herz und Mut
+bei entstandner Morgenröte,
+dass wir eh wir gar vergehn,
+recht aufstehn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ach du Aufgang aus der Höh,
+gib, dass auch am Jüngsten Tage
+unser Leib verklärt ersteh
+und, entfernt von aller Plage,
+sich auf jener Freudenbahn
+freuen kann.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Leucht uns selbst in jener Welt,
+du verklärte Gnadensonne;
+führ uns durch das Tränenfeld
+in das Land der süssen Wonne,
+da die Lust, die uns erhöht,
+nie vergeht.</lines>
+    </verse>
+  </lyrics>
+</song>

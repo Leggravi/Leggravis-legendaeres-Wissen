@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sweet Beulah Land</title>
+    </titles>
+    <authors>
+      <author type="words">Squire Pearsons</author>
+      <author type="music">Squire Pearsons</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Beulah land am longing for you
+And some day on Thee I’ll stand
+Then my home shall be eternal
+Beulah land, sweet Beulah land.
+(Beulah land, sweet Beulah Land)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’m kind of homesick for a country
+To which I’ve never been before
+No sad goodbye will there be spoken
+And time won’t matter any more.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I’m looking up across the river
+Where my faith will end inside
+There’s just a few more days to labour
+And I will take my heavenly flight.</lines>
+    </verse>
+  </lyrics>
+</song>

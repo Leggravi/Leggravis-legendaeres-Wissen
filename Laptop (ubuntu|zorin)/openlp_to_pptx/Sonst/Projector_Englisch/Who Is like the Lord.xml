@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Who Is like the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Mike Busbee</author>
+      <author type="music">Mike Busbee</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v6 v7 v7 v2 v3 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: Who is like the Lord
+There is no one
+Who is like the Lord
+He is strong and mighty
+Who is like the Lord
+He is worthy
+Stand up and give Him the praise :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise the Lord
+Praise the Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Our God is worthy of glory
+From the rising of the sun
+To its going down
+The name of the Lord is to be praised</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Who is like the Lord
+There is no one
+Who is like the Lord
+He is strong and mighty
+Who is like the Lord
+He is worthy
+Stand up and give Him the praise</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/: Stand up and praise Him
+And give Him the glory :/ x7</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Our God is worthy of praise!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Stand up and give Him the praise!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Who is like the Lord
+There is no one
+Who is like the Lord
+He is strong and mighty
+Who is like the Lord
+He is worthy</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Stand up and give Him the praise
+Come on and
+Stand up and give Him the praise
+Come on and
+Stand up and give Him the praise
+Praise the Lord!</lines>
+    </verse>
+  </lyrics>
+</song>

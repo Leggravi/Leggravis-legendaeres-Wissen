@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'll Never Be Lonely Again</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lonely days and lonely nights
+Filled with despair
+Caused me to long for someone
+who cares
+Then I heard Christ say to me
+This promise I'v made
+Lo I am with you now and forever
+Be not afraid.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus
+I'll never be lonely
+again,
+Never again,
+For I have opened my heart
+door to him
+So I'll brush away my fears
+And forget my foolish ways
+I'll never be lonely again,
+Never again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If you're longing for a friend
+loving and true
+Turn to the Saviour He's waiting
+For you,
+He will do the same for you
+As He did for me
+He'll never leave you, never
+forsake you
+Trust Him and see.</lines>
+    </verse>
+  </lyrics>
+</song>

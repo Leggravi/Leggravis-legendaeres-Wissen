@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Facedown</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Welcomed in to the courts of the King/
+I've been ushered into your presence/
+Lord I stand on your merciful ground/
+Yet with every step tread with reverence</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I'll fall facedown
+As your glory shines around,
+Yes, I'll fall facedown
+As your glory shines around.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who is there in the heavens like you/
+And upon the earth who's your equal/
+You are far above you're the highest of heights/
+We are bowing down to exalt you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So let your glory shine around!
+Let your glory shine around!
+King of glory here be found!
+King of glory!</lines>
+    </verse>
+  </lyrics>
+</song>

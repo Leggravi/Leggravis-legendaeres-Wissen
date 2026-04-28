@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mercy Is Calling For Thee</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Will you come and be free from the bondage of sin?
+Jesus has died on the tree;
+He has purchased redemption to gather you in;
+Mercy is calling for thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, will you come? Oh, will you come?
+Jesus will save every one;
+Oh, beware! Don’t you see there is pardon for thee?
+Mercy is calling you home.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Will you come to Him now? Then resist every wrong;
+Happy indeed you will be;
+He will bless you with peace and with heavenly song;
+Mercy is calling for thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Will you come as you are? for He knoweth your heart,
+Jesus will make trouble flee;
+He will banish your gloom, He will vict’ry impart;
+Mercy is calling for thee.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Will you come? He will save; how He pleads with you now! —
+Jesus had mercy on me—
+He’s the best friend you have, oh, be humble and bow!
+Mercy is calling for thee.</lines>
+    </verse>
+  </lyrics>
+</song>

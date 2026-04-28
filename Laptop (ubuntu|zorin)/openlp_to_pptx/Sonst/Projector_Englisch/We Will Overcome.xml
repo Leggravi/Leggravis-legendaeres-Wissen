@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Will Overcome</title>
+    </titles>
+    <authors>
+      <author type="words">Guy Carawan</author>
+      <author type="music">Spiritual</author>
+      <author type="translation">Wir werd'n überwinden</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We will ovecome
+We will ovecome
+We will ovecome some day
+Deep in my heart I do believe
+We will ovecome some day</lines>
+    </verse>
+  </lyrics>
+</song>

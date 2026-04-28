@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Be Exalted, O God</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will give thanks to Thee
+O Lord, among the people
+I will sing praises to Thee
+Among the nations
+For Thy steadfast love is great
+Is great to the heavens
+And Thy faithfulness
+Thy faithfulness to the clouds</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be exalted, O God
+Above the heavens
+Let Thy glory be over all the earth
+Be exalted, O God
+Above the heavens
+Let Thy glory be over all the earth</lines>
+    </verse>
+  </lyrics>
+</song>

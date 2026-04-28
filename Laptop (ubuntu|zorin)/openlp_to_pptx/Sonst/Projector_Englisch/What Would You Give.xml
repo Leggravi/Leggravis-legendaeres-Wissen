@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What Would You Give</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Brother a-far from the
+Saviour today,
+Risking your soul
+for the things that decay,
+Oh, if today God should
+call it away,
+What would you give
+in exchange for your soul?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What would you give?
+What would you give?
+What would you give
+in exchange for your soul?
+Oh, if today God should call it away,
+What would you give
+in exchange for your soul?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mercy is calling you,
+won’t you give heed?
+Must the dear Saviour
+still tenderly plead?
+Risk not your soul,
+it is precious indeed;
+What would you give
+in exchange for your soul?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>More than the silver
+and gold of the earth,
+More than all jewels
+thy spirit is worth!
+God, the Creator, has given it birth!
+What would you give
+in exchange for your soul?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>If, when you stand
+at the bar by and by,
+When you are weighed
+in the balance on high,
+You should be sentenced forever to die,
+What would you give
+in exchange for your soul?</lines>
+    </verse>
+  </lyrics>
+</song>

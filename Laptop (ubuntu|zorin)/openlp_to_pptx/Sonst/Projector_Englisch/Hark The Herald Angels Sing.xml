@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hark! The Herald Angels Sing</title>
+    </titles>
+    <authors>
+      <author type="words">Charles Wesley</author>
+      <author type="music">Felix Mendelssohn Bartholdy</author>
+      <author type="translation">Hört der Engel Lied voll Freud</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hark! the herald angels sing,
+&quot;Glory to the newborn King;
+Peace on earth, and mercy mild;
+God and sinners reconciled.&quot;
+Joyful, all ye nations, rise,
+Join the triumph of the skies;
+With angelic hosts proclaim,
+&quot;Christ is born in Bethlehem.&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hark! the herald angels sing,
+&quot;Glory to the newborn King.&quot;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Christ, by highest heav'n adored,
+Christ, the everlasting Lord:
+Late in time behold Him come,
+Off-spring of a virgin's womb.
+Veiled in flesh the Godhead see,
+Hail th' incarnate Deity!
+Pleased as man with men to appear,
+Jesus our Immanuel here.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hail the heav'n-born Prince of Peace,
+Hail the Sun of righteousness!
+Light and life to all He brings,
+Ris'n with healing in His wings:
+Mild He lays His glory by,
+Born that man no more may die;
+Born to raise the sons of earth,
+Born to give them second birth.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Come, Desire of nations, come!
+Fix in us Thy humble home:
+Rise, the woman's conqu'ring seed,
+Bruise in us the serpent's head;
+Adam's likeness now efface,
+Stamp Thine image in its place:
+Second Adam from above,
+Reinstate us in Thy love.</lines>
+    </verse>
+  </lyrics>
+</song>

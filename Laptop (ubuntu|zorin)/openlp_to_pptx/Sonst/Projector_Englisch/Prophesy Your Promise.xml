@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Prophesy Your Promise</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v3 v5 v5 v6 v7 v8 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I found You in the middle of my mess
+You had been there all along
+Open arms and open heart,
+You called me in
+You didn't hesitate at all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And the lies I once believed
+They crumble
+With the weight of Your truth
+And the fear that gripped my heart
+Is arrested
+So that I can see You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I only see in part
+I will prophesy Your promise
+I believe You, God
+'Cause You finish what You start
+I will trust You in the process
+I believe You, God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You set a table in the middle of my war
+You knew the outcome of it all
+When what I faced looked like it would never end
+You said, watch the giants fall</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fear can go to hell
+Shame can go there too
+I know whose I am
+God, I belong to You</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Fear can go to hell
+Shame can go there too
+I know whose I am
+I belong to You</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Fear can go to hell
+Shame can go there too
+I know whose I am
+I belong to You
+I belong</lines>
+    </verse>
+    <verse name="v8">
+      <lines>When I only see in part
+I will prophesy Your promise
+I believe You, God
+'Cause You finish what You start
+I will trust You in the process
+I believe You</lines>
+    </verse>
+  </lyrics>
+</song>

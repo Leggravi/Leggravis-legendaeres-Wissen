@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm Taking My Harp Down</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm taking my harp down
+From off the willow tree;
+And now I am singing, the victory.
+My past is forgiven,
+My home is in Heaven;
+All sorrow is gone,
+The victory's won,
+And now I am free.</lines>
+    </verse>
+  </lyrics>
+</song>

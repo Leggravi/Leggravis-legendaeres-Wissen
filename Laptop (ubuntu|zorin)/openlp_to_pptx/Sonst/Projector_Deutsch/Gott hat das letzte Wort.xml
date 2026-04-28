@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gott hat das letzte Wort</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Müller</author>
+      <author type="music">Kees de Bruine</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wenn alles zu Ende ist
+Wenn die Nacht herein gebrochen ist
+Wenn es keine Lösung gibt
+Und die letzte Hoffnung stirbt
+Wenn alles verloren scheint
+Wenn die Trauer sich mit Wut vereint
+Sind die Berge viel zu hoch
+Und der Abgrund viel zu tief</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gott hat das letzte Wort
+Dort wo das Ende droht
+Setzt er seinen Plan
+Mit uns Menschen fort
+Gott hat das letzte Wort
+Er wendet deine Not
+Und dann wird das Kreuz
+Dir zum Hoffnungsort</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Denn Gott hat die Übersicht
+Er hält immer was er uns verspricht
+Drum vertraue ich auch dann
+Wenn ich selber nicht mehr kann</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Er ist der Glücklichmacher, der Überwinder
+Der Alleskönner, der Todbezwinger
+Er ist der Sorgenkenner, der Sehnsuchtsstiller
+Der Chancengeber, der Worterfüller
+Gib nicht auf, gib nicht auf
+Gib nicht auf, gib nicht auf</lines>
+    </verse>
+  </lyrics>
+</song>

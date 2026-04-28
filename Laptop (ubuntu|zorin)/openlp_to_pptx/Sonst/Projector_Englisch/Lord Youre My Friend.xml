@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord You're My Friend</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord you're my friend and I love you
+You are all that i need
+Saving my soul with your mercy
+You pour love over me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Munoshamisa
+Munoshamisa
+Munoshamisa, Jesu (
+X2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ya Mangalisa
+Ya Mangalisa
+Ya Mangalisa, Jesu
+(X2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So Amazing Lord
+So Amazing Lord
+So Amazing Lord, to me
+(X2)</lines>
+    </verse>
+  </lyrics>
+</song>

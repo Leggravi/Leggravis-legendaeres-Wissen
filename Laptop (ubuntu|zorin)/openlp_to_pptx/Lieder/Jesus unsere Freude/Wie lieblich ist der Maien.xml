@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:54">
+  <properties>
+    <titles>
+      <title>Wie lieblich ist der Maien</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Behm (1606)</author>
+      <author type="music">Johann Steuerlein</author>
+    </authors>
+    <ccliNo>5212675</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wie lieblich ist der Maien
+aus lauter Gottesgüt,
+des sich die Menschen freuen,
+weil alles grünt und blüht.
+Die Tier sieht man jetzt springen
+Mit Lust auf grüner Weid,
+die Vöglein hört man singen,
+die loben Gott mit Freud.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr, dir sei Lob und Ehre
+für solche Gaben dein!
+Die Blüt zur Frucht vermehre,
+lass sie ersprießlich sein.
+Es steht in deinen Händen,
+dein Macht und Güt ist groß;
+drum wollst du von uns wenden
+Mehltau, Frost, Reif und Schloss'.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr, lass die Sonne blicken
+ins finstre Herze mein,
+damit sich's möge schicken,
+fröhlich im Geist zu sein,
+die größte Lust zu haben
+allein an deinem Wort,
+das mich im Kreuz kann laben
+und weist des Himmels Pfort.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mein Arbeit hilf vollbringen
+zu Lob dem Namen dein
+und lass mir wohl gelingen,
+im Geist fruchtbar zu sein;
+die Blümlein lass aufgehen
+von Tugend mancherlei,
+damit ich mög bestehen
+und nicht verwerflich sei.</lines>
+    </verse>
+  </lyrics>
+</song>

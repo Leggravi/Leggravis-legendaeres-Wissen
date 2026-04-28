@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:28">
+  <properties>
+    <titles>
+      <title>Ein reines Herz, Herr, schaff in mir</title>
+    </titles>
+    <authors>
+      <author type="words">Heinrich Georg Neuss (1703)</author>
+      <author type="music">O Jesu Christe, wahres Licht</author>
+    </authors>
+    <ccliNo>5209853</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ein reines Herz, Herr, schaff in mir,
+schließ zu der Sünde Tor und Tür;
+vertreibe sie und lass nicht zu,
+dass sie in meinem Herzen ruh.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dir öffn ich, Jesu, meine Tür,
+ach komm und wohne du bei mir;
+treib all Unreinigkeit hinaus
+aus deinem Tempel, deinem Haus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lass deines guten Geistes Licht
+und dein hell glänzend Angesicht
+erleuchten mein Herz und Gemüt,
+o Brunnen unerschöpfter Güt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und mache dann mein Herz zugleich
+an Himmelsgut und Segen reich;
+gib Weisheit, Stärke, Rat, Verstand
+aus deiner milden Gnadenhand.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So will ich deines Namens Ruhm
+ausbreiten als dein Eigentum
+und dieses achten für Gewinn,
+wenn ich nur dir ergeben bin.</lines>
+    </verse>
+  </lyrics>
+</song>

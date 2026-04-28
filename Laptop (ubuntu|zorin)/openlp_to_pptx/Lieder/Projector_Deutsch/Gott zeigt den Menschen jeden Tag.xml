@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gott zeigt den Menschen jeden Tag</title>
+    </titles>
+    <authors>
+      <author type="words">Gundolf Walaschewski</author>
+      <author type="music">Southern Folk Melody</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott zeigt den Menschen jeden Tag,
+was bei Ihm Gnade heißt:
+das was ich selber nicht vermag,
+schenkt Er durch Seinen Geist.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In Gnade sein, heißt: Gott greift ein.
+weil Er uns Menschen liebt.
+Was Gnade ist, weiß der allein,
+dem Gott die Schuld vergibt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Was uns die Gnade möglich macht,
+ist nicht das eigne Tun.
+Gott hat sie als Geschenk gedacht,
+in Gnade darf ich ruhn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Aus Gnade neigt sich Gott zu dir,
+die Gnade macht dich frei.
+Und greifen Zweifel auch nach dir:
+Die Gnade steht dir bei.</lines>
+    </verse>
+  </lyrics>
+</song>

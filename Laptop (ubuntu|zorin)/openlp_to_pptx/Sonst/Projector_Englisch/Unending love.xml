@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Unending love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's no silver or gold
+And no treasure untold
+That could draw me away from Your heart
+Neither love of myself
+Or of anyone else will do</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus nothing compares
+To this grace that rescues me
+Savior now and forever
+Your face is all I seek</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now all I am,
+I lay at Your feet
+I'm humbled by the wonder of Your majesty
+One thing I know,
+I find all I need
+In Your unending love
+In Your unending love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Letting go of my pride
+I lay down my desires
+Just to worship in Spirit and truth
+More than all of my dreams
+More than fame I will seek You, Lord</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus nothing compares
+To this grace that rescued me
+Savior, now and forever
+Your face is all I seek</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wache auf, hör den Ruf zum Licht</title>
+    </titles>
+    <authors>
+      <author type="words">Heinz Fuhrmann</author>
+      <author type="music">Heinz Fuhrmann</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wache auf, hör den Ruf zum Licht,
+du musst dich jetzt entscheiden.
+Stehe auf, hör' Dein Meister spricht:
+willst du im Dunkel bleiben?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lass fallen was dich so beschwert,
+sei einer, der auf Jesus hört,
+mit Ihm gewinnst du das Leben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Schaue her, hier ist große Lieb
+in Jesus Christ auf Erden;
+greife zu, hier kann Schuld und Not
+in Sieg verwandelt werden!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Höre her, wenn der Meister ruft,
+gib dich Ihm ganz zu eigen!
+Diene Ihm, folge Seinem Ruf,
+nur Er gibt wahre Freuden!</lines>
+    </verse>
+  </lyrics>
+</song>

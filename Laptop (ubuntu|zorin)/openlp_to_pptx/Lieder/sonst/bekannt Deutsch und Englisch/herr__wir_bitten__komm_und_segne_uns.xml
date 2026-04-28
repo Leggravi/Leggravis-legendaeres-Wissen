@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jun 28, 2020, 6:50:30 PM">
+  <properties>
+    <titles>
+      <title>Herr, wir bitten: Komm und segne uns</title>
+    </titles>
+    <verseOrder>C1 V2 V3 V4 V5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="C1">
+      <lines>Herr, wir bitten: Komm und segne uns;
+lege auf uns deinen Frieden.
+Segnend halte Hände über uns.
+Rühr uns an mit deiner Kraft.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>In die Nacht der Welt hast du uns gestellt,
+deine Freude auszubreiten.
+In der Traurigkeit, mitten in dem Leid,
+lass uns deine Boten sein.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>In die Schuld der Welt hast du uns gestellt,
+um vergebend zu ertragen,
+dass man uns verlacht, uns zu Feinden macht,
+dich und deine Kraft verneint.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>In den Streit der Welt hast du uns gestellt,
+deinen Frieden zu verkünden,
+der nur dort beginnt, wo man wie ein Kind,
+deinem Wort Vertrauen schenkt.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>In das Leid der Welt hast du uns gestellt,
+deine Liebe zu bezeugen.
+Lass uns Gutes tun und nicht eher ruhn,
+bis wir dich im Lichte seh'n.</lines>
+    </verse>
+  </lyrics>
+</song>

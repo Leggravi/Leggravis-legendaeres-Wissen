@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let Your Light Shine</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let your light so shine that the world may see
+How to come to Christ who will set them free;
+Let its rays gleam bright when the darkness falls,
+Till each sinful soul for the Savior calls.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let your light shine, let your light shine,
+Let your light so shine before men;
+That they your works beholding, that they your works beholding,
+May glorify the Father’s name in heav’n.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let your light so shine everywhere you go,
+Till the tribes of earth Jesus Christ may know;
+Let its rays transpose into perfect day,
+When the clouds of gloom shall be swept away.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let your light so shine that its beams may reach
+Every darkened soul, thus the gospel preach;
+Let it brighter shine till that endless day,
+Bursts upon our sight ne’er to pass away.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let your light so shine every day and hour,
+That the truth be clothed with divinest pow’r;
+Let it brightly shine and promote God’s cause,
+To exalt His name and His holy law.</lines>
+    </verse>
+  </lyrics>
+</song>

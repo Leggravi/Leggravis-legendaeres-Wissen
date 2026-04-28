@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Live Like Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Open up your Bible, this is what you′ll find,
+A whole lot of help through the trials of life,
+Testimonies of the saints of old,
+Pointing us to the Lord as we travel this road.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You just, walk like Enoch, Worship like Abel,
+Lead like Moses and Pray like Daniel,
+Witness like Peter, Endure like Job.
+Oh, Pray like Paul on the Damascus road,
+Praise like David with a brand new song,
+Go like Phillip and Love like John,
+Preach like apostles in a world gone wrong,
+Live like Jesus till He take you home.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When you're discouraged, and don′t know what to do,
+Read about how the Lord takes His children through.
+Start at the beginning go to Revelations end
+And when you get done, just read it again!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He was faithful (to Abraham and Sarah),
+Faithful (with a widow woman's barrel),
+Faithful (to Gideon's army),
+Faithful (to the thief on Calvary),
+Faithful (when He rolled away the stone),
+And He′ll be faithful till He takes us home!
+Keep moving on!</lines>
+    </verse>
+  </lyrics>
+</song>

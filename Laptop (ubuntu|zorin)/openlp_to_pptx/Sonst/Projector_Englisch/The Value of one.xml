@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Value of one</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Could it be that up in Heaven
+God is sitting on His throne
+Anticipating another sinner
+Will soon become His own
+Years of wasted living
+And years of toil and strife
+Are just about to be over
+As he receives the gift of life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Go sound the horn, strike up the choir
+A sinner is saved, saved from the fire
+No more in darkness He's received my son
+All heaven rejoices, That's the value of one</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Holy spirit has been working
+To softer up a heart
+All He needs is a willing servant
+To simply do his part
+Can you imagine up in Heaven
+The joy there is that day
+As a sinner bows His head to pray
+Can't you hear the Father say</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Start construction on His mansion
+Here on Hallelujah street
+He doesn't know yet what is waiting
+When the savior He will meet</lines>
+    </verse>
+  </lyrics>
+</song>

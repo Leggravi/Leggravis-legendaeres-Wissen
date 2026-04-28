@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In The Middle Of The Winter</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the middle of the winter I can hear the sounds of spring
+Though the dark cold winter seems so long,
+Ah, I know the sun is shining though the clouds are all I see
+And I wonder how long it will be?
+Reflected in the ocean is the glimmer of the dawn
+And I know that day is drawing near,
+I can feel the warmth of sunlight though the storms rage all around
+And I wonder could it be now?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will lift my eyes, I will look to the sky
+Soon He will come, Jesus, my Savior!
+For the time is near, the signs are clearly all around us,
+He's coming soon!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As I see the world around me, I can tell it won't be long
+For I know the time is drawing near
+All around us there is hunger, all you hear about is war
+And you wonder can we take anymore?</lines>
+    </verse>
+  </lyrics>
+</song>

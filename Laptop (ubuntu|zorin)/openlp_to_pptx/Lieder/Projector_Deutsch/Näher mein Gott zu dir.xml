@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Näher, mein Gott, zu dir</title>
+    </titles>
+    <authors>
+      <author type="words">Erhard Friedrich Wunderlich</author>
+      <author type="music">Lowell Mason</author>
+      <author type="translation">Nearer, my God, to Thee</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Näher, mein Gott, zu dir, näher zu dir!
+Drückt mich auch Kummer hier, drohet man mir,
+soll doch trotz Kreuz und Pein dies meine Losung sein:
+Näher, mein Gott, zu dir, näher zu dir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bricht mir, wie Jakob dort, Nacht auch herein,
+find ich zum Ruheort nur einen Stein;
+ist selbst im Traume hier mein Sehnen für und für:
+Näher, mein Gott, zu dir, näher zu dir!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Geht auch die schmale Bahn aufwärts gar steil,
+führt sie doch himmelan zu meinem Heil.
+Engel, so licht und schön, winken aus selgen Höhn:
+Näher, mein Gott, zu dir, näher zu dir.</lines>
+    </verse>
+  </lyrics>
+</song>

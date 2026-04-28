@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Nov 12, 2019, 8:26:36 PM">
+  <properties>
+    <titles>
+      <title>Meer</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Du rufst mich raus auf's weite Wasser,
+wo Füße nicht… mehr sicher stehn.
+Dann finde ich dich im verborg'nen
+denn Glaube trägt im tiefen Meer.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Und deinen Namen ruf ich an.
+Ich schau so weit ich sehen kann.
+Und kommt die Flut,
+hälst du mich fest in deinem Arm,
+denn ich bin dein und du bist mein.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Die Gnade strömt wie tiefes Wasser,
+Und deine Hand zeigt mir den Weg.
+Wenn Angst mich lähmt und ich versage,
+lässt du nie los und gibst niemals auf.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Führ mich dort hin, wo ich unbegrenzt vertraue.
+Lass mich auf dem Wasser laufen
+wo immer du mich hinführst.
+Führ mich tiefer als ich selber jemals gehen kann,
+dass ich fest im glaube stehe,
+in der gegenwart des Retters.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Kommt, preist und lobet unsern Gott</title>
+    </titles>
+    <authors>
+      <author type="words">Frank Huck</author>
+      <author type="music">Tim Chester</author>
+      <author type="translation">Come praise and glorify</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kommt, preist und lobet unsern Gott, den Vater unseres Herrn. Durch Christus hat ER uns mit Seinem Segen reich beschenkt. In Ihm hat Er uns auserwählt, damit wir heilig sind, und uns durch Jesus adoptiert: Gott nimmt uns an als Kind.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nur zum Lob Deiner Gnade, nur zum Lob Deiner Herrlichkeit. Du schenkst uns Deine Gnade, erlöst uns für allezeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kommt, preist und lobet unseren Gott, der Seinen Sohn uns gab. Er nahm hinweg die ganze Schuld, als Er am Kreuz dort starb. Was Gott von Anfang an bestimmt, macht Er nun offenbar: Dass Christus ist der Herr der Welt, der Gottes Plan erfüllt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nur zum Lob Deiner Gnade, nur zum Lob Deiner Herrlichkeit. Du schenkst uns Deine Gnade, erlöst uns für allezeit.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kommt, preist und lobet unseren Gott, denn Er gab uns Sein Wort. Wir wollen darauf fest vertraun, im Glauben immerfort. Gott hält uns fest durch Seinen Geist. Wir sind sein Eigentum jetzt hier und bis in Ewigkeit nur Ihm gebührt der Ruhm.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nur zum Lob Deiner Gnade, nur zum Lob Deiner Herrlichkeit. Du schenkst uns Deine Gnade, erlöst uns für allezeit.</lines>
+    </verse>
+  </lyrics>
+</song>

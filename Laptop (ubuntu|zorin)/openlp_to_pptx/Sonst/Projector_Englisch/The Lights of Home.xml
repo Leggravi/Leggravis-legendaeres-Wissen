@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Lights of Home</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>John tells of a city that He saw
+ coming down
+Where no sorrow or pain will be known
+And some day we will go there
+through God's marvellous grace,
+Forever live in that Heavenly home.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, I can almost see the lights of that city,
+I see them gathering all around
+ the great white throne
+Through faith in my Savior
+And His wonderful love,
+Oh, I can almost see the lights of home.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Well, sometimes when I'm burdened,
+And my cross gets hard to bear,
+and old Satan, he tries to dim my view.
+Then I look up to Jesus,
+He is standing close by
+And once again His great light
+ shines through.</lines>
+    </verse>
+  </lyrics>
+</song>

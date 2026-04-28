@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Christ in Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christ In Me
+The hope of glory Christ In Me
+My shelter from the storm
+Should men of evil have their day
+Or should the earth's foundation sway
+But none of these can take away
+The living Christ in me</lines>
+    </verse>
+  </lyrics>
+</song>

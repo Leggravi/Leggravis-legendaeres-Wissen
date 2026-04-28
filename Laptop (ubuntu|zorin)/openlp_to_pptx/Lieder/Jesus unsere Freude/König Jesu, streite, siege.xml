@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:07">
+  <properties>
+    <titles>
+      <title>König Jesu, streite, siege</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Knapp (1827)</author>
+      <author type="music">Wachet auf, ruft uns die Stimme</author>
+    </authors>
+    <ccliNo>6223113</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>König Jesu, streite, siege,
+dass alles bald dir unterliege,
+was lebt und webt in dieser Welt!
+Blick auf deine Friedensboten,
+lass wehen deinen Lebensodem
+durchs ganze weite Totenfeld!
+Erhöre unser Flehn
+und lass es bald geschehn!
+Amen. Amen!
+So rühmen wir und jauchzen
+dir ein Halleluja für und für!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wo du deine Boten sendest,
+wo Licht und Leben heut du spendest,
+da steht erquickt das Menschenherz,
+lernet Gottes Tun erkennen
+und darf mit Freuden sein sich nennen,
+schaut nicht mehr zagend himmelwärts.
+Als Kind an Jesu Hand,
+den Heil’gen Geist als Pfand
+in dem Herzen,
+o welchen Lohn gibt Gott hier schon
+und dazu einst die ew’ge Kron’!</lines>
+    </verse>
+  </lyrics>
+</song>

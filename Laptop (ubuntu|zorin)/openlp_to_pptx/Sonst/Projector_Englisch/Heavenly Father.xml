@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heavenly Father</title>
+    </titles>
+    <authors>
+      <author type="words">James Edmeston</author>
+      <author type="music">Friedrich Filitz</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heavenly Father, I appreciate you,
+Heavenly Father, I appreciate you,
+I love you, adore you,
+I bow down before you,
+Heavenly Father, I appreciate you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy Spirit You're a comfort to me
+Holy Spirit You're a comfort to me
+You lead me, You guide me,
+You're dwelling inside me
+Holy Spirit You're a comfort to me.</lines>
+    </verse>
+  </lyrics>
+</song>

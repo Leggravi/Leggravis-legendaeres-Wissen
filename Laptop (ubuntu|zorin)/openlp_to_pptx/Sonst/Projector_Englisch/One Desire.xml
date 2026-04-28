@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>One Desire</title>
+    </titles>
+    <authors>
+      <author type="words">Eoghan Heaslip</author>
+      <author type="music">Eoghan Heaslip</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If I could have One Desire
+Before my life is through
+Even in my darkest night
+My life would shine for You
+If I could stop the hands of time
+Or make a wish come true
+I would tell my heart to burn with fire
+For no one else but You
+This is my One Desire</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are my Saving Grace
+Anchor of my soul
+In a world that's turned upside down
+I want you to know</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are my Faithful Friend
+The One that i lean on
+You always understand
+With all that I am
+I'll give you the deepest devotion i know
+With all of my strength
+I won't let You go
+As i look to You above
+I will give You all my love</lines>
+    </verse>
+  </lyrics>
+</song>

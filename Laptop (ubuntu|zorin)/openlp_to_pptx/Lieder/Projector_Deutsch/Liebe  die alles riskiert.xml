@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Liebe , die alles riskiert</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Bruch</author>
+      <author type="music">Brooke Fraser Ligertwood</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Liebe, die alles riskiert
+Selbst meine Sünden Last trägst mir
+Leitest den Fluss meiner Schuld
+Ins weiter Meer deiner Liebe u Gunst</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich heb die Hand
+Und gehör dir ganz
+Weiss Christus nimmt mich an.
+Du liebst mich unendlich
+Mein ganzes sein
+Tritt in Gnade ein
+Nichts kommt Deiner Liebe gleich
+Gott, Du bist
+Mein Retter</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gnade tobt wie ein Wirbelsturm
+Liebe, so wild, zerstört meine Schuld</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Für den Einen, der mir Leben gab
+Der mich Inseln Zuhause Aufnahm
+Für den Retter, der für alle Kamm
+Sing ich für immer</lines>
+    </verse>
+  </lyrics>
+</song>

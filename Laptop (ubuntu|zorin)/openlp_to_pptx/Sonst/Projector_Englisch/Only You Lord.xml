@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Only You, Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Andy Park</author>
+      <author type="music">Andy Park</author>
+      <author type="translation">Niemand, als du Herr (Du allein stillst meine tiefste Sehnsucht)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There are waters I have tasted
+Thinking just to drink and live
+But from a broken cistern
+With no life to give
+All this world can offer me
+Just will not satisfy
+Lord, lead me to the fountain
+Your presence pure divine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Only You Lord,
+Only You
+Only You Lord,
+Only You
+You're the fountain I run to.
+Only You Lord,
+Only You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In his presence there is healing
+For body soul and mind
+He strengthened my weakness
+All in Him I find
+From this lifestream
+Flows a power
+The secret lies within
+To drink up once when tasted
+Never thirst again.</lines>
+    </verse>
+  </lyrics>
+</song>

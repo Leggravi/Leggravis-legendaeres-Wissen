@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 24, 2024, 4:04:34 PM">
+  <properties>
+    <titles>
+      <title>He Will Carry You</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>There is no problem too big
+God cannot solve it
+There is no mountain too tall
+He cannot move it
+There is no storm too dark
+God cannot calm it
+There is no sorrow too deep
+He cannot soothe it</lines>
+    </verse>
+    <verse name="C2">
+      <lines>If He carried the weight
+Of the world upon His shoulders
+I know, my brother
+That He will carry you
+If He carried the weight
+Of the world upon His shoulder
+I know, my sister
+That He will carry you</lines>
+    </verse>
+    <verse name="V3">
+      <lines>He said, &quot;Come on to me
+All who are weary
+And I will give you rest.&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

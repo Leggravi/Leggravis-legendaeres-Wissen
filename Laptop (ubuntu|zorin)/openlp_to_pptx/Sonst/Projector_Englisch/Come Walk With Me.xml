@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come Walk With Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Along life’s road I stumbled in
+the darkness
+My blinded eyes had caused
+my feet to roam,
+I met the Lord who spoke to me
+so sweetly,
+Come walk with me and
+now you will see home”.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>“Come walk with me
+The way Is strait and narrow
+Come walk with me,
+You cannot walk alone;
+For the road Is rough
+And there are many dangers
+Come walk with me
+And I will see you home”.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So now I walk with Christ
+My blessed Saviour
+I need not fear for I am not alone
+He guides me through this life
+With all it's sorrows,
+And some day soon
+He’ll see me safely home.</lines>
+    </verse>
+  </lyrics>
+</song>

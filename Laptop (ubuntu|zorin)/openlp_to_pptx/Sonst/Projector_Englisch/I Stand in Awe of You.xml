@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Stand in Awe of You</title>
+    </titles>
+    <authors>
+      <author type="words">Jeff Deyo</author>
+      <author type="music">Jeff Deyo</author>
+      <author type="translation">Voller Ehrfurcht steh ich hier (Du bist der Heilige)</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I stand in awe of You
+Holy one, mighty God
+I raise my hands to You
+Awesome King, mighty God
+I will declare
+Your majesty and glory in this place
+Lord, let Your Holy Spirit
+Bring Your glory to this place</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I bow my head in reverence
+To You, mighty God
+I will proclaim how wonderful
+And marvelous You are
+I raise my hands to You
+My awesome King
+I stand in awe of You
+In awe of You, my God</lines>
+    </verse>
+  </lyrics>
+</song>

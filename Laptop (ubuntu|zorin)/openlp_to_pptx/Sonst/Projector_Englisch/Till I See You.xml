@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Till I See You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The greatest love that anyone could ever know
+That overcame the cross and grave to find my soul
+And'til I see You face to face
+And grace amazing takes me home, I'll trust in You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With all I am I live to see Your kingdom come
+And in my heart I pray you'd let Your will be done
+And'til I see You face to face
+And grace amazing takes me home, I'll trust in You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will live to love You
+I will live to bring You praise
+I will live a child in awe of You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are the voice that called the universe to be
+You are the whisper in my heart that speaks to me
+And'til I see You face to face
+And grace amazing takes me home, I'll trust in You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I will live to love You
+I will live to bring You praise
+I will live a child in awe of You
+I will live to love You
+I will live to bring You praise
+I will live a child in awe of You (hallelujah)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You alone are God of all
+You alone are worthy, Lord
+And with all I am my soul will bless Your name
+You alone are God of all
+You alone are worthy, Lord</lines>
+    </verse>
+    <verse name="v7">
+      <lines>And with all I am my soul will bless Your name
+Bless Your name</lines>
+    </verse>
+  </lyrics>
+</song>

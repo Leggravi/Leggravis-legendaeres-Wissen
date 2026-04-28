@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Begnadigt</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Begnadigt stehen wir vor Dir!
+Begnadigt durch Deinen Sohn.
+Begnadigt stehen wir jetzt hier
+vor Deinem Thron.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wie unbegreiflich groß bist Du,
+wie groß dein Reichtum, Deine Weisheit!
+Wie tief sind deine Gedanken,
+wer könnte sie ganz verstehn?
+Wie unbegreiflich groß bist Du,
+wie unfassbar ist Dein Erbarmen!
+wie unermesslich Deine Gnade,
+Ja, es ist niemand wie Du!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wie unbegreiflich groß bist Du,
+wie wunderbar sind deine Pläne!
+Wer könnte Dich jemals beraten
+und wer Dich jemals verstehn?
+Wie unbegreiflich groß bist Du,
+wer hätte Dir je was gegeben,
+das er nur von Dir fordern könnte?
+Nein, alles kommt von Dir!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ja, von Dir und durch Dich und für dich ist alles.
+Von Dir und durch Dich und für Dich sind wir.
+Ja, von Dir und durch Dich und für Dich sind auch wir.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lob und Dank, Ehre, Anbetung und Herrlichkeit gehört Dir allein!
+Lob und Dank, Ehre, Anbetung sei Dir!
+Lob und Dank, Ehre, Anbetung und Herrlichkeit gehört Dir allein!
+Lob und Dank, Ehre, Anbetung sei Dir!
+Ehre Anbetung und Herrlichkeit gehört Dir in Ewigkeit!</lines>
+    </verse>
+  </lyrics>
+</song>

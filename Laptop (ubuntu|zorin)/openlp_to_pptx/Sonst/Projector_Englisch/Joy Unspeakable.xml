@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Joy Unspeakable</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Joy unspeakable down inside my soul
+Joy unspeakable down inside my soul</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's running deep, it's running wide
+It's running over down inside
+Earthly things cannot replace this
+happiness I feel
+It comes from Jesus Christ
+A comforting so real</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It will be full, it will remain
+It melts the sorrow and all pain
+I will count it all for good when
+facing darkness night
+I know He'll restore my soul
+With the morning light</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Joy sweet joy
+Joy sweet joy
+Joy sweet joy
+Joy, joy, joy, joy down in my heart</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I've got joy
+I've got joy
+I've got joy way down inside my soul
+Down inside my soul</lines>
+    </verse>
+  </lyrics>
+</song>

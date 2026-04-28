@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mein Herz erhebet den Herrn</title>
+    </titles>
+    <authors>
+      <author type="words">Gitta Leuschner</author>
+      <author type="music">Unbekannt</author>
+      <author type="translation">My soul doth magnify the Lord</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mein Herz erhebet den Herrn,
+und mein Geist frohlockt in Gott,
+dem Heiland, den Großes tat an mir
+der Allmächt'ge und heilig ist sein Name.</lines>
+    </verse>
+  </lyrics>
+</song>

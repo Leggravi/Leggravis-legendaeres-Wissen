@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I've Gotta Get To Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My physicians tried in vain
+For twelve long years of pain
+Is proof that there is nothing they can do
+But I just heard somebody say
+&quot;There's a healer on the way&quot;
+Somehow I have to press my way through</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've gotta get to Jesus
+Gotta get to Jesus
+I know that He's the answer to my needs
+Bring Him all my problems
+Only He can solve them
+Mend the broken pieces
+Gotta get to Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When my world is torn apart
+I need healing for my heart
+I really don't know how much more I can take
+Trapped inside a cloud of disbelief and doubt
+I only know one way of escape</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If the hem of His garment is all I can reach
+I know if I touch Him I will be free
+I will be free</lines>
+    </verse>
+  </lyrics>
+</song>

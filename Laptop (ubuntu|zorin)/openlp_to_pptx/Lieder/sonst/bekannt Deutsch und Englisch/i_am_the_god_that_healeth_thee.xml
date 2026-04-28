@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Apr 19, 2021, 1:36:19 PM">
+  <properties>
+    <titles>
+      <title>I Am The God That Healeth Thee</title>
+    </titles>
+    <verseOrder>V1 V2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>I am the God that healeth thee,
+I am the Lord, your healer,
+I sent my Word and healed your disease,
+I am the Lord, your healer.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>You are the God that healeth me,
+You are the Lord, my Healer;
+You sent Your Word and healed my disease,
+You are the Lord, my Healer.</lines>
+    </verse>
+  </lyrics>
+</song>

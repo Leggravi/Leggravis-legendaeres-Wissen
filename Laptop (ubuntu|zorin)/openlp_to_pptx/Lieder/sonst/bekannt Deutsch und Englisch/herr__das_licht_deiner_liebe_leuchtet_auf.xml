@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 27, 2020, 10:18:56 PM">
+  <properties>
+    <titles>
+      <title>Herr, das Licht deiner Liebe leuchtet auf</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Herr das Licht deiner Liebe leuchtet auf,
+strahlt in mittener Finsternis für uns auf.
+Jesus du Licht der Welt, sende uns dein Licht!
+Mach uns frei durch die Wahrheit, die jetzt anbricht!
+Sei mein Licht, sei mein Licht!</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Jesus, dein Licht füll dies Land mit des Vaters Ehre!
+Komm, Heil'ger Geist, setz die Herzen in Brand!
+Fließ Gnadenstrom, überflute dies Land mit Liebe,
+sende dein Wort, Herr, dein Licht strahle auf!</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Herr, voll Ehrfurcht komm’ ich zu deinem Thron,
+aus dem Dunkel ins Licht des Gottessohns.
+Durch dein Blut kann ich nun vor dir stehen.
+Prüf’ mich, Herr, lass mein Dunkel vergehen,
+sei mein Licht, sei mein Licht!</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Schaun wir, König, zu deinem Glanze auf,
+dann strahlt dein Bild auf unserm Antlitz auf,
+du hast Gnade um Gnade gegeben,
+dich widerspiegelnd erzähl’ unser Leben
+von deinem Licht, von deinem Licht!</lines>
+    </verse>
+  </lyrics>
+</song>

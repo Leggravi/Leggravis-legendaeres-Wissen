@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All is Well</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All is well, all is well
+We have heard the Message Shalom
+And all is well
+There is a place of perfect rest
+Behind the inner veil
+So rest, little Bride, rest for all is well</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's a story in the Bible of Elijah
+The Shunamite woman and her son
+The woman found favor with God
+and He gave her a son
+while working in the field,
+the little boy died
+But the woman's faith never failed
+Even in death she testified
+that all is well.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now things have not worked out
+The way God's people thought
+For we're still here fighting
+The greatest battle ever fought!
+We must have the faith of Abraham,
+Knowing God's Word never fails
+If you'll trust in Him
+you'll find that all is well.</lines>
+    </verse>
+  </lyrics>
+</song>

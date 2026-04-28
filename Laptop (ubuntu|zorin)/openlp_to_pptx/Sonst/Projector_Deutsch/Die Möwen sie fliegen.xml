@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Die Möwen, sie fliegen</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Die Möwen sie fliegen und treiben im Wind,
+als ob sie nicht wüßten wo sie zu Hause sind,
+sie fliegen und treiben über Wasser und Sand.
+so teiben auch Menschen ziellos dahin und
+suchen verlgeblich nach einem Sinn.
+Das Ziel Ihres Lebens bleibt ihnen unbekannt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Doch Gott hält für uns eine Wohnung bereit.
+Er gibt uns ein Zuhause, schon in dieser Zeit,
+denn er ist die Antwort die heute noch gilt,
+dort wird unsre Sehnsucht gestillt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In Städten und Dörfern stehn Menschen gedrängt
+und werden von Ängsten und Sorgen gelenkt,
+sie suchen nach Leben, nach Zukunft und Glück.
+Sie wollen nicht länger einsam mehr sein.
+Sie hungern nach Liebe und bleiben allein.
+Entäuscht und zerschlagen ziehen sie sich dann zurück.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wo kommen wir her und wo gehen wir hin?
+Wie sollen wir leben? Wer zeigt uns den Sinn?
+Wer hat eine Antwort auf die Fragen der Zeit?
+Die Zukunft ist dunkel und lässt uns nicht los.
+Wohin treibt die Erde? Die Sorgen sind groß.
+Wir suchen den Ausweg, doch der Weg ist so weit.</lines>
+    </verse>
+  </lyrics>
+</song>

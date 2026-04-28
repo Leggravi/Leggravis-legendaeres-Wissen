@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Never a Man Spake Like That</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus went to the temple
+When He was only twelve
+His words startled the elders
+As His wisdom they beheld;
+And the multitude that followed
+To hear the man from Galilee
+Never a man spake like this man
+When He said ‘Come follow me”.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Never a man spake like this man
+The glorious King of Kings
+He spake to my troubled soul
+And now my heart sings
+He has promised in His Holy Word
+Some day His face I’ll see
+Never a man spake like this man
+When He said come follow me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He calmed the troubled waters
+With a few words from His lips
+The lame walked, the dumb talked
+When He said to them be healed:
+And Lazarus came forth from
+the grave
+When he heard the Master speak
+Never a man spake like this man
+When He said ‘come follow me.</lines>
+    </verse>
+  </lyrics>
+</song>

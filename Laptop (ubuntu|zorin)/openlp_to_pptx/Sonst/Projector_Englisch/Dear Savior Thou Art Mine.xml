@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dear Savior Thou Art Mine</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dear Savior, Thou art mine,
+How sweet the thought to me;
+Let me repeat Thy name,
+And lift my heart to Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mine! Mine! Mine!
+I know Thou art mine;
+Savior, dear Savior,
+I know Thou art mine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou art the sinner’s friend,
+So I Thy friendship claim,
+A sinner saved by grace,
+When Thy sweet message came.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My hardened heart was touched;
+Thy pard’ning voice I heard;
+And joy and peace came in
+While list’ning to Thy word.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So let me sing Thy praise,
+So let me call Thee mine.
+I cannot doubt Thy word,
+I know that I am Thine.</lines>
+    </verse>
+  </lyrics>
+</song>

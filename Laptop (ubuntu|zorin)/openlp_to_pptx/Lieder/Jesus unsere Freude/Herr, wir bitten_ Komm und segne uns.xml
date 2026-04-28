@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:26">
+  <properties>
+    <titles>
+      <title>Herr, wir bitten: Komm und segne uns</title>
+    </titles>
+    <authors>
+      <author type="words">Peter Strauch (1977)</author>
+      <author type="music">Peter Strauch</author>
+    </authors>
+    <ccliNo>4339212</ccliNo>
+    <themes>
+      <theme>Gebet</theme>
+      <theme>Segen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In die Nacht der Welt hast du uns gestellt,
+deine Freude zu verbreiten.
+In der Traurigkeit,
+mitten in dem Leid,
+lass uns deine Boten sein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In die Schuld der Welt hast du uns gestellt,
+um vergebend zu ertragen,
+dass man uns verlacht,
+uns zu Feinden macht,
+dich und deine Kraft verneint.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In den Streit der Welt hast du uns gestellt,
+deinen Frieden zu verkünden,
+der nur dort beginnt,
+wo man wie ein Kind,
+deinem Wort Vertrauen schenkt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In das Leid der Welt hast du uns gestellt,
+deine Liebe zu bezeugen.
+Lass uns Gutes tun
+und nicht eher ruhn,
+bis wir dich im Lichte sehn.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nach der Not der Welt, die uns heute quält,
+willst du deine Erde gründen,
+wo Gerechtigkeit
+und nicht mehr das Leid
+deine Jünger prägen wird.</lines>
+    </verse>
+  </lyrics>
+</song>

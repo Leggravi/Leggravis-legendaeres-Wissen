@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Launch Out</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The mercy of God is an ocean divine,
+A boundless and fathomless flood;
+Launch out in the deep, cut away
+  the shoreline,
+And be lost in the fullness of God,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Launch out into the deep,
+Oh, let the shoreline go,
+Launch out, launch out in the
+  ocean divine,
+Out where the full tides flow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>But many, alas! only stand
+ on the shore
+And gaze on the ocean so wide;
+They never have ventured its
+ depths to explore,
+Or to launch on the fathomless tide.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And others just venture away
+ from the land,
+And linger so near to the shore,
+That the surf and the slime
+  that beat over the strand,
+Dash o'er them in floods evermore.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, let us launch out on this
+  ocean so broad,
+Where the floods of salvation e'er flow;
+Oh, let us be lost in the mercy of God,
+Till the depths of His fullness we know.</lines>
+    </verse>
+  </lyrics>
+</song>

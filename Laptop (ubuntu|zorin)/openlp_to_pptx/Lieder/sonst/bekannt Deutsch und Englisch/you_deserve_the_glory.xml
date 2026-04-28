@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 2, 2018, 7:02:34 PM">
+  <properties>
+    <titles>
+      <title>You deserve the glory</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>You deserve the glory
+And the honour
+Lord we lift our hands in worship
+As we lift your holy name</lines>
+    </verse>
+    <verse name="V2">
+      <lines>For you are great, You do miracles so great
+There is no one else like you, there is no one else like You</lines>
+    </verse>
+  </lyrics>
+</song>

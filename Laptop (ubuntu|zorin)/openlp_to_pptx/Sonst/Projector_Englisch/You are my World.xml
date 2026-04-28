@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You are my World</title>
+    </titles>
+    <authors>
+      <author type="words">Marty Sampson</author>
+      <author type="music">Marty Sampson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v3 v2 v3 v3 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My Father I adore You more
+Than anything my heart could wish for
+I just want You
+And Jesus my beloved savior
+Everything I am I owe to You
+I owe it all to You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And angels come and adore You
+And we your children worship You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are my world
+You are my God
+And I lay down my life for You
+You are my Lord
+The one I love
+No one could ever take Your place</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And everything I have I give to You
+My Lord, the One I live for
+I live for You
+And all my days are gifts from You
+I pray I'd use them as You want me to
+Use them for You</lines>
+    </verse>
+  </lyrics>
+</song>

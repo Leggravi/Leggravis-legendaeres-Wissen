@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>As It Was So Shall It Be</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It’s been said we’re living in a
+modern Sodom
+Just like what the Bible says it would be
+Things back as it started in the Bible</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As it was, so shall it be.
+As It was, so shall it be
+The wickedness of men has
+got to reign
+So we know that something
+Is about to happen
+As it was, so shall it be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In Malachi 4
+God gave us the promise,
+And He came and fulfilled
+it in this time,
+In the midst of a Christ rejecting nation
+God called His bride,
+so shall it be.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In Noah’s day just before
+the floods came,
+The morals of men had become
+so bad we know,
+Look around today in this land
+we’re living,
+As it was, so shall it be.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>INTO THY PRESENCE WE COME</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Into Thy presence we come.
+Not by the works we have done,
+But by Thy grace and Thy grace alone,
+Into Thy presence we come.</lines>
+    </verse>
+  </lyrics>
+</song>

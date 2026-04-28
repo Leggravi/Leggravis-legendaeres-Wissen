@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In deiner Gegenwart</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Pepper</author>
+      <author type="music">Martin Pepper</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In deiner Gegenwart kommt mein Herz zur Ruhe 
+In deiner Gegenwart erfahr ich neuen Sinn.
+In deiner Gegenwart zählt nicht mehr, was ich tue,
+in deiner Gegenwart zählt nur noch, was ich bin</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(R): Ich bin Dein, Du bist mein, ich in Dir, Du in mir- 
+und Du sprichst zu mir die Worte, die so gut tun:
+willkommen im Land der Ruhe, im Land der Ruhe; 
+willkommen im Land der Ruhe, im Land der Ruhe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In Deiner Gegenwart entspannt sich meine Seele.
+In Deiner Gegenwart vergesse ich die Zeit.
+In Deiner Gegenwart verblassen meine Sorgen.
+In Deiner Gegenwart beginnt die Ewigkeit. ®</lines>
+    </verse>
+  </lyrics>
+</song>

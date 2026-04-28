@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:26">
+  <properties>
+    <titles>
+      <title>Ja, ich glaub, Gott hört Gebet</title>
+    </titles>
+    <authors>
+      <author type="words">Dudley Kidd</author>
+      <author type="music">Harold Green</author>
+    </authors>
+    <ccliNo>5527700</ccliNo>
+    <themes>
+      <theme>Gebet</theme>
+      <theme>Vertrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ja, ich glaub, Gott hört Gebet,
+ja, ich weiß, Gott hört Gebet,
+ganz gewiss, Gott hört Gebet!
+Ehre sei dem Herrn!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja, ich glaub, sein Wort ist wahr,
+ja, ich weiß, sein Wort ist wahr,
+ganz gewiss, sein Wort ist wahr!
+Ehre sei dem Herrn!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja, ich glaub, Gott hält sein Wort,
+ja, ich weiß, Gott hält sein Wort,
+ganz gewiss, Gott hält sein Wort!
+Ehre sei dem Herrn!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ja, ich glaub, der Herr kommt bald,
+ja, ich weiß, der Herr kommt bald,
+ganz gewiss, der Herr kommt bald!
+Ehre sei dem Herrn!</lines>
+    </verse>
+  </lyrics>
+</song>

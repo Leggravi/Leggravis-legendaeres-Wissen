@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Christ Is My Sunshine</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I was down and needed
+Someone
+Someone to keep me every day
+It was then and then that I found
+my Jesus
+I am so glad that He came my way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Christ Is my sunshine,
+my only sunshine,
+He makes me happy,
+when the skies are grey
+He changed my life and my ways
+completely,
+So, please don’t take my sunshine
+away.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I’m happy now with Jesus near me,
+A friend is He, a friend indeed,
+The worldly friends may
+all forsake me,
+My Jesus will be all I’ll need.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I’ll always love Him and
+sing His praises,
+He’ll be with me throughout
+the day,
+At night He’ll guide me I
+won’t be lonely
+Please don’t take my sunshine
+away.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>People of the Lord There Is One Body</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is one body
+We have one Lord
+United in the spirit
+We are going forth</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With His praises on our lips
+And a sword in our hands
+We are marching on with power
+As we possess this land</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We are the people of the Lord
+We're a holy nation
+A chosen generation
+Called to show forth His praise</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We are the people of the Lord
+We're a holy nation
+Believers in Jesus
+Lifting up our voices to the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

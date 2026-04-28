@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wenn der Herr vom Himmel</title>
+    </titles>
+    <authors>
+      <author type="words">Manfred Paul</author>
+      <author type="music">John Willard Peterson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wenn der Herr vom Himmel wird erscheinen und die
+Zeit vorbei wird sein, werden wir uns vor den Thron
+Vereinen und ihn ehren ihn allein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich möchte dort sein, wenn wir vor dem König stehen!
+Ich möchte dort sein, wenn wir ihn verherrlicht sehen!
+Niemals wird das Lob der seinen dort ergehen!
+Ich möchte dort sein, wenn wir vor dem König stehen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Schweigen wird das ganze Universum, staunend schaun
+zum Gottesthron, wo sich Millionen niederbeugen,
+beten an den Gottessohn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Doch nur wem die Schuld ist hier vergeben, wer ihn hier
+als Heiland nennt, der wird mit uns vor dem Throne stehen,
+wer sich zu dem Herrn bekennt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Niemals wird das Lob der seinen dort ergehen!
+Ich möchte dort sein, wenn wir vor dem König stehen!</lines>
+    </verse>
+  </lyrics>
+</song>

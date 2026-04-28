@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 30, 2020, 4:42:49 PM">
+  <properties>
+    <titles>
+      <title>Look For Me</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>When you finally make your entrance to the City,
+Of jasper walls and bright golden avenues;
+When you behold all its beauty and its splendor,
+Remember there's just one request I make of you.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Look for me, for I will be there, too,
+(I'd like to hear it, too)
+I realize when you arrive there'll be so much to view;
+After you've been there ten thousand years
+A million, maybe two,
+Look for me, for I will be there, too.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>As you go down your list of firsts, there's no question,
+You want to see your loved ones waiting there for you;
+And when you feel you've shared your story with the last one,
+Who wants to hear you tell just how you made it through.</lines>
+    </verse>
+  </lyrics>
+</song>

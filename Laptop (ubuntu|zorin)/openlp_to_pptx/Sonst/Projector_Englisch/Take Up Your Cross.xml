@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Take Up Your Cross</title>
+    </titles>
+    <authors>
+      <author type="words">Charles William Everest</author>
+      <author type="music">Felix Mendelssohn Bartholdy</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Take up your cross
+ and follow Jesus
+Take up your cross everyday
+Don't be ashamed to say
+ that you love Him
+Count the cost, take up your cross
+ and follow Him.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Love to be in your Presence Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I love to be in Your presence Lord
+I love to be with You
+For when I touch Your glory
+Your Spirit restores me
+How I love to be with You
+Lord I love to be with You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All my fears disappear
+Whenever I'm with You
+Every care becomes a prayer
+That I can leave with You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I exchange all my pain
+And You give me perfect peace
+Your steadfast love is like a flood
+That washes over me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For when I touch Your glory
+Your Spirit restores me
+Lord I love to be with You
+Lord I love to be with You</lines>
+    </verse>
+  </lyrics>
+</song>

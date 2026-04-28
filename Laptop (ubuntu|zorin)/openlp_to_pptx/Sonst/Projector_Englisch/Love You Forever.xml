@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Love You Forever</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You came like the wind
+Took me to a mountain
+From a valley of sin
+And my soul patiently waits
+For I long to be near you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, Savior
+You changed the rhythm of my heart
+And I will praise You
+Long after the rivers all run dry
+And I will love You forever</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Long after the rivers all run dry
+Long after the rivers all run dry
+And I will love You forever</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Love You forever
+Love You forever
+Love You forever
+Love You forever</lines>
+    </verse>
+  </lyrics>
+</song>

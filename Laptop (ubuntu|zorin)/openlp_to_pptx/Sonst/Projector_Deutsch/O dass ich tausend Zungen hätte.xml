@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O dass ich tausend Zungen hätte</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Metzner</author>
+      <author type="music">Johann Balthasar König</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O dass ich tausend Zungen hätte
+und einen tausendfachen Mund,
+so stimmt ich damit um die Wette
+vom allertiefsten Herzensgrund
+ein Loblied nach dem andern an
+von dem, was Gott an mir getan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mein treu'ster Jesus, sei gepriesen,
+dass Dein erbarmungsvolles Herz
+sich mir so hilfreich hat erwiesen
+und mich durch Blut und Todesschmerz
+von Satans Sklaverei befreit
+und Dir zum Eigentum geweiht!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich will von deiner Güte singen,
+solange sich die Zunge regt;
+ich will dir Freudenopfer bringen,
+solange sich mein Herz bewegt;
+ja wenn der Mund wird kraftlos sein,
+so stimm ich doch mit Seufzen ein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ach nimm das arme Lob auf Erden,
+mein Gott, in allen Gnaden hin.
+Im Himmel soll es besser werden,
+wenn ich bei deinen Engeln bin.
+Da sing ich dir im höhern Chor
+viel tausend Halleluja vor.</lines>
+    </verse>
+  </lyrics>
+</song>

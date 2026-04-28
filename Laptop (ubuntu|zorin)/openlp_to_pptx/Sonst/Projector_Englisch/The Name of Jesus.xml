@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Name of Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Carson</author>
+      <author type="music">Daniel Carson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How majestic is your name
+In all the earth,
+Your name is strong and mighty,
+Your name is glorious and great,
+In him we are saved.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The name of Jesus higher than other names
+King of all kings,
+No other name like his
+The name of Jesus
+Higher than other names,
+Alpha and omega,
+No other name like his.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your name like sweet perfume
+Poured upon my soul, ohooho,
+In your name we overcome,
+In his name there is victory,
+His name is powerful.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Every other god they are deader than dead
+Jesus died and rose again,
+We lift him higher
+In your name every knee shall bow
+In your name all men are saved
+We call upon the name.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Call his name (Jesus) 8x</lines>
+    </verse>
+  </lyrics>
+</song>

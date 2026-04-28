@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, zu dir kann ich so kommen, wie ich bin</title>
+    </titles>
+    <authors>
+      <author type="words">Manfred Siebald</author>
+      <author type="music">Johannes Nitsch</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, zu dir kann ich so kommen, wie ich bin.
+Du hast gesagt, dass jeder kommen darf.
+Ich muss dir nicht erst beweisen, dass ich besser werden kann.
+Was mich besser macht vor dir, das hast du längst am Kreuz getan.
+Und weil du mein Zögern siehst, streckst du mir deine Hände hin,
+und ich kann so zu dir kommen, wie ich bin.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, bei dir darf ich mich geben, wie ich bin.
+Ich muss nicht mehr als ehrlich sein vor dir.
+Ich muss nichts vor dir verbergen, der mich schon so lange kennt.
+Du siehst, was mich zu dir zieht, und auch, was mich von dir noch trennt.
+Und so leg ich Licht und Schatten meines Lebens vor dich hin,
+denn bei dir darf ich mich geben, wie ich bin.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, bei dir muss ich nicht bleiben, wie ich bin.
+Nimm fort, was mich und andere zerstört.
+Einen Menschen willst du aus mir machen,
+wie er dir gefällt, der ein Brief von deiner Hand ist, voller Liebe für die Welt.
+Du hast schon seit langer Zeit mit mir das Beste nur im Sinn.
+Darum muss ich nicht so bleiben, wie ich bin.</lines>
+    </verse>
+  </lyrics>
+</song>

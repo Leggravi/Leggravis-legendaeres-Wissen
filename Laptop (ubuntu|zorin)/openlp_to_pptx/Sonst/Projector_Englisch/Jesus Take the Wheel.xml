@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Take the Wheel</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>She was driving last Friday on her way to Cincinnati on a snow white Christmas Eve
+Going home to see her mama and her daddy with the baby in the backseat
+Fifty miles to go, and she was running low on faith and gasoline
+It'd been a long hard year
+She had a lot on her mind, and she didn't pay attention
+She was going way too fast
+Before she knew it she was spinning on a thin black sheet of glass
+She saw both their lives flash before her eyes
+She didn't even have time to cry
+She was so scared
+She threw her hands up in the air</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, take the wheel
+Take it from my hands
+'Cause I can't do this on my own
+I'm letting go
+So give me one more chance
+And save me from this road I'm on
+Jesus, take the wheel</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It was still getting colder when she made it to the shoulder
+And the car came to a stop
+She cried when she saw that baby in the backseat sleeping like a rock
+And for the first time in a long time
+She bowed her head to pray
+She said, &quot;I'm sorry for the way
+I've been living my life
+I know I've got to change
+So from now on tonight</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, take the wheel
+Take it from my hands
+'Cause I can't do this on my own
+I'm letting go
+So give me one more chance
+And save me from this road I'm on.
+Oh, Jesus, take the wheel</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, I'm letting go
+So give me one more chance
+Save me from this road I'm on
+From this road I'm on
+Jesus, take the wheel
+Oh, take it, take it from me
+Oh, why, oh</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:09">
+  <properties>
+    <titles>
+      <title>Gott ist die Liebe</title>
+    </titles>
+    <authors>
+      <author type="words">August Dietrich Rische (1852)</author>
+      <author type="music">Thüringen</author>
+    </authors>
+    <ccliNo>4828833</ccliNo>
+    <themes>
+      <theme>Kinderlieder</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott ist die Liebe, lässt mich erlösen,
+Gott ist die Liebe, Er liebt auch mich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich lag in Banden der bösen Sünde,
+ich lag in Banden und konnt nicht los.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich lag im Tode, des Teufels Schrecken,
+ich lag im Tode, der Sünde Sold.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Er sandte Jesus, den treuen Heiland,
+Er sandte Jesus und macht mich los.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus, mein Heiland, gab sich zum Opfer,
+Jesus, mein Heiland, büßt meine Schuld.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Du heilst, o Liebe, all meinen Jammer,
+Du stillst, o Liebe, mein tiefstes Weh.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Du füllst mit Freuden die matte Seele,
+Du füllst mit Frieden mein armes Herz.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Du lässt mich erben die ewge Freude,
+Du lässt mich erben die ewge Ruh.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Dich will ich preisen, Du ewge Liebe,
+Dich will ich loben, solang ich bin.</lines>
+    </verse>
+  </lyrics>
+</song>

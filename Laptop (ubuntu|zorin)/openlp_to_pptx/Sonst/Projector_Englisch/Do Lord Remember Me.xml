@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Do Lord Remember Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've got a home in glory land, that outshines the sun
+I've got a home in glory land, that outshines the sun
+I've got a home in glory land, that outshines the sun
+Look away beyond the blue.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Do Lord, oh, do Lord, oh, do remember me,
+Do Lord, oh, do Lord, oh, do remember me,
+Do Lord, oh, do Lord, oh, do remember me,
+Look away beyond the blue.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I took Jesus as my Savior, you take Him too,
+I took Jesus as my Savior, you take Him too,
+I took Jesus as my Savior, you take Him too,
+Look away beyond the blue.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I read about it in the book of revelation, you read it, too
+I read about it in the book of revelation, you read it, too
+I read about it in the book of revelation, you read it, too
+Look away beyond the blue.</lines>
+    </verse>
+  </lyrics>
+</song>

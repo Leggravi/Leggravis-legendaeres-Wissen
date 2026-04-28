@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hallelujah We Shall Rise</title>
+    </titles>
+    <authors>
+      <author type="words">John Edmond Thomas</author>
+      <author type="music">John Edmond Thomas</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the resurrection morning,
+When the trump of God shall sound,
+We shall rise, (Hallelujah!) we shall rise!
+Then the saints will come rejoicing
+And no tears will e’er be found,
+We shall rise, (Hallelujah!) we shall rise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We shall rise, (Hallelujah!)
+We shall rise! (Amen!)
+We shall rise! (Hallelujah!)
+In the resurrection morning,
+When death’s prison bars are broken,
+We shall rise, (Hallelujah!) we shall rise.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the resurrection morning,
+What a meeting it will be,
+We shall rise, (Hallelujah!) we shall rise!
+When our fathers and our mothers,
+And our loved ones we shall see,
+We shall rise, (Hallelujah!) we shall rise.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In the resurrection morning,
+Blessed thought it is to me,
+We shall rise, (Hallelujah!) we shall rise!
+I shall see my blessed Saviour,
+Who so freely died for me,
+We shall rise, (Hallelujah!) we shall rise.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In the resurrection morning,
+We shall meet Him in the air,
+We shall rise, (Hallelujah!) we shall rise!
+And be carried up to glory,
+To our home so bright and fair,
+We shall rise, (Hallelujah!) we shall rise.</lines>
+    </verse>
+  </lyrics>
+</song>

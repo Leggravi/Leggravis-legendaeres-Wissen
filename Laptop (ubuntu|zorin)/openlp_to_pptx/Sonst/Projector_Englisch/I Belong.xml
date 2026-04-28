@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Belong</title>
+    </titles>
+    <authors>
+      <author type="words">Mike Demus</author>
+      <author type="music">Mike Demus</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Not angels nor demons
+No power on earth or Heaven
+Not distance nor danger
+No trouble now or ever</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nothing can take me from Your great love
+Forever this truth remains</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I belong, I belong to You
+I belong, I belong to You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Not hardship nor hunger
+No pain or depth of sorrow
+Not weakness nor failure
+No broken dream or promise</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I belong, I belong to You
+I belong, I belong to You
+I belong, I belong to You
+I belong, I belong to You
+Forever and forever,
+I belong Forever</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nothing can take me from Your great love
+Forever this truth remains
+Nothing can take me from Your great love
+Forever this truth remains</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I belong, I belong to You
+I belong, I belong to You
+I belong, I belong to You
+I belong, I belong to You</lines>
+    </verse>
+  </lyrics>
+</song>

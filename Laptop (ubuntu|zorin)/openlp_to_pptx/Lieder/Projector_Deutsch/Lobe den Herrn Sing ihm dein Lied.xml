@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lobe den Herrn! Sing ihm dein Lied!</title>
+    </titles>
+    <authors>
+      <author type="words">Werner Arthur Hoffmann</author>
+      <author type="music">Werner Arthur Hoffmann</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lobe den Herrn! Sing ihm dein Lied!
+Vergiss es nicht, er hat dir viel Gutes getan.
+Lobe den Herrn! Sing ihm dein Lied!
+Er ist der König, bete ihn an.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Der dir deine Sünde vergibt
+und heilt alle deine Gebrechen.
+Der dich vom Verderben erlöst,
+dich krönt mit Barmherzigkeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Der dich fröhlich singen lässt;
+du wirst wieder jung wie ein Adler.
+Er zeigt dir den richtigen Weg
+und schafft dir Gerechtigkeit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So hoch, wie der Himmel sich hebt,
+lässt er seine Gnade erstrahlen.
+Barmherzig und gnädig ist er
+und ist wie ein Vater zu dir.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Er ist der König, bete ihn an.
+Er ist der König, bete ihn an.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Where the Soul Never Dies</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To Canaan’s land, I’m on my way
+Where the soul never dies
+My darkest night will turn to day,
+Where the soul (of man) never
+dies.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No sad farewells (dear friends,
+there’ll be no sad farewells)
+No tear dimmed eyes
+(there’ll be no dimmed eyes)
+Where all Is love (where all Is
+peace, and joy and love)
+And the soul never dies
+(and the soul never dies)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A rose is blooming there for me
+Where the soul (of man)
+never dies
+And I will spend eternity
+Where the soul (of man)
+never dies.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A love-light beams across
+the foam
+Where the soul (of man)
+never dies
+It shines to light the shores
+of home
+Where the soul (of man)
+never dies.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My life will end in deathless
+sleep
+Where the soul (of man)
+never dies
+And everlasting joys I’ll reap
+Where the soul (of man)
+never dies.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I’m on my way to that fair land
+Where the soul (of man)
+never dies
+Where there will be no parting hand
+And the soul (of man)
+never dies.</lines>
+    </verse>
+  </lyrics>
+</song>

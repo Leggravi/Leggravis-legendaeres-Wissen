@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Help Me Win the Lost</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I look into the faces of people everywhere,
+Help me see lost souls in danger and headed to despair.
+Help me see the flame approaching around their fleeting days.
+Those who die without the Savior are lost to hell-fire's blaze.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Help me win the lost and see them in their need.
+Help me win the lost, salvation's cause to plead.
+Help me win the lost. O Spirit, please empower!
+Help me win the lost. O, use me now this hour.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As I gaze into the future and see the lost man's doom,
+Help me always to remember there is an empty tomb.
+Jesus died for every sinner; He won the victory.
+Jesus lives! He is the Savior! Salvation's offered free!</lines>
+    </verse>
+  </lyrics>
+</song>

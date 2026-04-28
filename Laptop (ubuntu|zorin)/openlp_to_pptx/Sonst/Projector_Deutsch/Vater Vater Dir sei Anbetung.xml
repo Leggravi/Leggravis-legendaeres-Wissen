@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Vater, Vater, Dir sei Anbetung</title>
+    </titles>
+    <authors>
+      <author type="words">Horst Wallis</author>
+      <author type="music">Horst Wallis</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vater, Vater, Dir sei Anbetung,
+Vater, Dir allein.
+Vater, Vater, Dir sei Anbetung,
+Vater, dir allein.
+Und der Himmel und die Erde
+sie rufen dir zu:
+Heilig, heilig, bist nur Du.
+Und der Himmel und die Erde
+sie rufen dir zu:
+Heilig, heilig, bist nur Du.</lines>
+    </verse>
+  </lyrics>
+</song>

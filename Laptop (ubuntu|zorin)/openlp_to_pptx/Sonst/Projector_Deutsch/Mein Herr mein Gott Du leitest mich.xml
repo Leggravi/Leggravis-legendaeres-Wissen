@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mein Herr, mein Gott, Du leitest mich</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mein Herr, mein Gott, Du leitest mich
+auf diesem schmalen Pfade
+Wohin ich gehe, find' ich Dich
+und Deine reiche Gnade.
+Vermehr, was Du gewirkt in mir,
+lass mich nur wandeln stets mit Dir,
+mein Hort, mein Heil, mein Leben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du weißt es ja, wie schwach ich bin,
+und Du verstehst mein Flehen.
+Du stärkest mich, Dein treuer Sinn
+lässt nie mich hilflos stehen.
+Ja, immer wieder sehe ich,
+wie sehr, o Gott, Du liebest mich,
+mein Schutz, mein Trost, mein Leben.</lines>
+    </verse>
+  </lyrics>
+</song>

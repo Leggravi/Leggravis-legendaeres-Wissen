@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Worth the Waith</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can see your heart is yearning
+Everything is so unclear
+Is the answer ever coming
+After all these years?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's not an easy feeling
+Sometimes it seems unfair
+But He knows just what He's doing
+With unanswered prayers
+So hold on</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It's worth the wait
+Just keep believing
+God has perfect timing
+Never early, never late
+It takes a little patience
+And it takes a lot of faith
+But it's worth the wait</lines>
+    </verse>
+    <verse name="v4">
+      <lines>What if what you're desperate for
+Isn't what you really need?
+What if there was something more
+Than what you dreamed?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We may not always see
+We may not understand
+But He knows just what He's doing
+He's got a bigger plan
+So hold on</lines>
+    </verse>
+    <verse name="v6">
+      <lines>It's worth the wait
+Just keep believing
+God has perfect timing
+Never early, never late
+It takes a little patience
+And it takes a lot of faith
+But it's worth the wait
+It's worth the wait</lines>
+    </verse>
+    <verse name="v7">
+      <lines>In His time, you'll be fine
+All this waiting now, is by design</lines>
+    </verse>
+    <verse name="v8">
+      <lines>It's worth the wait
+Keep believing
+God has perfect timing
+Never early, never late
+It takes a little patience
+And it takes a lot of faith
+But it's worth the wait
+It's worth the wait
+In His time, you'll be fine
+All this waiting now, is by design</lines>
+    </verse>
+  </lyrics>
+</song>

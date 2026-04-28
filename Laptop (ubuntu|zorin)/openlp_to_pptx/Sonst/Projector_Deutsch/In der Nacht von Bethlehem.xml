@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In der Nacht von Bethlehem</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In der Nacht von Bethlehem,
+da ist ein Kind geboren,
+Gottes Liebe kam zu uns,
+wir sind nicht mehr verloren:
+Jesus, Heiland der Welt!
+Jesus, Heiland der Welt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Endlich ist die Dunkelheit bezwungen.
+Gottes Licht ist zu uns durchgedrungen.
+Endlich ist die Nacht vorbei und endlich werden Menschen frei; das Ende wird zum Anfang:
+Gott ist da!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Weinende, die sollen nicht mehr weinen.
+Mutlosen soll neue Hoffnung scheinen.
+Einsame sind nicht allein, denn Gott will auch bei ihnen sein, das Leben ist erschienen:
+Gott ist da!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wer du bist, Gott will auch dir begegnen.
+Er will jetzt dein ganzes Leben segnen.
+Lass ihn in dein Leben ein, denn du sollst seine Wohnung sein, sein Licht wird dich erfüllen:
+Gott ist da.</lines>
+    </verse>
+  </lyrics>
+</song>

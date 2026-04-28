@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>And I Know</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come ye sinners lost and weary
+Jesus' blood can make you free
+For He saved the worst among you
+When He saved a wretch like me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(And I know,
+Yes I know,
+Jesus' blood can make the vilest sinner clean.) X2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To the faint He giveth power
+Through the mountain makes a way
+Findeth water in the desert
+Turns the night to golden day</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In temptation He is near thee
+Holds the powers of hell at bay
+Guides you to the path of safety
+Gives you grace for every day</lines>
+    </verse>
+  </lyrics>
+</song>

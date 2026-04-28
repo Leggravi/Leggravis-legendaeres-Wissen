@@ -1,0 +1,245 @@
+#!/bin/bash
+# DJI-aware ProRes Converter
+# Unterstuetzt LRF/MP4-Paare (Aufloesung entscheidet), MP4+AAC (Slowmo) und normale MP4/MOV
+shopt -s nullglob nocaseglob
+
+# ─── Hilfsfunktionen ─────────────────────────────────────────────────────────
+
+# Sucht eine Datei mit gegebenem Basisnamen und Erweiterung (case-insensitiv)
+find_sibling() {
+    local base="$1" ext_lower="$2"
+    local ext_upper="${ext_lower^^}"
+    for ext in "$ext_lower" "$ext_upper"; do
+        [[ -f "${base}.${ext}" ]] && echo "${base}.${ext}" && return 0
+    done
+    return 1
+}
+
+# Gibt Breite x Hoehe (Pixelanzahl) einer Videodatei zurueck
+get_pixels() {
+    local file="$1"
+    local w h
+    w=$(ffprobe -v 0 -select_streams v:0 \
+        -show_entries stream=width -of csv=p=0 "$file" 2>/dev/null)
+    h=$(ffprobe -v 0 -select_streams v:0 \
+        -show_entries stream=height -of csv=p=0 "$file" 2>/dev/null)
+    echo $(( ${w:-0} * ${h:-0} ))
+}
+
+# Gibt die Datei mit der hoeheren Aufloesung zurueck (bei Gleichstand: Datei A)
+pick_higher_res() {
+    local file_a="$1" file_b="$2"
+    local px_a px_b
+    px_a=$(get_pixels "$file_a")
+    px_b=$(get_pixels "$file_b")
+    if (( px_b > px_a )); then
+        echo "$file_b"
+    else
+        echo "$file_a"
+    fi
+}
+
+# Konvertiert eine Videodatei nach ProRes
+# do_convert INPUT OUTPUT [EXTERNAL_AUDIO]
+do_convert() {
+    local INPUT="$1" OUTPUT="$2" AUDIO_INPUT="$3"
+    local VF_OPTS
+
+    if [[ "$OUTPUT_MODE" == "Originale Framerate & Aufloesung beibehalten" ]]; then
+        local RAW_FPS FPS
+        RAW_FPS=$(ffprobe -v 0 -select_streams v:0 \
+            -show_entries stream=avg_frame_rate \
+            -of csv=p=0 "$INPUT")
+        FPS=$(bc -l <<< "$RAW_FPS + 0.5")
+        FPS=${FPS%.*}
+        VF_OPTS="fps=fps=$FPS"
+    else
+        VF_OPTS="scale=1920:1080,fps=24"
+    fi
+
+    if [[ -n "$AUDIO_INPUT" ]]; then
+        # Slowmo: Video aus Hauptdatei, Audio aus externer AAC-Datei
+        ffmpeg -i "$INPUT" -i "$AUDIO_INPUT" \
+            -map 0:v:0 -map 1:a:0 \
+            -vf "$VF_OPTS" \
+            -c:v prores -profile:v "$PROFILE_NUM" \
+            -c:a pcm_s16le \
+            -vsync cfr \
+            "$OUTPUT"
+    else
+        # Nur Video- und Audiospuren mappen – DJI-Metadaten/GPS-Streams weglassen
+        # "0:a?" in Anfuehrungszeichen: verhindert Bash-Glob-Expansion des '?'
+        ffmpeg -i "$INPUT" \
+            -map 0:v:0 -map "0:a?" \
+            -vf "$VF_OPTS" \
+            -c:v prores -profile:v "$PROFILE_NUM" \
+            -c:a pcm_s16le \
+            -vsync cfr \
+            "$OUTPUT"
+    fi
+}
+
+# ─── 1) Ordner waehlen ────────────────────────────────────────────────────────
+FOLDERS=$(zenity --file-selection \
+    --directory \
+    --multiple \
+    --separator="|" \
+    --title="Waehle einen oder mehrere Ordner mit Video-Dateien")
+if [[ -z "$FOLDERS" ]]; then
+    zenity --error --text="Keine Ordner ausgewaehlt!"
+    exit 1
+fi
+
+# ─── 2) Ausgabe-Option ────────────────────────────────────────────────────────
+OUTPUT_MODE=$(zenity --list \
+    --title="Ausgabe-Einstellungen" \
+    --column="Modus" \
+    "Originale Framerate & Aufloesung beibehalten" \
+    "Auf 1920x1080 @ 24fps normieren")
+if [[ -z "$OUTPUT_MODE" ]]; then
+    zenity --error --text="Keine Ausgabe-Einstellung ausgewaehlt!"
+    exit 1
+fi
+
+PROFILE_NUM=0
+COUNT=0
+IFS="|" read -r -a DIRS <<< "$FOLDERS"
+
+# ─── 3) Konvertierung ─────────────────────────────────────────────────────────
+for DIR in "${DIRS[@]}"; do
+
+    ORIG_DIR="$DIR/Original"
+    mkdir -p "$ORIG_DIR"
+
+    # ── A) LRF/MP4-Paare: hoehere Aufloesung gewinnt ─────────────────────────
+    # Iteriere ueber alle LRF-Dateien; vergleiche mit Geschwister-MP4 per ffprobe
+    for LRF_FILE in "$DIR"/*.lrf; do
+        [[ -f "$LRF_FILE" ]] || continue
+
+        BASE="${LRF_FILE%.*}"
+        OUTPUT="${BASE}_converted.mov"
+
+        if [[ -f "$OUTPUT" ]]; then
+            echo "-> uebersprungen (bereits vorhanden): ${OUTPUT##*/}"
+            continue
+        fi
+
+        SIBLING_MP4=$(find_sibling "$BASE" "mp4")
+
+        if [[ -n "$SIBLING_MP4" ]]; then
+            # Beide vorhanden -> Aufloesung vergleichen
+            SOURCE=$(pick_higher_res "$LRF_FILE" "$SIBLING_MP4")
+            if [[ "$SOURCE" == "$SIBLING_MP4" ]]; then
+                LOSER="$LRF_FILE"
+            else
+                LOSER="$SIBLING_MP4"
+            fi
+            px_src=$(get_pixels "$SOURCE")
+            px_los=$(get_pixels "$LOSER")
+            echo "▶ Konvertiere (hoehere Aufloesung ${px_src}px): ${SOURCE##*/}"
+            echo "   Verworfen (niedrigere Aufloesung ${px_los}px): ${LOSER##*/}"
+        else
+            # Kein MP4-Geschwister -> LRF direkt nehmen
+            SOURCE="$LRF_FILE"
+            LOSER=""
+            echo "▶ LRF konvertieren: ${LRF_FILE##*/}"
+        fi
+
+        do_convert "$SOURCE" "$OUTPUT"
+
+        if [[ $? -eq 0 ]]; then
+            ((COUNT++))
+            echo "✔ konvertiert: ${OUTPUT##*/}"
+            mv "$SOURCE" "$ORIG_DIR/"
+            echo "📦 Original archiviert: ${SOURCE##*/}"
+            if [[ -n "$LOSER" ]]; then
+                rm "$LOSER"
+                echo "🗑  Duplikat geloescht: ${LOSER##*/}"
+            fi
+        else
+            echo "✖ Fehler bei: ${SOURCE##*/}"
+        fi
+    done
+
+    # ── B) MP4-Dateien ohne LRF-Geschwister ───────────────────────────────────
+    for FILE in "$DIR"/*.mp4; do
+        [[ -f "$FILE" ]] || continue
+        [[ "$FILE" == *_converted.mov ]] && continue
+
+        BASE="${FILE%.*}"
+        OUTPUT="${BASE}_converted.mov"
+
+        if [[ -f "$OUTPUT" ]]; then
+            echo "-> uebersprungen (bereits vorhanden): ${OUTPUT##*/}"
+            continue
+        fi
+
+        # Wenn ein LRF-Geschwister existiert -> wurde in Block A behandelt
+        SIBLING_LRF=$(find_sibling "$BASE" "lrf")
+        if [[ -n "$SIBLING_LRF" ]]; then
+            echo "⏭  Uebersprungen (LRF-Geschwister vorhanden): ${FILE##*/}"
+            continue
+        fi
+
+        # Slowmo: begleitendes AAC suchen
+        SIBLING_AAC=$(find_sibling "$BASE" "aac")
+
+        if [[ -n "$SIBLING_AAC" ]]; then
+            echo "▶ Slowmo MP4 + AAC konvertieren: ${FILE##*/}"
+            do_convert "$FILE" "$OUTPUT" "$SIBLING_AAC"
+        else
+            echo "▶ MP4 konvertieren: ${FILE##*/}"
+            do_convert "$FILE" "$OUTPUT"
+        fi
+
+        if [[ $? -eq 0 ]]; then
+            ((COUNT++))
+            echo "✔ konvertiert: ${OUTPUT##*/}"
+            mv "$FILE" "$ORIG_DIR/"
+            echo "📦 Original archiviert: ${FILE##*/}"
+            if [[ -n "$SIBLING_AAC" ]]; then
+                mv "$SIBLING_AAC" "$ORIG_DIR/"
+                echo "📦 AAC archiviert: ${SIBLING_AAC##*/}"
+            fi
+        else
+            echo "✖ Fehler bei: ${FILE##*/}"
+        fi
+    done
+
+    # ── C) MOV-Dateien (z. B. Pocket 3, GoPro etc.) ───────────────────────────
+    for FILE in "$DIR"/*.mov; do
+        [[ -f "$FILE" ]] || continue
+        [[ "$FILE" == *_converted.mov ]] && continue
+
+        BASE="${FILE%.*}"
+        OUTPUT="${BASE}_converted.mov"
+
+        if [[ -f "$OUTPUT" ]]; then
+            echo "-> uebersprungen (bereits vorhanden): ${OUTPUT##*/}"
+            continue
+        fi
+
+        echo "▶ MOV konvertieren: ${FILE##*/}"
+        do_convert "$FILE" "$OUTPUT"
+
+        if [[ $? -eq 0 ]]; then
+            ((COUNT++))
+            echo "✔ konvertiert: ${OUTPUT##*/}"
+            mv "$FILE" "$ORIG_DIR/"
+            echo "📦 Original archiviert: ${FILE##*/}"
+        else
+            echo "✖ Fehler bei: ${FILE##*/}"
+        fi
+    done
+
+done
+
+# ─── 4) Abschluss ─────────────────────────────────────────────────────────────
+zenity --info --width=350 --text="\
+Fertig!
+
+Konvertiert:   $COUNT Datei(en)
+Originale:     -> Ordner 'Original/' pro Verzeichnis
+Duplikate:     geloescht (niedrigere Aufloesung bei LRF/MP4-Paaren)
+
+Bereits vorhandene _converted.mov wurden uebersprungen."

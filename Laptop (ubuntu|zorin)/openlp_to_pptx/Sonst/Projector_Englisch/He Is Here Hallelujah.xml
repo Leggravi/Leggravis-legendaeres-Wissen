@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Is Here Hallelujah</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He is here, hallelujah!
+He is here, Amen!
+He is here, Holy, Holy!
+I will bless His holy name;
+He is here, listen closely,
+Hear Him calling out your name,
+He is here, you can touch Him,
+You will never be the same.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the presence of Jehovah
+God Almighty, Prince of Peace
+Troubles vanish, hearts are mended
+In the presence of The King</lines>
+    </verse>
+  </lyrics>
+</song>

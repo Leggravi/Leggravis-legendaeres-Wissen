@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Try a Little Kindness</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If you see your brother
+standing by the road
+With a heavy load,
+from the seeds he’s sowed
+And if you see your
+sister fallen by the road
+Just stop and say you’re
+going the wrong way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You’ve, got to try a little kindness
+Show a little kindness
+Shine your light for everyone to see
+And If you try a little kindness
+Than you’ll overlook the blindness
+Of the narrow-minded people
+In their narrow-minded streets.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Don’t walk around the down and out
+Lend a helping hand instead of doubts
+And the little kindness that you
+show every day
+Will help someone along the way.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Still Speaks</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amidst the hustling clamoring world
+Sometimes it's hard to hear
+The voice of God speaking to my soul
+But in my quiet time alone
+When I approach His holy throne
+His tender words fall gently on my ear</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He still speaks. I know His voice
+Sweeter sound never heard by mortal ears.
+And to think that God by His own choice
+Would speak to me it makes me rejoice.
+He still speaks. I know his voice</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There are so many who still doubt
+ that God can speak today
+They laugh and mock
+When we say we've heard from God.
+Yet, that still small voice of God is heard
+Above the doubters of this world
+His timeless words ring out with hope today.</lines>
+    </verse>
+  </lyrics>
+</song>

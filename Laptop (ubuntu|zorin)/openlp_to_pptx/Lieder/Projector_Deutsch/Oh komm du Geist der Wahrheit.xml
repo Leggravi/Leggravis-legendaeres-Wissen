@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh komm, du Geist der Wahrheit</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O komm, du Geist der Wahrheit,
+und kehre bei uns ein,
+verbreite Licht und Klarheit,
+verbanne Trug und Schein.
+Gieß' aus dein heilig Feuer,
+rühr Herz und Lippen an,
+dass jeglicher getreuer
+den Herrn bekennen kann.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O du, den unser größter
+Regent uns zugesagt:
+komm zu uns, werter Tröster,
+und mach uns unverzagt.
+Gib uns in dieser schlaffen
+und glaubensarmen Zeit
+die scharf geschliffnen Waffen
+der ersten Christenheit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Es gilt ein frei Geständnis
+in dieser unsrer Zeit,
+ein offenes Bekenntnis
+bei allem Widerstreit,
+trotz aller Feinde Toben,
+trotz allem Heidentum
+zu preisen und zu loben
+das Evangelium.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du Heilger Geist, bereite
+ein Pfingstfest nah und fern;
+mit deiner Kraft begleite
+das Zeugnis von dem Herrn.
+O öffne du die Herzen
+der Welt und uns den Mund,
+dass wir in Freud und Schmerzen
+das Heil ihr machen kund.</lines>
+    </verse>
+  </lyrics>
+</song>

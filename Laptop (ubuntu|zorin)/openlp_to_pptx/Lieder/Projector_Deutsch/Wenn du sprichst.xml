@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wenn du sprichst</title>
+    </titles>
+    <authors>
+      <author type="words">Timon Abt</author>
+      <author type="music">Johannes Bader</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Als du sprachst „Es werde Licht!“,
+wichen Nacht und Finsternis.
+Du schufst den Tag und sahst, wie gut es war,
+formtest die Himmel und das Meer
+mit deiner Stimme, großer Herr.
+Dein Wort hat Kraft und bezeugt deine Macht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du hast Worte der Hoffnung.
+Du hast Worte, die berührn.
+Du hast Worte der Liebe.
+Du sprichst zu mir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nur ein Wort aus deinem Mund
+und der größte Sturm verstummt.
+Ein Zeichen deiner Hand und das Meer wird still.
+Wenn du sagst, es soll geschehn,
+müssen Tod und Krankheit gehn.
+Dein Wort hat Kraft und bezeugt deine Macht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wenn du sprichst, Herr,
+verliert die Welt an Wichtigkeit.
+Wenn du sprichst, Herr,
+werde ich von meiner Angst befreit.
+Wenn du sprichst, Herr,
+bleibt nichts mehr, wie es vorher war.
+Denn du zeigst aufs Neue: du bist da.</lines>
+    </verse>
+  </lyrics>
+</song>

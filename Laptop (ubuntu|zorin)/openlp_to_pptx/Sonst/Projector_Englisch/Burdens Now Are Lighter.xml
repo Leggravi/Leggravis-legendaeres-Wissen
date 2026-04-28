@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Burdens Now Are Lighter</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Burdens now are lighter
+Brighter is my way
+It is such a joy to walk with Him
+When this journey here is o'er
+I'll set my feet on heaven's shore
+Eternity all joy will just begin.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh glory, glory hallelujah
+Praise the Lord today I know I'm free
+He is with me and if I stay close to Him
+Safe from harm and danger I will be.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It's a New Day</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's a new day
+It's a new day
+It's a new day of the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's a day of joy and gladness
+of victory to be won,
+It's a day of walking arm in arm
+With Jesus Christ my Lord</lines>
+    </verse>
+  </lyrics>
+</song>

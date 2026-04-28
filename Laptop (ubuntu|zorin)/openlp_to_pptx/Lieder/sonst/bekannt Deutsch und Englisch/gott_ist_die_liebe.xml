@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Nov 22, 2020, 9:32:20 PM">
+  <properties>
+    <titles>
+      <title>Gott ist die Liebe</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2 V5 C2 V6 C2 V7 C2 V8 C2 V9 C2 V10 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Gott ist die Liebe, lässt mich erlösen,
+Gott ist die Liebe, Er liebt auch mich.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Drum sag ich noch einmal:
+Gott ist die Liebe!
+Gott ist die Liebe, Er liebt auch mich.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Ich lag in Banden der schnöden Sünde,
+ich lag in Banden und konnt nicht los.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Ich lag im Tode, des Teufels Schrecken,
+ich lag im Tode, der Sünde Sold.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Er sandte Jesum, den treuen Heiland,
+Er sandte Jesum und macht mich los.</lines>
+    </verse>
+    <verse name="V6">
+      <lines>Jesus, mein Heiland, gab sich zum Opfer,
+Jesus, mein Heiland, büßt meine Schuld.</lines>
+    </verse>
+    <verse name="V7">
+      <lines>Du heilst, o Liebe, all meinen Jammer,
+Du stillst, o Liebe, mein tiefstes Weh.</lines>
+    </verse>
+    <verse name="V8">
+      <lines>Du füllst mit Freuden die matte Seele,
+Du füllst mit Frieden mein armes Herz.</lines>
+    </verse>
+    <verse name="V9">
+      <lines>Du lässt mich erben die ewge Freude,
+Du lässt mich erben die ewge Ruh.</lines>
+    </verse>
+    <verse name="V10">
+      <lines>Dich will ich preisen, Du ewge Liebe,
+Dich will ich loben, solang ich bin.</lines>
+    </verse>
+  </lyrics>
+</song>

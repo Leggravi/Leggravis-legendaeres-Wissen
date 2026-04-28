@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Are One In The Bond Of Love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are one in the bond of Love
+We are one in the bond of Love;
+We have joined our spirits
+with the Spirit of God,
+We are one with the bond of Love.</lines>
+    </verse>
+  </lyrics>
+</song>

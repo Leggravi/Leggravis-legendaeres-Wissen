@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Trading a Cross For a Crown</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I started out with a made up mind
+to one day cross the finish line
+I'm pressing toward the mark and for the prize
+At times I've had to stand my ground
+and Satan's tried to turn me around
+But I will not be hindered by his lies</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm not gonna walk away,
+I've got too much at stake
+I've come too far to turn back now
+Every battle that I have fought will soon be forgot
+I'm trading this old cross in for a crown</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I can almost hear them cheer me on
+and see the ones that have reached home
+They now await for us to win this race
+A banquet like we've never known
+will be held at God's royal throne
+There we'll be rewarded for our faith</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sonne, Mond und Sterne</title>
+    </titles>
+    <authors>
+      <author type="words">Anneliese Wortmann</author>
+      <author type="music">Hartmut Wortmann</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sonne, Mond und Sterne, Wellen, Meer und Sand
+sind Zeugen seiner Herrlichkeit, seiner Schöpferhand.
+Jeder kleine Kieselstein, jeder Tropfen Tau
+preist Gottes Größe und Macht!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lasst uns loben unsern Gott und Vater,
+lasst uns preisen und anbeten den Herrn!
+Seine Liebe endet nie, jetzt und ewig währet sie.
+Lasst uns preisen und lobsingen dem Herrn!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vögel, Bäume, Blumen, Himmel, Erde, Land
+sind Zeugen seiner Herrlichkeit, seiner Schöpferhand.
+Jeder Regentropfen, jedes Schneekristall
+preist Gottes Größe und Macht!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wir als seine Kinder wissen uns geliebt;
+sind sicher, dass er an uns denkt, unsre Schuld vergibt.
+Er kennt uns mit Namen, weiß, wie es uns geht.
+Treu und gerecht ist der Herr!</lines>
+    </verse>
+  </lyrics>
+</song>

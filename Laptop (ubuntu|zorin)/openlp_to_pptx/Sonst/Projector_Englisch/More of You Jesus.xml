@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>More of You Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Don Harris</author>
+      <author type="music">Don Harris</author>
+      <author type="translation">Jesus, ich bin durstig</author>
+    </authors>
+    <verseOrder>v1 v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've touched the hem of Your garments
+And I have felt the leading of Your hand
+But today, my eyes look much higher
+to see the face of the great 'I am'.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So more of You Jesus, more of Your face,
+more of Your glory in this place,
+More of You Jesus, more of Your face,
+more of Your glory in this place.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm longing for more, and more, and more,
+More of You Jesus, more of Your face,
+more of Your glory in this place.</lines>
+    </verse>
+  </lyrics>
+</song>

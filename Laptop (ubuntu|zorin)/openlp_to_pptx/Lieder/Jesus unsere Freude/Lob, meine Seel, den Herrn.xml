@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:01">
+  <properties>
+    <titles>
+      <title>Lob, meine Seel, den Herrn</title>
+    </titles>
+    <authors>
+      <author type="words">Elsbeth Meyer-Baltensweiler (1970)</author>
+      <author type="music">Ludwig van Beethoven</author>
+    </authors>
+    <ccliNo>4822688</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lob, meine Seel, den Herrn, lob ihn mit Herz und Mund!
+Was in mir ist, sing seinem Nam', tu seine Liebe kund!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lob, meine Seel, den Herrn, auf, stimm ein Loblied an!
+Vergiss nicht, wie viel Gut's er dir bis hierher hat getan!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Barmherzig ist dein Gott, voll Gnad und großer Güt',
+der alle deine sünden tilgt und deine Schuld vergibt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Er heilt, was dir gebricht, erbarmt sich deiner Not,
+befreit von Ketten und erlöst dein Leben aus dem Tod.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Er krönt mit Gnade dich und mit Barmherzigkeit.
+Er ist bei dir, verlässt dich nicht in Zeit und Ewigkeit.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Lobsinge deinem Gott, dank ihm und dien ihm gern!
+Hier und dann einst vor seinem Thron, lob meine Seel, den Herrn!</lines>
+    </verse>
+  </lyrics>
+</song>

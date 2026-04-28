@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sei behütet auf deinen Wegen</title>
+    </titles>
+    <authors>
+      <author type="words">Clemens Bittlinger</author>
+      <author type="music">Clemens Bittlinger</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sei behütet auf dienen Wegen.
+Sei behütet auch mitten in der Nacht.
+Durch Sonnentage, Stürme und durch Regen
+hält der Schöpfer über dir die Wacht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mitten in die graue Alltagswelt,
+die sang und klanglos mich beengt,
+höre ich ein Lied, das mir gefällt
+und das mir Perspektiven schenkt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Manchmal, wenn ein Tag zu Ende geht
+und die Nacht durch alle Ritzen dringt,
+spüre ich den Wind, der uns umweht
+und diese Zeilen mit sich bringt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Immer, wenn wir auseinandergehn,
+spür ich Trauer, fühl mich allein.
+Und bis wir uns einmal wiedersehn,
+solln die Worte dein Begleiter sein.</lines>
+    </verse>
+  </lyrics>
+</song>

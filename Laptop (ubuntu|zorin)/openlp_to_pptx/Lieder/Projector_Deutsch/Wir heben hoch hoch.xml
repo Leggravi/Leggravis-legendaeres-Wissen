@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir heben hoch hoch</title>
+    </titles>
+    <authors>
+      <author type="words">Stephan Bärnreuther</author>
+      <author type="music">Stephan Bärnreuther</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir heben hoch hoch
+hoch den Namen Jesus.
+wir heben hoch hoch
+Christus unserem Herrn.
+Wir preisen dich,
+du allein bist König,
+dir nur allein gebürt die Ehre</lines>
+    </verse>
+  </lyrics>
+</song>

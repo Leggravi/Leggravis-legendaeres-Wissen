@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Joyful Joyful we adore thee</title>
+    </titles>
+    <authors>
+      <author type="words">Henry van Dyke</author>
+      <author type="music">Ludwig van Beethoven</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Joyful, joyful, we adore Thee,
+God of glory, Lord of love;
+Hearts unfold like flow’rs before Thee,
+Op’ning to the sun above.
+Melt the clouds of sin and sadness;
+Drive the dark of doubt away;
+Giver of immortal gladness,
+Fill us with the light of day!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All Thy works with joy surround Thee,
+Earth and heav’n reflect Thy rays,
+Stars and angels sing around Thee,
+Center of unbroken praise.
+Field and forest, vale and mountain,
+Flow’ry meadow, flashing sea,
+Singing bird and flowing fountain
+Call us to rejoice in Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou art giving and forgiving,
+Ever blessing, ever blest,
+Wellspring of the joy of living,
+Ocean depth of happy rest!
+Thou our Father, Christ our Brother,
+All who live in love are Thine;
+Teach us how to love each other,
+Lift us to the joy divine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mortals, join the happy chorus,
+Which the morning stars began;
+Father love is reigning o’er us,
+Brother love binds man to man.
+Ever singing, march we onward,
+Victors in the midst of strife,
+Joyful music leads us Sunward
+In the triumph song of life.</lines>
+    </verse>
+  </lyrics>
+</song>

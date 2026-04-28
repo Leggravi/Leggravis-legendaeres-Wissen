@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:56">
+  <properties>
+    <titles>
+      <title>Sing mit mir ein Halleluja</title>
+    </titles>
+    <authors>
+      <author type="words">Thomas Eger (1973)</author>
+      <author type="music">Thomas Eger</author>
+    </authors>
+    <ccliNo>7222401</ccliNo>
+    <themes>
+      <theme>Anbetung</theme>
+      <theme>Kinderlied</theme>
+      <theme>Lob</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Für die Ruhe in der Nacht,
+für die Sonne, die mir lacht,
+für die Luft, die mir den Atem gibt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Für die Freude, die ich hab,
+für die Liebe jeden Tag,
+die aus seiner großen Gnade quillt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Für das Wunder, das geschah
+dort am Kreuz auf Golgatha,
+als er starb, damit ich leben kann.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dafür, dass er auferstand
+und der Hölle Macht gebannt,
+dafür, dass er mich hat neu gemacht.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dafür, dass er heut noch lebt
+und mir treu zur Seite steht,
+dafür, dass mich seine Liebe trägt.</lines>
+    </verse>
+  </lyrics>
+</song>

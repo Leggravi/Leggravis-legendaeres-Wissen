@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Soul on fire</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God I'm running for your heart,
+I'm running for your heart
+'Till I am a soul on fire
+Lord, I'm longing for your ways
+I'm waiting for the day
+When I'm a soul on fire
+'Till I am a soul on fire!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord restore the joy I had
+I have wandered, bring me back
+In this darkness, lead me through
+Until all I see is you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord let me burn for you again
+Le me return to you again
+And Lord, let me me burn for you again
+And let me return to you again</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God, I'm running for Your heart
+I'm running for Your heart
+Till I am a soul on fire
+I wanna be
+Till I am a soul on fire
+Till I am a soul on fire</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Cherish the Treasure</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I Cherish The Treasure
+The treasure of you
+Lifelong companion
+I give myself to you
+God has enabled me
+To walk with you faithfully
+And Cherish the treasure
+The treasure of you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As I obey the Spirit's voice
+And seek to do His will
+I then can see the wisdom of His plan
+For as He works His will in me
+I then can love you selflessly
+And by His grace, can pledge my love to you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This sacred vow I make to you
+Does not contain an &quot;if&quot;
+Though I'm aware that trials lie ahead
+I will love you and pray with you
+And through it all, I will stay with you
+Our home will be a refuge of unconditional love</lines>
+    </verse>
+  </lyrics>
+</song>

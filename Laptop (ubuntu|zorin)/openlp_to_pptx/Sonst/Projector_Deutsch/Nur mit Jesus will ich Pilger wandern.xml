@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nur mit Jesus will ich Pilger wandern</title>
+    </titles>
+    <authors>
+      <author type="words">1)</author>
+      <author type="music">Johann Peter Schück</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nur mit Jesus will ich weiter wandern,
+nur mit Ihm geh froh ich ein und aus;
+Weg und Ziel find ich bei keinem andern,
+|: Er allein bringt Heil in Herz und Haus. :|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Berg und Tal und Feld und Wald und Meere,
+froh durchwall ich sie an Seiner Hand.
+Wenn der Herr nicht mein Begleiter wäre,
+|: fänd ich nie das wahre Vaterland. :|</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Er ist Schutz, wenn ich mich niederlege,
+Er mein Hort, wenn früh ich stehe auf,
+Er mein Rater auf dem Scheidewege
+|: und mein Trost bei rauhem Tageslauf. :|</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bei dem Herrn will ich stets Einkehr halten,
+Er ist Speis und Trank und Freude mir;
+Seine Gnade will ich lassen walten,
+|: Ihm befehl ich Leib und Seele hier. :|</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wird es Abend für mich auf Erde,
+ruft Er mich zur ew'gen Heimat hin,
+dann geh' ich zu Ihm als Himmelserbe,
+|: wo für immer ich zu Hause bin. :|</lines>
+    </verse>
+  </lyrics>
+</song>

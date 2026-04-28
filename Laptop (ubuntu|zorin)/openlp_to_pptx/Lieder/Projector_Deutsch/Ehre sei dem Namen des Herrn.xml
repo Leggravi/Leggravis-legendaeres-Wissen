@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ehre sei dem Namen des Herrn</title>
+    </titles>
+    <authors>
+      <author type="words">Wolfgang Dennenmoser</author>
+      <author type="music">Danny Daniels</author>
+      <author type="translation">Blessed be the name of the Lord (He is the Lord)</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ehre sei dem Namen des Herrn(4x)
+|:Denn er ist der Fels, er ist der Fels, er ist der Herr:|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er regiert die Erde mit Macht (4x)
+|: das ganze All ist in der Hand unsres Herrn! :|</lines>
+    </verse>
+  </lyrics>
+</song>

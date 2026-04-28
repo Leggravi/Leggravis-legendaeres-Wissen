@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Don't Give up the Fight</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Don't Give up the Fight
+For the battles almost over,
+Don't Give up the Fight
+Soon the enemy will give in,
+Don't Give up the Fight
+Sweet Victory is coming,
+This could be the final battle,
+And tomorrow we could win.</lines>
+    </verse>
+  </lyrics>
+</song>

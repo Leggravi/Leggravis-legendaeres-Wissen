@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ehre, sei dem Vater</title>
+    </titles>
+    <authors>
+      <author type="words">Severin Winter</author>
+      <author type="music">Severin Winter</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ehre, sei dem Vater,
+Ehre sei dem Sohn,
+Ehre, sei dem Heiligen Geist,
+seit er in uns wohnt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Und es kommt eine Zeit,
+wo kein Tod mehr wird sein
+und kein Leid, kein Scherz und kein Geschrei.
+Gott wird bei uns wohnen und wir werden sein Volk sein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und er selbst, Gott selbst,
+wird mit uns sein
+Und er selbst, Gott selbst,
+wird mit uns sein</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und alle Gotteskinder werden singen: Halleluja
+Und alle Gotteskinder werden singen: Halleluja
+Und alle Gotteskinder werden singen: Halleluja</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wenn sie Gott, dem Vater seh'n.
+Wenn sie Gott, dem Vater seh'n.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Horse and Rider</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v1 v2 v2 v3 v3 v4 v5 v2 v3 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will sing unto the LORD,
+for he has triumphed gloriously,
+the horse and rider thrown into the sea.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The LORD, my God, my strength and song,
+has now become my victory.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The LORD is God, and I will praise him,
+My father's God, and I will exalt him.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will sing unto the LORD,
+for he has triumphed gloriously:
+the grave is empty. Won't you come and see?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I will sing unto the LORD,
+for he has triumphed gloriously:
+the grave is empty. Won't you come and see?
+The LORD, my God, my strength and song,
+has now become my victory.</lines>
+    </verse>
+  </lyrics>
+</song>

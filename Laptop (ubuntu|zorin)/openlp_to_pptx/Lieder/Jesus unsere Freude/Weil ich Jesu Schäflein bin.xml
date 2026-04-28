@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:24">
+  <properties>
+    <titles>
+      <title>Weil ich Jesu Schäflein bin</title>
+    </titles>
+    <authors>
+      <author type="words">Henriette Maria Luise von Hayn (1772)</author>
+      <author type="music">Herrnhut</author>
+    </authors>
+    <ccliNo>6222736</ccliNo>
+    <themes>
+      <theme>Kinderlieder</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Weil ich Jesu Schäflein bin,
+freu ich mich nur immerhin
+über meinen guten Hirten,
+der mich wohl weiß zu bewirten,
+der mich liebet, der mich kennt
+und bei meinem Namen nennt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unter seinem sanften Stab
+geh ich ein und aus und hab
+unaussprechlich süße Weide,
+dass ich keinen Mangel leide;
+und so oft ich durstig bin,
+führt er mich zum Brunnquell hin.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mein Erbarmer leitet mich
+sicher und behutsamlich,
+gibt mir auch wohl Salz zu lecken,
+meinen Durst recht zu erwecken
+nach dem roten Wundenbach,
+wenn ich kränklich bin und schwach.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Er hat mich hinaus ins Feld
+zu der Lämmer Hut bestellt
+und ich darf in seinen Nähen
+nur so sachte beiher gehen
+und auf dieser niedern Flur
+folgen meines Hirten Spur.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In dem Früh- und Abendtau
+einer immergrünen Au
+schlaf ich und erwache wieder,
+setz mich zu der Herde nieder
+in das saftigste Revier
+und ihr Brünnlein quillt auch mir.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Drückt mich meine kleine Last
+und ich brauche Ruh' und Rast,
+darf sein Schäflein ohn' Bedenken
+in des Hirten Schoß sich senken,
+kriegt an seiner milden Brust
+wieder neue Arbeitslust.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Sollt ich nun nicht fröhlich sein,
+ich beglücktes Schäfelein?
+Denn nach diesen schönen Tagen
+werd' ich endlich heimgetragen
+in des guten Hirten Schoß.
+Amen, ja, mein Glück ist groß.</lines>
+    </verse>
+  </lyrics>
+</song>

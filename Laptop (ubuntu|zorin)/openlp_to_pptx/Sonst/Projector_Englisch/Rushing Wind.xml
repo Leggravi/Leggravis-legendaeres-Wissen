@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Rushing Wind</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rushing wind blow through this temple
+Blowing out the dust within
+Come and breathe your breath upon me
+I've been born again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy Spirit, I surrender
+Take me where you want to go
+Plant me by your living waters
+Plant me deep so I can grow</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, you're the one,
+who'll set my spirit free
+Use me Lord, glorify,
+your Holy Name through me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Separate me from this world Lord
+Sanctify my life for you
+Daily change me to your image
+Help me bear good fruit</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Every day you're drawing closer
+Trials come to test my faith
+But when all is said and done Lord
+You know, it's been worth the wait</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Rushing wind blow through this temple
+Blowing out the dust within
+Come and breathe your breath upon me
+For I've been born again</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 2, 2022, 10:27:15 PM">
+  <properties>
+    <titles>
+      <title>Du bist mein Zufluchtsort</title>
+    </titles>
+    <verseOrder>V1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Du bist mein Zufluchtsort.
+Ich berge mich in Deiner Hand,
+denn Du schützt mich, Herr.
+Wann immer mich Angst befällt, traue ich auf Dich.
+Ja, ich trau auf Dich, und ich sage:
+„Ich bin stark in der Kraft meines Herrn.“</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Give My Mind</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I give my mind
+Completely to You, Lord
+Fill me with Your thoughts,
+And make it all brand new
+Change my life
+Let me live in all that's true
+I just want to think like You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take me and hold me
+Teach me to be still
+Lead me and guide me
+Show me Your perfect will</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Search me and cleanse me
+Purify my heart
+Change me, transform me
+In Your image let me stand</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Break me and mold me
+Till I be like You
+Reveal me Your pure Word
+Let Your light shine through me.</lines>
+    </verse>
+  </lyrics>
+</song>

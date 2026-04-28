@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Please Don't Pass Me By</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There was a blind man on the road side, and he heard a commotion yeah
+It was Jesus passing by with a crowd and it stirred his emotions
+He'd been displaced his whole life, should he even try</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Don't bother Jesus (they say you have nothing)
+You have nothing to offer (stay in your place)
+Right then he knew (he had to choose)
+He had nothing to lose</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So he cried Jesus (Jesus), I need you, (yeah ah)
+Please don't pass me by
+He cried out Jesus, I'm not ashamed (to tell you)
+I need you in my life
+(I need you in my life yeah)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'm not much different from that man, and this is the honest truth
+Could this sinful one, with this messed up life, could I ever serve you
+(Oh oh oh oh) people and things clutter my mind, should I even try</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So I cry Jesus (Jesus), I need you
+Please don't pass me by
+I'm crying out Jesus, I'm not ashamed to tell you I need you in my life</lines>
+    </verse>
+    <verse name="v6">
+      <lines>As the deer (as the deer panted)
+Thirsty for the water yeah (thirsty for the water)
+My soul desires and longs to be (to be with you)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jesus, I need you, please don't pass me by
+I don't mean to waste your time but I can't listen to the crowd,
+Situations in my life telling me to keep it down
+But I need you</lines>
+    </verse>
+    <verse name="v8">
+      <lines>I know I'm broken, but you can heal me,
+Jesus, Jesus I'm calling you
+(I might not be worth much)
+might not be worth much, but I'm still willing
+Jesus, Jesus, I'm calling you</lines>
+    </verse>
+  </lyrics>
+</song>

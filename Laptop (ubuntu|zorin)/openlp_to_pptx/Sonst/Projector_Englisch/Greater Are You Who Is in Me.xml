@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Greater Are You Who Is in Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord open up their eyes
+And help them realize
+That they are captivity
+For where great sin abound
+Much greater grace is found
+To help them set the captive free</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bind up the enemy
+Lord God of Victory
+I will lay down my life
+Singing this battle cry</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Greater are you who is in me, Greater!
+Greater Lord Jesus, King of Kings, Greater!
+You set the captive free, proclaiming Liberty
+Greater are you my King</lines>
+    </verse>
+    <verse name="v4">
+      <lines>They need your spirit Lord
+Fill them to stand before
+The enemy and praise Your name
+come lead them forth oh King
+Lord God of everything
+Jesus the Lord of heaven reigns</lines>
+    </verse>
+  </lyrics>
+</song>

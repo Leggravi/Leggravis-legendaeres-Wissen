@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Constantly Abiding</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There’s a peace in my heart
+that the world never gave,
+A peace it cannot take away;
+Though the trials of life
+may surround like a cloud,
+I’ve a peace that has come here to stay!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Constantly abiding, Jesus is mine;
+Constantly abiding, rapture divine;
+He never leaves me lonely,
+whispers, oh, so kind:
+I will never leave thee Jesus is mine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All the world seemed to sing
+of a Savior and King,
+When peace sweetly came to my heart;
+Troubles all fled away a
+nd my night turned to day,
+Blessed Jesus, how glorious Thou art!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This treasure I have in a temple of clay,
+While here on His footstool I roam;
+But He’s coming to take me
+some glorious day,
+Over there to my heavenly home!</lines>
+    </verse>
+  </lyrics>
+</song>

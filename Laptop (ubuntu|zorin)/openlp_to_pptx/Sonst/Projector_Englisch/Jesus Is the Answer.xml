@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Is the Answer</title>
+    </titles>
+    <authors>
+      <author type="words">Andraé Crouch</author>
+      <author type="music">Andraé Crouch</author>
+      <author type="translation">Jesus ist die Antwort</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus is the answer
+for the world today,
+Above Him there’s no other,
+Jesus Is the way x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know you have questions
+at the corner of your mind
+Traces of discouragement
+and peace you cannot find
+Reflection of the old past
+seem to face you everyday
+But this one thing I do know,
+Jesus is the way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know you have some mountains
+that you think you cannot climb
+I know that your skies have been so dark
+you think the sun won’t shine
+But I am here to tell you that the word of God is true
+the Word of God is true
+And everything He promised
+I know He’ll do it for you</lines>
+    </verse>
+  </lyrics>
+</song>

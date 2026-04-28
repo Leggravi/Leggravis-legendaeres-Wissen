@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:32">
+  <properties>
+    <titles>
+      <title>Der Morgenstern ist aufgedrungen</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Rumpius (1587)</author>
+      <author type="words">Otto Riethmüller (1932)</author>
+      <author type="music">Michael Praetorius</author>
+    </authors>
+    <themes>
+      <theme>Advent</theme>
+      <theme>Weihnachten</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Der Morgenstern ist aufgedrungen,
+er leucht' daher zu dieser Stunde
+hoch über Berg und tiefe Tal,
+vor Freud singt uns der lieben Engel Schar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Christus im Himmel wohl bedachte,
+wie er uns reich und selig machte
+und wieder brächt ins Paradies,
+darum er Gottes Himmel gar verließ.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O heilger Morgenstern, wir preisen
+dich heute hoch mit frohen Weisen;
+du leuchtest vielen nah und fern,
+so leucht auch uns, Herr Christ, du Morgenstern!</lines>
+    </verse>
+  </lyrics>
+</song>

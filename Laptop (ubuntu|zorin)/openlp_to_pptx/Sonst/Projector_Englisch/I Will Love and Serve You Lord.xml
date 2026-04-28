@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Will Love and Serve You Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Rolinson</author>
+      <author type="music">Chris Rolinson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, Lord my God, you did
+not spare your Son
+Who gave His life and shed
+His blood on calvary’s tree
+Who in my place,
+bore all the shame,
+That I may love and serve you
+Lord until you come again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(Lord) until you come again x2
+I’ll love you and I'll serve you
+Lord
+Until you come again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Great Redeemer,
+great things you’ve done
+Of saving a helpless sinner like
+me from Satan’s bonds
+It was your plan, to save my soul,
+That I may love and serve you
+Lord until you come again.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So when I cry, you hearken
+to my cry,
+And help me Lord when I’m
+oppressed from all sides
+And when I’m down, just about to fail,
+You give me strength to keep me
+standing until you come again.</lines>
+    </verse>
+  </lyrics>
+</song>

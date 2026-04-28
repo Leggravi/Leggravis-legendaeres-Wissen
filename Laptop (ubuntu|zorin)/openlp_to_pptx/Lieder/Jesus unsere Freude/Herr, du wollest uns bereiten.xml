@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:55">
+  <properties>
+    <titles>
+      <title>Herr, du wollest uns bereiten</title>
+    </titles>
+    <authors>
+      <author type="words">Friedrich Gottlieb Klopstock (1758)</author>
+      <author type="words">Albert Knapp (1837)</author>
+      <author type="music">Wachet auf, ruft uns die Stimme</author>
+    </authors>
+    <ccliNo>5217467</ccliNo>
+    <themes>
+      <theme>Abendmahl</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, du wollest uns bereiten
+zu deines Mahles Seligkeiten;
+sei mitten unter uns, o Gott!
+Lass uns, Leben zu empfangen,
+mit glaubensvollem Herzen nahen
+und sprich uns los von Sünd und Tod.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nehmt und esst zum ewgen Leben
+den Leib des Herrn, für euch gegeben;
+der Friede Christi sei mit euch!
+Nehmt und trinkt zum ewgen Leben
+das Blut des Herrn, für euch gegeben;
+ererbt, erringet Gottes Reich!</lines>
+    </verse>
+  </lyrics>
+</song>

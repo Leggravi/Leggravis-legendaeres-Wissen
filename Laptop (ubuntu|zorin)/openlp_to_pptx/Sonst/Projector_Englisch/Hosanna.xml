@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hosanna</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hosanna, hosanna,
+hosanna in the highest!
+Hosanna, hosanna,
+hosanna in the highest!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, we lift up Your name
+with hearts full of praise,
+Be exalted, O Lord, my God!
+Hosanna in the highest!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Glory, glory, glory
+to the King of kings!
+Glory, glory, glory
+to the King of kings!</lines>
+    </verse>
+  </lyrics>
+</song>

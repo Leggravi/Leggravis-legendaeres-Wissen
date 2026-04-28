@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>That's Why We Praise Him</title>
+    </titles>
+    <authors>
+      <author type="words">Tommy Walker</author>
+      <author type="music">Tommy Walker</author>
+      <author type="translation">Drum ihm zur Ehre (Er kam als Mensch, hat alles gut gemacht)</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He came to live, live a perfect life
+He came to be
+The loving word our light
+He came to die
+So we’d be reconciled
+He came to rise
+to show His pow’r and might</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And that’s why we praise Him,
+That’s why we sing
+That’s why we offer Him our everything
+That’s why we bow down
+And worship this King
+Cause He gave His everything
+Cause He gave His everything</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He came to live, live again in us
+He came to be our
+Conquering King and friend
+He came to heal
+And show the lost ones His love
+He came to go prepare a place for us</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Halle Hallelujah 
+Halle Hallelujah</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:23">
+  <properties>
+    <titles>
+      <title>Jesu, du bist unaussprechlich</title>
+    </titles>
+    <authors>
+      <author type="words">Rosalie Amstein (1875)</author>
+      <author type="music">Dora Rappard</author>
+    </authors>
+    <ccliNo>5789115</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Du bist unaussprechlich herrlich Deinem Kind;
+Gnad und Friede, Heil und Leben, Herr, in Dir ich find.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesu, wenn ich Dich nicht hätte, wär es finstre Nacht;
+aber Deines Geistes Klarheit hat mir Licht gebracht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesu, ohne Dich versänk ich tief in Sündennot;
+doch nun bin ich frei geworden, Herr, durch Deinen Tod.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Liebster Jesu, sieh, ich hülle mich in Dich hinein;
+o da bin ich gut geborgen, kann ich sicher sein.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kommt Versuchung, Satan, Sünde, will ich stille sein,
+will mich bergen hinter Jesum, hinter Ihm allein.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Und steht Jesus zwischen innen, bin ich aus dem Krieg;
+denn schon längst erfocht mein Jesus überall den Sieg.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jesu, ja Du führst Dein Schäflein, welches Dir vertraut;
+führst es sicher, führst es selig hin, wo Dich es schaut.</lines>
+    </verse>
+  </lyrics>
+</song>

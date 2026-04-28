@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Are My King</title>
+    </titles>
+    <authors>
+      <author type="words">Billy James Foote</author>
+      <author type="music">Billy James Foote</author>
+      <author type="translation">Du bist König</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm forgiven because
+ You were forsaken
+ I'm accepted
+ You were condemned
+ I'm alive and well
+ Your Spirit is within me
+ Because You died
+ And rose again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amazing love, how can it be
+ That You, my King,
+ Should die for me?
+ Amazing love,
+ I know it's true
+ It's my joy to honor You
+ In all I do, To honor You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>BRIDGE
+ You are my King
+ You are my King
+ Jesus, You are my King
+ You are my King</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In all I do, To honor You,
+ In all I do, To honor You,
+ In all I do, Let me honor You.</lines>
+    </verse>
+  </lyrics>
+</song>

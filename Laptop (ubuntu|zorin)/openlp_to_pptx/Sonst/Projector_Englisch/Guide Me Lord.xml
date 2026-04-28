@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Guide Me Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was born in sin and lost but Jesus paid the cost
+And pardoned me from all iniquity
+So till I see His face I'll daily ask His grace
+To guide me on the path He planned for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Guide me lord through the day guide me
+Lord this I pray
+Through all hardships temptation and strife
+Guide me lord through Thy might guide me Lord by Thy light
+That Thy will might be done in my life</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God loved us everyone and He gave His only son
+To save our souls from sin He gladly died
+So trust in Him today and He'll wash your sins away
+Then daily He will be your light and guide</lines>
+    </verse>
+  </lyrics>
+</song>

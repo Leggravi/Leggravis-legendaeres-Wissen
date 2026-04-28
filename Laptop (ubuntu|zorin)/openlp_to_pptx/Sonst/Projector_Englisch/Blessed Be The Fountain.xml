@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Blessed Be The Fountain</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessed be the fountain of blood,
+To a world of sinners revealed;
+Blessed be the dear Son of God:
+Only by His stripes we are healed.
+Though I've wandered far from His fold,
+Bringing to my heart pain and woe,
+Wash me in the blood of the Lamb,
+And I shall be whiter than snow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Whiter than the snow,
+Whiter than the snow;
+Wash me in the blood of the Lamb,
+And I shall be whiter than snow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thorny was the crown that He wore,
+And the cross His body o'ercame;
+Grievous were the sorrows he bore,
+But He suffered thus not in vain.
+May I to that fountain be led,
+Made to cleanse my sins here below;
+Wash me in the blood that He shed,
+And I shall be whiter than snow.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Father, I have wandered from Thee,
+Often has my heart gone astray;
+Crimson do my sins seem to me-
+Water cannot wash them away.
+Jesus, to that fountain of Thine,
+Leaning on Thy promise, I go;
+Cleanse me by Thy washing divine,
+And I shall be whiter than snow.</lines>
+    </verse>
+  </lyrics>
+</song>

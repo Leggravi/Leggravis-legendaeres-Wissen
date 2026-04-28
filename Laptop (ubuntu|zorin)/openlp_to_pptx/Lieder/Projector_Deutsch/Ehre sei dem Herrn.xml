@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ehre, sei dem Herrn</title>
+    </titles>
+    <authors>
+      <author type="words">Mirjana Angelina</author>
+      <author type="music">Phil White</author>
+      <author type="translation">Glory, Glory to the King</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ehre, sei dem Herrn in der Höhe
+Halleluja
+Ehre, sei dem Herrn in der Höhe
+Halleluja</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sing Halleluja.
+Halleluja
+Sing Halleluja.
+Halleluja</lines>
+    </verse>
+  </lyrics>
+</song>

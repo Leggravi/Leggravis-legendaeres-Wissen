@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich will singen dem Herrn mein Leben lang,</title>
+    </titles>
+    <authors>
+      <author type="words">Gitta Leuschner</author>
+      <author type="music">Donya Brockway</author>
+      <author type="translation">I will sing unto the Lord as long as I live</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich will singen dem Herrn mein Leben lang,
+Loblieder bringen meinem Gott, so lange ich bin.
+Meines Herzens Reden möge Ihm wohlgefall’n!
+Ich will mich freu’n, ich will mich freu’n in dem Herrn.
+® |: Lobe den Herrn, meine Seele, hallelluja (4x) :|</lines>
+    </verse>
+  </lyrics>
+</song>

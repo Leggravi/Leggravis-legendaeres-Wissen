@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist der Herr, und du hast die Macht</title>
+    </titles>
+    <authors>
+      <author type="words">Thomas Eger</author>
+      <author type="music">Jochen Rieger</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist der Herr, und du hast die Macht.
+Du bist der Herr!
+erleuchtest das Dunkel, besiegtest die Nacht
+Du bist der Herr!
+Wer ist dir gleich, wer beherrscht Raum und Zeit?
+Du bist der Herr!
+Und du kommst mit Macht, denn du hörst unser Schrei‘n.
+Du bist der Herr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Komm in Vollmacht und Kraft, o Herr!
+Komm in Vollmacht und Kraft, o Herr, unser Gott!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dein Sterben, oh Herr, ist unsere Hoffnung
+Du bist der Herr!
+Im Kreuz liegt die Kraft für unsere Rettung.
+Du bist der Herr!
+Wir suchen nicht Reichtum, wir seh'n auf das Kreuz.
+Du bist der Herr!
+Herr schenk uns Erweckung, gieß aus deinen Geist!
+Du bist der Herr!</lines>
+    </verse>
+  </lyrics>
+</song>

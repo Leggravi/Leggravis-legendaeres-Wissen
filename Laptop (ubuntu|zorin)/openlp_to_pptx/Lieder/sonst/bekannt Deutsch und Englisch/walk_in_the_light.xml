@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jun 25, 2025, 3:53:22 PM">
+  <properties>
+    <titles>
+      <title>Walk in the Light</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 V5 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Move spirit move upon my earth
+Uncover the face of my deep
+Move spirit move upon my earth
+Flutter your wings come in now
+King of all lights drive away my night
+Let this new day be realized</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Walk in the light
+He is the light
+And you will become the light</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Let there be no part dark in me
+Father take over my soul
+Let the glory that I once shared with thee long ago
+Be now awaken in me
+King of all lights
+Drive away my night
+Let this new day be realized</lines>
+    </verse>
+    <verse name="V4">
+      <lines>This is the promise of the day star
+That had risen in the west
+Arise and shine thy light has come
+Arise and shine thy light has come</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Can you see it? (I see it)
+Do you believe it? (I believe it)
+Can you accept it? (I accept it)
+It is yours, (It is mine),
+It is ours!</lines>
+    </verse>
+  </lyrics>
+</song>

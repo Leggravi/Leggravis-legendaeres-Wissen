@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We've been Made more than Conquerors</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We've been made more
+  than conquerors,
+ Overcomers in this life,
+We've been made victorious
+  Through the blood
+   of Jesus Christ.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've been made more
+ than a conqueror,
+An overcomer in this life,
+I've been made victorious
+ Through the blood
+  of Jesus Christ.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Bride's been made more
+   than a conqueror,
+She's an overcomer in this life,
+She's been made victorious
+  Through the blood
+    of Jesus Christ.</lines>
+    </verse>
+  </lyrics>
+</song>

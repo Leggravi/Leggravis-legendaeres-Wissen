@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God Already Knew</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Before He promised him a child,
+God looked at Abraham and smiled,
+God already knew.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With Isaac on the alter lay
+God knew He′d spare his life that day
+God already knew</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Trust the heart of Jesus when the sun will not break through
+And when taken by surprise know that God already knew
+God already knew</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Before He heard his sister's cry
+God knew that Lazarus would rise
+God already knew</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And before He healed that crippled man
+God knew that he would walk again
+God already knew</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Before your heart was made to break
+God knew that He would make a way
+God already knew</lines>
+    </verse>
+    <verse name="v7">
+      <lines>And before you face tomorrow′s task
+God sees it all as in the past
+God already knew</lines>
+    </verse>
+  </lyrics>
+</song>

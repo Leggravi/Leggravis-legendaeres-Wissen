@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The morning trumpet</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, when shall I see Jesus and reign with Him above
+And shall hear the trumpet sound in that morning
+And from the flowing fountain drink everlasting love
+And shall hear the trumpet sound in that morning</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, Shout of glory for I shall mount above the sky
+When I hear the trumpet sound in that morning
+(Oh, Shout of glory for I shall mount above the sky
+When I hear the trumpet sound in that morning)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When shall I be delivered from this vain world of sin
+And shall hear the trumpet sound in that morning
+And with my blessed Jesus drink endless pleasures in
+And shall hear the trumpet sound in that morning</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Through grace I feel determined to conquer though I die
+And then away to Jesus on wings of love I'll fly
+Farewell to sin and sorrow I bid them both adieu
+And O my friends prove faithful and on your way pursue</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh do not be discouraged for Jesus is your friend
+And if you lack for knowledge he'll not refuse to land
+Neither will He upbraid you, though often you request
+He'll give you grace to conquer and take you home to rest</lines>
+    </verse>
+  </lyrics>
+</song>

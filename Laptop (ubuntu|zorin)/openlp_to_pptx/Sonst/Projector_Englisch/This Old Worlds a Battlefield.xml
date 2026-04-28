@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Old World's a Battlefield</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This old worlds a battlefield
+Where we must fight each day
+To overcome the evil one
+And send him on his way
+My commander is Almighty God
+Theres none greater near or far
+I may lose a battle now and then
+But I've already won the war</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You can have this confidence
+That helps to see me through
+If you'll just give Him residence
+Let Him live inside of You
+He hasn't promised that its easy
+But salvations worth the scars
+I may lose a battle now and then
+But I've already won the war</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When you're afraid and all alone
+And think that no one cares
+And the daily task of getting by
+Has caused you to despair
+Just take God's word into your heart
+And know His promise stands
+I may lose a battle now and then
+But the victorys in God's Hands</lines>
+    </verse>
+  </lyrics>
+</song>

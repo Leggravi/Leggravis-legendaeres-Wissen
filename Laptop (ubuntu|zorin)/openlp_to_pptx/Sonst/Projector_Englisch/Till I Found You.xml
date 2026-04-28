@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Till I Found You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v3 v4 v6 v3 v7 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I searched through the Earth for something that could satisfy
+A peace for the hurt I had buried deep inside
+Knees on the floor, I finally found everything I needed
+You lifted my soul and opened up my eyes</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I never knew anything lasts forever
+Till I found You, till I found You
+I never dreamed anything could be better
+Till I found You, till I found You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You're rewriting my story
+And I'm brand new like a morning
+Oh, I never knew anything lasts forever
+Till I found You
+Till I, till I found You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Till I, till I found You
+Till I, till I found You
+Till I, till I found You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gone are the days I'm chasing after what won't last
+I'm done with building these castles that crumble like sand
+Oh, knees on the floor
+I finally found that everything I needed was always right in front of me
+You gave me a name
+You changed everything, yeah yeah</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I never knew anything lasts forever
+Till I found You, till I found You
+I never dreamed anything could be better
+Till I found You, till I found You</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Till I, till I found You
+Till I, till I found You
+Till I, till I found You
+Till I, till I</lines>
+    </verse>
+  </lyrics>
+</song>

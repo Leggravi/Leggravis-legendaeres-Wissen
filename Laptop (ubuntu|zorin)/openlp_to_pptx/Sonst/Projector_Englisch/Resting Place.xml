@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Resting Place</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Where will I be, if I'm not in your love
+Will there be light shining in my life
+What will I be, if your'e not holding me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In your hands I'm safe
+In your love you had the strength
+To face the world and trials that were laid
+You're the groom I call
+When no one cares at all in your embrace
+My only resting place</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thank you for the love, because I am a part
+It is the sweetest music in my heart
+Thank you for the hands, that lay to me your plan
+And lead me to that blessed promise land</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Da wohnt ein Sehnen tief in uns</title>
+    </titles>
+    <authors>
+      <author type="words">Der Text drückt die Grundbefindlichkeit des gläubigen Menschen aus, auf Gott verwiesen zu sein, mit anderen Worten: zu ersehnen und zu erbitten, er möge in allen Nöten unserer kleinen und großen Welt zum Guten lenken, was wir ohne seine Hilfe nicht schaffen können (vgl. Joh 15,5 „</author>
+      <author type="music">Mary Anne Quigley</author>
+      <author type="translation">There is a longing</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Da wohnt ein Sehnen tief in uns, o Gott,
+nach dir, dich zu sehn, dir nah zu sein.
+Es ist ein Sehnen, ist ein Durst nach Glück,
+nach Liebe, wie nur du sie gibst.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Um Frieden, um Freiheit, um Hoffnung bitten wir.
+In Sorge, im Schmerz – sei da, sei uns nahe, Gott.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Da wohnt ein Sehnen tief in uns, o Gott,
+nach dir, dich zu sehn, dir nah zu sein.
+Es ist ein Sehnen, ist ein Durst nach Glück,
+nach Liebe, wie nur du sie gibst.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Um Einsicht, Beherztheit, um Beistand bitten wir.
+In Ohnmacht, in Furcht – sei da, sei uns nahe, Gott.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Da wohnt ein Sehnen tief in uns, o Gott,
+nach dir, dich zu sehn, dir nah zu sein.
+Es ist ein Sehnen, ist ein Durst nach Glück,
+nach Liebe, wie nur du sie gibst.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Um Heilung, um Ganzsein, um Zukunft bitten wir.
+In Krankheit, im Tod – sei da, sei uns nahe, Gott.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Da wohnt ein Sehnen tief in uns, o Gott,
+nach dir, dich zu sehn, dir nah zu sein.
+Es ist ein Sehnen, ist ein Durst nach Glück,
+nach Liebe, wie nur du sie gibst.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Dass du, Gott, das Sehnen, den Durst stillst, bitten wir.
+Wir hoffen auf dich – sei da, sei uns nahe, Gott.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Da wohnt ein Sehnen tief in uns, o Gott,
+nach dir, dich zu sehn, dir nah zu sein.
+Es ist ein Sehnen, ist ein Durst nach Glück,
+nach Liebe, wie nur du sie gibst.</lines>
+    </verse>
+  </lyrics>
+</song>

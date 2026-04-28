@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:38">
+  <properties>
+    <titles>
+      <title>Harre, meine Seele, harre des Herrn</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Friedrich Räder (1848)</author>
+      <author type="music">César Malan</author>
+    </authors>
+    <ccliNo>5216743</ccliNo>
+    <themes>
+      <theme>Trost</theme>
+      <theme>Vertrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Harre, meine Seele, harre des Herrn!
+Alles ihm befehle, hilft er doch so gern.
+Sei unverzagt, bald der Morgen tagt,
+und ein neuer Frühling folgt dem Winter nach.
+In allen Stürmen, in aller Not
+wird er dich beschirmen, der treue Gott.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Harre, meine Seele, harre des Herrn!
+Alles ihm befehle, hilft er doch so gern.
+Wenn alles bricht, Gott verlässt uns nicht;
+größer als der Helfer ist die Not ja nicht.
+Ewige Treue, Retter in Not,
+rett auch unsre Seele, du treuer Gott!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Harre, meine Seele, harre des Herrn!
+Alles ihm befehle, hilft er doch so gern.
+Bald höret auf unser Pilgerlauf,
+und die Klagen schweigen; Jesus nimmt uns auf.
+Nach allen Leiden, nach aller Not folgen
+ewge Freuden. Gelobt sei Gott!</lines>
+    </verse>
+  </lyrics>
+</song>

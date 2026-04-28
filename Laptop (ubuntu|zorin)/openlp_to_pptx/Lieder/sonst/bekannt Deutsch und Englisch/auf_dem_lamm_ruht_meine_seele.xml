@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 3, 2018, 11:20:16 AM">
+  <properties>
+    <titles>
+      <title>Auf dem Lamm ruht meine Seele</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Auf dem Lamm ruht meine Seele, betet voll Bewundrung an.
+Alle, alle meine Sünden hat sein Blut hinweggetan.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Selger Ruhort! Süßer Friede füllet meine Seele jetzt.
+Da, wo Gott mit Wonne ruhet, bin auch ich in Ruh gesetzt.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Ruhe fand hier mein Gewissen, denn sein Blut, o reicher Quell,
+hat von allen meinen Sünden mich gewaschen rein und hell.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Und mit süßer Ruh im Herzen geh ich hier durch Kampf und Leid,
+ewge Ruhe find ich droben in des Lammes Herrlichkeit.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Dort wird ihn mein Auge sehen, dessen Lieb mich hier erquickt.
+Dessen Treue mich geleitet, dessen Gnad mich reich beglückt.</lines>
+    </verse>
+    <verse name="V6">
+      <lines>Dort besingt des Lammes Liebe seine teur erkaufte Schar,
+bringt in Zions selger Ruhe ihm ein ewges Loblied dar.</lines>
+    </verse>
+  </lyrics>
+</song>

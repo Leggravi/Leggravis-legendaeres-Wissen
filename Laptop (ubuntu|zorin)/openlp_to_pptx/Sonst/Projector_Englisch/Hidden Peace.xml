@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hidden Peace</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I cannot tell thee whence it came.
+This peace within my breast;
+But this I know, there fills my soul
+A strange and tranquil rest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's a deep, settled peace in my soul,
+There's a deep settled peace in my soul;
+Tho' the billows of sin near me roll,
+He abides, Christ abides.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Beneath the toil and care of life,
+This hidden stream flows on;
+My weary soul no longer thirsts,
+Nor am I sad and lone.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I cannot tell the half of love,
+Unfeigned, supreme, divine,
+That caused my darkest in-most self
+With beams of hope to shine.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I cannot tell thee why He chose
+To suffer and to die,
+But if I suffer here with Him
+I'll reign with Him on high.</lines>
+    </verse>
+  </lyrics>
+</song>

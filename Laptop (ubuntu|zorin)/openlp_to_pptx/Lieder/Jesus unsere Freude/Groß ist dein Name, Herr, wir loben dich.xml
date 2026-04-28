@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:06">
+  <properties>
+    <titles>
+      <title>Groß ist dein Name, Herr, wir loben dich</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Schnitter (1971)</author>
+      <author type="music">Gerhard Schnitter</author>
+    </authors>
+    <ccliNo>4336882</ccliNo>
+    <themes>
+      <theme>Dank</theme>
+      <theme>Lob</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Er selber, Gottes Sohn,
+verließ des Vaters Thron,
+litt Schande, Spott und Not,
+ging für uns in den Tod.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Der Sieger Jesus Christ
+vom Tod erstanden ist.
+Zu Ende ist die Nacht,
+vorbei der Sünde Macht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nun schämen wir uns nicht
+und treten frei ans Licht.
+Wir nehmen staunend an,
+was er für uns getan.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wir wollen unser Leben
+aus Dankbarkeit dir geben.
+Nur darin liegt Gewinn.
+Du bist des Lebens Sinn!</lines>
+    </verse>
+  </lyrics>
+</song>

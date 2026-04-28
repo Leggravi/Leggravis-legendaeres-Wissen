@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Blessed</title>
+    </titles>
+    <authors>
+      <author type="words">traditionell</author>
+      <author type="music">Reinhard Pikora</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessed are those who dwell in your house
+they are ever praising you
+blessed are those whose strength is in you
+whose hearts are set on our God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are holy
+you are holy
+you are holy
+you are holy Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Blessed are those who dwell in your house
+they are ever praising you
+blessed are those whose strength is in you
+whose hearts are set on our God
+We will go from strength to strength
+until we see you face to face</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hear our prayer
+oh Lord, God almighty
+come bless our land
+as we seek You
+worship You</lines>
+    </verse>
+  </lyrics>
+</song>

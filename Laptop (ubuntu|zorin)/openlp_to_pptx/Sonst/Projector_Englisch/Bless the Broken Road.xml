@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Bless the Broken Road</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I set out on a narrow way many years ago
+Hoping I would find true love along the broken road
+But I got lost a time or two
+Wiped my brow and kept pushing through
+I couldn't see how every sign pointed straight to you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Every long lost dream led me to where you are
+Others who broke my heart they were like Northern stars
+Pointing me on my way into your loving arms
+This much I know is true
+That God blessed the broken road
+That led me straight to you
+(Yes He did)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I think about the years I spent just passing through
+I'd like to have the time I lost and give it back to you
+But you just smile and take my hand
+You've been there you understand
+It's all part of a grander plan that is coming true</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Every long lost dream led me to where you are
+Others who broke my heart they were like Northern stars
+Pointing me on my way into your loving arms
+This much I know is true
+That God blessed the broken road
+That led me straight to you</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Now I'm just rolling home
+Into my lover's arms
+This much I know is true
+That God blessed the broken road
+That led me straight to you</lines>
+    </verse>
+    <verse name="v6">
+      <lines>That God blessed the broken road
+That led me straight to you</lines>
+    </verse>
+  </lyrics>
+</song>

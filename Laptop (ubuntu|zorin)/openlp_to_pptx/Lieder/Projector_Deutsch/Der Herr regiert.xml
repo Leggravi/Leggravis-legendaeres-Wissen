@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Der Herr regiert</title>
+    </titles>
+    <authors>
+      <author type="words">Matthias Jorissen</author>
+      <author type="music">Genf</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Der Herr regiert (3x)  ,laß die Welt sich freun (3x)
+laß sie fröhlich sein, daß Gott regiert!
+
+Ein Feuer geht vor Ihm her, verzehrt alle Seine Feinde,
+die Berge schmelzen wie Wachs |:in der Gegenwart des Herrn,:|
+
+Der Himmel zeugt von Seiner Gerechtigkeit,
+die Völker sehen Seine Herrlichkeit,
+denn Du, o Herr, bist erhoben |: über alle Welt! :|</lines>
+    </verse>
+  </lyrics>
+</song>

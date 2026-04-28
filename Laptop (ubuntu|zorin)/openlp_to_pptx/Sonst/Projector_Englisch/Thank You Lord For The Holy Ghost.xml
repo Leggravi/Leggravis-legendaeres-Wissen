@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thank You Lord For The Holy Ghost</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thank you Lord for the holy Ghost
+Thank you Lord for the holy Ghost
+He's my comforter, my helper
+On Him l do depend
+Thank you Lord
+Thank you Lord for the holy Ghost</lines>
+    </verse>
+  </lyrics>
+</song>

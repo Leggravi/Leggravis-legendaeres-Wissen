@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Think About His Love</title>
+    </titles>
+    <authors>
+      <author type="words">Walt Harrah</author>
+      <author type="music">Walt Harrah</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Think about His love, think about His goodness
+Think about His grace that's brought us through
+For as high as the heavens above
+So great is the measure of our father's love
+Great is the measure of our Father's love
+So great is the measure of our Father's love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How could I forget His love
+And how could I forget His mercies
+He satisfies He satisfies He satisfies my desires</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Think about His love, think about His goodness
+Think about His grace that's brought us through
+For as high as the heavens above
+So great is the measure of our father's love
+Great is the measure of our Father's love
+Great is the measure
+Great is the measure
+Great is the measure of our fathers love
+Great is the measure of our fathers love</lines>
+    </verse>
+  </lyrics>
+</song>

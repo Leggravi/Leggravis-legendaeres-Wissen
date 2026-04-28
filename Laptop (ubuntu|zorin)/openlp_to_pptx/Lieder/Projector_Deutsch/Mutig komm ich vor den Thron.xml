@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mutig komm ich vor den Thron</title>
+    </titles>
+    <authors>
+      <author type="words">Simon Gottschick</author>
+      <author type="music">Rend Collective</author>
+      <author type="translation">Boldly I Approach</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Allein durch Gnade steh ich hier
+vor Deinem Thron, mein Gott, bei Dir.
+Der mich erlöst hat, lädt mich ein,
+ganz nah an seinem Herzen zu sein.
+Durchbohrte Hände halten mich.
+Ich darf bei Dir sein ewiglich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Will mich mein Herz erneut verdamm'n,
+und Satan flößt mir Zweifel ein,
+hör ich die Stimme meines Herrn,
+die Furcht muss fliehen, denn ich bin sein.
+Oh preist den Herrn, der für mich kämpft,
+und meine Seele ewig schützt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mutig komm ich vor den Thron,
+freigesprochen durch den Sohn.
+Dein Blut macht mich rein,
+Du nennst mich ganz Dein,
+in Deinen Armen darf ich sein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sieht doch wie herrlich Jesus ist,
+der alle Schönheit übertrifft.
+Die Liebe in Person ist hier,
+gerecht und treu steht er zu mir.
+All unser Lob reicht niemals aus,
+ihn so zu ehrn, wie's ihm gebührt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Das ist der Grund, warum wir feiern,
+wir sind befreit, er trug das Urteil.
+Preist den Herrn, preist den Herrn,
+er hat für meine Schuld bezahlt.</lines>
+    </verse>
+  </lyrics>
+</song>

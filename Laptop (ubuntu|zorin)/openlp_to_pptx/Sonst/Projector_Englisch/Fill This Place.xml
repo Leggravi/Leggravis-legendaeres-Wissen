@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Fill This Place</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v1 v2 v3 v4 v5 v2 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a light that burns in the darkness
+There is a hope that washes the fear away
+There is a peace that settles around us
+It is Your love that sets our hearts ablaze</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Father we're on our knees
+With every heartbeat we bring you this offering
+Lord come and fill this place
+Father we're crying out
+Spirit we need you now
+Glorious love surrounds us
+Lord come and fill this place</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is a King that reigns in victory
+There is a Mercy strong enough to save
+We feel it rising up from the ashes
+There is a Love that overcame the grave
+There is a Love that overcame the grave</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Father we're on our knees
+With every heartbeat we bring you this offering
+Lord come and fill this place
+Father we're crying out
+Spirit we need you now
+Glorious love surrounds us
+Lord come and fill this place
+Lord come and fill this place</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/: And I will worship you
+I will worship you
+I will worship you
+Always :/ x6</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And I will worship you
+I will worship you
+I will worship you
+Always</lines>
+    </verse>
+  </lyrics>
+</song>

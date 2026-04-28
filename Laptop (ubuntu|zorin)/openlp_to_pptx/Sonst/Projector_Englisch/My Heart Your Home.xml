@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Heart Your Home</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come and make my heart your home
+Come and be everything
+I am and all I know
+Search me through and through
+Till my heart becomes a home for you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A home for you…. .
+A home for you…. .
+Let everything I do
+Open up a door
+For you to come through
+And in my heart will be
+A place where you wanna be</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come and make my heart,
+come and make it your home
+Come and be everything
+I am and all I know
+Search me through and through
+Till my heart becomes a home for you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Till my heart becomes a home for you
+Till my heart becomes a home for you
+A home for you.</lines>
+    </verse>
+  </lyrics>
+</song>

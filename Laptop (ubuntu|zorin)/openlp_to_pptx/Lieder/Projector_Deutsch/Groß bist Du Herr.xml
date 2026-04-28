@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Groß bist Du, Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Markus Krämer</author>
+      <author type="music">Jason Ingram</author>
+      <author type="translation">Great are You, Lord</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Groß bist Du Herr, Allmächtig
+Wunderbar ist, alles was Du tust.
+Vollkommen, gerecht und wahrhaftig
+Sind alle deine Wege mit uns.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wer sollte dich, Herr nicht fürchten?
+Wer sollte nicht, deinen Namen hoch preisen,
+denn du allein, Herr, bist heilig.
+Anbetet den lebendigen Gott.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Denn du bist treu zu uns
+Treu in allen Worten und Werken.
+Treu zu uns
+Treu in alle Ewigkeit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Denn Du bist treu!</lines>
+    </verse>
+  </lyrics>
+</song>

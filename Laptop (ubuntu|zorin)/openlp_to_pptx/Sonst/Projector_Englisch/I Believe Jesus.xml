@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Believe Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Marc Nelson</author>
+      <author type="music">Marc Nelson</author>
+      <author type="translation">Ja, ich vertraue Jesus</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In this age of confusion
+There's dissolution every where
+It's hard to find true peace of mind
+Or someone who really cares</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have put my trust in Jesus
+He's like no other man I know
+His word is true
+He will see me through
+I believe Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I believe, Jesus saves
+I believe a crown of life awaits beyond the grave
+I believe the path the saints have trod
+That a prayer can touch the heart of God
+I believe the old time ways
+I believe Jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Though this world has refused Him
+Though we abuse Him, He still lives
+His grief and pain were for our gain
+So that our Lord might freely give</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Faith to overcome each trial
+The grace to live in victory
+His nail scared hands wrote salvation's plan
+I believe Jesus</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I believe, Jesus saves
+I believe a crown of life awaits beyond the grave
+I believe the path the saints have trod
+That a prayer can touch the heart of God
+I believe the old time ways
+I believe Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

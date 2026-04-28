@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Is Precious</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I feel dishearten,
+Forsaken and forgotten;
+Jesus is precious to me;
+In every condition,
+He is my Physician,
+Yes, Jesus is so precious to me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus is precious,
+Jesus is precious;
+Oh yes, Jesus is precious to me.
+He is all that I long for,
+What more could I ask for,
+When Jesus is precious to me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It's not these earthly treasures,
+Friends it is not these old world's pleasures,
+That seem so important to me,
+It is not this earthly kingship,
+And I thank God for all my friendships,
+Oh!, but my Jesus, is so precious to me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I long for You.
+I long for You.
+Like the watchman longs for the dawn;
+Like the deaf to hear the song;
+I long for You.
+As the dear who pants for the waters;
+Like the beggar to get a fortune;
+I long, for you.</lines>
+    </verse>
+  </lyrics>
+</song>

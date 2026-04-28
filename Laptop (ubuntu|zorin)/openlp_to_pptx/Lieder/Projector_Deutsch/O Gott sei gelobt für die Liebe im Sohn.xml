@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Gott, sei gelobt für die Liebe im Sohn</title>
+    </titles>
+    <authors>
+      <author type="words">Ernst Heinrich Gebhardt</author>
+      <author type="music">John Jenkins Husband</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Gott, sei gelobt
+für die Liebe im Sohn,
+der mit Blut uns erwarb
+und dann aufstieg zum Thron!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Halleluja, sei gepriesen, Halleluja, Amen!
+Halleluja, sei gepriesen, Halleluja, Amen!
+Herr, segne uns jetzt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Gott, sei gelobt
+für den Heiligen Geist,
+der zum Heiland uns führt
+und dann himmelwärts weist.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lob, Ehre und Preis
+sei für immer gebracht
+dir, dem Lamm, das von Sünde
+uns selig gemacht.</lines>
+    </verse>
+  </lyrics>
+</song>

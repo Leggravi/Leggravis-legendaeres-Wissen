@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>A Sanctuary (Lord, Prepare Me)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, prepare me to be a sanctuary
+Pure and holy, tried and true
+With thanksgiving
+I'll be a living sanctuary for You.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du hast uns lieb</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du hast uns lieb, Du treuer Gott und Vater,
+Wie nie ein Mensch geliebt.
+Du hast uns lieb! selbst nicht im Mutterherzen
+Es solche Liebe gibt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du hast uns lieb! – Den Sohn, den eingebornen,
+Gabst Du aus Deinem Schoß.
+Du hast uns lieb, unwürdig, wie wir waren,
+Und sündig, arm und bloß.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du hast uns lieb! Mit Kleidern ew'gen Heiles
+Hast Du uns angetan;
+Du hast uns lieb! – als vielgeliebte Kinder
+Anbetend wir Dir nahn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du hast uns lieb, und Deine Liebe gossest
+Du in das Herz uns aus.
+Du hast uns lieb! drum eilen frohen Mutes
+Wir heim ins Vaterhaus.</lines>
+    </verse>
+  </lyrics>
+</song>

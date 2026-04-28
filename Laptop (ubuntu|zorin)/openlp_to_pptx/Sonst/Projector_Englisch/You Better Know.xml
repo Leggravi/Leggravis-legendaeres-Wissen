@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Better Know</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The saddest thing that I know would be,
+ To come down to the end,
+ Find out you didn't have it;
+ You weren't born again,
+ All I can say to you my friend,
+ Is you better get ready to go;
+ For when He comes to take us away,
+ You're gonna be glad you know.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You better know that you have it,
+ Be sure He's comin' for you;
+ Please check your life over
+ For He is coming soon,
+ To take us home to glory;
+ I hope your life is in tune,
+ Don't wait till tomorrow,
+ Could be morning, night or noon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>But now you understand
+ Just what I'm trying to say,
+ Please don't just imagine it,
+ Or you will have to stay;
+ I want you to walk with me,
+ On those streets of gold,
+ In that blessed City,
+ Where we never shall grow old.</lines>
+    </verse>
+  </lyrics>
+</song>

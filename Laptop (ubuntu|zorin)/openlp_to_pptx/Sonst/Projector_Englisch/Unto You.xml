@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Unto You</title>
+    </titles>
+    <authors>
+      <author type="words">Hans Christian Jochimsen</author>
+      <author type="music">Hans Christian Jochimsen</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We bring unto You our gratitude
+We lift up to You our praise
+We offer our lives in sacrifice
+As tokens our hands we raise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unto You
+We minister unto You
+You gave us beautiful garments of praise
+So we minister unto You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We sing unto You with songs of joy
+In garments of white we stand
+The prayers of the saints ascend to You
+We come by the blood of the Lamb</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We minister unto You
+We minister unto You</lines>
+    </verse>
+  </lyrics>
+</song>

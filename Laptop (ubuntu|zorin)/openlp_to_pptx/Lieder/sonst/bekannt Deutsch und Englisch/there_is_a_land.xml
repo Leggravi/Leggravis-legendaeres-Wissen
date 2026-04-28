@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Dec 23, 2024, 10:53:57 AM">
+  <properties>
+    <titles>
+      <title>There Is a Land</title>
+    </titles>
+    <verseOrder>V1 V2 C3 V4 C3 V5 C3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>I have heard of a land
+On the faraway strand
+Tis a beautiful home of the soul</lines>
+    </verse>
+    <verse name="V2">
+      <lines>I have seen some pretty times,
+Guess you could say
+that I've been around;
+Found no place to settle down,
+There is a Land.
+Oh, I'm just a pilgrim here,
+Toiling through a world of fear,
+My time to leave is drawing near,
+I'm going to that Land.</lines>
+    </verse>
+    <verse name="C3">
+      <lines>There is a Land I'm homesick for,
+Though I've never seen it before,
+I've got loved ones waiting
+on that shore,
+There is a Land.
+And it's not a million miles away,
+Or on some far off distant strand;
+I'll speed up and then slow down,
+There is a Land.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>What am I so homesick, for
+Just not myself here anymore,
+Waiting for that open door,
+That leads to that Land.
+So I'll dry these weeping eyes,
+Lift my head toward the sky,
+Farewell to this world goodbye,
+I'm going to that Land.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>I have heard of a land
+On the faraway strand
+Tis a beautiful home of the soul</lines>
+    </verse>
+  </lyrics>
+</song>

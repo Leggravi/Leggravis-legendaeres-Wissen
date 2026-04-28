@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Beautiful Terrible Cross</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a beautiful terrible cross
+Where though You committed no sin
+Savior You suffered the most wicked fate
+On the cruelest creation of men.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yet on that beautiful terrible cross
+You did what only You could
+Turning that dark inspired evil of hell
+Into our soul's greatest good.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We see the love that You showed us
+We see the live that You lost
+We bow in wonder and praise You
+For the beautiful terrible cross.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There on that beautiful terrible cross
+Though darkness was strong on that hill
+You remained sovereign, Lord, still in control
+As Your perfect plan was fulfilled.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We gained the riches of heaven
+Jesus You paid the horrible cost
+We stand forgiven and praise You
+For the beautiful terrible cross.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>In the cross, in the cross
+Be my glory ever
+Till my raptured soul shall find
+Rest beyond the river.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Perfectly</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If falling down another time
+Helps to bring my will in line with Yours,
+You'll let me fall,
+If letting me pursue my plans,
+Shows me that they'll never stand without You,
+You'll let me go,
+You know I'll be broken from the fall,
+But you know I'll look back to call,
+You faithful through it all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And perfectly You Father me,
+Sometimes You withhold to give exactly what I need,
+And patiently You love all me,
+You take your time to shape my life,
+Until Your work's complete,
+I'm humbled that You'd care so faithfully,
+That perfectly You Father me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You bring me to the wilderness,
+To push my limits and to test my heart,
+You teach me to obey,
+So when all I see is desert sand,
+Strengthen me to grip Your hand and walk,
+As You lead the way,
+'Cause no one knows endurance like You do,
+And I learn in times like these,
+That I can do all things through You.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And I know it won't be long,
+Before I'm dancing in the rain,
+Laughing like a child without a care,
+But for now You brought me out here,
+To this dry and barren land,
+And knowing if I'll trust You here,
+You can take me anywhere.</lines>
+    </verse>
+  </lyrics>
+</song>

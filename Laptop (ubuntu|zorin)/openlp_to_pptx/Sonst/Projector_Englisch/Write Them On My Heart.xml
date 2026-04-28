@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Write Them On My Heart</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You've written what You want from me in stone
+A refection of Your character alone
+So I try to keep Your laws without regret
+But I'm easily distracted and forget</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So write them on my heart
+Seal them in my mind
+The beauty of Your law and grace combined
+Remind me just how lovely Your commandments are
+And write them on the tablets of my heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's only one desire inside of me
+It's to be everything You created me to be
+And I know the only way that I can grow
+It's for You to come inside and take control</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your law reflects Your goodness
+The cross reveals Your grace
+Love is the motivation behind your perfect ways</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So write them on my heart
+Engrave them in my mind
+The beauty of Your law and grace combined
+Remind me just how lovely Your commandments are
+And write them on the tablets of my heart</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Remind me just how lovely Your commandments
+Are
+And write them on the tablets of my heart.</lines>
+    </verse>
+  </lyrics>
+</song>

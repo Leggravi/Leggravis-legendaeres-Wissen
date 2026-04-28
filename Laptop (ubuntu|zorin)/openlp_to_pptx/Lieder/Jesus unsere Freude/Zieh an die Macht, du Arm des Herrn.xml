@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:47">
+  <properties>
+    <titles>
+      <title>Zieh an die Macht, du Arm des Herrn</title>
+    </titles>
+    <authors>
+      <author type="words">Friedrich Oser (1865)</author>
+      <author type="music">Lobt Gott den Herrn, ihr Heiden all</author>
+    </authors>
+    <ccliNo>5226719</ccliNo>
+    <themes>
+      <theme>Leid</theme>
+      <theme>Vertrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zieh/Zeuch an die Macht, du Arm des Herrn,
+wohlauf und hilf uns streiten.
+Noch hilfst du deinem Volke gern,
+wie du getan vorzeiten.
+Wir sind im Kampfe Tag und Nacht,
+o Herr, nimm gnädig uns in Acht
+und steh uns an der Seiten.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mit dir, du starker Heiland du,
+muss uns der Sieg gelingen;
+wohl gilt's zu streiten immerzu,
+bis einst wir dir lobsingen.
+Nur Mut, die Stund ist nimmer weit,
+da wir nach allem Kampf und Streit
+die Lebenskron erringen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drängt uns der Feind auch um und um,
+wir lassen uns nicht grauen;
+du wirst aus deinem Heiligtum
+schon unsre Not erschauen.
+Fort streiten wir in deiner Hut
+und widerstehen bis aufs Blut
+und wollen dir nur trauen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herr, du bist Gott! In deine Hand
+o lass getrost uns fallen.
+Wie du geholfen unserm Land,
+so hilfst du fort noch allen,
+die dir vertraun und deinem Bund
+und freudig dir von Herzensgrund
+ihr Loblied lassen schallen.</lines>
+    </verse>
+  </lyrics>
+</song>

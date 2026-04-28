@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:29">
+  <properties>
+    <titles>
+      <title>Gott, du bist Licht und wohnst im Licht</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Tersteegen (1729)</author>
+      <author type="music">Erhard Mauersberger</author>
+    </authors>
+    <ccliNo>5276075</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott, du bist Licht und wohnst im Licht;
+ach mach mich licht und rein,
+zu schauen, Herr, dein Angesicht
+und dir vereint zu sein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So lass mich wandeln, wo ich bin,
+vor deinem Angesicht;
+mein Tun und Lassen, all mein Sinn
+sei lauter, rein und licht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dein Auge leite meinen Gang,
+dass ich nicht irregeh;
+ach bleib mir nah mein Leben lang,
+bis ich dich ewig seh.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Life At Best</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Life At best is very brief,
+Like the falling of a leaf,
+Like the binding of a sheaf,
+Be in time.
+Fleeting days are telling fast,
+That the die will soon be cast,
+And the fatal line be passed,
+Be in time.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be in time, … Be In time, …
+While the voice of Jesus calls you,
+Be in time,
+If in sin you longer wait;
+You may find no open gate,
+And your cry be just too late,
+Be in time.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fairest flowers soon decay,
+Youth and beauty pass away,
+Oh! You have not long to stay,
+Be in time,
+While God's Spirit bids you come,
+Sinner, do no longer roam,
+Lest you seal your hopeless doom,
+Be in time.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Time is gliding swiftly by,
+Death and judgement drawer nigh,
+To the arms of Jesus fly,
+Be in time,
+Oh! I pray you, count</lines>
+    </verse>
+  </lyrics>
+</song>

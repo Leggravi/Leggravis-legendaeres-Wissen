@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Satisfied</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I count my blessings one by one
+Your goodness in my life
+How could I ask for more?
+In You, I'm satisfied</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All the mountains that I ascend
+They leave me empty time and time again
+I fix my eyes on this reward
+The world behind me now and You before</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I count my blessings one by one
+Your goodness in my life
+How could I ask for more?
+In You, I'm satisfied
+If You are all I have
+I know that I will find
+That You are all I need
+In You, I'm satisfied</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So let my life be freely spent
+For what only, only You can give
+My richest gain I count as loss
+When I survey the wonder of the cross</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nothing else, nothing else
+Nothing else will ever satisfy
+No one else, no one else
+No one else will ever satisfy
+There's nothing else
+There's nothing else that will ever satisfy
+There's no one else, no
+There's no one else</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I count my blessings one by one
+Your goodness in my life
+How could I ask for more?
+In You, I'm satisfied
+If You are all I have
+I know that I will find
+That You are all I need
+In You, I'm satisfied, oh</lines>
+    </verse>
+    <verse name="v7">
+      <lines>You satisfy my soul (nothing else)
+My soul (nothing else)
+Oh, yes, You do (nothing else will ever satisfy)
+You satisfy my soul (no one else)
+My soul (no one else)
+Oh, yes, You do (no one else will ever satisfy)
+Nothing else, nothing else
+Nothing else will ever satisfy
+No one else, no one else
+No one else will ever satisfy</lines>
+    </verse>
+  </lyrics>
+</song>

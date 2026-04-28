@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Rock Of My Salvation</title>
+    </titles>
+    <authors>
+      <author type="words">Teresa Muller</author>
+      <author type="music">Teresa Muller</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are the rock of my salvation.
+You are the strength of my life.
+You are my hope and my inspiration.
+Lord unto You will I cry.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I believe in you, believe in you.
+For your faithful love to me.
+You have been my help
+In time of need.
+Lord unto You will I cleave.</lines>
+    </verse>
+  </lyrics>
+</song>

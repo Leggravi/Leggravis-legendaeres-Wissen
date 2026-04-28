@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gib uns Frieden jeden Tag</title>
+    </titles>
+    <authors>
+      <author type="words">Rüdeger Lüders</author>
+      <author type="music">Rüdeger Lüders</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gib uns Frieden jeden Tag! Lass und nicht allein,
+denn du hast uns fest versprochen, stets bei uns zu sein.
+Denn nur du, unser Gott, denn nur du, unser Gott,
+hast die Menschen in der Hand. Lass uns nicht allein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gib uns Freiheit jeden Tag! Lass uns nicht allein.
+Lass für Frieden und für Freiheit immer tätig sein.
+Denn durch dich, unsern Gott, denn durch dich unsern Gott,
+sind wir frei in jedem Land. Lass uns nicht allein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gib uns Freude jeden Tag! Lass uns nicht allein.
+Für die kleinsten Freundlichkeiten lass uns dankbar sein.
+Denn nur du, unser Gott, denn nur du unser Gott,
+hast uns alle in der Hand! Lass uns nicht allein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gib uns Glauben jeden Tag. Lass uns nicht allein.
+Dir nur wollen wir vertrauen und gehorsam sein.
+Ohne dich, unsern Gott, ohne dich, unsern Gott,
+bau'n wir unser Haus auf Sand. Lass uns nicht allein.</lines>
+    </verse>
+  </lyrics>
+</song>

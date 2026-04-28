@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Shut in with God</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Shut in with God in the secret place,
+There in the Spirit beholding His face,
+Gaining new power to run in the race,
+I love to be shut in with God.</lines>
+    </verse>
+  </lyrics>
+</song>

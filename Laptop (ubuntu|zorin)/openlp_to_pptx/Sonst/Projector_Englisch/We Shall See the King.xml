@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Shall See the King</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a blessed time that's coming,
+  coming soon,
+It may be evening, morning or at noon,
+The wedding of the bride,
+United with the groom,
+We shall see the King when he comes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We shall see the King,
+We shall see the King,
+We shall see the King when He comes;
+He is coming in pow'r,
+We'll hail the blessed hour,
+We shall see the King when He comes.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Are you ready should the Savior
+  call today?
+Would Jesus say,
+&quot;Well done,&quot; or &quot;Go away&quot;?
+My home is for the pure,
+The vile can never stay,
+We shall see the King when comes.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, my brother, are you ready for the call?
+To crown your Savior King and Lord of all?
+The Kingdoms of this world
+Shall soon before Him fall,
+We shall see the King when He comes.</lines>
+    </verse>
+  </lyrics>
+</song>

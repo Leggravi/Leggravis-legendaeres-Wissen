@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hiding In Thee</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh safe to the Rock
+That is higher than I,
+My soul in its conflicts
+And sorrows would fly;
+So sinful, so weary, Thine,
+Thine would I be;
+Thou blest Rock of Ages,
+I'm hiding in Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hiding in Thee,
+Hiding in Thee,
+Thou blest Rock of Ages,
+I'm hiding in Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the calm of the noontide,
+In sorrow's lone hour,
+In times when temptation
+Casts o'er me its power;
+In the tempests of life,
+On its wide heaving sea,
+Thou blest Rock of Ages,
+I'm hiding in Thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>How oft in the conflict,
+When pressed by the foe,
+I have fled to my Refuge and
+Breathed out my woe;
+How often, when trials
+Like sea billows roll,
+Have I hidden in Thee,
+Oh Thou Rock of my soul.</lines>
+    </verse>
+  </lyrics>
+</song>

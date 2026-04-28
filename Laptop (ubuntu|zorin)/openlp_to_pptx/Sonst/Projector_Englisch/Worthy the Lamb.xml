@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Worthy the Lamb</title>
+    </titles>
+    <authors>
+      <author type="words">Carol Owen</author>
+      <author type="music">Carol Owen</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>&quot;Worthy is the Lamb,&quot;
+The hosts of heaven sing,
+As before the throne
+They make His praises ring;
+&quot;Worthy is the Lamb
+The book to open wide,
+Worthy is the Lamb
+Who once was crucified.&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, this bleeding Lamb,
+Oh, this bleeding Lamb,
+Oh, this dying Lamb,
+He was found worthy;
+Oh, this bleeding Lamb,
+Oh, this bleeding Lamb,
+Oh, this dying Lamb,
+He was found worthy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Worthy is the Lamb
+Who shed His precious blood
+To restore a world
+To happiness and God;
+&quot;When no eye could pity
+And no arm could save,&quot;
+Jesus, for our ransom,
+Himself freely gave.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Worthy is the Lamb,
+The bleeding sacrifice
+Who for Adam's race
+Paid such a fearful price;
+Worthy is the Lamb,
+The Paschal Lamb of God,
+For the world received
+&quot;Redemption thro' His blood.&quot;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>&quot;Worthy is the Lamb,&quot;
+Let men and angels sing,
+&quot;Worthy is the Lamb,&quot;
+Let hallelujah's ring ;
+And when life is past,
+Upon the golden shore,
+&quot;Worthy is the Lamb,&quot;
+We'll shout forevermore.</lines>
+    </verse>
+  </lyrics>
+</song>

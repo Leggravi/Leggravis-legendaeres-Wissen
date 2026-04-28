@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Love You Lord Today</title>
+    </titles>
+    <authors>
+      <author type="words">John Ellis</author>
+      <author type="music">John Ellis</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I love You, I love You,
+I love You, Lord, today;
+Because You cared for me
+in such a special way</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yes I praise You, I lift You up,
+I magnify Your name;
+That's why my heart is filled with praise</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My heart, my mind, my soul
+belongs to You.
+You paid the price for me
+way back on Calvary</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yes I praise You, I lift You up,
+I magnify Your name;
+That's why my heart is filled with praise.</lines>
+    </verse>
+  </lyrics>
+</song>

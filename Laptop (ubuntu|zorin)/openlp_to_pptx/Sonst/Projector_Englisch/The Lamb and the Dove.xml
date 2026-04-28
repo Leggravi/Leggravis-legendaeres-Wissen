@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Lamb and the Dove</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A heavenly dove of a perfect nature
+Tender and a loving filled with peace
+A lonely lamb that must be led
+Meek and humble, sacrificial
+The two of the same gentle nature.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, my heart's desire is to be led
+By your gentle loving spirit
+A lamb that gives itself up
+To the Good and gentle Shepherd.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lead me Lord, I cannot walk alone,
+Sheare away anything that hinders you,
+Humble and meek,
+What you long for to be,
+I give up my rights to you,
+So that, that I might become a little lamb for you.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The dove can only find rest in a Lamb,
+That will forsake all it's rights,
+The lamb obeys, the voice that it loves,
+And think not of its own desires,
+Pride and wrath being cast far away.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lord forgive my against,
+Return again dear Lord,
+Won't you take preeminence of my simple vessel.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I was bought with the price
+Of your precious blood,
+I'm surrending my will to you,
+So that, that I might become a lamb
+That walks with the heavenly Dove.</lines>
+    </verse>
+  </lyrics>
+</song>

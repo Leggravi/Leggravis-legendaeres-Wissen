@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Yes and amen</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father of kindness You have poured out of grace
+You brought me out of darkness
+You have filled me with peace
+Giver of mercy You're my help in time of need
+Lord I can't help but sing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Faithful, you are
+Faithful, forever, you will be
+Faithful, you are
+All your promises are Yes and Amen
+All your promises are Yes and Amen</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Beautiful saviour You have brought me here
+You pulled me from the ashes
+You have broken every curse
+Blessed redeemer You have set this captive free
+Lord I can't help but sing</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will rest
+In your promises
+My confidence
+Is your faithfulness</lines>
+    </verse>
+  </lyrics>
+</song>

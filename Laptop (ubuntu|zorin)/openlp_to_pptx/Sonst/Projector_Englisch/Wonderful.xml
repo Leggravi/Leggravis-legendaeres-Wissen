@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wonderful</title>
+    </titles>
+    <authors>
+      <author type="words">Ashton Gardner</author>
+      <author type="music">Ashton Gardner</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh my heart sings today,
+Sings for joy and gladness,
+Jesus saves, satisfies,
+Banishes my sadness;
+Guilt is gone, peace is mine,
+Peace like to a river,
+Jesus is wonderful,
+Mighty to deliver.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wonderful, wonderful,
+Jesus is to me,
+Counselor, Prince of Peace,
+Mighty God is He;
+Saving me, keeping me
+From all sin and shame,
+Wonderful is my Redeemer,
+Praise His name!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Once a slave, now I'm free,
+Free from condemnation,
+Jesus gives liberty
+And a full salvation;
+Now the sins of the past
+Have been all forgiven,
+And my name is inscribed
+On the book of heaven.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Living here with my Lord
+In a holy union,
+Day by day, all the way
+Holding sweet communion;
+Oh what change grace hath wrought
+In my lowly station!
+Since my soul has received
+Full and free salvation.</lines>
+    </verse>
+  </lyrics>
+</song>

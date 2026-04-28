@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>HalHallelujah You're worthy</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v1 v2 v1 v2 v1 v3 v3 v4 v4 v3 v3 v3 v3 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallelujah, You're worthy to be praised
+Hallelujah, You're worthy to be praised
+Hallelujah, You're worthy to be praised
+Hallelujah, You're worthy to be praised</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I lift my hands, I praise you Lord
+I bow my head, I honor you Lord
+I lift my hands, I praise you Lord
+I bow my head, I honor you Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelujah, You're worthy
+Hallelujah, we praise Your name
+Hallelujah, so worthy
+Hallelujah, Lord we lift you up</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord we lift you up</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lord we lift you up
+Lord we lift you up
+Lord we lift you up</lines>
+    </verse>
+  </lyrics>
+</song>

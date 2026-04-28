@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Do They See Jesus in Me?</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Is the face that I see in the mirror,
+The one I want others to see,
+Do I show in the way that I walk in my life,
+The love that You've shown me,
+My heart's desire is to be like You,
+In all that I do, all I am.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Do they see Jesus in me?
+Do they recognize Your face?
+Do I communicate Your love and Your grace?
+Do I reflect who You are
+In the way I choose to be?
+Do they see Jesus in me?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It's amazing that You'd ever use me,
+But use me the way You will,
+Help me to hold out a heart of compassionate grace,
+A heart that You're spirit fills,
+May I show forgiveness and mercy,
+The same way you've shown it to me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now I want to show all the world who You are,
+The reason I live and breathe,
+So You'll be the One that they see,
+When they see me.</lines>
+    </verse>
+  </lyrics>
+</song>

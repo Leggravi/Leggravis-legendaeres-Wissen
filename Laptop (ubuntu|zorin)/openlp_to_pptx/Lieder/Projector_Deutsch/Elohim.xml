@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Elohim</title>
+    </titles>
+    <authors>
+      <author type="words">Marty Sampson</author>
+      <author type="music">Marty Sampson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>An Christus glaube ich und steh auf festem Grund.
+So bleibt die Hoffnung standhaft, auch durch den größten Sturm.
+Ich bin gewiss, dass sein Versprechen sicher ist.
+So lang es Leben gibt, hält die Treue.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gott ist gütig,
+Hat Geduld.
+Er ist nicht neidisch,
+Spielt sich nicht auf.
+Sein Weg ist höher als mein Weg,
+Sein Denken neue Pfade gibt.
+Eins weiß ich sicher,
+Dass mein Gott Liebe ist.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich wandle unter seinem bewegten Himmelszelt.
+Die Hoffnung überlebt wenn mein Fleisch zu Staub zerfällt.
+Er ruft von früh bis spät all seine Kinder Heim.
+Die Liebe überdauert die Menschheit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Allmächtig ist mein Gott,
+Elohim, Schöpfer dieser Welt.
+Der Herr des Himmels.
+Er ist König, Gott,
+Grenzenlos an Wert.
+Sein Reich ist höher als jede Macht,
+Jede Kreatur.
+Er lebt wie Sonnenlicht,
+Immer wahr,
+Strahlt es über uns.</lines>
+    </verse>
+  </lyrics>
+</song>

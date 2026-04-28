@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Das ist meine Freude</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Tauchelt</author>
+      <author type="music">Gerd Watkinson</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Das ist meine Freude,
+dass ich mich zu Gott halte
+und meine Zuversicht setze auf Gott, den Herrn,
+dass ich verkündige all dein Tun.</lines>
+    </verse>
+  </lyrics>
+</song>

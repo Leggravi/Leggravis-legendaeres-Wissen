@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Proof of Your Love</title>
+    </titles>
+    <authors>
+      <author type="words">Mia Fieldes</author>
+      <author type="music">Mia Fieldes</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If I sing, but don't have love
+I waste my breath with every song
+I bring an empty voice, a hollow noise
+If I speak with a silver tongue
+Convince a crowd, but don't have love
+I leave a bitter taste with every word I say</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So let my life be the proof, the proof of your love
+Let my love look like you, and what you're made of
+How you lived, how you died
+Love is sacrifice
+So let my life be the proof
+The proof of your love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If I give to a needy soul
+But don't have love, then who is poor?
+It seems all the poverty is found in me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When it's all said and done
+When we sing our final song
+Only love remains
+Only love remains</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let my life be the proof
+The proof of your love
+Let my love look like you, and what you're made of
+How you lived, how you died
+Love is sacrifice
+So let my life be the proof
+The proof of your love</lines>
+    </verse>
+  </lyrics>
+</song>

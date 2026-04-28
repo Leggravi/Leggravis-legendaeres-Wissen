@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Heiland, reiß die Himmel auf</title>
+    </titles>
+    <authors>
+      <author type="words">Friedrich Spee von Langenfeld</author>
+      <author type="music">Köln</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Heiland, reiß die Himmel auf,
+herab, herab vom Himmel lauf;
+reiß ab vom Himmel Tor und Tür,
+reiß ab, wo Schloss und Riegel für.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Gott, ein Tau vom Himmel gieß,
+im Tau herab, o Heiland, fließ.
+Ihr Wolken, brecht und regnet aus
+den König über Jakobs Haus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Erd, schlag aus, schlag aus, o Erd,
+dass Berg und Tal grün alles werd.
+O Erd, herfür dies Blümlein bring,
+o Heiland, aus der Erden spring.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wo bleibst du, Trost der ganzen Welt,
+darauf sie all ihr Hoffnung stellt?
+O komm, ach komm vom höchsten Saal,
+komm, tröst uns hier im Jammertal.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O klare Sonn, du schöner Stern,
+dich wollten wir anschauen gern;
+o Sonn, geh auf, ohn deinen Schein
+in Finsternis wir alle sein.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hier leiden wir die größte Not,
+vor Augen steht der ewig Tod.
+Ach komm, führ uns mit starker Hand
+vom Elend zu dem Vaterland.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Da wollen wir all danken dir,
+unserm Erlöser, für und für;
+da wollen wir all loben dich
+zu aller Zeit und ewiglich.</lines>
+    </verse>
+  </lyrics>
+</song>

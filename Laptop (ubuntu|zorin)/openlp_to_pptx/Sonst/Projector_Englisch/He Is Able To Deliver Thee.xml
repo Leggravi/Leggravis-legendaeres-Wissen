@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Is Able To Deliver Thee</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>'Tis the grandest theme
+  thro' the ages rung;
+'Tis the grandest theme
+  for a mortal tongue;
+'Tis the grandest theme
+  that the world e'er sung,
+&quot;Our God is able to deliver thee.&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He is able to deliver Thee,
+He is able to deliver thee;
+Tho' by sin opprest,
+Go to Him for rest;
+&quot;Our God is able to deliver thee.&quot;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Tis the grandest theme
+  in the earth or main;
+'Tis the grandest theme
+  for a mortal strain;
+'Tis the grandest theme,
+  tell the world again,
+&quot;Our God is able to deliver thee.&quot;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>'Tis the grandest theme,
+  let the tidings roll,
+To guilty heart, to the sinful soul;
+Look to God in faith,
+He will make thee whole,
+&quot;Our God is able to deliver thee.&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

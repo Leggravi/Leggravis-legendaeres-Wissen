@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>Sicherheitswarnung</title>
+<style>
+body {
+  background: black;
+  color: red;
+  font-family: monospace;
+  text-align: center;
+  padding-top: 20vh;
+}
+.blink {
+  animation: blink 1s infinite;
+}
+@keyframes blink {
+  50% { opacity: 0; }
+}
+</style>
+</head>
+<body>
+<h1 class="blink">⚠️ SYSTEMWARNUNG ⚠️</h1>
+<p>Ungewöhnliche Netzwerkaktivität erkannt.</p>
+<p>Ihr Gerät wird überprüft…</p>
+<p id="counter">10</p>
+
+<script>
+let i = 10;
+setInterval(() => {
+  i--;
+  document.getElementById("counter").textContent = i;
+  if (i === 0) {
+    document.body.innerHTML = "<h1>😂 PRANK!</h1>";
+  }
+}, 1000);
+</script>
+</body>
+</html>
+

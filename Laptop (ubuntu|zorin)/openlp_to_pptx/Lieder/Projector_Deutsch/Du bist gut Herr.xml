@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist gut Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Stefan Dennenmoser</author>
+      <author type="music">Stefan Dennenmoser</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist gut, Herr, wahrhaft gut, Herr,
+darum hoffe ich fest auf dich.
+Du bist gut, Herr, machst mir Mut,
+denn deine Treue lässt mich nicht im Stich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist der Halt und der Sinn meines Lebens,
+drum setze ich all mein Vertrauen auf dich.
+Wer auf dich hofft, der hofft niemals vergebens,
+ich seh´s und begreif es doch nicht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All meine Tage will ich auf dich bauen,
+in jeglicher Lage dich preisen, mein Herr.
+Ich wünsche mir so, deine Schönheit zu schauen,
+dir ähnlich zu sein immer mehr.</lines>
+    </verse>
+  </lyrics>
+</song>

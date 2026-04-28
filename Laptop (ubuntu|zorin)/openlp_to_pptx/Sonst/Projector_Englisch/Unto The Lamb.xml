@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Unto The Lamb </title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can see Jesus, high and exalted
+My eyes are fixed upon his face
+It shines like the sun.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I can see Jesus, clothed in glory
+He is high and lifted up,
+And his train fills the temple.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All of the angels cry, “Holy”.
+All the saints cry, “Holy”.
+All of creation cries “Holy”.
+Holy is the lamb.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All praise unto the lamb
+Who sits on the throne
+Honor and Power, dominion and Praise
+Unto the Lamb, who was and is
+And is to come.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hallelujah, Hallelujah, Hallelujah</lines>
+    </verse>
+  </lyrics>
+</song>

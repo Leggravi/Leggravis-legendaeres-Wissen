@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Eternal God</title>
+    </titles>
+    <authors>
+      <author type="words">David Fellingham</author>
+      <author type="music">David Fellingham</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>More than any eye has seen
+A never-ending mystery
+Closer than the air we breathe
+There's no one like You God
+There's no one like You God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Author of the universe
+Stretched out the sky with just a word
+None can know Your matchless worth
+There's no one like You God
+There's no one like You God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Almighty, stand alone
+Forever to You belong
+All our praise, all our praise</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No greater love no higher Name
+Is strong enough to crush the grave
+Your kingdom will forever reign
+There's no one like You God
+There's no one like You God</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Almighty, stand alone
+Forever to You belong
+All our praise, all our praise
+Your glory beyond compare
+All heaven and earth declare
+You are great, You are great
+Eternal God</lines>
+    </verse>
+    <verse name="v6">
+      <lines>All praise and honor
+Glory and power
+To You Eternal God
+Who was and is to come
+The Everlasting One
+You are Eternal God</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Almighty, stand alone
+Forever to You belong
+All our praise, all our praise, yeah
+Your glory beyond compare
+All heaven and earth declare
+You are great, You are great
+You are great, You are great
+Eternal God, Eternal God</lines>
+    </verse>
+  </lyrics>
+</song>

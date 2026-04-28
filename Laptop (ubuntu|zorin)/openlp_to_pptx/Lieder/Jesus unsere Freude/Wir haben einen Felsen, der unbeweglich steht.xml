@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:19">
+  <properties>
+    <titles>
+      <title>Wir haben einen Felsen, der unbeweglich steht</title>
+    </titles>
+    <authors>
+      <author type="words">Hedwig von Redern (1914)</author>
+      <author type="music">Gottlob Lachenmann</author>
+    </authors>
+    <ccliNo>4347376</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir haben einen Felsen, der unbeweglich steht.
+Wir haben eine Wahrheit, die niemals untergeht.
+Wir haben Wehr und Waffen in jedem Kampf und Streit.
+Wir haben eine Wolke von Gottes Herrlichkeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir haben eine Speise, der Welt hier unbekannt.
+Wir haben einen Schatten im heißen Sonnenbrand.
+Wir haben eine Quelle, die niemals je versiegt,
+wir haben Kraft zum Tragen, die keiner Last erliegt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir haben einen Tröster voll heiliger Geduld,
+wir haben einen Helfer von liebevoller Huld.
+Wir haben eine Freude, die niemand von uns nimmt,
+wir haben eine Harfe, vom König selbst gestimmt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wir haben eine Zuflucht in jedem Sturm und Not,
+wir haben einen Reichtum, der nie zu schwinden droht.
+Wir haben eine Gnade, die alle Morgen neu,
+wir haben ein Erbarmen, das mächtig ist und treu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wir haben hier die Fülle, seitdem der Heiland kam,
+wir haben dort ein Erbe so reich und wundersam.
+Wir haben Glück, das leuchtend und unbeschreiblich ist,
+wir haben alles, alles in dir, Herr Jesu Christ.</lines>
+    </verse>
+  </lyrics>
+</song>

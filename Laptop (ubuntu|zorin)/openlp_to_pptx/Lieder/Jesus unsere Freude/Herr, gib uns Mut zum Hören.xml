@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:29">
+  <properties>
+    <titles>
+      <title>Herr, gib uns Mut zum Hören</title>
+    </titles>
+    <authors>
+      <author type="words">Kurt Rommel (1963)</author>
+      <author type="music">Kurt Rommel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, gib uns Mut zum Hören auf das, was du uns sagst.
+Wir danken dir, dass du es mit uns wagst.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr, gib uns Mut zum Leben, auch wenn es sinnlos scheint.
+Wir danken dir, denn du bist uns nicht feind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr, gib uns Mut zur Arbeit, auch wenn sie nicht gefällt.
+Wir danken dir für diese schöne Welt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herr, gib uns Mut zum Dienen, wo's heute nötig ist.
+Wir danken dir, dass du dann bei uns bist.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Herr, gib uns Mut zur Stille, zum Schweigen und zum Ruh'n.
+Wir danken dir, du willst uns Gutes tun.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Herr gib uns Mut zum Glauben an dich, den einen Herrn.
+Wir danken dir, denn du bist uns nicht fern.</lines>
+    </verse>
+  </lyrics>
+</song>

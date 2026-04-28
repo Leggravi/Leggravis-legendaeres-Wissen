@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Walk, Walk, Walk in the Light (It`s a Great Thing to Praise the Lord)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It′s a great thing to praise the Lord
+It's a great thing to praise the Lord
+It′s a great thing to praise the Lord
+Walking in the light of God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Walk, walk, walk, walk in the light
+Walk, walk, walk, walk in the light
+Walk, walk, walk, walk in the light
+Walking in the light of God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It's a great thing to love the Lord
+It's a great thing to love the Lord
+It′s a great thing to love the Lord
+Walking in the light of God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It′s a great thing to serve the Lord
+It's a great thing to serve the Lord
+It′s a great thing to serve the Lord
+Walking in the light of God</lines>
+    </verse>
+  </lyrics>
+</song>

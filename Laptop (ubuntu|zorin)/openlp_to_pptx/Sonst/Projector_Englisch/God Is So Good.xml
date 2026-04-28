@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God Is So Good</title>
+    </titles>
+    <authors>
+      <author type="words">Kevin Prosch</author>
+      <author type="music">Kevin Prosch</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God is so good,
+God is so good,
+God is so good,
+He's so good to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He saved my sin-sick soul,
+He set my spirit free,
+He healed my broken heart,
+He's so good to me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I love Him so,
+I love Him so,
+I love Him so,
+He's so good to me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He answers prayer,
+He answers prayer,
+He answers prayer,
+He's so good to me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He's coming soon,
+He's coming soon,
+He's coming soon,
+He's so good to me.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh, God is good,
+Oh, God is good,
+Oh, God is good,
+He's so good to me.</lines>
+    </verse>
+  </lyrics>
+</song>

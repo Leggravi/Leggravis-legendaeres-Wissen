@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Blessed Be the Name</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+      <author type="translation">Dir gehört mein Lob</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All praise to him who reigns above
+In majesty supreme;
+Who gave his Son for man to die,
+That he might man redeem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Blessed be the name, blessed be the name,
+Blessed be the name of the Lord;
+Blessed be the name, blessed be the name,
+Blessed be the name of the Lord.
+(Jesus is the Name…)
+(Magnify His Name…)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His name above all names shall stand,
+Exalted more and more,
+At God the Father’s own right hand,
+Where angel hosts adore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Redeemer, Savior, Friend of men
+Once ruined by the fall;
+Thou hast devised salvation’s plan,
+For thou hast died for all.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>His name shall be the Counselor,
+The mighty Prince of Peace,
+Of all earth’s kingdoms Conqueror,
+Whose reign shall never cease.</lines>
+    </verse>
+  </lyrics>
+</song>

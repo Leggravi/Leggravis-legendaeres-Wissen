@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:29">
+  <properties>
+    <titles>
+      <title>Dem König, welcher Blut und Leben</title>
+    </titles>
+    <authors>
+      <author type="words">Ernst Gottlieb Woltersdorf (1767)</author>
+      <author type="music">O, dass ich tausend Zungen hätte</author>
+    </authors>
+    <ccliNo>5579105</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dem König, welcher Blut und Leben
+dem Leben seiner Völker weiht,
+dem König werde Preis gegeben!
+Erzählt sein Lob der Ewigkeit!
+Singt alle Wunder, die er tut;
+doch über alles rühmt sein Blut!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Den König hat mein Herz gefunden;
+wo anders als auf Golgatha?
+Da floss mein Heil aus seinen Wunden;
+auch mich, auch mich erlöst' er da.
+Für mich gab er sein Leben dar,
+der ich von seinen Feinden war.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wem anders sollt ich mich ergeben,
+o König, der am Kreuz verblich?
+Hier opf'r ich dir mein Blut und Leben;
+mein ganzes Herz ergießet sich!
+Dir schwör ich zu der Kreuzesfahn
+als Streiter und als Untertan!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mich dürstet, Herr, nach deinem Blute,
+nach Regen lechzt dein dürres Land.
+Ach, außer dir, dem höchsten Gute,
+ist keine Nahrung mir bekannt.
+Mein Geist ist elend und beklemmt,
+bis dass dein Blut mich überschwemmt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O gib dein Manna mir zu essen;
+dein Freudenwein erquicke mich!
+O lass mich deiner nie vergessen!
+In meinem Geist verkläre dich!
+So halt ich hier schon Abendmahl
+und einst im großen Himmelssaal.</lines>
+    </verse>
+  </lyrics>
+</song>

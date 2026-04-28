@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Almost Persuaded</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>&quot;Almost persuaded,&quot;
+Now to believe;
+&quot;Almost persuaded,&quot;
+Christ to receive;
+Seems now some soul to say,
+&quot;Go, Spirit, go Thy way,
+Some more convenient day
+On Thee I'll call.&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>&quot;Almost persuaded,&quot;
+Come, come today;
+&quot;Almost persuaded,&quot;
+Turn not away;
+Jesus invites you here,
+Angels are ling'ring near,
+Prayers rise from hearts so dear,
+Oh wand'rer, come.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>&quot;Almost persuaded,&quot;
+Harvest is past!
+&quot;Almost persuaded,&quot;
+Doom comes at last!
+&quot;Almost&quot; cannot avail;
+&quot;Almost&quot; is but to fail!
+Sad, sad, that bitter wail,
+&quot;Almost,&quot; but lost!</lines>
+    </verse>
+  </lyrics>
+</song>

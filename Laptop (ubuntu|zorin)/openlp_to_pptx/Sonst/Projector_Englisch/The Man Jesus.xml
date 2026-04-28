@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Man Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a man by the name of
+Jesus
+He was sent to us by God
+that He might save us,
+You can read all about
+Him in the Bible
+He’s got the power to bring
+to our lives a revival.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Do you want to be
+freed from your sins
+Do you want to be
+washed from within
+Do you want to start
+once again
+The man Jesus can do It all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He says come to me all who labour
+and are heavy laden
+Take my yoke and learn from me,
+For my yoke is easy and
+my burden light</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Am the true vine
+and my Father is the dresser
+And you are the branches
+I’m the Bread of Life and the resurrection
+And I’m the way and
+the truth and the light.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus came to us, to save not to
+condemn you
+He lived a life of sorrows with joy
+But be of cheer,
+He defeated the world x 2
+The man Jesus can do It all.</lines>
+    </verse>
+  </lyrics>
+</song>

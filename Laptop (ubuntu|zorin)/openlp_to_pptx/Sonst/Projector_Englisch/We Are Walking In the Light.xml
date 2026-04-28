@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Are Walking In the Light</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are walking in the light (x3)
+We are walking in the light of God.
+Hallelujah in the light (x3)
+Hallelujah in the light of God.
+Lord we praise You in the light
+Lord we lift You in the light.</lines>
+    </verse>
+  </lyrics>
+</song>

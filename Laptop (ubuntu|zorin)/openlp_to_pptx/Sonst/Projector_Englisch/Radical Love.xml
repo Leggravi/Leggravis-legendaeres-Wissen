@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Radical Love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v4 v8 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, yeah, yeah
+We lift Your name, Jesus
+Yeah, yeah</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You found me in my darkest hour
+You gave me hope and gave me life
+You give a love that's greater
+You lead me out of darkness and into Your light</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I was blind but now I see
+Your mercy it has set me free
+Your favor's all around me
+Your radical love has found me
+And now I sing</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Take my heart, Lord it is Yours
+Oh, it is Yours, oh, it is Yours
+Take my heart, Lord it is Yours
+Oh, it is Yours, oh, it is Yours</lines>
+    </verse>
+    <verse name="v5">
+      <lines>No one else can save my soul
+No one else can make me whole (Say His name)
+Jesus, You have won me
+Your radical love surrounds me
+And now I sing</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Take my life, Lord it is Yours
+Oh, it is Yours, oh, it is Yours
+Take my life, Lord it is Yours
+Oh, it is Yours, oh, it is Yours</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I'm giving up my all, for You and You alone
+For Your sacrifice, I'm laying down my life
+I'm giving up my all, for You and You alone
+For Your sacrifice, I'm laying down my life</lines>
+    </verse>
+    <verse name="v8">
+      <lines>The price You paid, the life You gave
+The cross and the grave, my sins now erased
+The price You paid, the life You gave
+The cross and the grave, my sins now erased (Lift it up)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Never Lost</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v6 v5 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Miracles when You move
+Such an easy thing for You to do
+Your hand is moving right now
+You are still showing up
+At the tomb of every Lazarus
+Your voice is calling me out</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Right now, I know You're able
+My God, come through again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You can do all things
+You can do all things but fail
+'Cause You've never lost a battle
+No, You've never lost a battle
+And I know, I know You never will</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Everything's possible
+By the power of the Holy Ghost
+A new wind is blowing right now
+Breaking my heart of stone
+Taking over like it's Jericho
+And my walls are all crashing down</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You've never lost a battle
+You've never lost a battle
+You've never lost a battle
+You never will</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And I know, I know You never will</lines>
+    </verse>
+    <verse name="v7">
+      <lines>And I know You won't lose
+And I know You won't lose
+And I know You won't lose
+You never will</lines>
+    </verse>
+    <verse name="v8">
+      <lines>You never will</lines>
+    </verse>
+  </lyrics>
+</song>

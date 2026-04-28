@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Going Up Yonder</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v3 v4 v5 v6 v7 v2 v8 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If you want to know
+Where I'm going?
+Where I'm going, soon</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If anybody ask you
+Where I'm going
+Where I'm going, soon</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm goin' up yonder
+I'm goin' up yonder
+I'm goin' up yonder
+To be with my Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I can take the pain
+The heartaches they bring
+The comfort in knowing
+I'll soon be gone</lines>
+    </verse>
+    <verse name="v5">
+      <lines>As God gives me grace
+I'll run this race
+Until I see my Savior
+Face to face</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I'm goin' up yonder
+(Goin' up yonder)
+I'm goin' up yonder
+I'm goin' up yonder
+(Goin' up yonder)
+To be with my Lord</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I'm goin' up yonder
+(Goin' up yonder)
+I'm goin' up yonder
+(Goin' up yonder)
+I'm goin' up yonder
+To be with my Lord</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Anybody wants to know
+Anybody ask you
+(Anybody ask you)
+Where I'm going
+(Where I'm going)
+Where I'm going
+Where I'm going soon</lines>
+    </verse>
+  </lyrics>
+</song>

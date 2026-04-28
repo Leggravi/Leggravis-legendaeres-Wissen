@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Breakthrough</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Break through,
+Break through all my doubts,
+Break through,
+Break through all my fears,
+Break through,
+That I may worship You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Break through,
+Break through all my pain,
+Break through all my guilt and my shame,
+Break through like only You can do.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are brighter than my darkest night,
+Stronger than my toughest fight,
+Just one touch from You my King my Friend,
+And I'll never be the same again.</lines>
+    </verse>
+  </lyrics>
+</song>

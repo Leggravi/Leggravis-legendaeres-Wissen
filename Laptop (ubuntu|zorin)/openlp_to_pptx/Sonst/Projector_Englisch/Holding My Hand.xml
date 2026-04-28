@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Holding My Hand</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord you gave me a life
+without sorrow
+And a home where my problems
+are few,
+But should it all fall in pieces
+tomorrow,
+I just want to know
+that I have you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holding my hand Like you only
+can hold it
+Whispering peace,
+like no other can do
+I won’t worry for fame and
+fortune
+If I only know that I have you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>At last when this life is all over
+And Jordan chilly waters I view
+And no matter who is
+standing around me
+(Lord) I would like to
+know that I have you.</lines>
+    </verse>
+  </lyrics>
+</song>

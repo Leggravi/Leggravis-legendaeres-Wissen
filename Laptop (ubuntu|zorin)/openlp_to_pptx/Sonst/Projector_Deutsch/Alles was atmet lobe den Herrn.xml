@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Alles was atmet, lobe den Herrn</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Reinhard Horn</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du spannst den Himmel aus wie ein Zelt,
+hüllst mich in Licht wie ein Kleid.
+Berge schmelzen wie Wachs vor dem Herrn,
+vor dem Antlitz des Herrschers aller Welt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir stehen vor deinem Thron.
+Verkünden laut dein Lob.
+Denn du bist unser Gott,
+der König der ganzen Welt.
+Wir stehen vor deinem Thron.
+Verkünden laut dein Lob.
+Denn du bist unser Gott,
+der König der ganzen Welt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alles was atmet, lobe den Herrn,
+singet dem Herrn, dem Herrn ein neues Lied.
+Alles was atmet, lobe den Herrn,
+Hallelujah, Halle, Hallelujah.
+Alles was atmet, lobe den Herrn,
+singet dem Herrn, dem Herrn ein neues Lied.
+Alles was atmet, lobe den Herrn,
+Hallelujah, Halle, Hallelujah.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lobt ihn ihr Engel,
+lobt ihn ihr Menschen,
+lobt ihn ihr Sterne Sonne und Mond.
+Lobt seinen Namen den Namen des Herrn.
+Lobt ihn ihr Engel,
+lobt ihn ihr Menschen,
+lobt ihn ihr Sterne Sonne und Mond.
+Lobt seinen Namen den Namen des Herrn.</lines>
+    </verse>
+  </lyrics>
+</song>

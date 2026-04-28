@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come Drink At the Well of Mercy</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Most of my life I’ve been filled
+with despair
+Everything seems to slip by me
+Fear held my heart and death
+ruled my soul
+Then I drank at the well of mercy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The author of life gave me strength
+to go on
+He opened my eyes
+turned the darkness to dawn
+And now there Is sunshine
+and love in my heart
+Something Inside me Is singing
+The thirst in my soul
+now Is quenched every day
+As I drink at the well of His mercy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now if you are thirsty
+come drink at this well
+You will never thirst again
+like the woman at the well
+Jesus spoke to that day,
+Said, come drink at the well of Mercy.</lines>
+    </verse>
+  </lyrics>
+</song>

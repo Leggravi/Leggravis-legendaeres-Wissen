@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gott mit euch, bis wir uns wiedersehn!</title>
+    </titles>
+    <authors>
+      <author type="words">Johanna Meyer</author>
+      <author type="music">William Gould Tomer</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott mit euch, bis wir uns wiedersehn!
+Mög er ratend ob euch walten,
+euch bei seiner Herd erhalten!
+Gott mit euch, bis wir uns wiedersehn!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wiedersehn! Wiedersehn!
+Einst vor Gottes Thron wir stehn!
+Wiedersehn! Wiedersehn!
+Gott mit euch, bis wir uns wiedersehn!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gott mit euch, bis wir uns wiedersehn!
+Mög sein Fittich euch bedecken!
+Mögt sein Lebensbrot ihr schmecken!
+Gott mit euch, bis wir uns wiedersehn!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gott mit euch, bis wir uns wiedersehn!
+Wenn sich Wetterwolken türmen,
+mög sein ewger Arm euch, schirmen!
+Gott mit euch, bis wir uns wiedersehn!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gott mit euch, bis wir uns wiedersehn!
+Schenk euch Liebe zum Paniere,
+durch des Todes Flut euch führe!
+Gott mit euch, bis wir uns wiedersehn!</lines>
+    </verse>
+  </lyrics>
+</song>

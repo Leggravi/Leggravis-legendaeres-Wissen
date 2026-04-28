@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>On the Jericho Road</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As you travel along Jericho road,
+Does the world seem all wrong
+And heavy your load?
+Just bring it to Christ
+You sins all confess</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On the Jericho road,
+Your hear He will bless.
+On the Jericho road
+There’s room for just two
+No more and no less
+Just Jesus and you
+Each burden He’ll bear
+Each sorrow He’ll share
+There’s never a care
+For Jesus Is there.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On the Jericho road,
+Blind Bartimeus sat
+His life was void, so empty and flat
+But Jesus appeared
+One word brought him sight
+On the Jericho road
+Christ banished his blindness.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh brother to you this message
+I bring
+Though hope may be gone
+He’ll cause you to sing
+At Jesus command sins
+shackles must fall
+On the Jericho road Will you
+answer His call.</lines>
+    </verse>
+  </lyrics>
+</song>

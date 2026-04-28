@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He’s the Lord of Glory</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Behold what manner of Man is this
+Who stills the raging sea;
+He heals the sick, the lame, the halt,
+And makes the blind to see,
+He opens all the prison doors
+And sets the captives free;
+Behold what manner of man is this,
+What manner of man is He!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He’s the Lord of Glory,
+He is the great I AM;
+The Alpha and Omega,
+The beginning and the end;
+His name is Wonderful,
+The Prince of Peace is He;
+The Everlasting Father,
+Throughout Eternity.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Behold what manner of man is this
+Who healed the lame and halt;
+Who said thy sins be forgiven thee,
+Take up thy bed and walk.
+He stands as the mighty Healer now,
+And cries look unto Me;
+Behold what manner of man is this,
+What manner of man is He!</lines>
+    </verse>
+  </lyrics>
+</song>

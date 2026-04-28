@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Bist du gewachsen Kind</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Als ich ein kleiner Junge war,
+wie war ich dann so froh
+wenn ich an meinem Geburtstag
+kam zu Papa ins Büro.
+Er stellte mich wie jedes Jahr
+an den Pfosten unsr´er Tür,
+nahm Lineal und Stift zur Hand
+und sagte dann lächelnd zu mir:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bist du gewachsen Kind?
+Das frage ich dich.
+Ich schaute gespannt auf den neuen Strich
+Bist du gewachsen Kind?
+Oh ja, sagte ich.
+Und war froh, denn mehr brauchte ich nicht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nach Jahren bin ich ein Mann geworden,
+Vater war schon alt.
+Da kam ich einmal in sein Büro,
+sah mir jene Striche an.
+Und plötzlich klang im Nebenraum
+eine Stimme rau und schwach,
+ich hörte ihn, wie weit im Traum als
+väterlich er zu mir sprach.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bist du gewachsen Kind?
+Das frage ich dich.
+Ich sagte verstört das versteh ich nicht
+Bist du gewachsen Kind?
+Er schaute mich an:
+Bist im Glauben du auch schon ein Mann?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bist du gewachsen Kind?
+Es kommt nicht darauf an,
+ob groß oder klein,
+Junge oder Mann.
+Wie sieht es in dir aus?
+Das fragt dich der Herr:
+Ist er größer geworden in dir?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bist du gewachsen Kind?
+Es kommt nicht darauf an,
+ob groß oder klein,
+Junge oder Mann.
+Wie sieht es in dir aus?
+Das fragt dich der Herr:
+Ist er größer geworden in dir?</lines>
+    </verse>
+  </lyrics>
+</song>

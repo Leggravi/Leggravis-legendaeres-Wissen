@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Everything That Has Breath</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+      <author type="translation">Mit ganzem Herzen</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise Him in the sanctuary
+Praise Him in the mighty heavens
+Praise Him
+All the earth praise Him</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise Him in His awesome power
+Praise His greath and holy Name
+Praise Him
+The whole world praise Him</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From the rising of the sun
+Let his praise be heard
+From the east to the west
+And the north to south</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: Let everything that has breath
+Praise the Lord forever
+Let everything in my soul
+Praise the Lord :/</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Praise the Lord
+Praise the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

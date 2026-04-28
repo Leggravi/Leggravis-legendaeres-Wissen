@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In His Love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In His love, there's a place
+where you can always hide away
+In His love, there's no need to run,
+no need to be afraid.
+If the world's a sea of trouble,
+you can always rise above
+If you know that you are safely, In His love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In His love, where all pain
+and sorrow quickly fade away
+In His love, there's a bright tomorrow
+just beyond today
+If your heart is filled with sorrow,
+if it's all you can think of
+Still there'll be a new tomorrow, In His love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His love is never far away,
+yet sometimes hard to see
+If we would take the time to pray,
+His love would flow through you and me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In His love, there's a place
+where you can watch the world go by
+In His love, there's no need to hurry,
+everything's on time
+When the world's a sea of trouble,
+you can always rise above
+If you know that you are safely,
+In His love</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In His love, there's a place
+where you can always hide away
+In His love, there's no need to run,
+no need to be afraid.
+If your heart is filled with sorrow,
+if it's all you can think of
+Still there'll be a new tomorrow,
+In His love</lines>
+    </verse>
+  </lyrics>
+</song>

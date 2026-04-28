@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Apr 19, 2021, 12:50:56 PM">
+  <properties>
+    <titles>
+      <title>I worship you</title>
+    </titles>
+    <verseOrder>V1 V2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>I worship You Almighty God
+There is none like You
+I worship You
+I worship You O Prince of Peace
+That is what I want to do
+I give You praise
+For You are my righteousness
+You are my righteousness</lines>
+    </verse>
+    <verse name="V2">
+      <lines>I worship You Almighty God
+There is none like You
+There is none like You
+There is none like You</lines>
+    </verse>
+  </lyrics>
+</song>

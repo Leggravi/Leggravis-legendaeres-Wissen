@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Didn’t Have to Do It</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He didn’t have to do it,
+thank God He did
+He didn’t have to love me,
+thank God He did
+He didn’t have to save me,
+thank God He did
+Am so glad He did.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I was an outcast so far from home,
+No one to love me hope
+was almost gone,
+Then I felt the power of Jesus
+touch my life
+Am so glad He did.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I was sick in body,
+the doctor shook his head,
+There is no hope for you
+the future is dark he said,
+Then I felt the power of
+God’s mighty hand,
+Am so glad He did.</lines>
+    </verse>
+  </lyrics>
+</song>

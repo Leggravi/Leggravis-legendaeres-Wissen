@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du hast uns, Herr, gerufen</title>
+    </titles>
+    <authors>
+      <author type="words">Kurt Rommel</author>
+      <author type="music">Kurt Rommel</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du hast uns, Herr, gerufen, und darum sind wir hier.
+Du hast uns, Herr, gerufen, und darum sind wir hier.
+Wir sind jetzt deine Gäste und danken dir.
+Wir sind jetzt deine Gäste und danken dir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du legst uns deine Worte und deine Taten vor.
+Du legst uns deine Worte und deine Taten vor.
+Herr, öffne unsre Herzen und unser Ohr.
+Herr, öffne unsre Herzen und unser Ohr.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr, sammle die Gedanken und schick uns deinen Geist.
+Herr, sammle die Gedanken und schick uns deinen Geist,
+der uns das Hören lehrt und dir folgen heißt,
+der uns das Hören lehrt und dir folgen heißt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wenn wir jetzt weitergehen, dann sind wir nicht allein.
+Wenn wir jetzt weitergehen, dann sind wir nicht allein.
+Der Herr hat uns versprochen, bei uns zu sein.
+Der Herr hat uns versprochen, bei uns zu sein.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wir nehmen seine Worte und Taten mit nach Haus.
+Wir nehmen seine Worte und Taten mit nach Haus
+und richten unser Leben nach seinem aus
+und richten unser Leben nach seinem aus.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Er hat mit seinem Leben gezeigt, was Liebe ist.
+Er hat mit seinem Leben gezeigt, was Liebe ist.
+Bleib bei uns heut und morgen, Herr Jesu Christ.
+Bleib bei uns heut und morgen, Herr Jesu Christ.</lines>
+    </verse>
+  </lyrics>
+</song>

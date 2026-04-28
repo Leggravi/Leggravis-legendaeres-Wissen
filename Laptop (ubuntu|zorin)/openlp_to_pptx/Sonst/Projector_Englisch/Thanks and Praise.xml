@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thanks and Praise</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v2 v5 v6 v2 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are here together
+To lift our hearts as one
+We're in our Father's presence
+His Spirit is with us</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It is good to lift the name of the Lord, our God
+It is right to give Him thanks and praise
+For His heart is overflowing with love for us
+And His mercy, we can never contain</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And each and every morning
+We'll tell of His great love
+Of all His faithful mercies
+And all that He has done</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For who can match His kindness
+And who can count His works
+Oh, let our praise continue
+'Til evening draws in close</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Glory, honour, wisdom, power and strength
+To our Saviour Jesus, worthy of all praise
+Oh, glory, honour, wisdom, power and strength
+To our Saviour Jesus, worthy of all praise (we're before Him)
+Glory, honour, wisdom, power and strength
+To our Saviour Jesus, worthy of all praise</lines>
+    </verse>
+    <verse name="v6">
+      <lines>It is good to lift the name of the Lord, our God
+It is right to give Him thanks and praise (come on)
+For His heart is overflowing with love for us
+And His mercy, we can never contain</lines>
+    </verse>
+    <verse name="v7">
+      <lines>It is right to give Him thanks and praise
+It is right to give Him thanks and praise
+Ooh-ooh, yeah</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Harden Not Your Heart</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He said behold I stand knocking at the door
+Whosoever will hear his voice and let him in
+And why you linger when today you hear him call your name
+So harden not your heart for tomorrow maybe too late.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Harden not your heart if you hear his voice today
+Let Jesus come in and make your life a new,
+He's been waiting here so long for you to turn to him
+So harden not your heart if you hear his voice today.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He went to the cross just to rescue you and me
+He said, &quot;Father forgive them for they don't know what they do.&quot;
+Just believe been born again salvation has been paid it's free,
+So harden not your heart if you hear his voice today.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Will Fear No More</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Every anxious thought that steals my breath
+It's a heavy weight upon my chest
+As I lie awake and wonder what the future will hold
+Help me to remember that You're in control</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're my courage when I worry in the dead of night
+You're my strength'cause I'm not strong enough to win this fight
+You are greater than the battle raging in my mind
+I will trust You, Lord
+I will fear no more</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will lift my eyes
+I will lift my cares
+Lay them in Your hands
+I'll leave them there
+When the wind and waves are coming
+You shelter me
+Even though I'm in the storm, the storm is not in me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No power can come against me
+'Cause You have overcome
+No darkness can overwhelm me
+'Cause You've already won
+No power can come against me
+'Cause You have overcome
+(Oh-oh-oh-ohh, oh-oh-oh-ohh)
+No darkness can overwhelm me
+'Cause You've already won
+(Oh-oh-oh-ohh, oh-oh-oh-ohh)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I will fear no more (Fear no more)
+(Oh-oh-oh-ohh, oh-oh-oh-ohh) I will fear no more
+(Oh-oh-oh-ohh, oh-oh-oh-ohh) I will fear no more
+(Oh-oh-oh-ohh, oh-oh-oh-ohh) I will fear no more</lines>
+    </verse>
+  </lyrics>
+</song>

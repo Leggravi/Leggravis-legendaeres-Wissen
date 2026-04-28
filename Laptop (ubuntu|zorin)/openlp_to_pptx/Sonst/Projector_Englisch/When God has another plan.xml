@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When God has another plan</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Forsaken by his brothers
+Didn't fit the scene
+Being made a slave was not was Joseph dreamed
+The coat of many colors was stained with blood and lies
+But from this divine appointment
+a ruler would arise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But God has another plan
+Walk on and just say &quot;Yes&quot;
+When God has another plan
+Be assured that He knows best
+When all your dreams are shattered
+rest in His sufficient grace
+We don't have to understand
+When God has another plan</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alone and broken hearted
+Questions fill your mind
+Changes can be hard
+that come by God's design
+But if you could see tomorrow
+with a view from Heavens throne
+Every unexpected struggle
+has led you closer home</lines>
+    </verse>
+  </lyrics>
+</song>

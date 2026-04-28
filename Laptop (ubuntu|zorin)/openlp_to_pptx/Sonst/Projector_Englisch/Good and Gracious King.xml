@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Good and Gracious King</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I approach the throne of glory
+Nothing in my hands I bring
+But the promise of acceptance
+From a good and gracious King</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will give to You my burden
+As You give to me Your strength
+Come and fill me with Your Spirit
+As I sing to You this praise</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You deserve the greater glory
+Overcome, I lift my voice
+To the King in need of nothing
+Empty handed I rejoice</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You deserve the greater glory
+Overcome with joy I sing
+By Your love I am accepted
+You’re a good and gracious King</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O what grace that You would see me
+As Your child and as Your friend
+Safe, secure in You forever
+I pour out my praise again</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Holy, holy, Lord Almighty
+Good and gracious
+Good and gracious
+Holy, holy, Lord Almighty
+Good and gracious King</lines>
+    </verse>
+  </lyrics>
+</song>

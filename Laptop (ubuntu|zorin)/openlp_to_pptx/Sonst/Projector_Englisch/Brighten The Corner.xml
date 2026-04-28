@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Brighten The Corner</title>
+    </titles>
+    <authors>
+      <author type="words">Ina Duley Ogdon</author>
+      <author type="music">Charles H. Gabriel</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Brighten the corner where you are,
+Brighten the corner where you are;
+Someone far from Jesus
+May behold your light afar;
+Brighten the corner where you are.</lines>
+    </verse>
+  </lyrics>
+</song>

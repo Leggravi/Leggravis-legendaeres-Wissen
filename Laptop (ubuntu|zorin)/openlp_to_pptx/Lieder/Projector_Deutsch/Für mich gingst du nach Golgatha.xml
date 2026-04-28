@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Für mich gingst du nach Golgatha</title>
+    </titles>
+    <authors>
+      <author type="words">Margret Birkenfeld</author>
+      <author type="music">Margret Birkenfeld</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Für mich gingst du nach Golgatha,
+für mich hast du das Kreuz getragen,
+für mich ertrugst du Spott und Hohn,
+für mich hast du dich lassen schlagen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr deine Liebe ist so groß,
+dass ich sie nie begreifen kann,
+doch danken will ich dir dafür.
+Herr deine Liebe ist so groß,
+dass ich sie nie begreifen kann.
+Ich bete dich an.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Für mich trugst du die Dornenkron`,
+für mich warst du von Gott verlassen.
+Auf dir lag alle Schuld der Welt,
+auch meine Schuld; ich kann`s nicht fassen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herr Jesus Christus, alle Schuld
+hast du für immer mir vergeben.
+Du hast mich froh und frei gemacht,
+du schenkst mir neues, ew`ges Leben.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Yaweh</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our God He lives forever,
+He reigns in power and love.
+Let Earth bow down before Him.
+For He is exalted.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We look to Yahweh Yahweh
+Forever Yahweh Yahweh</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Our hope is God Almighty.
+His love is greater than all.
+Lift high the God of Heaven.
+Give all the honor</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We look to Yahweh Yahweh
+Our hope is Yahweh Yahweh.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And He shall reign forever
+He shall reign forever
+He shall reign
+Forever and ever (our God)</lines>
+    </verse>
+  </lyrics>
+</song>

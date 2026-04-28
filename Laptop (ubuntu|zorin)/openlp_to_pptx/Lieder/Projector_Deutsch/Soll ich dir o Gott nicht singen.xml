@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Soll' ich dir, o Gott, nicht singen</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sollt' ich Dir, o Gott, nicht singen,
+Sollt' ich Dir nicht dankbar sein?
+Kann ich doch in allen Dingen
+Deiner Liebe mich erfreun!
+Liebe ist es, nichts als Liebe,
+Was Dein treues Herz bewegt,
+Liebe, die mich pflegt und trägt
+In dem Dienst, den ich hier übe.
+Unergründlich für und für
+Bleibet Deine Liebe mir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Für mich ehemals Verlornen,
+Der ich tot in Sünden war,
+Gabst Du Deinen Eingebornen,
+Gabst Du Jesum Christum dar.
+Wer kann, was Du tust, ergründen,
+Auf der ganzen Erde wer?
+Wer aus Deiner Engel Heer
+Kann es, wie Du liebst, empfinden?
+Unergründlich für und für
+Bleibet Deine Liebe mir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Deine Füll' an Lieb' und Gnade
+Mißt kein menschlich Denken aus.
+Auf dem ganzen Pilgerpfade
+Gehst Du segnend mir voraus.
+Wollest mir auch dieses schenken:
+Dir mein ganzes Herz zu weihn,
+Deiner Liebe mich zu freun,
+Deines Ruhmes zu gedenken,
+Bis ich Dich nach dieser Zeit
+Lieb' und lob' in Ewigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

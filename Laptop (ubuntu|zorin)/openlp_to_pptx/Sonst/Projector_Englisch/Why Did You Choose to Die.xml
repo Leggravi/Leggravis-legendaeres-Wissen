@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Why Did You Choose to Die?</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Why did you choose
+to die on the cross?
+Why did you choose to die
+on that day?
+Why did you choose to be
+buried in the grave?
+Why did you choose to die?
+Why did you choose the crown
+on that day?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Why did you choose to be stoned
+and mocked?
+Why did you choose to be beaten
+and mistreated?
+Why did you choose to die?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Why did you love
+undeserving as I am?
+Why did you care so much for me?
+Why did you leave that
+heaven for me?
+Why did you choose to die?</lines>
+    </verse>
+  </lyrics>
+</song>

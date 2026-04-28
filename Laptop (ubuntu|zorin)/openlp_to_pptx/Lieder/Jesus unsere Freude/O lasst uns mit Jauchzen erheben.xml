@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:03">
+  <properties>
+    <titles>
+      <title>O lasst uns mit Jauchzen erheben</title>
+    </titles>
+    <authors>
+      <author type="words">Johanna Meyer (1921)</author>
+      <author type="music">James McGranahan</author>
+    </authors>
+    <ccliNo>4899893</ccliNo>
+    <themes>
+      <theme>Schöpfung</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O lasst uns mit Jauchzen erheben
+den Schöpfer und Herrscher der Welt,
+den Herrn, von des Güte wir leben,
+des Allmacht uns trägt und erhält.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ihm, Ihm gehört Himmel und Erde;
+ja, Ihm ist kein anderer gleich.
+Und wir sind das Volk Seiner Herde,
+berufen, zu erben Sein Reich.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Voll Liebe hat stets Er gewaltet
+und über uns freundlich gewacht,
+hat gnädig das Los uns gestaltet
+und hier schon uns glücklich gemacht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und hat Seine Hand uns geschlagen,
+so hatte Er dennoch uns lieb;
+und gab es auch Lasten zu tragen,
+die Hoffnung der Herrlichkeit blieb.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ihm, der uns mit Jesus versöhnte,
+der uns aus dem Staube erhob
+und uns mit Barmherzigkeit krönte,
+nur Ihm gebührt Ehre und Lob!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O lasst uns mit jubelnden Chören
+Ihm stets unser Loblied erneun;
+preist Ihn! Alle Welt soll es hören,
+dass wir unsres Gottes uns freun!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Holy Spirit Breathe On Me</title>
+    </titles>
+    <authors>
+      <author type="words">Norman Leonard Warren</author>
+      <author type="music">Norman Leonard Warren</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy Spirit breathe on me
+Holy Spirit let me see
+All the things You are
+All the things You want me to be
+Holy Spirit breathe on me
+All the things You are
+All the things You want me to be
+Holy Spirit breathe on me</lines>
+    </verse>
+  </lyrics>
+</song>

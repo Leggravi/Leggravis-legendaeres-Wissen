@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>How Excellent is Thy Name</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How exellent is Thy name,
+oh, Lord!
+How excellent is Thy name!
+Heaven and earth
+together proclaim:
+How excellent is Thy name!
+(2x)</lines>
+    </verse>
+  </lyrics>
+</song>

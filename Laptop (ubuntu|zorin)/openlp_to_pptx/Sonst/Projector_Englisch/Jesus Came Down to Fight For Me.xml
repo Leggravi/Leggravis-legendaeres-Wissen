@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Came Down to Fight For Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He was worshipped in heaven
+Receiving honor, glory and praise
+Before there was a creation,
+I was locked up in Him.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Up there, I fought with Michael
+When that old dragon
+Was kicked out of heaven
+Here I'm now in this terrestrial body
+Looking back at my victory</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And He looked at me
+Jesus saw I was in need
+Fighting this battle of good over evil
+So He descended to fight for me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My Jesus descended!
+Seven angels were seen in the cloud
+He has established
+His throne in my heart.
+Now all those devils are under my feet.
+Just when the enemy,
+Thought he'd destroy me.
+Jesus came down to fight for me.</lines>
+    </verse>
+  </lyrics>
+</song>

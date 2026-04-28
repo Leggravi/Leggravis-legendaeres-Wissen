@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:55">
+  <properties>
+    <titles>
+      <title>Die güldene Sonne bringt Leben und Wonne</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp von Zesen (1641)</author>
+      <author type="music">Johann Georg Ahle</author>
+    </authors>
+    <ccliNo>5208249</ccliNo>
+    <themes>
+      <theme>Morgenlieder</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Die güldene Sonne
+bringt Leben und Wonne,
+die Finsternis weicht.
+Der Morgen sich zeiget,
+die Röte aufsteiget,
+der Monde verbleicht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nun sollen wir loben
+den Höchsten dort oben,
+dass er uns die Nacht
+hat wollen behüten
+vor Schrecken und Wüten
+der höllischen Macht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kommt, lasset uns singen,
+die Stimmen erschwingen,
+zu danken dem Herrn.
+Ei bittet und flehet,
+dass er uns beistehet
+und weiche nicht fern.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Es sei ihm gegeben
+mein Leben und Streben,
+mein Gehen und Stehn.
+Er gebe mir Gaben
+zu meinem Vorhaben,
+lass richtig mich gehn.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In meinem Studieren
+wird er mich wohl führen
+und bleiben bei mir,
+wird schärfen die Sinnen
+zu meinem Beginnen
+und öffnen die Tür.</lines>
+    </verse>
+  </lyrics>
+</song>

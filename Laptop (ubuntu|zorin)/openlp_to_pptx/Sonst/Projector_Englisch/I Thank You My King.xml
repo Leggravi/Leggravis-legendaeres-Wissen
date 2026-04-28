@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Thank You My King</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I think upon Your goodness
+And Your faithfulness each day
+I've convinced it's not because I am worthy
+To be see the kind of love that You give</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But I'm grateful for Your mercy
+And I'm grateful for Your grace
+And because of higher part of yourself
+I have come to sing this song out in praise</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I thank You, I thank You
+Great and Mighty creator of the world
+I thank You, I thank You, My King</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Who am I to sing You praises
+Who am I to worship You
+It's Your blood that makes the difference in me
+And made a way to enter into Your throne</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I could not come near Your presence
+I could never sing your song
+But the sacrifice on Calvary's tree
+It's the reason why I cry out today</lines>
+    </verse>
+  </lyrics>
+</song>

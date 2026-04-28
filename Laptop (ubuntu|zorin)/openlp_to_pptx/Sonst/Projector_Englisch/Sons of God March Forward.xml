@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Son's of God March Forward</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Son's of God march forward
+In the Power of Jesus name
+Son's of God march forward
+For Jesus is ever the same</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Son's of God march forward
+We are more than conquer's in His name
+Son's if God march forward
+In tha Power of Jesus name.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist mein Zufluchtsort</title>
+    </titles>
+    <authors>
+      <author type="words">Norma Huck</author>
+      <author type="music">Vikki Cook</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist mein Zufluchtsort.
+Ich berge mich in Deiner Hand,
+denn Du schützt mich, Herr.
+Wann immer mich Angst befällt, traue ich auf Dich.
+Ja, ich trau auf Dich, und ich sage:
+„Ich bin stark in der Kraft meines Herrn.“</lines>
+    </verse>
+  </lyrics>
+</song>

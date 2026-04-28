@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Dec 20, 2019, 5:37:04 PM">
+  <properties>
+    <titles>
+      <title>Deeper in Love</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>There is a longing only You can fill
+A raging tempest only You can still
+My soul is thirsty Lord to know You as I'm known
+Drink from the river that flows before Your throne</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Take me deeper, deeper in love with You
+Jesus hold me close in Your embrace
+Take me deeper, deeper than I've ever been before
+I just want to love You more and more
+How I long to be deeper in love</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Sunrise to sunrise I will seek Your face
+Drawn by the Spirit to the promise of Your grace
+My heart has found in You a hope that will abide
+Here in Your presence forever satisfied</lines>
+    </verse>
+  </lyrics>
+</song>

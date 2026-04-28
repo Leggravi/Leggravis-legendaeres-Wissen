@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Day of Judgment</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Day of judgment may be nearing
+What a morning that will be,
+There will be safety then in Jesus,
+Rock of Ages cleft for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh my loving brother
+when the world's on fire,
+Don’t you want God’s bosom
+to be your pillow,
+Hide me ever,
+in the Rock of Ages,
+Rock of Ages cleft for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the dawning of that morning
+Breaks in fury on the world,
+Rocks and mountains, streets and
+valleys
+In confusion will be hurled.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sinners trembling, saints rejoicing
+Each departing to his place,
+All the ransomed Christ will
+gather,
+He has saved them by His grace.</lines>
+    </verse>
+  </lyrics>
+</song>

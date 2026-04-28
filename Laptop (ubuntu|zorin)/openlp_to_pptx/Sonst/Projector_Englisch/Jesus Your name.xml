@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Your name</title>
+    </titles>
+    <authors>
+      <author type="words">Keith Getty</author>
+      <author type="music">Keith Getty</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Your name, is my first defense
+And O Your name is my last amen
+It carries me when I cannot stand
+It reaches me when I reach the end</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus Your name, when the whole world shakes
+Jesus Your name, I will ever praise
+My battle cry every night and day
+I’ll sing Your name over everything
+I’ll sing Your name over everything</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Your name is my greatest strength
+It fights for me and it won’t relent
+I cast my cares
+Every burden fall
+For there’s one name that can bear them all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In every storm, You’re the Prince of Peace
+The Lord of all, You are heaven’s King
+I’ll sing Your name til my last breath here
+Then I’ll sing again, with my first breath there</lines>
+    </verse>
+  </lyrics>
+</song>

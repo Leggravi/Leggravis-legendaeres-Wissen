@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deine Ewigkeit kommt in unsre Zeit.
+Deine Herrlichkeit in unsre Dunkelheit.
+Gott wird Mensch, als Kind gebor‘n.
+Die Liebe dringt durch Leid und Not,
+verschlingt für uns den Tod, denn du bist Gott.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deine Kraft und Macht kommt in Schwachheit.
+Deine Weisheit kommt in unsre Einfachheit.
+Deine Gnade und dein Heil regiert.
+Die Herrschaft gehört dir allein.
+Dein neues Leben soll nun in uns sein:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Denn du bist Jesus.
+Du bist Wunderrat.
+Du bist gnadenvoll,
+Retter der Welt.
+Du bist Jesus.
+Du bist starker Held.
+Du bist Friedefürst,
+Gottes Sohn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und die Herrschaft ruht auf deiner Schulter.
+Deines Friedensreichs wird kein Ende mehr sein.
+Und die Herrschaft ruht auf deiner Schulter,
+von heute an in Ewigkeit!</lines>
+    </verse>
+  </lyrics>
+</song>

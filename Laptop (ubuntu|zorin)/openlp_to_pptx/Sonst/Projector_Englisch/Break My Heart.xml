@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Break My Heart</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Break my heart, dear Lord
+Tear the barriers down.
+Show me with convicting tears
+The glory of Your crown.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My heart is hard
+My soul so weak
+The ways of evil
+Cut so deep
+I need you Lord
+To come inside
+And gently break
+My heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I once was blind, but now I see
+The glory set for me
+Show me Father where to start
+And gently break my heart</lines>
+    </verse>
+  </lyrics>
+</song>

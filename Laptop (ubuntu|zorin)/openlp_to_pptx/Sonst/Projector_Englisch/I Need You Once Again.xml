@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Need You Once Again</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Decisions must be made
+And now I have a choice,
+I need your wisdom Lord,
+I need to hear your voice,
+I'm facing challenges
+And the walls are closing in.
+I'm crying out to you, my one true,
+Faithful friend.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hear my prayer, oh lord,
+I need you in my life,
+I cry to you, oh, lord.
+Please lead me to the light,
+Show me the way, oh lord,
+And cleanse me from my sin,
+I need you,
+I need you once again,
+I need you,
+I need you once again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know you are the one that guides me day by day,
+The answer's found in you,
+You're the truth, the life, the way.
+When others seem to fail,
+And troubles all around,
+Lord, you're always standing there,
+The one true hope I found.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I need you, beside me,
+I need you, to guide me,
+I need you, please hear me,
+I need you, be near me..
+I need you, beside me,
+I need you, to guide me,
+I need you, please hear me,
+I need you, be near me!</lines>
+    </verse>
+  </lyrics>
+</song>

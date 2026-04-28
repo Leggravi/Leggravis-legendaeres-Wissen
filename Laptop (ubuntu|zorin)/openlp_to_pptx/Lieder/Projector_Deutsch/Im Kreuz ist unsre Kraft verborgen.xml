@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Im Kreuz ist unsre Kraft verborgen</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">James McGranahan</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Im Kreuz ist unsre Kraft verborgen, nimm sie nur gläubig an.
+Geh Schritt für Schritt und laß ihn sorgen, er führt auf rechter Bahn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Denn die da harren auf den Herrn, kriegen neue Kraft,
+sie fahren auf mit Flügeln, sie fahren auf mit Flügeln wie Adler.
+Sie laufen, ohne matt zu werden, wandeln ohn‘ Ermüden,
+sie laufen, ohne matt zu werden und wandeln mühelos.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Komm mit, und lass das viele Sorgen zum Heiland frohgemut,
+gib ihm dein Heute und dein Morgen, sieh, es wird alles gut.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Willst du ein Neues für ihn schaffen, ruf’s in die Welt hinein,
+die müde sind und die Erschlafften, die soll’n sein eigen sein.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ihr Schnitter in der weißen Ernte, oft elend, schwach und klein.
+Kommt, wartet auf den treuen Meister. Er will euch Kraft verleihn.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Freut euch, denn er ist immer mit uns, ja sicher bis ans End.
+Blickt auf, seid mutig und geht vorwärts, die nötge Kraft er spend’t.</lines>
+    </verse>
+  </lyrics>
+</song>

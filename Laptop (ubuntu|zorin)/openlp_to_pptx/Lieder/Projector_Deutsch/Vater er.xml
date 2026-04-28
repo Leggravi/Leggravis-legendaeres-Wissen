@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Vater er</title>
+    </titles>
+    <authors>
+      <author type="words">Johannes Elter</author>
+      <author type="music">Heinrich Fransen</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vater, Er war dort bei Dir im Anfang,
+lang vor Engel, Menschen, Meer und Land
+Gottes Liebe strahl im frohen Einklang.
+Alle Macht hast Du in Deiner Hand.
+Doch in Ihm, dem Sohn, dem Eingebornen,
+offenbarst Du Deinen großen Plan.
+Deine Liebe bringt Er den Verlornen.
+Was Gott tut, ja, das ist wohlgetan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vater, Er zeigt Deine Herzensgründe,
+macht in Gnade Wahrheit klar bekannt.
+In Versuchung bleibt Er ohne Sünde.
+Alle Macht hast Du in Seine Hand.
+Sieh auf Ihn: Sein makelloses Lebens
+wirkst Dein Werk als Zeugnis für die Welt.
+Ja, Dein Sohn, Ihm kannst Du Ehre geben,
+denn nur Er tut, was Dir wohlgefällt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vater, Er nimmt Deinen Schreckensbecher,
+wie Du willst, voll Leid bis an den Rand,
+trägt Sein Kreuz hinaus wie ein Verbrecher,
+übergibt den Geist in Deine Hand.
+Und in Ihm siegt göttliche Gerechtigkeit,
+offen liegen Grab und Leinentuch,
+denn Sein Opfer spiegelt Deine Weisheit,
+dessen Duft für Dich ein Wohlgeruch.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vater, Er thront jetzt an Deiner Seite,
+hocherhöht im Himmelheimatland.
+Doch Du schließt uns ein in Deine Liebe,
+niemand raubt uns je aus Deiner Hand.
+Ja, durch Ihn sind wir nun Deine Kinder.
+beten Dich in Geist und Wahrheit an.
+Und wir rufen dankbar: &quot;Abba, Vater!&quot;;
+was Du tust, ist ewig wohlgetan.</lines>
+    </verse>
+  </lyrics>
+</song>

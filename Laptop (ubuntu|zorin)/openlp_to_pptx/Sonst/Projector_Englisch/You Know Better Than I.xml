@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Know Better Than I</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I thought I did what's right
+ I thought I had the answers
+ I thought I chose the surest road
+ But that road brought me here
+ So I put up a fight
+ And told You how to help me
+ Now just when I have given up
+ The truth is coming clear</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You know better than I
+ You know the way
+ I've let go the need to know why
+ For You know better than I</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If this has been a test
+ I cannot see the reason
+ But maybe knowing I don't know
+ Is part of getting through
+ I tried to do what's best
+ But faith has made it easy
+ To see the best thing I can do
+ Is to put my trust in You.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I saw one cloud and thought it was a sky
+ I saw a bird and thought that I could follow
+ But it was You who taught that bird to fly
+ If I let You reach me
+ Will You teach me.</lines>
+    </verse>
+  </lyrics>
+</song>

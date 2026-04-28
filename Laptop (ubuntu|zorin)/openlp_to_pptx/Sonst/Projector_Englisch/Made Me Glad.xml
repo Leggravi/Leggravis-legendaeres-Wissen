@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Made Me Glad</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v5 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will bless the Lord forever
+And I will trust Him at all times
+He has delivered me from all fear
+And He has set my feet upon a rock</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will not be moved, and I'll say of the Lord
+You are my shield, my strength, my portion
+Deliverer, my shelter, strong tower
+My very present help in time of need</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Whom have I in heaven but You
+There's none I desire beside You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For You have made me glad, and I'll say of the Lord
+You are my shield, my strength, my portion
+Deliverer, my shelter, strong tower
+My very present help</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You are my shield, my strength, my portion
+Deliverer, my shelter, strong tower
+My very present help in time of need</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You have made me glad, and I'll say of the Lord
+You are my shield, my strength, my portion
+Deliverer, my shelter, strong tower
+My very present help</lines>
+    </verse>
+    <verse name="v7">
+      <lines>My very present help in time of need
+My very present help in time of need</lines>
+    </verse>
+  </lyrics>
+</song>

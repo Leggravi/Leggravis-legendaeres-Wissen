@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Victory Belongs to Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v4 v6 v4 v7 v4 v8 v4 v9 v4 v10 v4 v11 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who will stand against the Lord?
+No one can, No one will
+Who will stand against the king?
+No one can, No one will</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh oh oh
+Oh oh oh
+Victory belongs to Jesus
+Victory belongs to Him</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I said, who can stand (who can stand against the Lord?)
+No one (no one can)
+No one (no one will)
+Yes, who can stand (who can stand against the king?)
+Nobody can (no one can)
+No one will (no one will)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh oh oh
+Oh oh oh
+Victory belongs to Jesus (victory belongs to Jesus)
+Victory belongs to Him</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So we put our trust in You
+Yes, we put our hope in You</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You will deliver (You're a provider)
+You're a provider (I find my victory)
+I find my victory in You (forever victorious)
+Forever victorious (forever we win Jesus)
+Forever we win (the victory is in You Jesus)
+I find my victory in You</lines>
+    </verse>
+    <verse name="v7">
+      <lines>You're a provider (I find safety)
+I find my victory in You (forever victorious)
+Forever victorious (forever we win Jesus)
+Forever we win (yeah)
+I find my victory in You</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Victory belongs to Jesus (Victory belongs to Jesus) yes it does
+Victory belongs to Him (oh yes it does)</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Victory belongs to Jesus
+Victory belongs to Him</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Victory belongs to Jesus (no matter what he looks like)
+Victory belongs to Jesus (no matter what he feels right now)
+Victory belongs to Jesus
+Victory belongs to him
+(It belongs to you)</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Victory belongs to Jesus
+Victory belongs to Him
+Victory belongs to Jesus
+Victory belongs to Him</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ein volles, freies, ewges Heil</title>
+    </titles>
+    <authors>
+      <author type="words">Ernst Heinrich Gebhardt</author>
+      <author type="music">Johann Georg Christian Störl</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ein volles, freies, ew'ges Heil
+hat Jesus uns gebracht.
+Mein Herz, ergreife jetzt Dein Teil,
+das völlig selig macht!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O halte fest am Wort des Herrn
+und zweifle nicht daran!
+Nein, glaub vielmehr: Gott tut so gern
+mehr als man denken kann.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sein Wort verheißt ja sonnenklar,
+gestützt auf Gottes Treu',
+wie Jesus Christus, ewig wahr,
+ein ganzer Heiland sei.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Drum starb Er auch, drum lebt Er nun,
+drum wirkt Sein Heilger Geist.
+Was Er tut, will Er völlig tun,
+dass Ihn Sein Werk auch preist.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Herr Jesus, sieh, hier geb ich mich
+Dir ganz zum Opfer hin!
+Ich glaub von Herzensgrund an Dich;
+Dich preist mein ganzer Sinn.</lines>
+    </verse>
+  </lyrics>
+</song>

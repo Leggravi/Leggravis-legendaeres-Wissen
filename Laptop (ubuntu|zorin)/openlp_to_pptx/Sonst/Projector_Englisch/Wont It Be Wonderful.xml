@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Won't It Be Wonderful?</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When with the Saviour
+we enter the gloryland,
+Won't it be wonderful there?
+Ended the troubles
+and cares of the storyland,
+Won't it be wonderful there?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Won't it be wonderful there?
+Having no burdens to bear?
+Joyously singing
+With heart-bells all ringing,
+Oh won't it be wonderful there?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Walking and talking with Christ,
+  the supernal One,
+Won't it be wonderful there?
+Praising adoring the matchless
+  eternal One,
+Won't it be wonderful there?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There where the tempest
+Will never be sweeping us,
+Won't it be wonderful there?
+Sure that forever the Lord
+  will be keeping us,
+Won't it be wonderful there?</lines>
+    </verse>
+  </lyrics>
+</song>

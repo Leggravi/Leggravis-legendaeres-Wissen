@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When Jesus Knocked</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I was straying out
+in sin
+My Jesus spoke to me
+His voice I certainly heard
+as He said Come unto me
+I’ll make you a pure child of God
+And get you free from sin
+if you’ll open your heart
+and let me in.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When Jesus knocked at
+my heart’s door I let Him in
+He came inside and found my heart
+Was stained in sin
+He gave me joy and
+peace the world
+Could never know, He took
+my heart and washed it white
+And spotless as snow,
+I’m happy now and other souls
+I will help to win, Since I opened
+up my heart and let Him in.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When Jesus knocked at
+my heart’s door
+I wanted Him to stay, When
+I yielded to Him all my burdens
+rolled away,
+And now I know why Jesus died
+Upon the cross that day,
+When I opened up
+my heart and let Him in.</lines>
+    </verse>
+  </lyrics>
+</song>

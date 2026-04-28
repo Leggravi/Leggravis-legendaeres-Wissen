@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Look What the Lord Has Done</title>
+    </titles>
+    <authors>
+      <author type="words">Mark David Hanby</author>
+      <author type="music">Mark David Hanby</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Look what the Lord has done,
+Look what the Lord has done,
+He healed my body,
+He touched my mind,
+He saved me it was just in time.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm gonna praise his name,
+Each day is just the same,
+Come on and praise him,
+Look what the Lord has done.</lines>
+    </verse>
+  </lyrics>
+</song>

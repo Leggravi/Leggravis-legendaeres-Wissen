@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Glory</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Great is the Lord
+God almighty
+Great is the Lord on high
+The train of His robe
+Fills the temple
+And we cry out
+Highest praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glory to the risen king
+Glory to the Son
+Glorious Son</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lift up your hands
+Open the doors
+Let the king
+Of glory come in
+And forever be our God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Holy is the Lord
+God almighty
+Holy is the Lord on high
+Let all the earth
+Bow before you
+And crown You Lord of all</lines>
+    </verse>
+  </lyrics>
+</song>

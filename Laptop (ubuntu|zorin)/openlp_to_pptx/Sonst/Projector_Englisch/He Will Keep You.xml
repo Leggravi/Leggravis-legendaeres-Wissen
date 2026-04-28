@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Will Keep You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I lift my eyes and see, I need not be afraid
+All my help comes from the Lord
+Who the earth and sky has made</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He will keep you from all evils,
+behind you and before
+He will sustain you, through this journey
+From now and evermore</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Lord will never sleep
+My steps He has ordained
+For the One who holds the night
+Is the Sovereign of my days</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Keeper and Sustainer of My Life</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are Light in the darkness
+Shelter from the storm
+You are a Shepherd who will guide me
+You are joy to all who mourn
+You are Bread of life that fills me
+Living Water when I'm dry
+You are the Keeper and Sustainer of my life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Without Your life, I know there is no life
+For I was dead in sin and you gave life to me
+Without Your life, I'd surely rather die
+Lord, Jesus, live Your life through me
+You are life to me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are Hope for the hopeless
+Sight for all the blind
+You are health for all the hurting
+Healing heart and healing mind
+You are plenty when there's nothing
+You are Peace amidst all strife
+You are the Keeper and Sustainer of my life</lines>
+    </verse>
+  </lyrics>
+</song>

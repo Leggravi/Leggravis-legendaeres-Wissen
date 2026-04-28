@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, in deinem Namen treffen wir uns hier</title>
+    </titles>
+    <authors>
+      <author type="words">Werner Arthur Hoffmann</author>
+      <author type="music">Werner Arthur Hoffmann</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, in deinem Namen treffen wir uns hier,
+um dir unsern Dank und unser Lob zu bringen.
+Du bist gnädig und treu, komm, begegne uns neu!
+Nur für dich, o Herr, soll unser Lied erklingen.
+Vater, du bist hier. Dank sei dir dafür.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr, in deinem Namen treffen wir uns hier.
+In der Stille wollen wir jetzt vor dir stehen.
+Rede selbst durch dein Wort!
+Was noch stört, das nimm fort.
+Offenbare dich, wir wollen auf dich sehen.
+Mach die Herzen weit, sprich in unsre Zeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr, in deinem Namen sendest du uns aus,
+um den Menschen deinen Frieden zu verkünden.
+Durch den Geist hilf uns hier, wenn wir reden von dir,
+dass noch viele neues Leben in dir finden.
+Herr, wir brauchen dich. Lass uns nicht im Stich.</lines>
+    </verse>
+  </lyrics>
+</song>

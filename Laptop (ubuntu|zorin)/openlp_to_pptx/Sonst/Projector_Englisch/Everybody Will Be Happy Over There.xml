@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Everybody Will Be Happy Over There</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a happy land of promise over in the great beyond,
+Where the saved of earth shall soon the glory share;
+Where the souls of men shall enter and live on forever more,
+Ev'rybody will be happy over there.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ev'rybody will be happy (over there, over there)
+will be happy over there,
+We will shout and sing His praise (praises thru the never ending ages) ;
+Ev'rybody will be happy over there.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mothers, fathers, sisters, brothers will be singing 'round the throne,
+In that land where no one ever knows a care;
+And the Christians of all ages will join in the triumph song,
+Everybody will be happy over there.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We will hear nobody praying and no mourning in that land,
+For no burdens there will be for us to bear;
+All the people will be singing &quot;Glory, glory to the Lamb&quot;,
+Everybody will be happy over there.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There we'll meet the One who saved us and who kept us by His grace,
+And who bro't us to that land so bright and fair;
+We will praise His name forever as we look upon His face,
+Everybody will be happy over there.</lines>
+    </verse>
+  </lyrics>
+</song>

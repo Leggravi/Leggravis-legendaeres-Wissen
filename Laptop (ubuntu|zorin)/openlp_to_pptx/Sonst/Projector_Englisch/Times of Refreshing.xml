@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Times of Refreshing</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Times of refreshing
+Here in Your presence;
+No greater blessing
+Than being with You.
+My soul is restored,
+My mind is renewed;
+There's no greater joy, Lord,
+Than being with You.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Tragt in die Welt nun ein Licht</title>
+    </titles>
+    <authors>
+      <author type="words">Wolfgang Longardt</author>
+      <author type="music">Wolfgang Longardt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tragt in die Welt nun ein Licht,
+sagt allen: Fürchtet euch nicht!
+Gott hat euch lieb, Groß und Klein
+Seht auf des Lichtes Schein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tragt zu den Kindern ein Licht,
+sagt allen: Fürchtet euch nicht!
+Gott hat euch lieb, Groß und Klein
+Seht auf des Lichtes Schein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tragt zu den Kranken ein Licht,
+sagt allen: Fürchtet euch nicht!
+Gott hat euch lieb, Groß und Klein
+Seht auf des Lichtes Schein.</lines>
+    </verse>
+  </lyrics>
+</song>

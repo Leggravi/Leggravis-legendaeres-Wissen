@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Down to the river to pray</title>
+    </titles>
+    <authors>
+      <author type="words">traditionell</author>
+      <author type="music">traditionell</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As I went down in the river to pray
+Studying about that good old way
+And who shall wear the starry crown
+Good Lord, show me the way!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O sisters, let's go down,
+Let's go down, come on down
+O sisters, let's go down
+Down in the river to pray</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As I went down in the river to pray
+Studying about that good old way
+And who shall wear the robe and crown
+Good Lord, show me the way!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O brothers, let's go down
+Let's go down, come on down
+Come on, brothers, let's go down
+Down in the river to pray</lines>
+    </verse>
+    <verse name="v5">
+      <lines>As I went down in the river to pray
+Studying about that good old way
+And who shall wear the starry crown
+Good Lord, show me the way!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O fathers, let's go down
+Let's go down, come on down
+O fathers, let's go down
+Down in the river to pray</lines>
+    </verse>
+    <verse name="v7">
+      <lines>As I went down in the river to pray
+Studying about that good old way
+And who shall wear the robe and crown
+Good Lord, show me the way!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>O mothers, let's go down
+Let's go down; don't you want to go down?
+Come on, mothers, let's go down
+Down in the river to pray</lines>
+    </verse>
+    <verse name="v9">
+      <lines>As I went down in the river to pray
+Studying about that good old way
+And who shall wear the starry crown
+Good Lord, show me the way!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>O sinners, let's go down
+Let's go down, come on down
+O sinners, let's go down
+Down in the river to pray</lines>
+    </verse>
+    <verse name="v11">
+      <lines>As I went down in the river to pray
+Studying about that good old way
+And who shall wear the robe and crown
+Good Lord, show me the way!</lines>
+    </verse>
+  </lyrics>
+</song>

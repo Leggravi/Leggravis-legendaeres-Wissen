@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du stillst die Sehnsucht in mir</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Dennecke</author>
+      <author type="music">Terry Butler</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(R) Du stillst die Sehnsucht in mir, mein Verlangen,
+Du stillst die Sehnsucht in mir, dir ganz nah zu sein
+Du stillst die Sehnsucht in mir, mein Verlangen,
+ich will dir folgen Herr.
+
+Zeige mir deine Wege ,Herr, ich will sie gehen mit dir.
+Komm, lehre du mich mehr und mehr, ich will dir folgen, Herr.(R)
+
+Lass mich mit deinen Augen sehn, die Wunder aus deiner Hand.
+Öffne mein Herz dir mehr und mehr, ich will dich sehen, Herr.(R)</lines>
+    </verse>
+  </lyrics>
+</song>

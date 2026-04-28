@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Must Have the Saviour With Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I must have the Saviour with me,
+For I dare not walk alone,
+I must feel His presence near me,
+And His arm around me thrown.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Then my soul shall fear no ill
+Let Him lead me where He will
+I will go without a murmur,
+And His footsteps follow still.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I must have the Saviour with me,
+For my faith, at best, is weak;
+He can whisper words of comfort,
+That no other voice can speak.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I must have the Saviour with me,
+In the onward march of life’
+Through the tempest and the sunshine,
+Through the battle and the strife.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I must have the Saviour with me,
+And His eye the way must guide,
+Till I reach the vale of Jordan,
+Till I cross the rolling tide.</lines>
+    </verse>
+  </lyrics>
+</song>

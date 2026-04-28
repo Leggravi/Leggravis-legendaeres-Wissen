@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Know</title>
+    </titles>
+    <authors>
+      <author type="words">Birgit Minichmayr</author>
+      <author type="music">Birgit Minichmayr</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Though I'm walking through the valley,
+of the darkest hour i've known,
+Lord, don't You leave me all alone.
+when i'm surrounded by the shadows
+that seem to feed my fear
+I will trust you Lord though i may not feel you near.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But I know that your love is unfailing
+oh i know that your grace is so amazing
+o i know even though my faith be shaken
+o i still know that i'll never be forsaken
+your always faithful i know</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When my bed has been floating
+on the flood o all my tears
+it seems as though my joy has disappeared
+still i wil not put my hope in what i feel or see
+i will cling to you and trust you're holding me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord i don't know where I'm walking,
+but i'll take you day by day.
+and i'll hold Your hand.
+and You will lead the way.</lines>
+    </verse>
+  </lyrics>
+</song>

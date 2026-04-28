@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Come to You</title>
+    </titles>
+    <authors>
+      <author type="words">Colse Leung</author>
+      <author type="music">Colse Leung</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I′m swept away by the wonder of Your love
+How One so great could love this one so small
+And when I realize the distance between Your heart and mine
+I'm amazed when You call me to Your side</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I come to You
+Not in my own strength
+But in my weakness I embrace the One who′s strong
+I come to You, To glory in Your grace
+You've accepted me
+In my frailty, So in humility
+I come to You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I stand in awe at the power of Your grace
+How One so great would suffer in my place
+And when I realize the difference
+Between Your thoughts and mine
+I'm amazed when You call me to Your side
+I surrender all I am
+Lay my heart within Your hand
+Knowing in my weakness You are strong</lines>
+    </verse>
+  </lyrics>
+</song>

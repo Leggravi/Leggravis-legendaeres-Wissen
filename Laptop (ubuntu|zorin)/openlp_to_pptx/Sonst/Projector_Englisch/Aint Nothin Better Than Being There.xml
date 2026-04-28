@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ain't Nothin Better Than Being There</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Well Jesus is gone away to prepare for me a place.
+He has built, for me a home beyond the sky
+I'll be ready for that day when my soul shall fly away
+to that mansion waiting over on the other side.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The only thing better than talkin' 'bout heaven;
+Is when I walk those streets of gold
+and I wear my long white robe.
+I'm gonna meet my Lord up there at that meeting in the air;
+Ain't nothing better than being there.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Heaven's gates are made of pearl, there's nothing like it in this world.
+For foundations; they are made on precious stones
+And finally on that day I'll see my Savior face to face
+I'm gonna lift my hands and shout around the throne</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This world has many pains and miseries to give
+but I've a blessed hope waiting for me
+When it's all been said and done and my race has been won
+A crown of glory's laid up just for me.</lines>
+    </verse>
+  </lyrics>
+</song>

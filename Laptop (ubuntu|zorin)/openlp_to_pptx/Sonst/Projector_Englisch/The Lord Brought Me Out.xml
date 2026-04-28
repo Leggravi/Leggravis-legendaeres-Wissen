@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Lord Brought Me Out</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’m so glad that the Lord brought me out;
+I’m so glad that the Lord brought me out;
+If it had not been for Jesus, oh where would I be?
+I’m so glad that the Lord brought me out.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’ve been happy since the Lord brought me out;
+I’ve been happy since the Lord brought me out;
+If it had not been for Jesus, oh where would I be?
+I’m so glad that the Lord brought me out.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aren’t you glad that the Lord brought you out?
+Aren’t you glad that the Lord brought you out?
+If it had not been for Jesus, oh where would I be?
+I’m so glad that the Lord brought me out.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I’ve been singing since the Lord brought me out,
+I’ve been singing since the Lord brought me out;
+If it had not been for Jesus, oh where would I be?
+I’m so glad that the Lord brought me out.</lines>
+    </verse>
+  </lyrics>
+</song>

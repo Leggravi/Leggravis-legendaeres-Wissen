@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All In All</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Lass</author>
+      <author type="music">Chris Lass</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Of Jesus love I'm singing
+I praise Him every day;
+He is my All in All, All in All.
+He frees my soul from bondage,
+He takes my guilt away;
+Jesus is my All in All.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All in All, All in All,
+A strength in time of weariness
+A light when shadows fall.
+All in All, All in All,
+Jesus is my All in All.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He's patient and so tender,
+So loving and so kind;
+He is my All in All, All in All.
+Another Friend so faithful
+My soul will never find;
+Jesus is my All in All.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In time of need no other
+To me can prove so dear;
+He is my All in All, All in All.
+He hears me tho' I whisper,
+To help me he is near;
+Jesus is my All in All.</lines>
+    </verse>
+  </lyrics>
+</song>

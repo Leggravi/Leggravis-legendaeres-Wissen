@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Heart's Desire</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v2 v1 v2 v2 v2 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My heart's desire
+is to bless Your Holy Name
+My heart's desire
+Is to lift You up today</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Even in the times of troubles,
+even in the times of trials
+My heart's desire
+Is to bless Your Holy Name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Even in the times of troubles,
+even in the times of trials
+My heart's desire
+Is to bless Your Holy Name
+My heart's desire
+Is to bless Your Holy Name</lines>
+    </verse>
+  </lyrics>
+</song>

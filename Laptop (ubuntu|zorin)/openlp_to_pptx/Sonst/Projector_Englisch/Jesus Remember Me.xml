@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, Remember Me</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Jacques Berthier</author>
+      <author type="translation">Jesus, denk an mich,</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When you’re talking to the Father
+At the mercy throne,
+Oh Jesus, remember me,
+When my fragile heart is hurting and
+I feel so alone,
+Oh Jesus, remember me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cause you are faithful beyond faithful
+You have heard my every cry
+Every sin you have forgotten though
+I’ve never known just why
+As you are looking down from heaven
+All the millions you must see,
+Oh Jesus, remember me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I think I’ve got the answers
+But it all just comes out wrong,
+Oh Jesus, remember me,
+When brokenness and heartache
+Leaves me running home,
+Oh Jesus, remember me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord sometimes I just feel a little lost,
+But I know you hear every word I say,
+Like the thief who hung beside you on the cross who prayed.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When you come into your kingdom
+And paradise you see,
+Oooh Jesus, remember me,
+Ooooh Jesus, remember… me.</lines>
+    </verse>
+  </lyrics>
+</song>

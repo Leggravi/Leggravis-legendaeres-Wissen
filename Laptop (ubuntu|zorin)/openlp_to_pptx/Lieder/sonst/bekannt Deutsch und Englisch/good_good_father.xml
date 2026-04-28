@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 2, 2022, 8:50:07 PM">
+  <properties>
+    <titles>
+      <title>Good Good Father</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 V5 V6 V7 C2 C8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Oh, I've heard a thousand stories of what they think you're like
+But I've heard the tender whisper of love in the dead of night
+And you tell me that you're pleased
+And that I'm never alone</lines>
+    </verse>
+    <verse name="C2">
+      <lines>You're a Good, Good Father
+It's who you are, it's who you are, it's who you are
+And I'm loved by you
+It's who I am, it's who I am, it's who I am</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Oh, and I've seen many searching for answers far and wide
+But I know we're all searching
+For answers only you provide
+'Cause you know just what we need
+Before we say a word</lines>
+    </verse>
+    <verse name="V4">
+      <lines>'Cause you are perfect in all of your ways
+You are perfect in all of your ways
+You are perfect in all of your ways to us</lines>
+    </verse>
+    <verse name="V5">
+      <lines>You are perfect in all of your ways
+You are perfect in all of your ways
+You are perfect in all of your ways to us</lines>
+    </verse>
+    <verse name="V6">
+      <lines>Oh, it's love so undeniable
+I, I can hardly speak
+Peace so unexplainable
+I, I can hardly think</lines>
+    </verse>
+    <verse name="V7">
+      <lines>As you call me deeper still
+As you call me deeper still
+As you call me deeper still
+Into love, love, love</lines>
+    </verse>
+    <verse name="C8">
+      <lines>You're a Good, Good Father
+(You are perfect in all of your ways)
+It's who you are, it's who you are, it's who you are
+And I'm loved by you
+(You are perfect in all of your ways)
+It's who I am, it's who I am it's who I am</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich bin bereit</title>
+    </titles>
+    <authors>
+      <author type="words">Gemeinschaft Emmanuel</author>
+      <author type="music">Bernadette Mélois</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wenn du mich gebrauchen kannst, gebrauche mich.
+Ich bin müde, ich bin schwach, Herr, führe mich.
+Als ich nicht mehr weiter sah, warst du noch immer für mich da.
+Drum nimm mich, nimm mich ganz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gott ich bin bereit, ich will deinen Willen tun.
+Zeig mir den Weg, führe mich.
+Gott ich bin bereit, ich will deinen Willen tun.
+Gib mir deine Kraft und Mut.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Weil du mich nicht aufgibst, gebe ich nicht auf.
+Weil du mit mir vorwärts gehst, steh ich jetzt auf.
+Nimm du mich an deine Hand, mit dir geh ich in jedes Land.
+Ich gehe, gehe mit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wenn ich ganz verzweifelt bin, machst du mir Mut.
+Und wenn ich versage, dann machst du es gut.
+Ich will dir gehorsam sein, drum lebe ich für dich allein.
+Ich folge, folge dir.</lines>
+    </verse>
+  </lyrics>
+</song>

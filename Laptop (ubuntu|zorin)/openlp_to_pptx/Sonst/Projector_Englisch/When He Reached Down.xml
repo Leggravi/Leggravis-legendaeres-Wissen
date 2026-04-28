@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When He Reached Down</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Once my soul was astray
+from the heavenly way,
+And was wretched
+and vile as could be;
+But my Saviour above,
+gave me peace, joy and love
+When He reached down
+His hand for me, for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When He reached down
+His hand for me,
+When He reached down
+His hand for me;
+I was lost and undone,
+without God or His Son,
+When He reached down
+His hand for me, for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I was nearing despair,
+when He came to me there,
+And He showed me that I
+could be free;
+Then He lifted my feet,
+gave me glory complete,
+When He reached down
+His hand for me, for me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>How my heart doth rejoice
+since I made Him my choice,
+From the tempest to Him now I flee;
+Now I lean on His arm,
+I’m secure from all harm,
+Since He reached down
+His hand for me, for me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Since the Lord gave me peace,
+heavenly joys never cease;
+Lord, I give all my life unto Thee;
+Guide my feet, hold my hand,
+grant with Thee I may stand,
+For you reached down your
+hand for me, for me.</lines>
+    </verse>
+  </lyrics>
+</song>

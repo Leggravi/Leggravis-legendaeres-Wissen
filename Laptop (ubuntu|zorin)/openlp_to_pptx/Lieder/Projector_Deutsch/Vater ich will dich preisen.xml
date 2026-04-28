@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Vater, ich will dich preisen</title>
+    </titles>
+    <authors>
+      <author type="words">Walter Gschwandtner</author>
+      <author type="music">Walter Gschwandtner</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vater, ich will dich preisen,
+denn dein Wort ist wunderbar.
+wunderbar und vollkommen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeden Morgen staun ich neu
+was dein Wort enthält</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich erkenne, dein Wort hält,
+stets was es verspricht</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ja, in Zeit und Ewigkeit,
+hat dein Wort Bestand.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Freude, Kraft, Mut, Zuversicht,
+all das schenkt dein Wort</lines>
+    </verse>
+  </lyrics>
+</song>

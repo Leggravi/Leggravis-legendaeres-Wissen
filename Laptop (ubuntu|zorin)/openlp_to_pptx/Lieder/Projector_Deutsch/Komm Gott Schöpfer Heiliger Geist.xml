@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Komm, Gott Schöpfer, Heiliger Geist</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Luther</author>
+      <author type="music">Kempten</author>
+      <author type="translation">Come, Holy Ghost, Creator blest</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Komm, Gott Schöpfer, Heiliger Geist,
+besuch das Herz der Menschen dein,
+mit Gnaden sie füll, denn du weißt,
+dass sie dein Geschöpfe sein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Denn du bist der Tröster genannt,
+des Allerhöchsten Gabe teu'r,
+ein geistlich Salb an uns gewandt,
+ein lebend Brunn, Lieb und Feu'r.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zünd uns ein Licht an im Verstand,
+gib uns ins Herz der Lieb Inbrunst,
+das schwach Fleisch in uns, dir bekannt,
+erhalt fest dein Kraft und Gunst.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du bist mit Gaben siebenfalt
+der Finger an Gotts rechter Hand;
+des Vaters Wort gibst du gar bald
+mit Zungen in alle Land.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Des Feindes List treib von uns fern,
+den Fried schaff bei uns deine Gnad,
+dass wir deim Leiten folgen gern
+und meiden der Seelen Schad.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Lehr uns den Vater kennen wohl,
+dazu Jesus Christ, seinen Sohn,
+dass wir des Glaubens werden voll,
+dich, beider Geist, zu verstehn.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Gott Vater sei Lob und dem Sohn,
+der von den Toten auferstand,
+dem Tröster sei dasselb getan
+in Ewigkeit alle Stund.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Sing a Simple Song</title>
+    </titles>
+    <authors>
+      <author type="words">Ed Pirie</author>
+      <author type="music">Ed Pirie</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I sing a simple song of love to my Savior to my Jesus.
+I'm grateful for the things You've done,
+My loving Savior, my precious Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My heart is glad that You've called me Your own.
+There's no place I'd rather be than</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In Your arms of love, In Your arms of love,
+Holding me still, holding me near, In Your arms of love.</lines>
+    </verse>
+  </lyrics>
+</song>

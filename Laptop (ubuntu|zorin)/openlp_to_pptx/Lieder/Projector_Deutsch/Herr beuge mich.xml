@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, beuge mich</title>
+    </titles>
+    <authors>
+      <author type="words">Hedwig von Redern</author>
+      <author type="music">Edwin Miller</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, beuge mich, wie du das Korn, das goldne, beugst im Morgenhauch!
+Vor deines heilgen Geistes Wehn, da beuge mich in Demut auch.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Und wenn das trotzge Herz sich wehrt, dem Geist zu folgen, wenn er wirkt,
+so komm im Feuer, Kraft des Herrn, verbrenne, was sich dir verbirgt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wie sich die Welle vor dem Sturm tief beuget, beuge mich vor dir,
+und wie am Unfer sie zerschellt, gib im Zerbrechen Segen mir!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herr, beuge mich! Wie du den Lauf der Ströme hältst in deiner Hand,
+so leite Ströme deiner Kraft dahin, wo jetzt noch dürres Land!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wie sich die Rebe beugt und fügt, wie es der Gärtner haben will:
+Gib, dass ich nichts mehr suche selbst, nein, dir mich beige froh und still!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Herr, beuge mich! Mach aus dem Ton, der doch zu nichts sonst für dich wert,
+ein dir gebräuchliches Gefäß, das dich gebeut, zerbrochen ehrt!</lines>
+    </verse>
+  </lyrics>
+</song>

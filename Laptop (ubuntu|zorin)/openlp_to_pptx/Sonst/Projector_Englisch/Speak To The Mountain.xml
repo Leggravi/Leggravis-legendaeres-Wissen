@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Speak To The Mountain</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From strength to strength we sometimes go
+Then again we're sinking low
+In the shadow of a mountain
+Looming high above our head</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We need not fear what lies ahead
+For the word has clearly said
+That our faith would be sufficient
+To make the mountain disappear</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Speak to the mountain
+You'll not triumph over me
+Be thou removed from here to yonder
+Disappear into the sea
+Speak to the mountain
+Speak with authority
+And the mountain must move
+And you shall claim victory</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In the midst of the battle
+When the foe is gaining ground
+Just look up and see</lines>
+    </verse>
+  </lyrics>
+</song>

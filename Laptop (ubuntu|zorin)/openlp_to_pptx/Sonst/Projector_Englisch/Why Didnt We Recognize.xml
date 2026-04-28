@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Why Didn't We Recognize?</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The day before yesterday,
+They crucified my Lord;
+Beat Him unmercif'lly and nailed Him to a tree.
+The sky grew dark and the earth began to fog,
+People cried, &quot;surely we've crucified
+the Son of God.&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Why didn't we recognize
+the Mighty God was here today,
+Didn't our hearts burn as He/Jesus
+talked along the way?
+Shouldn't we have known,
+Shouldn't we have known?
+Wish we had known Him
+Before the Lord has come and gone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Today a friend and I walked down the road,
+Didn't know our Lord had arose.
+A man drew near and spoke words so wise,
+Broke the bread and blessed it,
+And instant opened up our eyes.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'm so glad I recognize the Son of Man
+appeared today,
+Don't our hearts burn as He talks
+along the way;
+Are you glad you know,
+Are you glad you know?
+I'm so glad I know Him,
+Should He come, I will be gone.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:38">
+  <properties>
+    <titles>
+      <title>Kommt und lasst uns Christus ehren</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Gerhardt (1667)</author>
+      <author type="music">Den die Hirten lobeten sehre (Quem pastores laudavere)</author>
+    </authors>
+    <ccliNo>4345127</ccliNo>
+    <themes>
+      <theme>Weihnachten</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kommt und lasst uns Christum ehren,
+Herz und Sinnen zu ihm kehren;
+singet fröhlich, lasst euch hören,
+wertes Volk der Christenheit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sünd und Hölle mag sich grämen,
+Tod und Teufel mag sich schämen;
+wir, die unser Heil annehmen,
+werfen allen Kummer hin.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sehet, was hat Gott gegeben:
+seinen Sohn zum ewgen Leben.
+Dieser kann und will uns heben
+aus dem Leid ins Himmels Freud.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Seine Seel ist uns gewogen,
+Lieb und Gunst hat ihn gezogen,
+uns, die Satan hat betrogen,
+zu besuchen aus der Höh.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jakobs Stern ist aufgegangen,
+stillt das sehnliche Verlangen,
+bricht den Kopf der alten Schlangen
+und zerstört der Höllen Reich. 6) Unser Kerker, da wir saßenund mit Sorgen ohne Maßenuns das Herze selbst abfraßen,ist entzwei, und wir sind frei!
+7)  O du hochgesegnete Stunde,
+da wir das von Herzensgrunde
+glauben und mit unserm Munde
+danken dir, o Jesulein.
+8)  Schönstes Kindlein in dem Stalle,
+sei uns freundlich, bring uns alle
+dahin, da mit süßem Schalle
+dich der Engel Heer erhöht. Englische Übersetzung: Come, your hearts and voices raising "Kommt und lasst uns Christum ehren" ist ein Christnachtsgesang von Paul Gerhardt. Der Text wurde erstmals 1667 als Weihnachts-Gesang in der von Johann Georg Ebeling herausgegebenen Geistlichen Andachten veröffentlicht.
+Weihnachten bedeutet die Befreiung von Sünde, Tod und Teufel: Auf diese Botschaft konzentriert sich das knapp gefasste Lied. Schwere theologische Fracht und barocke Sprache werden aufgefangen durch die einfache und fröhliche Melodie, die vom ersten Teil des mittelalterlichen „Quempas“ (RG 389) stammt. (Andreas Marti)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Unser Kerker, da wir saßenund mit Sorgen ohne Maßenuns das Herze selbst abfraßen,ist entzwei, und wir sind frei!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>O du hochgesegnete Stunde,
+da wir das von Herzensgrunde
+glauben und mit unserm Munde
+danken dir, o Jesulein.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Schönstes Kindlein in dem Stalle,
+sei uns freundlich, bring uns alle
+dahin, da mit süßem Schalle
+dich der Engel Heer erhöht.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Unser Vater in dem Himmel</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Klaus Heizmann</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Unser Vater in dem Himmel, Dir allein sei Lob und Ehre:
+Du bist heilig und allmächtig und hast uns in der Hand.
+Vater, Dir sei Lob und Ehre!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus Christus, Jesus Christus, dir allein sei Lob und Ehre:
+Durch dein Blut sind wir gerettet, dein Tod spricht uns nun frei.
+Jesus, dir sei Lob und Ehre.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gottes Geist, Gottes Geist, du wohnst in uns, Gott zur Ehre.
+Komm, gestalte unser Leben als Werkzeug deiner Kraft.
+Du wohnst in uns, Gott zur Ehre.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Halleluja, Halleluja, Gott allein sei Lob und Ehre.
+Seinen Namen will ich preisen, ihn bete ich jetzt an.
+Gott allein sei Lob und Ehre.</lines>
+    </verse>
+  </lyrics>
+</song>

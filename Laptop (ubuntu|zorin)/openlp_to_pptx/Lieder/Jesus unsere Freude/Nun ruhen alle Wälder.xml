@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:00">
+  <properties>
+    <titles>
+      <title>Nun ruhen alle Wälder</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Gerhardt (1647)</author>
+      <author type="music">O Welt, ich muss dich lassen</author>
+    </authors>
+    <ccliNo>4898698</ccliNo>
+    <themes>
+      <theme>Abendlieder</theme>
+      <theme>Schlaflieder</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nun ruhen alle Wälder,
+Vieh, Menschen, Städt und Felder,
+es schläft die ganze Welt;
+ihr aber, meine Sinnen,
+auf, auf, ihr sollt beginnen,
+was eurem Schöpfer wohlgefällt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wo bist du, Sonne, blieben?
+Die Nacht hat dich vertrieben,
+die Nacht, des Tages Feind.
+Fahr hin; ein andre Sonne,
+mein Jesus, meine Wonne,
+gar hell in meinem Herzen scheint.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Der Tag ist nun vergangen,
+die güldnen Sternlein prangen
+am blauen Himmelssaal;
+also werd ich auch stehen,
+wenn mich wird heißen gehen
+mein Gott aus diesem Jammertal.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Der Leib eilt nun zur Ruhe,
+legt ab das Kleid und Schuhe,
+das Bild der Sterblichkeit;
+die zieh ich aus, dagegen
+wird Christus mir anlegen
+den Rock der Ehr und Herrlichkeit.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Das Haupt, die Füß und Hände
+sind froh, dass nun zum Ende
+die Arbeit kommen sei.
+Herz, freu dich, du sollst werden
+vom Elend dieser Erden
+und von der Sünden Arbeit frei.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nun geht, ihr matten Glieder,
+geht hin und legt euch nieder,
+der Betten ihr begehrt.
+Es kommen Stund und Zeiten,
+da man euch wird bereiten
+zur Ruh ein Bettlein in der Erd.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mein Augen stehn verdrossen,
+im Nu sind sie geschlossen.
+Wo bleibt dann Leib und Seel?
+Nimm sie zu deinen Gnaden,
+sei gut für allen Schaden,
+du Aug und Wächter Israel'.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Breit aus die Flügel beide,
+o Jesu, meine Freude,
+und nimm dein Küchlein ein.
+Will Satan mich verschlingen,
+so lass die Englein singen:
+"Dies Kind soll unverletzet sein."</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Auch euch, ihr meine Lieben,
+soll heute nicht betrüben
+kein Unfall noch Gefahr.
+Gott lass euch selig schlafen,
+stell euch die güldnen Waffen
+ums Bett und seiner Engel Schar.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Didn't Bring Us This Far</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He didn't bring us this far to leave us
+He didn't teach us to swim to let us drown
+He didn't build His home in us
+to move away
+He didn't lift us up to let us down</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There are some promises in a letter
+Written a long, long time ago
+They're not getting older,
+They're getting better
+Because He still wants us to know</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He didn't bring us this far to leave us
+He didn't teach us to swim to let us drown
+He didn't build His home
+in us to move away
+He didn't lift us up to let us down
+(to let us down, let us down)
+He didn't lift us up to let us down</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I read those promises in His letter
+And now I claim them for my own
+Filling my heart and making life better
+And I just wanted you to know</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Never use the word defeat
+Claim His promises, every one of them
+And every spoken word He'll hear
+Because we're everything to Him</lines>
+    </verse>
+  </lyrics>
+</song>

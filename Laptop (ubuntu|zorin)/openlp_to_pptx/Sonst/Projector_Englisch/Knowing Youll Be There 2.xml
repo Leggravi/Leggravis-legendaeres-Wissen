@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Knowing You'll Be There (2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The other day, I passed the place you always liked to go
+And I picked up the phone because I thought you'd wanna know
+But I forgot you weren't there, I miss you all these days
+That I'm reminded of your smile and the funny things you'd say</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I miss you most at Christmas, you were like a little kid
+You always loved a good surprise, now I must admit
+That I long more for heaven than I ever did before
+You give me one more reason and each day I want it more</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Knowing we can spend a lifetime reminiscing on the past
+Knowing I will see your face again, where tender moments last
+It makes me wanna go there, knowing I won't be alone</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Knowing you'll be there makes it easy to go home
+You left a group of fisherman, somehow, you left me too
+Though I have felt you many times, I know you saw me through
+I've always longed to feel your arms and look into your eyes
+And talk forever, me and you somewhere in paradise</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Knowing you'll be there makes it easy to go home
+Knowing you'll be there makes it easy to go home</lines>
+    </verse>
+  </lyrics>
+</song>

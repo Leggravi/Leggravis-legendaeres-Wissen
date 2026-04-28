@@ -1,0 +1,185 @@
+#!/bin/bash
+# ============================================================
+#  zip-cracker.sh — Universal Archive Password Cracker
+#  Unterstützt: ZIP, 7z, RAR
+#  Benötigt:    zenity, p7zip-full, python3
+# ============================================================
+
+# --- Abhängigkeiten prüfen ----------------------------------
+MISSING=""
+for dep in zenity 7z python3; do
+    command -v "$dep" &>/dev/null || MISSING="$MISSING\n  sudo apt install $([ "$dep" = "7z" ] && echo "p7zip-full" || echo "$dep")"
+done
+
+if [ -n "$MISSING" ]; then
+    zenity --error --title="Fehlende Abhängigkeiten" \
+        --text="Bitte zuerst installieren:$MISSING"
+    exit 1
+fi
+
+# --- Datei auswählen ----------------------------------------
+FILE=$(zenity --file-selection \
+    --title="Archiv auswählen" \
+    --file-filter="Archive (zip, 7z, rar) | *.zip *.7z *.rar *.ZIP *.7Z *.RAR" \
+    --file-filter="Alle Dateien | *") || exit 0
+
+FILENAME=$(basename "$FILE")
+
+# --- Passwort-Zeichensatz -----------------------------------
+CHOICE=$(zenity --list --radiolist \
+    --title="Passwort-Typ" \
+    --text="Welche Zeichen enthält das Passwort?" \
+    --width=420 --height=370 \
+    --column="" --column="Typ" \
+    TRUE  "Nur Ziffern  [0-9]" \
+    FALSE "Kleinbuchstaben  [a-z]" \
+    FALSE "Großbuchstaben  [A-Z]" \
+    FALSE "Klein- + Großbuchstaben  [a-zA-Z]" \
+    FALSE "Ziffern + Kleinbuchstaben  [a-z0-9]" \
+    FALSE "Ziffern + Alle Buchstaben  [a-zA-Z0-9]" \
+    FALSE "Eigener Zeichensatz...") || exit 0
+
+case "$CHOICE" in
+    "Nur Ziffern  [0-9]")                       CHARSET="0123456789" ;;
+    "Kleinbuchstaben  [a-z]")                   CHARSET="abcdefghijklmnopqrstuvwxyz" ;;
+    "Großbuchstaben  [A-Z]")                    CHARSET="ABCDEFGHIJKLMNOPQRSTUVWXYZ" ;;
+    "Klein- + Großbuchstaben  [a-zA-Z]")        CHARSET="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ" ;;
+    "Ziffern + Kleinbuchstaben  [a-z0-9]")      CHARSET="abcdefghijklmnopqrstuvwxyz0123456789" ;;
+    "Ziffern + Alle Buchstaben  [a-zA-Z0-9]")   CHARSET="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789" ;;
+    "Eigener Zeichensatz...")
+        CHARSET=$(zenity --entry \
+            --title="Eigener Zeichensatz" \
+            --text="Alle erlaubten Zeichen eingeben (z.B.  abc123!?):") || exit 0
+        [ -z "$CHARSET" ] && { zenity --error --text="Kein Zeichensatz eingegeben."; exit 1; }
+        ;;
+    *) exit 0 ;;
+esac
+
+# --- Passwort-Länge -----------------------------------------
+LENGTHS=$(zenity --forms \
+    --title="Passwort-Länge" \
+    --text="Längenbereich festlegen:" \
+    --add-entry="Minimale Länge  (z.B. 4)" \
+    --add-entry="Maximale Länge  (z.B. 4)") || exit 0
+
+MIN_LEN=$(echo "$LENGTHS" | cut -d'|' -f1 | tr -d ' ')
+MAX_LEN=$(echo "$LENGTHS" | cut -d'|' -f2 | tr -d ' ')
+
+if ! [[ "$MIN_LEN" =~ ^[0-9]+$ && "$MAX_LEN" =~ ^[0-9]+$ ]] || [ "$MIN_LEN" -gt "$MAX_LEN" ]; then
+    zenity --error --title="Fehler" --text="Ungültige Längenangabe!"
+    exit 1
+fi
+
+# --- Kombinationen abschätzen -------------------------------
+TOTAL=$(python3 -c "
+s=${#CHARSET}
+total = sum(s**i for i in range($MIN_LEN, $MAX_LEN+1))
+# Format with dots (German: 10.000)
+formatted = f'{total:,}'.replace(',', '.')
+print(f'{total}|{formatted}')
+")
+TOTAL_NUM=$(echo "$TOTAL" | cut -d'|' -f1)
+TOTAL_FMT=$(echo "$TOTAL" | cut -d'|' -f2)
+
+if [ "$TOTAL_NUM" -gt 500000 ]; then
+    zenity --question \
+        --title="Warnung: Viele Kombinationen" \
+        --text="Geschätzte Kombinationen: <b>$TOTAL_FMT</b>\n\nDas kann sehr lange dauern.\nTrotzdem starten?" || exit 0
+fi
+
+# --- Python-Cracker-Skript schreiben ------------------------
+PYFILE=$(mktemp /tmp/cracker_XXXXXX.py)
+RESULT_FILE=$(mktemp /tmp/cracker_result_XXXXXX.txt)
+echo "" > "$RESULT_FILE"
+
+cat > "$PYFILE" << 'PYEOF'
+import itertools, subprocess, sys
+
+charset    = sys.argv[1]
+min_len    = int(sys.argv[2])
+max_len    = int(sys.argv[3])
+archive    = sys.argv[4]
+result_file = sys.argv[5]
+
+total  = sum(len(charset)**l for l in range(min_len, max_len+1))
+tested = 0
+
+for length in range(min_len, max_len + 1):
+    for combo in itertools.product(charset, repeat=length):
+        pwd = ''.join(combo)
+        tested += 1
+
+        r = subprocess.run(
+            ['7z', 't', f'-p{pwd}', archive],
+            capture_output=True
+        )
+
+        pct = int(tested / total * 100)
+        print(pct)
+        print(f"# Teste: {pwd}   ({tested:,} / {total:,})")
+        sys.stdout.flush()
+
+        if r.returncode == 0:
+            print(100)
+            print(f"# Gefunden: {pwd}")
+            sys.stdout.flush()
+            with open(result_file, 'w') as f:
+                f.write(pwd)
+            sys.exit(0)
+
+# Nicht gefunden
+with open(result_file, 'w') as f:
+    f.write("")
+PYEOF
+
+# --- Brute-Force mit Fortschrittsbalken ---------------------
+# FIFO für sauberes Prozess-Management (Cancel killt Python)
+FIFO=$(mktemp -u /tmp/cracker_fifo_XXXXXX)
+mkfifo "$FIFO"
+
+python3 "$PYFILE" "$CHARSET" "$MIN_LEN" "$MAX_LEN" "$FILE" "$RESULT_FILE" > "$FIFO" &
+PYTHON_PID=$!
+
+zenity --progress \
+    --title="Knacke: $FILENAME" \
+    --text="Starte..." \
+    --percentage=0 \
+    --auto-close \
+    --cancel-label="Abbrechen" < "$FIFO"
+
+ZENITY_CODE=$?
+
+# Python beenden falls noch aktiv (z.B. bei Cancel)
+kill "$PYTHON_PID" 2>/dev/null
+wait "$PYTHON_PID" 2>/dev/null
+
+# Aufräumen
+rm -f "$PYFILE" "$FIFO"
+
+# --- Ergebnis anzeigen --------------------------------------
+FOUND_PWD=$(cat "$RESULT_FILE" 2>/dev/null)
+rm -f "$RESULT_FILE"
+
+if [ "$ZENITY_CODE" -ne 0 ] && [ -z "$FOUND_PWD" ]; then
+    # Abgebrochen ohne Ergebnis
+    zenity --info --title="Abgebrochen" --text="Vorgang wurde abgebrochen."
+
+elif [ -n "$FOUND_PWD" ]; then
+    # Passwort gefunden → optional in Zwischenablage
+    CLIPBOARD_HINT=""
+    if command -v xclip &>/dev/null; then
+        echo -n "$FOUND_PWD" | xclip -selection clipboard
+        CLIPBOARD_HINT="\n(In Zwischenablage kopiert)"
+    elif command -v xdotool &>/dev/null; then
+        echo -n "$FOUND_PWD" | xdotool type --clearmodifiers --file -
+    fi
+
+    zenity --info \
+        --title="Passwort gefunden!" \
+        --text="Datei:     $FILENAME\n\nPasswort:  <b>$FOUND_PWD</b>$CLIPBOARD_HINT"
+else
+    # Nichts gefunden
+    zenity --warning \
+        --title="Nicht gefunden" \
+        --text="Kein passendes Passwort gefunden.\n\nTipps:\n• Anderen Zeichensatz versuchen\n• Längeren Bereich angeben\n• War es wirklich nur ein Zahlen-Passwort?"
+fi

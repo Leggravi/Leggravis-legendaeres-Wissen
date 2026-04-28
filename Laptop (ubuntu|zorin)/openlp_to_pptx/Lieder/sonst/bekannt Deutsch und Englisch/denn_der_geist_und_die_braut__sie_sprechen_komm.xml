@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jul 3, 2020, 8:07:12 PM">
+  <properties>
+    <titles>
+      <title>Denn der Geist und die Braut, sie sprechen Komm!</title>
+    </titles>
+    <verseOrder>V1 V2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Denn der Geist und die Braut, sie sprechen Komm!
+Und wer es hört, der spreche: Komm!
+Und wen da dürstet, der komme herzu
+und nehme das Wasser des Lebens umsonst!</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Halleluja, gelobt sei Gott!
+Halleluja, gelobt sei Gott!
+Halleluja, gelobt sei Gott!
+Halleluja, gelobt sei Gott!</lines>
+    </verse>
+  </lyrics>
+</song>

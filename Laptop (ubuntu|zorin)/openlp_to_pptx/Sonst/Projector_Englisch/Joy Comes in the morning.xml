@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Joy Comes in the morning</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tears often fall on my face in sorrow
+And as I walk on through the long lonely nights
+Often I cry when it seems no one hears me
+Then through the shadows
+I can see the dawning of light</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ohh soon this old life with all of its trials
+Will be left behind there's a new day a dawning
+The shadows of sin will vanish forever
+He promised me there's going to be joy in the morning</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tears cannot stain the pathways of glory
+No broken hearts we'll find up there
+Beyond that sky my mansions are waiting
+By the light of the morning
+We'll sing the songs of sweet victory</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ohh soon this old life with all of its trials
+Will be left behind there's a new day a dawning
+The shadows of sin will vanish forever
+He promised me there's going to be joy in the morning</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ohh soon this old life with all of its trials
+Will be left behind there's a new day a dawning
+The shadows of sin will vanish forever
+He promised me there's going to be joy in the morning</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hold on my child joy comes in the morning
+Weeping only lasts for the night
+Hold on my child joy comes in the morning
+Ohh the darkest hour means dawn is just in sight</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hold on my child joy comes in the morning
+Weeping only lasts for the night
+Hold on my child joy comes in the morning
+Ohh the darkest hour means dawn is just in sight
+Ohh the darkest hour means dawn is just in sight
+Just in sight</lines>
+    </verse>
+  </lyrics>
+</song>

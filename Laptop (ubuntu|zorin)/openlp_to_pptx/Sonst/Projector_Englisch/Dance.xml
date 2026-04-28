@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dance</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Hooper</author>
+      <author type="music">Matt Hooper</author>
+      <author type="translation">Bis du wieder tanzt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm alive
+'Cause Jesus gave me life
+He opened up my eyes
+I can see clearly now</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oooh, everybody dance now, ooooooooh</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Everybody, give it up for Jesus
+Give Him glory, for He has redeemed us
+Everybody, give it up for Jesus
+Praise His name</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My desire
+Is to lift You higher
+It's only burning brighter
+This passion inside of me</lines>
+    </verse>
+  </lyrics>
+</song>

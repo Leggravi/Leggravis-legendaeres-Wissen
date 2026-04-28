@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Are the Generation</title>
+    </titles>
+    <authors>
+      <author type="words">Jonas Myrin</author>
+      <author type="music">Jonas Myrin</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We′re living in the evening time
+The race is almost through
+God has chosen you and me
+There's still a job to do
+The Word that′s been revealed to us
+Must be prophesied again
+And the message must reach everywhere
+'Til the last soul has come in</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are the generation
+We're the culmination
+The final voice the world will hear
+The coming of the Lord is near
+Living out the revelation
+Overcoming sin′s temptation
+The Truth will go to every tongue and nation
+We are the chosen generation</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Committed to the calling
+Together we stand strong
+Lifting up our voice as one
+We′ll sing the final song
+God has chosen us to conquer
+Every test we face
+He has seen us through this far
+And we'll finish by His grace</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We are the generation
+We′re the culmination
+The final voice the world will hear
+The coming of the Lord is near
+Living out the revelation
+Overcoming sin's temptation
+The Truth will go to every tongue and nation
+We are the chosen generation</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We are the chosen generation
+Generation</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Wont Have To Worry</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Down here my burdens are heavy and the road seems rough and long
+Sometimes my feet grow weary and so slow
+There's a brighter day a coming, soon I'll step on heaven's shore
+And I won't have to worry anymore</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No, I won't have to worry when I reach the other shore
+All my troubles will be over and I'll rest forevermore
+My eyes will be on Jesus, and my heart will be aglow
+And I won't have to worry any more</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Someday when life is over and I've said my last goodbyes
+I'll see the Savior standing at the door
+I'll hear him say, &quot;You're welcome. All your cares you've left behind
+And I won't have to worry anymore</lines>
+    </verse>
+  </lyrics>
+</song>

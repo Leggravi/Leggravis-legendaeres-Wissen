@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>His Banner Over Me (He Brought Me to His)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord is mine and I am His,
+His banner over me is love.
+The Lord is mine and I am His,
+His banner over me is love.
+The Lord is mine and I am His,
+His banner over me is love.
+His banner over me is love!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He brought me to His banqueting table,
+His banner over me is love.
+He brought me to His banqueting table,
+His banner over me is love.
+He brought me to His banqueting table,
+His banner over me is love.
+His banner over me is love!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He lifted me up into heavenly places,
+His banner over me is love.
+He lifted me up into heavenly places,
+His banner over me is love.
+He lifted me up into heavenly places,
+His banner over me is love.
+His banner over me is love!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He is the vine and we are the branches,
+His banner over me is love.
+He is the vine and we are the branches,
+His banner over me is love.
+He is the vine and we are the branches,
+His banner over me is love.
+His banner over me is love!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus is the rock of my salvation,
+His banner over me is love.
+Jesus is the rock of my salvation,
+His banner over me is love.
+Jesus is the rock of my salvation,
+His banner over me is love.
+His banner over me is love!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>There's one way to peace through the power of the cross,
+His banner over me is love,
+There's one way to peace through the power of the cross,
+His banner over me is love,
+There's one way to peace through the power of the cross,
+His banner over me is love.
+His banner over me is love!</lines>
+    </verse>
+  </lyrics>
+</song>

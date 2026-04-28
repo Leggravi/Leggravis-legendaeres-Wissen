@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Worship</title>
+    </titles>
+    <authors>
+      <author type="words">Nick Herbert</author>
+      <author type="music">Nick Herbert</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We worship You, not for the things that You do,
+Not for the blessings You give
+Though You’ve been faithful and true
+with mercies brand new</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But because there is in no one above You
+Just because You are our God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We worship You, we worship You
+We honor You, we honor You
+We worship You, simply because You are God
+Uncreated and holy, You are
+The maker of all that there is, the judge over all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We worship You, we worship You
+We honor You, we honor You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>All blessing, all honor, all glory, all power
+All strength and all wisdom be unto the Lamb and unto the King
+All blessing, all honor, all glory, all power
+All strength and all wisdom be unto the Lamb and unto the King
+The Alpha Omega, beginning and ending
+Creator and ruler of all that is seen and ever will be
+The giver of blessings, the source of all power
+All wisdom is from You, let every knee bow and everyone shout</lines>
+    </verse>
+  </lyrics>
+</song>

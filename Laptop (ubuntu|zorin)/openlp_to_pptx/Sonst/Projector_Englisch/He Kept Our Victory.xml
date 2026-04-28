@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Kept Our Victory</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's done it all, He made a way
+So that we can taste the greatest victory
+One day we'll trade our battle scars
+For our precious crowns
+Because He kept our victory</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's nothing we can ever do
+All that we need is trust and pray
+His grace will surely bring us through
+To our perfect day</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know that I will make it through
+He's more than able to fulfill it
+Believe His Word and follow Him
+I'll keep the victory</lines>
+    </verse>
+  </lyrics>
+</song>

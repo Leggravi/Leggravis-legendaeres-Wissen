@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dankt dem Herrn mit frohem Mut</title>
+    </titles>
+    <authors>
+      <author type="words">Matthias Jorissen</author>
+      <author type="music">Morgenstern auf finstre Nacht</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dankt dem Herrn mit frohem Mut,
+er ist freundlich, er ist gut.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Seine Güt ermüdet nie.
+Ewig, ewig währet sie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dankt dem Herrn, gebt ihm nur Ehr,
+er ist aller Herren Herr.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Der, sein Heil uns zu verleihn,
+große Wunder tat allein.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Der mit Weisheit, Ordnung, Pracht
+Himmel schuf und an uns dacht.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Der sein Volk durch Wüsten führt
+und doch väterlich regiert.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Der auch in der tiefsten Nacht
+huldreich stets an uns gedacht.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Bringt dem Gott des Himmels Dank;
+schweige nie, mein Lobgesang!</lines>
+    </verse>
+  </lyrics>
+</song>

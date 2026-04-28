@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There is Hope</title>
+    </titles>
+    <authors>
+      <author type="words">Mark Edwards</author>
+      <author type="music">Mark Edwards</author>
+      <author type="translation">In mir lebt Hoffnung</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sometimes we go through trials
+That are so hard to bear
+We lift our face toward Heaven saying
+God are you really there?
+I've asked that same question
+Yes I've been down that road
+But looking back I now can tell you
+He's always let me know</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is hope, so be strong
+There is hope, God has sent me here to tell you
+There is hope, and he knows just what you're going through
+And what the future holds
+Because Jesus lives, there is hope</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He was bruised for our transgressions
+He was nailed upon the tree
+He cried out to His father
+Why have you forsaken me?
+But through my suff'ring savior
+He brought healing to our pain
+And the one who raised up from the dead
+Can restore us all again</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There is hope, there is hope
+My Jesus still whispers
+There is hope
+For the one who gone astray
+Jesus says I am the way
+So don't give up
+There is hope
+And He knows just what you're going through and what the future holds
+Because Jesus lives
+There I hope</lines>
+    </verse>
+  </lyrics>
+</song>

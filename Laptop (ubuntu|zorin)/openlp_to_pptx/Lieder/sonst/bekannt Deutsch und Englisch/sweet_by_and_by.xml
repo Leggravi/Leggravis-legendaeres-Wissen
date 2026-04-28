@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 10, 2019, 10:27:57 PM">
+  <properties>
+    <titles>
+      <title>Sweet By And By</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>There's a land that is fairer than day,
+And by faith we can see it afar;
+For the Father waits over the way,
+To prepare us a dwelling place there.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>In the sweet by and by,
+We shall meet on that beautiful shore.
+In the sweet by and by,
+We shall meet on that beautiful shore.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>We shall sing on that beautiful shore
+The melodious songs of the blest,
+And our spirits shall sorrow no more,
+Not a sigh for the blessing of rest.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>To our bountiful Father above
+We will offer our tribute of praise,
+For the glorious gift of His love
+And the blessings that hallow our days.</lines>
+    </verse>
+  </lyrics>
+</song>

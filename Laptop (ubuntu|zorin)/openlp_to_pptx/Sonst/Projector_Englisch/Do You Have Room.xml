@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Do You Have Room</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>They journeyed far, a weary pair,
+They sought for shelter from the cold night air.
+Some place where she could lay her head,
+Where she could give her Babe a quiet bed.
+Was there no room? No corner there?
+In all the town a spot someone could spare?
+Was there no soul come to their aid?
+A stable bare was where the family stayed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Do you have room for the Savior, and do you seek Him a-new?
+Have you a place for the One who lived and died for you?
+Are you as humble as a shepherd boy, or as wise as men of old?
+Would you have come that night? Would you have sought the light?
+Do you have room?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A star a-rose, a wondrous light, a sign from God this was the Holy night.
+And yet so few would go to see the Babe who came to rescue you and me.
+This Child Divine is now a King.
+The gift of life to all the world He brings,
+And all mankind He saves from doom,
+But on that night for him there was no room.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Will you come tonight? Will you seek the light?
+Do you have room?</lines>
+    </verse>
+  </lyrics>
+</song>

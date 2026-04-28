@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm Gonna Make It</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Through so many dangers
+And toils of this life
+I have already come
+But He keeps on giving the grace
+And the strength to just keep pressing on
+He's given a promise and I'm gonna stand
+On every Word His Holy Word has said
+And holding His hand I'll never fear
+Whatever lies ahead.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm gonna make it,
+He's already said that I would
+I'll keep on trusting that He's working
+Everything for my good
+He walks beside me
+And heaven is in my view
+Oh, I'm gonna make it through</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In spite of the good intentions I've had
+Sometimes my strength can fail
+And though I have tried the very best that I could
+My weaknesses prevail
+Then I remember the promise He made
+That in my weakness He is strong
+And that's when I know whatever may come
+His steady hand will lead me on
+And on, and on.</lines>
+    </verse>
+  </lyrics>
+</song>

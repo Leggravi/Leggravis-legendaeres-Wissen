@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, wohin sonst</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Frey</author>
+      <author type="music">Albert Frey</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, wohin sonst sollten wir gehen?
+Wo auf der Welt fänden wir Glück?
+Niemand, kein Mensch
+kann uns soviel geben wie du
+du führst uns zum Leben zurück
+nur du
+nur du schenkst uns Lebensglück</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aus deinem Mund höre ich das schönste Liebeslied
+an deinem Ohr darf ich sagen, was die Seele fühlt
+an deiner Hand kann ich fallen, und du hälst mich fest
+an deinem Tisch wird mein Hunger gestillt</lines>
+    </verse>
+  </lyrics>
+</song>

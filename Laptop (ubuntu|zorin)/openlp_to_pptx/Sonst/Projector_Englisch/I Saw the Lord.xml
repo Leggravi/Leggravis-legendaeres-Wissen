@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Saw the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Jake Isaac</author>
+      <author type="music">Jake Isaac</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the temple of the Lord,
+In the year King Uzziah died,
+The prophet in great sorrow,
+Sought God’s peace to find
+As he raised his voice in anguish
+All at once Isaiah cried,
+It’s the Lord I see lifted up and
+seated high.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I saw the Lord, I saw the Lord,
+He was high and lifted up
+And His train filled the temple
+The angels cried, holy,
+Yes, the angels cried holy,
+All the angels cried holy Is
+the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And today my friend and brother,
+And my sister who’ve seen the light,
+You may have a friend Uzziah
+From whom the Lord still hides
+It may be your wealth or fortune
+Or ambitions but till they’ve died
+You can never like Isaiah
+Lift your head and cry.</lines>
+    </verse>
+  </lyrics>
+</song>

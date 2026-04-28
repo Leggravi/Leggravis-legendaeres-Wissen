@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Feel Like Traveling On</title>
+    </titles>
+    <authors>
+      <author type="words">William Gardner Hunter</author>
+      <author type="music">William Gardner Hunter</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My heavenly home is bright and fair,
+I feel like traveling on,
+Nor pain, nor death can enter there,
+I feel like traveling on.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yes, I feel like traveling on,
+I feel like traveling on;
+My heavenly home is bright and fair,
+I feel like traveling on.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Its glittering towers the sun outshine,
+I feel like traveling on;
+That heavenly mansion shall be mine,
+I feel like traveling on.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let others seek a home below,
+I feel like traveling on;
+Which flames devour, or waves o’erflow,
+I feel like traveling on.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The Lord has been so good to me,
+I feel like traveling on;
+Until that blessed home I see,
+I feel like traveling on.</lines>
+    </verse>
+  </lyrics>
+</song>

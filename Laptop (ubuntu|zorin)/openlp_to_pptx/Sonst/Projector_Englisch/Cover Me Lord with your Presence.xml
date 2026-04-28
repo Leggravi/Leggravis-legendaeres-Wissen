@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Cover Me Lord with your Presence</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cover me Lord
+With your presence
+Ohhh 
+Cover me Lord 
+With your righteousness
+Ohhh
+Cover me Lord
+With your holiness
+Lord Jesus cover me</lines>
+    </verse>
+  </lyrics>
+</song>

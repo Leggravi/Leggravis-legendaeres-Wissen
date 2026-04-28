@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Great Are You Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Vikki Cook</author>
+      <author type="music">Vikki Cook</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v7 v8 v11</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The beauty of your majesty
+And displayed for all the world to see
+Is it any wonder? Is it any wonder?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The glory of Your holiness
+The mercy of Your faithfulness
+Is it any wonder? Is it any wonder?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We sing great are You, Lord, for we adore You
+Lift up Your name and fall before You
+We stand in awe and say great are You, Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You lift up our voice, we say holy, holy
+Hallelujah, to the one and only
+Forever more, we'll say great are You, Lord</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Through endless ages You will reign
+Yet, every season You're the same
+Is it any wonder? Is it any wonder?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>The power of Your redeeming plan
+Grace that offers life to man
+Is it any wonder? Is it any wonder?</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Is it any wonder, any wonder we sing
+Any wonder we sing, oh</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Is it any wonder we sing
+(Great are You, Lord)
+Is it any wonder we sing
+(Great are You, Lord)
+Is it any wonder?</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Great are You, Lord
+(Is it any wonder?)
+Great are You, Lord
+(Is it any wonder?)
+Great are You, Lord
+We sing great are You</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Great are You, Lord
+(Is it any wonder?)
+Great are You, Lord
+(Is it any wonder?)
+Great are You, Lord
+We say great are You, Lord</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Say great are You, Lord,
+Say great are You, Lord,
+Say great are You, Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

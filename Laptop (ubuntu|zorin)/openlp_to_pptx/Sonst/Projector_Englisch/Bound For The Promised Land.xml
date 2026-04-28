@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Bound For The Promised Land</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On Jordan's stormy banks
+ I stand,
+And cast a wishful eye,
+Toward Canaan's fair
+ and happy land,
+Where my possessions lie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am bound for the promised land,
+I am bound for the promised land;
+Oh who will come and go with me?
+I am bound for the promised land.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O'er all those wide extended plains
+Shines one eternal day;
+There God the Son forever reigns,
+And scatters night away.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No chilling winds, nor pois'nous breath,
+Can reach that healthful shore;
+Sickness and sorrow, pain and death,
+Are feared and felt no more.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When shall I reach that happy place,
+And be forever blest!
+When shall I see my Father's face,
+And in His bosom rest?</lines>
+    </verse>
+  </lyrics>
+</song>

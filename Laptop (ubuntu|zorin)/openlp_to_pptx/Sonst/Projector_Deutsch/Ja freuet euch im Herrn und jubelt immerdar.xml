@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ja, freuet euch im Herrn und jubelt immerdar, </title>
+    </titles>
+    <authors>
+      <author type="words">Johann Koller</author>
+      <author type="music">Spiritual</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ja, freuet euch im Herrn und jubelt immerdar, 
+Ja, freuet euch im Herrn und jubelt immerdar,
+kommt singet eure Jubellieder laut! :|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>® |: Danket, danket, singt ein neues Lied.
+Großes hat der Herr an uns getan :|</lines>
+    </verse>
+    <verse name="v3">
+      <lines>|: Ein wunderbarer Tag den uns der Herr gemacht,
+zu neuem Leben hat er uns geborn :| ®</lines>
+    </verse>
+    <verse name="v4">
+      <lines>|: Mit deinem Blut o Herr hast Du uns freigemacht,
+Du bist für uns gestorben an dem Kreuz :|®</lines>
+    </verse>
+    <verse name="v5">
+      <lines>|: Mit deinem Geist, o Herr, hast Du uns reich bedacht
+und Freude schenkst Du uns durch deine Kraft. :| ®</lines>
+    </verse>
+    <verse name="v6">
+      <lines>|: Ja würdig bist Du, Herr, zu hören unser Lob
+und alle Wesen preisen Dich mit Macht! :| ®</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Cover The Earth</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let me be an instrument
+To exalt and to extend
+JESUS name globally
+As the waters cover the sea
+Open the heavens Oh LORD
+And pour out Your Spirit</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cover the earth with Your glory
+Cover the earth with Your glory
+Cover the earth with the sound of
+Heaven
+Cover the earth with Your glory
+Cover the earth with Your glory
+Cover the earth with the sound of
+Heaven, cover the earth</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let me speak what you say
+Let the sound prepare the way
+Kingdom come globally
+As the waters cover the sea
+Open the heavens Oh LORD
+And pour out Your Spirit</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cover the earth with Your glory
+Cover the earth with Your glory
+Cover the earth with the sound of
+Heaven
+All of the earth is Yours
+All the nations adore You
+Cover the earth with the sound of
+Heaven, Cover the earth</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Open up the heavenlies
+Let a new sound be released
+As the waters cover the sea
+Over the earth</lines>
+    </verse>
+  </lyrics>
+</song>

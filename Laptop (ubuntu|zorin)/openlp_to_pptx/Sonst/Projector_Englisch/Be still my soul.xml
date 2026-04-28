@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Be still my soul</title>
+    </titles>
+    <authors>
+      <author type="words">Jane Borthwick</author>
+      <author type="music">Jean Sibelius</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Be still, my soul, The Lord is on thy side
+Bear patiently, the cross of grief or pain
+Leave to thy God, to order and provide
+In every change, He faithful will remain
+Be still, my soul, thy best thy heavenly friend
+Through thorny ways, leads to a joyful end</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be still, my soul, thy God doth undertake
+To guide the future as He has the past
+Thy hope, thy confidence, let nothing shake
+All now mysterious shall be bright at last
+Be still, my soul, the waves and wind still know
+His voice who ruled them while He dwelt below</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In You I rest, in You I found my hope
+In You I trust, You never let me go
+I place my life within Your hands alone
+Be still, my soul</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Be still, my soul, the hour is hastening on
+When we shall be forever with the Lord
+When disappointment, grief and fear are gone
+Sorrow forgot, love's purest joys restored
+Be still, my soul, when change and tears are past
+All safe and blessed, we shall meet at last</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In You I rest, in You I found my hope
+In You I trust, You never let me go
+I place my life within Your hands alone
+Be still, my soul</lines>
+    </verse>
+    <verse name="v6">
+      <lines>In You I rest, in You I found my hope
+In You I trust, You never let me go
+I place my life within Your hands alone
+Be still, my soul
+Be still, my soul
+Be still, my soul</lines>
+    </verse>
+  </lyrics>
+</song>

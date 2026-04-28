@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Liebe, goldner Sonnenschein</title>
+    </titles>
+    <authors>
+      <author type="words">Hermann Windolf</author>
+      <author type="music">Isaiah Baltzell</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Liebe, goldner Sonnenschein
+für's arme Menschenherz
+strahlst du nur hell in mich hinein
+versüßt ist jeder Schmerz.
+Das Dunkel weicht, die Nacht entflieht,
+wenn warm die Sonne scheint.
+Und Freud und Lebenswonne zieht
+hinein ins Herz, das weint.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Gottes Lieb so voll und frei
+von alters her und immer neu.
+Sie quillt für mich, sie quillt für dich
+und zieht uns alle hin zu sich</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Als von der Lieb am Kreuzespfahl
+in meine Sündennacht
+eindrang der helle Sonnenstrahl
+bin ich für Gott erwacht.
+Seitdem ich weiß, wer mich geliebt
+bis in den Tod so heiß,
+mein Herz sich Ihm zu eigen gibt
+zu Seines Namens Preis.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Die Sonne, die mir scheinet hell
+mir Lebenswonne beut,
+ist Jesus mein Emanuel
+nur Er in Ewigkeit.
+Ihm singe ich mein Jubellied
+schon hier im Tränental
+und ewig wenn mein Aug Ihn sieht
+in Seinem Himmelssaal.</lines>
+    </verse>
+  </lyrics>
+</song>

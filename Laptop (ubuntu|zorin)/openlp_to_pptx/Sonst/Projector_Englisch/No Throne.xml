@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>No Throne</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who is there Jesus
+That reigns above you?
+Who has the power and
+Wisdom you do?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You rule forever
+You’re seated on high
+I fall before you
+My spirit cries there is</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No throne
+Higher than your throne
+No kingdom
+Greater than yours
+There is no throne
+Higher than your throne
+You are Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You gaze with love upon
+All hearts of faith
+You show such mercy
+Compassion and grace</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yet there’s perfect justice at
+Your judgement seat
+All kings and nations are
+Under your feet there is</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bridge
+Lord of all Lords King of all Kings
+Now and forever the universe sings
+Lord of all Lords King of all Kings
+With all creation your children sing</lines>
+    </verse>
+  </lyrics>
+</song>

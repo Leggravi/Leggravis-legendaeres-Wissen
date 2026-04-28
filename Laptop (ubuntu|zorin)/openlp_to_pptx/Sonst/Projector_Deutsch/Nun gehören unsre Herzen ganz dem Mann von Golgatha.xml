@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nun gehören unsre Herzen ganz dem Mann von Golgatha</title>
+    </titles>
+    <authors>
+      <author type="words">Friedrich von Bodelschwingh</author>
+      <author type="music">Richard Lörcher</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nun gehören unsre Herzen ganz dem Mann von Golgatha,
+der in bitt’ren Todesschmerzen das Geheimnis Gottes sah.
+Das Geheimnis des Gerichtes über alle unsre Schuld,
+das Geheimnis neuen Lichtes aus des Vaters ew‘ger Huld.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nun in heil‘gem Stilleschweigen stehen wir auf Golgatha,
+tief und tiefer wir uns neigen vor dem Wunder, das geschah,
+als der Freie ward zum Knechte und der Größte ganz gering,
+als für Sünder der Gerechte in des Todes Rachen ging.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Doch ob tausend Todesnächte liegen über Golgatha,
+ob der Hölle Lügenmächte triumphieren fern und nah:
+Dennoch dringt als Überwinder Christus durch des Sterbens Tor,
+und die sonst des Todes Kinder, führt zum Lichte er empor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Schweigen müssen nun die Feinde vor dem Sieg von Golgatha,
+die begnadigte Gemeinde sagt zu Christi Wegen: Ja!
+Ja, wir danken deinen Schmerzen, ja, wir preisen deine Treu,
+ja, wir dienen dir von Herzen: Ja, du machst einst alles neu!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus I Love You</title>
+    </titles>
+    <authors>
+      <author type="words">Trish Morgan</author>
+      <author type="music">Trish Morgan</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: Jesus I love you, shepherd of my soul,
+Jesus I love you, your presence makes me whole :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your presence is comforting, it's healing
+Your embrace calms my heart
+Your presence is power, it's peace of mind
+Your joy fills my heart
+There's no place like your presence my Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We worship you, we give you praise, no place like your presence, no place like your presence
+Oh we wave our hands to you,
+We lift our hearts to you for we love you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I love you, I love you, I love you
+I love you, I love you, I love you
+Jesus, Jesus</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Your presence is comforting, it's healing
+Your embrace calms my heart
+Your presence is power, it's peace of mind
+Your joy, your joy, your joy fills my heart
+There is no place
+Like your presence, no where, no place, no where like your presence
+Nobody, not my mama, not my papa
+No place like your presence.
+There's no place like your presence my Lord</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Saviour is Waiting</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Savior is waiting to enter your heart
+Why don't you let Him come in
+There's nothing in this world to keep you apart
+What is your answer to Him</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Time after time
+He has waited before
+And now He is waiting again
+To see if you're willing to open the door
+Oh how He wants to come in</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If you'll take one step toward
+The Savior, my friend
+You'll find His arms open wide
+Receive Him, and all of your darkness will end
+Within your heart He'll abide</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh how He wants to come in</lines>
+    </verse>
+  </lyrics>
+</song>

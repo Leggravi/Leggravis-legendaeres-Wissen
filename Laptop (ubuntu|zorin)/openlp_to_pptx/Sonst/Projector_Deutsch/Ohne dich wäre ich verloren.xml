@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ohne dich wäre ich verloren. </title>
+    </titles>
+    <authors>
+      <author type="words">Lothar Kosse</author>
+      <author type="music">Lothar Kosse</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ohne dich wäre ich verloren. Ohne dich wäre ich nicht viel.
+Ohne dich wär kich nie geboren. Ohne dich käm ich niemals ans Ziel. (2x)
+Nur durch dich kann ich ewig leben.Nur durch dich macht das Leben Sinn.
+Nur durch dich ruht auf mir dein Segen. Nur durch dich bin ich,was ich bin,
+Bin ich, was ich bin.</lines>
+    </verse>
+  </lyrics>
+</song>

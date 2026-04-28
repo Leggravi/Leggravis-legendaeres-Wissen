@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God Is Able</title>
+    </titles>
+    <authors>
+      <author type="words">Ben Fielding</author>
+      <author type="music">Ben Fielding</author>
+      <author type="translation">Gott ist's möglich</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: God is able to make all grace abound to you. :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So that in all things,
+At all times,
+So that in all things,
+Having all that you need.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You will abound, in every good thing,
+Abound, having all that you need,
+Abound, in every good deed,
+You'll abound.</lines>
+    </verse>
+  </lyrics>
+</song>

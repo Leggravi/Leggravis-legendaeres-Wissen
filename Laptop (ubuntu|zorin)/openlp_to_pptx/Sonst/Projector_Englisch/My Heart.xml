@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Heart</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My heart will be faithful, Lord
+My heart will obey You, Lord
+To walk in the way
+You will lead me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With all my heart I will love You
+With all my heart I will serve You
+With all my heart I will give my all to You
+With all my heart</lines>
+    </verse>
+  </lyrics>
+</song>

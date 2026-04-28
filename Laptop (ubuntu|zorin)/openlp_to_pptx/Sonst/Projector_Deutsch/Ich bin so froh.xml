@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich bin so froh</title>
+    </titles>
+    <authors>
+      <author type="words">Franz Friedrich</author>
+      <author type="music">Philip Paul Bliss</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich bin so froh, dass Jesus mich liebt,
+Jesus mich liebt, Jesus mich liebt
+Ich bin so froh, dass Jesus mich liebt,
+Jesus mich ewig liebt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich ruf Jesus und er antwortet mir.
+Ich ruf Jesus und er antwortet mir.
+Er ist nicht stumm oder taub, er hörte jetzt mein Gebet.
+Ich rufe Jesus und er antwortet mir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Deine Last ist so leicht und dein Joch ist sanft.
+Dein Gebot es ist gar nicht schwer.
+Jesus du wirkst in mir, wass ich selbst nicht kann.
+Oh mein Gott, ich danke dir so sehr.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Der Herr, mein Meister, der Herr, mein Heiler.
+Du bist es, der mich sieht. Du bist ein Fels des Heils.
+Ich bring dir Ehre, Macht und große Majestät.
+Du bist der Herr, für allezeit.</lines>
+    </verse>
+  </lyrics>
+</song>

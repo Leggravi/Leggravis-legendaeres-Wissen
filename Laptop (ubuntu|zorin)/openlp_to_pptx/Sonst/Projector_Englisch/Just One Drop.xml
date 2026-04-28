@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Just One Drop</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v7 v7 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Just one drop
+Would have been enough
+It would have been enough
+But You gave it all
+There upon the cross
+To demonstrate Your love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You saved me before
+I knew I was lost
+And I can't repay You for that cost</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All that I am is Yours
+All of my days I live to worship
+My life is not my own
+I lay it down, this heart surrendered</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There is no greater love
+There is no greater love</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Just one touch
+Would have been enough
+It would have been enough
+But You’re reaching out
+With everything You are
+That's just who You are</lines>
+    </verse>
+    <verse name="v6">
+      <lines>There is no greater love
+There is no greater love
+There is no greater love
+There is no greater love</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Just one drop would have been enough
+Just enough was never the point of Your love
+You gave until there was nothing left
+Now I will worship You with every breath</lines>
+    </verse>
+  </lyrics>
+</song>

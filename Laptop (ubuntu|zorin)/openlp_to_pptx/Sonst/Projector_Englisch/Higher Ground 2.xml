@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Higher Ground (2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’m pressing on the upward way,
+New heights I’m gaining every day;
+Still praying as I’m onward bound,
+“Lord, plant my feet on higher ground.”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, lift me up and let me stand,
+By faith, on heaven’s table land,
+A higher plane than I have found;
+Lord, plant my feet on higher ground.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My heart has no desire to stay,
+Where doubts arise and fears dismay;
+Tho’ some may dwell where these abound,
+My prayer, my aim, is higher ground.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I want to scale the utmost height,
+And catch a gleam of glory bright;
+But still I’ll pray till heav’n I’ve found,
+“Lord, lead me on to higher ground.”</lines>
+    </verse>
+  </lyrics>
+</song>

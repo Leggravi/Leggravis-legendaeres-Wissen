@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Angel's Wings</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the trial comes, He will comfort you
+When the whole world seems gone
+Peace come passes you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Right now it seems gloomy
+From afar, the clouds's look dark
+it's hard to see the good, until they part</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Look closely it's Angels Wings
+Singing Hallelujah's unto the Lord
+Just take Him at His Word,
+And be certain of God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When the time will come,
+You will meet the Lord
+When the deep calls, the deep must response</lines>
+    </verse>
+  </lyrics>
+</song>

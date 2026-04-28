@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:00">
+  <properties>
+    <titles>
+      <title>Ich will dir danken (Gott, mein Herr, es ist mir ernst)</title>
+    </titles>
+    <authors>
+      <author type="words">Jürgen Werth (1982)</author>
+      <author type="music">Johannes Nitsch</author>
+    </authors>
+    <ccliNo>4336875</ccliNo>
+    <themes>
+      <theme>Anbetung</theme>
+      <theme>Dank</theme>
+      <theme>Lob</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott, mein Herr, es ist mir ernst, dies Lied ist dir geweiht.
+Die Harfe und der Psalter klingt, bevor der Morgen graut.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gott, mein Herr, erhebe dich, deine Ehre füll das Land.
+Hilf mir mit deiner rechten Hand und höre mein Gebet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gott, mein Herr, du stehst mir bei, denn Menschen helfen nicht.
+Mit dir will ich mein Leben bau'n, du kämpfst und siegst mit mir.</lines>
+    </verse>
+  </lyrics>
+</song>

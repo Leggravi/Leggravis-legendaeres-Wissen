@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Greater Is He That Is in Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Greater is He that is in me
+Greater is He that is in me
+Greater is He that is in me
+than He that is in the world.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Satan’s like a roaring lion roaming to and fro’
+Seeing whom he may devour, the Bible tells us so
+Many souls have been his prey to fall in some weak hour
+But God has promised us today His overcoming power.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On the day of Pentecost a rushing, mighty wind
+Blew into the upper room and baptized all of them
+With a power greater than any earthly foe
+And I’m so glad I’ve got it, too; I’m gonna’ let the whole world know.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God is greater than the wisest men
+Greater than the pow’r of sin
+God is greater than the gates of hell
+Greater than any tongue can tell
+God is greater than the richest king
+Greater than anything
+He’s greater (greater), Greater (greater)
+Greater (greater), Greater (greater)
+Greater is He that is in me than he that is in the world.</lines>
+    </verse>
+  </lyrics>
+</song>

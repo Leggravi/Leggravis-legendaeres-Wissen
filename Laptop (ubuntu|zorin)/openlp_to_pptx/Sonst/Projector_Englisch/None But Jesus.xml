@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>None But Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Brooke Fraser Ligertwood</author>
+      <author type="music">Brooke Fraser Ligertwood</author>
+      <author type="translation">Niemand ist dir jemals gleich</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the quiet, in the stillness
+I know that You are God
+In the secret of Your presence
+I know there I am restored</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When You call I won't refuse
+Each new day again I'll choose</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is no one else for me
+None but Jesus
+Crucified to set me free
+Now I live to bring Him praise</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In the chaos, in confusion
+I know You're sovereign still
+In the moment of my weakness
+You give me grace to do Your will</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So when You call I won't delay
+This my song through all my days</lines>
+    </verse>
+    <verse name="v6">
+      <lines>All my delight is in You Lord
+All of my hope, all of my strength
+All my delight is in You Lord forever more</lines>
+    </verse>
+  </lyrics>
+</song>

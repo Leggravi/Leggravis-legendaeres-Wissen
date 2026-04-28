@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>No Longer Slaves</title>
+    </titles>
+    <authors>
+      <author type="words">Joel Case</author>
+      <author type="music">Joel Case</author>
+      <author type="translation">Nicht mehr Sklave (Deine Melodie macht mich wieder frei)</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You unravel me with a melody
+You surround me with a song
+Of deliverance from my enemies
+'Til all my fears are gone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: I'm no longer a slave to fear
+I am a child of God :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From my mother's womb
+You have chosen me
+Love has called my name
+I've been born again to my family
+Your blood flows through my veins</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: I'm no longer a slave to fear
+I am a child of God :/ 4x</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I am surrounded
+By the arms of the Father
+I am surrounded
+By songs of deliverance</lines>
+    </verse>
+    <verse name="v6">
+      <lines>We've been liberated
+From our bondage
+We're the sons and the daughters
+Let us sing our freedom</lines>
+    </verse>
+    <verse name="v7">
+      <lines>/: You split the sea
+So I could walk right through it
+My fears are drowned in perfect love
+You rescued me
+And I will stand and sing
+I am a child of God. :/</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Yes, I am
+I am a child of God
+I am a child of God
+Yes, I am
+I am a child of God
+Full of faith
+Yes, I am a child of God
+I am a child of God</lines>
+    </verse>
+    <verse name="v9">
+      <lines>/: I'm no longer a slave to fear
+I am a child of God :/ 3x</lines>
+    </verse>
+  </lyrics>
+</song>

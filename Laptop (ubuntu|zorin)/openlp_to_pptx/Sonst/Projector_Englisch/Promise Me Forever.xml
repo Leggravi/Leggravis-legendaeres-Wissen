@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Promise Me Forever</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I thought of you again today
+Wherever you may be</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know your out there in the world
+And I know you're meant for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though I don't know when we'll meet
+To me you are just a prayer
+I pray you're walking close to God
+And He will keep you in His care</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Promise me forever (forever)
+Forever and a day
+I promise I will wait for you.
+Oh will you wait for me?
+So many people come to this with only pieces
+I promise I'll stay true to you
+In everything that I do
+Forever… forever… forever… and a day.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So many things uncertain
+So shaky is the world
+But I am standing safely
+Sheltered in His hand</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I know His timing is perfect
+And I know His will is true
+And so I'm growing as I wait
+As He's preparing me for you</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Promise me forever (forever)
+Forever and a day
+I promise I will wait for you.
+Oh will you wait for me?
+So many people come to this with only pieces
+I promise I'll stay true to you
+In everything that I do.</lines>
+    </verse>
+  </lyrics>
+</song>

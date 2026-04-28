@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Psalm 100</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Enter in through the gates
+Enter in here with praise
+Come before him come bring your song
+We are your people he is our god</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: For the lord is good and
+His love endures
+His love endures :/
+Forevermore his faithfulness
+it has no end
+For the lord is good and
+His love endures
+His love endures</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Enter in to his courts
+Enter in with grateful heart
+Come before him come bring your song
+We are his people he is our god</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Raise you voice shout
+for joy all the earth
+We sing a new song now
+We sing a new song now</lines>
+    </verse>
+  </lyrics>
+</song>

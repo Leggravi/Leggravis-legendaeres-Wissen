@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In the sanctuary</title>
+    </titles>
+    <authors>
+      <author type="words">Kurt Carr</author>
+      <author type="music">Kurt Carr</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v4 v6 v7 v8 v7 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We lift our hands in the sanctuary
+We lift our hands to give You the glory
+We lift our hands to give You the praise
+And we will praise You for the rest of our days
+Yes, we will praise You for the rest of our days</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We clap our hands in the sanctuary
+We clap our hands to give you the glory
+We clap our hands to give you the praise
+And we will praise you for the rest of our days
+Yes, we will praise you for the rest of our days</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We sing our song in the sanctuary
+We sing our song to give You the glory
+We sing our song to give You the praise
+And we will praise You for the rest of our days
+Yes, we will praise You for the rest of our days</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, we give You the praise
+Emmanuel, we lift up Your name
+Heavenly Father, coming Messiah
+And we will praise You for the rest of our days
+Yes, we will praise You for the rest of our days</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hallelujah in the sanctuary
+Hallelujah we give You the glory
+Hallelujah we give You the praise
+And we will praise You for the rest of our days
+Yes, we will praise You for the rest of our days</lines>
+    </verse>
+    <verse name="v6">
+      <lines>/: Yes, yes, Lord for the rest of our days :/ 6x</lines>
+    </verse>
+    <verse name="v7">
+      <lines>/: Hallelujah, hallelujah
+Hallelujah for the rest of our days :/ 3x</lines>
+    </verse>
+    <verse name="v8">
+      <lines>/: Yes, yes, Lord for the rest of our days :/ 3x</lines>
+    </verse>
+    <verse name="v9">
+      <lines>And we will praise You for the rest of our days</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Great and Mighty is He</title>
+    </titles>
+    <authors>
+      <author type="words">Dale Garratt</author>
+      <author type="music">Dale Garratt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Great and mighty is the Lord our God
+Great and mighty is He
+Great and mighty is the Lord our God
+Great and mighty is He
+Lift up the banner let the anthems ring
+Praises to our King
+Great and mighty is the Lord our God
+Great and mighty is He</lines>
+    </verse>
+  </lyrics>
+</song>

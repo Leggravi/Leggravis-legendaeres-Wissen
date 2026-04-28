@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 1, 2025, 2:28:21 PM">
+  <properties>
+    <titles>
+      <title>Above All (Crucified)</title>
+    </titles>
+    <verseOrder>V1 V2 C3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Above all powers,
+Above all kings,
+Above all nature
+and all created things,
+Above all wisdom
+and all the ways of man,
+You were here
+before the world began.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Above all kingdoms,
+Above all thrones,
+Above all wonders
+the world has ever known,
+Above all wealth
+and treasures of the earth,
+There's no way to measure
+what You're worth.</lines>
+    </verse>
+    <verse name="C3">
+      <lines>Crucified, laid behind a stone,
+You lived to die,
+Rejected and alone
+Like a rose trampled
+on the ground,
+You took the fall
+and thought of me,
+Above all!</lines>
+    </verse>
+  </lyrics>
+</song>

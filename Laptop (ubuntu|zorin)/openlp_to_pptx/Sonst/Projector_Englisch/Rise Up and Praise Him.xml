@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Rise Up and Praise Him</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the heavens rejoice
+Let the earth be glad
+Let the people of God
+Sing His praise
+All over the land
+Everyone in the valley
+Come and lift your voice
+All those on the mountaintop be glad
+Shout for joy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rise up and praise Him
+He deserves our love
+Rise up and praise Him
+Worship the Holy One
+With all your heart
+With all your soul
+With all your might
+Rise up and praise Him</lines>
+    </verse>
+  </lyrics>
+</song>

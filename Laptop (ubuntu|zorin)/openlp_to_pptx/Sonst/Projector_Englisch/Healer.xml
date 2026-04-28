@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Healer</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Lass</author>
+      <author type="music">Chris Lass</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You hold my every moment
+You calm my raging seas
+You walk with me through fire
+And you heal all my disease
+I trust in You
+Lord, I trust in You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I believe that You're my healer
+I believe You are all I need
+I believe,
+I believe that You're my portion
+I believe You're more than enough for me
+Jesus, You're all I need</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nothing is impossible for You
+Nothing is impossible
+Nothing is impossible for You
+For You hold my world in Your hands</lines>
+    </verse>
+  </lyrics>
+</song>

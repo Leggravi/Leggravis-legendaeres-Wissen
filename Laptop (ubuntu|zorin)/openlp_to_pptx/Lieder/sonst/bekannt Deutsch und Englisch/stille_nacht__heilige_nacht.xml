@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Mar 31, 2021, 5:31:54 PM">
+  <properties>
+    <titles>
+      <title>Stille Nacht, heilige Nacht</title>
+    </titles>
+    <verseOrder>V1 V2 V3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Stille Nacht, heilige Nacht
+Alles schläft, einsam wacht
+nur das traute hochheilige Paar
+Holder Knabe im lockigen Haar
+Schlaf in himmlischer Ruh'
+Schlaf in himmlischer Ruh'</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Stille Nacht, heilige Nacht
+Hirten erst kund gemacht
+Durch der Engel Halleluja
+tönt es laut von fern und nah
+Christ der Retter ist da
+Christ der Retter ist da</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Stille Nacht, heilige Nacht
+Gottes Sohn, o wie lacht
+lieb aus Deinem Göttlichen Mund
+Da uns schlägt die rettende Stund'
+Christ in Deiner Geburt
+Christ in Deiner Geburt</lines>
+    </verse>
+  </lyrics>
+</song>

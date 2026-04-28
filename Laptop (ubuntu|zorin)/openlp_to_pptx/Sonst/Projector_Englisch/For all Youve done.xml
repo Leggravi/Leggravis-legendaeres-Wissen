@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>For all You've done</title>
+    </titles>
+    <authors>
+      <author type="words">Reuben Morgan</author>
+      <author type="music">Reuben Morgan</author>
+      <author type="translation">Mein Retter, Erlöser</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v1 v2 v3 v4 v5 v6 v6 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My Savior, Redeemer
+Lifted me from the miry clay</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Almighty forever
+I will never be the same'cause You came near</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From the everlasting
+To the world we live
+The Father's only Son</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You lived and You died
+You rose again on high
+You opened the way
+For the world to live again
+Hallelujah
+For all You've done</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You lived and You died
+You rose again on high
+You opened the way
+For the world to live again
+Hallelujah
+For all You've done
+Hallelujah</lines>
+    </verse>
+    <verse name="v6">
+      <lines>'Cause You came near
+From the everlasting
+To the world we live
+The Father's only Son</lines>
+    </verse>
+  </lyrics>
+</song>

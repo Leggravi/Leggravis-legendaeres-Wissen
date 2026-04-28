@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Love is a fire</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What a miracle when two hearts find to each other.
+What a miracle when a stranger becomes a lover.
+How fine it is when we find this might last forever.
+How great love is!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What a miracle when mine and yours turn to our.
+What a miracle when two worlds crash to one by that power.
+How fine it is when we find this is something higher.
+How great love is!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Love is a fire, burnes up your heart.
+Love lifts you higer, lights every part.
+Love is a fire, love is a flame.
+Love has a name: God is love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>What a miracle when two ways melt to one only.
+What a miracle when a promise means: Yes to you, totally!
+How fine it is when we find this is how it's meant to be.
+How great love is!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let the one who is perfect love fill you up!
+He's the fire that never stops, loves you from toe to top.
+Through his fire you are able to burn, love in return.</lines>
+    </verse>
+  </lyrics>
+</song>

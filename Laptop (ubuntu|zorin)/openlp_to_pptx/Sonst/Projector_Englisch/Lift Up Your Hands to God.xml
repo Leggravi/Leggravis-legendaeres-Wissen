@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lift Up Your Hands to God</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Life is not all that bad my friend,
+If you believe in yourself,
+If you believe there's Someone
+Who walks through life with you,
+You'll never be alone,
+Just learn to reach out
+And open your heart
+Lift up your hands to God,
+And He'll show you the way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And He said, &quot;Cast your burdens upon Me,
+Those who are heavily laden,
+Come to Me all of you who are tired
+of carrying heavy loads,
+For the yoke I will give you is easy,
+And My burden is light,
+Come to Me, and I will give you rest.&quot;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When you feel the world
+is tumbling down on you,
+And you have no one
+That you can hold on to;
+Just face the rising sun,
+And you'll see hope
+And there's no need to run;
+Lift up your hands to God
+And He'll make you feel alright.</lines>
+    </verse>
+  </lyrics>
+</song>

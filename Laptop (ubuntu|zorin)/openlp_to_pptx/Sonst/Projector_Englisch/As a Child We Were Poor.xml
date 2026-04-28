@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>As a Child We Were Poor</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As a child we were poor,
+and tossed in the blues
+I wept bitter tear drops alone in my room,
+The family circle was broken by
+troubles and sin
+But Jesus held on to my hand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus held on to my hand
+Giving me comfort that only
+He can
+More than a father, brother or
+friend
+But Jesus, held on to my hand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>At the old saints revival they
+were making the plea,
+I joined them in singing,
+He is all that I need
+He is all that I need
+I sat at the altar after three
+weeks to stand
+But Jesus held on to my hand.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You are the miracle</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have come to recognise that my
+near kinsman is you.
+Though there be one nearer
+You were the only one willing
+and able to take my through.
+I thank you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We have come to recognise that
+our near kinsman is you.
+Though there be one nearer
+You were the only one willing
+and able to take us through.
+we thank you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are the miracle 2x
+In our lives
+And we thank you. Lord we thank you
+We have safely made it through
+because of you.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In our darkest conditions when
+the burdens are hard to bear, we look to you
+And we thank you. Lord we thank you</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We find strength to make it through,
+because of you.
+Despite the conditions, we are
+believing for our loved ones.
+The restorer of life is you
+And we thank you.
+Lord we thank you
+They will safely make it through
+because of you.</lines>
+    </verse>
+  </lyrics>
+</song>

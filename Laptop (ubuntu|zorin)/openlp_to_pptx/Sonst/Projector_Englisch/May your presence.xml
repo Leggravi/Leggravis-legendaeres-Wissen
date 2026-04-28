@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>May your presence</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If Your presence doesn't go with us
+Lord we don't want to leave this place
+Lord we need You near
+As we go from here
+To lead us by Your love and grace
+May Your presence fill us every day
+May Your Spirit lead the way
+Lord to You we call
+Let Your glory fall
+And may Your presence go with us</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If we have found favor in Your sight
+Show us Your ways O Lord
+Cause we want to know You
+And live in Your light
+For all of our days
+Show us Your ways</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We have our hopes
+And we have our dreams
+But we cannot go
+Where You will not lead</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord to You we call
+Let Your glory fall
+And may Your presence go with us</lines>
+    </verse>
+  </lyrics>
+</song>

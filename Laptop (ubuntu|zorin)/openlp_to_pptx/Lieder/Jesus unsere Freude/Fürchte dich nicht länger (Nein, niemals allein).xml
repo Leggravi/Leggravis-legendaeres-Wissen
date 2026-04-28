@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:22">
+  <properties>
+    <titles>
+      <title>Fürchte dich nicht länger (Nein, niemals allein)</title>
+    </titles>
+    <authors>
+      <author type="words">Ernst Heinrich Gebhardt</author>
+      <author type="music">Ich bin der gute Hirte</author>
+    </authors>
+    <ccliNo>5795288</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>"Fürchte dich nicht länger, sieh, Ich bin mit dir!"
+Das ist meine Leuchte auf dem Wege hier.
+Durch die Wolken funkelt der Verheißung Licht:
+"Siehe, Ich bin bei dir, und Ich verlasse dich nicht!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lilien mögen welken, Rosenduft verwehn,
+Sonne sich verdunkeln, dennoch bleibt es stehn:
+Jesus, meine Wonne, Er mein Sonnenschein,
+wird mich nie verlassen, Er lässt mich nimmer allein!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ist der Pfad auch dunkel, droht manch Übel mir,
+hör ich Ihn doch sagen: "Kind, Ich bin bei dir!"
+Droben werd ich schauen Jesu Angesicht,
+jubelnd wird's dann tönen: Nein, Er verließ mich hier nicht!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Der schöne Ostertag! Ihr Menschen</title>
+    </titles>
+    <authors>
+      <author type="words">Jürgen Henkys</author>
+      <author type="music">Dirk Raphaelszoon Camphuysien</author>
+      <author type="translation">This joyful Eastertide</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Der schöne Ostertag!
+Ihr Menschen, kommt ins Helle!
+Christ, derr begraben lag,
+brach heut aus seiner Zelle.
+Wär vorm Gefängnis noch der schwere Stein vorhanden,
+so glaubten wir umsonst.
+Doch nun ist er erstanden,
+erstanden, erstanden, erstanden.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Was euch auch niederwirft,
+Schuld, Krankheit, Flut und Beben -
+er, den ihr lieben dürft,
+trug euer Kreuz ins Leben.
+Läg er noch immer, wo die Frauen ihn nicht fanden,
+so kämpften wir umsonst.
+Doch nun ist er erstanden,
+erstanden, erstanden, erstanden.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Muss ich von hier nach dort
+er hat den Weg erlitten.
+Der Fluss reißt mich nicht fort,
+seit Jesus ihn durchschritten
+Wär er geblieben, wo des Todes Wellen branden,
+so hofften wir umsonst.
+Doch nun ist er erstanden.</lines>
+    </verse>
+  </lyrics>
+</song>

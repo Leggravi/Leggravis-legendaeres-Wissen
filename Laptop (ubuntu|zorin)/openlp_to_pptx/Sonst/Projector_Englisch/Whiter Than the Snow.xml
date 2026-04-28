@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Whiter Than the Snow</title>
+    </titles>
+    <authors>
+      <author type="words">Mike Burn</author>
+      <author type="music">Mike Burn</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessed be the Fountain of blood,
+To a world of sinners revealed;
+Blessed be the dear Son of God;
+Only by His stripes we are healed.
+Though I’ve wandered far from His fold,
+Bringing to my heart pain and woe,
+Wash me in the blood of the Lamb,
+And I shall be whiter than snow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Whiter than the snow!
+Whiter than the snow!
+Wash me in the blood of the Lamb,
+And I shall be whiter than snow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Father, I have wandered from Thee,
+Often has my heart gone astray;
+Crimson do my sins seem to me
+Water cannot wash them away.
+Jesus, to that Fountain of Thine,
+Leaning on Thy promise, I go;
+Cleanse me by Thy washing divine,
+And I shall be whiter than snow.</lines>
+    </verse>
+  </lyrics>
+</song>

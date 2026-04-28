@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Know I am the Bride (Liberty Version)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v2 v3 v4 v5 v6 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know I am the Bride
+That You're returning for
+Dressed in garments
+White and wrinkle-free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have no earthly love
+That I am holding to,
+You're the One who means
+Everything to me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will sing, I will worship You
+I will bow myself down
+Humbly at Your throne</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will do anything,
+I will give everything
+For You alone!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You are the faithful God
+Who keeps Your covenant
+There's not one thing You've said
+That You haven't done</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And someday when I see You
+Standing face to face
+My praise for You
+Will only have begun</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Do You Know The Saviour</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's more than a story
+More than a song
+His love is gentle
+Yet it's so strong
+His grace is everlasting
+Just won't let you go
+His unending mercy
+A fountain of hope</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Do you know the Saviour
+That we introduce you
+Both now and forever
+He's faithful and true
+His name is Jesus
+He died to give you life a new
+Do you know the Saviour
+Oh, how He loves you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He pardons the debtor
+With Nothing to pay
+He offers forgiveness
+To those who gone astray
+He stands there waiting
+Ah the door of your heart
+And the moment you open
+His peace He'll impart</lines>
+    </verse>
+    <verse name="v4">
+      <lines>His name is Jesus
+He died to give you life a new
+Do you know the Saviour
+Oh, how He loves you
+He loves you, He loves you
+Oh, how He loves you</lines>
+    </verse>
+  </lyrics>
+</song>

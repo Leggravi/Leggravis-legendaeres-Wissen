@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh Gracious Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hold me so close to Thee
+and show me Thy way,
+That I may walk in the light
+of your goodness all of my day,
+Forgive me of sin my Lord,
+have mercy on me
+Thank you Lord,
+that’s not my sin but
+my heart that you see.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh Gracious Jesus, make me so small,
+In worldly matters, make me not at all,
+But in Thy Spirit make oh so tall,
+Oh Gracious Jesus, Lord of all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oft in my loneliness,
+when I cried out to Thee
+You stood in the midst of my heart,
+and you warmed me so tenderly,
+Now I know You once again,
+now I long for that day,
+When I shall hear the call of Your
+Voice and you’ll take me away.</lines>
+    </verse>
+  </lyrics>
+</song>

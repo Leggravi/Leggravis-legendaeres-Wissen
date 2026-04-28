@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heaven's Bright Shore</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Out on the hills of glory land
+So happy and free at God's right hand
+They tell of a place of marvelous grace
+On heaven's bright shore
+Pilgrims on earth someday will go
+To live in that home forever more
+Trusting in Him who died for sin
+And rose from the grave.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On heaven's bright shore
+There's gonna be no more dying
+Not one little grave
+In all that fair land
+Not even a tear will dim the eye
+And no one up there will say goodbye
+Just singing His praise through endless days
+On Heaven's bright shore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I must cross that rolling tide
+There'll be someone on the other side
+Welcoming me to that fair land, made perfect by love
+When I walk up the milky white way
+I'll see that home coming in a ray
+How great it must be for angels to see
+A pilgrim reach home.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wie im Himmel so auf Erden</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wie im Himmel so auf Erden.
+Was wir dort sehen, soll hier geschehen.
+Du sitzt dort auf deinem Thron, o Herr,
+deine Herrlichkeit erstrahlt über das Meer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wie im Himmel so auf Erden.
+Was wir dort sehen, soll hier geschehen.
+Deiner Engel Lobpreis füllt das ganze All.
+Deine Kinder singen dir mit großem Schall.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Halleluja! Heilig bist du Herr!
+Halleluja! Dir allein gebührt die Ehre!
+Halleluja! Halleluja!
+Halleluja, dir Jesus!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wie im Himmel so auf Erden.
+Was wir dort sehen, soll hier geschehen.
+Deine Gegenwart durchflutet Raum und Zeit.
+In Ehrfurcht neigt sich jedes Herz vor deiner Heiligkeit.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wie im Himmel so auf Erden.
+Was wir dort sehen, soll hier geschehen.
+Wie ein Donner klingt dein majestätisch Wort,
+voller Wahrheit, voller Klarheit hier und dort.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wie im Himmel so auf Erden.
+Was wir dort sehen, soll hier geschehen.
+So sehr hast du hier diesen Ort geliebt
+Um uns zu schenken was du aufgabst, dass es blieb.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Wie im Himmel so auf Erden.
+Was wir dort sehen, soll hier geschehen.
+Deine Vaterliebe löst all unsern Schmerz.
+Deine Gnade reinigt und durchdringt mein Herz.</lines>
+    </verse>
+  </lyrics>
+</song>

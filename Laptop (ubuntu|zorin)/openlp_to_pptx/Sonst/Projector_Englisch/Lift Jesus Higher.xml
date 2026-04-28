@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lift Jesus Higher</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lift Jesus higher
+Lift Jesus higher
+Lift Him up for the world to see
+He said if I be lifted up from the earth
+I would draw all men unto me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I command you Satan in the name of the Lord
+To take your weapons and flee
+For the Lord has given me authority
+To walk all over thee.</lines>
+    </verse>
+  </lyrics>
+</song>

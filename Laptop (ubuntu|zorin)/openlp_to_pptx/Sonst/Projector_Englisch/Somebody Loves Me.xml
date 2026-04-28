@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Somebody Loves Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v1 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Somebody loves me, answers my prayer,
+I love somebody, I know He cares.
+Somebody tells me not to repine,
+That somebody is Jesus, and I know He's mine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You'll be happy if you will let Jesus have His way,
+He has work for us all to do every passing day:
+Feed the hungry and cheer the sad, for the sinner pray.
+You'll have joy that you've never had, and you then can say:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Somebody loves me, answers my prayer,
+I love somebody, I know He cares.
+Somebody tells me not to repine,
+That somebody is Jesus, and I know He's mine,
+That somebody is Jesus, and I know He's mine.</lines>
+    </verse>
+  </lyrics>
+</song>

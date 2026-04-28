@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Will Rejoice</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a river whose streams make glad the city of our God.
+There is a river whose streams make glad the city of our God.
+So I will rejoice, I will rejoice, and be glad.
+Yes I will be rejoice, I will rejoice and be glad!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is a fountain full of grace that flows from Emmanuel's veins.
+There is a fountain so full of grace that flows from my Savior's veins.
+It came and it healed me
+It came and refreshed me
+It came and washed my sins away!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So I will rejoice, I will rejoice, and be glad.
+I will rejoice, I will rejoice, and be glad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There is a fountain full of grace that flows from Emmanuel's veins.
+Has anybody been cleansed in the fountain, that flows from Emmanuel's veins.
+It came, and it healed me,
+it came and refreshed my soul,
+it came and washed my sins away</lines>
+    </verse>
+  </lyrics>
+</song>

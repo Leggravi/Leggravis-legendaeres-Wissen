@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:04">
+  <properties>
+    <titles>
+      <title>Vergiss nicht zu danken dem ewigen Herrn</title>
+    </titles>
+    <authors>
+      <author type="words">Heino Tangermann (1965)</author>
+      <author type="music">Paul Ongman</author>
+    </authors>
+    <themes>
+      <theme>Dank</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vergiss nicht zu danken dem ewigen Herrn
+er hat dir viel Gutes getan.
+Bedenke, in Jesus vergibt er dir gern,
+du darfst ihm, so wie du bist, nahn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du kannst ihm vertrauen in dunkelster Nacht,
+wenn alles verloren erscheint
+Er liebt dich, auch wenn du ihm Kummer gemacht,
+ist näher als je du gemeint.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Im Danken kommt Neues ins Leben hinein,
+ein Wünschen, das nie du gekannt,
+dass jeder wie du Gottes Kind möchte sein,
+vom Vater zum Erben ernannt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In Jesus gehörst du zur ewigen Welt,
+zum Glaubensgehorsam befreit.
+Er hat dich in seine Gemeinde gestellt,
+und macht dich zum Dienen bereit.</lines>
+    </verse>
+  </lyrics>
+</song>

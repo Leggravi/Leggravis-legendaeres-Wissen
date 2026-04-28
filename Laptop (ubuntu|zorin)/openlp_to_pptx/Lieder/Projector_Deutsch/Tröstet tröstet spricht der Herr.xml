@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Tröstet, tröstet«, spricht der Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Hans Friedrich Micheelsen</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1) »Tröstet, tröstet«, spricht der Herr,
+»mein Volk, dass es nicht zage mehr. «
+Der Sünde Last, des Todes Fron
+nimmt von euch Christus, Gottes Sohn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2) Freundlich, freundlich rede du
+und sprich dem müden Volke zu:
+»Die Qual ist um, der Knecht ist frei,
+all Missetat vergeben sei. «</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3) Ebnet, ebnet Gott die Bahn,
+bei Tal und Hügel fanget an.
+Die Stimme ruft: »Tut Buße gleich,
+denn nah ist euch das Himmelreich. «</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4) Sehet, sehet, alle Welt
+die Herrlichkeit des Herrn erhellt.
+Die Zeit ist hier, es schlägt die Stund,
+geredet hat es Gottes Mund.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5) Alles, alles Fleisch ist Gras,
+die Blüte sein wird bleich und blaß.
+Das Gras verdorrt, das Fleisch verblich,
+doch Gottes Wort bleibt ewiglich.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6) Hebe deine Stimme, sprich
+mit Macht, dass niemand fürchte sich.
+Es kommt der Herr, eu’r Gott ist da
+und herrscht gewaltig fern und nah.</lines>
+    </verse>
+  </lyrics>
+</song>

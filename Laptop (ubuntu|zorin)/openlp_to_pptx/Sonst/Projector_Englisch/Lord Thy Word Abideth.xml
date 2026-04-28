@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord Thy Word Abideth</title>
+    </titles>
+    <authors>
+      <author type="words">Henry Williams Baker</author>
+      <author type="music">William Henry Monk</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, Thy Word abideth,
+And our footsteps guideth;
+Who it's truth believeth
+Light and joy receiveth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When our foes are near us
+Then Thy Word doth cheer us,
+Word of consolation,
+Message of Salvation.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the storms are o’er us,
+And dark clouds before us,
+Then it's light directeth,
+And our way protecteth.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Who can tell the pleasure,
+Who recount the treasure,
+By Thy Word imparted
+To the simple-hearted?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Word of mercy, giving,
+Succour to the living;
+Word of life, supplying
+Comfort to the dying.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh, that we discerning
+Its most holy learning
+Lord, may love and fear Thee,
+Ever more be near Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="May 12, 2021, 9:02:56 PM">
+  <properties>
+    <titles>
+      <title>My Hope Is in the Lord</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>I stand in awe within
+The Presence of the Lord
+In whom the wisdom
+Of the ages lies
+For whom the raging
+Of the sea subsides
+The living sacrifice
+The only source of life</lines>
+    </verse>
+    <verse name="C2">
+      <lines>My hope is in the Lord
+From this time on
+And ever-more
+O my hope is in Lord
+Forever-more</lines>
+    </verse>
+    <verse name="V3">
+      <lines>His tender mercies come
+With every rising sun
+To meet the sinner in
+His brokenness
+To offer healing
+And forgiveness
+And those who trust in Him
+Will find their hearts at rest</lines>
+    </verse>
+    <verse name="V4">
+      <lines>My Faith is in the Lord
+From this time on
+And ever-more
+O my Faith is in Lord
+Forever-more</lines>
+    </verse>
+  </lyrics>
+</song>

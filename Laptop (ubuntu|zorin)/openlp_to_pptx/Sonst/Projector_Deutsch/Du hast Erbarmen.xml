@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du hast Erbarmen</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Marc Dannaud</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du hast Erbarmen und zertrittst all meine Schuld
+Du hilfst mir auf in deiner Treue und Geduld
+Du nimmst mir meine Last, nichts ist für dich zu schwer
+Du wirfst all meine Sünde tief hinab ins Meer</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wer ist ein Gott wie du
+Der die Sünde verzeiht und das Unrecht vergibt
+(Oh) Wer ist ein Gott wie du
+Nicht für immer bleibt dein Zorn bestehn,
+denn du liebst es gnädig zu sein</lines>
+    </verse>
+  </lyrics>
+</song>

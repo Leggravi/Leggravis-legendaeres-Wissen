@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gott gab uns Atem, damit wir leben</title>
+    </titles>
+    <authors>
+      <author type="words">Eckart Bücken</author>
+      <author type="music">Fritz Baltruweit</author>
+      <author type="translation">God gave us breath</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott gab uns Atem, damit wir leben.
+Er gab uns Augen, dass wir uns sehn.
+Gott hat uns diese Erde gegeben,
+dass wir auf ihr die Zeit bestehn.
+Gott hat uns diese Erde gegeben,
+dass wir auf ihr die Zeit bestehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gott gab uns Ohren, damit wir hören.
+Er gab uns Worte, dass wir verstehn.
+Gott will nicht diese Erde zerstören.
+Er schuf sie gut, er schuf sie schön.
+Gott will nicht diese Erde zerstören.
+Er schuf sie gut, er schuf sie schön.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gott gab uns Hände, damit wir handeln.
+Er gab uns Füße, dass wir fest stehn.
+Gott will mit uns die Erde verwandeln.
+Wir können neu ins Leben gehn.
+Gott will mit uns die Erde verwandeln.
+Wir können neu ins Leben gehn.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>More Precious Than Silver</title>
+    </titles>
+    <authors>
+      <author type="words">Lynn DeShazo</author>
+      <author type="music">Lynn DeShazo</author>
+      <author type="translation">Herr, du bist mir teurer als Silber</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, You are more precious
+than silver.
+Lord, You are more costly
+than gold.
+Lord, You are more beautiful
+than diamonds,
+And nothing I desire compares to You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, Your Love is higher
+than mountains.
+Lord, Your Love is deeper
+than seas.
+Lord, Your Love encompasses
+the nations,
+And yet, You live right here inside of me!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who can weigh the value
+of knowing You?
+Who can judge the worth
+of who You are?
+Who can count the blessings
+of loving You?
+Who can say just how great You are?</lines>
+    </verse>
+  </lyrics>
+</song>

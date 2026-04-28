@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Vater, wir geben dir die Ehre und das Lob,das dir gebührt. </title>
+    </titles>
+    <authors>
+      <author type="words">Eva Lowen</author>
+      <author type="music">Eva Lowen</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vater, wir geben dir die Ehre und das Lob,das dir gebührt. 
+Unser Herz ist angefüllt mit Lachen, weil du uns sicher führst. :|
+|: Denn du nimmst uns bei der Hand
+und führst uns in das verheiß’ne Land :|</lines>
+    </verse>
+  </lyrics>
+</song>

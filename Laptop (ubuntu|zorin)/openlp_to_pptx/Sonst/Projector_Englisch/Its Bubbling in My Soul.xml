@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It's Bubbling in My Soul</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's bubbling, It's bubbling,
+It's bubbling in my soul.
+There's singing, and shouting,
+Since Jesus made me whole.
+Some folks can't understand me,
+And I can't help but sing
+It's bubbling, bubbling, bubbling, bubbling,
+Bubbling in my soul.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Give Thanks</title>
+    </titles>
+    <authors>
+      <author type="words">Mark Hayes</author>
+      <author type="music">Mark Hayes</author>
+      <author type="translation">Dank sei dir, Gott, du machst uns reich</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Give thanks with a grateful heart
+Give thanks to the Holy One
+Give thanks because he's given
+Jesus Christ His Son</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And now let the weak say I am Strong
+Let the poor say I am rich
+Because of what the Lord has done for us</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And now let the sick say I am whole
+Let the bound say I am free
+Because of what the Lord has done for us
+Give thanks</lines>
+    </verse>
+  </lyrics>
+</song>

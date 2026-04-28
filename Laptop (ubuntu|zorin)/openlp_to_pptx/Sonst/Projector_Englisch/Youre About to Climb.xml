@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You're About to Climb</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Standing at the crossroads
+Of faith and deepest fear
+So afraid of failing if you move on from here
+The road ahead is steep
+But you're not giving up
+'Cause God's about to take you to a brand new place of trust</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take a step of faith
+It's time to move
+Lay aside your fears
+And watch what God will do
+There's victory ahead
+That mountain's not too high
+Friend hold on, 'cause you're about to climb</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Higher heights await you, beyond what you have dreamed
+And they're yours for the taking if you dare to believe
+So leave your doubts behind
+And let God make you brave
+Cause He has gone before you and He's already made a way</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You may feel you can't go on
+It just seems too hard
+But put your hand in His
+He will take you to the stars</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There's victory ahead
+That mountain's not too high
+Friend hold on
+'Cause you're about to climb
+To climb</lines>
+    </verse>
+  </lyrics>
+</song>

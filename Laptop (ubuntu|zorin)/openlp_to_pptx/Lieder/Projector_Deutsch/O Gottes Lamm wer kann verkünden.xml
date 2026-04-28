@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Gottes Lamm, wer kann verkünden</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Guillaume Franc</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Gottes Lamm! wer kann verkünden
+Den Reichtum Deiner Lieb' und Huld?
+Wer Deiner Leiden Maß ergründen,
+Die Du ertrugst so voll Geduld?
+Wie Schafe stumm zur Schlachtbank gehen,
+Gingst Du hinauf nach Golgatha,
+Wo Schrecken, Angst und Todeswehen
+Allein Dein Auge vor sich sah.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Von finstern Mächten ganz umgeben,
+Bliebst Du doch völlig Gott geweiht,
+Gabst willig hin Dein teures Leben
+Zu Gottes Ehr' und Herrlichkeit.
+Hast Deine Lieb' am Kreuz enthüllet,
+So wie der Mensch den tiefsten Hass,
+Hast Gottes Willen ganz erfüllet,
+Und ach! der Mensch sein Sündenmaß.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und Du – o Liebe ohnegleichen! –
+Du gabst Dich selber für uns hin,
+Dass kein Gericht uns kann erreichen,
+Dass selbst der Tod für uns Gewinn.
+Du hast für uns den Fluch getragen,
+Als Du am Kreuz zur Sünd' gemacht.
+Auf Dir all unsre Sünden lagen,
+Als Du das Sühnungswerk vollbracht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Gottes Lamm! anbetend bringen,
+Wenn schwach auch, wir Dir Preis und Ehr'.
+Wir werden völlig dort besingen
+Dein Lob mit allem Himmelsheer.
+O Lamm! Du wardst für uns geschlachtet,
+Hast Gott erkauft uns durch Dein Blut,
+Hast uns zu herrschen wert geachtet
+Und stets zu warten Deiner Hut.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Be Still</title>
+    </titles>
+    <authors>
+      <author type="words">Ben Fielding</author>
+      <author type="music">Ben Fielding</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's so loud
+I just can't seem to slow this down
+I need you more than ever now
+Let the silence be the only sound</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your glory
+Becomes the only thing I see
+Your beauty brings me to my knees
+The awe that you inspire in me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Makes me want to be still
+So still you can hear me breathing in
+So still you can hear me breathing out
+Let Your calm descend upon me now</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So now I stand before You broken down
+My feet upon this holy ground
+I can feel Your presence all around</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I hear You whisper softly
+I hear You speaking to me
+I hear You
+In the silence You call my name</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I want to be still
+So still you can hear me breathing in
+So still you can hear me breathing out
+Let Your calm descend upon me now</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I want to be still,
+I want to be still,
+I want to be still,
+Be still</lines>
+    </verse>
+  </lyrics>
+</song>

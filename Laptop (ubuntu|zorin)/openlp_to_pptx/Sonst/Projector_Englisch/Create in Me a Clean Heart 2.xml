@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Create in Me a Clean Heart (2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Create in me a clean heart, oh God
+And renew a right spirit within me
+Create in me a clean heart, oh God
+And renew a right spirit within me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cast me not away from Thy presence, oh Lord
+And take not Thy holy spirit from me
+Restore unto me the joy of Thy salvation
+And renew a right spirit within me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cast me not away from Thy presence, oh Lord
+Take not Thy holy spirit from me
+Restore unto me the joy of Thy salvation
+And renew a right spirit within me.</lines>
+    </verse>
+  </lyrics>
+</song>

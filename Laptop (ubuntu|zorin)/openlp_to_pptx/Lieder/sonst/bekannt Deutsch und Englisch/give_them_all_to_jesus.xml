@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 19, 2021, 1:25:45 PM">
+  <properties>
+    <titles>
+      <title>Give Them All to Jesus</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Are you tired of chasing
+Pretty rainbows?
+Are you tired of spinning
+Round and round?
+Wrap up all
+The shattered dreams of your life
+And at the feet of Jesus lay them down</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Give them all, give them all,
+Give them all to Jesus
+Shattered dreams, wounded hearts,
+Broken toys,
+Give them all, give them all,
+Give them all to Jesus
+And He will turn your sorrows into joy</lines>
+    </verse>
+    <verse name="V3">
+      <lines>He never said there'd only be sunshine
+He never said there'd be no rain
+He only promised a heart full of singing
+About the very thing that once brought pain</lines>
+    </verse>
+  </lyrics>
+</song>

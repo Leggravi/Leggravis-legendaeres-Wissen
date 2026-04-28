@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Empower Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nobody knows how weak I am better than you
+Nobody sees all of my needs better than you
+Nobody has the power to change me to what I was born to be
+Jesus be strong in my weakness, Empower me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Empower me
+Like a rushing river flowing to the sea
+Lord, send your holy spirit flowing out through me
+Til i'm living as your child victorious and free
+Send the power of your love empower me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nobody's eyes see through my soul better than yours
+Nobody's love can make me whole no love but yours
+Nobody has the power to lift me to reach for eternity
+Jesus break through all my defences empower me</lines>
+    </verse>
+  </lyrics>
+</song>

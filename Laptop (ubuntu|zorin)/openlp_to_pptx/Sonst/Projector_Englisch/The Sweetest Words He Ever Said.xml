@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Sweetest Words He Ever Said</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Like the woman brought to Jesus,
+Who was taken in her sin,
+I was so ashamed of what I'd done
+And where I'd been.
+Well, justice called for payments
+That were more than I could give,
+When mercy smiled upon me,
+Saying, &quot;I forgive.&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The sweetest words He ever said
+Were &quot;I forgive&quot;
+Death's sentence then was wiped away,
+And I could live,
+Well, I like the part where He told about
+The mansions He would give,
+But the sweetest words
+He ever said were, &quot;I forgive.&quot;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Well, if you're tired of living
+With the wrongs that you have done,
+Come on home to Jesus,
+You know He's the cleansing One.
+In His arms He'll hold you,
+And you've just begun to live,
+When you hear Him gently whisper,
+&quot;I forgive.&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

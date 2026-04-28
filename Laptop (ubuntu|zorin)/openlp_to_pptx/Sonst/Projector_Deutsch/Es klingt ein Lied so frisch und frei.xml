@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Es klingt ein Lied so frisch und frei</title>
+    </titles>
+    <authors>
+      <author type="words">Heinz Fuhrmann</author>
+      <author type="music">Volksweise</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es klingt ein Lied so frisch und frei
+durch das Dunkel dieser Welt,
+dass Jesus Christus Sieger sei
+und auf ewig Recht behält.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja die Freude strahlt aus unsern Herzen,
+Gottes Liebe gibt den hellen Schein;
+trotz Kummer, Sorge, Angst und Pein
+wird das Leben unser sein</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Es klingt ein Lied so frisch und frei.
+dringt hinein in Trug und Not,
+befreit aus dumpfer Träumerei,
+ruft zum Leben frei für Gott.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Es klingt ein Lied so frisch und frei
+in die Unrast dieser Zeit,
+macht Glaube, Liebe, Hoffnung neu,
+bei den Menschen, die in Streit.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Es klingt ein Lied so frisch und frei
+in das Dunkel dieser Welt,
+dass Jesus Christus Sieger sei
+und auf ewig Recht behält.</lines>
+    </verse>
+  </lyrics>
+</song>

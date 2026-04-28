@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Be exalted</title>
+    </titles>
+    <authors>
+      <author type="words">Jesse Reeves</author>
+      <author type="music">Jesse Reeves</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Be exalted oh Lord our God, Be Exalted oh Lord our God, Oh yes you reign,
+Oh oh oh oh, Oh oh oh oh, Oh oh oh oh, We lift you up,
+Oh oh oh oh, Oh oh oh oh, Oh oh oh oh,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be exalted oh Lord our God, Be Exalted oh Lord our God, Oh yes you reign,
+Be exalted oh Lord our God, Be Exalted oh Lord our God, Oh yes you reign,
+We lift you up, Oh oh oh oh, Oh oh oh oh, Oh oh oh oh,
+We lift you up, Oh oh oh oh, Oh oh oh oh, Oh oh oh oh, We lift you up,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mighty, Saviour, Faithful, Jesus,
+Mighty (you never fail), Saviour (you love endures),
+Faithful (you never change), Jesus (our God forever)
+Mighty (you never fail), Saviour (you love endures),
+Faithful (you never change), Jesus (our God forever)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We lift you up, We lift you up, We lift you up
+Be exalted oh Lord our God, Be Exalted oh Lord our God, Oh yes you reign,
+Be exalted oh Lord our God, Be Exalted oh Lord our God, Oh yes you reign,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We lift you up, Over all, You're the name above all names,
+We lift you up, Uwahili malo Lubanga wa,
+You're the name above all names, We lift you up</lines>
+    </verse>
+  </lyrics>
+</song>

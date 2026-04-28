@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lege deine Sorgen nieder</title>
+    </titles>
+    <authors>
+      <author type="words">Sefora Nelson</author>
+      <author type="music">Sefora Nelson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lege deine Sorgen nieder
+Leg sie ab in meiner Hand
+Du brauchst mir nichts zu erklären
+Denn ich hab dich längst erkannt</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lege sie nieder in meiner Hand.
+Komm leg sie nieder, lass sie los in meiner Hand.
+Lege sie nieder, lass einfach los.
+Lass alles falln, nichts ist für deinen Gott zu groß.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lege deine Ängste nieder
+Die Gedanken in der Nacht
+Frieden gebe ich dir wieder
+Frieden hab ich dir gebracht</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lege deine Sünde nieder
+Gib sie mir mit deinem Scham
+Du brauchst sie nicht länger tragen
+Denn ich hab für sie bezahlt</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lege deine Zweifel nieder
+Dafür bin ich viel zu groß
+Hoffnung gebe ich dir wieder
+Lass die Zweifel einfach los</lines>
+    </verse>
+  </lyrics>
+</song>

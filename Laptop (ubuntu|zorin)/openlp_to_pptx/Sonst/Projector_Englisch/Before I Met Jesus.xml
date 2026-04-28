@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Before I Met Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Before I met Jesus my life was empty
+and vain
+And nothing ahead could I see
+but sorrow and pain,
+But then at an altar one day I knelt.
+I found assurance that never has left,
+For Jesus was right for whatever
+was wrong in my life.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus is right for whatever’s
+wrong in your life
+Jesus is right for whatever’s
+wrong in your life
+Just give Him a chance and Jesus will prove
+That every promise
+He makes is true
+For Jesus is right for whatever’s
+wrong in your life.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Faith comes by hearing and
+hearing comes by the Word,
+Just open your Bible and read it till God’s
+voice you’ve heard,
+And then at an altar in repentance
+kneel You’ll find assurance and you’ll know
+it’s real
+For Jesus is right for whatever’s
+wrong in your life.</lines>
+    </verse>
+  </lyrics>
+</song>

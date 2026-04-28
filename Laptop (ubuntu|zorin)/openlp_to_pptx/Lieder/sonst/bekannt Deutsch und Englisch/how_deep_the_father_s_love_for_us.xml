@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Aug 11, 2018, 11:14:20 PM">
+  <properties>
+    <titles>
+      <title>How deep the Father’s love for us</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>How deep the Father’s love for us,
+How vast beyond all measure,
+That He should give His only Son
+To make a wretch His treasure.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>How great the pain of searing loss –
+The Father turns His face away,
+As wounds which mar the Chosen One
+Bring many sons to glory.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Behold the man upon a cross,
+My sin upon His shoulders;
+Ashamed, I hear my mocking voice
+Call out among the scoffers.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>It was my sin that held Him there
+Until it was accomplished;
+His dying breath has brought me life –
+I know that it is finished.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>I will not boast in anything,
+No gifts, no power, no wisdom;
+But I will boast in Jesus Christ,
+His death and resurrection.</lines>
+    </verse>
+    <verse name="V6">
+      <lines>Why should I gain from His reward?
+I cannot give an answer;
+But this I know with all my heart –
+His wounds have paid my ransom.</lines>
+    </verse>
+  </lyrics>
+</song>

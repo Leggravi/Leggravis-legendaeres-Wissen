@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Kleines Senfkorn Hoffnung</title>
+    </titles>
+    <authors>
+      <author type="words">Alois Albrecht</author>
+      <author type="music">Ludger Edelkötter</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kleines Senfkorn Hoffnung, mir umsonst geschenkt,
+werde ich dich pflanzen, dass du weiter wächst,
+dass du wirst zum Baume, der uns Schatten wirft,
+Früchte trägst für alle, alle, die in Ängsten sind?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kleiner Funke Hoffnung, mir umsonst geschenkt,
+werde ich dich nähren, dass du überspringst,
+dass du wirst zur Flamme, die uns leuchten kann,
+Feuer schlägt in allen, allen, die im Finstern sind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kleine Münze Hoffnung, mir umsonst geschenkt,
+werde ich dich teilen, dass du Zinsen trägst,
+dass du wirst zur Gabe, die uns leben lässt,
+Reichtum selbst für alle alle, die in Armut sind.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kleine Träne Hoffnung, mir umsonst geschenkt,
+werde ich dich weinen, dass dich jeder sieht,
+dass du wirst zur Trauer, die uns handeln macht,
+leiden lässt mit allen, allen, die in Nöten sind.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kleines Sandkorn Hoffnung, mir umsonst geschenkt:
+werde ich dich streuen, dass du manchmal bremst,
+dass du wirst zum Grunde, der uns halten lässt,
+Neues wird mit allen, allen, die in Zwängen sind.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kleines Pflänzchen Hoffnung, mir umsonst geschenkt,
+werde ich dich pflegen, dass du größer wirst,
+dass du wirst zur Staude, die uns Früchte bringt,
+Früchte trägt für alle, alle, die im Abseits sind.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Kleines Wörtchen Hoffnung, mir umsonst geschenkt,
+werde ich dich singen, dass dich jeder hört,
+dass du wirst zum Liede, das die Herzen füllt,
+Freude weckt in allen, allen, die in Schmerzen sind.</lines>
+    </verse>
+  </lyrics>
+</song>

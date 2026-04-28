@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Amen, Amen! Jesu, eile</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amen, Amen! Jesu, eile,
+Still' das Sehnen Deiner Braut.
+Mächtiglich die Wolken teile,
+Dass Dich unser Auge schaut!
+Steige auf am Horizonte,
+Morgenstern, durchbrich' die Nacht!
+O dass Deine Braut schon thronte
+Dort mit Dir in Himmelspracht!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amen, Amen! Brich Dein Schweigen,
+Lass uns nicht getrennt mehr gehn,
+Lass uns bald in sel'gen Reigen
+Dort um Dich versammelt stehn.
+Komm, Herr Jesu, komm behende,
+Zeig' uns Deiner Liebe Macht!
+Amen, Amen! O vollende,
+Was Dein kostbar Blut gebracht!</lines>
+    </verse>
+  </lyrics>
+</song>

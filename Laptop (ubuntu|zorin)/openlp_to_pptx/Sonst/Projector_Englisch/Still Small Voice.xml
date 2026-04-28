@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Still Small Voice</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We've heard Elijah on the mount
+Ran from the wrath of Jezebel,
+But God came down to visit him
+And caused his heart to swell;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In a wind, earthquake and fire,
+God came to him by choice,
+But he bowed his head in reverence
+To the still small voice.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I thank the Lord for coming today
+in a still small voice,
+Raise your hands my brother and sister,
+Let's stand and rejoice.
+Overlook the wind, the thunder and fire
+And wait on the Lord,
+Let's put our faith in the glorious grace
+Of His still, small voice.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This world has been conditioned
+To think the power of the Lord,
+Only comes through great convictions
+With miracles galore;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>But in this age of mixed emotions,
+There's a Word that's being voiced,
+Not in the miracles, signs and wonders,
+But in a still small voice.</lines>
+    </verse>
+  </lyrics>
+</song>

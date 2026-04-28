@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We’re Marching to Zion</title>
+    </titles>
+    <authors>
+      <author type="words">Isaac Watts</author>
+      <author type="music">Aaron Williams</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, we that love the Lord,
+And let our joys be known,
+Join in a song with sweet accord,
+Join in a song with sweet accord,
+And thus surround the throne,
+And thus surround the throne.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We’re marching to Zion,
+Beautiful, beautiful Zion;
+We’re marching upward to Zion,
+The beautiful city of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let those refuse to sing
+Who never knew our God;
+But children of the heavenly King,
+But children of the heavenly King,
+May speak their joys abroad,
+May speak their joys abroad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The hill of Zion yields
+A thousand sacred sweets
+Before we reach the heavenly fields,
+Before we reach the heavenly fields,
+Or walk the golden streets,
+Or walk the golden streets.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Then let our songs abound,
+And every tear be dry;
+We’re marching thru Immanuel’s ground,
+We’re marching thru Immanuel’s ground,
+To fairer worlds on high,
+To fairer worlds on high.</lines>
+    </verse>
+  </lyrics>
+</song>

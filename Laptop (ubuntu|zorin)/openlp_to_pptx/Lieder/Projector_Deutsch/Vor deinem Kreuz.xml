@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Vor deinem Kreuz</title>
+    </titles>
+    <authors>
+      <author type="words">Stephanie Dormann</author>
+      <author type="music">Stephanie Dormann</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vor deinem Kreuz, Herr, will ich stille werden.
+Vor deinem Kreuz, Herr, beuge ich mich tief.
+Ich höre deine Stimme, die verstummte
+und doch am Kreuz schon nach mir rief.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vor deinem Kreuz, Herr, wird das Elend kleiner.
+Vor deinem Kreuz werd ich mir selber klein.
+Was in der Welt so groß ist, zählt hier nicht mehr,
+denn deine Liebe zählt allein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vor deinem Kreuz fang ich an zu verstehen,
+was der Verstand niemals verstehen kann.
+Die alten Regeln sind am Kreuz zerbrochen.
+Mit dir, Herr, fängt das Neue an.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vor deinem Kreuz will ich die Knie beugen
+und spüren, wie die Stille mich berührt.
+Dein Kreuz, Herr, ist das Tor zum wahren Frieden,
+das aus dem Streit nach Hause führt.
+Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

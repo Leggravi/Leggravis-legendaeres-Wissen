@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sometimes it takes a storm</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When your waters are so troubled,
+You don't think you count at all.
+Waves may seem like mountains,
+When your boat is oh so small.
+But somewhere past the clouds,
+Waits a new day to begin.
+Sometimes it takes a storm,
+To calm your storm within.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sometimes it takes a storm,
+To know you need a shelter.
+When the anchors in your life,
+Disappear without a trace.
+Sometimes the wind will rage,
+Before you sail calm waters.
+Sometimes it takes a storm,
+To find a hiding place.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>They were drifting in the darkness,
+The sea was all around.
+They cried out to the master,
+Please save us or we'll drown.
+Jesus heard the cries,
+And mercy stilled the wind.
+Sometimes it takes a storm,
+To see the sun again.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sometimes the wind will rage,
+Before you sail calm waters.
+Lord thank you for the storms,
+For I've found my hiding place.
+Oh thank you for the storms,
+Lord you are my hiding place.</lines>
+    </verse>
+  </lyrics>
+</song>

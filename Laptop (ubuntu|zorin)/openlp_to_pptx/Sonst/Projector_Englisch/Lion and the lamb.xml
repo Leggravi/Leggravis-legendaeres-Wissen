@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lion and the lamb</title>
+    </titles>
+    <authors>
+      <author type="words">Brenton Brown</author>
+      <author type="music">Brenton Brown</author>
+      <author type="translation">Der Löwe und das Lamm</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's coming on the clouds
+Kings and kingdoms will bow down
+And every chain will break, as broken hearts declare his praise
+Who can stop the lord almighty?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Our God is the lion, the lion of judah
+He's roaring with power and fighting our battles
+And every knee will bow before you
+Our God is the lamb, the lamb that was slain
+For the sins of the world, his blood breaks the chains
+And every knee will bow before the lion and the lamb
+Oh every knee will bow before him</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So open up the gates
+Make way before the king of kings
+Our God who calls the saved, is here to set the captives free
+Who can stop the lord almighty?
+Who can stop the lord?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For who can stop the lord almighty?
+who can stop the lord almighty?</lines>
+    </verse>
+  </lyrics>
+</song>

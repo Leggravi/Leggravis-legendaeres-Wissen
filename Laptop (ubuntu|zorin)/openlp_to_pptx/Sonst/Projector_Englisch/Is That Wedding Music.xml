@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Is That Wedding Music</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The family is preparing for a wedding
+All have been invited to attend
+The bride is standing ready
+waiting for the signal
+When the Groom says,
+Rise my children come on in</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Is that wedding music I hear
+The bride’s adorned and ready to
+appear;
+There’s heavenly preparations
+For the wedding celebration
+Is that wedding music that I hear</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Soon we’ll rise to leave
+this land of sorrow
+For that ceremony in the air
+The Father then will lead us
+thru the Holy land of splendour
+Have you made your preparation
+to go there.</lines>
+    </verse>
+  </lyrics>
+</song>

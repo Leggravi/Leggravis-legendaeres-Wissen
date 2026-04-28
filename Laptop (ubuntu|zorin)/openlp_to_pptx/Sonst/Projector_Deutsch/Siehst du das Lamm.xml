@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Siehst du das Lamm</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Frey</author>
+      <author type="music">Albert Frey</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Siehst du das Lamm, in jener Nacht?
+Sein Blut an Türen angebracht.
+Es rettet vor des Todes Hand.
+Das Volk kann ziehn in neues Land.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Siehst du das Lamm, dort am Altar?
+Des Volkes Schuld von einem Jahr
+liegt nun auf ihm, es kauft sie los,
+das Opferlamm, so makellos.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Siehst du das Lamm dort an dem Kreuz?
+Bezahlt den höchsten Liebespreis.
+Es trägt die Last der ganzen Welt,
+von Leid und Schmerzen ganz entstellt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Siehst du das Lamm dort auf dem Thron?
+Der Vater gibt die Macht dem Sohn,
+denn würdig ist allein nur er.
+Die Völker singen:? Heilig, Herr?.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wir beten an,
+wir beten an,
+wir beten an, das Gottes Lamm</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Siehst du das Lamm auf seinem Arm?
+Der gute Hirte hält es warm.
+Er ließ die Neunundneunzig stehn.
+Es soll ihm keins verloren gehn.</lines>
+    </verse>
+  </lyrics>
+</song>

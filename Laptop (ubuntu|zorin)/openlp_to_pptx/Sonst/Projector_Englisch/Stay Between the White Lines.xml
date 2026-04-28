@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Stay Between the White Lines</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I remember when I was a little child,
+Down on an old country farm,
+We'd go to church on Sunday,
+And I'd hear the preacher say,
+If you want to see my Jesus,
+You've gotta stay on the Kings Highway.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This Highway leads to glory,
+And it's no easy ride,
+You'll find all kinds of exits,
+They'll throw you off your stride,
+Some will lead to fortune,
+And others lead to fame,
+Some will lead you so far off,
+You won't return again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh you just stay between the white lines,
+Obey all the right signs,
+Keep your eyes opened all the time.
+Oh you just stay between the white lines,
+Never pine for the yellow lines,
+And you'll get to Heaven right on time.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Satan's on this Highway,
+He walks on every side,
+Trying to flag you down,
+Don't give him a ride,
+He will try and stop you,
+At just any sign,
+You may stop too long,
+And your soul may be lost.</lines>
+    </verse>
+  </lyrics>
+</song>

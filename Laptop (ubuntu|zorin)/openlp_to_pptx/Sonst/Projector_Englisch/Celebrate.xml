@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Celebrate</title>
+    </titles>
+    <authors>
+      <author type="words">Sefora Nelson</author>
+      <author type="music">Sefora Nelson</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Celebrate Jesus, celebrate
+Celebrate Jesus, celebrate
+Celebrate Jesus, celebrate
+Celebrate Jesus, celebrate</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He is risen! He is risen!
+And He lives forevermore
+He is risen! He is risen!
+Come on and celebrate!
+Come on and celebrate!
+Come on and celebrate!
+The resurrection of our Lord</lines>
+    </verse>
+  </lyrics>
+</song>

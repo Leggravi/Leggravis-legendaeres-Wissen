@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Das Fischlein in dem Wasser</title>
+    </titles>
+    <authors>
+      <author type="words">Emmi Horstmann</author>
+      <author type="music">Peter van Woerden</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Das Fischlein in dem Wasser, das Rehlein auf der Au, das Vöglein in den Zweigen, das Blümelein im Tau, sie alle liebt der Heiland sehr, doch uns Kinder noch viel mehr.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Der Käfer auf dem Baume, der Hase in dem Klee, der Fuchs dort in dem Walde, der Schmetterling in der Höh, sie alle liebt der Heiland sehr, doch uns Kinder noch viel mehr.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Er liebt die Indianer, Chinesen hat er gern, die schwarzen Afrikaner, die Weißen nah und fern, der Heiland liebt sie alle gleich, jeden ruft er in sein Reich.</lines>
+    </verse>
+  </lyrics>
+</song>

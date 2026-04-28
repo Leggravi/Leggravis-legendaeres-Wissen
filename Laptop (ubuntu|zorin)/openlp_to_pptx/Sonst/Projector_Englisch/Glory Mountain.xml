@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Glory Mountain</title>
+    </titles>
+    <authors>
+      <author type="words">Ben Cantelon</author>
+      <author type="music">Ben Cantelon</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We have looked for His
+coming for many years
+Miles filled with happiness
+and many filled with tears
+But His promise is sure that
+He will return
+We are looking for the
+day of the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glory mountain Is not far away
+Glory mountain, we will see the
+Saviour’s face
+The hope of all ages
+and of every race
+Glory mountain,
+we may see today.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>High on a mountain, He went away
+His disciples were crying,
+and they were afraid
+He gave them assurance
+to comfort all men
+His feet will touch that
+mountain and come again.</lines>
+    </verse>
+  </lyrics>
+</song>

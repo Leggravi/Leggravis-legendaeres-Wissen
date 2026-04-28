@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Stadt, Land Welt...</title>
+    </titles>
+    <authors>
+      <author type="words">Markus Wäsch</author>
+      <author type="music">Oliver Stehmann</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stadt, Land Welt – eine Botschaft zieht Kreise.
+„Gehet hin“, so hat Jesus gesagt.
+Gottes Geist geht mit uns auf die Reise.
+Alle Grenzen überwindet seine Kraft.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In meinem Haus, in meiner Straße, meinem Viertel, meiner Stadt,
+will ich ein Zeuge sein von dem, was Gott in mir verändert hat.
+Ich will meinen Nächsten seh´n.
+Ich will meinen Nächsten seh´n!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In unserm Kreis, in unserm Land und auf dem ganzen Kontinent,
+sollen die Leute spüren, dass in uns die Liebe Gottes brennt.
+Gottes Bau an jedem Ort.
+Gottes Bau an jedem Ort.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und schließlich sendet Jesus uns auch bis ans Ende dieser Welt,
+bis er aus allen Ländern sich ein großes Volk zusammenstellt.
+Allen Menschen gilt sein Wort.
+Allen Menschen gilt sein Wort.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Father Make Us One</title>
+    </titles>
+    <authors>
+      <author type="words">Rick Ridings</author>
+      <author type="music">Rick Ridings</author>
+      <author type="translation">Vater, mach uns eins</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father make us one,
+Father make us one.
+That the world may know,
+Thou has sent Thy Son;
+Father make us one.</lines>
+    </verse>
+  </lyrics>
+</song>

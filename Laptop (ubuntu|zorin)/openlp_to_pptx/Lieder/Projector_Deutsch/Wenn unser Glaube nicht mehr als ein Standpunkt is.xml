@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wenn unser Glaube nicht mehr als ein Standpunkt is</title>
+    </titles>
+    <authors>
+      <author type="words">Hartmut Birkelbach</author>
+      <author type="music">Hartmut Birkelbach</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wenn unser Glaube nicht mehr
+als ein Standpunkt ist,
+den wir einmal für immer bezogen,
+und nicht lebt und gelebt und erfahren wird,
+ist er tot und wir selbst sind betrogen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vater lehr uns immer neu,
+was glauben heißt,
+und überwinde du den Tod,
+der in unsrem Leben Raum gewann!
+Vater gib uns immer wieder
+deinen Geist, und schaffe
+in und durch uns Leben,
+das die Welt verändern kann!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn unsre Liebe nicht mehr ist
+als ein Gefühl, reserviert für
+besondere Stunden
+und nicht treibende Kraft
+unsres Lebens wird,
+ist sie tot und schlägt tödliche Wunden.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wenn unsre Hoffnung nicht
+mehr als ein Weltbild ist,
+mit dem wir uns und die andren vertrösten
+und nicht Richtschnur für unsere Arbeit wird,
+ist sie tot, weil wir sie von dir lösten</lines>
+    </verse>
+  </lyrics>
+</song>

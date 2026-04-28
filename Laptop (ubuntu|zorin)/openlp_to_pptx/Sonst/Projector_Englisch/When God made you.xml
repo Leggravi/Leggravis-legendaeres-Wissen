@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When God made you</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Its always been a mystery to me,
+How two hearts can come together,
+And love can last forever.
+But now that I have found you I believe,
+That a miracle has come when God sends the perfect one.
+Now gone are all my questions about why,
+And I've never been so sure of anything in my life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh I wonder what God was thinking, when he created you.
+I wonder if He knew everything I would need,
+Because he made all my dreams come true.
+When God made you, He must have been thinking about me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ooo ooo, I promise that wherever you may go, wherever life may lead you,
+With all my heart I'll be there too.
+And from this moment on I want you to know,
+I'll let nothing come between us, and I will love the ones you love.
+Now gone are all my questions about why
+And I've never been so sure of anything in my life</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He made the sun, He made the moon
+To harmonize the perfect tune
+One can't do without the other they just have to be together.
+And that is how I know its true,
+You're for me and I'm for you
+Coz' my world just can't be right
+Without you in my life</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh I wonder what God was thinking, when he created you.
+I wonder if He knew everything I would need,
+Because he made all my dreams come true.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>He must have heard ev'ry pray'r I've been praying.
+Yes He knew everything I would need</lines>
+    </verse>
+    <verse name="v7">
+      <lines>When God made you,
+When dremas came true
+When God made you, He must've been thinking
+About me.</lines>
+    </verse>
+  </lyrics>
+</song>

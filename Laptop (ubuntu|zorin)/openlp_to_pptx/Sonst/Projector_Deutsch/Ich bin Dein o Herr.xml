@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich bin Dein, o Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Ich bin Dein, o Herr!</author>
+      <author type="music">William H. Doane</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich bin Dein, o Herr, ich vernahm Dein Wort,
+Deine Liebe wohnt in mir;
+doch es fühlt mein Herz noch immerfort,
+es bedarf noch mehr von Dir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zieh mich näher, näher, treuer Herr,
+zu dem Kreuz, woran Du starbst!
+Zieh mich näher, näher, treuer Herr,
+an Dein treues Jesusherz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich bin Dein, o Herr, und mein Wille soll
+ganz in Deinem Willen ruhn;
+Herr, in Deinem Dienst lass mich glaubensvoll
+nur nach Deinem Willen tun.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O die heilge Zeit einer einz'gen Stund,
+kniend an dem Thron verbracht!
+Dir mach ich all meine Gedanken kund,
+wie der Freund dem Freund es macht.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Diese tiefe Lieb ich erst kenne ganz,
+wenn ich vor dem Throne steh,
+und die höchste Freud in des Himmelsglanz
+ist, dass ich den Heiland seh.</lines>
+    </verse>
+  </lyrics>
+</song>

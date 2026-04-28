@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All I Need Is You</title>
+    </titles>
+    <authors>
+      <author type="words">Marty Sampson</author>
+      <author type="music">Marty Sampson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v6 v2 v2 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Left my fear by the side of the road
+Hear You speak, won't let go
+Fall to my knees as I lift my hands to pray
+Got every reason to be here again
+Father's love that draws me in
+And all my eyes wanna see is a glimpse of You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All I need is you
+All I need is you, Lord
+Is you, Lord
+All I need is you
+All I need is you, Lord
+Is you, Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>One more day and it's not the same
+Your Spirit calls my heart to sing
+Drawn to the voice of my Saviour once again
+Where'd my soul be without your Son?
+Who gave His life to save the earth
+Rest in the thought that you're watching over me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All I need is you
+All I need is you, Lord
+Is you, Lord
+All I need is you
+All I need is you, Lord
+'Cause all I need is you
+All I need is you
+'Cause all I need is you
+And all I need is you</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You hold the universe
+You hold everyone on earth
+You hold the universe
+You hold, yeah you hold
+You hold the universe
+And you hold everyone on earth</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You hold the universe
+You hold, you hold
+You hold the universe
+You hold everyone on earth
+You hold the universe
+You hold, you hold</lines>
+    </verse>
+    <verse name="v7">
+      <lines>All I need is you
+All I need is you, Lord
+Is you, Lord
+All I need is you.</lines>
+    </verse>
+  </lyrics>
+</song>

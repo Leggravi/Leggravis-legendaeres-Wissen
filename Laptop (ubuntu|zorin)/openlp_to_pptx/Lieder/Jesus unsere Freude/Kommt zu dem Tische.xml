@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:56">
+  <properties>
+    <titles>
+      <title>Kommt zu dem Tische</title>
+    </titles>
+    <authors>
+      <author type="words">Lothar Gassmann (1982)</author>
+      <author type="music">Lothar Gassmann</author>
+    </authors>
+    <ccliNo>4887221</ccliNo>
+    <themes>
+      <theme>Abendmahl</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kommt zu dem Tische. Das Mahl ist bereit.
+Jesus, der HERR, lädt uns ein.
+Kommt in Anbetung. Legt ab Zorn und Streit.
+Nehmet das Brot und den Wein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Denkt an den HERRN, der am Kreuz für uns starb.
+Er trägt die Sünden der Welt.
+Denket an Ihn, der uns Leben erwarb
+und unser Dunkel erhellt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kommet, ihr Armen, der HERR macht euch satt.
+Kraft wird den Schwachen zuteil.
+Kommt auch, ihr Kranken, zerschlagen und matt:
+Jesus schenkt Hoffnung und Heil.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eins mit dem Bruder und eins mit dem HERRN
+geh' n wir gestärkt durch die Zeit,
+bis wir bei Jesus - der Tag ist nicht fern –
+feiern in himmlischer Freud'.</lines>
+    </verse>
+  </lyrics>
+</song>

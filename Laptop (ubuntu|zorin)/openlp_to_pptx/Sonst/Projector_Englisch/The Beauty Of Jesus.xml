@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Beauty Of Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Orsborn</author>
+      <author type="music">Tom Jones</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the beauty of Jesus
+Be seen in me,
+All His wonderful passion
+And purity;
+Oh Thou Spirit divine,
+All my nature refine,
+Till the beauty of Jesus
+Be seen in me.</lines>
+    </verse>
+  </lyrics>
+</song>

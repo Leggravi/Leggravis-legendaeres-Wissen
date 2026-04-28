@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Where is Jesus?</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On a journey from Jerusalem
+Returning to their home
+Joseph and his family traveled all day long
+They must have walked from many miles before they realized
+Jesus was not with them, Mary sadly cry</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where is Jesus? Did we leave Him far behind
+Did we take for granted he was here
+Walking with us all the time
+Where is Jesus? To find Him once again
+We must return to the place where we left Him
+Where is Jesus? Where is Jesus?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I pray for God to lead my way
+That His will for me be known
+All He ask is I'll wait for Him
+Still I'll step down on my own
+Without Him here to guide my steps
+I failed Him many times
+I only have myself to blame
+I bowed my head and cry</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You've made some bad decisions
+With a selfish thought in mind
+You have the best intentions for the goals you set in life
+You're relationship with God secured but the fellowship is gone
+You can choose to walk with Him again
+You don't have to walk alone</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:52">
+  <properties>
+    <titles>
+      <title>Lasst uns loben unsern Gott und Vater (Sonne, Mond und Sterne)</title>
+    </titles>
+    <authors>
+      <author type="words">Klaus Heizmann (1988)</author>
+      <author type="music">Peter Sandwall</author>
+    </authors>
+    <ccliNo>5450389</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sonne, Mond und Sterne, Wellen, Meer und Sand
+sind Zeugen seiner Herrlichkeit, seiner Schöpferhand.
+Jeder kleine Kieselstein, jeder Tropfen Tau
+preist Gottes Größe und Macht!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vögel, Bäume, Blumen, Himmel, Erde, Land
+sind Zeugen seiner Herrlichkeit, seiner Schöpferhand.
+Jeder Regentropfen, jedes Schneekristall
+preist Gottes Größe und Macht!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir als seine Kinder wissen uns geliebt;
+sind sicher, dass er an uns denkt, unsre Schuld vergibt.
+Er kennt uns mit Namen, weiß, wie es uns geht.
+Treu und gerecht ist der Herr!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Stay Close to Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord I knew a time like this
+Would someday come my way
+When in disbelief, I've watched my whole life change
+I'd thought I have the words to tell you how I feel
+But the only thing my heart is telling me to say
+Is Lord, stay close to me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As I journey through the darkness
+of this great unknown
+Lord stay close to me
+Though I've placed my faith in You
+I feel so all alone
+My heart trembles like a child
+As I walk each scary mile
+And the only prayer my lips can find to speak
+Is Lord, stay close to me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I guess that I could ask you for some miracle
+To even take away this trial that I face
+But Lord I know that You alone know what I need
+So will You hold me tight
+As I journey through this place
+And Lord stay close to me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh Lord when I'm so scared
+Please be there oh God
+So I can rest in this promise
+The promise that you are
+Lord I know that I can make it through
+If all I have is you
+And Lord stay close to me</lines>
+    </verse>
+  </lyrics>
+</song>

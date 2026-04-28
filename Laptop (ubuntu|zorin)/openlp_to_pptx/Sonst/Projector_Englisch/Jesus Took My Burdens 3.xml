@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Took My Burdens (3)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus took my burdens
+And rolled them in the sea
+He rolled them in the sea 2x
+Now I have a peace
+That He has given me
+All my cares and burdens
+He rolled them in the sea</lines>
+    </verse>
+  </lyrics>
+</song>

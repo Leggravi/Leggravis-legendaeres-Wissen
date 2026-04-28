@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It’s the Life Behind the Name (2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It’s the life behind the Name,
+That makes the demons tremble;
+It’s the life behind the Name,
+That makes the proud heart humble;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It was God who devised the plan,
+That in all things as a man,
+He could live, so He could give,
+Give us the life behind the Name.</lines>
+    </verse>
+  </lyrics>
+</song>

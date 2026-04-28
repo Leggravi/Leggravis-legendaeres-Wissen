@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>A Good Sign of Christianity</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus said, if you just do favors for those
+That do favors for you the publicans do the same thing
+You must be kind to those, who are unkind to you
+Do good those that who do evil to you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Reverence, we ought to honor one another
+Respect one another, as brother and sister
+And loved one another, with undying love
+That's very a good sign, of Christianity</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Love those who does not love to you
+Love the unlovable, because God is watching you
+God was good to you, when you're evil to him,
+While you were yet sinners, Christ died for you.</lines>
+    </verse>
+  </lyrics>
+</song>

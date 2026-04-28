@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus wir sehen auf dich</title>
+    </titles>
+    <authors>
+      <author type="words">Peter Strauch</author>
+      <author type="music">Peter Strauch</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, wir sehen auf dich.
+Deine Liebe, die will uns verändern,
+und in uns spiegelt sich deine Herrlichkeit.
+Jesus, wir sehen auf dich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, wir hören auf dich.
+Du hast Worte des ewigen Lebens,
+und wir haben erkannt, du bist Christus.
+Jesus, wir hören auf dich.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, wir warten auf dich.
+Du wirst kommen nach deiner Verheißung.
+Alle Menschen sie werden Dich sehen.
+Jesus, wir warten auf dich.</lines>
+    </verse>
+  </lyrics>
+</song>

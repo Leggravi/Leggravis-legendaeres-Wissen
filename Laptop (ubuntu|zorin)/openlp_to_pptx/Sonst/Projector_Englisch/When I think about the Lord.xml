@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When I think about the Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I think about the Lord,
+How He saved me, how He raised me,
+How He filled me, with the Holy Ghost.
+How He healed me, to the uttermost.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I Think about the Lord,
+How He picked me up
+and turned me around,
+How He placed my feet
+on solid ground</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It makes me wanna shout,
+Hallelujah,
+Thank you Jesus,
+Lord, You're worthy,
+of all the glory, and all the honor,
+And all the praise…</lines>
+    </verse>
+  </lyrics>
+</song>

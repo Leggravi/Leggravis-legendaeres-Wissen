@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gepriesen sei der Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Andreas Koch</author>
+      <author type="music">Südamerika</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gepriesen sei der Herr,
+denn seine Liebe ist groß.
+Gepriesen sei der Herr, für seine Macht.
+//: Mit offenem Herzen stehen wir vor dir.
+Wir geben uns hin, so wie wir sind. ://</lines>
+    </verse>
+  </lyrics>
+</song>

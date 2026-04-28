@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Steh mir vor Augen</title>
+    </titles>
+    <authors>
+      <author type="words">Wolfgang Müller</author>
+      <author type="music">Be Thou My Vision</author>
+      <author type="translation">Be Thou My Vision</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Steh mir vor Augen, auf dich will ich sehn.
+Herr, deine Wahrheit allein wird bestehn.
+Sei du mir nahe bei Tag und bei Nacht.
+Wach oder schlaf ich, hab du auf mich acht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Präge mein Denken, mein Fühlen, mein Sein,
+ruf mich in deine Gemeinschaft hinein.
+Du bist mir Vater, ich bleibe dein Kind.
+Wohne in mir, dass stets eines wir sind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sei Schutz und Zuflucht mir, Helfer in Not,
+Kraft und Geduld gib mir, gnädiger Gott.
+Wenn auch in Ängsten der Sturm mich umtost,
+schenkt doch dein Wort mir Gewissheit und Trost.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Reichtum und Ehre begehre ich nicht,
+bleibst du nur immer mein Heil und mein Licht.
+Liebe und Treue, Kraft, Frieden und Ruh,
+Hoffnung und Freude – mein Alles bist du.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Herrscher des Himmels, Vollender der Welt,
+auf dich ist all mein Vertrauen gestellt.
+Trotz aller Nöte – auf dich will ich baun.
+Steh mir vor Augen, Herr, dich lass mich schaun.</lines>
+    </verse>
+  </lyrics>
+</song>

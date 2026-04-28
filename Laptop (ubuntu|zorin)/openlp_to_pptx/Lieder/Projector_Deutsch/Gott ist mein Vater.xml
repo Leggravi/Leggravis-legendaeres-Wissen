@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gott ist mein Vater</title>
+    </titles>
+    <authors>
+      <author type="words">Albrecht Gralle</author>
+      <author type="music">Jochen Rieger</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott ist mein Vater
+und wir sind seine Kinder.
+Jesus macht uns zu Brüdern
+und Hand in Hand gehen wir nun weiter mit ihm.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Singt preist den Herrn mit dem Tamburin.
+Singt preist den Herrn mit der Hand.
+Singt preist den Herrn mit dem Freudentanz.
+Singt preist den Herrn mit der Stimm'.</lines>
+    </verse>
+  </lyrics>
+</song>

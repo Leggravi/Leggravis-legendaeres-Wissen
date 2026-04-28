@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gib mir Liebe ins Herz, lass mich leuchten</title>
+    </titles>
+    <authors>
+      <author type="words">Hans-Joachim Eckstein</author>
+      <author type="music">Norman Johnson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v4 v6 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gib mir Liebe ins Herz, lass mich leuchten
+gib mir Liebe ins Herz, bet' ich
+Herr, Du selbst bist das Licht, das erleuchtet
+darum scheine du nun selbst durch mich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sing Hosianna, sing Hosianna,
+sing Hosianna zu dem Herrn der Welt
+Sing Hosianna, sing Hosianna,
+sing Hosianna zu dem Herrn!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lass mich sein, wie lebendiges Wasser,
+dass durch Trockenheit fließt, bet' ich.
+Herr, Du selbst bist das lebende Wasser,
+darum fließe Du nun selbst durch mich.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sing Hosianna, sing Hosianna,
+sing Hosianna zu dem Herrn der Welt
+Sing Hosianna, sing Hosianna,
+sing Hosianna zu dem Herrn!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lass mich sein für die Welt wie ein Hirte,
+der für andere lebt, bet' ich.
+Herr, Du selbst bist der allertreuste Hirte,
+darum sei Du nun auch das durch mich.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Sing Hosianna, sing Hosianna,
+sing Hosianna zu dem Herrn der Welt
+Sing Hosianna, sing Hosianna,
+sing Hosianna zu dem Herrn!</lines>
+    </verse>
+  </lyrics>
+</song>

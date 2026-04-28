@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What the World Will Never Take</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Crocker</author>
+      <author type="music">Matt Crocker</author>
+      <author type="translation">Ich gebe dich nicht mehr her</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>With all I'm holding inside
+With all my hopes and desires
+And all the dreams that I've dreamt
+With all I'm hoping to be
+And all that the world will bring
+And all that fails to compare</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You say You want all of me
+I wouldn't have it any other way
+I've got a Saviour and He's living in me
+Whoa, I wanna know
+I wanna know You today
+And You're the best thing
+That has happened to me
+And the world will never take
+The world will never take You away</lines>
+    </verse>
+    <verse name="v3">
+      <lines>With all I'm hoping to be
+And all that the world will bring
+And all that fails to compare</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I've got a Saviour and He's living in me
+Whoa, I wanna know
+I wanna know You today
+And You're the best thing
+That has happened to me
+And the world will never take
+The world will never take You away</lines>
+    </verse>
+    <verse name="v5">
+      <lines>No one could ever take You away
+No one can ever take You away</lines>
+    </verse>
+  </lyrics>
+</song>

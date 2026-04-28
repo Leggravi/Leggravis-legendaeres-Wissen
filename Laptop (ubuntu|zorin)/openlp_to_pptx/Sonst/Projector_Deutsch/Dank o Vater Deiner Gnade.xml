@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dank, o Vater, Deiner Gnade</title>
+    </titles>
+    <authors>
+      <author type="words">Julius Anton von Poseck</author>
+      <author type="music">Jakob Hintze</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dank, o Vater, Deiner Gnade,
+Deiner Liebe, Deiner Macht,
+Dass Du von des Sünders Pfade
+Uns so nah zu Dir gebracht!
+&quot;Abba, Vater!&quot; stammeln Kinder,
+&quot;Abba!&quot; die erlösten Sünder.
+Dein Geist zeugt mit unserm Geist,
+Dass Du &quot;Abba, Vater&quot; heißt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fern von Dir, mit Fluch beladen,
+Lagen wir in Sündennacht.
+Christi Blut hat uns aus Gnaden
+Deinem Herzen nah gebracht.
+Du hast in dem Sohn gegeben
+Uns Erlösung, ew'ges Leben.
+O wir danken Dir dafür,
+Abba, Vater! Preis sei Dir!</lines>
+    </verse>
+  </lyrics>
+</song>

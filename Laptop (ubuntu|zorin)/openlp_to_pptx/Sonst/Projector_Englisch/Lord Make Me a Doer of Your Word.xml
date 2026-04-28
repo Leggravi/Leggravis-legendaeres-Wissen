@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord, Make Me a Doer of Your Word</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I see a world full of preachers and singers,
+But very little doers of your word.
+I see a world full of churches and members,
+But very little doers of your word.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I see a church full of prophets and apostles,
+But very little doers of your word.
+Lord, how long will your people suffer,
+Come and fill us with the fullness of your word.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, make me a doer of your word,
+Lord, make me a keeper of your word,
+Lord, make me a doer of your word,
+Not just a singer, but a doer of your word,
+Not a church member, but a doer of your word.</lines>
+    </verse>
+  </lyrics>
+</song>

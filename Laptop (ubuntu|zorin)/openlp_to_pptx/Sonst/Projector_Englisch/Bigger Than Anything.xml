@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Bigger Than Anything</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bigger than all the shadows
+that fall across my path,
+God is bigger than any mountain
+That I can and cannot see,
+Bigger than all confusions,
+bigger than anything,
+God is bigger than any mountain,
+That I can and cannot see.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bigger than all my problems,
+Bigger than all my fears,
+God is bigger than any mountains
+That I can and cannot see;
+Bigger than all my questions,
+Bigger than anything,
+God Is bigger than any mountains
+That I can and cannot see.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bigger than all the giants
+of fear and unbelief
+God is bigger than any mountain
+That I can and cannot see,
+Bigger than all my hang ups,
+bigger than anything,
+God is bigger than any mountain
+That I can and cannot see.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bigger than all our sorrows
+when death takes one of us,
+God is bigger than any mountain
+That I can and cannot see
+Bigger than all our mourning,
+bigger than anything,
+God is bigger than any mountain
+That I can and cannot see.</lines>
+    </verse>
+  </lyrics>
+</song>

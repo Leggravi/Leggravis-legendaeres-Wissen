@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Souverän</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v4 v4 v5 v6 v4 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wer du bist,
+Was du tust,
+Wie du liebst
+Lässt mich nur staunen, Herr.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wie du kämpfst,
+Wie du führst,
+Was du wirkst ist immer souverän.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du bist gut,
+Du bist treu,
+Deinem Wort vertrauen wir allein.
+In der Not bist du nah,
+Du lässt uns nie mehr verloren sein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Großer Gott, wir loben dich.
+Herr, wir preisen deine Stärke.
+Vor dir neigt die Erde sich
+Und bewundert all deine Werke.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wie du warst vor aller Zeit,
+So bleibst du, bis in Ewigkeit. 4x</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Heilig, heilig. Großer Gott wir Loben dich. 2x</lines>
+    </verse>
+  </lyrics>
+</song>

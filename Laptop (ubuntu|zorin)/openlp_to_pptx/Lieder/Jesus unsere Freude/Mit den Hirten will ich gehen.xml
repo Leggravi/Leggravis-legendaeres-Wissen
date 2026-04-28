@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:38">
+  <properties>
+    <titles>
+      <title>Mit den Hirten will ich gehen</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Emil Wilhelm Quandt (1880)</author>
+      <author type="music">August Dietrich Rische</author>
+    </authors>
+    <ccliNo>4346047</ccliNo>
+    <themes>
+      <theme>Weihnachten</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mit den Hirten will ich gehen,
+meinen Heiland zu besehen,
+meinen lieben heilgen Christ,
+der für mich geboren ist.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mit den Engeln will ich singen,
+Gott zur Ehre soll es klingen,
+von dem Frieden, den er gibt
+jedem Herzen, das ihn liebt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mit den Weisen will ich geben,
+was ich Höchstes hab im Leben,
+geb zu seligem Gewinn
+ihm das Leben selber hin.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mit Maria will ich sinnen
+ganz verschwiegen und tief innen
+über dem Geheimnis zart:
+Gott im Fleisch geoffenbart.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mit dir selber, mein Befreier,
+will ich halten Weihnachtsfeier;
+komm, ach komm ins Herz hinein,
+lass es deine Krippe sein.</lines>
+    </verse>
+  </lyrics>
+</song>

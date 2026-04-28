@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thirst</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As we set our faces towards
+Jerusalem,
+Knowing that very soon the
+squeeze will come,
+As the day draws nearer, as the
+day draws closer,
+There’s such a painful desire to be
+like our Saviour.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh Jesus, my Lord Jesus,
+Only You, only You
+Can quench this thirst
+in my soul.
+2x</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Many nights I can’t sleep, everyday
+my soul groans in me,
+Waiting for the redemption of this
+body;
+No matter what the world may say,
+No matter what the world may do,
+It’s a fact that I can’t rest until I’m
+perfect.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Before the Masterpiece could
+speak it must be smitten
+By the determinate counsel of our
+God,
+What shall I say then, ‘Father take
+this cup from me? ’
+But nevertheless not my will but
+Thine be done.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Signs of the time quickly
+approaching,
+We can see the whole creation is
+groaning;
+But, for this purpose came we into
+this world;
+To fulfill what is written of us.</lines>
+    </verse>
+  </lyrics>
+</song>

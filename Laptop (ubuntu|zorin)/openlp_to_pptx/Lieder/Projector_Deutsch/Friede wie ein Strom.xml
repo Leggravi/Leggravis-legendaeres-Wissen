@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Friede wie ein Strom</title>
+    </titles>
+    <authors>
+      <author type="words">Hajo Klösel</author>
+      <author type="music">John Watson</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Friede wie ein Strom,
+Liebe groß wie Berge.
+Der Wind deines Geistes weht überall.
+Freude übersprudelnd,
+heilender Lebensquell.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Komm, Heil'ger Geist, mit Feuerfall!</lines>
+    </verse>
+  </lyrics>
+</song>

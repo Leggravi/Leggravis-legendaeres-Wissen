@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Paid It All</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I hear the Savior say,
+&quot;Thy strength indeed is small,
+Child of weakness, watch and pray,
+Find in Me thine all in all.&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus paid it all,
+All to Him I owe;
+Sin had left a crimson stain,
+He washed it white as snow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, now indeed I find
+Thy pow'r, and Thine alone,
+Can change the leper's spots,
+And melt the heart of stone.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Since nothing good have I
+Whereby Thy grace to claim,
+I'll wash my garments white
+In the blood of Calvry's Lamb.</lines>
+    </verse>
+  </lyrics>
+</song>

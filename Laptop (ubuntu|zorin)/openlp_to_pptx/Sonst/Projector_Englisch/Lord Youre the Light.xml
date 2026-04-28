@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord You’re the Light</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord You’re the Light in the darkness night
+When I’m with You everything’s alright
+Lord You’re the One who’s faithful and true
+In all that I do, I worship You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord You’re the song that I love to sing
+Jesus You are my everything
+Took what was old and made it brand new
+In all that I do, I worship You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord You are my shelter
+You’re the Rock in whom I will trust
+Though the storms of life come in like a flood
+You’ll raise up a standard for me
+And give me victory</lines>
+    </verse>
+  </lyrics>
+</song>

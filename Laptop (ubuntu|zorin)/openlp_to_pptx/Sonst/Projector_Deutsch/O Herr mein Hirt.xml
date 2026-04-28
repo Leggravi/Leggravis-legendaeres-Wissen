@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Herr, mein Hirt</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Andreas Cramer</author>
+      <author type="music">Wilhelm Brockhaus</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Herr, mein Hirt!
+Im Schatten Deiner Güte
+Frohlockt mein Herz, singt jauchzend mein Gemüte
+Und dankt, weil mir nichts mangeln wird.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du führest mich
+Auf fette, grüne Weiden.
+Hier blühen mir des Geistes reinste Freuden,
+Und meine Seele sättigt sich.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du tränkest mich,
+Wenn Hitz' und Durst mich schwächen,
+Aus frischem Quell, aus klaren Lebensbächen,
+Und meine Seel' erschöpft sie nicht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wenn Du gebeutst,
+Muss aller Sturm sich legen.
+Du leitest treu mich Deines Namens wegen
+In Pfaden der Gerechtigkeit.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mit Dir kann ich
+Durch finstre Täler wallen.
+Ich fürchte nichts, Du lässest mich nicht fallen,
+Ich tröste Deines Stabes mich.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Herr! Du bist mein,
+Und Dein ist meine Seele.
+Du salbst mein Haupt mit Deinem Freudenöle,
+Du schenkst den Becher voll mir ein.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mir folgt Dein Heil.
+So lang ich auf der Erde
+Noch wallen soll und Dich verehren werde,
+Ist Deine Gotteshuld mein Teil.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All My Fountains</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This dry and desert land
+I tell myself, &quot;Keep walking on&quot;
+Hear something up ahead
+Water falling like a song</lines>
+    </verse>
+    <verse name="v2">
+      <lines>An everlasting stream
+Your river carries me home
+Let it flow, let if flow</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Open the heavens
+Come Living Water
+All my fountains are in You
+You're strong like a river
+Your love is running through
+All my fountains are in You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A flood for my soul
+A well that never will run dry
+I've rambled on my own
+Never believing I would find</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Come on, and rain down on us
+Rain down on us, Lord</lines>
+    </verse>
+  </lyrics>
+</song>

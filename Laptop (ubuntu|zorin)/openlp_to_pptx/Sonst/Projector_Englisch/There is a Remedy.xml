@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There is a Remedy</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For the world that's lost in darkness
+For the saint who's gone astray
+For the sinner, blind but searching
+For the child in need of faith
+For the homeless and forsaken
+For the hungry and the cold
+For the prisoner and the captive
+For the young and for the old</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is a remedy
+For every sin-sick soul
+There is a cure for all
+All the pain and hurt and wrong
+There is a solution
+For all the problems deep inside
+There is a remedy
+And His name is Jesus Christ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For the bitter, for the lonely
+For the weary and afraid
+For the burdened and frustrated
+The discouraged and dismayed
+For the mocked and persecuted
+For the battered, for the wronged
+For the scarred and for the wounded
+For the weak and for the strong</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For every tribe and every nation
+For every color, every race
+For every tongue and every language
+For every time and every place
+There's an answer to the questions
+There is love for all the hate
+There's a healer for the dying
+He's the Light the Truth the way,</lines>
+    </verse>
+  </lyrics>
+</song>

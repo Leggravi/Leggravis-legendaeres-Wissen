@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Is Standing In Pilate's Hall</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus is Standing in Pilate’s Hall,
+Friendless forsaken betrayed by all:
+Hearken what meaneth the sudden call,
+What will you do with Jesus?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What will you do, what will you do?
+Neutral you cannot be
+Some day your heart will be asking,
+What will He do with me?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus is standing on trial still
+You can be false to Him if you will
+You can be faithful thro’ good or ill
+What will you do with Jesus?
+
+Will you evade Him as Pilate tried?
+Or shall you choose Him whate’er betide?
+Vainly you struggle for Him to hide
+What will you do with Jesus?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Shall you like Peter, your Lord deny?
+Or shall you scorn from His foes to fly?
+Daring for Jesus to live or die
+What will you do with Jesus?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus, I give thee my heart, to-day
+Jesus, I’ll follow thee all the way
+Gladly obeying Him, will you say
+This will I do with Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Only a Look At Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Only A Look At Jesus
+O Soul Bowed Down With Care
+He Has Promised To Defend You
+He Will All Your Burdens Share</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Only A Look! Only A Look!
+Can Turn You Away From Sin
+Oh, A Look, Will You Bring You Salvation
+Eternal Life To Win.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Only A Look At Jesus
+He’ll Prove A Constant Friend
+He Will Bring You Peace And Comfort
+And Go With You To The End</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Only A Look! Only A Look!
+Can Turn You Away From Sin
+Oh, A Look, Will You Give You Salvation
+Eternal Life To Win.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Only A Look! Only A Look!
+Can Turn You Away From Sin
+Oh, A Look, Will You Give You Salvation
+Eternal Life To Win.
+Eternal Life To Win.</lines>
+    </verse>
+  </lyrics>
+</song>

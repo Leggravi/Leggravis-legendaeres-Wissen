@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Potter's Hand</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Beautiful Lord, Wonderful savior
+I know for sure all of my days are held in your hands
+Crafted into your perfect plan</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You gently called me into your presence
+Guiding me by Your Holy Spirit
+Teach me dear Lord to live all of my life
+Through your eyes.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm captured by your holy calling
+Set me apart. I know you're calling me to yourself
+Lead me, Lord. I pray</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Take me, mold me, use me, fill me
+I give my life to the potter's hand</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Call me, guide me, lead me, walk beside me
+I give my life to the potter's hand</lines>
+    </verse>
+  </lyrics>
+</song>

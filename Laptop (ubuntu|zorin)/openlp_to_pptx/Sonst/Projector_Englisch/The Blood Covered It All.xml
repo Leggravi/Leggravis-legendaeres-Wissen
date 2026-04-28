@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Blood Covered It All</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As a child so foolishly
+I turned God away
+Not knowing the heartache a sinner must face
+But God in His goodness
+Has let me return
+To share with His children the lesson I learnt</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O the blood, the blood, it covered it all
+Love has no boundaries sins debt paid in full
+Jesus knew in the beginning that man would surely fall
+I'm glad my savior's precious blood covered it all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Have you ever tried to measure just one sin
+Seeking forgiveness when your heart knows within
+Our God will not judge us on how big or how small
+He looks for Calvary's blood to cover it all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Try to imagine how this miracle took place
+Love beyond measure our God's amazing grace
+Sometimes when we're weary we might stumble and fall
+But just one drop of his precious blood it covered it all</lines>
+    </verse>
+    <verse name="v5">
+      <lines>BRIDGE:
+Jesus knew, in the beginning that man would surely fall
+I'm glad my savior's precious blood
+(Yes it was his precious blood)
+Covered it all
+Covered it all</lines>
+    </verse>
+  </lyrics>
+</song>

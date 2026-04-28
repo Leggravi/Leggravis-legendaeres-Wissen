@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh That Will Be Glory</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When all my labors and trials are o'er,
+And I am safe on that beautiful shore,
+Just to be near the dear Lord I adore,
+Will through the ages be glory for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh that will be glory for me,
+Glory for me, glory for me;
+When by His grace
+I shall look on His face,
+That will be glory, be glory for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When by the gift of His infinite grace,
+I am accorded in Heaven a place,
+Just to be there and to look on His face,
+Will through the ages be glory for me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Friends will be there
+I have loved long ago;
+Joy like a river around me will flow;
+Yet, just a smile from my Savior, I know,
+Will through the ages be glory for me.</lines>
+    </verse>
+  </lyrics>
+</song>

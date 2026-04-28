@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Keep Holding On</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Keep holding on,
+No matter what comes your way
+Soon the journey will be over,
+Have faith in God,
+He will never let you down,
+Just keep on holding
+To those nail scarred hands.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>They are strong and sure and
+you will never fear
+He’ll hold you secure so let it
+keep you in cheer,
+Have faith in God,
+He’ll never let you down,
+Just keep on holding to
+those nail scarred hands.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Keep holding on,
+No matter what comes your way
+Soon the journey will be over;
+Knowing some day
+You will be so very glad,
+For you kept on holding
+To those nail scarred hands.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Shalom Jerusalem</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Shalom shalom Jerusalem
+Peace be to you
+When Messiah comes
+To take us home
+May His praise be found in you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pray for peace Jerusalem
+City of our God
+There salvation was
+Poured out for you
+The atoning of the Lord
+Once your streets filled with joy
+Branches raised up high
+Shouting blessed be the Holy One
+Yeshua T'Adonai</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Israel beloved Ephraim my son
+How my heart would
+Thril to hear you say
+The Messiah has come
+O my brothers hear these words
+May they pierce your soul
+Turn again to worship Adonai
+Messiah you will bow</lines>
+    </verse>
+  </lyrics>
+</song>

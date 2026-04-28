@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Here For You</title>
+    </titles>
+    <authors>
+      <author type="words">Jesse Reeves</author>
+      <author type="music">Jesse Reeves</author>
+      <author type="translation">Wir warten hier auf dich</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v7 v7 v8 v7 v9 v10 v7 v8 v7 v11</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let our praise be Your welcome
+Let our songs be a sign
+We are here for You, we are here for You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let Your breath come from heaven
+Fill our hearts with Your life
+We are here for You, we are here for You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To You our hearts are open
+Nothing here is hidden
+You are our one desire
+You alone are holy
+Only You are worthy
+God, let Your fire fall down</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let our shout be Your anthem
+Your renown fill the skies
+We are here for You, we are here for You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let Your Word move in power
+Let what's dead come to life
+We are here for You, we are here for You</lines>
+    </verse>
+    <verse name="v6">
+      <lines>To You our hearts are open
+Nothing here is hidden
+You are our one desire
+You alone are holy
+Only You are worthy
+God, let Your fire fall down
+Let Your fire fall
+We are here for You
+Jesus, here for You</lines>
+    </verse>
+    <verse name="v7">
+      <lines>We welcome You with praise
+We welcome You with praise
+Almighty God of love
+Be welcomed in this place</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Let every heart adore
+Let every soul awake
+Almighty God of love
+Be welcomed in this place</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Oh, be welcomed, be welcome
+Come and take Your rightful place
+We welcome You with praise
+We welcome You today
+The people of God
+In the presence of God
+Pouring out the praises of God
+We welcome You
+We welcome You
+Jesus You
+Jesus You</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Oh we welcome You with praise
+We welcome You with praise
+Almighty God of love
+Be welcomed in this place</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Come and take Your place</lines>
+    </verse>
+  </lyrics>
+</song>

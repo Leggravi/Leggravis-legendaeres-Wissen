@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Standing on the Holy Ground</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are standing on holy ground
+And I know that there
+Are angels all around
+Let us praise Jesus now
+We are standing in His presence
+On holy ground</lines>
+    </verse>
+  </lyrics>
+</song>

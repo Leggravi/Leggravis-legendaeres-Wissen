@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lob, Anbetung, Ruhm und Ehre</title>
+    </titles>
+    <authors>
+      <author type="words">Kommunität Gnadenthal</author>
+      <author type="music">Kommunität Gnadenthal</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lob, Anbetung, Ruhm und Ehre sei dir in Ewigkeit!
+Preis und Jubel deinem Namen, König der Herrlichkeit!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mächtig bist du, der du das All regierst,
+mit starker Hand Völkergeschicke führst.
+Vor dir erbebt Himmel und Erd und Meer.
+Alles, was lebt, muss sagen: Du bist Herr!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lob, Anbetung, Ruhm und Ehre sei dir in Ewigkeit!
+Preis und Jubel deinem Namen, König der Herrlichkeit!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Heilig bist du, der in der Höhe thront,
+unter dem Lob der Engelheere wohnt.
+Wer maßt sich an, bei ewger Glut zu stehn?
+Wer kann den Herrn in seiner Schöne sehn?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lob, Anbetung, Ruhm und Ehre sei dir in Ewigkeit!
+Preis und Jubel deinem Namen, König der Herrlichkeit!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Liebe bist du, die stark und ewig liebt
+und überfließt auf den, der dich betrübt,
+göttliche Lieb, die in den Tod sich gibt,
+die um uns wirbt und uns nach Hause liebt.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Lob, Anbetung, Ruhm und Ehre sei dir in Ewigkeit!
+Preis und Jubel deinem Namen, König der Herrlichkeit!</lines>
+    </verse>
+  </lyrics>
+</song>

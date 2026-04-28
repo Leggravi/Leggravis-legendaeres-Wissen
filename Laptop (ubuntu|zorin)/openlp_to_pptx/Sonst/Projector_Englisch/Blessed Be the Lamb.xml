@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Blessed Be the Lamb</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A cleansing fountain opened up
+In the house of David
+Where a mountain called Calvary became sacred
+There the blood of Jesus
+Poured out like wine
+And because He has redeemed us
+We lift the Savior high
+Singing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Blessed be the Lamb
+Holy spotless Lamb
+Slain from the world's foundation
+For the sins of man
+Sacrifice of grace
+You are worthy of all praise
+Blessed be the Lamb
+Blessed be the Lamb</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His hands of mercy bore the nails
+For redemption's sake
+And the curse He saw us under
+Caused His heart to break
+Love beyond all measure
+Saved us from the fall
+Now and forever
+We give Him glory for it all
+And we sing</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In worship through the endless ages
+We will glorify
+Salvation's Lamb, our Savior Jesus Christ
+Forever magnified</lines>
+    </verse>
+  </lyrics>
+</song>

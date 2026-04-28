@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Way of the Cross</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He called to us, with love so pure and strong
+Take up your cross, come follow and belong
+Deny yourself, and trust Me on this road
+In Christ alone, the full redemption's owed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The way of cross, it leads me all the way home
+Through trials and thorns, I know I'm never alone
+In the steps of my Savior, I will faithfully abide,
+His sacrifice on Calvary, my Guide through every stride</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No greater love, has ever touched the earth
+Than He laid down, His life to show our worth
+If we would follow Him, we too must bear
+The cross He's given, each one with humble care</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For He endured the shame, the thorns and pain
+To break the power of death and every chain
+Despising shame, He bore the cost for all
+Our hope was won, upon that rugged cross</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The narrow road, though hard and full of strife
+Is where the Shepherd leads us into life
+For every step, His presence is our stay
+In Him we die to self and find the way</lines>
+    </verse>
+    <verse name="v6">
+      <lines>His yoke is light, His burden's full of grace
+He strengthens us, to run the holy race
+Through trials of faith, we find our joy anew
+In Christ's embrace, His peace will see us through</lines>
+    </verse>
+    <verse name="v7">
+      <lines>One day, the cross will finally be laid down
+And we'll receive, the glorious victor's crown
+With open arms, He'll welcome every one
+The faithful saints, redeemed by God's own Son</lines>
+    </verse>
+  </lyrics>
+</song>

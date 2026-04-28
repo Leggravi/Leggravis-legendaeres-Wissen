@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Communion</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your blood, shed for me
+My hope, eternity
+Your grace, shown to me
+Gives me life, and now I see</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your broken body
+is my healing
+Your sinless blood
+gives my redemption
+Your chosen suffering
+brings perfect life to me
+Lord Your sacrifice
+has made me whole
+Through the cross
+I am forever Yours</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your love, poured on me
+With the oil of Your Spirit
+The anointing, breaking fear
+I’m alive, I am free, yeah</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This is a holy moment with You
+I open my heart to all You wanna do
+I still my soul to remember the cross
+Where You took all my shame
+and restored all I lost
+Where you took all my shame
+and restored all I lost</lines>
+    </verse>
+  </lyrics>
+</song>

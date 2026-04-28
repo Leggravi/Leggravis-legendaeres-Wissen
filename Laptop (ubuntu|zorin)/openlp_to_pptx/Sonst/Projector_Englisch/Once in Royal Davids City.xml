@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Once in Royal David's City</title>
+    </titles>
+    <authors>
+      <author type="words">Cecil Frances Alexander</author>
+      <author type="music">Henry J. Gauntlett</author>
+      <author type="translation">In der Stadt des Königs David</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Once in royal David's city
+stood a lowly cattle shed,
+where a mother laid her baby
+in a manger for his bed:
+Mary was that mother mild,
+Jesus Christ, her little child.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He came down to earth from heaven
+who is God and Lord of all,
+and his shelter was a stable,
+and his cradle was a stall;
+with the poor and mean and lowly,
+lived on earth our Savior holy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And our eyes at last shall see him,
+through his own redeeming love,
+for that child, so dear and gentle,
+is our Lord in heav'n above,
+and he leads his children on
+to the place where he is gone.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Not in that poor, lowly stable
+with the oxen standing by
+we shall see him, but in heaven,
+set at God's right hand on high.
+Then like stars his children crowned,
+all in white, his praise will sound.</lines>
+    </verse>
+  </lyrics>
+</song>

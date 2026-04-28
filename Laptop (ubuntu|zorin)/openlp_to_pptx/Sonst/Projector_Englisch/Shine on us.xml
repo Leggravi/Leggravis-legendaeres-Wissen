@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Shine on us</title>
+    </titles>
+    <authors>
+      <author type="words">Michael W. Smith</author>
+      <author type="music">Michael W. Smith</author>
+    </authors>
+    <verseOrder>v1 v1 v2 v3 v3 v4 v5 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, let Your light
+Light of Your face
+Shine on us</lines>
+    </verse>
+    <verse name="v2">
+      <lines>That we may be saved
+That we may have life
+To find our way
+In the darkest night
+Let your light shine on us</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, let your grace
+Grace from Your hand
+Come over us</lines>
+    </verse>
+    <verse name="v4">
+      <lines>That we may be saved
+That we may have life
+To find our way
+In the darkest night
+Let Your grace come over us</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lord, let Your love
+Love with no end
+Come over us</lines>
+    </verse>
+    <verse name="v6">
+      <lines>That we may be saved
+That we may have life
+To find our way
+In the darkest night
+Let Your love come over us
+Let Your light shine on us</lines>
+    </verse>
+  </lyrics>
+</song>

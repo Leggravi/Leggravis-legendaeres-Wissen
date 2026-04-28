@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh Jesulein zart</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Jesulein zart, dein Kripplein ist hart.
+O Jesulein zart, wie liegst du so hart.
+Ach schlaf, ach tu die Äuglein zu.
+Schlaf und gib uns die ewge Ruh.
+O Jesulein zart, dein Kripplein ist hart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Seid stille, ihr Wind, lasst schlafen das Kind.
+All Brausen sei fern, 's will ruhen so gern.
+Schlaf, Kind, und tu die Äuglein zu,
+schlaf und gib uns die ewge Ruh.
+Seid stille, ihr Wind, lasst schlafen das Kind</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nichts mehr sich bewegt, kein Mäuslein sich regt.
+Zu schlafen beginnt das herzige Kind.
+Schlaf denn und tu dein Äuglein zu,
+schlaf und gib uns die ewge Ruh.
+Schlaf, Jesulein zart von göttlicher Art</lines>
+    </verse>
+  </lyrics>
+</song>

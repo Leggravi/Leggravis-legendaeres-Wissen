@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Amazing Grace – v2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amazing grace! How sweet the sound,
+That saved a wretch like me!
+I once was lost, but now am found,
+Was blind, but now I see.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Twas grace that taught my heart to fear,
+And grace my fears relieved;
+How precious did that grace appear
+The hour I first believe!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Through many dangers, toils and snares,
+I have already come;
+‘Tis grace hath brought me safe thus far,
+And grace will lead me home.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When we’ve been there ten thousand years,
+Bright shining as the sun;
+We’ve no less days to sing God’s praise
+Than when we first begun.</lines>
+    </verse>
+  </lyrics>
+</song>

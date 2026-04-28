@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="May 17, 2021, 9:13:29 PM">
+  <properties>
+    <titles>
+      <title>Halleluja! Lobet Gott in Seinem Heiligtum</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C4 V5 C6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Halleluja! Lobet Gott in seinem Heiligtum!
+Lobet ihn in der Feste seiner Macht!
+Lobet Ihn für seine Taten, lobet Ihn!
+Lobet Ihn in seiner großen Herrlichkeit!</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Alles was Odem hat, lobe den Herrn! Halleluja!
+Alles was Odem hat, lobe den Herrn! Halleluja!</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Lobet Ihn mit den Posaunen, lobet Ihn.
+Lobet Ihn mit Psaltern und mit Harfen!
+Lobet Ihn mit Pauken und mit Reigen!
+Lobet Ihn mit Saiten und mit Pfeifen!</lines>
+    </verse>
+    <verse name="C4">
+      <lines>Alles was Odem hat, lobe den Herrn! Halleluja!
+Alles was Odem hat, lobe den Herrn! Halleluja!</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Lobet Ihn mit hellen Zimbeln, lobet Ihn.
+Lobet Ihn mit wohlklingenden Zimbeln!
+Lobet Ihn für seine Taten, lobet Ihn!
+Lobet Ihn in seiner großen Herrlichkeit!</lines>
+    </verse>
+    <verse name="C6">
+      <lines>Alles was Odem hat, lobe den Herrn! Halleluja!
+Alles was Odem hat, lobe den Herrn! Halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I've been redeemed</title>
+    </titles>
+    <authors>
+      <author type="words">Wendy O’Connell</author>
+      <author type="music">Wendy O’Connell</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've been redeemed (I've been redeemed)
+by the blood of the Lamb. (by the blood of the Lamb.)
+I've been redeemed (I've been redeemed)
+by the blood of the Lamb,
+I've been redeemed by the blood of the Lamb,
+saved and sanctified I am.
+All my sins are washed away,
+I've been redeemed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've been redeemed (I've been redeemed)
+by the blood of the Lamb. (by the blood of the Lamb.)
+I've been redeemed (I've been redeemed)
+by the blood of the Lamb,
+I've been redeemed by the blood of the Lamb,
+filled with the Holy Ghost I am.
+All my sins are washed away,
+I've been redeemed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I've been redeemed (I've been redeemed)
+by the blood of the Lamb. (by the blood of the Lamb.)
+I've been redeemed (I've been redeemed)
+by the blood of the Lamb,
+I've been redeemed by the blood of the Lamb,
+oh, and I praise God I am.
+All my sins are washed away,
+I've been redeemed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And that's not all; (and that's not all)
+there's more besides. (there's more besides.)
+No, that's not all; (No that's not all;)
+there's more besides.
+No, that's not all; there's more besides.
+I've been to the river,
+and I've been baptized.
+All my sins are washed away,
+I've been redeemed.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He's coming back (he's coming back)
+to take me home. (to take me home.)
+He's coming back (he's coming back)
+to take me home. (to take me home.)
+He's coming back to take me home.
+I'll shout &quot;Hallelujah&quot; before his throne.
+All my sins are washed away:
+I've been redeemed.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>It's by God's grace (it's by God's grace)
+that I've been saved. (that I've been saved.)
+It's by God's grace (it's by God's grace)
+that I've been saved. (that I've been saved.)
+It's by God's grace that I've been saved.
+I have no fear on the Judgment Day
+All my sins are washed away:
+I've been redeemed.</lines>
+    </verse>
+  </lyrics>
+</song>

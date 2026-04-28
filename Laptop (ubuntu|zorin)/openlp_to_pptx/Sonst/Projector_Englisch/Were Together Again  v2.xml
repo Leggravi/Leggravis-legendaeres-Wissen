@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We're Together Again – v2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We're together again
+Just praising the Lord.
+We're together again
+In one accord.
+Something good
+Is going to happen,
+Something good is in store.
+We're together again,
+Just praising the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wherever I am I praise Him
+Wherever I am I praise Him
+For His Love surrounds me like the sea
+I praise the name of Jesus
+Lift up the name of Jesus
+For the name of Jesus Lifted me</lines>
+    </verse>
+  </lyrics>
+</song>

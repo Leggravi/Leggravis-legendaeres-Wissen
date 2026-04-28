@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>For So Long Now</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For so long now we’ve dreamed
+about the day
+That soon shall come
+When He would split the eastern sky
+And gather all His jewels home.
+I’ve gone too far to turn back now
+At last the victory is almost won
+I’ve fought the fight I’ve carried the
+faith
+Thank God I’m almost home.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The angels play the harps so loud
+The trumpet rings loud and clear
+The day we’ve dreamed of for so long
+That day is almost here.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You ask me how I know it’s real
+These things I just can’t explain
+For all I know is that heavenly tag
+I can feel when my heart prays.
+It won’t be long and I’ll see old
+Jordan
+Drifting at my feet
+Then I’ll behold the light of home
+It’s over my journey is now complete.</lines>
+    </verse>
+  </lyrics>
+</song>

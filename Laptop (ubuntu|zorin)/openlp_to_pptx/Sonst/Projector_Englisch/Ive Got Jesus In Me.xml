@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I've Got Jesus In Me</title>
+    </titles>
+    <authors>
+      <author type="words">Niles Borop</author>
+      <author type="music">Niles Borop</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’m not scared of what tomorrow may bring
+I don’t worry much what this world would give
+I’m not ashamed to share the good Gospel
+I am proud to be the servant of my God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’ve got faith that keeps me going
+I’ve got strength that keeps me walking
+I’ve got grace and I am saved
+I’ve got Jesus in me
+I’ve got love that keeps me loving
+I’ve got joy and I’m rejoicing
+I’ve got peace and I am free
+I’ve got Jesus in me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I’m not scared to cross the vast ocean
+I don’t worry much about the surge and storm
+I'm not ashamed to speak the good Gospel
+I am born and proud to be the servant of my God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I’ve got faith that keeps me going
+I’ve got strength that keeps me walking
+I’ve got grace and I am saved
+I’ve got Jesus in me
+I’ve got love that keeps me loving
+I’ve got joy and I’m rejoicing
+I’ve got peace and I am free
+I’ve got Jesus in me</lines>
+    </verse>
+  </lyrics>
+</song>

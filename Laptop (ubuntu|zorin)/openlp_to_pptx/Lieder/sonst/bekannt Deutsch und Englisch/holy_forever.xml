@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Aug 14, 2024, 12:01:48 PM">
+  <properties>
+    <titles>
+      <title>Holy Forever</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4 C5 V6 V7 C5 C8 V9 V10 C5 C8 V11</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>A thousand generations
+Falling down in worship,
+To sing the song of
+ages to the Lamb</lines>
+    </verse>
+    <verse name="V2">
+      <lines>And all who've gone
+before us
+And all who will believe,
+Will sing the song of
+ages to the Lamb.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Your name is the highest
+Your name is the greatest
+Your name stands
+above them all.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>All thrones and dominions,
+All powers and positions,
+Your name stands
+above them all.</lines>
+    </verse>
+    <verse name="C5">
+      <lines>And the angels cry, Holy
+All creation cries, Holy
+You are lifted high, Holy
+Holy forever.</lines>
+    </verse>
+    <verse name="V6">
+      <lines>If you've been forgiven,
+If you've been redeemed,
+Sing the song forever
+to the Lamb.</lines>
+    </verse>
+    <verse name="V7">
+      <lines>If you walk in freedom,
+If you bear His name,
+Sing the song forever
+to the Lamb.
+We'll sing the song
+forever and amen.</lines>
+    </verse>
+    <verse name="C8">
+      <lines>Hear your people sing, Holy.
+To the King of Kings, Holy
+You will always be, Holy
+Holy forever.</lines>
+    </verse>
+    <verse name="V9">
+      <lines>Your name is the highest,
+Your name is the greatest,
+Your name stands
+above them all.</lines>
+    </verse>
+    <verse name="V10">
+      <lines>All thrones and dominions,
+All powers and positions,
+Your name stands
+above them all.</lines>
+    </verse>
+    <verse name="V11">
+      <lines>You will always be, Holy
+Holy forever.</lines>
+    </verse>
+  </lyrics>
+</song>

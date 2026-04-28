@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Preach the Foursquare</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Foursquare we stand for the living word
+For the word of God
+Telling to all the story of Jesus, stem of Jesse’s rod
+Man of sorrow and of grief, dying on the tree
+Mighty Redeemer, glorious Savior
+Jesus of Calvary</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Preach the Foursquare Gospel
+The Foursquare Gospel
+Clear let the Foursquare message ring
+(Let it ring)
+Jesus only Savior, Baptizer and Healer
+Jesus the coming King</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Unfurl your banners and forward go
+Oh ye ransomed host
+Trusting in Jesus Mighty Baptizer
+With the Holy Ghost
+Lion of Judah, King of kings, Lord of lords is He
+Clothing HIs church with power to witness
+Leading to victory</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Catch up your shield oh ye living Church
+Christ of Galilee
+Bore all our sickness, carried our sorrows
+Set the prisoners free
+Lift the fallen, help the faith, dry the weeping eyes
+Come bring your sickness
+to thy physician, for He is passing by.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lift your eyes, then unto the hills
+Lift your voice and sing
+The cloud of heavens aflame with glory
+greet the coming king
+Swift as wings of eagle’s flight
+shall He come again</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Es wolle Gott uns gnädig sein</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Luther</author>
+      <author type="music">Ludwig Senfl</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es wolle Gott uns gnädig sein
+und seinen Segen geben,
+sein Antlitz uns mit hellem Schein
+erleucht zum ewgen Leben,
+dass wir erkennen seine Werk
+und was ihm lieb auf Erden,
+und Jesus Christus, Heil und Stärk,
+bekannt den Heiden werden
+und sie zu Gott bekehren.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So danken, Gott, und loben dich
+die Heiden überalle,
+und alle Welt, die freue sich
+und sing mit großem Schalle,
+dass du auf Erden Richter bist
+und lässt die Sünd nicht walten;
+dein Wort die Hut und Weide ist,
+die alles Volk erhalten,
+in rechter Bahn zu wallen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Es danke, Gott, und lobe dich
+das Volk in guten Taten;
+das Land bringt Frucht und bessert sich,
+dein Wort ist wohlgeraten.
+Uns segne Vater und der Sohn,
+uns segne Gott der Heilig Geist,
+dem alle Welt die Ehre tu,
+vor ihm sich fürchte allermeist.
+Nun sprecht von Herzen: Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

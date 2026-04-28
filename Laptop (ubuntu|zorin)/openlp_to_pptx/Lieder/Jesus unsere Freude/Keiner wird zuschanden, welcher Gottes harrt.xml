@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:34">
+  <properties>
+    <titles>
+      <title>Keiner wird zuschanden, welcher Gottes harrt</title>
+    </titles>
+    <authors>
+      <author type="words">Gustav Knak (1860)</author>
+      <author type="music">Darf ich wiederkommen</author>
+    </authors>
+    <ccliNo>5728640</ccliNo>
+    <themes>
+      <theme>Vertrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Keiner wird zu schanden, welcher Gottes harrt;
+sollt ich sein der erste, der zuschanden ward?
+Nein, das ist unmöglich, du getreuer Hort!
+Eher fällt der Himmel, eh mich täuscht dein Wort!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du hast zugesaget: Wer da bittet, nimmt,
+wer da sucht, soll finden, was ihm Gott bestimmt;
+wer im festen Glauben mutig klopfet an,
+dem wird ohne Zweifel endlich aufgetan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nun, so will ich's wagen, Herr, auf dein Gebot,
+alle meine Sorgen, eig'n und fremde Not,
+all mein heimlich Grämen, alles was mich quält,
+dir ans Herz zu legen, der die Tränen zählt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du bist mein Erbarmer und mein bester Freund,
+meines Lebens Sonne, die mir lacht und scheint
+auch in finstern Nächten und durchs Todestal
+mir hinüber-leuchtet zu des Lammes Mahl.</lines>
+    </verse>
+  </lyrics>
+</song>

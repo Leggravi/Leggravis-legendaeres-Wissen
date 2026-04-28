@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Eye of the storm</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the eye of the storm, You remain in control
+In the middle of the war, You guard my soul
+You alone are the anchor, when my sails are torn
+Your love surrounds, me in the eye of the storm</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When the solid ground is falling out
+From underneath my feet
+Between the black skies and my red eyes
+I can barely see
+When I realize I've been let down by my friends and my family
+I can hear the rain reminding me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When my hopes and dreams are far from me
+And I'm running out of faith
+I see the future I pictured slowly fade away
+And when the tears of pain and heartache are pouring down my face
+I find my peace in Jesus' name</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When they let me go and I just don't know
+How I'm gonna make ends meet
+I did my best
+Now I'm scared to death
+That we might lose everything</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And when a sickness takes my child away
+And there's nothing I can do
+My only hope is to trust You
+I trust You LORD</lines>
+    </verse>
+  </lyrics>
+</song>

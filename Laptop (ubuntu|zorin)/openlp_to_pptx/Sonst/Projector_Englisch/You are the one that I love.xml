@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You are the one that I love</title>
+    </titles>
+    <authors>
+      <author type="words">Caroline Bonnett</author>
+      <author type="music">Caroline Bonnett</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nobody else could've changed my heart
+Nobody else could've saved me
+Picked up the pieces when I fell apart
+I'm so glad You changed me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cuz you are the One that I love
+Light of the world sent from above
+Sing hallelujah shout to the Lord
+You are the One
+You are the One
+You are the One</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If I knew the song that the angels sing
+We'd be singing together
+I can't wait for eternity
+Praising Your name forever</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord search my heart
+And find it ever true
+I pray that my devotion
+Always be to You
+You are the One that I love
+Light of the world sent from above
+You are the One that I love</lines>
+    </verse>
+  </lyrics>
+</song>

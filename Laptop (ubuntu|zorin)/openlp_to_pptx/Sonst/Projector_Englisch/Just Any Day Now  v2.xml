@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Just Any Day Now – v2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Each time I stop and take the time to look around me,
+I see the signs of His appearing everywhere.
+Things He said to come to pass are now before me.
+I can feel the strange excitement in the air.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Just any day now, our Lord is coming.
+He'll be returning for you and me.
+Oh, I've been watching and I've been waiting.
+Just any day now, His face I'll see.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's this longing in my heart for His appearing.
+I'll gladly leave behind these trials here below.
+For this journey has been hard and I'm so weary,
+But, Lord, I feel I'm so much closer home.</lines>
+    </verse>
+  </lyrics>
+</song>

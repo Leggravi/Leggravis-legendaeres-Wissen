@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ach, mein Herr Jesus, was hast du verbrochen</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Heermann</author>
+      <author type="music">Guillaume Franc</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ach, mein Herr Jesus, was hast Du verbrochen,
+dass man ein solch scharf Urteil hat gesprochen?
+Was ist die Schuld,
+in was für Missetaten bist Du geraten?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du wirst gegeißelt und mit Dorn' gekrönet,
+ins Angesicht geschlagen und verhöhnet;
+Du wirst mit Essig und mit Gall' getränket,
+ans Kreuz gehenket.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O große Lieb', o Lieb' ohn' alle Maßen,
+die Dich gebracht auf diese Marterstraßen!
+Ich lebte mit der Welt in Lust und Freuden,
+und Du musst'st leiden!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wie wunderbarlich ist doch diese Strafe!
+Der gute Hirte leidet für die Schafe;
+die Schuld bezahlt der Herre, der Gerechte,
+für Seine Knechte.</lines>
+    </verse>
+  </lyrics>
+</song>

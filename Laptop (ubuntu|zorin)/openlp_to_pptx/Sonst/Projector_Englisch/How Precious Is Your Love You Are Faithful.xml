@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>How Precious Is Your Love (You Are Faithful)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How precious is Your love for me
+It is beyond my understanding.
+Oh Lord, I want to realize
+The meaning of the price,
+Which You payed to save us</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The very thought You died for me
+Inspires my heart with humble worship.
+I couldn't earn Your love by deeds,
+It's grace my spirit needs
+And Your redeeming favor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Unto You I'll sing my song
+Lifting up Your name, Lord Jesus.
+Wondrous love is pure and strong
+Casting away my sins
+Changing me from within.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I stand amazed of what You do,
+You mold a vessel that's been broken.
+The image, Lord, You want to see
+Reflecting You in me
+The true and holy token.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You shall not break a reed of life
+That's bruised and scarred in this dark hour.
+You heal my body and my soul,
+Your love will make me whole
+By Your restoring power.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You are faithful
+You're so faithful
+You're so faithful to me
+You're so faithful
+You are faithful.</lines>
+    </verse>
+  </lyrics>
+</song>

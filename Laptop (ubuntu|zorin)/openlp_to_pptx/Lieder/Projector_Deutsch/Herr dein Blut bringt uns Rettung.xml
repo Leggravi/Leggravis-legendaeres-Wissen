@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, dein Blut bringt uns Rettung.</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Jacobi</author>
+      <author type="music">Billy Funk</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, dein Blut bringt uns Rettung.
+Herr, dein Blut schenkt Befreiung.
+Durch dein Blut kann ich stehen in deinem Heiligtum.
+Deine Liebe vergibt uns, deine Stärke erhebt uns,
+wäscht uns rein durch dein kostbares Blut.
+Vater im Himmel, Jesus, Gottes Lamm,
+wir neigen uns in Demut, rufen: Heilig, heilig!
+Und der ganze Himmel singt von deinem Heil. -
+Alle Ehre dir, dem Lamm!</lines>
+    </verse>
+  </lyrics>
+</song>

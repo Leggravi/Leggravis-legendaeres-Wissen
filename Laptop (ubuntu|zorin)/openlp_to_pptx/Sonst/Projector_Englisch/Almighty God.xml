@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Almighty God</title>
+    </titles>
+    <authors>
+      <author type="words">Rhys Scott</author>
+      <author type="music">Rhys Scott</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You're my Joy - You're my peace,
+You're my comfort in time of need
+You're my refuge - you're my rock
+You're the one I depend on
+You're the road to hope when the light grows dim
+When the waves of doubt come crashing in
+You're my anchor in the troubled storm Almighty God!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're my Joy -you're my peace,
+You're my comfort in time of need
+You're my refuge- you're my rock-
+You're the one I depend on
+You're the road to hope when the light grows dim
+When the waves of doubt come crashing in
+You're my anchor in the troubled storm Almighty God!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You bore the Cross and You bare the Scars
+You're my bright and shining Star
+You gave me sight that I might see
+The kind of person that I should be
+You came to die to set me free Almighty God!</lines>
+    </verse>
+  </lyrics>
+</song>

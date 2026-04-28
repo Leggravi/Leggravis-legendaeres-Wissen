@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O selig Haus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O selig Haus, wo man dich aufgenommen,
+du wahrer Seelenfreund, Herr Jesus Christ,
+wo unter allen Gästen, die da kommen,
+du der gefeiertste und liebste bist;
+wo alle Herzen dir entgegenschlagen
+und aller Augen freudig auf dich sehn,
+wo aller Lippen dein Gebot erfragen
+und alle deines Winks gewärtig stehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O selig Haus, wo Mann und Frau in einer,
+in deiner Liebe eines Geistes sind,
+als beide eines Heils gewürdigt, keiner
+im Glaubensgrunde anders ist gesinnt.
+Wo beide unzertrennbar an dir hangen
+in Lieb und Leid, Gemach und Ungemach,
+und nur bei dir zu bleiben stets verlangen
+an jedem guten wie am bösen Tag.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O selig Haus, wo man die lieben Kleinen
+mit Händen des Gebets an's Herz dir legt,
+du Freund der Kinder, der sie als die Seinen
+mit mehr als Mutterliebe hegt und pflegt.
+Wo sie zu deinen Füßen gern sich sammeln
+und horchen deiner guten Rede zu,
+und lernen früh dein Lob mit Freuden stammeln,
+sich deiner freun, du lieber Heiland, du!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O selig Haus, wo du die Freude teilest,
+wo man bei keiner Freude dein vergisst;
+o selig Haus, wo du die Wunden heilest
+und aller Arzt und aller Tröster bist, -
+bis jeder einst sein Tagewerk vollendet,
+und bis sie endlich alle ziehen aus
+dahin, woher der Vater dich gesendet,
+ins große, freie, schöne Vaterhaus.</lines>
+    </verse>
+  </lyrics>
+</song>

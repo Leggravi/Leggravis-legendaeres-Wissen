@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Grateful</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am grateful for the things that you have done
+Yes, I'm grateful for the victories we've won
+I could go on and on and on about your works
+Because I'm grateful, grateful, so grateful just to praise you Lord
+Flowing from my heart are the issues of my heart, it's gratefulness
+I am grateful for the things that you have done
+Yes, I'm grateful for the victories we've won</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I could go on and on and on about your works
+Because I'm grateful, grateful, so grateful just to praise you Lord
+Flowing from my heart are the issues of my heart, it's gratefulness</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Grateful, grateful, grateful, grateful
+Grateful, grateful, grateful, grateful
+Grateful, grateful, grateful, gratefulness is flowing from my heart</lines>
+    </verse>
+  </lyrics>
+</song>

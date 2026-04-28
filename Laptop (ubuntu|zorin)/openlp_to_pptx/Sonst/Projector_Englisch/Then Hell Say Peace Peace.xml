@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Then He'll Say &quot;Peace, Peace&quot;</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Then He'll say &quot;Peace, peace,
+Peace unto my lovely Bride.
+Shalom, Shalom,
+For a new day has been broken.
+From this sick and dying world
+To God's life and immortality.&quot;
+All we can hear from His Throne
+Is &quot;Good morning, good morning
+To my Bride.&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

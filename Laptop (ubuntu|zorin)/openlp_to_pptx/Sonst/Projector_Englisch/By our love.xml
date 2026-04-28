@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>By our love</title>
+    </titles>
+    <authors>
+      <author type="words">Christy Nockels</author>
+      <author type="music">Christy Nockels</author>
+      <author type="translation">Unsre Liebe (Brüder, lasst uns miteinander)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6 v4 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are one in the Spirit
+We are one in the Lord
+We are one in the Spirit
+We are one in the Lord
+And I pray that our unity may one day be restored</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And they'll know we are Christians
+By our love, by our love
+Yes, they'll know we are Christians by our love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We will walk with each other
+We will walk hand in hand
+We will walk with each other
+We will walk hand in hand
+And together we'll spread the news that God is in our land</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: They'll know us by our love
+Our love (love, love)
+Our love (love, love)
+Our love (love) :/</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We will work with each other
+We will work side by side
+We will work with each other
+We will work side by side
+And we will guard each other's dignity
+And save each other's pride</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And they'll know we are Christians
+By our love, by our love
+Yes, they'll know we are Christians
+By our love, by our love
+Yes, they'll know we are Christians
+By our love, by our love
+Yes, they'll know we are Christians
+By our love (love, love), Oh, Oh</lines>
+    </verse>
+    <verse name="v7">
+      <lines>They will know we are Christians
+By our love, by our love
+Yes, they'll know we are Christians by our love</lines>
+    </verse>
+  </lyrics>
+</song>

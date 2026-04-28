@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heute will dich Jesus fragen</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heute will dich Jesus fragen:
+Bist du ganz für mich bereit?
+Du verlierst dich sonst im Jagen
+nach den Gütern dieser Zeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wag es mit Jesus, was deine Not auch sei.
+Wag es mit Jesus, er macht dich frei!
+Wag es mit Jesus, er macht dich frei!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rühmst dich deiner Kraft und Gaben,
+nur dich selbst bezwingst du nicht.
+Mut muss man bei Jesus haben,
+Menschenfurcht führt zum Verzicht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lass dich nicht von Menschen leiten,
+Menschen sind wie Laub im Wind.
+Jesus schafft Persönlichkeiten,
+die das Salz der Erde sind.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Einmal fällt die Maskerade,
+die du vor der Welt beziehst,
+wenn du durch Gericht und Gnade
+dich im Lichte Gottes siehst.</lines>
+    </verse>
+  </lyrics>
+</song>

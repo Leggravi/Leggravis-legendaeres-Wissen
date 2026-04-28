@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jun 28, 2020, 6:57:35 PM">
+  <properties>
+    <titles>
+      <title>Danke für das Kreuz, Herr</title>
+    </titles>
+    <verseOrder>V1 V2 V3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Danke für das Kreuz, Herr
+Dort hast du den Preis bezahlt
+Für die Sünde und die Schuld
+Aus Liebe und aus Gnade wunderbar</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Danke für die Liebe
+Die durchbohrten Hände, Herr
+Reinigst mich mit deinem Blut
+Ich weiss es nun
+Du vergibst und nimmst mich an</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Würdig ist das Lamm
+Herrscher auf dem Thron
+Viele Kronen schmücken dich
+Den Sieger der regiert
+Du bist hoch erhöht
+Jesus, Gottes Sohn
+Der Herrlichste starb für uns am Kreuz
+Würdig ist das Lamm
+Würdig ist das Lamm</lines>
+    </verse>
+  </lyrics>
+</song>

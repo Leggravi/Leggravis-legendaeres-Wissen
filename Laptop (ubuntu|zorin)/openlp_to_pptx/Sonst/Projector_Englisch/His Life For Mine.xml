@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>His Life For Mine</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>His heart was broken,
+mine was mended
+He became sin,
+now I am clean.
+The cross He carried
+bore my burden.
+The nails that held Him
+set me free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His life for mine,
+His life for mine
+How could it ever be?
+That He would die,
+God's son would die
+To save a wretch like me
+What love divine,
+He gave His life for mine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His scars of suffering brought me healing
+He spilled His blood to fill my soul.
+His crown of thorns made me royalty
+His sorrow gave me joy untold</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He was despised and rejected,
+stripped off His garments and oppressed
+I am loved and accepted
+and I wear a robe of righteousness</lines>
+    </verse>
+  </lyrics>
+</song>

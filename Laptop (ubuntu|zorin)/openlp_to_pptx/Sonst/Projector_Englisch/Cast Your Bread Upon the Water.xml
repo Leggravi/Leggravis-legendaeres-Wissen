@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Cast Your Bread Upon the Water</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Well I picked up the good Book,
+Took me a long look,
+And I believed in each and every part;
+But I sure rejoiced in knowing
+About the reaping and the sowing,
+I really took that lesson to my heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So I cast my bread upon the water
+By helping a brother,
+Struggling on life's stormy sea;
+Don't you know I'm sowing a good seed,
+By doing a good deed,
+It's gonna come back, come back to me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Well, I can't buy my way to heaven,
+There's a heaven waiting,
+Purchased by our good and loving Lord;
+So I'll go on striving, trusting and surviving,
+Holding on expecting my reward.</lines>
+    </verse>
+  </lyrics>
+</song>

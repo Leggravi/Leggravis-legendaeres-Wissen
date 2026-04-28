@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Er hält die ganze Welt</title>
+    </titles>
+    <authors>
+      <author type="words">Spiritual</author>
+      <author type="music">Spiritual</author>
+      <author type="translation">He's got the whole world in his hands</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Er hält die ganze Welt in seiner Hand
+Er hält die ganze Welt in seiner Hand
+Er hält die Welt in seiner Hand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er hält die Sonne und den Mond in seiner Hand
+Er hält die Sonne und den Mond in seiner Hand
+Er hält die Welt in seiner Hand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Er hält die Menschen hier in Leipzig in seiner Hand
+Er hält die Menschen hier in Leipzig in seiner Hand
+Er hält die Welt in seiner Hand.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Er hält Vergangenheit und Zukunft in seiner Hand
+Er hält Vergangenheit und Zukunft in seiner Hand
+Er hält die Welt in seiner Hand.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Er hält den Himmel und die Hölle in seiner Hand
+Er hält den Himmel und die Hölle in seiner Hand
+Er hält die Welt in seiner Hand</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Er hält mein ganzes Leben in seiner Hand
+Er hält mein ganzes Leben in seiner Hand
+Er hält die Welt in seiner Hand</lines>
+    </verse>
+  </lyrics>
+</song>

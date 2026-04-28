@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Marching On</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Marching on in the light of God,
+Marching on, I am marching on;
+Up the path that the Master trod,
+Marching, marching on.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A robe of white, a crown of gold,
+A harp, a home, a mansion fair,
+A victor's palm, a joy untold,
+Are mine when I get there.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Marching on thro' the hosts of sin,
+Marching on, I am marching on;
+Vict'ry's mine, while I've Christ within,
+Marching, marching on.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Marching on while the skeptics sneer,
+Marching on, I am marching on;
+Perfect love casteth out all fear,
+Marching, marching on.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Marching on with the flag unfurled,
+Marching on, I am marching on;
+Preaching Christ to the dying world,
+Marching, marching on.</lines>
+    </verse>
+  </lyrics>
+</song>

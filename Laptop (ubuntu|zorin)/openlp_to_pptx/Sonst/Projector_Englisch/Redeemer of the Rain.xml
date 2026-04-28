@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Redeemer of the Rain</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who doesn't wish for sunny days?
+That the sky above us would never turn grey
+But life isn't always sunshine
+We have times that leave us asking why
+And when the clouds roll in and tears begin to fall
+There must be a reason for it all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Redeemer of the rain
+The Lord will never waste our pain
+He brings beauty out of brokenness
+And hope to our heartache
+Healing out of every hurt
+That invades our shattered world
+We never walk through trials in vain
+He's the redeemer of the rain</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Every problem that we face
+Is sifted by the Father
+Through hands of grace
+He uses sorrow to draw us
+To call us closer to His side
+It's in the middle of the storm
+We learn to trust
+That He is always watching over us</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dark days we walk through
+They lead a path for others
+Leading them to the</lines>
+    </verse>
+  </lyrics>
+</song>

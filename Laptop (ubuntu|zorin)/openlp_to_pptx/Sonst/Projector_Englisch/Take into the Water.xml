@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Take into the Water</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Take into the water,
+Take Into the water,
+Take Into the water be baptized.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the Name of Jesus
+In the Name of Jesus
+In the Name of Jesus be baptized.</lines>
+    </verse>
+  </lyrics>
+</song>

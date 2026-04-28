@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Our Generation</title>
+    </titles>
+    <authors>
+      <author type="words">Mark Tedder</author>
+      <author type="music">Mark Tedder</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We know where we've come from
+We know where we've been
+We embrace the truth that's taught to us by faithful men
+We honor the convictions of those who've gone before
+And we're ready now to take our place in the service of the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Our generation will keep the faith
+Our generation will show the way
+Our trust is where our hope is from
+By grace we vow to carry on
+And take the gospel in to every nation
+We pledge our all for God has called our generation</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We've taken up the standard, the banner of our Lord
+And we will raise it high as we unite in one accord
+We bravely face tomorrow knowing You're the One we trust
+and the God Who let our fathers is the God Who carry us</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And they'll know that we've been faithful on that day
+When the future generation rises up to say</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Our generation will keep the faith
+Our generation will show the way
+Our trust is where our hope is from
+By grace we vow to carry on…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And take the gospel in to every nation
+We pledge our all…
+We pledge our all for God has called…</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Our generation…
+Our generation…</lines>
+    </verse>
+  </lyrics>
+</song>

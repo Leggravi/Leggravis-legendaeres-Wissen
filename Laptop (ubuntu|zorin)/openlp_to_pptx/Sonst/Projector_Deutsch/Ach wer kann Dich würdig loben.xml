@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ach, wer kann Dich würdig loben</title>
+    </titles>
+    <authors>
+      <author type="words">Elberfeld</author>
+      <author type="music">Samuel Gottlieb Auberian</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ach, wer kann Dich würdig loben,
+Großer Gott von Ewigkeit!
+Was auf Erden und was droben,
+Zeugt von Deiner Gütigkeit.
+Du, Du bist des Lobes wert;
+Selig, wer Dich preist und ehrt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wer kann Deine Lieb' ergründen,
+Deine Gnade, Deine Huld!
+Gabst den Sohn für unsre Sünden,
+Sprachst uns frei von aller Schuld.
+Du, Du bist des Lobes wert;
+Selig, wer Dich preist und ehrt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wer kann Deine Treu' ermessen,
+Deine Langmut, Sorg' und Müh'!
+Mag ein Weib ihr Kind vergessen,
+Du vergißt die Deinen nie.
+Du, Du bist des Lobes wert;
+Selig, wer Dich preist und ehrt!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wer kann Deine Größe nennen
+Und Dein Wundertun verstehn!
+Wer kann, wie Du bist, Dich kennen
+Und in Deine Tiefen sehn!
+Ja, Du bist des Lobes wert;
+Selig, wer Dich preist und ehrt!</lines>
+    </verse>
+  </lyrics>
+</song>

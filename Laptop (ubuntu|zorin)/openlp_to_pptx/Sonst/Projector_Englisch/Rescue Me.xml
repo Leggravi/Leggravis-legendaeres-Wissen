@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Rescue Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3 v6 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deep is the river that I have to cross
+Heavy the weight on my shoulder
+I have discovered how great is the cost
+Of trying alone to cross over</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I try and I try but the current’s too strong
+It’s pulling me under and my strength is gone
+Don’t leave me stranded</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rescue me, my God and my King,
+Water is rising and I cannot breathe,
+Wrap your arms all around me and
+Carry me over (rescue me) Carry me over</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There is a bridge that is easy to cross
+While all of our burdens are lifted
+Peace is the land that is waiting for us
+Lord, give me faith to believe it</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Cause I’m in a storm but I’m willing to fight
+I’ll overcome and I will not die with You by my side</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I will sail over the oceans and
+Fly over the mountains and
+Soar up to the Heavens
+Here is my hand, is my heart and my soul and my mind</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Without You</title>
+    </titles>
+    <authors>
+      <author type="words">Mylon R. LeFevre</author>
+      <author type="music">Mylon R. LeFevre</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v4 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Just like the desert needs the rain
+My life's a shoreline ready for waves
+Just like a fire burns with flame
+Is how my heart beats for Your name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where would I be without You?
+Where would I be without You?
+Where would I be without You
+Without Your love?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Just the like the sunset needs the sky
+Where all of the colors come alive
+Just like a deep breath fills my lungs
+Is how my soul longs for Your love!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Where would I be without You?
+Where would I be without You?
+Where would I be without You
+Without Your love?
+I cannot live without You
+I cannot live without You
+I cannot live without You
+Without Your love!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Just like my sin needs the stripes
+And how my pride needs to die
+Just like my life needs the cross
+I have been raised with You, my God!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I cannot live without Your love, Your love
+Cannot live without Your love
+Where would I be without Your love?</lines>
+    </verse>
+  </lyrics>
+</song>

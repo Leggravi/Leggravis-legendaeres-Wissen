@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Take this city</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To the north we cry out; To the south we will shout
+The enemy and his kingdom must come down
+To the east we profess; To the west we confess
+The enemy and his kingdom must come down</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For we cannot be silent
+We cannot sit by
+We must take this city
+For the cause of Jesus Christ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/: We are bold; We are strong
+We are ready to march on
+Through Christ
+We will take this city :/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Where sin abounds; His grace is greater
+Where the enemy reigns
+He will give us victory</lines>
+    </verse>
+  </lyrics>
+</song>

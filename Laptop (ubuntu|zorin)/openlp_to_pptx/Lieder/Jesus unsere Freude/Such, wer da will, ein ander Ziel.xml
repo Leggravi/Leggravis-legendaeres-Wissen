@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:11">
+  <properties>
+    <titles>
+      <title>Such, wer da will, ein ander Ziel</title>
+    </titles>
+    <authors>
+      <author type="words">Georg Weissel (1623)</author>
+      <author type="music">Melchior Vulpius</author>
+    </authors>
+    <ccliNo>4965363</ccliNo>
+    <themes>
+      <theme>Glaube</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Such, wer da will, ein ander Ziel,
+die Seligkeit zu finden;
+mein Herz allein bedacht soll sein,
+auf Christus sich zu gründen.
+Sein Wort sind wahr, sein Werk sind klar,
+sein heilger Mund hat Kraft und Grund,
+all Feind zu überwinden.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Such, wer da will, Nothelfer viel,
+die uns doch nichts erworben;
+hier ist der Mann, der helfen kann,
+bei dem nie was verdorben.
+Uns wird das Heil durch ihn zuteil,
+uns macht gerecht der treue Knecht,
+der für uns ist gestorben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ach sucht doch den, lasst alles stehn,
+die ihr das Heil begehret;
+er ist der Herr, und keiner mehr,
+der euch das Heil gewähret.
+Sucht ihn all Stund von Herzensgrund,
+sucht ihn allein; denn wohl wird sein
+dem, der ihn herzlich ehret.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Meins Herzens Kron, mein Freudensonn
+sollst du, Herr Jesu, bleiben;
+lass mich doch nicht von deinem Licht
+durch Eitelkeit vertreiben;
+bleib du mein Preis, dein Wort mich speis,
+bleib du mein Ehr, dein Wort mich lehr,
+an dich stets fest zu glauben.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wend von mir nicht dein Angesicht,
+lass mich im Kreuz nicht zagen;
+weich nicht von mir, mein höchste Zier,
+hilf mir mein Leiden tragen.
+Hilf mir zur Freud nach diesem Leid;
+hilf, dass ich mag nach dieser Klag
+dort ewig dir Lob sagen.</lines>
+    </verse>
+  </lyrics>
+</song>

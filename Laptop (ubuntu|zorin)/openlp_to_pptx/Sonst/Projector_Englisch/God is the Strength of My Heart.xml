@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God is the Strength of My Heart</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Whom have I in heaven but You
+There is nothing on earth
+ I desire beside You
+My heart and my strength
+ many times they fail
+But there is one truth
+ that always will prevail</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God is the strength of my heart
+God is the strength of my heart
+God is the strength of my heart
+and my portion forever, forever</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Forever, forever, forever…. .
+Forever</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Komm sag es allen weiter rufe es in jedes Haus hin</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Komm, sag' es allen weiter,
+ruf es in jedes Haus hinein!
+Komm, sag es allen weiter:
+Gott selber lädt uns ein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir haben sein Versprechen:
+Er nimmt sich für uns Zeit,
+wird selbst das Brot uns brechen,
+kommt, alles ist bereit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sein Haus hat offne Türen,
+er ruft uns in Geduld,
+will alle zu sich führen,
+auch die mit Not und Schuld.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zu jedem will er kommen,
+der Herr in Brot und Wein.
+Und wer ihn aufgenommen,
+wird selber Bote sein.</lines>
+    </verse>
+  </lyrics>
+</song>

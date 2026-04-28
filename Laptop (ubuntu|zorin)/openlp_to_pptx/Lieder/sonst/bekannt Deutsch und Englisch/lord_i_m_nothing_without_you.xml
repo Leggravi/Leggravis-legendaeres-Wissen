@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 14, 2021, 11:09:40 AM">
+  <properties>
+    <titles>
+      <title>Lord I’m Nothing Without You</title>
+    </titles>
+    <verseOrder>V1 V2 C3 V4 C3 C3 C3 V5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Every morning I wake up Lord, I know You’re here
+When my heart keeps on trembling, You make it calm
+Every step of my journey, You guide my path
+For me to start a brand new day</lines>
+    </verse>
+    <verse name="V2">
+      <lines>I thought this life would be nothing until You found me
+You've given me faith and courage to stand on my feet
+You saved me from unrighteousness, You leadeth me
+For me to face a brand new life</lines>
+    </verse>
+    <verse name="C3">
+      <lines>Lord, I am nothing without You
+In Your presence, I’m safe and secure
+Lord cleanse my heart, make it pure and brand new
+Be with me for the rest of my life</lines>
+    </verse>
+    <verse name="V4">
+      <lines>When my heart is torn apart, You’ve shown me, love
+When my life is full of disappointments, You gave me hope
+You said, “my child, Life won’t be easy, have faith in Me
+I Am The Potter, The Painter Of your life”</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Be with me for the rest of my life
+Be with me for the rest of my life…</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Fire of God</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v1 v1 v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Light the coal
+Fan the flame
+Passion for Your holy name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: Fire of God consume our souls
+No matter where we are or were we go
+Fire of God consume our souls tonight :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I just wanna burn with a love so pure
+A passion for Your name with Your flame in my soul
+I just wanna burn with a love so pure tonight
+I just wanna burn with a love so pure
+A passion for Your name with Your flame in my soul
+I just wanna burn with a love so pure tonight
+Fire of God consume our souls
+No matter where we are or were we go
+Fire of God consume our souls tonight</lines>
+    </verse>
+  </lyrics>
+</song>

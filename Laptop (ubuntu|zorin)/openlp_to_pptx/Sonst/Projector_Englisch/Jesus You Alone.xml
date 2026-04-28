@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus You Alone</title>
+    </titles>
+    <authors>
+      <author type="words">Darlene Zschech</author>
+      <author type="music">Darlene Zschech</author>
+      <author type="translation">Jesus, du bist genug</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who is the great King of glory
+Seated on high in the heavens?
+Oh-oh-oh, Jesus, You alone!
+You are the Lord God Almighty,
+Strong in compassion and mercy,
+Oh-oh-oh, Jesus, You alone!
+I've searched the world, for a love that could fill my heart
+But nothing compares to the wonder of who You are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy, all the earth singing
+Holy, all the angels cry
+Holy, Jesus, You alone
+Jesus, You alone, oh
+(We lift You high)
+You set the stars in the heavens</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You set the world into motion
+Oh-oh-oh, Jesus, You alone
+(Yes, you did)
+You breathed Your life in creation
+You walked among Your created
+Oh-oh-oh, Jesus, You alone (I've searched)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And I've searched the world, for a love that could fill my heart
+Oh, but nothing compares to the wonder of who You are</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Holy, all the earth singing
+Holy, all the angels cry
+Holy, Jesus, You alone (oh, worthy)
+Worthy, all the creation, sings worthy
+All the heavens exalt Thee
+Jesus, You alone
+Jesus, You alone</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You shed Your blood for salvation
+You broke the curse for our freedom
+Oh-oh-oh, Jesus, You alone
+You rose from death with the morning
+You'll come again in Your glory
+Oh-oh-oh, Jesus, You alone
+Oh-oh-oh, Jesus, You alone</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Holy, all the earth singing
+Holy, all the angels cry
+Holy, Jesus, You alone (worthy)
+Worthy, all creation sings worthy
+All the heavens exalt Thee
+Jesus, You alone (holy)</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Holy, all the earth singing
+Holy, all the angels cry
+Holy, Jesus, You alone
+(Can we lift our voices and sing?)
+Worthy, all creation sings
+Worthy, all the heavens exalt Thee
+Jesus, You alone</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Holy, I can't help but sing
+Holy, how my heart cries out
+Holy, Jesus, You alone
+(Sing to Jesus)
+Worthy, I lift my voice and sing
+Worthy, I bow my life to exalt Thee
+Jesus, You alone
+Jesus, You alone</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Heart Is Stirred</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My heart is stirred
+When e'er I think of Jesus,
+That precious Name
+That sets the captive free;
+The only Name
+Through which I find Salvation.
+No name on earth,
+Has meant so much to me.</lines>
+    </verse>
+  </lyrics>
+</song>

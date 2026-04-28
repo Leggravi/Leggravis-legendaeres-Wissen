@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dank, Anbetung, Preis und Ehre</title>
+    </titles>
+    <authors>
+      <author type="words">Friedrich Gottlieb Klopstock</author>
+      <author type="music">Hans Sachs</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dank, Anbetung, Preis und Ehre,
+Macht, Weisheit, Herrlichkeit und Ehre
+Sei Dir, Versöhner Jesu Christ!
+Gottes Vielgeliebte singen,
+Anbetung, Preis und Dank zu bringen
+Dem Lamme, das geopfert ist.
+Du sankst für uns ins Grab,
+Wuschst unsre Sünden ab,
+Alle Sünden!
+Du hast's vollbracht,
+Damit wir rein
+Vor unsers Gottes Auge sei'n.</lines>
+    </verse>
+  </lyrics>
+</song>

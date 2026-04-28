@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wer, Herr Jesus, fasst dein Lieben</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Halleluja! Gott zu loben</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wer, o Jesu, fasst Dein Lieben,
+Wer den Wert von Deinem Blut!
+Liebe nur hat Dich getrieben,
+Selbst zu werden unser Gut.
+Unsre Sünden trugest Du,
+Gabst in Dir uns ew'ge Ruh'.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nichts kann uns von Dir mehr scheiden,
+Nichts kann uns verdammen mehr,
+Weder Tod, noch Schmach, noch Leiden,
+Noch des Satans mächt'ge Heer'.
+Ewig sind wir, Dir zum Ruhm,
+Dein erkauftes Eigentum.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drum gehört Dir unser Leben,
+Unser Lob nur Dir allein.
+Selig ist's, sich Dir ergeben,
+Deinem Dienste sich zu weihn,
+Und – gehorsam Deinem Wort –
+Dir zu folgen, treuer Hort!</lines>
+    </verse>
+  </lyrics>
+</song>

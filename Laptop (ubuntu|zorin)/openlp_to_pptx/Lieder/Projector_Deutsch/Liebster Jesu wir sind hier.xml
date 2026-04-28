@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Liebster Jesu, wir sind hier</title>
+    </titles>
+    <authors>
+      <author type="words">Tobias Clausnitzer</author>
+      <author type="music">Johann Rudolf Ahle</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Liebster Jesu, wir sind hier,
+Dich und Dein Wort anzuhören;
+lenke Sinnen und Begier
+hin auf Dich und Deine Lehren,
+dass die Herzen von der Erden
+ganz zu Dir gezogen werden.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unser Wissen und Verstand
+ist mit Finsternis verhüllet,
+wo nicht Deines Geistes Hand
+uns mit hellem Licht erfüllet;
+Gutes denken, tun und dichten
+musst Du selbst in uns verrichten.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Du Glanz der Herrlichkeit,
+Licht vom Licht, aus Gott geboren,
+mach uns allesamt bereit,
+öffne Herzen, Mund und Ohren;
+unser Bitten, Flehn und Singen
+lass, Herr Jesu, wohl gelingen.</lines>
+    </verse>
+  </lyrics>
+</song>

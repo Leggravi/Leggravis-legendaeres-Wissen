@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Bless The Lord, Oh My Soul</title>
+    </titles>
+    <authors>
+      <author type="words">Andraé Crouch</author>
+      <author type="music">Andraé Crouch</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bless the Lord, Oh, my soul,
+And all that is within me
+Bless His holy name.
+Bless the Lord, Oh, my soul
+And all that is within me
+Bless His holy name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For He has done great things,
+He has done great things,
+He has done great things,
+Bless His holy name.</lines>
+    </verse>
+  </lyrics>
+</song>

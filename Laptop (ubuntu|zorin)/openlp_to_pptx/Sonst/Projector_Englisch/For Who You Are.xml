@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>For Who You Are</title>
+    </titles>
+    <authors>
+      <author type="words">Marty Sampson</author>
+      <author type="music">Marty Sampson</author>
+      <author type="translation">Denn du bist Gott (Ich steh hier, ganz nah bei dir)</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Standing here in Your presence
+Thinking of the good things you have done
+Waiting here patiently
+Just to hear Your still small voice again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy, righteous,
+Faithful till the end
+Savior, Healer,
+Redeemer and Friend</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will worship You for who You are
+I will worship You for who You are
+I will worship You for who You are
+Jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My soul secure, Your promise sure
+Your love endures always</lines>
+    </verse>
+  </lyrics>
+</song>

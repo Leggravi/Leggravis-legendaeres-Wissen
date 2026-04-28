@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>How Can I Keep From Singing</title>
+    </titles>
+    <authors>
+      <author type="words">Ed Cash</author>
+      <author type="music">Ed Cash</author>
+      <author type="translation">Wie könnt ich dir nicht singen (Ein Lied dringt durch die Zeit)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is an endless song
+Echoes in my soul
+I hear the music ring</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And though the storms may come
+I am holding on
+To the rock I cling</lines>
+    </verse>
+    <verse name="v3">
+      <lines>How can I keep from singing Your praise
+How can I ever say enough
+How amazing is Your love
+How can I keep from shouting Your name
+I know I am loved by the King
+And it makes my heart want to sing</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will lift my eyes
+In the darkest night
+For I know my Savior lives</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And I will walk with You
+Knowing You'll see me through
+And sing the songs You give</lines>
+    </verse>
+    <verse name="v6">
+      <lines>How can I keep from singing Your praise
+How can I ever say enough
+How amazing is Your love
+How can I keep from shouting Your name
+I know I am loved by the King
+And it makes my heart want to sing</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I can sing in the troubled times
+Sing when I win
+I can sing when I lose my step
+And fall down again
+I can sing'cause You pick me up
+Sing'cause You're there
+I can sing'cause You hear me, Lord
+When I call to You in prayer
+I can sing with my last breath
+Sing for I know
+That I'll sing with the angels
+And the saints around the throne</lines>
+    </verse>
+  </lyrics>
+</song>

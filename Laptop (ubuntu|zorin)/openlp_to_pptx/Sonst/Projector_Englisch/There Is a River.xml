@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There Is a River</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a river
+And it flows from deep within
+There is a fountain
+That frees the soul from sin</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come to this water
+There is a vast supply
+There is a river that never shall run dry</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There was a thirsty woman
+She was drawing from the well
+See, her life was ruined and wasted
+And her soul was bound for hell</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, but then she met the Master
+And He told her of her sin
+And He said, “If you drink this water,
+You’ll never thirst again”</lines>
+    </verse>
+  </lyrics>
+</song>

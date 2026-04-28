@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Es schaut bei Nacht und Tage</title>
+    </titles>
+    <authors>
+      <author type="words">Jonathan Paul</author>
+      <author type="music">Friedrich Eckhardt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es schaut bei Nacht und Tage
+Dein holdes Bild mich an
+und legt mir vor die Frage
+ob ich Dich lassen kann.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mein Gott, ich bin entschieden,
+auf ewig bin ich Dein,
+ich kann ja ohne Frieden
+und ohne Dich nicht sein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Die Freuden hier auf Erden
+sah ich wie Schaum vergehn;
+sie konnten mir nichts werden,
+Dein Kreuz nur blieb mir stehn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oft habe ich gejammert,
+wenn Satans List mich schlug.
+jetzt hab ich den umklammert,
+der meine Sünden trug.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nun steht bei Nacht und Tage
+Dein Bild im Herzen mir,
+dass ich es jedem sage,
+wie gut es ist bei Dir.</lines>
+    </verse>
+  </lyrics>
+</song>

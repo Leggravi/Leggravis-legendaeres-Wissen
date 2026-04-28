@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come Quickly Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Fred Pratt Green</author>
+      <author type="music">John Barnard</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One day every eye will behold Him,
+Lifted up high and exalted
+We will behold the King
+One day all that's opposed him will crumble
+Every man be made humble
+We will behold the King
+One day we who have waited will see Him,
+We who have prayed-</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come quickly Lord, come quickly Lord
+It's that day that we are looking towards
+We want to see your glory
+Come quickly Lord, come quickly Lord
+You're the one that we are waiting for
+Come quickly Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>One day heartache and suffering will vanish,
+Sickness and pain will be ended
+As we behold the King
+One day death will be conquered forever,
+And he will descend in his glory
+And we behold our King
+The spirit and the Bride together testify-</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For no ear hath heard, no eye hath seen
+No tongue can declare your majesty
+Be exalted, be praised as we lift up your name
+And your people declare your glory</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Every knee shall bow
+Every tongue confess
+He is Lord, He is Lord
+Every eye shall see
+Jesus lifted high
+For He is Lord, He Is Lord</lines>
+    </verse>
+  </lyrics>
+</song>

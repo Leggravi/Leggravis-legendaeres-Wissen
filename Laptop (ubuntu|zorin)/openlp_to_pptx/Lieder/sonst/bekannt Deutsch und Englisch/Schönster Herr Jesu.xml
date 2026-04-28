@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:05:25">
+  <properties>
+    <titles>
+      <title>Schönster Herr Jesu</title>
+    </titles>
+    <authors>
+      <author type="words">Münster (1677)</author>
+      <author type="words">August Heinrich Hoffmann von Fallersleben (1842)</author>
+      <author type="music">Christian Ernst Graf</author>
+    </authors>
+    <ccliNo>4351290</ccliNo>
+    <themes>
+      <theme>Anbetung</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Schönster Herr Jesus,
+Herrscher aller Enden/Herren,
+Gottes und Marien Sohn:
+Dich will ich lieben,
+Dich will ich ehren,
+Du meiner Seele Freud und Wonn/Kron!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Schön sind die Felder,
+schön sind die Wälder
+in der schönen Frühlingszeit;
+Jesus ist schöner,
+Jesus ist reiner,
+der unser traurig Herz erfreut.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Schön leucht die Sonne,
+schön leucht der Monde
+und die Sternlein allzumal.
+Jesus leucht schöner,
+Jesus leucht reiner
+als alle Engel im Himmelssaal.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Schön sind die Blumen,
+schön sind die Menschen
+in der frischen Jugendzeit;
+sie müssen sterben,
+müssen verderben,
+doch Jesus lebt in Ewigkeit.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Alle die Schönheit
+Himmels und der Erden
+ist verfasst in Dir allein.
+Nichts soll mir werden
+lieber auf Erden
+als Du, der schönste Jesus mein.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Du bist wahrhaftig
+bei uns gegenwärtig
+durch dein Wort und Sakrament.
+Jesus, dich bitt ich,
+sei du uns gnädig
+jetzt und an unserm letzten End.</lines>
+    </verse>
+  </lyrics>
+</song>

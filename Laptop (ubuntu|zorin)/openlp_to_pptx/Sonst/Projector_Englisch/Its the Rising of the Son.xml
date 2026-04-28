@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It's the Rising of the Son</title>
+    </titles>
+    <authors>
+      <author type="words">Nathan Fellingham</author>
+      <author type="music">Nathan Fellingham</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>They were hopeless, beaten and so weary,
+Slaves are waiting for the day of liberty,
+Just to see the glorious sunrise from the highest mountain top,
+and this dawn will see their shackles falling off.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's the rising of the Son, a new day has begun,
+Rays of mercy made us free from sin today,
+The joy that fills my soul, for the message is my all,
+Thank you Jesus for this day of liberty.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The grave is empty, He's risen! What a day!
+Because I live, you shall live as well he say,
+Resurrected with Christ Jesus, lift your hands towards the sky,
+Your reward is to be ever at His side.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It's the rising of the Son, I can feel the quickening power,
+Amazing grace has rent the veil for us that day,
+Our redeemer and our God, soon will catch away His Bride,
+Thank you Jesus for this day of victory.</lines>
+    </verse>
+  </lyrics>
+</song>

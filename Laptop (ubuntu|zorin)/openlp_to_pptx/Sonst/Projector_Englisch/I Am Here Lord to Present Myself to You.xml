@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Am Here Lord to Present Myself to You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am here Lord to present myself to You
+And I know there's nothing
+more that I can do
+Will You wash me and dress me
+ with Your righteousness
+Until You're finally through
+I still come to present myself to You</lines>
+    </verse>
+  </lyrics>
+</song>

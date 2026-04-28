@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Rest on Us</title>
+    </titles>
+    <authors>
+      <author type="words">Harvest Bashta</author>
+      <author type="music">Harvest Bashta</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: As the Spirit was moving over the waters
+Spirit, come move over us
+Come rest on us
+Come rest on us :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: Come down
+Spirit, when You move You make my heart pound
+When You fill the room
+You're here and I know You are moving
+I'm here and I know You will fill me :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We honor You, Holy Spirit
+/: And fire and wind, come and do it again
+Open up the gates, let heaven on in
+Come rest on us
+Come rest on us :/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And /: come down
+Spirit, when You move You make my heart pound
+When You fill the room
+You're here and I know You are moving
+I'm here and I know You will fill me :/</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, we wait, we wait
+We honor You</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Holy Spirit, come rest on us
+You're all we want
+You're all we want</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Come
+Just like in the upper room
+Just like in the upper room
+You said You would do it
+You said You would pour out Your Spirit
+Just like in the upper room</lines>
+    </verse>
+  </lyrics>
+</song>

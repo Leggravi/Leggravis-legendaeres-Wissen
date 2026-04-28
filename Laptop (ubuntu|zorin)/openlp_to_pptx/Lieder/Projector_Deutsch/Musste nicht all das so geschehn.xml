@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Musste nicht all das so geschehn</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Musste nicht all das so geschehn.
+Musste Christus dies nicht erleiden.
+Fürwahr er trug unsere Krankheit
+und lud auf sich unsre Schmerzen und Schuld,
+die Strafe liegt auf ihm, dass wir Frieden haben
+und durch seine Wunden sind wir geheilt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Musste nicht all das so geschehn.
+Musste Christus nicht auferstehen.
+Bei Mose war all das schon verheißen
+und David sprach von ihm auf seinem Thron.
+Beim Vater war das alles von Anfang geplant,
+damit wer ihm glaubt lebe in Ewigkeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So sehr hat Gott die Welt geliebt,
+dass er seinen Sohn für sie hingab,
+Damit alle, die glauben, nicht verloren gehn,
+Sondern leben in Ewigkeit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So sehr hat Gott die Welt geliebt,
+dass er seinen Sohn für mich hingab,
+damit im Glauben ich leb,
+mein ganzes Leben ihm geb,
+damit er lebt in mir in Ewigkeit.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vergib mir, oh Herr!
+Vergib mir all meine Sünde!
+Mit aller Kraft verfolgte ich dich,
+mit Eifer und ich wusste es nicht.
+Den Tod den du littest hätt' ich doch verdient.
+Erbarme dich, Herr, über mich!
+Musste nicht all das so geschehn.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Sollt ich’s nicht genauso verstehen.
+Allein seine Gnade hat mich errettet,
+sein Erbarmen hat mir Gott offenbart.
+Ich erkenne in Jesus wirklich Gottes Sohn.
+Er lebt heute und in Ewigkeit.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>So sehr hat Gott die Welt geliebt,
+dass er seinen Sohn für sie hingab,
+damit im Glauben ich leb,
+mein ganzes Leben ihm geb,
+damit er lebt in mir in Ewigkeit.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>So sehr hat Gott die Welt geliebt,
+dass er seinen Sohn für DICH hingab,
+//: damit du lebst, wenn du glaubst,
+damit du lebst, wenn du glaubst,
+damit du lebst für ihn in Ewigkeit. ://</lines>
+    </verse>
+  </lyrics>
+</song>

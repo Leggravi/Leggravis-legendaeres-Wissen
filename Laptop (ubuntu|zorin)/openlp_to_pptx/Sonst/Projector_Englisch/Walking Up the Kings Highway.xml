@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Walking Up the King's Highway</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My way Gets Brighter,
+My load Gets Lighter
+Walking up the King's highway
+There's joy in knowing
+With him I'm going
+Walking up the King's Highway</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's a highway to heaven
+None can walk up there
+But the pure in heart
+It's a highway to heaven
+I am walking up the king's highway</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Don't have to worry,
+Don't have to hurry
+Walking up the King's highway
+Christ walks beside me,
+Angel to guide me
+Walking up the King's Highway</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If you're not walking
+Start while I'm talking
+Walking up the King's Highway
+There'll be a blessing,
+You'll be possesing
+Walking up the King's highway</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lo He Comes With Clouds Descending!</title>
+    </titles>
+    <authors>
+      <author type="words">John Cennick</author>
+      <author type="music">David Willcocks</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lo, he comes with clouds descending,
+once for favored sinners slain;
+thousand, thousand saints attending
+swell the triumph of his train.
+Hallelujah! Hallelujah! Hallelujah!
+God appears on earth to reign.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Every eye shall now behold him,
+robed in dreadful majesty;
+those who set at naught and sold him,
+pierced and nailed him to the tree,
+deeply wailing, deeply wailing, deeply wailing,
+shall the true Messiah see.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The dear tokens of his passion
+still his dazzling body bears;
+cause of endless exultation
+to his ransomed worshipers;
+with what rapture, with what rapture, with what rapture,
+gaze we on those glorious scars!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yea, Amen! Let all adore thee,
+high on thy eternal throne;
+Savior, take the power and glory,
+claim the kingdom for thine own.
+Hallelujah! Hallelujah! Hallelujah!
+Everlasting God, come down!</lines>
+    </verse>
+  </lyrics>
+</song>

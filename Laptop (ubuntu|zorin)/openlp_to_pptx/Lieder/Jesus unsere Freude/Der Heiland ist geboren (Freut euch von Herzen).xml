@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:35">
+  <properties>
+    <titles>
+      <title>Der Heiland ist geboren (Freut euch von Herzen)</title>
+    </titles>
+    <authors>
+      <author type="words">Grafschaft Glatz</author>
+      <author type="music">Innsbruck</author>
+    </authors>
+    <ccliNo>6469465</ccliNo>
+    <themes>
+      <theme>Weihnachten</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Der Heiland ist geboren,
+freu dich, du Christenheit.
+Sonst wär'n wir gar verloren
+in alle Ewigkeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ein Kindlein auserkoren,
+freu dich, du Christenheit.
+Sonst wär'n wir gar verloren
+in alle Ewigkeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Der Stall ist allen offen,
+freu dich, du Christenheit.
+Wer will, der kann jetzt hoffen
+Gnad und Barmherzigkeit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Der Gnadenbrunn tut fließen,
+freu dich, du Christenheit.
+Tuet all das Kindlein grüßen!
+Kommt her zu ihm mit Freud.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 9, 2018, 9:41:07 PM">
+  <properties>
+    <titles>
+      <title>Herr, im Glanz deiner Majestät</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>/: Herr, im Glanz deiner Majestät,
+auf den Stufen von deinem Thron
+stehen wir in deinem Licht
+und singen dir Lieder. :/</lines>
+    </verse>
+    <verse name="V2">
+      <lines>/: Du, o Herr,
+bist die Quelle des Lebens,
+und von dir leben wir. :/</lines>
+    </verse>
+  </lyrics>
+</song>

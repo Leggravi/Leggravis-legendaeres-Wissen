@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thank you for giving to the Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I dreamed I went to Heaven,
+you were there with me.
+We walked upon the streets of gold
+beside the Crystal Sea.
+We heard the angels singing,
+then someone called your name.
+You turned and saw this young man,
+and he was smiling as he came.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He said, &quot;Friend you may not know me now,&quot;
+and then he said, &quot;But wait
+You used to teach my Sunday School,
+when I was only eight.
+And every week you would say a prayer
+before the class would start.
+And one day when you said that prayer,
+I asked Jesus in my heart.&quot;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thank you for giving to the Lord,
+I am a life that was changed.
+Thank you for giving to the Lord,
+I am so glad you gave.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then another man stood before you,
+he said &quot;Remember the time,
+A missionary came to your church,
+His pictures made you cry.
+You didn't have much money
+but you gave it anyway.
+Jesus took that gift you gave
+And that's why I'm in Heaven today&quot;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And I know up in Heaven
+you're not supposed to cry
+But I am almost sure
+there were tears in your eyes
+As Jesus took your hand
+and you stood before the Lord
+He said &quot;My child look around you,
+Great is your reward.&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

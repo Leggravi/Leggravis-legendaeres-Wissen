@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Soul Doth Magnify</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Betty Pulkingham</author>
+      <author type="translation">Mein Herz erhebet den Herrn</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My soul doth magnify the Lord,
+My soul doth magnify the Lord,
+And my spirit hath rejoiced in
+  God my Saviour;
+For He that is mighty
+Hath done great things,
+And Holy is His Name.</lines>
+    </verse>
+  </lyrics>
+</song>

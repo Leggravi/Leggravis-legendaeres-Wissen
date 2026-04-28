@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Fels der Zeiten, Du bist treu und gerecht</title>
+    </titles>
+    <authors>
+      <author type="words">Holger Petri</author>
+      <author type="music">Martin J. Nystrom</author>
+      <author type="translation">Rock of Ages, You are faithful</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fels der Zeiten, Du bist treu und gerecht,
+alles, was Du verheißt, wirst Du erfüllen!
+Fels der Zeiten, Du bist treu und gerecht,
+allezeit vertrau ich Dir o Herr!
+Mein Beschützer in der Zeit der Sorgen
+und Zuflucht, wenn der Sturm auch tobt,
+meine Burg auch in der Zeit der Kämpfe;
+mein Turm, wenn mich der Krieg bedroht.
+Du mein Heiler in der Zeit der Krankheit,
+ein Tröster auch im tiefsten Leid;
+meine Festung in der Zeit der Schwachheit,
+ein starker Helfer in der Not.</lines>
+    </verse>
+  </lyrics>
+</song>

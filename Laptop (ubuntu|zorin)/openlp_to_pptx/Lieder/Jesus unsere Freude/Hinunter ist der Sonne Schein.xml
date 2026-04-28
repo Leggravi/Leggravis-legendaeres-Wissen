@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:59">
+  <properties>
+    <titles>
+      <title>Hinunter ist der Sonne Schein</title>
+    </titles>
+    <authors>
+      <author type="words">Nikolaus Herman (1560)</author>
+      <author type="music">Melchior Vulpius</author>
+    </authors>
+    <ccliNo>4353652</ccliNo>
+    <themes>
+      <theme>Abendlieder</theme>
+      <theme>Schlaflieder</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hinunter ist der Sonne Schein,
+die finstre Nacht bricht stark herein;
+leucht uns, Herr Christ, du wahres Licht,
+lass uns im Finstern tappen nicht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dir sei Dank, dass du uns den Tag
+vor Schaden, G'fahr und mancher Plag
+durch deine Engel hast behüt
+aus Gnad und väterlicher Güt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Womit wir heut erzürnet dich,
+dasselb verzeih uns gnädiglich
+und rechn es unsrer Seel nicht zu;
+lass schlafen uns mit Fried und Ruh.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dein Engel uns zur Wach bestell,
+dass uns der böse Feind nicht fäll.
+Vor Schrecken, Angst und Feuersnot
+behüte uns, o lieber Gott.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Die Seele samt dem Leib' und Leb'n,
+und alles, was du uns gegeb'n,
+befehlen wir jetzt in dein' Macht,
+o Herr, halt drüber gute Wacht.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kommst du heint mit Posaunenschall
+und weckst zum G'richt die Menschen all,
+so sind wir dein und bleiben dein,
+und gehn mit dir zum Leben ein.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Wohlan, wir ruhn und schlafen wohl,
+der Teufel uns nicht schaden soll,
+drauf walt's Gott Vater und Gott Sohn,
+samt Heil'gem Geist ins Himmel Thron.</lines>
+    </verse>
+  </lyrics>
+</song>

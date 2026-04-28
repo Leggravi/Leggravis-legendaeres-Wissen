@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich folge dir</title>
+    </titles>
+    <authors>
+      <author type="words">Arne Kopfermann</author>
+      <author type="music">Jason Ingram</author>
+      <author type="translation">I Will Follow</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich geh deinen Weg, bleib, wo ich dich seh.
+Lauf dir hinterher. Herr, ich folge dir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr, dein Weg ist gut, du gehst ihn mit mir.
+Ich vertraue dir allein. Du siehst weiter, Herr,
+siehst, was ich nicht seh. Ich vertraue dir allein,
+nur dir allein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich geh deinen Weg, bleib, wo ich dich seh.
+Lauf dir hinterher. Herr, ich folge dir.
+Präge mich, mein Gott, lehr mich, treu zu sein.
+Treu bis in den Tod. Herr, ich folge dir,
+Herr, ich folge dir.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du strahlst in die Welt, du erhellst mein Herz.
+Für dich lebe ich allein, du vereinst in dir,
+was mein Herz begehrt. Bei dir find ich,
+was ich brauch, bei dir allein.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bei dir ist ewiges Leben.
+Bei dir ist meine Seele frei.
+Bei dir ist Glück, das ewig währt.
+Ich folg dir, Jesus.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ich geh deinen Weg, bleib, wo ich dich seh.
+Lauf dir hinterher, Herr, ich folge dir.
+Präge mich mein Gott, lehr mich treu zu sein
+Treu bis in den Tod.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>/: Herr, ich folge dir, Herr, ich folge dir. :/
+Folge dir mein Herr</lines>
+    </verse>
+  </lyrics>
+</song>

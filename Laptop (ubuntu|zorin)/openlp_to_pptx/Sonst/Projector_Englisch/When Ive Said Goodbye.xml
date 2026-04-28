@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When I’ve Said Goodbye</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I’ve left and said goodbye
+Oh don’t you worry,
+For I’m just going home
+Yes my Saviours outstretched arms
+Are waiting for me Oh yes
+Don’t you worry I’m just going home.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’ll be up there in that mansion
+I shall walk on streets of pure gold
+And when I’ve left and said goodbye
+For that city in the sky
+Oh don’t you worry
+I’m just going home.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It is not for just a day but forever
+My Saviour’s presence
+I shall behold Yes and
+when at last there’s peace eternal Oh yes
+Don’t you worry I’m just going home.
+And when I’ve left and said goodbye
+For that city in the sky
+O don’t you worry, I’m just going home.</lines>
+    </verse>
+  </lyrics>
+</song>

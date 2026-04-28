@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sunshine in My Soul</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is sunshine in my soul today,
+More glorious and bright
+Than glows in any earthly sky,
+For Jesus is my light.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O there's sunshine, blessed sunshine,
+While the peaceful, happy moments roll;
+When Jesus shows His smiling face
+There is sunshine in my soul.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is music in my soul today,
+A carol to my King;
+And Jesus, listening, can hear
+The song I cannot sing.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There is springtime in my soul today,
+For when the Lord is near
+The dove of peace sings in my heart,
+The flowers of grace appear.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There is gladness in my soul today,
+And hope, and praise, and love,
+For blessings which He gives me now,
+For joys laid up above.</lines>
+    </verse>
+  </lyrics>
+</song>

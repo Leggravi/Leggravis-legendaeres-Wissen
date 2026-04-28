@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dein ist das Reich und die Kraft und Herrlichkeit</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Dresden</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dein ist das Reich und die Kraft und Herrlichkeit.
+König und Richter bist Du.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist der erste, du bist der letzte, Herr,
+Du bist der Lebendige!
+Geheiligt sei Dein Name,
+der Du herrschst in Himmel und auf der Erde.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:02">
+  <properties>
+    <titles>
+      <title>Nun lasst uns gehn und treten</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Gerhardt (1653)</author>
+      <author type="music">Nun lasst uns Gott dem Herren Dank sagen</author>
+    </authors>
+    <ccliNo>5209413</ccliNo>
+    <themes>
+      <theme>Sterben</theme>
+      <theme>Silvester</theme>
+      <theme>Neujahr</theme>
+      <theme>Jahreswechsel</theme>
+      <theme>Jahreswende</theme>
+      <theme>Jahresende</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nun lasst uns gehen und treten
+mit Singen und mit Beten
+zum Herrn, der unserm Leben
+bis hierher Kraft gegeben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir gehen dahin und wandern
+von einem Jahr zum andern,
+wir leben und gedeihen
+vom alten bis zum neuen</lines>
+    </verse>
+    <verse name="v3">
+      <lines>durch so viel Angst und Plagen,
+durch Zittern und durch Zagen,
+durch Krieg und große Schrecken,
+die alle Welt bedecken.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Denn wie von treuen Müttern
+in schweren Ungewittern
+die Kindlein hier auf Erden
+mit Fleiß bewahret werden,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>also auch und nicht minder
+lässt Gott uns, seine Kinder,
+wenn Not und Trübsal blitzen,
+in seinem Schoße sitzen.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ach Hüter unsres Lebens,
+fürwahr, es ist vergebens
+mit unserm Tun und Machen,
+wo nicht dein Augen wachen.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Gelobet sei deine Treue,
+die alle Morgen neue;
+Lob sei den starken Händen,
+die alles Herzleid wenden.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Lass ferner dich erbitten,
+o Vater, und bleib mitten
+in unserm Kreuz und Leiden
+ein Brunnen unsrer Freuden.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Gib mir und allen denen,
+die sich von Herzen sehnen
+nach dir und deiner Hulde,
+ein Herz, das sich gedulde.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Sprich deinen milden Segen
+zu allen unsern Wegen,
+lass Großen und auch Kleinen
+die Gnadensonne scheinen.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Sei der Verlassnen Vater,
+der Irrenden Berater,
+der Unversorgten Gabe,
+der Armen Gut und Habe.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Hilf gnädig allen Kranken,
+gib fröhliche Gedanken
+den hochbetrübten Seelen,
+die sich mit Schwermut quälen.</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Und endlich, was das meiste,
+füll uns mit deinem Geiste,
+der uns hier herrlich ziere
+und dort zum Himmel führe.</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Das alles wollst du geben,
+o meines Lebens Leben,
+mir und der Christen Schare
+zum selgen neuen Jahre.</lines>
+    </verse>
+  </lyrics>
+</song>

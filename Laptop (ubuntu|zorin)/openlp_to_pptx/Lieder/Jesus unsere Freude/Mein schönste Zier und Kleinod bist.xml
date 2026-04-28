@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:59">
+  <properties>
+    <titles>
+      <title>Mein schönste Zier und Kleinod bist</title>
+    </titles>
+    <authors>
+      <author type="words">Johannes Eccard (1598)</author>
+      <author type="music">Leipzig</author>
+    </authors>
+    <ccliNo>4898526</ccliNo>
+    <themes>
+      <theme>Abendlieder</theme>
+      <theme>Vertrauen</theme>
+      <theme>Glaube</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mein schönste Zier und Kleinod bist
+auf Erden Du, Herr Jesu Christ;
+Dich will ich lassen walten
+und allezeit in Lieb und Leid
+in meinem Herzen halten.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dein Lieb und Treu vor allem geht,
+kein Ding auf Erd so fest besteht;
+solchs muss man frei bekennen.
+Drum soll nicht Tod, nicht Angst, nicht Not
+von Deiner Lieb mich trennen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dein Wort ist wahr und trüget nicht
+und hält gewiss, was es verspricht,
+im Tod und auch im Leben.
+Du bist nun mein und ich bin Dein,
+Dir hab ich mich ergeben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Der Tag nimmt ab. Ach schönste Zier,
+Herr Jesu Christ, bleib Du bei mir,
+es will nun Abend werden.
+Lass doch Dein Licht auslöschen nicht
+bei uns allhier auf Erden.</lines>
+    </verse>
+  </lyrics>
+</song>

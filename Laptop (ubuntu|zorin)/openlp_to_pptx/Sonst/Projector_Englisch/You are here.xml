@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You are here</title>
+    </titles>
+    <authors>
+      <author type="words">Neil Bennetts</author>
+      <author type="music">Neil Bennetts</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are here in our midst.
+How we've waited for moments like this.
+Have Your way in this place.
+Holy Spirit come do as you wish.
+We are changed as You move in our midst.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are here among us for we have gathered in Your Name.
+We can feel Your presence in this place.
+You are here among us.
+You are enthroned upon Your praise.
+You are here, here to heal and here to save.</lines>
+    </verse>
+  </lyrics>
+</song>

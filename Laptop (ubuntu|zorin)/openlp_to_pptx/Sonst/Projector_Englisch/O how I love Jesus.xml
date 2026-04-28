@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O, how I love Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Mike Little</author>
+      <author type="music">Mike Little</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a name I love to hear,
+I love to sing its worth;
+It sounds like music in mine ear,
+The sweetest name on earth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, how I love Jesus,
+O, how I love Jesus,
+O, how I love Jesus,
+Because He first loved me!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It tells me of a Savior's love,
+Who died to set me free;
+It tells me of His precious blood,
+The sinner's perfect plea.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It tells of One whose loving heart
+Can feel my deepest woe,
+Who in each sorrow bears a part
+That none can bear below.</lines>
+    </verse>
+  </lyrics>
+</song>

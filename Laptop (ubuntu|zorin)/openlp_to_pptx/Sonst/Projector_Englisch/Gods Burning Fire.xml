@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God's Burning Fire</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God's Burning Fire (God's Burning Fire)
+Is In My… (is in My Heart God's Burning Fire
+Is In My Heart
+God's burning fire is in My heart
+God's burning fire is in My heart)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I Love Jesus (I Love Jesus)
+With All My… (With All My Heart I Love Jesus
+With All My Heart)
+I Love a Jesus With All My Heart
+I Love Jesus With Allll my heart)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Halleluiah! (Halleluiah!)
+We Praise… (We Praise Your Name Halleluiah!
+We Praise Your Name
+Halleluiah! We Praise Your Name
+Halleluiah! We Praise Your Name</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus Has Come (Jesus Has Come)
+To Loook For… (To Look For Me Jesus Has Come
+Too Loook Foe Me,
+Jesus Has Come Too Looook For Me
+Jesus Has Come atooo Loook For Me)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh Recieve Him (Oh Recieve Him)
+With Happi… (With Happiness Oh Recieve Him
+With Happiness
+Oh Recieve Him With Happiness
+Oh Recieve Him With Happiness)</lines>
+    </verse>
+  </lyrics>
+</song>

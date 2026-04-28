@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>More</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My cup is full my heart is overflowing
+I've been blessed in ways my mind can't comprehend
+And when I think your hand of love
+Has given me enough
+You reach down and touch me once again
+With so much</lines>
+    </verse>
+    <verse name="v2">
+      <lines>More than I could ever ask you for
+More than I dream you had in store for me its hard to see
+Oh Lord how you could possibly give more
+More than my hearts desires
+Much more than love requires of
+You for all you do
+I worship and adore you even more</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If all that you have given me was mercy
+A chance to live when I deserved to die
+Lord that would have been enough
+But out of your great love
+You poured out your grace in limitless supply
+And gave me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>As long as there is breath in me
+And life left to live
+I will forever be amazed at how
+You give and give and give so much</lines>
+    </verse>
+  </lyrics>
+</song>

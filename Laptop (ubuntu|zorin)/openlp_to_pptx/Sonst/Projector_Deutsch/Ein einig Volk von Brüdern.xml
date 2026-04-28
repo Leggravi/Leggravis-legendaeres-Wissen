@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ein einig Volk von Brüdern</title>
+    </titles>
+    <authors>
+      <author type="words">Hermann Heinrich Grafe</author>
+      <author type="music">Anbetung dir, dem Lamme</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ein einig Volk von Brüdern, das ist das Volk des Herrn,
+verzweigt in seinen Gliedern, doch eins in seinem Kern;
+von oben her geboren, vom Heilgen Geist getränkt,
+von Gott selbst auserkoren, der liebend sein gedenkt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>An seinem Gnadenthrone, da sammelt sich die Schar,
+geheiligt in dem Sohne und mit ihm offenbar.
+Ihr Leben, hier verborgen, oft dunkel wie die Nacht,
+glänzt dort im lichten Morgen der Auferstehungspracht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr Jesus, uns bescheine in deiner Liebe Glanz.
+Herr Jesus, uns vereine mit dir und in dir ganz.
+Ein einig Volk von Brüdern, das lass, o Herr, uns sein,
+in allen seinen Gliedern auf ewig, ewig Dein.</lines>
+    </verse>
+  </lyrics>
+</song>

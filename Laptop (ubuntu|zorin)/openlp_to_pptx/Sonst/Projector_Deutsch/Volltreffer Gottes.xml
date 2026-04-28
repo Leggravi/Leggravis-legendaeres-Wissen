@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Volltreffer Gottes</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Kallauch</author>
+      <author type="music">Daniel Kallauch</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Voll Voll Volltreffer,
+ja ein Volltreffer Gottes bist du!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wunderbar bist du gemacht,
+mit deinen schönen Augen.
+Freu dich daß du sehen kannst,
+das war Gottes Idee!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wunderbar bist du gemacht,
+mit deinen schönen Ohren.
+Freu dich daß du hören kannst,
+das war Gottes Idee!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wunderbar bist du gemacht,
+mit deinen schönen Beinen.
+Freu dich daß du laufen kannst,
+das war Gottes Idee!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wunderbar bist du gemacht,
+mit deinen beiden Händen.
+Freu dich daß du helfen kannst,
+das war Gottes Idee!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wunderbar bist du gemacht,
+mit deiner großen Nase.
+Freu dich daß du riechen kannst,
+das war Gottes Idee!</lines>
+    </verse>
+  </lyrics>
+</song>

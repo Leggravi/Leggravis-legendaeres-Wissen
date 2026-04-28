@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sea of faces</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v3 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I see the city lights all around me
+Everyone's obscure
+Ten million people each with their problems
+Why should anyone care?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And in your eyes I can see</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I am not just a man, vastly lost in this world
+Lost in a sea of faces
+Your body's the bread, your blood is the wine
+Because you traded your life for mine</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sometimes my life, it feels so trivial
+Immersed in the greatness of space
+Yet somehow you still find the time for me
+It's then you show me your love</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And in your eyes I can see
+And in your arms I will be, yea</lines>
+    </verse>
+    <verse name="v6">
+      <lines>If only my one heart
+Was all you'd gain from all it cost
+Well I know you would have still been a man
+With a reason to willingly offer your life</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I am not just a man, vastly lost in this world
+Lost in a sea of faces
+Your body's the bread, your blood is the wine
+Because you traded your life for mine
+Just one in a million faces</lines>
+    </verse>
+  </lyrics>
+</song>

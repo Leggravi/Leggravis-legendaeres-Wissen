@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It Is Well with My Soul</title>
+    </titles>
+    <authors>
+      <author type="words">Horatio Gates Spafford</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When peace like a river,
+Attendeth my way,
+When sorrows,
+Like sea billows roll;
+Whatever my lot,
+Thou hast taught me to say,
+&quot;It is well,
+It is well, with my soul.&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It is well, with my soul,
+It is well,
+It is well, with my soul.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though Satan should buffet,
+Tho' trials should come,
+Let this blest assurance control;
+That Christ has regarded
+My helpless estate,
+And hath shed His own blood
+For my soul.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My sin, O the bliss
+Of this glorious tho't,
+My sin not in part
+But the whole
+Is nailed to the cross
+And I bear it no more.
+Praise the Lord,
+Praise the Lord, O my soul!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O, Lord haste the day
+When my faith shall be sight,
+The clouds be rolled back
+As a scroll;
+The trump shall resound
+And the Lord shall descend,
+&quot;Even so&quot; it is well
+With my soul.</lines>
+    </verse>
+  </lyrics>
+</song>

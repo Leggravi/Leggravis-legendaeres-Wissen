@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Something I Can Feel</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There are those who say, God's just in our minds
+And the things we are searching for we'll surely never find
+But the joy He placed within my heart, I just can't conceal
+When He saved me He gave me, Something I can feel</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Something I can feel, Something I know is real
+In trouble times, there's peace of mind
+Oh the joy He placed within my heart, I just can't conceal
+When He saved me He gave me something I can feel</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And there are those who say, God's is dead
+They laugh, they mock, the precious Words, that my saviour said,
+And they say that my emotions is just a cheap thrill
+But am so glad when He saved me, He gave me, something I can feel!</lines>
+    </verse>
+  </lyrics>
+</song>

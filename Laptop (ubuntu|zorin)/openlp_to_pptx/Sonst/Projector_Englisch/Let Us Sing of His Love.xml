@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let Us Sing of His Love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let us sing of His love once again,
+Of the love that can never decay,
+Of the blood of the Lamb who
+was slain,
+Till we praise Him again in that day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the sweet… “by-and-by”
+We shall meet on that beautiful shore;
+In the sweet… “by-and-by”
+We shall meet on that
+beautiful shore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is cleansing and healing for all
+Who will wash in the life-giving
+flood,
+There is life everlasting and joy
+At the right hand of God
+through the blood.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Even now while we taste of His love,
+We are filled with delight at
+His Name;
+But what will it be when above
+We shall join in the song of
+the Lamb?</lines>
+    </verse>
+  </lyrics>
+</song>

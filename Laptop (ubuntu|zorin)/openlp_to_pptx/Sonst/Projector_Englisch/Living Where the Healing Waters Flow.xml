@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Living Where the Healing Waters Flow</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've cast my heavy burdens down
+  on Canaan's happy shore,
+I'm living where the healing waters flow;
+I'll wander in the wilderness of
+  doubt and sin no more;
+I'm living where the healing waters flow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Living on the shore, I'm living on the shore,
+I'm living where the healing waters flow;
+Living on the shore, I'm living on the shore,
+I'm living where the healing waters flow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>With Israel's trusting children
+  I'm rejoicing on my way,
+I'm living where the healing waters flow;
+The cloudy, fiery pillar
+  is my guiding light today.
+I'm living where the healing waters flow.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My hung'ring soul is satisfied
+  with manna from above,
+I'm living where the healing waters flow,
+No more I thirst, the rock I've found,
+  that fount of endless love;
+I'm living where the healing waters flow.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I'm singing &quot;Hallelujah,&quot;
+  safely anchored in my soul,
+I'm living where the healing waters flow,
+I'm resting on his promises;
+  the blood has made me whole.
+I'm living where the healing waters flow.</lines>
+    </verse>
+  </lyrics>
+</song>

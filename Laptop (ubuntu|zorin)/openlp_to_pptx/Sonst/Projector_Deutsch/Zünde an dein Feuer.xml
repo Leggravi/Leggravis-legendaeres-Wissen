@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Zünde an dein Feuer</title>
+    </titles>
+    <authors>
+      <author type="words">Hartmut Nitsch</author>
+      <author type="music">Hartmut Nitsch</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zünde an dein Feuer, Herr im Herzen mir,
+hell mög es brennen, lieber Heiland dir.
+Was ich bin und habe, soll dein Eigen sein.
+In deinen Händen schließe fest mich ein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quelle des Lebens und der Freude Quell,
+du machst das Dunkel meiner Seele hell.
+Du hörst mein Beten, hilfst aus aller Not,
+Jesus, mein Heiland, mein Herr und Gott.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wolltest mich bewahren, wenn der Satan droht,
+du bist der Retter, Herr, von Sünd und Tod.
+In der Weltnacht Dunkel leuchte mir als Stern,
+Herr, bleibe bei mir, sei mir niemals fern.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bald wird uns leuchten Gottes ewges Licht,
+freue dich Seele und verzage nicht!
+Lass die Klagen schweigen, wenn das Lied erschallt,
+fröhlichen Glaubens: Unser Herr kommt bald!</lines>
+    </verse>
+  </lyrics>
+</song>

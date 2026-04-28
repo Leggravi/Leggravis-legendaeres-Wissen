@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Es gibt bedingungslose Liebe,die alles trägt und nie vergeht </title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v4 v6 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es gibt bedingungslose Liebe,die alles trägt u. nie vergeht 
+Und unerschütterliche Hoffnung, die jeden Test der Zeit besteht.
+Es gibt ein Licht, das uns den Weg weist, auch wenn wir jetzt nicht alles sehn.
+Es gibt Gewissheit unsres Glaubens, auch wenn wir manches nicht verstehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ER ist das Zentrum der Geschichte, er ist der Anker in der Zeit.
+Er ist der Ursprung allen Lebens |: und unser Ziel in Ewigkeit : |</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Es gibt Versöhnung selbst für Feinde und echten Frieden nach dem Streit,
+ Vergebung für die schlimmsten Sünden , ein neuer Anfang jederzeit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ER ist das Zentrum der Geschichte, er ist der Anker in der Zeit.
+Er ist der Ursprung allen Lebens |: und unser Ziel in Ewigkeit : |</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Es gibt ein ewges Reich des Friedens - in unsrer Mitte lebt es schon:
+ein Stück vom Himmel hier auf Erden in Jesus Christus, Gottes Sohn .</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ER ist das Zentrum der Geschichte, er ist der Anker in der Zeit.
+Er ist der Ursprung allen Lebens |: und unser Ziel in Ewigkeit : |</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lass mich an dich glauben, wie Abraham es tat</title>
+    </titles>
+    <authors>
+      <author type="words">Thomas Reinhard</author>
+      <author type="music">Lutz Nagel</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lass mich an dich glauben, wie Abraham es tat,
+was kann dem geschehen, der solchen Glauben hat?
+Seinen Sohn führt er zum Brandaltar,
+zu opfern ihn, wie’s ihm von Gott befohlen war.
+Lass mich an dich glauben, wie Abraham es tat,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lass mich an dich glauben, wie Daniel es tat,
+was kann dem geschehen, der solchen Glauben hat?
+Sie warfen ihn den Löwen hin,
+er betete zu Gott, und der beschützte ihn.
+Lass mich an dich glauben, wie Daniel es tat,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lass mich an dich glauben, wie Simeon es tat,
+was kann dem geschehen, der solchen Glauben hat?
+Geduldig blieb er Jahr um Jahr,
+bis Christus er gesehn, wie’s ihm verheißen war.
+Lass mich an dich glauben, wie Simeon es tat,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lass mich an dich glauben, wie Stephanus es tat,
+was kann dem geschehen, der solchen Glauben hat?
+Sie steinigten zu Tode ihn,
+er betete für sie, und Gott erhörte ihn.
+Lass mich an dich glauben, wie Stephanus es tat,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lass mich an dich glauben, wie einst der Väter Schar,
+ihrer Wolke Zeugen umgibt mich immerdar.
+Wenn Satan kommt und Angst mir wird,
+dann lass mich nicht allein, sei mir der gute Hirt.
+Lass mich an dich glauben, wie einst der Väter Schar,</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Just Another Touch, Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Just another touch, Lord, from you,
+To help in hard trials I go through;
+Though dark may be the night,
+You’ve sent a ray of light,
+When I get a touch, Lord, from you.</lines>
+    </verse>
+  </lyrics>
+</song>

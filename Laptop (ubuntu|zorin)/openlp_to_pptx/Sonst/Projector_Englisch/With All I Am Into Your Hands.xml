@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>With All I Am (Into Your Hands)</title>
+    </titles>
+    <authors>
+      <author type="words">Reuben Morgan</author>
+      <author type="music">Reuben Morgan</author>
+      <author type="translation">Mit aller Kraft (In deine Hand gebe ich mich hin)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Into your hand
+I commit again
+With All I am
+For you lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You hold my world
+In the palm of your hand
+And I'm yours forever</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus I believe in you
+Jesus I belong to you
+You're the reason that I live
+The reason that I sing
+With all I am</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'll walk with you
+Wherever you go
+Through tears and joy
+I'll trust in you</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And I will live
+In all of your ways and
+Your promises forever
+I will worship I will worship you forever</lines>
+    </verse>
+  </lyrics>
+</song>

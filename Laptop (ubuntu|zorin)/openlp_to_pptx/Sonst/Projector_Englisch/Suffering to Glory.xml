@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Suffering to Glory</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’ve been through nights I couldn’t sleep,
+Tears I hid, wounds that ran deep.
+And felt alone, I’ve questioned why,
+Lifted prayers into a silent sky.
+But even when I couldn’t see,
+God was walking next to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>From suffering to glory, He carried me through
+When I was weak, His strength pulled me through.
+The pain had a purpose, the fire made me strong,
+Standing in His promise, where I belong.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It’s not about the rush, the race, or gain,
+Not chasing worth through earthly pain.
+But laying down what holds me tight,
+To follow Jesus, choose what’s right.
+I’ll lose this world to find my soul,
+In Him alone, I’m fully whole.</lines>
+    </verse>
+  </lyrics>
+</song>

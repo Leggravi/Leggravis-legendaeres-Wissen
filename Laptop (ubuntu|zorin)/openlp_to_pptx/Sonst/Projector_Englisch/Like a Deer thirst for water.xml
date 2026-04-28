@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Like a Deer thirst for water</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Like a deer thirst for water
+My soul thirst for you
+Oh my God I thirst for you
+My soul it Thirst for you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As tears cried in anguish
+My heart cries for you
+Oh my God I cry to you
+My heart it cries to you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When my soul is cast down
+There's new hope that I found
+and its you
+I remember the days you delivered me
+Safely through</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Like a well spring of water
+My praise I'll sing to you
+Oh my God I sing to you
+My praise I'll sing to you</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When my soul is cast down
+There's new hope that I found
+and its you
+I remember the days you delivered me
+Safely through</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Does Jesus Care?</title>
+    </titles>
+    <authors>
+      <author type="words">Frank Ellsworth Graeff</author>
+      <author type="music">Joseph Lincoln Hall</author>
+      <author type="translation">Weiß Jesus auch, wenn ein Leid mich trifft?</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Does Jesus care when my heart is pained
+Too deeply for mirth or song,
+As the burdens press,
+And the cares distress,
+And the way grows weary and long?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O yes, He cares, I know He cares,
+His heart is touched with my grief;
+When the days are weary,
+The long night dreary,
+I know my Savior cares.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Does Jesus care when my way is dark
+With a nameless dread and fear?
+As the daylight fades
+Into deep night shades,
+Does He care enough to be near?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Does Jesus care when I've tried and failed
+To resist some temptation strong;
+When for my deep grief
+There is no relief,
+Though my tears flow all the night long?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Does Jesus care when I've said &quot;goodbye&quot;
+To the dearest on earth to me,
+And my sad heart aches
+Till it nearly breaks,
+Is it aught to Him? Does He see?</lines>
+    </verse>
+  </lyrics>
+</song>

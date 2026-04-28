@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Know God Has a Mountain Top for Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The journey's been so long and weary
+And my strength seems gone.
+But in the valley it takes more travel,
+By Grace I'm goin' on.
+For by Faith there is a place than I can almost see,
+I know God has a Mountain-top for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though I've gone through the valley low,
+And Climbed the mountain high
+I've been through the rivers deep,
+Came through the swelling tide
+I know there is a resting place,
+A land of joy and peace
+But I know God has a Mountain-top for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I have wept bitter tears,
+Thought night would never end.
+Had nothing left to hold onto,
+Except my Faith within.
+The adversary promised
+I'd go down in defeat, but all along
+God has a Mountain-top for me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I know there is a resting place,
+A land of joy and peace
+But I know God has a Mountain-top for me.
+For me.</lines>
+    </verse>
+  </lyrics>
+</song>

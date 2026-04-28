@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wider Than the Ocean</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are strength in weakness
+Joy when I am sad
+When this life brings sorrow
+You are there to make me glad,
+You are very answer to every
+question asked,
+You are who I cling to
+When there’s nothing left to grasp.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wider than the ocean, deeper than
+the sea,
+Stronger than the strongest wind,
+That there could ever be,
+Sweeter than any love song,
+Tender as can be Is my Father’s
+love for me (x2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are light in darkness
+Peace in stormy weather,
+When I need to laugh or cry
+You are a faithful friend,
+When my heart is hurting
+You sing me a happy song,
+Near your heart is home to me
+Sweet home where I belong.</lines>
+    </verse>
+  </lyrics>
+</song>

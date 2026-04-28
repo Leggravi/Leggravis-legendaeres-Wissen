@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Keep on the Firing Line</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v4 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If you're in the battle for the Lord and right
+Just keep on the firing line
+If you win the battle, surely you must fight
+(Brother) keep on the firing line
+Oh you must fight be brave against all evil
+Never run, nor even lag behind
+If you would win for God in the right
+Just keep on the firing line</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Keep on the firing line
+Keep on the firing line
+Time is getting short
+Jesus coming soon
+(Brother) keep on the firing line</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There are many dangers everyone must face
+If you die fighting, there is no disgrace
+With the Lord for coward
+You will find no place</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(Brother) keep on the firing line
+keep on the firing line
+Keep on the firing line
+Time is getting short
+Jesus coming soon</lines>
+    </verse>
+    <verse name="v5">
+      <lines>(Brother) keep on the firing line
+God can only use the soldier he can trust
+To keep on the firing line
+If you wear the crown
+Bear the cross you must</lines>
+    </verse>
+  </lyrics>
+</song>

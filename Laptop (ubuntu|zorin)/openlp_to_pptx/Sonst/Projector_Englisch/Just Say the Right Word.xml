@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Just Say the Right Word</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Many years ago a woman named Mary
+received a visit from an angel of the Lord
+she said be it unto me according to thy word,
+she said the right thing and the promise was given to her</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Just say the right word what you asked will be given
+just approach Him with the right attitude.
+Hatty Right said, “that's the truth Brother Branham”
+she said the right word, her sons received eternal life</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Around 900 denominations claim, they are His bride
+they all say that He's coming back for them
+but the showdown is gonna tell who belongs to Him,
+she'll say the right word, the rapture will take her away from here.</lines>
+    </verse>
+  </lyrics>
+</song>

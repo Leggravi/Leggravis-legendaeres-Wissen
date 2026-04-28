@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Back In Eden</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wretched and poor, I once was living,
+Imprisoned by Satan imprisoned
+by death,
+But Christ my Saviour, came down from
+glory
+And changed my poor wretched soul
+And now I am free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Back in Eden, I’ll be free from
+all sin
+I’ll be free from all evil
+I’ll be free from all fears</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tempted and tried
+each moment of life
+All these have not moved me they
+cannot change me
+When in the Spirit I walk
+all day long
+And lean on my Saviour
+who conquered the grave.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus my Lord,
+died long to save you,
+And yet in sin you toil each
+moment of your Life.
+You will answer for it,
+beyond the river,
+When you meet your Maker
+the Spirit you grieve.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Saints and angels
+above are singing
+They’re waiting for us
+beyond the river
+And when we’re raised,
+we’ll join the Lord’s band
+And sing to our Saviour,
+Hallelujah, Amen!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hallelujah Amen!
+Hallelujah Amen!
+Hallelujah, hallelujah,
+Hallelujah, Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

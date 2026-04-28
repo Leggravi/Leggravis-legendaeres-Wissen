@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mention of your name</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Bowater</author>
+      <author type="music">Chris Bowater</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v2 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You're here with the grace of the Saviour
+With the heart of the Father
+You're all we need
+You're here with the hands of the Healer
+With the power of Your Spirit
+You're all we need</lines>
+    </verse>
+    <verse name="v2">
+      <lines>At the mention of Your Name
+Every chain will break
+I know everything will change
+Jesus! just the whisper of Your Name
+Will silence wind and waves
+At the mention of Your Name!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You're here, You're the Provider
+All I've ever needed
+Jesus, You supply
+You're here, with wonder-working power
+Everything You breathe on
+Coming back to life</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are my strength
+You are my anchor
+And You never fail
+You are my hope
+You will deliver
+Emmanuel</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You are my strength
+You are my anchor
+And You never fail
+You are my hope
+You will deliver
+Emmanuel!
+Emmanuel!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Just the mention, oh (of Your Name)
+Just the whisper, oh (I know everything will change)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>You're just a breath away
+(Will silence wind and waves)
+You are (at the mention of Your Name)
+You're just a breath away</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Jesus!</lines>
+    </verse>
+  </lyrics>
+</song>

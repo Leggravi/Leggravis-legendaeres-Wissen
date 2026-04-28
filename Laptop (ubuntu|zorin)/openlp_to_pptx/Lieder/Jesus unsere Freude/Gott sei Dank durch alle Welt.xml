@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:32">
+  <properties>
+    <titles>
+      <title>Gott sei Dank durch alle Welt</title>
+    </titles>
+    <authors>
+      <author type="words">Heinrich Held (1658)</author>
+      <author type="music">Frankfurt</author>
+    </authors>
+    <ccliNo>5208139</ccliNo>
+    <themes>
+      <theme>Advent</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott sei Dank durch alle Welt,
+der sein Wort beständig hält
+und der Sünder Trost und Rat
+zu uns hergesendet hat!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Was der alten Väter Schar
+höchster Wunsch und Sehnen war
+und was sie geprophezeit,
+ist erfüllt in Herrlichkeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zions Hilf und Abrams Lohn,
+Jakobs Heil, der Jungfrau Sohn,
+der wohl zweigestammte Held
+hat sich treulich eingestellt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sei willkommen, o mein Heil!
+Dir Hosianna, o mein Teil!
+Richte du auch eine Bahn
+dir in meinem Herzen an.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zeuch du Ehrenkönig ein;
+es gehöret dir allein.
+Mach es, wie du gerne tust,
+rein von allem Sündenwust.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tritt der Schlange Kopf entzwei,
+dass ich, aller Ängste frei,
+dir im Glauben um und an
+selig bleibe zugetan,</lines>
+    </verse>
+    <verse name="v7">
+      <lines>dass, wenn du, o Lebensfürst,
+prächtig wiederkommen wirst,
+ich dir mög entgegengehn
+und vor dir gerecht bestehn.</lines>
+    </verse>
+  </lyrics>
+</song>

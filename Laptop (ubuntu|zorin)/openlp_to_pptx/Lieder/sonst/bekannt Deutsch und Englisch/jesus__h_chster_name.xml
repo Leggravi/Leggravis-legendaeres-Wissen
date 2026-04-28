@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 19, 2020, 9:51:36 PM">
+  <properties>
+    <titles>
+      <title>Jesus, höchster Name</title>
+    </titles>
+    <verseOrder>V1 V2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Jesus, höchster Name
+Teurer Erlöser, siegreicher Herr
+Immanuel, Gott ist mit uns
+Herrlicher Heiland, lebendiges Wort</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Er ist der Friedefürst und der allmächtge Gott
+Ratgeber wunderbar, ewiger Vater
+Und die Herrschaft ruht auf seinen Schultern
+Und seines Friedensreichs wird kein Ende sein</lines>
+    </verse>
+  </lyrics>
+</song>

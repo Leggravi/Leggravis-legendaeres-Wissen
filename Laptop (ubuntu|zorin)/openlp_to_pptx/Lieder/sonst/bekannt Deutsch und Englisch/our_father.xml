@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Mar 30, 2025, 8:24:36 AM">
+  <properties>
+    <titles>
+      <title>Our Father</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2 V5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Hear our prayer
+We are Your children
+And we've gathered here today,
+We're gathered here to pray
+Hear our cry
+Lord, we need Your mercy
+And we need Your grace today,
+Hear us as we pray</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Our Father, who art in Heaven
+Hallowed be thy name
+Our Father, hear us from Heaven
+Forgive our sins we pray</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Hear our song
+As it rises to Heaven
+May Your glory fill the earth
+As the waters cover the seas
+See our hearts
+And remove anything
+That is standing in the way
+Of coming to You today</lines>
+    </verse>
+    <verse name="V4">
+      <lines>And though we are few
+We're surrounded by many
+Who have crossed that river before
+And this is the song we'll be singing forever
+Holy is the Lord</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Holy is the Lord
+Holy is the Lord
+Holy is the Lord
+Holy is the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

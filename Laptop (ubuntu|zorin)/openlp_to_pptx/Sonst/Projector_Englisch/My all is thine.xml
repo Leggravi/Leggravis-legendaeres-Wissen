@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My all is thine</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What gift have I, dear Lord, to give thee?
+What shall I set before thy throne?
+Thou art the giver of every treasure
+I can but offer thee thine own</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take thou my song and I will praise thee
+Teach me to sing for thy delight
+Let every echo tell of thy glory
+Take thou my song; my song is thine</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Take thou my heart, oh how I love thee
+For thou art just, thou art kind
+Let my devotion bear witness of thee
+Take thou my heart; my heart is thine</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Take thou my soul, for thou hast bought me
+With countless tears, with love divine
+My debt is purchased by thy tender mercy
+Take thou my soul; my soul is thine</lines>
+    </verse>
+    <verse name="v5">
+      <lines>All that I am I freely offer
+Withholding nothing that is mine
+I place my heart, my song, my soul upon the altar
+Oh Savior, take my all; my all is thine</lines>
+    </verse>
+  </lyrics>
+</song>

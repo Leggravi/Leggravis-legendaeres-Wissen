@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>A Better Yes</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v2 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lately, I've had a thousand closing doors
+That made me have to trust You even more
+Gotta just wait, gotta have faith
+He's got something good in store</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And every no means You've got a better yes
+Every &quot;not now&quot; gets me closer to its best
+Believe and You'll be leading me to somewhere I'll be blessed
+Every no means You've got a better yes</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh-oh-oh-oh, oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh, oh-oh-oh-oh-oh-oh</lines>
+    </verse>
+    <verse name="v4">
+      <lines>One thing I've learned; gotta live with open hands (live with open hands)
+Lifting offering of all my hopes and plans
+It can be hard, even break my heart
+But I've come to understand</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Every no means You've got a better yes
+Every &quot;not now&quot; gets me closer to its best
+Believe and You'll be leading me to somewhere I'll be blessed
+Every no means You've got a better yes</lines>
+    </verse>
+    <verse name="v6">
+      <lines>All I want is what You want for me
+You will meet my each and every need
+And I am sure of Your great love for me
+Every no means You've got a better yes</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Oh-oh-oh-oh, oh-oh-oh-oh-oh-oh (You've got a better yes)
+Oh-oh-oh-oh, oh-oh-oh-oh-oh-oh</lines>
+    </verse>
+  </lyrics>
+</song>

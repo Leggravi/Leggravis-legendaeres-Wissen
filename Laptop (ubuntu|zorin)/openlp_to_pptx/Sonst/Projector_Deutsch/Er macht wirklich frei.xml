@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Er macht wirklich frei</title>
+    </titles>
+    <authors>
+      <author type="words">Arne Kopfermann</author>
+      <author type="music">Arne Kopfermann</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wenn der Sohn des höchsten
+Einmal frei gemacht hat,
+Der ist wirklich frei.
+Jesus ist der Weg zum Licht
+Und wer seine Hand ergreift,
+Bleibt nicht länger in der Dunkelheit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er macht wirklich frei
+Er macht wirklich frei
+Er macht frei
+Er macht wirklich frei</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn wir von uns sagen,
+Keine Schuld zu haben,
+So betrügen wir uns selbst.
+Kehren wir um und stehen im Licht,
+Freiheit, die sein Wort verspricht,
+Schenkt er Kraft für einen Neubeginn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wenn Gott für uns ist,
+Wer kann gegen uns sein,
+Er hat seinen eigenen Sohn nicht verschont,
+Wer will uns trennen von der Liebe unseres Herrn
+Sein Versprechen gilt in alle Ewigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

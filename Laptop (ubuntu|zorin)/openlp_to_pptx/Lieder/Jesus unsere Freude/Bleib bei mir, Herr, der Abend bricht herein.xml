@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:58">
+  <properties>
+    <titles>
+      <title>Bleib bei mir, Herr, der Abend bricht herein</title>
+    </titles>
+    <authors>
+      <author type="words">Theodor Werner (1952)</author>
+      <author type="music">Abide With Me (Eventide)</author>
+    </authors>
+    <themes>
+      <theme>Abendlieder</theme>
+      <theme>Schlaflieder</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bleib bei mir, Herr! Der Abend bricht herein.
+Es kommt die Nacht, die Finsternis fällt ein.
+Wo fänd ich Trost, wärst du mein Gott nicht hier?
+Hilf dem, der hilflos ist: Herr, bleib bei mir!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wie bald verebbt der Tag, das Leben weicht,
+die Lust verglimmt, der Erdenruhm verbleicht;
+umringt von Fall und Wandel leben wir.
+Unwandelbar bist du: Herr, bleib bei mir!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich brauch zu jeder Stund dein Nahesein,
+denn des Versuchers Macht brichst du allein.
+Wer hilft mir sonst, wenn ich den Halt verlier?
+In Licht und Dunkelheit, Herr, bleib bei mir!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Von deiner Hand geführt, fürcht ich kein Leid,
+kein Unglück, keiner Trübsal Bitterkeit.
+Was ist der Tod, bist du mir Schild und Zier?
+Den Stachel nimmst du ihm: Herr, bleib bei mir!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Halt mir dein Kreuz vor, wenn mein Auge bricht;
+im Todesdunkel bleibe du mein Licht.
+Es tagt, die Schatten fliehn, ich geh zu dir.
+Im Leben und im Tod, Herr, bleib bei mir!</lines>
+    </verse>
+  </lyrics>
+</song>

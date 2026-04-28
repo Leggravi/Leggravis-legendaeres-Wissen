@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Are Welcome</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are welcome
+More than welcome
+Holy Spirit come and fills this place</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are welcome
+More than welcome
+To abide in this temple
+To reside in this place</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We are gathering together
+To worship at your throne
+To exalt the Name of Jesus
+To worship Him alone</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He is worthy of our praises
+So we lift our voices high
+Spirit come, fill this place</lines>
+    </verse>
+  </lyrics>
+</song>

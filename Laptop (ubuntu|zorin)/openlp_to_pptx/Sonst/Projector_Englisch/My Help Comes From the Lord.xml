@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Help Comes From the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Clayton</author>
+      <author type="music">Chris Clayton</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v2 v3 v3 v4 v4 v5 v6 v7 v4 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will lift up mine eyes to the hills
+From whence cometh my help,
+My help cometh from the Lord,
+The Lord, which made heaven and earth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He said, He would not suffer thy foot,
+Thy foot to be moved,
+The Lord that keepeth thee,
+He will not slumber nor sleep.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, the Lord is thy keeper the Lord is thy shade,
+Upon thy right hand, upon thy right hand,
+No the sun shall not smite thee by day,
+Nor the moon by night
+He shall preserve thy soul, even forevermore,
+My help, my help, my help,
+All of my help cometh from the Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My help, my help, my help,
+All of my help cometh from the Lord.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lift up mine eyes unto the hills,
+All of my help cometh from the Lord.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I will lift up mine eyes unto the hills,
+From whence cometh my help,
+All of my help cometh from the Lord.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Gonna keep my eyes on You Lord,
+I won't look to the left, I won't look to right,
+I'll stay focused on You Jesus,
+All of my help cometh from the Lord.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>I lift up my eyes,
+I look to the hills (He is my strength),
+All of my help cometh from the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

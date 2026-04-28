@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Learning To Lean</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Learning to lean,
+I'm learning to lean,
+I'm learning to lean on Jesus;
+I'm gaining more power than I've ever seen
+I'm learning to lean on Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sad, broken hearted,
+At an altar I knelt.
+I found peace that is so serene.
+And all that He asks
+Is a child like trust
+And a heart that is
+Learning to lean.</lines>
+    </verse>
+  </lyrics>
+</song>

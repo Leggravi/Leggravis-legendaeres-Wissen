@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I stand Redeemed</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I think of all my faults and my failures
+When I consider all the times I've let God down
+I am humbled by the grace He has extended
+I'm amazed at the mercy I have found</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I could never earn His love on my own
+Yet every time I come before His throne</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I stand redeemed by the blood of the lamb
+I stand redeemed before the great I am
+When He looks at me, He sees the nail pierced hands
+That bought my liberty I stand redeemed</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Even at my best I am unworthy
+I have nothing precious I can give
+A broken life is all I have to offer
+And yet its a priceless gift to Him</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The bitter mark of sin will never fade away
+But I can come before; Him unashamed</lines>
+    </verse>
+  </lyrics>
+</song>

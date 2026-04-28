@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich bin nicht wert all Deiner Treue</title>
+    </titles>
+    <authors>
+      <author type="words">Johannes Warns</author>
+      <author type="music">Georg Neumark</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich bin nicht wert all Deiner Treue,
+Du treuer Gott, mein höchstes Gut.
+Du offenbarst sie stets aufs neue
+und hältst mich fest in Deiner Hut.
+Ja, was ich habe, was ich bin,
+|: das weist auf Deine Treue hin. : |</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich bin nicht wert all Deiner Liebe,
+der Du mich je und je geliebt.
+Du gabst Dich hin aus freiem Triebe
+und wurdest bis zum Tod betrübt.
+Herr Jesus, reines Opferlamm,
+|: Du starbst für mich am Kreuzesstamm!: |</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich bin nicht wert all Deiner Gnade,
+die unerschöpflich wie das Meer.
+Du leitest mich auf rechtem Pfade,
+und würd' es finster um mich her:
+Herr, Deine Gnade mir genügt,
+|: mein Herz sich gern in alles fügt!: |</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du bist es wert, dass ich Dich preise,
+Du, großer Gott, in Ewigkeit.
+Noch bin ich auf der Pilgerreise,
+doch ist die Heimat nicht mehr weit.
+Dort lobt und preist Dich immerdar
+|: der Deinen auserwählte Schar. : |</lines>
+    </verse>
+  </lyrics>
+</song>

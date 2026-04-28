@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Have Given You Authority</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have given you authority
+To trample on snakes and scorpions
+And to overcome
+All the power of the enemy (Oh, to overcome)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nothing will harm you (Nothing)
+Nothing will harm you
+Nothing will harm you
+Nothing will harm you (Nothing)
+Nothing will harm you</lines>
+    </verse>
+  </lyrics>
+</song>

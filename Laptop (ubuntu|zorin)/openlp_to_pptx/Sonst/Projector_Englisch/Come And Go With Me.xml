@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come And Go With Me</title>
+    </titles>
+    <authors>
+      <author type="words">Spiritual</author>
+      <author type="music">Spiritual</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come and go with me
+To my Father's House,
+To my Father's House,
+To my Father's House.
+Come and go with me,
+To my Father's House,
+Where There's peace, peace, peace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus will be there
+In my Father's House
+In my Father's House,
+In my Father's House.
+Jesus will be there
+In my Father's House,
+Where there's peace, peace, peace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There'll be no sorrow there
+In my Father's House,
+In my Father's House,
+In my Father's House.
+There'll be no sorrow there
+In my Father's House.
+There'll be joy, real joy.</lines>
+    </verse>
+  </lyrics>
+</song>

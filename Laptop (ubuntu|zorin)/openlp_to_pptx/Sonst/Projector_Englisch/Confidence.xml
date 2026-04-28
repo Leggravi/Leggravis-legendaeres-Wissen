@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Confidence</title>
+    </titles>
+    <authors>
+      <author type="words">Andraé Crouch</author>
+      <author type="music">Andraé Crouch</author>
+      <author type="translation">Seltsam ist mein Leben oft</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm not a warrior, I'm too afraid to lose
+I feel unqualified for what you're callin' me to
+But Lord with your strength, I've got no excuse
+'Cause broken people are exactly who you use</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So give me faith like Daniel in the lion's den
+Give me hope like Moses in the wilderness
+Give me a heart like David, Lord be my defense
+So I can face my giants with confidence</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You took a shepherd boy and made him a King
+So I'm gonna trust you and give you everything
+I'll be a conqueror 'cause you fight for me
+I'll be a champion claiming your victory</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'm gonna sing and shout and shake the walls
+I won't stop until I see 'em fall
+Gonna stand up, step out when you call
+Jesus, Jesus
+I'm gonna sing and shout and shake the walls
+I won't stop until I see 'em fall
+Gonna stand up, step out when you call
+Jesus</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Give me faith like Daniel in the lion's den
+Give me hope like Moses in the wilderness
+Give me a heart like David, Lord be my defense
+So I can face my giants with confidence, yeah</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Give me faith like Daniel in the lion's den
+Give me hope like Moses in the wilderness
+Give me a heart like David, Lord be my defense
+So I can face my giants with confidence</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I'll face my giants with confidence</lines>
+    </verse>
+  </lyrics>
+</song>

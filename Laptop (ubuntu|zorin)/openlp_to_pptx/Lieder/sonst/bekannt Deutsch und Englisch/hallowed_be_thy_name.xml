@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 10, 2019, 10:16:18 PM">
+  <properties>
+    <titles>
+      <title>Hallowed Be Thy Name</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="C1">
+      <lines>Hallowed be Thy name,
+Jehovah God You reign
+And You will never change,
+ O Lord,
+forever You're the same.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Jehovah Jireh,
+You supply my every need.
+Jehovah Rapha,
+Perfect health You give to me.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Jehovah Shalom,
+You're the one who gives
+ me peace.
+Jehovah-Rohi
+My faithful Shepherd leading me</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Jehovah-M-Kaddesh
+You’re the One
+who makes me clean
+Jehovah-Tsidkenu
+Imparting righteousness to me</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Jehovah-Nissi
+Lord, You reign in victory
+Jehovah-Shammah
+You are always there for me</lines>
+    </verse>
+  </lyrics>
+</song>

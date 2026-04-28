@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Know Where the Spirit of the Lord Is</title>
+    </titles>
+    <authors>
+      <author type="words">Christy Nockels</author>
+      <author type="music">Christy Nockels</author>
+      <author type="translation">Wo die Gegenwart des Herrn ist</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v1 v6 v7 v5 v1 v6 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We know where the Spirit of the Lord is
+Where the Spirit of the Lord is
+There is liberty
+We know living in your freedom
+Living in your freedom, see your glory
+We know where the Spirit of the Lord is
+Where the Spirit of the Lord is
+There is liberty</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We're yours, yours is the kingdom
+We're yours, yours is the kingdom</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are the fire through the night
+You are the flame that burns inside
+We need your presence more than anything</lines>
+    </verse>
+    <verse name="v4">
+      <lines>More than just a song to sing
+More than words or offerings
+We need your presence more than anything</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You're all that we want
+You're all that we need
+You're all that we want
+You're all that we need</lines>
+    </verse>
+    <verse name="v6">
+      <lines>We're yours, yours is the kingdom
+We're yours, yours is the kingdom
+Yours is the kingdom</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Call us closer to your heart
+Lead us Lord to where you are
+We need your presence more than anything</lines>
+    </verse>
+  </lyrics>
+</song>

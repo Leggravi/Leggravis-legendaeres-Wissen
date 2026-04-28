@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He's Ready to Come, I'm Ready to Go</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've seen all this world
+I want to see
+Things I'm hearing
+got no change in me
+I'm not worried about
+the future because I know
+He's ready to come and I'm ready to go</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It seems like everybody's
+talking about heaven
+If you wanna go along
+you better be believing
+I've got a feeling,
+someday soon we'll be leaving
+If you wanna have the strength
+you better not be slow
+He's ready to come are you ready to go?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sometimes it seems
+that everything goes wrong
+I just sit around and cry,
+sing more sad songs
+Then He whispers in my ears
+and lets me know
+He's ready to come, and I'm ready to go.</lines>
+    </verse>
+  </lyrics>
+</song>

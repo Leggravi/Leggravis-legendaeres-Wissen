@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wie ein Strom von oben</title>
+    </titles>
+    <authors>
+      <author type="words">Annie von Wethern-Viebahn</author>
+      <author type="music">James Mountain</author>
+      <author type="translation">Like a river, glorious (Stayed upon Jehovah)</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wie ein Strom von oben aus der Herrlichkeit
+fließt der Friede Gottes durch das Land der Zeit.
+Tiefer, reicher, klarer strömt er Tag und Nacht
+mit unwiderstehlich wunderbarer Macht.
+Friede meines Gottes, stille, tiefe Ruh',
+alle meine Sorgen, alles deckst Du zu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Strömt der Friede Gottes über mich dahin,
+müssen alle finstern Mächte von mir fliehn.
+Seine Fluten tragen Hast und Sorgen fort,
+Friede meines Gottes, sel'ger Ruheort!
+Friede meines Gottes, stille, tiefe Ruh',
+alle meine Sorgen, alles deckst Du zu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wechselt auch hienieden Licht mit Schatten ab,
+strahlt doch meine Sonne warm auf mich herab.
+Wunderbar getragen von der Friedensflut
+sing ich froh dem Ew'gen: Herr, wie hab ich's gut!
+In Dir ist verborgen stille, tiefe Ruh',
+alle meine Sorgen, alles deckst Du zu.</lines>
+    </verse>
+  </lyrics>
+</song>

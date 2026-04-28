@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ewiger Vater</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ewiger Vater, Herrscher und König,
+Ewiger Vater, Schöpfer der ganzen Welt, allmächtiger Gott.
+Du bist der Heilige, voll kommen Reine,
+Herr über alles und doch nennst Du mich „Freund“.</lines>
+    </verse>
+  </lyrics>
+</song>

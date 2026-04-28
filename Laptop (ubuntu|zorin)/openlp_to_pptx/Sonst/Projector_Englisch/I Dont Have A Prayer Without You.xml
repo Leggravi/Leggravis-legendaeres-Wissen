@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Don't Have A Prayer Without You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sometimes I feel like there's no way out
+My heart begins to doubt
+Your amazing grace
+But I know that Your word is true
+You have somehow
+Always seen me through
+Through my darkest days</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I don't have a prayer without You
+I don't have a chance without You
+Lord, I need you here tonight
+Would You please hold me tight
+Make my heart true
+I don't have a prayer without You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sometimes life feels like a ball and chain
+And I become a slave to a memory
+But I know that You've forgiven me
+You gave Your life at Calvary
+Just to set me free!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord, you're everything I need
+just take what's left of me
+Make me what I ought to be
+So You can use me
+Lord, don't You see</lines>
+    </verse>
+  </lyrics>
+</song>

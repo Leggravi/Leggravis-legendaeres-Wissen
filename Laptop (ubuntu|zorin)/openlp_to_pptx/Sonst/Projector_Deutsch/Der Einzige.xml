@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Der Einzige</title>
+    </titles>
+    <authors>
+      <author type="words">Molly Deatherage</author>
+      <author type="music">Molly Deatherage</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heilig bist Du, Herr
+Du bist heilig, Herr
+Du sitzt auf dem Thron
+Zu Deinen Füßen fühl ich mich wohl
+Kniend vor Deinem Thron</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Staunend singe ich zu Dir:
+Du bist heilig
+Deine Herrlichkeit strahlt so schön
+Mein Blick hebt sich zu Dir und sieht:
+Du bist heilig
+Deine Schönheit wird nie vergehen</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Würdig bist Du, Herr
+Du bist würdig, Herr
+Du sitzt auf dem Thron
+Für alle Zeiten bleibst Du mein Gott
+Herrschend auf Deinem Thron</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du bist der Einzige,
+Dem dieses Lob gehört,
+Heilig bist Du</lines>
+    </verse>
+  </lyrics>
+</song>

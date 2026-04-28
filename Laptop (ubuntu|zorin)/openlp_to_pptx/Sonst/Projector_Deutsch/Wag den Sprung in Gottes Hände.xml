@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wag den Sprung in Gottes Hände</title>
+    </titles>
+    <authors>
+      <author type="words">Werner Arthur Hoffmann</author>
+      <author type="music">Werner Arthur Hoffmann</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wag den Sprung in Gottes Hände,
+lass dich fallen wie ein Kind!
+Du sollst wissen, dass am Ende
+nur, wer Gott vertraut, gewinnt.
+Wenn du dich auf ihn verlässt,
+hält er dich für immer fest.
+Wag den Sprung in Gottes Hände,
+lass dich fallen wie ein Kind!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niemand soll verloren gehen,
+alle sind von Gott geliebt.
+Bleib nicht länger zweifelnd stehen,
+weil es Rettung für dich gibt.
+Nimm es jetzt im Glauben an,
+was der Herr für dich getan.
+Niemand soll verloren gehen,
+alle sind von Gott geliebt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Komm und nimm aus Gottes Händen
+jetzt das neue Leben an!
+Jesus will dein Schicksal wenden,
+er hat für dich einen Plan.
+Schlage seine Hand nicht aus,
+geh zurück zum Vaterhaus.
+Komm und nimm aus Gottes Händen
+jetzt das neue Leben an!</lines>
+    </verse>
+  </lyrics>
+</song>

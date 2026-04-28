@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God's Been Good in My Life</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lately I've been looking back
+along this winding road
+To the old familiar markers
+of the mercies I have known
+I know it may sound simple,
+but it's more than a cliche
+There's no better way to tell you
+than to say:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God's been good in my life
+I feel blessed beyond my wildest dreams
+When I go to sleep each night
+And though I've had my share of hard times,
+I wouldn't change them if I could
+'Cause through it all, God's been good.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Times replay, and I can see
+that I've cried some bitter tears
+But I've felt His arms around me
+as I've faced my greatest fears
+You see, I've had more gains than losses,
+and I've known more joy than hurt
+As His grace rolled down upon me undeserved.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For God has been my Father,
+my Savior, and my Friend
+His love was my beginning
+and His love will be my end.
+I could spend forever trying
+to tell you everything He is,
+But the best way I can say it is this:</lines>
+    </verse>
+  </lyrics>
+</song>

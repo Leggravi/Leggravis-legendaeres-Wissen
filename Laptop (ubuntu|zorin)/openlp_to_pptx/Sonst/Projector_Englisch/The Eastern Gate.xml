@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Eastern Gate</title>
+    </titles>
+    <authors>
+      <author type="words">Isaiah G. Martin</author>
+      <author type="music">Isaiah G. Martin</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will meet you in the morning,
+Just inside the Eastern Gate,
+Then be ready, faithful pilgrim,
+lest with you it be too late.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will meet you, I will meet you
+Just inside the Eastern Gate over there;
+I will meet you, I will meet you,
+I will meet you in the morning over there.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If you hasten off to glory,
+Linger hear the Eastern Gate,
+For I'm coming in the morning,
+So you'll not have long to wait.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Keep your lamps all trimmed and burning,
+For the Bridegroom watch and wait,
+He'll be with us at the meeting,
+Just inside the Eastern gate.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O the joys of that glad meeting
+With the saints who for us wait,
+What a blessed, happy meeting,
+Just inside the Eastern Gate.</lines>
+    </verse>
+  </lyrics>
+</song>

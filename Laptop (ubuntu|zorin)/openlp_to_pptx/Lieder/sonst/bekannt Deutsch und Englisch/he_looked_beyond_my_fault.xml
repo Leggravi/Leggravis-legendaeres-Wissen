@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Aug 15, 2025, 3:40:38 PM">
+  <properties>
+    <titles>
+      <title>He Looked Beyond My Fault</title>
+    </titles>
+    <verseOrder>V1 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Amazing grace shall always be my song of praise
+For it was grace that bought my liberty
+I do not know just why He came to love me so
+He looked beyond my fault and saw my need</lines>
+    </verse>
+    <verse name="C2">
+      <lines>I shall forever lift mine eyes to Calvary
+To view the cross where Jesus died for me
+How marvellous the grace that caught my falling soul
+He looked beyond my fault and saw my need</lines>
+    </verse>
+  </lyrics>
+</song>

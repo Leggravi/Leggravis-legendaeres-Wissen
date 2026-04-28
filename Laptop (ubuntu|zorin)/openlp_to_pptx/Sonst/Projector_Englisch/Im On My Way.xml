@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm On My Way</title>
+    </titles>
+    <authors>
+      <author type="words">Spiritual</author>
+      <author type="music">Spiritual</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm on my way to Canaan's Land
+I'm on my way to Canaan's Land
+I'm on my way to Canaan's Land
+I'm on my way Praise the Lord I'm on my way</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If you won't go don't you hinder me
+If you won't go don't you hinder me
+If you won't go don't you hinder me
+I'm on my way Praise the Lord I'm on my way</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Salvation is free why don't you come
+Salvation is free why don't you come
+Salvation is free why don't you come
+I'm on my way Praise the Lord I'm on my way</lines>
+    </verse>
+  </lyrics>
+</song>

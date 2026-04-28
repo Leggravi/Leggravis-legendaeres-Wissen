@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Is The Evening Time</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is the evening time,
+It's later than you think.
+The Bride is preparing now
+For her Lord to meet.
+All things are ready now.
+The Bridegroom I hear.
+He that hath an ear to hear,
+The evening time is here.</lines>
+    </verse>
+  </lyrics>
+</song>

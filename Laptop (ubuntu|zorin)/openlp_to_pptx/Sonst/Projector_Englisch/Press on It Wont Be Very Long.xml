@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Press on It Won't Be Very Long</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is glory in my soul
+Since Jesus took control,
+He placed within my heart
+A happy song:
+The joybells sweetly sing,
+While I Have His love I sing.
+Press on,
+It won't be very long.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Press on, it won't be very long, (not long)
+Until we reach that land of song,
+In heaven some sweet day,
+I'm going there to stay.
+Press on
+It won't be very long.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He fills my way with cheer,
+With Him I have no fear,
+He guides my weary steps
+Along the way. ;
+I'm glad He promised me
+A mansion full and free
+Press on
+It won't be very long.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In heaven I am told
+The streets are purest gold,
+O, what a lovely place to make my home,
+United there will be
+Will shout the victory,
+Press On it wont be very long.</lines>
+    </verse>
+  </lyrics>
+</song>

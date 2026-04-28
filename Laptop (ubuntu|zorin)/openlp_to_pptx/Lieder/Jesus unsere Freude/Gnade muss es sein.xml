@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:09">
+  <properties>
+    <titles>
+      <title>Gnade muss es sein</title>
+    </titles>
+    <authors>
+      <author type="words">Friedrich Hermann Krüger (1900)</author>
+      <author type="music">Seelenbräutigam, Jesus, Gotteslamm!</author>
+    </authors>
+    <ccliNo>5787746</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gnade muss es sein, Gnade ganz allein!
+Alles andre geht in Stücke,
+ist nur eine schlechte Krücke,
+Gnade hält allein, Gnade muss es sein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aller eigne Wert nur den Hochmut nährt.
+Alles, was ich selbst erworben,
+hat die Sünde ganz verdorben.
+Gnade muss es sein, Gnade ganz allein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn zu herb der Schmerz, und schier bricht das Herz,
+wenn im Tal es düster dunkelt,
+schau ich auf; trotz allem funkelt
+mir der Gnade Schein; Gnade muss es sein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Also Gnad allein, Gnade muss es sein,
+Gnad zum Bleiben, Gnad zum Gehen, Gnad,
+getrost beim Herrn zu stehen,
+nichts als Gnad allein. Gnade muss es sein.</lines>
+    </verse>
+  </lyrics>
+</song>

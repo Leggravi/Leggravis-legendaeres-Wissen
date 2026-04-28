@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We have Overcome</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v4 v3 v5 v4 v6 v3 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thanks be to God, who always causes us to triumph in His name.
+Thanks be to God, who always causes us to win. (Yeah!)
+Thanks be to God, who always causes us to triumph in His name.
+Thanks be to God!
+Thanks be to God!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We have overcome.
+Hallelujah! Hallelujah!
+We have overcome.
+By the power of Your name.
+Jesus, You're the One.
+Hallelujah! Hallelujah!
+The One who made a way for us.
+To triumph in His name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh whoa!
+Oh whoa!
+Oh whoa!
+Oh whoa!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We have overcome.
+Hallelujah! Hallelujah!
+We have overcome.
+By the power of Your name.
+Jesus You're the One.
+Hallelujah! Hallelujah!
+The One who made a way for us.
+Who made a way for us.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We've got the victory!
+Everything would be alright, alright!
+We've got the victory!
+Everything would be alright.
+Cause we're on the winning side.
+We're on the winning side!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>The One who made a way for us.
+To triumph in Your name.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>We have overcome!</lines>
+    </verse>
+  </lyrics>
+</song>

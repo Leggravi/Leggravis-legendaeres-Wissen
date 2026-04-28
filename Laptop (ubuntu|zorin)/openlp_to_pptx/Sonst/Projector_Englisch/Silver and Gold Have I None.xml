@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Silver and Gold Have I None</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Silver and gold have I none,
+Such as I have, I give it unto you.</lines>
+    </verse>
+  </lyrics>
+</song>

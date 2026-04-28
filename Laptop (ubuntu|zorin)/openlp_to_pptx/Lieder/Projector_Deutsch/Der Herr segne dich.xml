@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Der Herr segne dich</title>
+    </titles>
+    <authors>
+      <author type="words">Andreas Claus</author>
+      <author type="music">David Plüss</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Der Herr segne Dich, behüte Dich,
+Lasse sein Angesicht leuchten über Dir
+Und der Herr sei Dir gnädig.
+Er erhebe sein Angesicht über Dich
+Und erfülle Dein Herz mit seinem Licht,
+Tiefer Friede begleite Dich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Der Herr segne Dich, behüte Dich,
+Lasse sein Angesicht leuchten über Dir
+Und der Herr sei Dir gnädig.
+Ob Du ausgehst oder heimkommst,
+Ob Du wach bist oder schläfst,
+Sei gesegnet und gestärkt durch seinen Geist.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Der Herr segne Dich, behüte Dich,
+Lasse sein Angesicht leuchten über Dir
+Und der Herr sei Dir gnädig.
+Ob Du in das Tal hinabschaust,
+Oder Berge vor Dir steh'n,
+Mögest Du den nächsten Schritt in seinem Segen geh'n.</lines>
+    </verse>
+  </lyrics>
+</song>

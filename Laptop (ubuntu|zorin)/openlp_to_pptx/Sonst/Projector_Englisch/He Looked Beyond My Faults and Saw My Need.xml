@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Looked Beyond My Faults and Saw My Need</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amazing grace shall always be
+My song of praise
+For it was grace
+That bought my liberty
+I do not know
+Just how He came to love me so
+He looked beyond my faults
+And saw my need</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I shall forever
+Lift my eyes to Calvary
+To view the Cross
+Where my Jesus died for me
+How marvelous
+The grace that caught
+My falling soul
+He looked beyond
+My faults and saw my need</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amazing grace that saved me
+from that sin and shame
+To draw me close
+and keep me by His side
+Forever I'll sing all praise
+all glory to His name
+If not for Him I surely
+would have died</lines>
+    </verse>
+    <verse name="v4">
+      <lines>How sweet it is to walk
+with Him in this narrow way
+For now I see the light
+of glory gleam
+Soon I shall see His lovely face
+and He will say
+Well done my child,
+come in enthrone with me</lines>
+    </verse>
+  </lyrics>
+</song>

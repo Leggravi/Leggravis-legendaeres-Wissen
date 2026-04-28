@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Great Emancipator</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Once my heart and soul were fettered
+By the binding chains of sin.
+But the Great Emancipator
+Set me free to worship Him.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glory, glory, hallelujah,
+Blessed be His Holy Name!
+He's the Great Emancipator,
+That's the song of the Redeemed!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Like a lost lamb I was drifting
+Oh so helpless and alone,
+But the seeking Shepherd found me,
+Led me to my Father's home.</lines>
+    </verse>
+  </lyrics>
+</song>

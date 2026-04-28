@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Auferstanden</title>
+    </titles>
+    <authors>
+      <author type="words">Oliver Krauss</author>
+      <author type="music">Oliver Krauss</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Auferstanden, auferstanden, Auferstanden, Jesus Christus lebt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Als am Kreuze er verstummte, blutend und von Schmerz geplagt,
+blieb er sterbend doch der Sieger, so, wie er vorausgesagt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Doch Gott wollte nicht, dass Jesus dort im Grab verwesend liegt.
+Auferstanden ist das Leben, Satan's Macht wurde besiegt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gäb' es keine Auferstehung, wäre alles ganz egal.
+Aber Jesus ist lebendig! Unsre Hoffnung ist real.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wenn er wiederkommt vom Himmel, werden alle ihn dann sehn.
+Und wenn diePosaunen klingen, werden wir auch auferstehn.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ewig dürfen wir dann leben, sehen ihn von Angesicht,
+immer preisen seine Liebe, leben ganz in seinem Licht.</lines>
+    </verse>
+  </lyrics>
+</song>

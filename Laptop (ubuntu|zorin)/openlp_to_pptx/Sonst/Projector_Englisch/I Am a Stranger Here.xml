@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Am a Stranger Here</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am a stranger here,
+within a foreign land,
+My home is far away upon the
+golden strand
+Ambassador to be of realms
+beyond the sea
+I am here on business
+for my King.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This Is the message that I bring,
+A message angels for would sing,
+Oh be ye reconciled, thus saith
+my Lord and King
+Be ye reconciled to God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This is the King’s command,
+that all men everywhere
+Repent and turn away
+from sin seductive snare
+That all who will obey with
+Him shall reign on high
+And that’s my business
+for my King.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My home is bright and fair than
+Sharon’s rosy plains
+Eternal life and joy throughout
+it's vast domain,
+My sovereign bids me tell
+how mortals there may dwell
+And that’s my business
+for my King.</lines>
+    </verse>
+  </lyrics>
+</song>

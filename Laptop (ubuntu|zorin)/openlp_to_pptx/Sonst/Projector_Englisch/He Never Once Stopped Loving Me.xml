@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Never Once Stopped Loving Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’ve lived my life, full of sin and sadness
+Just as sinful as any sinner could ever be
+But through it all He stood by waiting, for me
+And He never once stopped loving me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As He hang there on the rugged cross at Calvary
+Ten thousand Angels would have come and set Him free
+Oh but He chose to bleed and die for my salvation
+And He never once stopped loving me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Many years ago I heard my Saviour calling
+But my foolish heart refused His tender plea
+The dearest Friend I’ve ever known
+never gave up on me
+And He never once stopped loving me</lines>
+    </verse>
+  </lyrics>
+</song>

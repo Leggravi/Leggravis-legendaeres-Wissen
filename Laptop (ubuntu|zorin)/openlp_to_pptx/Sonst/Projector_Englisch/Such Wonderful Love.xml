@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Such Wonderful Love</title>
+    </titles>
+    <authors>
+      <author type="words">Jesse Reeves</author>
+      <author type="music">Jesse Reeves</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh the right road I’ve travelled
+Since Jesus came in
+Took away all my sins,
+He gladly bore the shame
+When they nailed Him to the cross
+He never counted the cost
+Praise the Lord, Hallelujah
+Oh that love He had for us.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Such love, such wonderful love,
+I was lost, condemned to die,
+When He reached down His
+hand for me
+He took my place at Calvary.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When they stood all around Him,
+And accused Him of sin,
+They mocked Him and smote Him
+And cursed His holy Name.
+Yet He stood there like a lamb
+Not one word to defend;
+Praise the Lord, Hallelujah,
+All glory to the Lamb.</lines>
+    </verse>
+  </lyrics>
+</song>

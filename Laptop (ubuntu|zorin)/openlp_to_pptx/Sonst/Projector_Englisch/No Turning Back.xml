@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>No Turning Back</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have decided to follow Jesus.
+I have decided to follow Jesus.
+I have decided to follow Jesus.
+No turning back, no turning back.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The cross before me,
+The world behind me.
+The cross before me,
+The world behind me.
+The cross before me,
+The world behind me.
+No turning back,
+no turning back.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Take this whole world,
+but give me Jesus.
+Take this whole world,
+but give me Jesus.
+Take this whole world,
+but give me Jesus.
+I won't turn back,
+I won't turn back.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I have started for the kingdom.
+I have started for the kingdom.
+I have started for the kingdom.
+I won't turn back, I won't turn back.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Though none go with me,
+still I will follow.
+Though none go with me,
+still I wilI follow.
+Though none go with me,
+still I will follow.
+No turning back,
+no turning back.</lines>
+    </verse>
+  </lyrics>
+</song>

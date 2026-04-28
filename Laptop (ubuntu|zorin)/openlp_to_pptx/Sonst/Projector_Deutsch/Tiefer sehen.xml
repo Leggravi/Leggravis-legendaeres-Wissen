@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Tiefer sehen</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Frey</author>
+      <author type="music">Andrea Adams-Frey</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nichts ist selbstverständlich, alles Gute ist geschenkt.
+Du hast meine Schritte zum Ziel gelenkt.
+Viele kleine Zeichen zeigen, ich bin nicht allein.
+Es gibt viele Gründe, dankbar zu sein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oft frage ich, warum, doch du zeigt mir, wozu.
+Herr, lass mich tiefer sehn, tiefer versteh'n.
+Du bist in allem gegenwärtig, auch in mir.
+Herr, lass mich tiefer sehen, tiefer versteh'n.
+Ich will mit andern Augen sehen, du bist hier.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alles hat Bedeutung, auch wenn wir es nicht verstehen
+und den tiefen Sinn erst am Ende sehen.
+Denen, die Gott lieben, denen, die auf ihn vertraun,
+dient alles zum Besten nach seinem Plan.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lehre mich Langsamkeit.
+Lehre mich Achtsamkeit.
+Lehre mich Dankbarkeit.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Herr, lass mich tiefer sehn, tiefer verstehn.
+Du bist in allem gegenwärtig, auch in mir.
+Herr, lass mich tiefer sehen, tiefer versteh'n.
+Ich will mit andern Augen sehen, du bist hier.</lines>
+    </verse>
+  </lyrics>
+</song>

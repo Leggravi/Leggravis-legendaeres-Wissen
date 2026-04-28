@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Großer herrlicher Gott</title>
+    </titles>
+    <authors>
+      <author type="words">Josef Avakian</author>
+      <author type="music">Josef Avakian</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Großer herrlicher Gott
+Wir kommen nun zu dir
+Großer herrlicher Gott
+Wir beugen unsre Knie
+Wir wollen dich erkennen
+Wie du wirklich bist
+Die Breite Tiefe Höhe
+Deiner selbst O Herr unser Gott</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deine unfasbare Liebe, Die mein Denken übersteigt,
+Will ich immer mehr erfassen und in Ihr verwurzelt sein.
+All mein Denken, all mein Wollen soll auf dich gerichtet sein
+Deine Fülle will ich haben, Dich erkennen wie Du bist! … wie Du bist!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Alone Are What I need</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You alone are what I need
+Only You Lord I seek
+Without You where can I ever be
+Won't You come to me
+Or I'll perish without Thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I need You Lord
+I need You Lord right now
+I need You Lord
+I need You Lord right now
+I lift my hands and bow my knees
+To worship at Your throne
+I need You Lord
+I need You Lord right now</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Here I am O Lord my God
+Your Holy Spirit I need
+To face the threats of the enemies
+Please come now to me
+Or I can't live without Thee</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I just can't make it through
+Without You
+I just can't live without You
+No No No No Lord</lines>
+    </verse>
+  </lyrics>
+</song>

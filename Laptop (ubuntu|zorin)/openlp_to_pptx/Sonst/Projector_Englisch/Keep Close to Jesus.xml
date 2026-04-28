@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Keep Close to Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When you start for the land of heavenly rest,
+Keep close to Jesus all the way;
+For He is the guide, and He knows the way best,
+Keep close to Jesus all the way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Keep close to Jesus, keep close to Jesus,
+Keep close to Jesus all the way;
+By day or by night never turn from the right,
+Keep close to Jesus all the way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Never mind the storms of trials as you go,
+Keep close to Jesus all the way;
+'Tis a comfort and joy His favor to know,
+Keep close to Jesus all the way.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To be safe from the darts of the evil one,
+Keep close to Jesus all the way;
+Take the shield of faith till the victory is won,
+Keep close to Jesus all the way.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We shall reach our home in Heaven by and by,
+Keep close to Jesus all the way;
+Where to those we love we'll never say goodbye,
+Keep close to Jesus all the way.</lines>
+    </verse>
+  </lyrics>
+</song>

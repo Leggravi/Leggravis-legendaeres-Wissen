@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Unser Gott ist ein mächtiger Gott</title>
+    </titles>
+    <authors>
+      <author type="words">Mirjana Angelina</author>
+      <author type="music">Rich Mullins</author>
+      <author type="translation">Awesome God</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krempelt er die Ärmel hoch, machst du besser keinen Witz.
+Unser Gott ist ein mächtiger Gott.
+Seine Schritte sind wie Donner, seine Fäuste wie der Blitz.
+Unser Gott ist ein mächtiger Gott.
+Er hat uns nicht umsonst aus dem Paradies vertrieben.
+Es war nicht ohne Grund, dass er für uns starb.
+Seine Wiederkunft ist nah, darum sollten wir verstehen:
+Unser Gott ist ein mächtiger Gott.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unser Gott ist ein mächtiger Gott!
+Er herrscht vom Himmel herab
+mit Weisheit, Liebe und Kraft.
+Unser Gott ist ein mächtiger Gott!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Als kein Stern am Himmel stand, in der Schwärze der Nacht.
+Unser Gott ist ein mächtiger Gott.
+Sprach er in die Dunkelheit, hat uns so das Licht gebracht.
+Unser Gott ist ein mächtiger Gott.
+Mit Wut und Zerstörung hat er Sodom vernichtet.
+Doch aus Liebe zu uns starb sein Sohn am Kreuz.
+Lass uns niemals vergessen, was er für uns getan hat!
+Unser Gott ist ein mächtiger Gott.</lines>
+    </verse>
+  </lyrics>
+</song>

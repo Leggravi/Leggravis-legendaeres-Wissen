@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ein Gott der das Meer teilt </title>
+    </titles>
+    <authors>
+      <author type="words">Timo Langner</author>
+      <author type="music">Timo Langner</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wenn bei dir Lahme wieder gehen
+Taube hörn und Blinde sehen
+Bin ich gewiss, dass alles möglich ist
+Wenn du zerbrochne Herzen heilst
+Und aus der Sklaverei befreist
+Kein Zweifel mehr, dass alles möglich ist</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gott der Wunder, du bist hier
+Und ich weiß tief in mir</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bei einem Gott, der das Meer teilt
+Da ist immer ein Weg
+Da ist immer noch Hoffnung
+Wenn's scheinbar nicht weitergeht
+Ein Gott, der das Meer teilt
+Kommt nicht zu spät
+Da ist immer noch Hoffnung
+Mein Gott bahnt immer einen Weg
+Bahnt immer einen Weg</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Keiner glaubte mehr daran
+Dass ihn ein Wunder retten kann
+Denn er lag vier Tage schon im Grab
+Doch du riefst: &quot;Lazarus, steh auf
+Komm aus deiner Höhle raus.&quot;
+Und wenn du sprichst, werden Wunder wahr</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bei einem Gott, der das Meer teilt
+Ist immer ein Weg
+Da ist immer noch Hoffnung
+Wenn's scheinbar nicht weitergeht
+Ein Gott, der das Meer teilt
+Kommt nicht zu spät
+Da ist immer noch Hoffnung
+Mein Gott bahnt immer einen Weg
+Bahnt immer einen Weg</lines>
+    </verse>
+  </lyrics>
+</song>

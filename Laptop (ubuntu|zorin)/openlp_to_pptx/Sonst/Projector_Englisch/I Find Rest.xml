@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Find Rest</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a pressure building underneath our wings
+Preparing of people to fly home
+And I feel this difference in the air
+Yet His Spirit whispers to my soul
+That with patience I must still press to the goal
+Be steady, it will strengthen me to know</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've got to be in condition to go home
+So I surrender to the fire that brings me change
+Holding loose all that I possess
+In this season, I find rest</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Soon the last war will drawn on the sands of time
+We will stack our weapons on the banks of heaven shore
+But for now we must polish our sword again
+Advancing onward even as the sun goes down
+Embrace the heat of battle taking back our ground
+Till the captain says you've conquered,
+Trade your armor for a crown</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will take your hand across the table there
+We'll cry tears of joy, for the harvest our labors reap
+And the pain and heartache, we carried on the earth alone
+They seem a friend now as we kneel before the throne
+They served a purpose to ready me for home
+I rejoice in the testing for I will overcome</lines>
+    </verse>
+  </lyrics>
+</song>

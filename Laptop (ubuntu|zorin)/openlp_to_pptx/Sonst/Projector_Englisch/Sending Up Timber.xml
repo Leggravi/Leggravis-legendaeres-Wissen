@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sending Up Timber</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Well I used to listen to my grandma,
+as she knelt in her high-backed chair
+She'd call out to the heavens,
+a good old-fashioned prayer
+She knelt and prayed for hours
+And every time I asked her why
+She said, &quot;Child I'm not just sending
+empty word up to the sky. &quot; She said:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm sendin' up timber
+To build my mansion, getting it ready
+To move on in
+I'm laying my treasures
+In the hands of the builder
+And I'll be sendin' up timber
+'Till He comes again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Well, the years have come and gone now
+Since we laid her soul to rest
+But, I know my grandma's mansion
+Is one of heaven's Best
+Just before she crossed old Jordan
+The last thing I heard her say
+Was &quot;Build a firm foundation
+with every prayer you pray. &quot; That's why:</lines>
+    </verse>
+  </lyrics>
+</song>

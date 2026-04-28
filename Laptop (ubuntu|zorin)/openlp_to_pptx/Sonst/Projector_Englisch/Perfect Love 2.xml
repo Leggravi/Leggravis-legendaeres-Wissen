@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Perfect Love (2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are at home in my heart
+‘Cause You loved me right from the start
+When I was refusing
+Your love kept pursuing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now that I’ve tasted Your love
+My heart just can’t get enough
+Jesus You have me
+You have me completely</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It’s Your love in my heart running over
+Everyday of my life I’ll draw closer</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Such a perfect love
+Oh You lift me higher
+Lighting up my way
+Everything is brighter
+With You everything is better
+With You I am right where I belong</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In this perfect love</lines>
+    </verse>
+    <verse name="v6">
+      <lines>No matter what I go through
+I’ll keep my eyes fixed on You
+Jesus You’re faithful
+And You are able</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Every part of my heart is now open
+Make Your home in my heart, You are welcome</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let the lower lights be burning</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Brightly beams our Father’s mercy,
+From His lighthouse evermore,
+But to us He gives the keeping
+Of the lights along the shore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let the lower lights be burning!
+Send a gleam across the wave!
+Some poor fainting, struggling seaman
+You may rescue, you may save.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dark the night of sin has settled,
+Loud the angry billows roar;
+Eager eyes are watching, longing,
+For the lights along the shore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Trim your feeble lamp, my brother;
+Some poor sailor, tempest-tossed,
+Trying now to make the harbor,
+In the darkness may be lost.</lines>
+    </verse>
+  </lyrics>
+</song>

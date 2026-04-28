@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Was Born Free</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I stood in the barnyard looking around
+At the chickens picking on the ground
+And Something inside keeps telling me
+I was not earth bound</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Then one day I heard my mama scream
+What's the matter with you
+Why do you live in a dream
+You are an eagle
+You were born to fly</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now I'm flying where no other bird can fly
+In a supernatural atmosphere high in the sky
+Seeing things that I've never seen
+He is taking me places I've never been
+And the higher I go is the more I see
+I'm now living in the reality
+I am an eagle. I was born free</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Higher and higher I rise each day
+I'm rising to a perfect faith
+Rising on the mighty rushing wind
+Rising above the rhythm of the music
+Rising above the clapping of hands
+Rising above the joy of the saints</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The devil tried his best to cage and deceive me
+But then God sent His Word to me
+He delivered me
+And He's given me a law inside to fly
+And soon I'll soar through heaven's door</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Can't stop singing</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v6 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your grace for me will always be
+More than enough
+More than enough
+The power of Jesus Christ in me
+Is more than enough
+More than enough</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Because my heart is full
+And my soul is free
+In my weakness you
+Had a plan for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I can't stop singing about Your love
+No I can't stop singing about Your love
+Jesus forever You will be more than enough
+And I can't stop, No I can't stop
+Oh oh oh oh -oh oh oh oh</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You will provide, You will supply
+More than enough, more than enough
+GOD Open Heaven, open wide
+More than enough, more than enough</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let the redeemed of The Lord say so
+Let the redeemed of The Lord say so
+Let the redeemed of The Lord say so
+I can't stop shouting!
+Can't stop shouting!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Let the redeemed of The Lord say so
+Let the redeemed of The Lord say so
+Let the redeemed of The Lord say so
+And I can't stop shouting!
+Can't stop shouting!</lines>
+    </verse>
+  </lyrics>
+</song>

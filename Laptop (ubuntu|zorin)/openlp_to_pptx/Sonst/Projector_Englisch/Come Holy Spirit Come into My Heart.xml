@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come Holy Spirit Come into My Heart</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come Holy Spirit
+Come into my heart
+Come to me Holy Spirit, I pray
+You are the joy of my heart, Amen!
+Oh, Hallelu, Halleluyah!</lines>
+    </verse>
+  </lyrics>
+</song>

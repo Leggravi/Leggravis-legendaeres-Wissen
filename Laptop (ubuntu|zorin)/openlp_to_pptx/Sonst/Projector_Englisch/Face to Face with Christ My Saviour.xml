@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Face to Face with Christ My Saviour</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Face to face with Christ, my Savior,
+Face to face—what will it be,
+When with rapture I behold Him,
+Jesus Christ who died for me?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Face to face I shall behold Him,
+Far beyond the starry sky;
+Face to face in all His glory,
+I shall see Him by and by!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Only faintly now, I see Him,
+With the darkling veil between,
+But a blessed day is coming,
+When His glory shall be seen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>What rejoicing in His presence,
+When are banished grief and pain;
+When the crooked ways are straightened,
+And the dark things shall be plain.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Face to face! O blissful moment!
+Face to face—to see and know;
+Face to face with my Redeemer,
+Jesus Christ who loves me so.</lines>
+    </verse>
+  </lyrics>
+</song>

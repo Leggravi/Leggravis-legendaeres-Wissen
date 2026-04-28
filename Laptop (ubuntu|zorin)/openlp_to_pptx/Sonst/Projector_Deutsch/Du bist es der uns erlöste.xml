@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist es, der uns erlöste</title>
+    </titles>
+    <authors>
+      <author type="words">Dietrich Georg</author>
+      <author type="music">Dawn Rodgers</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist es, der uns erlöste,
+sein Leben ganz für uns gab.
+Du, als das Lamm, starbst für Sünder.
+Heilig und rein bist du.
+Jesus, heilig und rein bist du.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist es, den wir erheben.
+Dir gilt erneut unser Lob.
+Bei dir ist Rettung und Gnade.
+Was braucht das Herz noch mehr?
+O was braucht unser Herz noch mehr?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du schickst den Geist, der uns leitet.
+Wahrheit und Trost finden wir.
+Hoffnung und Frieden, Vergebung,
+Ruhe in Sturm und Not.
+Bei dir ist Ruhe in Sturm und Not.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herrlicher, mächtiger König,
+Gott, der das All schuf und trägt,
+wir wollen uns vor dir beugen.
+Du liebst und segnest uns.
+Vater, du liebst und du segnest uns.</lines>
+    </verse>
+  </lyrics>
+</song>

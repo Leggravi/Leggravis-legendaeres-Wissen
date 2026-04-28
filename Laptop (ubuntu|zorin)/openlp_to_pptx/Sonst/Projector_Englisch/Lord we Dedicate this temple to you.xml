@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord we Dedicate this temple to you</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the bible days your people built you a place
+And your glory shown upon it and you showed them your grace
+Now we're living still in the bible day continuing your plan
+So we ask you Lord, to fill this house and bless us once again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord we dedicate this temple to you
+Send your fire upon the altar and make my heart true
+We will glorify you father in all that we do
+Lord we dedicate this temple to you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord you said you'd build a temple not made by hands
+And you showed it very clearly Lord How it fits in your plan
+As we dedicate this temple now We dedicate our lives
+So all that is within you Lord Come poor into your bride</lines>
+    </verse>
+  </lyrics>
+</song>

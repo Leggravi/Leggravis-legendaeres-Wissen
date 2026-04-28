@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Fill Thou My Life, 0 Lord My God</title>
+    </titles>
+    <authors>
+      <author type="words">Horatius Bonar</author>
+      <author type="music">Henry J. Gauntlett</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fill Thou my life, 0 Lord my God,
+In every part with praise,
+That my whole being may proclaim
+Thy being and Thy ways.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Not for the lip of praise alone,
+Nor e’en the praising heart,
+I ask, but for a life made up
+Of praise in every part:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise in the common things of life,
+Its goings out and in;
+Praise in each duty and each deed,
+However small and mean.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fill every part of me with praise
+Let all my being speak
+Of Thee and of Thy love, 0 Lord,
+Poor though I be and weak.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We are</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Every secret, every shame
+Every fear, every pain
+Live inside the dark
+But that's who we are
+We are children of the day</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So wake up sleeper
+Lift your head
+We were meant for more than this
+Fight the shadows, conquer death
+Make the most of time we have left</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We are the light of the world
+We are the city on the hill
+We are the light of the world
+We gotta, we gotta
+We gotta let the light shine</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let the light shine
+Let the light shine</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We are called to spread the news
+Tell the world the simple truth
+Jesus came to save
+There's freedom in his name
+So let it all breakthrough</lines>
+    </verse>
+    <verse name="v6">
+      <lines>We are the light, we are the light
+We are the light
+To let your light shine brighter</lines>
+    </verse>
+    <verse name="v7">
+      <lines>We are the light, we are the light
+We are the light, Jesus</lines>
+    </verse>
+    <verse name="v8">
+      <lines>We are the light, we are the light
+We are the light
+We will lift you high and
+Shine, shine, shine</lines>
+    </verse>
+    <verse name="v9">
+      <lines>We gotta shine, we gotta shine
+Let the light shine
+Let the light shine</lines>
+    </verse>
+  </lyrics>
+</song>

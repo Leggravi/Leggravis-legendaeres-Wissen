@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Risen</title>
+    </titles>
+    <authors>
+      <author type="words">David Binion</author>
+      <author type="music">David Binion</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When darkness veiled the sky the day that Jesus died
+In agony upon the bitter cross
+They took His body down and laid it in a tomb
+His friends believed that everything was lost.
+But when the third day came, the darkness turned to light
+For Mary heard her name and saw the living Christ.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Risen
+To set the captives free
+Risen
+To ransom you and me
+To bind up every broken heart
+To conquer death and sin.
+Risen
+To bring us home again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And in that barren place the world forever changed
+For hope was born when Jesus rose that day
+And still His wounded hands reveal the love He has
+For every fallen soul He came to save
+And He will come again, and one by one we’ll rise
+To praise His holy name and see the living Christ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alleluia, He lives
+Alleluia, He is
+Risen
+To set the captives free
+Oh, He is risen
+To ransom you and me
+To bind up every broken heart
+To conquer death and sin.
+Risen
+To bring us home again.</lines>
+    </verse>
+  </lyrics>
+</song>

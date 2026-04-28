@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir stehen, Herr im Heiligtum</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Severus Gastorius</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir stehen, Herr im Heiligtum
+und preisen Deine Liebe;
+Anbetung bringen wir und Ruhm
+Dir, der aus freiem Triebe
+herniederkam, es übernahm,
+in Treue zu erfüllen
+des Vaters heilgen Willen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vollkommen, wie Dein Leben
+hier zu Deines Gottes Freude,
+so rein und heilig sehen
+wir Dich auch im tiefsten Leide.
+In größter Not sprachst Du
+zu Gott nach ringend heissem Flehen:
+Dein Wille soll geschehen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O heilges fleckenloses Lamm,
+Du hast Dein teures Leben
+zum Wohlgeruch am Kreuzesstamm
+Gott willig hingegeben.
+Drum singen wir zum Preise Dir,
+der Du durch Deine Wunden
+die Sühnung hast gefunden.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Forever</title>
+    </titles>
+    <authors>
+      <author type="words">Kat Regester</author>
+      <author type="music">Kat Regester</author>
+      <author type="translation">Deine Herrlichkeit</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v1 v2 v3 v4 v5 v6 v7 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'll worship at Your throne
+Whisper my own love song
+With all my heart I'll sing
+For You, my dad and King</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'll live for all my days
+To put a smile on Your face
+And when we finally meet
+It'll be for eternity</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And oh, how wide You open up Your arms
+When I need Your love
+And how far You would come
+If ever I was lost</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You said that all You feel for me
+Is undying love
+That You showed me through the cross</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I'll worship You, my God
+I'll worship You, my God
+I love You, I love You</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Forever I will sing
+Forever I will be with You
+I'll be with You</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I'll worship You, my God
+I'll worship You, my God
+I love You and I love You</lines>
+    </verse>
+  </lyrics>
+</song>

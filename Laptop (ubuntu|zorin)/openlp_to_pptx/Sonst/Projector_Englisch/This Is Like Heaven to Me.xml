@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Is Like Heaven to Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We find many people who can’t understand
+Why we are so happy and free;
+We’ve crossed over Jordan to Canaan’s fair land
+And this is like Heaven to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, this is like Heaven to me, (Praise God!)
+Yes, this is like Heaven to me;
+I’ve crossed over Jordan to Canaan’s fair land,
+And this is like Heaven to me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, when I get happy, I sing and I shout,
+The devil don’t believe It, I see;
+But I’m filled with the Spirit, there isn’t a doubt,
+And that’s what’s the matter with me.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:38">
+  <properties>
+    <titles>
+      <title>Kommet, ihr Hirten, ihr Männer und Fraun</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Riedel (1870)</author>
+      <author type="music">Olmütz</author>
+    </authors>
+    <ccliNo>4695633</ccliNo>
+    <themes>
+      <theme>Weihnachten</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kommet, ihr Hirten, ihr Männer und Fraun,
+kommet, das liebliche Kindlein zu schaun,
+Christus, der Herr, ist heute geboren,
+den Gott zum Heiland euch hat erkoren.
+Fürchtet euch nicht!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lasset uns sehen in Bethlehems Stall,
+was uns verheißen der himmlische Schall;
+was wir dort finden, lasset uns künden,
+lasset uns preisen in frommen Weisen.
+Halleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wahrlich, die Engel verkündigen heut
+Bethlehems Hirtenvolk gar große Freud:
+Nun soll es werden Friede auf Erden,
+den Menschen allen ein Wohlgefallen.
+Ehre sei Gott!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kommet, ihr Hirten, zur Krippe heran,
+kommet, wir weisen euch freundlich die Bahn!
+Seht ihr den Stern am Himmel dort stehen?
+Bald wird die Sonne selber auf gehen!
+Freut euch mit uns!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Himmlische Boten, wir folgen euch gern
+hin zu dem Kindlein, zu Christus, dem Herrn.
+Gott ist im Fleische heute erschienen,
+lasst uns anbeten, kniend ihm dienen: 
+Halleluja!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nun ist er bei uns, der Retter in Not,
+der uns befreiet von Sünde und Tod.
+Was wir verschuldet, wird uns vergeben,
+als Gottes Kinder sollen wir leben.
+Preis sei dem Herrn!</lines>
+    </verse>
+  </lyrics>
+</song>

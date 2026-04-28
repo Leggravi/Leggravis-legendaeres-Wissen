@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come away</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gross darkness has covered the land
+And the cold winter winds has blown
+But alas I saw the light shining through
+I behold my beloved on high
+Looking towards me His bride
+Providing a way of escape
+Coming to pick me up
+Rapture me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Saying winter is over and gone
+So come away
+The flowers are blooming again
+So come away
+The time of the singing has come
+So come away, my love
+Come away… come away</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As I’m building this mountain for Him
+A dwelling place He can be pleased
+I saw Him descending from heaven
+With shouting… Grace: Grace… grace</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In the clefts of the rock
+In the secret place
+I have heard Your voice telling me
+Thou art fair my love
+Thou art beautiful, come away
+Come away…</lines>
+    </verse>
+  </lyrics>
+</song>

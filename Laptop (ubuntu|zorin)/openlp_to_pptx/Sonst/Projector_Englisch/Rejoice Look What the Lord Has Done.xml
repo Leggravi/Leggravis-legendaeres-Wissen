@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Rejoice (Look What the Lord Has Done)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rejoice, look what the Lord has done;
+He drove away the darkness
+At the rising of the Son;
+Rejoice, look where He's brought us from,
+Just stop and think about it,
+Look what the Lord has done.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I remember way back when
+I was living in darkness,
+He sent a light around me
+So I can see my way out,
+And when the Lamb arose to claim,
+I clearly saw my name,
+When I start to think about it,
+I let out a great, big shout.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The enemy is always trying
+To keep us defeated,
+He always seems to point us
+To everything that's going wrong,
+But if we'll only keep our eyes
+On the Message He supplies,
+The joy will begin to swell up,
+We'll be singing a brand new song.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Look how He saved me,
+How He'd forgiven me,
+Power to overcome,
+Oh look what the Lord has done.
+Oh look what the Lord has done.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Just stop and think about it,
+Ain't no doubt about it,
+Sing Glory Hallelujah,
+For all He's given to you,
+Stop and think about it,
+Look what the Lord has done.
+Rejoice!</lines>
+    </verse>
+  </lyrics>
+</song>

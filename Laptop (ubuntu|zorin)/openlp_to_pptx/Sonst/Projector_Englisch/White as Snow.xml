@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>White as Snow</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>White as snow, white as snow
+Though my sins were as scarlet
+Lord I know, Lord I know
+That I'm clean and forgiven
+Through the power of Your blood
+Through the wonder of Your love
+Through the faith in you I know that I can be
+White as snow</lines>
+    </verse>
+  </lyrics>
+</song>

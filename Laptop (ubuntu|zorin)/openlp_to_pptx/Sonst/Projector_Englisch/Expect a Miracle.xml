@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Expect a Miracle</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Expect a miracle to happen in this place,
+Expect a miracle to happen by God's grace,
+And through a miracle, you will shown His power,
+Expect a miracle this very hour.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If we only live our life expecting miracle,
+If we'd only turned our hearts in Jesus way,
+Then this world will love in love
+and by God's power we'd see miracle,
+Mighty miracle everyday.</lines>
+    </verse>
+  </lyrics>
+</song>

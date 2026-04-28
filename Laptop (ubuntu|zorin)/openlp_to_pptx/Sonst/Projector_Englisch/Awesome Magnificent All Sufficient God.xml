@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Awesome, Magnificent All Sufficient God</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v1 v2 v1 v3 v1 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Awesome, magnificent all sufficient God
+Eternal redeemer, through His precious blood
+Our fortress forever, on His name we call
+Awesome, magnificent all sufficient God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He is here among us, in all His majesty
+We have come to honor, our gracious King of kings
+He has been so faithful, and He will remain
+Join us as we worship, crown Him with praise</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Shake hands with your neighbor
+And say &quot;it's good to be
+In the presence of the blessed, holy Trinity&quot;
+Let us lift our voices to Christ who reigns above
+Generously granting mercy, grace and love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Our fortress forever, on His name we call
+Awesome, magnificent,
+Awesome, magnificent
+Awesome, magnificent all sufficient God</lines>
+    </verse>
+  </lyrics>
+</song>

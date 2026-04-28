@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:02">
+  <properties>
+    <titles>
+      <title>Nun danket all und bringet Ehr</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Gerhardt (1647)</author>
+      <author type="music">Genf</author>
+    </authors>
+    <ccliNo>4823412</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nun danket all und bringet Ehr,
+ihr Menschen in der Welt,
+dem, dessen Lob der Engel Heer
+im Himmel stets vermeldt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ermuntert euch und singt mit Schall
+Gott, unserm höchsten Gut,
+der seine Wunder überall
+und große Dinge tut;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>der uns von Mutterleibe an
+frisch und gesund erhält
+und, wo kein Mensch uns helfen kann,
+sich selbst zum Helfer stellt;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>der, ob wir ihn gleich hoch betrübt,
+doch bleibet gutes Muts,
+die Straf erlässt, die Schuld vergibt
+und tut uns alles Guts.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Er gebe uns ein fröhlich Herz,
+erfrische Geist und Sinn
+und werf all Angst, Furcht, Sorg und Schmerz
+ins Meeres Tiefe hin.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Er lasse seinen Frieden ruhn
+auf unserm Volk und Land,
+er gebe Glück zu unserm Tun
+und Heil zu allem Stand.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Er lasse seine Lieb und Güt
+um, bei und mit uns gehn,
+was aber ängstet und bemüht,
+gar ferne von uns stehn.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Solange dieses Leben währt,
+sei er stets unser Heil,
+und wenn wir scheiden von der Erd,
+verbleib er unser Teil.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Er drücke, wenn das Herze bricht,
+uns unsre Augen zu
+und zeig uns drauf sein Angesicht
+dort in der ewgen Ruh.</lines>
+    </verse>
+  </lyrics>
+</song>

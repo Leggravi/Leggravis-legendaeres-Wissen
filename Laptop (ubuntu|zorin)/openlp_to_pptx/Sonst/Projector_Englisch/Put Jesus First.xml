@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Put Jesus First</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Put Jesus first He'll take care of you
+He said He’d stand beside me
+Watch over and guide me
+If I would only put Him first in my life
+I feel the calm assurance in each task I do
+Put Jesus first He'll take care of you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Put Jesus first in all that you do
+Put Jesus first He’ll take care of you
+Won’t worry about tomorrow
+With all its pain and sorrow
+Put Jesus first He’ll take care of you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let not my heart be troubled
+He said He’d share of my burdens
+If I would only put Him first in my life
+Just put your trust in Jesus,
+In all that you do, Put Jesus first,
+He’ll take care of you.</lines>
+    </verse>
+  </lyrics>
+</song>

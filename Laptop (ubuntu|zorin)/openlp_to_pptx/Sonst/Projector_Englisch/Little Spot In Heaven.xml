@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Little Spot In Heaven</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’ll not ask you Lord to
+lighten up my burden
+I don’t mind the trials on
+earth that I go through
+But I’ve done my best down
+here Lord so I’m asking
+For a little spot in Heaven close to You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Precious Lord forget me not
+don’t pass me by
+For I know there’s others
+worthier than I
+But if you can Lord here’s what
+I’d have You to do
+Save a little spot in Heaven
+close to You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>At the Altar years ago I
+learned to love you
+As the years went by the love
+in my heart grew
+I’ve done my best on earth
+Lord so I am asking
+For a little spot in Heaven close to You</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Abba Father</title>
+    </titles>
+    <authors>
+      <author type="words">Rebecca St. James</author>
+      <author type="music">Rebecca St. James</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Abba Father, let me be
+Yours and Yours alone.
+May my will forever be
+Ever more Your own.
+Never let my heart grow cold,
+Never let me go.
+Abba Father, let me be
+Yours and Yours alone.</lines>
+    </verse>
+  </lyrics>
+</song>

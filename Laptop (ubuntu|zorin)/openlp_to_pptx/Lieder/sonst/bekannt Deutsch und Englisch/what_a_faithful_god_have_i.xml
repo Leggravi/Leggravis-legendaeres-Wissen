@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Dec 7, 2019, 9:46:58 PM">
+  <properties>
+    <titles>
+      <title>What a Faithful God Have I</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2 V5 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Lord, i come before Your throne of grace
+I find rest in Your presence,
+And fullness of Joy
+In worship and wonder
+I behold Your face
+Singing what a faithful God have I</lines>
+    </verse>
+    <verse name="C2">
+      <lines>What a faithful God have I
+What a faithful God
+What a faithful God have I
+You are faithful in every way</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Lord I come before your throne of grace
+I find rest in Your presence
+And fullness of joy
+In worship and wonder
+I behold Your face
+Singing what a faithful God have I</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Lord of mercy, You have heard my cry
+Through the storm Youre the beacon
+My song in the night
+In the shelter of Your wings
+Hear my hearts reply
+Singing what a faithful God have I</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Lord all sovereign
+Granting peace from heaven
+Let me comfort those who suffer
+With the comfort You have given
+I will tell of Your great love
+For as long as I live
+Singing what a faithful God have I</lines>
+    </verse>
+  </lyrics>
+</song>

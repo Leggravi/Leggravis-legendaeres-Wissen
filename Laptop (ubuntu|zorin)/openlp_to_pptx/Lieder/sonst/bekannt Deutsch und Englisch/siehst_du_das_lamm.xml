@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="May 17, 2020, 11:04:25 AM">
+  <properties>
+    <titles>
+      <title>Siehst du das Lamm</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4 V5 V6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Siehst du das Lamm, in jener Nacht?
+Sein Blut an Türen angebracht.
+Es rettet vor des Todes Hand.
+Das Volk kann ziehn in neues Land.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Siehst du das Lamm, dort am Altar?
+Des Volkes Schuld von einem Jahr
+liegt nun auf ihm, es kauft sie los,
+das Opferlamm, so makellos.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Siehst du das Lamm dort an dem Kreuz?
+Bezahlt den höchsten Liebespreis.
+Es trägt die Last der ganzen Welt,
+von Leid und Schmerzen ganz entstellt.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Siehst du das Lamm dort auf dem Thron?
+Der Vater gibt die Macht dem Sohn,
+denn würdig ist allein nur er.
+Die Völker singen:? Heilig, Herr?.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Wir beten an,
+wir beten an,
+wir beten an, das Gottes Lamm</lines>
+    </verse>
+    <verse name="V6">
+      <lines>Siehst du das Lamm auf seinem Arm?
+Der gute Hirte hält es warm.
+Er ließ die Neunundneunzig stehn.
+Es soll ihm keins verloren gehn.</lines>
+    </verse>
+  </lyrics>
+</song>

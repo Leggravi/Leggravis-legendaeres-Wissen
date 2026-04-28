@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Nov 30, 2019, 10:44:01 PM">
+  <properties>
+    <titles>
+      <title>WHERE EAGLES DARE</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>We have been born in an eagle age
+By an eagle prophet’s message
+To manifest the living word for our
+day we have been given wings to fly
+way up in the sky
+Where no other bird can fly
+To live in a heavenly atmosphere
+To fly where only eagles dare</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Let’s fly so high
+Where the word of God is a living reality
+To soar so high, true eagles in the sky
+Set your wings let’s fly
+Where eagles dare</lines>
+    </verse>
+    <verse name="V3">
+      <lines>We have been gathered by the shout
+A message that called us out
+From this world of fear and doubt
+And have been given eyes to see
+All the mysteries are being revealed
+Our lives are fulfilling prophecy
+To see our position in God’s word
+To fly where only eagles could</lines>
+    </verse>
+    <verse name="V4">
+      <lines>We are not called to be earthbound
+Amidst the chipmunks on the ground
+Neither to be living up and down
+But quickened, changed, lifted up
+upon the mountain top
+Setting in the cleft of the rock
+Gathered where the carcass is
+In God’s provided place we live</lines>
+    </verse>
+  </lyrics>
+</song>

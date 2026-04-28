@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:05">
+  <properties>
+    <titles>
+      <title>Allein Gott in der Höh sei Ehr</title>
+    </titles>
+    <authors>
+      <author type="words">Nikolaus Decius (1523)</author>
+      <author type="music">Nikolaus Decius</author>
+    </authors>
+    <ccliNo>4337726</ccliNo>
+    <themes>
+      <theme>Anbetung</theme>
+      <theme>Lob</theme>
+      <theme>Dreieinigkeit</theme>
+      <theme>Trinität</theme>
+      <theme>Trinitatis</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Allein Gott in der Höh sei Ehr
+und Dank für seine Gnade,
+darum dass nun und nimmermehr
+uns rühren kann kein Schade.
+Ein Wohlgefalln Gott an uns hat;
+nun ist groß Fried' ohn Unterlass,
+all Fehd' hat nun ein Ende.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir loben, preisen, anbeten dich;
+für deine Ehr wir danken,
+dass du, Gott Vater, ewiglich
+regierst ohn alles Wanken.
+Ganz ungemessen ist deine Macht,
+allzeit geschieht, was du bedacht.
+Wohl uns solch eines Herren!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Jesu Christ, Sohn eingeborn
+des allerhöchsten Vaters,
+Versöhner derer, die verlorn,
+du Stiller unsers Haders,
+Lamm Gottes, heilger Herr und Gott:
+nimm an die Bitt aus unsrer Not,
+erbarm dich unser aller.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Heilger Geist, du höchstes Gut,
+du allerheilsamst' Tröster:
+vor Teufels G'walt fortan behüt,
+die Jesus Christ erlöset
+durch große Mart'r und bittern Tod;
+abwend all unsern Jamm'r und Not!
+Darauf wir uns verlassen.</lines>
+    </verse>
+  </lyrics>
+</song>

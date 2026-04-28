@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jul 17, 2021, 3:48:08 PM">
+  <properties>
+    <titles>
+      <title>Safe</title>
+    </titles>
+    <verseOrder>V1 V2 C3 V2 C3 V4 V5 C3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Under Your grace,
+Your mercy amazes me
+Under Your wing,
+Your shadow covers me
+Your promise of love
+where my heart is safely undone</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Speak to me, Lord,
+Your servant is listening
+Over the noise,
+I hear You whispering
+My hope has come
+and my heart is safely undone</lines>
+    </verse>
+    <verse name="C3">
+      <lines>I've found my fortress in You
+And my soul is anchored with You
+My resting place is in Your name
+Forever safe</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Forever safe
+Forever safe
+Forever safe</lines>
+    </verse>
+    <verse name="V5">
+      <lines>You are never far away
+Always reaching out to save
+My weakness covered by Your strength
+And I am found forever safe</lines>
+    </verse>
+  </lyrics>
+</song>

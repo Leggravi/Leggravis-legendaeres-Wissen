@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Tomb Now Is Empty</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The tomb now is empty,
+The stone is rolled away,
+And Christ is alive in my heart.
+And death which is conquered
+In me hath no part,
+For Christ is alive in my heart.</lines>
+    </verse>
+  </lyrics>
+</song>

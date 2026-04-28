@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What a Beautiful Day</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As I wake up with the morning,
+Of each day that passes by,
+And I listen to the sound upon
+my ears,
+I can’t help but keep a watch
+Out toward the Eastern sky,.
+And I wonder if the Trumpets
+Wll be the next sound that I hear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What a beautiful day
+For the Lord to come again;
+What a beautiful day
+For Him to take His children
+Home
+How I long to see His face
+And to touch His nail-scarred
+hands.
+What a beautiful day
+For the Lord to come again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All my earthly disappointments
+And trials here below
+Fade away when I remember Hisown words
+He said He'd return someday
+To take His children Home
+And I'm longing just to look
+Upon the Face of my Lord</lines>
+    </verse>
+  </lyrics>
+</song>

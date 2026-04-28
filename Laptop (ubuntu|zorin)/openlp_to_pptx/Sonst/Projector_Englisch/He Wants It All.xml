@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Wants It All</title>
+    </titles>
+    <authors>
+      <author type="words">Dominique Jones</author>
+      <author type="music">Dominique Jones</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a voice that cries out in the silence
+Searching for a heart that will love Him
+Longing for a child that will give Him their all
+Give it all, He wants it all
+And there's a God that walks over the earth
+He's searching for a heart that is desperate
+And longing for a child
+That will give Him their all
+Give it all, He wants it all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And He says love me, love me with your whole heart
+He wants it all today
+Serve me, serve me with your life now
+He wants it all today
+Bow down, let go of your idols
+He wants it all today
+He wants it all today
+He wants it all today
+He wants it all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And there's a God that walks over the earth
+He's searching for a heart that is desperate
+Longing for a child that will give Him their all
+Give it all, He wants it all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And He says love me, love me with your whole heart
+He wants it all today
+Serve me, serve me with your life now
+He wants it all today
+Bow down, let go of your idols
+He wants it all today
+He wants it all today
+He wants it all today</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He wants all of you
+More of you, more of you
+He wants it all today, oh oh oh oh
+More of you, more of you
+He wants it all today, oh oh oh oh
+More of you, more of you
+He wants it all today, today, today
+He wants it all today
+He wants it all today
+So give it all</lines>
+    </verse>
+    <verse name="v6">
+      <lines>There's a voice that cries out in the silence
+Searching for a heart that will love him
+Longing for a child that will give him their all
+Give it all
+He wants it all</lines>
+    </verse>
+  </lyrics>
+</song>

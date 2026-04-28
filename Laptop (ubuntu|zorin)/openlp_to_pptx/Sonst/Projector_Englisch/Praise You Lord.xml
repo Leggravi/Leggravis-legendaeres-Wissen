@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Praise You Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Nettie Rose</author>
+      <author type="music">Nettie Rose</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v6 v6 v6 v3 v5 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Woah, the King broke chains off me
+Your love has set me free
+Now all I can do is dance
+Woah, the walls came crashing down
+With one word from your mouth
+Now all I can do is dance</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are redeemed, set free forgiven
+We are the chosen, we are the living
+We are redeemed, set free forgiven
+So if you love Him, sing, sing!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh! Praise You Lord, Praise You Lord
+For You are good, You are good
+Forever we will dance and sing
+For You are good, You are good</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Woah, Your love rescued me
+I live in victory
+Now all I can do is dance</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Praise You Lord, Praise You Lord
+For You are good, You are good
+Forever we will dance and sing
+For You are good, You are good</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Whom the Son sets free is free indeed
+Whom the Son sets free has liberty
+Your love has taken chains off me</lines>
+    </verse>
+    <verse name="v7">
+      <lines>You are good
+You are good</lines>
+    </verse>
+  </lyrics>
+</song>

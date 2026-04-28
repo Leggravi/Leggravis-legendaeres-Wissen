@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Näher</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alles Leben kommt von dir,
+du hast alles für mich.
+Wo du bist, hat die Angst verloren
+und die Finsternis flieht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Näher und näher
+will ich dich kennen.
+Ich streck mich aus,
+ich streck mich aus.
+In deiner Nähe
+will ich dir begegnen,
+durch dein Licht lebe ich.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niemand ist so wie du, Herr
+du allein bist genug.
+Du machst dein Herz weit
+und gibst uns Liebe.
+Und wir verlieren uns in dir.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zu dir wollen wir rennen!
+In dir finden wir Einheit!
+Du gibst die Liebe
+die ganz erfüllt!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All the Way to Calvary</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All the way to Calvary, He went for me
+He went for me, He went for me
+All the way to Calvary, He went for me
+He died to set me free</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Although I had so many many sins
+Jesus took them all away
+And He pardoned me</lines>
+    </verse>
+  </lyrics>
+</song>

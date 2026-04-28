@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Celebrate the Lord of Love</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Baloche</author>
+      <author type="music">Paul Baloche</author>
+      <author type="translation">Tausch die Traurigkeit gegen Freude ein (Seine Liebe feiern wir)</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Trade your heavy heart for a heart of joy
+Celebrate what God has done
+Join the song of praise as we gather here
+Celebrate the Lord of love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus is our Lord, he is reigning here
+We declare his kingdom's come
+Darkness has to flee in his holy light
+Celebrate the Lord of love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All creation sings
+Hear the oceans roar
+Let the earth proclaim that Christ is Lord</lines>
+    </verse>
+  </lyrics>
+</song>

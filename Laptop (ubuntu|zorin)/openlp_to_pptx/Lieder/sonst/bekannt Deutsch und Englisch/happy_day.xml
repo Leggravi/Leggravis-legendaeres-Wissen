@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Feb 5, 2020, 4:45:20 PM">
+  <properties>
+    <titles>
+      <title>Happy Day</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C4 V5 C6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>The greatest day in history,
+Death is beaten. You have rescued me.
+Sing it out Jesus is alive.
+The empty Cross, The empty grave.
+Life eternal, You have won the day.
+Shout it out: Jesus is alive,
+He's alive.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Oh happy day, happy day,
+You washed my sin away.
+Oh happy day, happy day,
+I'll never be the same.
+Forever I am changed.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>When I stand in that place
+Free at last, meeting face to face
+I am Yours, Jesus You are mine.
+Endless joy, perfect peace
+Earthly pain finally will cease.
+Celebrate Jesus is alive,
+He's alive.</lines>
+    </verse>
+    <verse name="C4">
+      <lines>Oh happy day, happy day,
+You washed my sin away.
+Oh happy day, happy day,
+I'll never be the same.
+Forever I am changed.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>And oh what a glorious day
+What a glorious way
+That You have saved me
+And oh what a glorious day
+What a glorious Name.</lines>
+    </verse>
+    <verse name="C6">
+      <lines>/: Oh happy day, happy day,
+You washed my sin away.
+Oh happy day, happy day,
+I'll never be the same. :/
+Forever I am changed.</lines>
+    </verse>
+  </lyrics>
+</song>

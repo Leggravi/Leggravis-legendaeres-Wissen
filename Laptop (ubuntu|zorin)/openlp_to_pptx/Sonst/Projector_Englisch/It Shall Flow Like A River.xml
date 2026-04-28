@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It Shall Flow Like A River</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It shall flow like a river, it shall fall like
+ the rain,
+It shall rise as the dew in the morning
+ oe'r the plain;
+For the knowledge of the Lord shall fill
+ all the earth
+When the Spirit of the Lord shall fall.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Flow, river, flow; flow, river, flow;
+Flow out through the nations whereever
+ man may go;
+Cause life to spring forth, that all men
+ may know
+That You're the river of the Spirit;
+Oh, flow, river, flow.</lines>
+    </verse>
+  </lyrics>
+</song>

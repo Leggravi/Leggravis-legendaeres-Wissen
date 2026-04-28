@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Crown Him King of Kings</title>
+    </titles>
+    <authors>
+      <author type="words">Sharon Damazio</author>
+      <author type="music">Sharon Damazio</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Crown him king of kings;
+Crown him lord of lords.
+Wonderful, counselor,
+The mighty God;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Emmanuel,
+God is with us,
+And he shall reign,
+He shall reign,
+He shall reign forevermore.</lines>
+    </verse>
+  </lyrics>
+</song>

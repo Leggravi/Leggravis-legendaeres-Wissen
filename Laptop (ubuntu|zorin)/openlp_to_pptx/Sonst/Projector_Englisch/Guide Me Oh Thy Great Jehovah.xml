@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Guide Me, Oh, Thy Great Jehovah</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Guide me, Oh, Thou great Jehovah
+Pilgrim through this barren land
+I am weak, but Thou art mighty
+Hold me with Thy powerful hands
+Bread of heaven, feed me now and evermore
+Bread of heaven, feed me now and evermore</lines>
+    </verse>
+  </lyrics>
+</song>

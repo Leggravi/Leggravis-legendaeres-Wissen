@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Pastor's Song</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You answered the call and obeyed God's command
+He sent you here, we know you're in His hands
+Your message from the Word, touches our very soul
+We've seen your faithfulness and we want you to know</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pastor, we love you, we appreciate all you do
+And God sees the sacrifice, you've made for Jesus Christ
+You pray for the lost and God leads them to the cross
+And we know one day, you'll hear your Father say,
+&quot;My child, well done, my child, well done&quot;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the still quiet place, on your knees in prayer
+God sees your tears, Hears the burdens you bear
+The Lord's by your side, He blesses all that you do
+Through the good and bad times, He'll see you through</lines>
+    </verse>
+  </lyrics>
+</song>

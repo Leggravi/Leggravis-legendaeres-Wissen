@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich will singen von der Gnade meines Herrn </title>
+    </titles>
+    <authors>
+      <author type="words">Gitta Leuschner</author>
+      <author type="music">James Henry Fillmore</author>
+      <author type="translation">I will sing of the mercies of the Lord</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich will singen von der Gnade meines Herrn für immer,  Ewiglich singe ich.
+Ich will singen von der Gnade meines Herrn für immer,
+ich will singen von der Gnade meines Herrn
+Mit dem Mund verkünde ich deine Treue, deine Treue.
+Mit dem Mund verkünde ich deine Treue bis in Ewigkeiten
+Ich will singen von der Gnade meines Herrn für immer,
+ich will singen von der Gnade meines Herrn.</lines>
+    </verse>
+  </lyrics>
+</song>

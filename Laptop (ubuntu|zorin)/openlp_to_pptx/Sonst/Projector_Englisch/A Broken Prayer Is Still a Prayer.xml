@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>A Broken Prayer Is Still a Prayer</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When you can't pray
+'cause you can't say the things you feel inside
+Your thoughts are scattered
+like the shattered pieces of your life
+You don't have to wait any longer
+Just bring all your troubles to the father</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A broken prayer is still a prayer
+We know the Lord will be right there when we cry
+A fragile praise is still a praise
+It will be heard when it is raised to the sky
+We don't need words of eloquence when we talk to him
+'Cause the savior is concerned with every care
+He hears a broken prayer</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is a place that's always a refuge from the rain
+Where you'll be covered
+with his love and his unfailing grace
+He longs to shelter you with arms of mercy
+Though you think your prayer is so unworthy</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The petition may not seem like much for us to offer up
+But bring up to him anyway
+He loves it when we trust</lines>
+    </verse>
+  </lyrics>
+</song>

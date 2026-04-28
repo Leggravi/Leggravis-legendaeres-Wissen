@@ -1,0 +1,184 @@
+# Prank Hotspot (Captive Portal) – Kurzüberblick
+
+Dieses Projekt richtet auf einem Ubuntu-System einen **lokalen WLAN-Hotspot mit Captive Portal** ein. Jedes verbundene Gerät wird automatisch auf eine **lokale Prank-Webseite** umgeleitet (ähnlich Hotel-WLANs).
+
+Das Setup ist **offline**, sammelt **keine Daten** und ist für **private Tests / Freunde** gedacht.
+
+---
+
+## Funktionsprinzip (kurz)
+
+1. **hostapd** erstellt einen WLAN-Access-Point (SSID z. B. `FREE_WIFI`)
+2. **dnsmasq** vergibt IP-Adressen und leitet *jede Domain* auf den Host um
+3. Ein **lokaler Webserver** beantwortet Android/iOS-Captive-Checks (`/generate_204` etc.)
+4. Das Betriebssystem erkennt ein Captive Portal und öffnet automatisch die Webseite
+
+---
+
+## Voraussetzungen
+
+* Ubuntu (Desktop oder Server)
+* WLAN-Karte mit **AP-Support** (`iw list` → `* AP`)
+* sudo-Rechte
+
+### Benötigte Pakete
+
+```bash
+sudo apt update
+sudo apt install hostapd dnsmasq
+```
+
+Python 3 ist auf Ubuntu standardmäßig vorhanden.
+
+---
+
+## Verzeichnisstruktur (empfohlen)
+
+```text
+prank/
+├── run.sh        # Start-/Stop-Skript (Hotspot + Cleanup)
+├── server.py     # Minimaler Webserver (Captive Portal)
+├── index.html    # (optional) ausgelagerte HTML-Datei
+└── README.md     # dieses Dokument (oder ähnlich)
+```
+
+---
+
+## Wichtige Konfigurationsdateien
+
+### `/etc/hostapd/hostapd.conf`
+
+```ini
+interface=wlo1
+driver=nl80211
+
+ssid=FREE_WIFI
+ignore_broadcast_ssid=0
+
+hw_mode=g
+channel=1
+
+country_code=DE
+ieee80211d=1
+ieee80211n=1
+
+auth_algs=1
+wmm_enabled=0
+```
+
+> `interface` ggf. anpassen (`ip a` → WLAN-Interface, z. B. `wlo1`)
+
+---
+
+### `/etc/dnsmasq.conf`
+
+```ini
+interface=wlo1
+bind-interfaces
+dhcp-range=192.168.50.10,192.168.50.50,12h
+address=/#/192.168.50.1
+```
+
+> `address=/#/...` erzwingt die Umleitung **aller Domains** auf den lokalen Webserver
+
+---
+
+## Start per Skript (`run.sh`)
+
+Wichtige Eigenschaften:
+
+* setzt das Arbeitsverzeichnis automatisch auf den Skript-Ort
+* stoppt NetworkManager
+* startet Hotspot + Webserver
+* stellt bei **Ctrl+C** alles wieder her
+
+Zentrale Zeile für Portabilität:
+
+```bash
+cd "$(dirname "$(readlink -f "$0")")"
+```
+
+---
+
+## Manuelle Start-Befehle (Fallback, falls `run.sh` nicht läuft)
+
+### 1. NetworkManager stoppen
+
+```bash
+sudo systemctl stop NetworkManager
+```
+
+### 2. WLAN-Interface konfigurieren
+
+```bash
+sudo ip addr flush dev wlo1
+sudo ip addr add 192.168.50.1/24 dev wlo1
+sudo ip link set wlo1 up
+```
+
+### 3. Dienste starten
+
+```bash
+sudo systemctl start hostapd
+sudo systemctl start dnsmasq
+```
+
+### 4. Webserver starten
+
+```bash
+sudo python3 server.py
+```
+
+Beenden mit **Ctrl+C**.
+
+---
+
+## Wiederherstellung (manuell)
+
+Falls etwas hängen bleibt:
+
+```bash
+sudo systemctl stop hostapd dnsmasq
+sudo ip addr flush dev wlo1
+sudo systemctl start NetworkManager
+```
+
+---
+
+## Typische Tests
+
+* AP-Modus prüfen:
+
+  ```bash
+  iw list | grep -A20 "Supported interface modes"
+  ```
+* AP läuft:
+
+  ```bash
+  iw dev wlo1 info
+  ```
+* Logs:
+
+  ```bash
+  journalctl -u hostapd -n 50
+  ```
+
+---
+
+## Hinweise
+
+* Keine echten Behörden- oder Firmenlogos verwenden
+* Kein Mitschneiden von Daten
+* Nur im privaten Umfeld einsetzen
+
+---
+
+## Kurzfazit
+
+* Reines Linux-Setup
+* Kein Internet nötig
+* Automatisches Captive Portal auf Android/iOS
+* Sauberer Start & Stop
+
+Ideal für Demos, Lernzwecke und harmlose Pranks.
+

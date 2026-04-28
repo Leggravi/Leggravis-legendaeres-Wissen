@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Eagle Song</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I stood and watched an eagle fly
+Spread his wings
+And soared across the sky
+So gracefully he flew
+Rising effortlessly
+I wanted to know
+Just how to be free</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tiny fingers curled'round mine
+Perfectly formed new born
+The image of two
+Infinite mystery
+I wanted to know
+Where life comes from</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What human intellect can sway
+Must be explained away
+Earth's wisdoms, religions of men
+Searched without end
+To fill the Spirit house within
+Simplicity of God
+Somehow escapes man</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ooh ooh ooh…</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I reached for the eternal One
+Creation He was waiting to reveal
+His purpose in me
+He said this is where life begins
+I made your spirit
+To glide on the wind</lines>
+    </verse>
+    <verse name="v6">
+      <lines>So, come let's fly on the wind
+Come on let's fly on the wind
+On the wind</lines>
+    </verse>
+  </lyrics>
+</song>

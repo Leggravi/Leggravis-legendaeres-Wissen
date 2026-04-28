@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Enemy's Camp</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Well, I went to the enemy's camp and I,
+Took back what he stole from me,
+I Took back what he stole from me,
+I Took back what he stole from me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Well, I went to the enemy's camp and I,
+Took back what he stole from me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He's under my feet,
+He's under my feet,
+He's under my feet,
+He's under my feet,
+He's under my feet,
+He's under my feet,
+Satan is under my feet.</lines>
+    </verse>
+  </lyrics>
+</song>

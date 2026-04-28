@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="May 6, 2019, 4:50:33 PM">
+  <properties>
+    <titles>
+      <title>Jesus wir sehen auf dich</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Jesus, wir sehen auf dich.
+Deine Liebe, die will uns verändern,
+und in uns spiegelt sich deine Herrlichkeit.
+Jesus, wir sehen auf dich.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Jesus, wir hören auf dich.
+Du hast Worte des ewigen Lebens,
+und wir haben erkannt, du bist Christus.
+Jesus, wir hören auf dich.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Jesus, wir warten auf dich.
+Du wirst kommen nach deiner Verheißung.
+Alle Menschen sie werden Dich sehen.
+Jesus, wir warten auf dich.</lines>
+    </verse>
+  </lyrics>
+</song>

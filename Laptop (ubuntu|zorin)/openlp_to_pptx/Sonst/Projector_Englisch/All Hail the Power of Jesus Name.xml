@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All Hail the Power of Jesus Name</title>
+    </titles>
+    <authors>
+      <author type="words">Edward Perronet</author>
+      <author type="music">Oliver Holden</author>
+      <author type="translation">Singt unserm Herren, alle Welt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All hail the power of Jesus' name!
+Let angels prostrate fall.
+Bring forth the royal diadem,
+And crown him Lord of all.
+Bring forth the royal diadem,
+And crown him Lord of all!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O seed of Israel's chosen race
+Now ransomed from the fall,
+Hail him who saves you by his grace,
+And crown him Lord of all.
+Hail him who saves you by his grace,
+And crown him Lord of all!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let every tongue and every tribe
+Responsive to his call,
+To him all majesty ascribe,
+And crown him Lord of all.
+To him all majesty ascribe,
+And crown him Lord of all!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, that with all the sacred throng
+We at his feet may fall!
+We'll join the everlasting song
+And crown him Lord of all.
+We'll join the everlasting song
+And crown him Lord of all.</lines>
+    </verse>
+  </lyrics>
+</song>

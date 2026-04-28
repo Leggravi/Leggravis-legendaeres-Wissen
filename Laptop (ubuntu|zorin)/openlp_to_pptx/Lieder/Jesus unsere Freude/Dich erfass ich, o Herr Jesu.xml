@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:11">
+  <properties>
+    <titles>
+      <title>Dich erfass ich, o Herr Jesu</title>
+    </titles>
+    <authors>
+      <author type="words">Elise Schlachter (1924)</author>
+      <author type="music">Chants du Salutiste</author>
+    </authors>
+    <ccliNo>6222547</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dich erfass ich, o Herr Jesu, du nur sollst mein Führer sein.
+Dir will ich mich ganz vertrauen; Seele, Geist und Leib sind dein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nur der Glaubensweg ist sicher, unerreichbar für den Feind,
+strahlend hell von Gottes Lichte, ob er uns auch dunkel scheint.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sonne, die vom Kreuz hernieder leuchtet stets auf meinen Pfad
+so kann ich nicht mehr abirren, denn mich leitet seine Gnad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Geht's auch hin an Abgrunds Rande, wo man fürchtet hinzuschaun,
+gilt's ein schweres Opfer bringen, lass ich mir doch nimmer graun.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Denn mein Heiland hat's verheißen, dass mir nichts mehr schaden kann;
+seiner Weisheit, seinem Willen bin ich fröhlich Untertan.</lines>
+    </verse>
+  </lyrics>
+</song>

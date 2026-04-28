@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I’m Homesick for Heaven</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Somewhere beyond life’s sunset
+A home is awaiting for me
+Somewhere beyond tomorrow
+There’s endless beauty to see
+Some day I'll be rewarded
+A crown of life I will wear
+I have grown so homesick for
+heaven
+For Jesus is waiting up there.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am homesick now for heaven,
+I’m longing now to go
+I'll leave this world for ever
+This world of sin here below
+Our trials will all be over
+We'll shout the victory,
+I’ve grown so homesick for
+heaven
+What a wonderful place that
+will be!</lines>
+    </verse>
+  </lyrics>
+</song>

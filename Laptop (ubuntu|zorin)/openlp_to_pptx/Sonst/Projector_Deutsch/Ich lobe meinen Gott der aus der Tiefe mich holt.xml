@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich lobe meinen Gott, der aus der Tiefe mich holt</title>
+    </titles>
+    <authors>
+      <author type="words">Hans-Jürgen Netz</author>
+      <author type="music">Christoph Lehmann</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich lobe meinen Gott,
+Der aus der Tiefe mich holt damit ich lebe
+(lebe, hallelujah)
+Ich lobe meinen Gott,
+Der mir die Fesseln löst damit ich frei bin
+(frei bin, hallelujah)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ehre sei Gott auf der Erde
+In allen Straßen und Häusern
+Die Menschen werden singen
+Bis das Lied zu Himmel steigt
+Ehre sei Gott und den Menschen Frieden
+Ehre sei Gott und den Menschen Frieden
+Ehre sei Gott und den Menschen Frieden
+Frieden auf Erden</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich lobe meinen Gott,
+Der mir den neuen Weg weist, damit ich handle
+(handle, hallelujah)
+Ich lobe meinen Gott,
+Der mir mein Schweigen bricht, damit ich rede
+(rede, hallelujah)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ehre sei Gott auf der Erde
+In allen Straßen und Häusern
+Die Menschen werden singen
+Bis das Lied zu Himmel steigt
+Ehre sei Gott und den Menschen Frieden
+Ehre sei Gott und den Menschen Frieden
+Ehre sei Gott und den Menschen Frieden
+Frieden auf Erden</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ich lobe meinen Gott,
+Der mir die Tränen trocknet, damit ich lache
+(lache, hallelujah)
+Ich lobe meinen Gott,
+Der meine Angst vertreibt, damit ich atme
+(atme hallelujah)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ehre sei Gott auf der Erde
+In allen Straßen und Häusern
+Die Menschen werden singen
+Bis das Lied zu Himmel steigt
+Ehre sei Gott und den Menschen Frieden
+Ehre sei Gott und den Menschen Frieden
+Ehre sei Gott und den Menschen Frieden
+Frieden auf Erden</lines>
+    </verse>
+  </lyrics>
+</song>

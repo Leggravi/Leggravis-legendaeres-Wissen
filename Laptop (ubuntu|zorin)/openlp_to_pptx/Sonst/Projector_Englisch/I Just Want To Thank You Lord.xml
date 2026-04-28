@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Just Want To Thank You, Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>And I just want to thank You, Lord,
+For letting me hear Your Word;
+What have I done to deserve
+Such glory that's revealed in me?
+Thanks for that special night,
+When I saw Your glorious Light
+Came face to face with Eternal Life.
+Lord, I thank You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You didn't have to open my eyes,
+You could have easily passed me by,
+For the age I was living in
+was wretched, poor and blind;
+Then I heard &quot;Recognizing Your Day&quot;
+&quot;Serpent Seed&quot; and &quot;Perfect Faith,&quot;
+&quot;The Breach&quot; and &quot;The Message of Grace,&quot;
+Lord, I thank You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Not even in my wildest dreams did I see
+I'd see such things
+As &quot;The Coming of the Lord,&quot;
+&quot;The Rapture Mystery,&quot;
+&quot;I Have Heard But Now I See,&quot;
+&quot;God In Simplicity,&quot;
+&quot;The Spoken Word Is The Original Seed,&quot;
+Lord, I thank You.</lines>
+    </verse>
+  </lyrics>
+</song>

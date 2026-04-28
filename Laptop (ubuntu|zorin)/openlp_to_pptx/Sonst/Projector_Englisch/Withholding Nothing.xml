@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Withholding Nothing</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I surrender all to You
+Everything I give to You
+Withholding Nothing
+Withholding Nothing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I give You all of me
+I give You all of me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>King Jesus,
+My Savior,
+Forever,
+I give You all of me,
+I give You all of me.</lines>
+    </verse>
+  </lyrics>
+</song>

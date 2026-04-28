@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:40">
+  <properties>
+    <titles>
+      <title>Zu Bethlehem geboren ist uns ein Kindelein</title>
+    </titles>
+    <authors>
+      <author type="words">Friedrich Spee von Langenfeld (1637)</author>
+      <author type="music">Paris</author>
+    </authors>
+    <ccliNo>5225318</ccliNo>
+    <themes>
+      <theme>Weihnachten</theme>
+      <theme>Christfest</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zu Betlehem geboren,
+ist uns ein Kindelein,
+das hab' ich auserkoren,
+sein eigen will ich sein.
+Eia, eia, sein eigen will ich sein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In seine Lieb’ versenken
+will ich mich ganz hinab;
+mein Herz will ich ihm schenken
+und alles, was ich hab’,
+eia, eia, und alles, was ich hab’.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Kindelein, von Herzen
+will ich dich lieben sehr,
+in Freuden und in Schmerzen
+je länger und je mehr,
+eia, eia, je länger und je mehr.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Die Gnade mir doch gebe,
+bitt’ ich aus Herzensgrund,
+dass ich allein dir lebe
+jetzt und zu aller Stund’,
+eia, eia, jetzt und zu aller Stund’.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dich, wahren Gott, ich finde
+in unser’m Fleisch und Blut;
+darum ich mich dann binde
+an dich, mein höchstes Gut,
+eia, eia, an dich, mein höchstes Gut.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Lass mich von dir nicht scheiden,
+knüpf’ zu, knüpf’ zu das Band
+der Liebe zwischen beiden;
+nimm hin mein Herz zum Pfand,
+eia, eia, nimm hin mein Herz zum Pfand!</lines>
+    </verse>
+  </lyrics>
+</song>

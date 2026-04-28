@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Need a Miracle</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v4 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You're the same God today
+And the same God tomorrow
+Help me see the victory
+You already see.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let my faith be today
+What it will be tomorrow
+When I've seen the victory
+You already see</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh Jesus, I believe, oh</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We need a miracle,
+You are the miracle maker God of the impossible,
+there is no power greater
+Exceeding, abundant, beyond what we could ask or think
+We call on Your Name, Jesus</lines>
+    </verse>
+    <verse name="v5">
+      <lines>By the power of Your Name
+And all for Your glory The sick are healed,
+the soul is filled The battle has been won
+On Your promise I stand And in faith I believe it
+That what I pray in Your Name It's already done</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh, let Your will be done, oh</lines>
+    </verse>
+    <verse name="v7">
+      <lines>In the Waiting you get the glory,
+In the Healing you get the glory,
+In the Breaking you get the glory,
+In the Healing you get the Glory,</lines>
+    </verse>
+  </lyrics>
+</song>

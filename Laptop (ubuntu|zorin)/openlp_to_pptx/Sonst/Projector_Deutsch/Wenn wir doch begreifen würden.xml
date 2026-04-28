@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wenn wir doch begreifen würden</title>
+    </titles>
+    <authors>
+      <author type="words">Miroslav Chrobak</author>
+      <author type="music">Miroslav Chrobak</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wenn wir doch begreifen würden
+Wie gut der Vater ist
+Ja, dass er unter Millionen
+Auch selbst den Letzten nicht vergisst
+Ja, dann könnten wir nicht anders
+Als nur ihm nachzugeh'n
+Ganz egal wie schwer's auch sein mag
+Wir würden immer zu ihm steh'n</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gott, schenk' uns die Erkenntnis
+Um die Breite deiner Liebe zu seh'n
+Wie du dich erniedrigt hast
+Damit wir ihre Tiefe mehr verstehen
+Lass uns doch begreifen
+Wie die Länge deiner Liebe sich ermisst
+Ja, wie sie trotz ihrer Höhe
+Dennoch bei uns ist</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn wir nur begreifen würden
+Wie sehr uns Gott doch liebt
+Und egal wie oft wir fallen
+Er immer wieder uns vergibt
+Ja, dann könnten wir nicht anders
+Als nur zu ihm zu renn'n
+Und voll Freude, hingegeben
+Ihn als unsren Herrn bekenn'n</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ja, wie sie trotz ihrer Höhe dennoch bei uns ist
+Gott, schenk' uns die Erkenntnis
+Um die Breite deiner Liebe zu seh'n
+Wie du dich erniedrigt hast
+Damit wir ihre Tiefe mehr verstehen
+Lass uns doch begreifen
+Wie die Länge deiner Liebe sich ermisst
+Ja, wie sie trotz ihrer Höhe
+Dennoch bei uns ist
+Dennoch bei uns ist</lines>
+    </verse>
+  </lyrics>
+</song>

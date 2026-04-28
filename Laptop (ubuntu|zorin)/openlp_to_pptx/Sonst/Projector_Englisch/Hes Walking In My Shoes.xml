@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He's Walking In My Shoes</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He used to walk this earth,
+with sandals on His feet
+Many people would gather round,
+just to hear Him speak
+With His hands He'd heal the sick
+and open the eyes that could not see
+And just to think that life
+that lives in Him is now a part of me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now He's walking in my shoes,
+He's singing with my voice
+He's reaching out with my hands,
+helping someone make the right choice
+He's smiling with my face,
+He's showing me the way
+And I'm so glad that I can be a part,
+He's living in my heart!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>With His voice He'd speak
+and calm an angry sea
+Yet He said that one day,
+we'd do greater things than He
+He forgave the men that nailed Him
+to the tree
+And just to think that His Spirit now
+lives inside of me</lines>
+    </verse>
+  </lyrics>
+</song>

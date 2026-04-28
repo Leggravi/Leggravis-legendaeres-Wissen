@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Love One Another for Love Is of God</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Love one another for love is of God
+He who loves is born of God and knows God
+He who does not love does not know God
+For God is love, God is love.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Father God</title>
+    </titles>
+    <authors>
+      <author type="words">Joan Robinson</author>
+      <author type="music">Joan Robinson</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the creation of the earth,
+God created man
+And having fellowship with Him
+was also in God's plan
+That we may live in the class
+of God's own being
+That we may see and hear the things
+that carnal mind can't comprehend</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Father God is mighty
+He's living in me
+And I'm made in His image
+I in Him and He in me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Just to know that I was in God's mind
+before the world
+And then by making a likeness unto God
+I've seen
+I know now who I am
+with much more understanding
+I realize it more and more each day
+This rock on which I'm living</lines>
+    </verse>
+  </lyrics>
+</song>

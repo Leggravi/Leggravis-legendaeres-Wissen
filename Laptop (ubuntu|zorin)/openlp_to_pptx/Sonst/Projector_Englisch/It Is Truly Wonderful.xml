@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It Is Truly Wonderful</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He pardoned my transgressions,
+He sanctified my soul,
+He honors my confessions,
+Since by His blood I'm whole.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It is truly wonderful
+What the Lord has done!
+It is truly wonderful!
+It is truly wonderful!
+It is truly wonderful
+What the Lord has done!
+Glory to His name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He keeps me every moment
+By trusting in His grace;
+'Tis thro His blest atonement,
+That I may see His face.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He brings me through affliction,
+He leaves me not alone;
+He's with me in temptation,
+He keeps me for His own.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He prospers and protects me,
+His blessings ever flow;
+He fills me with His glory,
+He makes me white as snow.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>He keeps me firm and faithful,
+His love I do enjoy,
+For this I shall be grateful,
+And live in His employ.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>There's not a single blessing
+Which we receive on earth
+That does not come from heaven,
+The source of our new birth.</lines>
+    </verse>
+  </lyrics>
+</song>

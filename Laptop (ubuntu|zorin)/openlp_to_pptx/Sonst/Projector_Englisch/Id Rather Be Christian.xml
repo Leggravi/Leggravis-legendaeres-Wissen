@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I’d Rather Be Christian</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In this world I’ve tried most everything,
+And I’m happy now to say
+There is nothing like religion
+In the good old-fashioned way;
+I am walking in the old-time way,
+And I want the world to know
+That I’d rather be an old-time Christian
+Than anything I know.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’d rather be an old-time Christian
+Than anything I know.
+There’s nothing like an old-time Christian
+With a Christian love to show;
+I’m walking in the grand old highway,
+And I’m telling everywhere I go,
+That I’d rather be an old-time Christian
+Than anything I know.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There are many things I’d like to be
+As my journey I pursue,
+I have longed to be a leader
+Like a mortal man would do;
+I would like to be a millionaire,
+With a million to bestow,
+But I’d rather be an old-time Christian
+Than anything I know.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All the world is bright since I got right.
+Now I sing and pray and shout,
+All my burdens have been lifted
+Since the Saviour brought me out;
+I will tell the world both far and near
+As I travel here below.
+That I’d rather be an old-time Christian
+Than anything I know.</lines>
+    </verse>
+  </lyrics>
+</song>

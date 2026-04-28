@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Say</title>
+    </titles>
+    <authors>
+      <author type="words">Diane Thiel</author>
+      <author type="music">Diane Thiel</author>
+      <author type="translation">Wenn du es sagst</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I keep fighting voices in my mind that say I'm not enough
+Every single lie that tells me I will never measure up
+Am I more than just the sum of every high and every low
+Remind me once again just who I am because I need to know
+Ooh</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You say I am loved, when I can't feel a thing
+You say I am strong, when I think I am weak
+You say I am held, when I am falling short
+And when I don't belong, oh You say I am yours
+And I believe, oh I believe what you say of me
+I believe</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The only thing that matters now is everything you think of me
+In you I find my worth, in you I find my identity
+Ooh</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You say I am loved, when I can't feel a thing
+You say I am strong, when I think I am weak
+You say I am held, when I am falling short
+And when I don't belong, oh You say I am yours
+And I believe, oh I believe what you say of me
+Oh I believe</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Taking all I have and now I'm laying it at your feet
+You'll have every failure, God, you'll have every victory
+Ooh</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You say I am loved, when I can't feel a thing
+You say I am strong, when I think I am weak
+You say I am held, when I am falling short
+When I don't belong, oh You say I am yours
+And I believe, oh I believe what you say of me
+I believe, Oh I believe, Yes I believe
+What you say of me,
+I believe</lines>
+    </verse>
+  </lyrics>
+</song>

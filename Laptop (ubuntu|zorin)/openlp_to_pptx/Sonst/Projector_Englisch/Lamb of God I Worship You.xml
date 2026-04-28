@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lamb of God I Worship You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lamb of God I worship You
+For all You are and all You do,
+With Your blood You paid the price
+Become spotless sacrifice,
+So I could be made new
+lamb of God I worship You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We sing holy, holy, holy,
+Holy is the Lamb,
+That brought redemption story,
+And hopes to fallen man,
+Lamb of God i worship you.</lines>
+    </verse>
+  </lyrics>
+</song>

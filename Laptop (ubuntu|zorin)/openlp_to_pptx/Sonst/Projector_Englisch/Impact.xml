@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Impact</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v6 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Humbly I wait
+Here in Your presence
+Oh, how I need You
+Quiet my soul
+I long for Your whisper
+Oh, how I need You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As I worship in surrender
+I feel Heaven drawing closer
+As I lay down my defenses
+Your love invades
+And I brace for the impact</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I am undone
+Lost in Your glory
+Oh, how I love You
+Covered in grace
+Found in Your mercy
+Oh, how I love You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>As I worship in surrender
+I feel Heaven drawing closer
+As I lay down my defenses
+Your love invades
+And I brace for the impact
+I brace for the impact
+Oh ooh ooh</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Love like a mighty river, like a rushing wind
+Sweeps through me, right through me
+Love like a thousand oceans, like a symphony
+Sweeps through me, right through me</lines>
+    </verse>
+    <verse name="v7">
+      <lines>As I worship in surrender
+I feel Heaven drawing closer
+As I lay down my defenses
+Oh, Your love invades
+And I brace for the impact</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Right through me</lines>
+    </verse>
+  </lyrics>
+</song>

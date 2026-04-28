@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sieh, hier bin ich, mein König</title>
+    </titles>
+    <authors>
+      <author type="words">Eliza Edmunds Hewitt</author>
+      <author type="music">John R. Sweney</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sieh, hier bin ich, mein König, ich weihe mich dir
+nimm, gebrauche mich, Herr, wie du willst.
+Ach, ich weiß nichts, was Wert hat, ist irgend an mir,
+nichts, wenn du mich nicht selber erfüllst.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mach was klein dir, mir klein, was dir groß ist, mir groß,
+dass ich folge dir, Jesus, allein.
+Mach vom eigenen Sinn, von mir selber mich los,
+lass ein brauchbares Werkzeug mich sein!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sieh, hier bin ich, mein König, mein Herze das brennt,
+dir zu dienen, wo du es begehrst.
+Gib, dass völlig dein Geist vom Verlangen mich trennt,
+mir zu nehmen, was du nicht gewährst!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sieh, hier bin ich, mein König, und ist meine Hand
+nicht geschickt für den vordersten Streit,
+so verzäune die Lücken und bessre das Land
+doch durch mich, denn ich bin in die geweiht.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sieh, hier bin ich, mein König, ob niemand es weiß,
+wenn dein Auge nur über mir wacht,
+wenn ich da, wo ich steh, tu nach deinem Geheiß,
+bin ich glücklich bei Tag und bei Nacht.</lines>
+    </verse>
+  </lyrics>
+</song>

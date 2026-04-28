@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Only Believe</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Only believe, only believe,
+All things are possible, only believe;
+Only believe, only believe,
+All things are possible, only believe.
+(Lord, I believe…)
+(Lord, I receive…)
+(Jesus is here…)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fear not, little flock, from the cross to the throne,
+From death into life He went for His own;
+All power in earth, all power above,
+Is given to Him for the flock of His love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fear not, little flock, He goeth ahead,
+Your Shepherd selecteth the path you must tread;
+The waters of Marah He’ll sweeten for thee,
+He drank all the bitter in Gethsemane.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fear not, little flock, whatever your lot,
+He enters all rooms, “the doors being shut;”
+He never forsakes, He never is gone,
+So count on His presence in darkness and dawn.</lines>
+    </verse>
+  </lyrics>
+</song>

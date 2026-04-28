@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>A House Of Gold</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'd rather be in a deep, dark grave
+And know that my first soul was saved
+Than to live in this world in a house of gold
+And deny my God and doom my soul</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Some people steal, they cheat and lie
+For wealth and what it will buy
+Don't they know on a judgement day
+Gold and silver will melt away?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What good is gold and silver, too?
+If your hearts not good and true
+Oh Sinner hear, me when I say
+Fall down on your knees and pray</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'd rather be in a deep, dark grave
+And know that my first soul was saved
+And to live in this world in a house of gold
+And deny my God and doom my soul</lines>
+    </verse>
+  </lyrics>
+</song>

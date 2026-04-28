@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Upon This Rock</title>
+    </titles>
+    <authors>
+      <author type="words">Gloria Gaither</author>
+      <author type="music">Dony McGuire</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When others see with earthly eyes
+Just what they want to see
+You will see the things that never die
+You will know and recognize
+By simple child-like faith
+The priceless truth that
+Others will deny.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When others say I'm just a man
+Who likes to dream His dreams
+When others call a miracle a myth
+You'll listen for eternity
+In moments as they pass
+And see with spirit eyes
+What others miss.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Upon this rock I'll build My kingdom
+And on this rock forever
+and ever it shall stand
+And all the powers of Hell itself
+Shall never more prevail against it
+For Satan's thrones
+are built on sinking sand</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Upon this rock I'll build My kingdom
+And on this rock forever
+and ever it shall stand
+Upon this rock of revelation
+I'll build a strong and mighty nation
+And it shall stand the storms of time
+Upon this rock.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>If in a simple carpenter
+You see the Son of God
+If you would chose to lose
+When you could win
+If you would give your life away
+For nothing in return
+Then you are where
+This kingdom will begin.</lines>
+    </verse>
+  </lyrics>
+</song>

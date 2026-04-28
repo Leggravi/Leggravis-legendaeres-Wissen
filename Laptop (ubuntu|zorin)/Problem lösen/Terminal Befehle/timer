@@ -1,0 +1,33 @@
+#!/bin/bash
+
+# Eingabe der Zeit
+read -p "Gib die Zeit ein (Stunden Minuten Sekunden, getrennt durch Leerzeichen): " hours minutes seconds
+
+# Berechne die Gesamtzeit in Sekunden
+total_seconds=$((hours * 3600 + minutes * 60 + seconds))
+
+# Timer starten
+echo "Timer gestartet für $hours Stunde(n), $minutes Minute(n), $seconds Sekunde(n)."
+
+# Warte die eingestellte Zeit ab
+sleep $total_seconds
+
+# Benachrichtigung senden
+notify-send "Timer abgelaufen!" "Dein Timer ist fertig." --urgency=critical
+
+# Ton abspielen (den Pfad kannst du anpassen)
+mpv /home/mirko/Musik/musik/alarm/Pager-Zwei.mp3 --loop-file=no &
+
+# Speichere die Prozess-ID des Soundprozesses
+sound_pid=$!
+
+# Überwache das Schließen der Benachrichtigung
+dbus-monitor "interface='org.freedesktop.Notifications',member='NotificationClosed'" | while read -r line; do
+    if echo "$line" | grep -q "uint32 $notify_id"; then
+        # Alarm stoppen, wenn die Benachrichtigung geschlossen wird
+        kill $sound_pid
+        echo "Alarm gestoppt, weil die Benachrichtigung geschlossen wurde."
+        exit 0 #skript wird beendet
+    fi
+done
+

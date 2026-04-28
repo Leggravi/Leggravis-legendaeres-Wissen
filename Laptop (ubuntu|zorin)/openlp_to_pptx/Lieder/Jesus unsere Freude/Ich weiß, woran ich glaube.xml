@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:16">
+  <properties>
+    <titles>
+      <title>Ich weiß, woran ich glaube</title>
+    </titles>
+    <authors>
+      <author type="words">Ernst Moritz Arndt (1819)</author>
+      <author type="music">Heinrich Schütz</author>
+    </authors>
+    <ccliNo>4351269</ccliNo>
+    <themes>
+      <theme>Vertrauen</theme>
+      <theme>Glaube</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich weiß, woran ich glaube,
+ich weiß, was fest besteht,
+wenn alles hier im Staube
+wie Sand und Staub verweht;
+ich weiß, was ewig bleibet,
+wo alles wankt und fällt,
+wo Wahn die Weisen treibet
+und Trug die Klugen prellt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich weiß, was ewig dauert,
+ich weiß, was nimmer lässt;
+auf ewgen Grund gemauert,
+steht diese Schutzwehr fest.
+Es sind des Heilands Worte,
+die Worte fest und klar;
+an diesem Felsenhorte
+halt ich unwandelbar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Auch kenn ich wohl den Meister,
+der mir die Feste baut;
+er heißt der Fürst der Geister,
+auf den der Himmel schaut,
+vor dem die Seraphinen
+anbetend niederknien,
+um den die Engel dienen;
+ich weiß und kenne ihn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Das ist das Licht der Höhe,
+das ist der Jesus Christ,
+der Fels, auf dem ich stehe,
+der diamanten ist,
+der nimmermehr kann wanken,
+der Heiland und der Hort,
+die Leuchte der Gedanken,
+die leuchten hier und dort.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Er, den man blutbedecket
+am Abend einst begrub,
+er, der von Gott erwecket.
+Sich aus dem Grab erhob.
+Der meine Schuld versöhnet,
+der seinen Geist mir schenkt.
+Der mich mit Gnade krönet
+und ewig mein gedenkt.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>So weiß ich, was ich glaube;
+ich weiß, was fest besteht
+und in dem Erdenstaube
+nicht mit als Staub verweht;
+ich weiß, was in dem Grauen
+des Todes ewig bleibt
+und selbst auf Erdenauen
+des Himmels Blumen treibt.</lines>
+    </verse>
+  </lyrics>
+</song>

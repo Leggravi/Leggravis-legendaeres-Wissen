@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Die ganze Welt, Herr Jesu Christ, Halleluja</title>
+    </titles>
+    <authors>
+      <author type="words">Friedrich Spee von Langenfeld</author>
+      <author type="music">Köln</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1) Die ganze Welt, Herr Jesu Christ,
+Halleluja, Halleluja,
+in deiner Urständ fröhlich ist.
+Halleluja, Halleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2) Das himmlisch Heer im Himmel singt,
+Halleluja, Halleluja,
+die Christenheit auf Erden klingt.
+Halleluja, Halleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3) Jetzt grünet, was nur grünen kann,
+Halleluja, Halleluja,
+die Bäum zu blühen fangen an.
+Halleluja, Halleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4) Es singen jetzt die Vögel all,
+Halleluja, Halleluja,
+jetzt singt und klingt die Nachtigall.
+Halleluja, Halleluja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5) Der Sonnenschein jetzt kommt herein,
+Halleluja, Halleluja,
+und gibt der Welt ein’ neuen Schein.
+Halleluja, Halleluja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6) Die ganze Welt, Herr Jesu Christ,
+Halleluja, Halleluja,
+in deiner Urständ fröhlich ist.
+Halleluja, Halleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

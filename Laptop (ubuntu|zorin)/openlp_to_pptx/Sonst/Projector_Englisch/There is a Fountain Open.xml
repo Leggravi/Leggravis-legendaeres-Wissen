@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There is a Fountain Open</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For I will take you from the nations and bring you to your own land,
+And I'll be sanctified in you, before the eyes of man.
+A new heart will I give you, and place My Spirit within,
+I'll sprinkle clean water on you, and save you from your sin.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is a fountain opened in the House of David
+To you who would believe, and there are streams of
+Grace That's flowing down from Calvary,
+Come, now and receive.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I will pour upon the house of My chosen one,
+The Spirit of Grace and of supplication.
+And in that day, what a day that will be,
+A fountain shall be opened up, and you shall be wholly clean.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There is a fountain filled with blood, drawn from Immanuel's vein;
+And tell me what can wash away my sin; nothing but the blood of Jesus.
+O precious is the flow that makes me white as snow.
+And there's no other fount I know, than the fountain opened, in the House of David</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All My Days</title>
+    </titles>
+    <authors>
+      <author type="words">Michael Farren</author>
+      <author type="music">Michael Farren</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>May this life that I live bring you praise
+Blessing You and Your wonderful ways
+In the work of my hands and the words that I say
+I will worship You Lord all my days</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will sing to Your name when I wake
+Giving thanks for each breath that I take
+From the first light I see to the last prayer I pray
+I will worship You Lord all my days</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All my days, (all my days)
+All my days, (all my days)
+I will worship You Lord all my days
+All my days, (all my days)
+All my days,
+I will worship You Lord all my days</lines>
+    </verse>
+    <verse name="v4">
+      <lines>May this life that I life make you glad
+Help me praise you with all that I have
+May the thoughts of my heart bring a smile to Your face
+I will worship You Lord all my days</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Everyday is a gift from Your hand
+You're the author of all that I am
+May my story be told in this heart-spoken phrase
+I will worship You Lord all my days</lines>
+    </verse>
+    <verse name="v6">
+      <lines>All my days, (all my days)
+All my days, (all my days)
+I will worship You Lord all my days
+For as long as I live by Your power and grace
+I will worship You Lord, (worship You Lord)
+I will worship You Lord, (worship You Lord)
+I will worship You Lord, all my days</lines>
+    </verse>
+  </lyrics>
+</song>

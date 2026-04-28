@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Offering</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here in my heart
+Forever grateful
+Is all my love
+Forever faithful
+Lord You're all I have all I need all I want</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My dearest friend
+My true companion
+You took me in
+Lost and abandoned
+Lord You're all I have all I need all I want</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And this is just a token of devotion
+To heaven's love as deep as any ocean</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All my life all my breath every word every step
+Every beat of my heart will sing
+Every joy every fear every smile every tear
+Is the least that my soul can bring
+It's my offering</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I can't explain
+This transformation
+But by Your Spirit
+I'm awakened
+Lord You're all I have all I need all I want</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I can't repay
+So great a mercy
+Poured out each day
+But I am learning
+Lord You're all I have all I need all I want</lines>
+    </verse>
+  </lyrics>
+</song>

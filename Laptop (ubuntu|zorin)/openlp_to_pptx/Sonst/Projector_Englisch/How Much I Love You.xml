@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>How Much I Love You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’ve ever wondered, how much I love You
+Every day I stand in Your presence Giving all to You
+I never want to be far away from You
+When I go astray, I find Your love Reaching out to me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus I’m in love with You
+Jesus I’m in love with You
+Take me deeper
+Deeper in love with You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus I want more of You
+Jesus I want more of You
+Draw me closer
+Closer to Your heart</lines>
+    </verse>
+    <verse name="v4">
+      <lines>How much do I love You
+So much that
+My heart can’t live without
+How much do I want You
+So much that D I’ll give my life for You</lines>
+    </verse>
+  </lyrics>
+</song>

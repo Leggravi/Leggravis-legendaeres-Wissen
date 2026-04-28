@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nearing the Shore</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Glorious peace
+that never shall cease,
+Heartaches can’t enter,
+those beautiful streets,
+No pain, no woe, no rich, no poor,
+It’s glorious to know
+that we’re nearing the shore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We’re nearing the shore,
+we’re nearing the shore,
+Troubles soon will be over
+we’ll suffer no more,
+Trials all past, it’s victory at last,
+Oh It is wonderful to
+be nearing the shore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We’ll see the Lighthouse
+Jesus Divine,
+He will say welcome,
+children of mine,
+Come in and rest, this land possess,
+Oh it is wonderful
+to be nearing the shore.</lines>
+    </verse>
+  </lyrics>
+</song>

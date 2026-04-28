@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Beschenkt</title>
+    </titles>
+    <authors>
+      <author type="words">Sefora Nelson</author>
+      <author type="music">Sefora Nelson</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wer das neue Leben wagt,
+zuerst nach Gottes Zielen fragt.
+Sich für Gott einsetzt, zu ihm steht.
+Sich nicht mehr um sich selber dreht,
+der wird viel mehr als er es denkt,
+von Gott beschenkt,
+der wird viel mehr als er es denkt,
+von Gott beschenkt.</lines>
+    </verse>
+  </lyrics>
+</song>

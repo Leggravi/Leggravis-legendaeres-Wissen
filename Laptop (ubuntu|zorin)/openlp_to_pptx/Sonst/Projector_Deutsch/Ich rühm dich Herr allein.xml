@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich rühm' dich, Herr, allein</title>
+    </titles>
+    <authors>
+      <author type="words">Matthias Jorissen</author>
+      <author type="music">Johann Georg Bäßler</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich rühm' Dich, Herr, allein!
+Denn alles, was des Rühmens wert,
+Sowohl im Himmel als auf Erd',
+Kann ja von Dir nur sein.
+Du bist mein Schild im Streit,
+Mein Ruhm, mein Schutz und meine Kraft.
+Du bist's, der alles in mir schafft.
+Du bist mein Trost im Leid.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Es wohnt in mir Dein Geist.
+Er leitet durch die Wüste mich,
+Vertritt mich allzeit kräftiglich.
+Ich bin hier nicht verwaist.
+Nicht auszusprechen ist
+Sein Seufzen für mich hier im Leid.
+Doch Du verstehst es allezeit,
+Du, der Du Liebe bist.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und wenn es um mich stürmt,
+So ist mein Schutz Dein Hirtenstab,
+Du wendest alle Feinde ab,
+Du bist's, der stets mich schirmt.
+Und sollt' ich alles hier
+Verlieren, guter Herr, für Dich,
+Es wär' ja kein Verlust für mich,
+Ich hab' genug an Dir.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und Du bist stets mein Teil.
+Von Dir trennt mich hier keine Not,
+Nicht Trübsal, Angst, Verfolgung, Tod,
+Du bist, Du bleibst mein Heil.
+Du lässest nimmer mich.
+Getrost bin ich im fremden Land,
+Es reißt mich nichts aus Deiner Hand.
+Ich traue, Herr, auf Dich.</lines>
+    </verse>
+  </lyrics>
+</song>

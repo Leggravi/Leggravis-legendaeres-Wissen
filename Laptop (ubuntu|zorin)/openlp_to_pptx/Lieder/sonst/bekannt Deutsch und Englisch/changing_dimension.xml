@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 26, 2024, 8:36:55 PM">
+  <properties>
+    <titles>
+      <title>Changing Dimension</title>
+    </titles>
+    <verseOrder>V1 V2 C3 V4 C3 V5 C3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>I look over the land and sea
+Pondering the prophecies
+of things that are to be
+And how they pertain to me.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>I see the junction of time
+Wherein man's destroying
+himself again,
+But by the vision of the world
+I see ashes on every turn
+He'll never forsake His own
+Before the first bomb falls
+we'll be gone</lines>
+    </verse>
+    <verse name="C3">
+      <lines>To the other dimension travelling
+Faster than the speed of light,
+The same way
+those angels came that day
+Quicker than you can blink your eyes
+Changing dimensions,
+Changing dimensions,
+Changing dimensions.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>We are waiting at the gate,
+Our flight is about to leave,
+We've passed through all
+the checkpoints
+Through all security.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Our pilot is King Theophany Jesus,
+On the wings of an eagle leads us,
+The token is on display
+We can now be on our way
+And just before the fire falls
+He'll deliver our soul from this world.</lines>
+    </verse>
+  </lyrics>
+</song>

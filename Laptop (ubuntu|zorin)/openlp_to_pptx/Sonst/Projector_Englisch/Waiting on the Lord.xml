@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Waiting on the Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Waiting on the Lord,
+  for the promise given;
+Waiting on the Lord
+  to send from heaven;
+Waiting on the Lord,
+  by our faith receiving;
+Waiting in the upper room.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The power! the power!
+Gives vict'ry over sin,
+  and purity within;
+The power! the power!
+The pow'r they had at Pentecost.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Waiting on the Lord,
+ giving all to Jesus;
+Waiting on the Lord,
+  till from sin He frees us;
+Waiting on the Lord
+ for the heav'nly breezes;
+Waiting in the upper room.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Waiting on the Lord,
+  longing to mount higher;
+Waiting on the Lord,
+  having great desire;
+Waiting on the Lord
+  for the heav'nly fire;
+Waiting in the upper room.</lines>
+    </verse>
+  </lyrics>
+</song>

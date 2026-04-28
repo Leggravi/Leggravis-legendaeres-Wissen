@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Freude bricht sich Bahn,</title>
+    </titles>
+    <authors>
+      <author type="words">Lothar Kosse</author>
+      <author type="music">Lothar Kosse</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Freude bricht sich Bahn, |: wenn der König kommt :|
+Lachen steckt uns an , |: wenn der König kommt :|
+Ein Fest voller Gesang |: wenn der König kommt :|
+zieht uns in seinen Bann |: wenn der König kommt :|
+Er kommt zu uns in Sanftheit, er kommt zu uns in Macht,
+führt uns in seine Wahrheit, vertreibt vor uns die Nacht!
+Und wenn Du kurz davor stehst, den Glauben zu verliern,
+dann heb den Blick und sieh: der König kommt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, du allein bist genug</title>
+    </titles>
+    <authors>
+      <author type="words">Cary Buraty</author>
+      <author type="music">Lothar Kosse</author>
+      <author type="translation">Jesus, You're everything to me</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, du allein bist genug,
+du bist alles für mich.
+Jesus, öffne mein Herz,
+lass mich sehn und verstehn,
+dass du mich liebst.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Komm und fülle mein Herz.
+Gib mir neu deinen Geist.
+Du bist unser Gott,
+der Heilung bringt,
+Licht des Lebens,
+das das Dunkel durchdringt.</lines>
+    </verse>
+  </lyrics>
+</song>

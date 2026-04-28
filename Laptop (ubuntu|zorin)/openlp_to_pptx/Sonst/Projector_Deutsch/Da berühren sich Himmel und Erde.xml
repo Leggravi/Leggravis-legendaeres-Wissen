@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Da berühren sich Himmel und Erde</title>
+    </titles>
+    <authors>
+      <author type="words">Thomas Laubach</author>
+      <author type="music">Christoph Lehmann</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wo Menschen sich vergessen, die Wege verlassen.
+Und neu beginnen, ganz neu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Da berühren sich Himmel und Erde,
+dass Frieden werde unter uns,
+da berühren sich Himmel und Erde,
+dass Frieden werde unter uns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wo Menschen sich verschenken, die Liebe bedenken.
+Und neu beginnen, ganz neu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Da berühren sich Himmel und Erde,
+dass Frieden werde unter uns,
+da berühren sich Himmel und Erde,
+dass Frieden werde unter uns.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wo Menschen sich verbünden, den Hass überwinden.
+Und neu beginne, ganz neu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Da berühren sich Himmel und Erde,
+dass Frieden werde unter uns,
+da berühren sich Himmel und Erde,
+dass Frieden werde unter uns.</lines>
+    </verse>
+  </lyrics>
+</song>

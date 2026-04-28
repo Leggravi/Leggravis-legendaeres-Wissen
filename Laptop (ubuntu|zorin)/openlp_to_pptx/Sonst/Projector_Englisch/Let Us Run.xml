@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let Us Run</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Can you see how we are surrounded
+By so great a cloud of witnesses
+Those who paid the price
+The supreme sacrifice
+Those of whom whit world was not worthy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let us run, run, run the race with endurance
+Laying aside every weight
+Casting aside every sin
+Let us run, run, fixing our eyes on the Son
+Looking to Him, finishing what we've begun
+Let us run</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And can you see now we are entrusted
+With continuing what others started
+They have passed the baton
+Straight and fast till we've won
+We will run for Him who is holy.</lines>
+    </verse>
+  </lyrics>
+</song>

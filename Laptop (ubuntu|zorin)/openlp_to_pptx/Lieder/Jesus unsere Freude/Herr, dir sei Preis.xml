@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:30">
+  <properties>
+    <titles>
+      <title>Herr, dir sei Preis</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus (1858)</author>
+      <author type="music">Clement Müller</author>
+    </authors>
+    <ccliNo>5673001</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, dir sei Preis!
+Du bist herabgekommen;
+du suchtest mich, hast mich dem Tod entnommen.
+Nur Leben seh ich,
+schau ich, Jesus, dich,
+nur Leben, nur Leben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr, dir sei Preis!
+Du hast dich hingegeben;
+Verlornen weihtest du dein teures Leben.
+Nur Liebe seh ich,
+schau ich, Jesus, dich,
+nur Liebe, nur Liebe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr, dir sei Preis!
+Du hast dein Blut vergossen,
+für meine Sünden ist's am Kreuz geflossen.
+Versöhnung seh ich, schau ich,
+Jesus, dich,
+Versöhnung, Versöhnung.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herr, dir sei Preis!
+Dein Werk ist ganz vollendet,
+Gerechtigkeit hat mein
+Gericht beendet.
+Nur Gnade seh ich,
+schau ich, Jesus, dich,
+nur Gnade, nur Gnade.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Herr, dir sei Preis!
+Du bist vorangegangen;
+ich schau dir nach mit sehnlichem Verlangen.
+Voll Hoffnung bin ich,
+schau ich, Jesus, dich,
+voll Hoffnung, voll Hoffnung.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Herr, dir sei Preis!
+Bald stillest du mein Sehnen,
+wirst mich mit allen Heilgen zu dir nehmen.
+Voll Freude bin ich,
+schau ich, Jesus, dich,
+voll Freude, voll Freude.</lines>
+    </verse>
+  </lyrics>
+</song>

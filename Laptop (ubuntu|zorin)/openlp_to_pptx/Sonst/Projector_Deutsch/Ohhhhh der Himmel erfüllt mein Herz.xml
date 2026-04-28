@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ohhhhh, der Himmel erfüllt mein Herz</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3 v6 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ohhhhh, der Himmel erfüllt mein Herz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Das Reich des Herrn ist unter uns,
+Der Himmel erfüllt mein Herz,
+Der Glanz von seiner Majstät
+Der Himmel erfüllt mein Herz
+Die Freude seiner Gegenwart
+Der Himmel erfüllt mein Herz
+Die Heiligkeit die von ihm strahlt
+Der Himmel erfüllt mein Herz</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ohhhhh der Himmel erfüllt mein Herz</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wir sind der Tempel seines Throns
+Der Himmel erfüllt mein Herz
+Und Jesus ist das Fundament
+Der Himmel erfüllt mein Herz
+Er kommt zurück und holt uns heim
+Der Himmel erfüllt mein Herz
+Der Geist, die Kraft die sprechen kommt
+Der Himmel erfüllt mein Herz</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh Gnade Gott ist wunderbar
+Hörst du er rettet mich
+Ich war verloren ganz und gar
+War blind jetzt sehe ich
+Oh Gnade Gott ist wunderbar
+Hörst du er rettet mich
+Ich war verloren ganz und gar
+War blind jetzt sehe ich</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ohhhhh der Himmel erfüllt mein Herz</lines>
+    </verse>
+  </lyrics>
+</song>

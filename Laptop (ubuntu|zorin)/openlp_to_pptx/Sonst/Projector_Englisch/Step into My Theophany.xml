@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Step into My Theophany</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v2 v4 v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One day I’m gonna take that step into my theophany
+One day I’m gonna take that step into my theophany
+One day I know that that final step is going to set me free
+My theophany, I can hear it calling me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It’s a-calling come up (come up), a little higher
+Into the perfect world
+Saints come up a little higher Into Agape love
+Church, come up a little higher Soar through the heavenlies
+My theophany, I hear it calling me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Well don’t worry little children
+Should death knock on your door
+Don’t you know that death is a doorway that leads to the heavenly shore
+Over there is no heartache
+No dying in that Land
+Just peace, joy, and perfect love beyond compare</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Well, I look over there
+Oh, I see victory
+Around the next turn in the room that old devil he’s got to flee
+God’s army we’re marching, We’re marching onward
+to slay that old enemy
+Around the next hill
+I see King Jesus He’s coming for me</lines>
+    </verse>
+  </lyrics>
+</song>

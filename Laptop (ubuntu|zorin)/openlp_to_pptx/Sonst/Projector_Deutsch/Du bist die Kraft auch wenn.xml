@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist die Kraft, auch wenn</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Gottes Lamm, würdig, Herr, bist Du.
+Jesus, Gottes Lamm, würdig, Herr, bist Du.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist die Kraft, Du bist die Kraft,
+auch wenn auch wenn ich schwach,
+Du bist der Schatz, nach dem ich frag, alles in allem bist Du!
+Du bist die Perle wunderbar,
+gäb ich Dich auf wär ich
+ein Narr, alles in allem bist Du!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sünde und Tod nahmst Du von mir, Du Auferstandner,
+Preis sei Dir, alles in allem bist Du!
+Falle ich hin, so hebst Du mich, habe ich Durst, so tränkst Du mich,
+alles in allem bist Du!</lines>
+    </verse>
+  </lyrics>
+</song>

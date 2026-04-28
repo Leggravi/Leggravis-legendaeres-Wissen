@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Friedefürst, Wunderrat</title>
+    </titles>
+    <authors>
+      <author type="words">Mirjana Angelina</author>
+      <author type="music">Jennifer Randolph</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Friedefürst, Wunderrat, gnadenvoll, Gottes Sohn
+Herr der Herrn, starker Held, König und Gott von Ewigkeit</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich erhebe dich, Herr ich erhebe dich.
+Die Schöpfung ruft dir zu so herrlich bist nur du.
+Ich erhebe dich, Herr, ich erhebe dich.
+Mein Jesus ich erhebe dich.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Home Is On the Rock</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise God I live in Beulah land,
+My house will the storms with
+stand
+It is not built on sinking sand,
+My home is on the Rock.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My home is on the Rock
+The everlasting love
+I do not fear when the storms
+are near
+My home Is on the Rock.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When come life’s trials
+thick and fast,
+When clouds are o’er
+my pathway;
+It is not built on sinking sand,
+My home is on the Rock.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When troubles come
+that would appall,
+When other buildings round
+me fail;
+It is not built on sinking sand,
+My home is on the Rock.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And when my time has come to go,
+I’ll have a mansion in the sky;
+It is not built on sinking sand,
+My home is on the Rock.</lines>
+    </verse>
+  </lyrics>
+</song>

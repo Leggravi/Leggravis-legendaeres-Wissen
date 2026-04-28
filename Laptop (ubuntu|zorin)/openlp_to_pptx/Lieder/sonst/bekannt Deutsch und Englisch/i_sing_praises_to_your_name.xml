@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Apr 18, 2021, 12:27:48 PM">
+  <properties>
+    <titles>
+      <title>I Sing Praises to Your Name</title>
+    </titles>
+    <verseOrder>V1 V2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>I sing praises to Your name, O Lord.
+Praises to Your name, O Lord,
+For Your name is great
+and greatly to be praised.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>I give glory to Your name, O Lord.
+Glory to Your name, O Lord,
+For Your name is great
+and worthy to be praised.</lines>
+    </verse>
+  </lyrics>
+</song>

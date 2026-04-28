@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dankbarkeit und Lobpreis</title>
+    </titles>
+    <authors>
+      <author type="words">Julian Hirt</author>
+      <author type="music">Toni Schake</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich komm mit Dankbarkeit und Lobpreis, in deine Nähe Herr.
+Wie ein Sieger vor deinen Thron.
+Ich sing dir Lieder meines Herzens, weil ich dich so liebe.
+Dir allein gehört all mein Lob.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist der König aller Himmel, König meines Herzens,
+staunend steh ich vor Dir.
+Denn es gibt keinen der Dir gleich kommt, keinen der so gut ist.
+Wir verehren nur dich allein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du wohnst im Lobpreis deiner Söhne,
+im Lobpreis deiner Töchter,
+Im Lobpreis deiner Kinder, wir lieben dich.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du bist gut, gut, so gut, meine Seele singe:
+Gut, gut, so gut.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Deine Gnade hört niemals auf,
+sie ist jeden Morgen neu.
+Und sie bleibt bis in Ewigkeit,
+denn Du bist für immer treu.</lines>
+    </verse>
+  </lyrics>
+</song>

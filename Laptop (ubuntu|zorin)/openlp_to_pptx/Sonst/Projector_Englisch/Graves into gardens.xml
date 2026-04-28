@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Graves into gardens</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Brown</author>
+      <author type="music">Chris Brown</author>
+      <author type="translation">Gräber zu Gärten</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I searched the world
+But it couldn’t fill me
+Man’s empty praise
+and treasures that fade
+Are never enough
+Then You came along
+And put me back together
+And every desire is now satisfied
+Here in Your love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh there’s nothing better than You
+There’s nothing better than You
+Lord there’s nothing, nothing is better than You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I’m not afraid
+To show You my weakness
+My failures and flaws
+Lord You’ve seen them all
+And You still call me friend
+Cause the God of the mountain
+Is the God of the valley
+There’s not a place
+Your mercy and grace
+Won’t find me again</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You turn mourning to dancing
+You give beauty for ashes
+You turn shame into glory
+You’re the only one who can</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You turn graves into gardens
+You turn bones into armies
+You turn seas into highways
+You’re the only one who can
+You’re the only one who can</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You’re the only one who can
+You’re the only one who can</lines>
+    </verse>
+  </lyrics>
+</song>

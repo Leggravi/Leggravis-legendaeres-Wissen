@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Vollkommene Liebe</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Liebe gab ihr ganzes Leben
+Für die Rettung der Welt
+Am Kreuz mit blutende Wunden
+Gab sie dennoch nicht auf</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sie nimmt
+Alles weg von mir
+Ich bin
+Ein neuer Mensch mit ihr</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Liebe Gott und Mensch zugleich
+Beglich den vollen Preis
+Und das Geheimnis blieb nicht unerkannt
+Als sie den Tod bezwang</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sie nimmt
+Alles weg von mir
+Ich bin
+Ein neuer Mensch mit ihr
+Sie nimmt
+Alles weg von mir
+Ich bin
+Ein neuer Mensch mit ihr</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vollkommene Liebe
+Trägt einen heiligen Namen
+Sein Name ist Jesus
+Herr meines Herzens
+Vollkommene Liebe
+Trägt einen heiligen Namen
+Sein Name ist Jesus
+Herr meines Herzens
+Vollkommene Liebe
+Trägt einen heiligen Namen
+Sein Name ist Jesus
+Herr meines Herzens</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Du nimmst
+Alles weg von mir
+Ich bin
+Ein neuer Mensch mit ihr</lines>
+    </verse>
+  </lyrics>
+</song>

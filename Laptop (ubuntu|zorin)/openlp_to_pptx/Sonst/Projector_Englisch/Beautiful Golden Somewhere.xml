@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Beautiful Golden Somewhere</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There’s a beautiful home
+In the regions above
+That the Saviour has gone to prepare
+Thank God there’s a way
+By His grace and His love
+To that beautiful golden somewhere.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beautiful home, beautiful home
+Oh, how I long to be there
+I shall find peace and rest
+With the pure and the blessed
+In that beautiful golden
+somewhere.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To that beautiful land
+That seems far away Many loved ones
+and friends have gone
+Thank God, there’s a way
+By His grace and His love
+To that beautiful golden somewhere.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No sickness, no death
+No sorrow or pain
+Can reach that peaceful shore
+Where we’ll sing of His love
+Again and again
+And praise Him forever more.</lines>
+    </verse>
+  </lyrics>
+</song>

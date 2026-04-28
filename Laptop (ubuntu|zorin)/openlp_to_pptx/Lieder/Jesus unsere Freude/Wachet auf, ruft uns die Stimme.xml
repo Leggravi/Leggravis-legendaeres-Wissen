@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:07">
+  <properties>
+    <titles>
+      <title>Wachet auf, ruft uns die Stimme</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Nicolai (1599)</author>
+      <author type="music">Hans Sachs</author>
+    </authors>
+    <ccliNo>5212682</ccliNo>
+    <themes>
+      <theme>Silvester</theme>
+      <theme>Neujahr</theme>
+      <theme>Jahreswechsel</theme>
+      <theme>Jahreswende</theme>
+      <theme>Jahresende</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v2">
+      <lines>Zion hört die Wächter singen;
+das Herz tut ihr vor Freude springen;
+sie wachet und steht eilend auf.
+Ihr Freund kommt vom Himmel prächtig,
+von Gnaden stark, von Wahrheit mächtig;
+ihr Licht wird hell, ihr Stern geht auf.
+Nun komm, du werte Kron,
+Herr Jesu, Gottes Sohn!
+Hosianna!
+Wir folgen all
+zum Freudensaal
+und halten mit das Abendmahl.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gloria sei dir gesungen
+mit Menschen- und mit Engelzungen,
+mit Harfen und mit Zimbeln schön.
+Von zwölf Perlen sind die Tore
+an deiner Stadt, wir stehn im Chore
+der Engel hoch um deinen Thron.
+Kein Aug hat je gespürt,
+kein Ohr hat mehr gehört
+solche Freude.
+Des jauchzen wir
+und singen dir
+das Halleluja für und für.</lines>
+    </verse>
+  </lyrics>
+</song>

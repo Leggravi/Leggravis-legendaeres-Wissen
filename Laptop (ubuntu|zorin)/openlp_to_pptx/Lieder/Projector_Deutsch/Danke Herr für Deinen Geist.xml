@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Danke Herr für Deinen Geist</title>
+    </titles>
+    <authors>
+      <author type="words">Helga Poppe</author>
+      <author type="music">Helga Poppe</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Danke Herr für Deinen Geist
+Danke Herr für Deinen Geist
+Er ist mein Tröster, mein Helfer
+Auf ihn verlass' verlass' ich mich
+Danke Herr für Deine nette Geist</lines>
+    </verse>
+  </lyrics>
+</song>

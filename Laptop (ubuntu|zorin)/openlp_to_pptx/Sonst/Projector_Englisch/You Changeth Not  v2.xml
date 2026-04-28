@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Changeth Not – v2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You will never, ever Change
+You're the Lord
+You Remain The Same</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're the Lord
+You Changeth not
+You're the Lord
+You Changeth not</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jehovah is your name
+Jehovah is your name
+Jehovah is your name
+Jehovah is your name</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mighty warrior
+Great in battle
+Jehovah is your name</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus is your name
+Jesus is your name
+Jesus is your name
+Jesus is your name</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mighty warrior
+Great in battle
+Jesus is your name</lines>
+    </verse>
+  </lyrics>
+</song>

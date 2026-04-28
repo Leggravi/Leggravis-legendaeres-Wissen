@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ready to Leave</title>
+    </titles>
+    <authors>
+      <author type="words">Joel Houston</author>
+      <author type="music">Joel Houston</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Some folks are building
+homes down
+here and planning ahead,
+So busy with their fortunes,
+They forget what Jesus said,
+About the wars and
+earthquakes,
+And the fig tree budding leaves,
+But there’s a group of
+people getting ready to leave.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ready to leave in the twinkling
+of an eye,
+Making investments In the bank
+up In the sky,
+Happy preparations, not a reason
+to grieve,
+Are you in that number
+getting ready to leave?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sinner, what’s the reason for your
+needless delay?
+While you’re hesitating
+Christ could come just any day.
+Heed the Saviour calling,
+make your way to Calvary,
+And get in that number
+getting ready to leave.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wißt ihr nicht, wißt ihr nicht</title>
+    </titles>
+    <authors>
+      <author type="words">Christa Peikert-Flaspöhler</author>
+      <author type="music">Klaus Simon</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wißt ihr nicht, wißt ihr nicht ihr seid der Tempel,
+Wißt ihr nicht, wißt ihr nicht ihr seid der Tempel,
+Wißt ihr nicht, wißt ihr nicht ihr seid der Tempel,
+ihr seid der Tempel des Heiligen Geistes!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Voller Lob voller Kraft, voller Herrlichkeit.
+Voller Lob voller Kraft, voller Herrlichkeit.
+Voller Lob voller Kraft, voller Herrlichkeit.
+Ihr seid der Tempel des Heiligen Geistes!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja ich weiß, ja ich weiß, ich bin der Tempel.
+Ja ich weiß, ja ich weiß, ich bin der Tempel.
+Ja ich weiß, ja ich weiß, ich bin der Tempel.
+ihr seid der Tempel des Heiligen Geistes!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich bin froh, ich bin froh, ich bin der Tempel.
+Ich bin froh, ich bin froh, ich bin der Tempel.
+Ich bin froh, ich bin froh, ich bin der Tempel.
+ihr seid der Tempel des Heiligen Geistes!</lines>
+    </verse>
+  </lyrics>
+</song>

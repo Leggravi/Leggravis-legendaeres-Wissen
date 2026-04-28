@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Will Stand Our Ground</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There are forces in the world today
+Who oppose our Christian faith.
+They attempt to destroy everything that's holy
+And control what preachers say.
+But God still has a few good men
+Who won't bend, won't bow, or burn
+They will fight to the end
+To defend that faith
+Until the day that the whole world learns</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There are things we won't give over.
+There are things worth fightin' for.
+The book and the blood and the rugged cross
+One faith, one way, one Lord.
+When the world, and the flesh,
+And the devil press on,
+And try to tear our strongholds down,
+We will stand our ground.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Despite what the non-believers say,
+Our God has never changed.
+His word still means everything it says,
+It is now and forever the same.
+The world may think they have won this fight,
+But there are some that can still be found.
+Who will never give in, and will never give up,
+We will stand our ground</lines>
+    </verse>
+  </lyrics>
+</song>

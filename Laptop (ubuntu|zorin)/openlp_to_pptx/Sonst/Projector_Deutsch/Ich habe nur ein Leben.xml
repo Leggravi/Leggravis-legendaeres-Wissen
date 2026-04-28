@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich habe nur ein Leben</title>
+    </titles>
+    <authors>
+      <author type="words">Hedwig von Redern</author>
+      <author type="music">Es schaut bei Nacht und Tage</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich habe nur ein Leben,
+und das gehört dem Herrn,
+Ihm, der es mir gegeben,
+geb ich es froh und gern!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er hat es teu’r erworben
+mit seinem heilgen Blut,
+als Er am Kreuz gestorben
+mir armem Knecht zugut.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mein Wille ist gestorben,
+ich bin nun nicht mehr mein;
+Er hat um mich geworben,
+ich ward durch Gnaden Sein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nur Er ist meine Stärke,
+und Er ist meine Ruh,
+Er steht als Held am Werke,
+ich schaue staunend zu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Drum geht auch mein Begehren
+mit vollem Ernst dahin,
+dass Jesus kommt zu Ehren,
+und dass ich nichts mehr bin.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ich habe nur ein Leben,
+und das sei Ihm geweiht,
+Er wird Vollendung geben
+in seiner Herrlichkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Through it all</title>
+    </titles>
+    <authors>
+      <author type="words">Jonas Myrin</author>
+      <author type="music">Jonas Myrin</author>
+      <author type="translation">Du bist treu, treu in allem</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are forever in my life,
+You see me through the season;
+Cover me with Your hand
+And lead me in Your righteousness.
+And I look to You,
+And I wait on You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I sing to You, Lord,
+A hymn of love
+For Your faithfulness to me.
+I'm carried in everlasting arms,
+You'll never let me go through it all.
+(Hallelujah… Hallelujah)</lines>
+    </verse>
+  </lyrics>
+</song>

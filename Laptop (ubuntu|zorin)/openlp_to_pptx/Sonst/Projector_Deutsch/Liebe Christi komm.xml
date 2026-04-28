@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Liebe Christi komm</title>
+    </titles>
+    <authors>
+      <author type="words">Thomas van Dooren</author>
+      <author type="music">Graham Kendrick</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Liebe Christi komm, wie die Meeresfluten 
+Fließe hier in Gnade und Trost! Liebe Christi, komm!</lines>
+    </verse>
+  </lyrics>
+</song>

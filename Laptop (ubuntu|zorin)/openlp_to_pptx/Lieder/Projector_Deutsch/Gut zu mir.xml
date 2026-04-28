@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gut zu mir</title>
+    </titles>
+    <authors>
+      <author type="words">Salome Finschi</author>
+      <author type="music">Dominik Laim</author>
+      <author type="translation">So So Good</author>
+    </authors>
+    <verseOrder>v1 v2 v2 v3 v4 v2 v2 v5 v2 v2 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In meinem Chaos
+In allen Fragen
+Schaue ich auf zu dir
+Denn tief im Herzen
+Will ich verstehen
+Wie du mich treu umgibst</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du lässt mich niemals los
+Sollte ich auch fallen
+Und meinen Halt verlieren
+Bist du doch nah bei mir</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du bist so so gut
+Du bist so so gut zu mir
+Du bist so so gut
+Du bist so so gut zu mir</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Himmlischer Segen
+Für meine Seele
+Komm überflute mich
+Von deiner Treue
+Lass ich mich tragen
+Ja, ich vertrau' auf dich</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Du bist so so gut
+Du bist so so gut zu mir
+Du bist so so gut
+Du bist so so gut zu mir
+Du bist so so gut zu mir
+Du bist so so gut
+Du bist so so gut zu mir
+Du bist so so gut zu mir
+Du bist so so gut
+Du bist so so gut zu mir</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Du bist so so gut
+Du bist so so gut zu mir
+Du bist so so gut
+Du bist so so gut zu mir
+Du bist so so gut
+Du bist so so gut zu mir
+Du bist so so gut
+Du bist so so gut zu mir</lines>
+    </verse>
+  </lyrics>
+</song>

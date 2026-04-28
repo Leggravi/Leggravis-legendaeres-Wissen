@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Live like you believe</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You have felt the warmth of the fire
+You have seen a glimmer of light
+It's something that you have been missing inside
+Something that you have been longing to find
+Hold on to the yearning
+And wherever you are on your journey</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Live like you believe
+Live like you know
+It's one sure way
+Your faith will grow
+Listen to your heart
+Search in your soul
+And you'll find
+The strength that you need
+His light, the gift of His peace
+When you live like you believe</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There are things you'll have to let go
+And you might feel, you're just hanging on
+When you find yourself alone and afraid
+Questioning all the choices you've made
+Hold on to the burning
+He's leading you on through the journey</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hold on to the yearning
+And wherever you are on the journey</lines>
+    </verse>
+  </lyrics>
+</song>

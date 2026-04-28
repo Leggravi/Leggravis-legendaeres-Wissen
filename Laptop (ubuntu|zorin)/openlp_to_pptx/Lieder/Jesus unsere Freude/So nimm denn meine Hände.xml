@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:35">
+  <properties>
+    <titles>
+      <title>So nimm denn meine Hände</title>
+    </titles>
+    <authors>
+      <author type="words">Julie Katharina Hausmann (1862)</author>
+      <author type="music">Friedrich Silcher</author>
+    </authors>
+    <ccliNo>809097</ccliNo>
+    <themes>
+      <theme>Lebensweg</theme>
+      <theme>Leid</theme>
+      <theme>Vertrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>So nimm denn meine Hände und führe mich
+bis an mein selig Ende und ewiglich.
+Ich mag allein nicht gehen, nicht einen Schritt:
+wo du wirst gehn und stehen, da nimm mich mit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In dein Erbarmen hülle mein schwaches Herz
+und mach es gänzlich stille in Freud und Schmerz.
+Lass ruhn zu deinen Füßen dein armes Kind:
+es will die Augen schließen und glauben blind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn ich auch gleich nichts fühle von deiner Macht,
+du führst mich doch zum Ziele auch durch die Nacht:
+so nimm denn meine Hände und führe mich
+bis an mein selig Ende und ewiglich!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sei meines Fußes Leuchte im finstern Tal!
+Du bist es, der verscheuchte all’ Sorg’ und Qual.
+Folg’ ich dir kindlich gläubig auf schmalem Pfad,
+so gibst du Kraft getreulich mir früh und spat.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wenn Leidenschaft und Lüste mein Herz durchziehn,
+ich in des Lebens Wüste möcht’ von dir fliehn,
+so bleib du, Gott, der Treue und geh mir nach!
+Tränk liebreich mich aufs neue am Gnadenbach!</lines>
+    </verse>
+  </lyrics>
+</song>

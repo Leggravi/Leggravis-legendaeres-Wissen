@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Beautiful one</title>
+    </titles>
+    <authors>
+      <author type="words">Ben Fielding</author>
+      <author type="music">Ben Fielding</author>
+      <author type="translation">Wie schön dieser Name ist</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wonderful, so wonderful
+Is your unfailing love
+Your cross has spoken mercy over me
+No eye has seen no ear has heard
+No heart could fully know
+How glorious, how beautiful you are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beautiful one I love you
+Beautiful one I adore
+Beautiful one my soul must sing</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Powerful so powerful
+Your glory fills the skies
+Your mighty works displayed for all to see
+The beauty of your majesty
+Awakes my heart to sing
+How marvellous how wonderful you are</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You opened my eyes to your wonders anew
+You captured my heart with this love
+Because nothing on earth is as beautiful as you</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My should must sing
+My should must sing
+My should must sing
+Beautiful one</lines>
+    </verse>
+  </lyrics>
+</song>

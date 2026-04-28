@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, Quelle des Lebens</title>
+    </titles>
+    <authors>
+      <author type="words">Erich Remmers</author>
+      <author type="music">Simon Brading</author>
+      <author type="translation">Christ be in my waking</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Quelle des Lebens,
+Jesus, Quelle des Heils.
+Jesus, Quelle der Liebe,
+Jesus Quelle allein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist die Quelle der Gnade,
+Quelle der Hoffnung,
+Quelle des Friedens,
+Quelle allein.
+Du bist die Quelle des Glaubens,
+Quelle des Trostes,
+Quelle der Freude
+Allein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich komm zu Dir
+Und trink bei Dir.
+Ich komm zu Dir,
+Jesus
+Ich komm zu Dir
+Und trink bei Dir.
+Ich komm zu Dir,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Durch Deine Wunden,
+durch Deine Schmerzen,
+durch Dein Sterben am Kreuz,
+durch all Dein Leiden,
+Dein Auferstehen
+Bist Du die Quelle
+Für heut</lines>
+    </verse>
+  </lyrics>
+</song>

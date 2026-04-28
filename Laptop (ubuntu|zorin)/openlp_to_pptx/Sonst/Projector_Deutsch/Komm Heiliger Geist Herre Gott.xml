@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Komm, Heiliger Geist, Herre Gott</title>
+    </titles>
+    <authors>
+      <author type="words">Ebersberg</author>
+      <author type="music">Ebersberg</author>
+      <author type="translation">Come, Holy Ghost, God and Lord</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1) Komm, Heiliger Geist, Herre Gott,
+erfüll mit deiner Gnaden Gut
+deiner Gläub’gen Herz, Mut und Sinn,
+dein brennend Lieb entzünd in ihn’.
+O Herr, durch deines Lichtes Glanz
+zum Glauben du versammelt hast
+das Volk aus aller Welt Zungen.
+Das sei dir, Herr, zu Lob gesungen.
+Halleluja, Halleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2) Du heiliges Licht, edler Hort,
+lass leuchten uns des Lebens Wort
+und lehr uns Gott recht erkennen,
+von Herzen Vater ihn nennen.
+O Herr, behüt vor fremder Lehr,
+dass wir nicht Meister suchen mehr
+denn Jesus mit rechtem Glauben
+und ihm aus ganzer Macht vertrauen.
+Halleluja, Halleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3) Du heilige Glut, süßer Trost,
+nun hilf uns, fröhlich und getrost
+in deim Dienst beständig bleiben,
+die Trübsal uns nicht wegtreiben.
+O Herr, durch dein Kraft uns bereit
+und wehr des Fleisches Ängstlichkeit,
+dass wir hier ritterlich ringen,
+durch Tod und Leben zu dir dringen.
+Halleluja, Halleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Opfer der Anbetung</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, deine Liebe strahlt
+heller als der Sonnenschein.
+Kein Schatten ist in deiner Nähe.
+Wer könnte wagen, Herr, vor deinem Thron zu sein.
+Vor dir, dem höchsten Gott, zu stehen.
+Alleine durch dein Blut
+und durch deine große Gnade bin ich hier.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich leg ein Opfer der Anbetung vor dich hin.
+Denn du allein verdienst den Lobpreis, den ich sing.
+Jesus, nur dir gebührt die Ehre ewiglich.
+Ein Opfer der Anbetung bringe ich.
+Herr, dieses Opfer ist für dich.</lines>
+    </verse>
+  </lyrics>
+</song>

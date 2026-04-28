@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gott, Du mein Gott, Dich suche ich</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Annemarie Bernhard</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott, Du mein Gott, Dich suche ich.
+Wie dürres Land verlangt nach Wasserströmen,
+so sehnt sich mein Herz
+nach dem Antlitz des Herrn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gott, Du mein Gott, Dich suche ich.
+Wie ein Hirsch lechzt nach frischem Wasser,
+so schreit meine Seele nach Dir,
+dem lebendigen Gott.
+Gott, Du mein Gott, Dich suche ich.</lines>
+    </verse>
+  </lyrics>
+</song>

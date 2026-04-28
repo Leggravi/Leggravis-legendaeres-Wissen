@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Geh aus, mein Herz und suche Freud</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Gerhardt</author>
+      <author type="music">Heut singt die liebe Christenheit</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Geh aus, mein Herz und suche Freud
+in dieser lieben Sommerzeit
+an deines Gottes Gaben;
+schau an der schönen Gärten Zier
+und siehe, wie sie mir und dir
+sich ausgeschmückte haben,
+sich ausgeschmückte haben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Die Bäume stehen voller Laub,
+das Erdreich decket seinen Staub
+mit einem grünen Kleide;
+Narzissus und die Tulipan,
+die ziehen sich viel schöner an
+als Salomonis Seide,
+als Salomonis Seide.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Die Lerche schwingt sich in die Luft,
+das Täublein fliegt aus seiner Kluft
+und macht sich in die Wälder;
+die hochbegabte Nachtigall
+ergötzt und füllt mit ihrem Schall
+Berg, Hügel, Tal und Felder,
+Berg, Hügel, Tal und Felder.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Die Glucke führt ihr Völklein aus,
+der Storch baut und bewohnt sein Haus,
+das Schwälblein speist die Jungen,
+der schnelle Hirsch, das leichte Reh
+ist froh und kommt aus seiner Höh
+ins tiefe Gras gesprungen,
+ins tiefe Gras gesprungen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Die Bächlein rauschen in dem Sand
+und malen sich an ihrem Rand
+mit schattenreichen Myrten;
+die Wiesen liegen hart dabei
+und klingen ganz vom Lustgeschrei
+der Schaf und ihrer Hirten,
+der Schaf und ihrer Hirten.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Die unverdroßne Bienenschar
+fliegt hin und her, sucht hier und da
+ihr edle Honigspeise;
+des süßen Weinstocks starker Saft
+bringt täglich neue Stärk und Kraft
+in seinem schwachen Reise,
+in seinem schwachen Reise.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Der Weizen wächset mit Gewalt;
+darüber jauchzet jung und alt
+und rühmt die große Güte
+des, der so überfließend labt
+und mit so manchem Gut begabt
+das menschliche Gemüte,
+das menschliche Gemüte.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ich selber kann und mag nicht ruhn,
+des großen Gottes großes Tun
+erweckt mir alle Sinnen;
+ich singe mit, wenn alles singt,
+und lasse, was dem Höchsten klingt,
+aus meinem Herzen rinnen,
+aus meinem Herzen rinnen.</lines>
+    </verse>
+  </lyrics>
+</song>

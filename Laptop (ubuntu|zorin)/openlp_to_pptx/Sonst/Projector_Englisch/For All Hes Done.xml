@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>For All He's Done</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For all He's done
+I'm gonna lift my hands and praise Him
+For all He's done
+I'll try to live my life to please Him
+Even though I don't deserve to live
+My life has just begun
+And I can't help but praise the Lord
+For all He's done</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Every morning when I wake to see the sun
+I can't help but think about the Lord
+And all the things He's done
+He meets my every need
+You know He's been so good to me
+And I can't help but praise the Lord
+For all He's done</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There are many things that I could praise God for
+And if I started now, until I die
+There'd still be many more
+If I could mention only one
+I'd have to thank Him for His Son
+Now that's enough to praise the Lord
+For all He's done</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For all He's done
+I'm gonna lift my hands and praise Him
+For all He's done (for all He's done)
+I'll try to live my life to please Him
+Even though I don't deserve to live
+My life has just begun
+And I can't help but praise the Lord
+For all He's done</lines>
+    </verse>
+    <verse name="v5">
+      <lines>For all He's done (for all He's done)
+I'm gonna lift my hands and praise Him
+For all He's done (for all He's done)
+I'll try to live my life to please Him
+Even though I don't deserve to live
+My life has just begun
+And I can't help but praise the Lord
+For all He's done</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Even though I don't deserve to live
+My life has just begun
+And I can't help but praise the Lord
+For all He's done (for all He's done)
+For all He's done</lines>
+    </verse>
+  </lyrics>
+</song>

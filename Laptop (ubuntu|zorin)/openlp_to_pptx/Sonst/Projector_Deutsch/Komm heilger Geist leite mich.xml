@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Komm heil'ger Geist, leite mich</title>
+    </titles>
+    <authors>
+      <author type="words">Stephan Bärnreuther</author>
+      <author type="music">Stephan Bärnreuther</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Komm heil'ger Geist, leite mich.
+Nimm mich hin in des Vaters Gegenwart.
+Jesus, du hast den Weg für mich frei gemacht.
+O große Gnade, himmlischer Vater.
+Ich will dich sehen, wie du wirklich bist, in aller deiner Herrlichkeit.
+Ich will dir geben, was dir gehört.
+Ich will dein Anbeter sein,
+ich will dein Anbeter sein</lines>
+    </verse>
+  </lyrics>
+</song>

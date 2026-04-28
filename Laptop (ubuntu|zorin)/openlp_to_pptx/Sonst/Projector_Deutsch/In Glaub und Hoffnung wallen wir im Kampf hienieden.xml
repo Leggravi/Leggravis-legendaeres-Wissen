@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In Glaub' und Hoffnung wallen wir im Kampf hienieden</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Louis-Jules Delaborde</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In Glaub' und Hoffnung wallen wir im Kampf hienieden,
+Es bleibt Dein Auge unverrückt auf uns gericht't.
+Verklärt bist Du in uns, Du gabst uns Deinen Frieden,
+Bald schaun wir Dich von Angesicht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vor Gottes Thron bist Du, o Herr, für uns erschienen,
+Du trugst Dein eignes Blut ins innre Heiligtum.
+Versöhnt sind wir durch Dich, bereitet, Gott zu dienen
+Und zu verkünden Seinen Ruhm.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und unaufhörlich bittest Du jetzt für die Deinen
+Und pflegst in Liebe Deine teu'r erkaufte Schar.
+Verlassen sind wir nie – nie kannst Du uns versäumen,
+Du führst uns herrlich, wunderbar.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Never Gave Up</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Now it's been a long, long road and my soul has grown so weary,
+I just can't understand all the struggles within me,
+There been times I strayed away, and even times I could not pray,
+Somehow my faith would say just hold on, there's a brighter day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He never gave up, He never gave up,
+Mercy reached down, that was enough
+If you could see who I was before,
+Then I'm sure that you'll agree,
+He never once ever gave up on me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If your backs against the wall and you feel all hope is gone,
+If you often ask yourself, is there a reason to go on,
+Well he looks beyond your guilt and shame, you see his mercy takes the blame,
+So just forget about your past and praise the Lord your free at last.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: If you could see who I was before,
+Then I'm sure that you'll agree,
+He never once ever gave up on me. :/ x3</lines>
+    </verse>
+    <verse name="v5">
+      <lines>If you could see who I was before,
+Then I'm sure that you'll agree,
+He never once ever gave up on me.</lines>
+    </verse>
+  </lyrics>
+</song>

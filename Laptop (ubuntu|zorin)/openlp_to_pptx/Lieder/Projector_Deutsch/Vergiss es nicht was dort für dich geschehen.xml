@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Vergiss es nicht, was dort für dich geschehen</title>
+    </titles>
+    <authors>
+      <author type="words">Emma Frick-Neuffer</author>
+      <author type="music">Clemens Müller</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vergiss es nicht,
+was dort für dich geschehen,
+als Gottes Lamm ertrug die Todes wehen,
+für deine Sünden Gottes Strafgericht.
+Vergiss es nicht, vergiss es nicht</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vergiss es nicht
+wie treu Er jetzt dich pfleget,
+dich täglich neu mit großer Langmut träget,
+an Seinen Wort und Trost es nie gebricht.
+Vergiss es nicht, vergiss es nicht</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vergiss es nicht
+was Er für dich bereitet
+im Vaterhaus, wohin Sein Pfad dich leitet;
+bald schaust Du jubelnd Ihn von Angesicht
+Vergiss es nicht, vergiss es nicht</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sowing Seeds for the Kingdom</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Are you sowing the seed of the kingdom, brother,
+In the morning bright and fair?
+Are you sowing the seed of the kingdom, brother,
+In the heat of the noonday's glare?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For the harvest time is coming on,
+And the reaper's work will soon be done;
+Will your sheaves be many, will you garner any,
+For the gath'ring at the harvest home?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Are you sowing the seed of the kingdom, brother,
+In the still and solemn night?
+Are you sowing the seed of the kingdom, brother,
+For a harvest pure and white?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Are you sowing the seed of the kingdom, brother,
+All along the fertile way?
+would you glean golden sheaves in the harvest, brother,
+Come and join the ranks today.</lines>
+    </verse>
+  </lyrics>
+</song>

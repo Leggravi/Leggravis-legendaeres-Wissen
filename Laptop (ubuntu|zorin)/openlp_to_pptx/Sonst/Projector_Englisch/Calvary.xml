@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Calvary</title>
+    </titles>
+    <authors>
+      <author type="words">Phill McHugh</author>
+      <author type="music">Phill McHugh</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On Calvary's brow my Savior died
+'Twas there my Lord was crucified;
+'Twas on the cross He bled for me,
+And purchased there my pardon free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Calvary! Dark Calvary!
+Where Jesus shed His blood for me;
+O Calvary! Blest Calvary!
+'Twas there my Savior died for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Mid rending rocks
+And darkening skies
+My Savior bows His head and dies;
+The opening veil reveals the way
+To life divine and endless day.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Jesus, Lord, how can it be
+That Thou shouldst give
+Thy life for me,
+To bear the cross and agony
+In that dread hour on Calvary!</lines>
+    </verse>
+  </lyrics>
+</song>

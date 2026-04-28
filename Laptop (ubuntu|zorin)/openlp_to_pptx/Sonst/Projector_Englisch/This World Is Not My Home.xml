@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This World Is Not My Home</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This world it's not my home
+Im just a passing through
+My treasures are laid up
+Some where beyond the blue
+The angels beckon me From heavens open door
+And I can't fell at home And this world anymore</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh Lord you know
+I have no friend like you
+If heavens not my home
+Then Lord what will I do
+The angeles beckon me Frome heavens open door
+And I can't feel at home And this world anymore</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There all expecting me
+And that's one thing I know My savior pardoned me
+And now I onward go I know hell take me through
+Though I am weak and poor
+And I can't feel at home In this world anymore</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Just up a glory land We'll live eternally
+The saint of every hand Are shouting victory
+This songs of sweetest praise
+Drift back from heaven's shore
+And I can fell at home in this world anymore</lines>
+    </verse>
+  </lyrics>
+</song>

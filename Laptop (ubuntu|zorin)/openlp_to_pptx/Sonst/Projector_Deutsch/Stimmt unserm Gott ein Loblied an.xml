@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Stimmt unserm Gott ein Loblied an</title>
+    </titles>
+    <authors>
+      <author type="words">Cyriakus Günther</author>
+      <author type="music">Johann Stobäus</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stimmt unserm Gott ein Loblied an
+mit freudigem Gemüte,
+es rühm' und preise, wer da kann,
+den Geber aller Güte.
+Er macht uns frei von aller Not,
+drum lobet ihn, drum lobet Gott
+und danket seinem Namen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lobt Gott und rühmet allezeit
+die großen Wunderwerke,
+die Majestät und Herrlichkeit,
+die Weisheit, Kraft und Stärke,
+die er beweist in aller Welt,
+indem er alle Ding erhält,
+und danket seinem Namen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lobt Gott! Er gab uns seinen Sohn,
+der selbst für uns gestorben
+und uns die ewge Lebenskron
+durch seinen Tod erworben;
+der Frieden hat mit Gott gemacht
+und seinen ganzen Rat vollbracht,
+und danket seinem Namen!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lobt Gott, der in uns durch den Geist
+den Glauben angezündet
+und seinen Beistand uns verheißt,
+wenn er uns treu erfindet;
+der uns stets durch sein Wort regiert
+und auf den Weg des Lebens führt,
+und danket seinem Namen!</lines>
+    </verse>
+  </lyrics>
+</song>

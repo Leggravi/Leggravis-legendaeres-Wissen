@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Nov 20, 2019, 7:52:53 PM">
+  <properties>
+    <titles>
+      <title>Jesus I Love You So</title>
+    </titles>
+    <verseOrder>V1 V2 V3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>I know a man who’s like no other man,
+He died to save this world from sin,
+And I’ll dedicate my life to serving Him,
+He died so I could live.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Jesus, I love You so,
+And I want You to know,
+What You’ve done for me is not in vain,
+And I will stake my claim,
+On Your Holy name.
+Oh, how I love, I love You so.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>When I think of how You took my place,
+I marvel at the wonders of Your grace,
+Your sacrifice for me I can’t replace,
+Oh, what a gift You gave to me.</lines>
+    </verse>
+  </lyrics>
+</song>

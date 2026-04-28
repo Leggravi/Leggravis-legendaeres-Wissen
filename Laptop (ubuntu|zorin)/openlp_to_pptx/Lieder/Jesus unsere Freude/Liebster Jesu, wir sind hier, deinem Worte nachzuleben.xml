@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:54">
+  <properties>
+    <titles>
+      <title>Liebster Jesu, wir sind hier, deinem Worte nachzuleben</title>
+    </titles>
+    <authors>
+      <author type="words">Benjamin Schmolck (1704)</author>
+      <author type="music">Liebster Jesu, wir sind hier</author>
+    </authors>
+    <ccliNo>5211054</ccliNo>
+    <themes>
+      <theme>Taufe</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Liebster Jesu, wir sind hier,
+deinem Worte nachzuleben;
+dieses Kindlein kommt zu dir,
+weil du den Befehl gegeben,
+dass man sie zu dir hinführe,
+denn das Himmelreich ist ihre.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja, es schallet allermeist
+dieses Wort in unsern Ohren:
+"Wer durch Wasser und durch Geist
+nicht zuvor ist neugeboren,
+wird von dir nicht aufgenommen
+und in Gottes Reich nicht kommen".</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Darum eilen wir zu dir;
+nimm das Pfand von unsern Armen;
+tritt mit deinem Glanz herfür
+und erzeige dein Erbarmen,
+dass es dein Kind hier auf Erden
+und im Himmel möge werden.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wasch es, Jesus, durch dein Blut
+von der angeerbten Sünde;
+dass es jetzt in dieser Flut
+Gnade und Vergebung finde.
+Schenk ihm deines Geistes Gabe,
+dass es dich im Glauben habe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hirte, nimm das Schäflein an;
+Haupt, mach es zu deinem Gliede;
+Himmelsweg, zeig ihm die Bahn;
+Friedefürst, sei du sein Friede;
+Weinstock, hilf, dass diese Rebe
+auch im Glauben dich umgebe.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nun wir legen an dein Herz,
+was vom Herzen ist gegangen.
+Führ die Seufzer himmelwärts
+und erfülle das Verlangen;
+ja den Namen, den wir geben,
+schreib ins Lebensbuch zum Leben.</lines>
+    </verse>
+  </lyrics>
+</song>

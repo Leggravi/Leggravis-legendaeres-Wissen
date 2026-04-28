@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Trust in You</title>
+    </titles>
+    <authors>
+      <author type="words">Lauren Daigle</author>
+      <author type="music">Lauren Daigle</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You have always been
+You will always be
+Faithful
+When I cry out to You God
+And my heart is overwhelmed
+You give</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I know I can trust you
+At all times
+Cause The One who is higher
+Stands by the my side</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hide me God
+In the shadows of your wings
+Draw me close
+I’m secured in Your holy embrace
+I will trust in You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God You are The One
+Who is steadfast strong and true
+Always… always….</lines>
+    </verse>
+  </lyrics>
+</song>

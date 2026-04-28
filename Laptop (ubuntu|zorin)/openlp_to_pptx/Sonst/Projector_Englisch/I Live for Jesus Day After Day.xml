@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Live for Jesus Day After Day</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I Live for Jesus day after day
+I Live for Jesus, O come what may
+The Holy Spirit, I will obey
+I Live for Jesus day after day.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Have You Counted the Cost?</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a line that is drawn
+by rejecting our Lord,
+Where the call of His Spirit is lost
+And you hurry along,
+with a pleasure mad throng
+Have you counted?
+Have you counted the cost?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Have you counted the cost
+if your soul should be lost
+Though you gain the whole world
+for your own,
+Even though it may be, that the line
+you have crossed,
+Have you counted?
+Have you counted the cost?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You may barter your hope of eternity
+reign
+For a moment of joy at the most
+For the glitter of sin and the things
+it will win
+Have you counted?
+Have you counted the cost?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>While the door of mercy is open to
+you
+Even though the depth of His love
+you exhaust
+Won’t you come and be healed,
+won’t you whisper I yield
+Have you counted? Have you
+counted the cost?</lines>
+    </verse>
+  </lyrics>
+</song>

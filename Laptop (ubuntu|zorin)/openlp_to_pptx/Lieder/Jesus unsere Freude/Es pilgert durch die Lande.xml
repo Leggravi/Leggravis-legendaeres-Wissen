@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:40">
+  <properties>
+    <titles>
+      <title>Es pilgert durch die Lande</title>
+    </titles>
+    <authors>
+      <author type="words">Freda von Bethmann-Hollweg (1901)</author>
+      <author type="music">Befiehl du deine Wege</author>
+    </authors>
+    <ccliNo>5735482</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es pilgert durch die Lande
+erlöst die selge Schar,
+in ihren Reihn tönt leise
+ein Lied, gar wunderbar.
+Es klingt im Land der Tränen
+wie lauter Jubelklang,
+es singt trotz tiefem Sehnen
+von Sieg der Lobgesang.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Es ist das Lied vom Lamme,
+das herrlich neue Lied,
+das von dem Kreuzesstamme
+durch Ewigkeiten zieht,
+das Lied von Jesu Wunden,
+von Jesu Sieg und Macht,
+wie Er ein Heil gefunden,
+das hier schon selig macht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und wo sich Seelen finden,
+die einen stimmen's an,
+das ewge Lied vom Lamme,
+von dem, was Er getan;
+die andern singen's weiter,
+es braucht der Worte nicht,
+sie kennen sich am Liede,
+am leuchtenden Gesicht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O selges Lied vom Lamme,
+wann singen wir's beim Herrn?
+Wann wirst Du wieder kommen,
+Du heller Morgenstern?
+O sammle bald die Deinen,
+ja, Herr, mach uns bereit,
+zu singen Dir, dem Lamme,
+in alle Ewigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

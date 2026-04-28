@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Beleb dein Werk, o Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Ernst Heinrich Gebhardt</author>
+      <author type="music">James McGranahan</author>
+      <author type="translation">Revive Thy work, o Lord</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Beleb Dein Werk, o Herr,
+zeig Deinen starken Arm,
+weck durch Dein Wort die Toten auf,
+der Deinen Herz mach warm.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beleb Dein Werk,
+gib neuen Gnadenschein;
+Dir wird dafür dann Preis und Ehr
+und uns der Segen sein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Beleb Dein Werk, o Herr,
+vertreib den Schlaf geschwind,
+den glimmend Docht fach an zur Flamm
+durch Deines Geistes Wind.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Beleb Dein Werk, o Herr,
+was krank ist, mache wohl,
+den Durst und Hunger still mit Dir,
+mach uns des Geistes voll.</lines>
+    </verse>
+  </lyrics>
+</song>

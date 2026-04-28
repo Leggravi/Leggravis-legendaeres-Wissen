@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>By Faith</title>
+    </titles>
+    <authors>
+      <author type="words">Keith Getty</author>
+      <author type="music">Keith Getty</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v3 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>By faith we see the hand of God
+In the light of creation's grand design
+In the lives of those who prove His faithfulness
+Who walk by faith and not by sight</lines>
+    </verse>
+    <verse name="v2">
+      <lines>By faith our fathers roamed the earth
+With the power of His promise in their hearts
+Of a holy city built by God's own hand
+A place where peace and justice reign</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We will stand as children of the promise
+We will fix our eyes on Him our soul's reward
+Till the race is finished and the work is done
+We'll walk by faith and not by sight</lines>
+    </verse>
+    <verse name="v4">
+      <lines>By faith the prophets saw a day
+When the longed-for Messiah would appear
+With the power to break the chains of sin and death
+And rise triumphant from the grave</lines>
+    </verse>
+    <verse name="v5">
+      <lines>By faith the church was called to go
+In the power of the Spirit to the lost
+To deliver captives and to preach good news
+In every corner of the earth</lines>
+    </verse>
+    <verse name="v6">
+      <lines>By faith this mountain shall be moved
+And the power of the gospel shall prevail
+For we know in Christ all things are possible
+For all who call upon His name</lines>
+    </verse>
+    <verse name="v7">
+      <lines>We will stand as children of the promise
+We will fix our eyes on Him our soul's reward
+Till the race is finished and the work is done
+We'll walk by faith and not by sight
+We'll walk by faith and not by sight</lines>
+    </verse>
+  </lyrics>
+</song>

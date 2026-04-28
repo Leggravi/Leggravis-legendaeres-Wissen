@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What A Mighty God</title>
+    </titles>
+    <authors>
+      <author type="words">Pascal Görtz</author>
+      <author type="music">Pascal Görtz</author>
+      <author type="translation">Starker Gott</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What a mighty God we serve,
+What a mighty God we serve,
+Angels bow before Him,
+Heaven and earth adore Him,
+What a mighty God we serve.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus is the God we serve,
+Jesus is the God we serve,
+Angels bow before Him,
+Heaven and earth adore Him,
+Jesus is the God we serve.</lines>
+    </verse>
+  </lyrics>
+</song>

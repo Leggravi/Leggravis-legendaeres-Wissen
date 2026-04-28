@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du, Herr, erhörest, wenn wir beten</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Georg Neumark</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du, Herr, erhörest, wenn wir beten
+und glaubend schaun zu Dir hinauf;
+wir sind allzeit durch Dich vertreten,
+durch Dich bewacht im Pilgerlauf.
+Wir können frei und sicher geht,
+wenn wir, o Herr, auf Dich nur sehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du hast für uns das Kreuz getragen,
+bis wir den guten Kampf vollbracht.
+Du gingst voran und ziehst uns nach.
+Du hast für uns den Feind geschlagen
+und wirkst für uns noch jeden Tag.
+Es trägt und schützt uns Deine Macht,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ein Vorrecht ist's, hinauszugehen,
+zu folgen Deinen Schritten nach,
+mit Dir vom Lager fern zu stehen
+und willig tragen Deine Schmach,
+zum Lobe Gottes sich zu weihn,
+bis Du uns führst zur Ruhe ein.</lines>
+    </verse>
+  </lyrics>
+</song>

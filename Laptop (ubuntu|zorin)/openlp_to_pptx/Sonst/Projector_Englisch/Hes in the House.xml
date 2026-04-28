@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He's in the House</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Little girl was lying there the people all were weeping,
+They just laughed at Jesus when He said she's only sleeping,
+As He took her by the hand she began to live again,
+Some began to praise the Lord and some began to say.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He's in the house,
+Death had to flee,
+Now there is life
+Where darkness use to be,
+Now there is hope,
+There's no more doubt,
+Praise His name (2x)
+He's in the house.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I was like that little girl dead in all my sin,
+Till Jesus touched this heart of mine and gave me life again,
+I am just a house of clay,
+And every since that blessed day,
+there's a light that shines in me,
+for all the world to see.</lines>
+    </verse>
+  </lyrics>
+</song>

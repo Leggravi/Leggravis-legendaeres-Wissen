@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There is nothing greater than grace</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3 v6 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What do you say to someone
+Who feels like they’ve lost it all
+Over the edge, with no one there to break their fall
+And what do you say to someone
+Who feels so unloved
+Giving themselves away
+A little bit everyday
+Just to be good enough</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And what do you say to a hopeless soul
+Who can’t remember their way home
+And everything is out of their control</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is no valley
+There is no darkness
+There is no sorrow
+Greater than the grace of Jesus
+There is no moment
+There is no distance
+There is no heartbreak
+He can’t take you through
+So before you think that you’re too lost to save
+Remember there is nothing greater than grace</lines>
+    </verse>
+    <verse name="v4">
+      <lines>What do you say to someone
+Whose life is on the line
+And they’re unsure what happens after their last breath in time
+What do you say to someone who’s built a wall you can’t break through
+And it’s so hard for them to hear the truth</lines>
+    </verse>
+    <verse name="v5">
+      <lines>What do you say to a life of regret
+That’s trying so hard to forget
+What do you say to dreams unmet</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Don’t lose heart
+Don’t let go
+Don’t give up
+You are not alone</lines>
+    </verse>
+  </lyrics>
+</song>

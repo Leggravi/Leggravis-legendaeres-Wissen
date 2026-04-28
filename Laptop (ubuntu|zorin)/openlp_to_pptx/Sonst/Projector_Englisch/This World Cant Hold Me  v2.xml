@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This World Can’t Hold Me – v2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This old world can never hold me.
+Any moment I’ll be gone,
+For I’ve made my consecration,
+And I have the wedding garment on.</lines>
+    </verse>
+  </lyrics>
+</song>

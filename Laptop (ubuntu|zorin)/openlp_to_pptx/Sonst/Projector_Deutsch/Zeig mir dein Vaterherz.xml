@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Zeig mir dein Vaterherz</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Platzek</author>
+      <author type="music">Kirk Dearman</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zeig mir dein Vaterherz, o Gott,
+ganz nah bei Dir von Deiner Liebe eng umfangen, Herr!
+Wie Kinder bleiben möchten wir für immer
+als Sohn und Tochter beten wir zu Dir, Herr:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zeig mir dein Vaterherz, o Gott
+Zeig mir dein Vaterherz, o Gott</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lieber Vater, ich bete zu Dir.
+Vater Dein Geist bringt Heilung mir.
+Vater die Angst ich nun verlier.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:29">
+  <properties>
+    <titles>
+      <title>Erforsche mich, Jesu, mein Licht</title>
+    </titles>
+    <authors>
+      <author type="words">Johanna Meyer (1883)</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <ccliNo>4943732</ccliNo>
+    <themes>
+      <theme>Heilung</theme>
+      <theme>Hingabe</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Erforsche mich, Jesus, mein Licht,
+durchleuchte mein Innerstes mir!
+Mein eignes Bemühen taugt nicht.
+||: Ich nahe mich willig,
+ich nahe mich willig,
+ich nahe mich dir. :||</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Was soll mir die Welt und ihr Spiel?
+Sie gab weder Trost mir noch Ruh.
+Ich habe ein höheres Ziel:
+||: mein Kleinod, o Jesu,
+mein Kleinod, o Jesu,
+mein Kleinod bist du. :||</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich gebe mein Liebstes dir her;
+mein alles auf Erden sei dein.
+Was frag ich nach irdischem mehr?
+||: Du selbst, o Herr Jesu,
+du selbst, o Herr Jesu,
+du selbst bist ja mein. :||</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Im Glauben erfasse ich dich;
+ich weiß es und traue dir's zu:
+du reinigst und heiligest mich.
+||: Du kannst mich erretten,
+du willst stets erretten,
+allmächtig bist du. :||</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dir, Jesu, sei Lob und sei Ehr!
+Du bist meine Kraft, meine Ruh.
+Du hältst mich, was will ich noch mehr?
+||: Du kannst mich bewahren,
+du willst stets bewahren,
+allmächtig bist du! :||</lines>
+    </verse>
+  </lyrics>
+</song>

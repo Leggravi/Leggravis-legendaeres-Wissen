@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 17, 2021, 2:19:10 PM">
+  <properties>
+    <titles>
+      <title>Days of Elijah</title>
+    </titles>
+    <verseOrder>V1 V2 C3 V4 C3 V5 C3 V6 C3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>These are the days of Elijah,
+Declaring the Word of the Lord;
+And these are the days of Your servant, Moses,
+Righteousness being restored;</lines>
+    </verse>
+    <verse name="V2">
+      <lines>And though these are days of great trials,
+Of famine and darkness and sword;
+Still we are the voice in the desert, crying,
+Prepare ye the way of the Lord.</lines>
+    </verse>
+    <verse name="C3">
+      <lines>Behold He comes, riding on the clouds,
+Shining like the sun, at the trumpet's call;
+Lift your voice, it's the year of Jubilee,
+Out of Zion's hill Salvation comes.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>These are the days of Ezekiel,
+With dry bones becoming as flesh;
+And these are the days of Your servant, David,
+Rebuilding the temple of praise;</lines>
+    </verse>
+    <verse name="V5">
+      <lines>And these are the days of the harvest,
+The fields are all white in the world;
+And we are the laborers in Your vineyard,
+Declaring the Word of the Lord.</lines>
+    </verse>
+    <verse name="V6">
+      <lines>/: Who Was and Who Is
+And Who Is to Come… :/
+To come, to come.</lines>
+    </verse>
+  </lyrics>
+</song>

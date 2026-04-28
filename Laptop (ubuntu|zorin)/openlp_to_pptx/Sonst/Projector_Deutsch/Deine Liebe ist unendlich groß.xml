@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Deine Liebe ist unendlich groß</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deine Liebe ist unendlich groß.
+Du hast dich selbst gegeben,
+dein Tod für mein Leben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deine Liebe blendet mich,
+wer ist wie Du?
+Ein Spiegel deiner Schönheit will ich sein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du bist größer als mein Verstand je fassen kann,
+viel zu rein um in deiner Nähe zu sein.
+Du bist größer als mein Herz jemals glauben kann
+viel zu heilig, um auch nur in dein Angesicht zu schau'n.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: Doch dein Tod Jesus macht mich frei von meiner Schuld
+ich darf bei dir bleiben.
+Am Ende werde ich auferstehn und
+die Herrlichkeit meines Gottes sehen. :/</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Du bist größer als mein Verstand je fassen kann,
+viel zu rein um in deiner Nähe zu sein.
+Du bist größer als mein Herz jemals glauben kann
+viel zu heilig, um auch nur in dein Angesicht zu schau'n.</lines>
+    </verse>
+  </lyrics>
+</song>

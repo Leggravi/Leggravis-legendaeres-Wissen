@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hand of Providence</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Providence, Providence
+See it laying down the cornerstone
+The Hand of Providence, it's evident
+For we could never make it on our own
+Apportioning the power
+Weighing all that it entails
+Giving us the fulcrum
+And a balance to the scales</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, the Hand of Providence
+Is guiding us through choices that we make.
+Oh, the Hand of Providence
+Is reaching out to help us on our way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Providence, ever since
+Any thesis ever entered man
+The Hand of Providence
+Has been our best defense
+Tho' his ways are sometimes hard to understand
+From the dying of a hearbeat
+To another soul reborn
+From in between and circling
+Our thoughts of love and war</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Durch herrliche Auen</title>
+    </titles>
+    <authors>
+      <author type="words">Wolfgang Zorn</author>
+      <author type="music">George A. Young</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Durch herrliche Auen, so blühend und licht,
+bahnt Gott seinen Kindern den Weg.
+Wo das Wasser erfrischt, dem an Mut es gebricht,
+bahnt Gott seinen Kindern den Weg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er führt durch Wasser, durch tiefe Flut,
+führt dich durch Feuer, dich heilt Jesus Blut.
+In Not und Trübsal gibt er dir Mut.
+In Nacht und Grauen ist er deine Hut.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oft über die Höhn, wo die Sonne uns lacht,
+bahnt Gott seinen Kindern den Weg.
+Doch oft auch durchs Tal, durch die dunkelste Nacht,
+bahnt Gott seinen Kindern den Weg.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wenn Sorge uns drückt, uns Satan erscheint,
+bahnt Gott seinen Kindern den Weg.
+In ihm sind wir Sieger! Im Kampf mit dem Feind,
+bahnt Gott seinen Kindern den Weg.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hinweg von der Sünde, von Nacht und von Leid,
+bahnt Gott seinen Kindern den Weg.
+Hinein in die Fülle zukünftiger Zeit,
+bahnt Gott seinen Kindern den Weg.</lines>
+    </verse>
+  </lyrics>
+</song>

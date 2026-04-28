@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It Will Be Worth It After All</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We need our spirit filled preachers,
+To teach us right from wrong,
+We need our old fashioned sisters,
+Who'll pray all night long,
+We need some good gospel singing,
+To help us go another mile,
+The church will triumph on,
+And go Home in a little while.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It will be worth it after all Church,
+It will be worth it after all,
+After all of these trials, We'll hear Jesus call,
+It will be worth it after all Church,
+It will be worth it after all,
+After all of these trials it will be worth it after all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When you're down in the valley,
+Pray is all I can do,
+And the Lord sends deliverance,
+And strength to endure,
+Now if you're up on the mountain,
+And see me struggling along,
+Lift my Name up to Jesus,
+Let's help each other to make it Home.</lines>
+    </verse>
+  </lyrics>
+</song>

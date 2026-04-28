@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Beside Thy Manger Here I Stand</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Beside thy manger here I stand
+Dear Jesus, Lord and Savior
+A gift of love within my hand
+To thank Thee for Thy favor
+O take my humble offering
+my heart, my soul, yes, everything
+Is Thine to keep forever.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With joy I gaze upon Thy face;
+Thy glory and Thy splendor
+Is greater than my heart can praise
+And songs can fitly render.
+O how I wish my mind would be
+As boundless as the deepest sea,
+T'would still be lost in wonder.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O grant me this abundant grace -
+I hope t'will meet Thy pleasure -
+That I might be Thy dwelling place,
+Dear Savior Sweetest Treasure.
+O Let me be Thy manger-bed
+Then shall I lift my lowly head
+With joy beyond all measure.</lines>
+    </verse>
+  </lyrics>
+</song>

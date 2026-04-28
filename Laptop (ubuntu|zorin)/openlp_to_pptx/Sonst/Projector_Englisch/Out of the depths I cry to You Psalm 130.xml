@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Out of the depths I cry to You (Psalm 130)</title>
+    </titles>
+    <authors>
+      <author type="words">Gracia Grindal</author>
+      <author type="music">Aus tiefer Not schrei ich zu dir</author>
+      <author type="translation">Aus tiefer Not schrei ich zu dir</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Out of the depths I cry to You
+In darkest places I will call,
+Incline Your ear to me anew
+And hear my cry for mercy Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Were You to count my sinful ways,
+How could I come before Your throne,
+Yet full forgiveness meets my gaze
+I stand redeemed by grace alone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will wait for You I will wait for You,
+On Your word I will rely,
+I will wait for You surely wait for You,
+Till my soul is satisfied.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So put Your hope in God alone,
+Take courage in His power to save,
+Completely and forever won
+By Christ emerging from the grave.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>His steadfast love has made a way
+And God Himself has paid the price
+That all who trust in Him today
+Find healing in His sacrifice.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I will wait for You I will wait for You
+Through the storm and through the night
+I will wait for You surely wait for You
+For Your love is my delight.</lines>
+    </verse>
+  </lyrics>
+</song>

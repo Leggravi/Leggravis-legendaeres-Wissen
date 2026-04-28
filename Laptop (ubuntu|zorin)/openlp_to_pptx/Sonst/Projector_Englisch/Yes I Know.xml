@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Yes, I Know</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, ye sinners, lost and hopeless
+Jesus' blood can make you free;
+For He saved the worst among you
+When He saved a wretch like me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I know, yes, I know
+Jesus' blood can make the vilest sinner clean
+And I know, yes, I know
+Jesus' blood can make the vilest sinner clean</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To the faint He giveth power
+Through the mountains makes a way;
+Findeth water in the desert
+Turns the night to golden day</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In temptation He is near thee
+Holds the pow'rs of hell at bay;
+Guides you to the path of safety
+Gives you grace for every day</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He will keep thee while the ages
+Roll throughout eternity;
+Though earth hinders and hell rages
+All must work for good to thee</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Keep Me From All Wrong</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I had lived a life of sin and sorrow,
+Till I found the Lord,
+Jesus is my Saviour He died
+at Calvary;
+I’ll follow Him with all my heart,
+I love Him, yes I do
+I can see a new bright future
+As from sin He set me free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus keep me from all wrong,
+Jesus He was God’s
+begotten Son
+Jesus the sweetest name
+I know,
+Jesus, He guides me as I go.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>One day we’ll hear Him calling,
+We’ll meet Him in the air;
+We shall all rise up to heaven
+For the marriage supper there
+For there there’s peace forever
+Upon that golden shore,
+We’ll reign with Christ in Heaven
+And praise Him ever more.</lines>
+    </verse>
+  </lyrics>
+</song>

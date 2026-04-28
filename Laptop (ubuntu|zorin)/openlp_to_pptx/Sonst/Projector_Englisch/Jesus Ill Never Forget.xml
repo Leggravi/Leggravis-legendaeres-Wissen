@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus I'll Never Forget</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus I'll never forget
+What You've done for me,
+Jesus, I'll never forget
+How You set me free,
+Jesus, I'll never forget
+How You brought me out,
+Jesus I'll never forget, no, never.</lines>
+    </verse>
+  </lyrics>
+</song>

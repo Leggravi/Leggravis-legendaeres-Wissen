@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Trust in the Lord and Don't Despair</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Trust in the Lord and don’t despair,
+He is a friend so true!
+No matter what your troubles are,
+Jesus will see you through.
+Sing, when the day is bright;
+Sing, through the darkest night
+Everyday, all the way,
+Let us sing, sing, sing!</lines>
+    </verse>
+  </lyrics>
+</song>

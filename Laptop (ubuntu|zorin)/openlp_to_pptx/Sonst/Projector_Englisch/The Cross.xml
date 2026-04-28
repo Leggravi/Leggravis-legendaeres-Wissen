@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Cross</title>
+    </titles>
+    <authors>
+      <author type="words">Reuben Morgan</author>
+      <author type="music">Reuben Morgan</author>
+      <author type="translation">Hier am Kreuz (Herr, du erforscht mich)</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To some it's just an emblem
+a formality.
+It's a symbol that's been used
+so frequently.
+Many blaspheme and despise.
+Though it's ancient, it abides.
+A shrine to death that stands
+for life to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There was a cross made
+For the Son of God at Calvary.
+Two pieces of rough timber on a hill.
+Through His hands
+and through His feet,
+He took the nails for you and me.
+Angels watched
+as He died for the lost.
+Though He could have walked away
+He chose the cross.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You see why this old emblem
+is so dear to me.
+It stood for suffering,
+yet it brought us peace.
+It bridged the gap for me.
+Offered cleansing for our sins.
+An icon that reminds us
+that we're free.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God forbid that I should ever
+Let my memory fade.
+But forever keep the cross in view
+For that's where I was saved.</lines>
+    </verse>
+  </lyrics>
+</song>

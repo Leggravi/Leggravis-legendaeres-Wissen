@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He will give the weary strength</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Those who hope in the Lord will renew their strength
+They will run and not grow weary, they will walk and not be faint
+And like a flight upon an eagle's wings, He will give the weary strength</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So lift your eyes up to the sky
+To the one who hears you when you cry</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Those who hope in the Lord will renew their strength
+They will run and not grow weary, they will walk and not be faint
+Like a flight upon an eagle's wings, He will give, He will give
+He will give the weary strength</lines>
+    </verse>
+  </lyrics>
+</song>

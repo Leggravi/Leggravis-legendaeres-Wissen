@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Turn It Up</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v3 v6 v7 v3 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are here as we lift You up
+You are riding on our praise
+Be enthroned over everything
+You are seated in our praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This is prophetic I can feel it in the air
+We lift our praise and You change the atmosphere
+With hearts open now everybody singing out
+Oh-oh-oh</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Turn it up this sound of praise
+Make it louder than any other
+Lift Him up and shout His name
+Over all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>As we praise, I can feel the change
+As Your presence now invades
+Hear the sound of the broken chains
+Prison doors are giving way</lines>
+    </verse>
+    <verse name="v5">
+      <lines>This is prophetic I can feel it in the air
+We lift our praise and You change the atmosphere
+With hearts open now everybody singing out
+I am free!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Our praise goes up
+Your rain comes down
+Our praise goes up
+Your rain comes down
+Our praise goes up
+Your rain comes down
+Our praise goes up
+Your rain comes down</lines>
+    </verse>
+    <verse name="v7">
+      <lines>With shouts of praise
+We celebrate
+King of glory enter in
+You are riding on our praise
+Oh Lord</lines>
+    </verse>
+  </lyrics>
+</song>

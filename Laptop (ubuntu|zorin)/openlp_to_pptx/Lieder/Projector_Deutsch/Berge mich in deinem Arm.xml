@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Berge mich in deinem Arm</title>
+    </titles>
+    <authors>
+      <author type="words">Winnie Schweitzer</author>
+      <author type="music">Reuben Morgan</author>
+      <author type="translation">Hide Me Now Under Your Wings (Still)</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Berge mich in deinem Arm                         (F-Dur)
+Schütze mich mit deiner starken Hand.®
+
+® Wenn die Meere toben, Stürme wehn,
+ werd ich mit dir übers Wasser gehn. 
+Du bist König über Wind und Flut. 
+Mein Herz wird still; denn du bist gut.
+
+Komm, ruh dich aus bei deinem Gott.
+Trau auf ihn und seine große Kraft ®</lines>
+    </verse>
+  </lyrics>
+</song>

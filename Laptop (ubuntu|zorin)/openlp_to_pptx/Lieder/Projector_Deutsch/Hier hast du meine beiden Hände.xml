@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hier hast du meine beiden Hände</title>
+    </titles>
+    <authors>
+      <author type="words">Hedwig von Redern</author>
+      <author type="music">Friedrich Eckardt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hier hast du meine beiden Hände,
+ich kann ja nichts aus eigner Kraft:
+du weißt den Weg, du weißt das Ende,
+bring du mich durch die Fremdlingschaft.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ach, leite mich mit deinen Augen
+auf jeden Schritt im dunklen Tal!
+Wie gar nichts meine Kräfte taugen,
+ich fühl es täglich tausendmal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich müsste ja vor Angst verzagen,
+wüsst ich nicht, dass du mit mir gehst,
+dass deine Schultern für mich tragen,
+und dass im Kampf du bei mir stehst.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich bitte nur, das bis zum Ende
+du mich in dein Erbarmen hüllst;
+hier hast du meine beiden Hände:
+nun mache mit mir, was du willst.</lines>
+    </verse>
+  </lyrics>
+</song>

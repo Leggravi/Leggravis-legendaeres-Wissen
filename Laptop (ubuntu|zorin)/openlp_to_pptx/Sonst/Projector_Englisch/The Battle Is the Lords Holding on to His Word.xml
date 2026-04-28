@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Battle Is the Lords (Holding on to His Word)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holding on to His word
+Like a mighty sword in our hands
+With the shield of faith,
+And all God's armor in place,
+We can stand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When the battle is the Lords,
+By faith we can endure,
+When the battle is the Lords,
+The victory is sure,
+There is nothing to prove,
+There is nothing to lose,
+When the battle is the Lords.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the battle is the Lords,
+Our faith will soon be sight,
+When the battle is the Lords,
+We will not need to fight,
+There is nothing to prove,
+There is nothing to lose,
+When the battle is the Lords,
+The battle is the Lords</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In the valley of fear
+Giants drawing near,
+Threatening,
+Lord, please open our eyes,
+Heaven's on our side,
+We can sing.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We know the One who's in us,
+Is greater than he in this world,
+So we'll claim the ground God gives us,
+Let the banners be unfurled.</lines>
+    </verse>
+  </lyrics>
+</song>

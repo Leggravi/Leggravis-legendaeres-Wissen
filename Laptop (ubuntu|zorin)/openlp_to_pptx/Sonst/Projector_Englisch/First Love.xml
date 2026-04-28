@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>First Love</title>
+    </titles>
+    <authors>
+      <author type="words">Anja Lehmann</author>
+      <author type="music">Anja Lehmann</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I used to be the one who would long to hear Your voice
+A child who sought to win his Father's heart
+But as I carried on, life's got a hold on me
+Now here I am a son so far from home</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tell me when did I loose my first love?
+Where did the fire and passion go?
+Burn in me Your holy fire give me back my lost desire
+And restore in me the love I felt for You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Can I remember how it felt?
+When they looked into my face
+And they saw the love of Jesus in my eyes,
+When I looked back on my life
+And questioned where I've been
+Can I really say I've done my best for you?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh where did I go (I've lost my way)
+Oh I'm lost and I'm alone
+Oh help me please
+Lord lead me home.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Father take me back
+Let me start again
+Lord I've failed and fallen in my pride
+Lead me back to you (back to you)
+Where my life began
+Revive in me the yearning that has died</lines>
+    </verse>
+  </lyrics>
+</song>

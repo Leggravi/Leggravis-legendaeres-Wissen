@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord, I’m Coming Home</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’ve wandered far away from God,
+Now I’m coming home;
+The paths of sin too long
+I’ve trod, Lord, I’m coming home.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Coming home, coming home,
+Nevermore to roam;
+Open wide Thine arms of love,
+Lord, I’m coming home.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I’ve wasted many precious years,
+Now I’m coming home;
+I now repent with bitter tears,
+Lord, I’m coming home.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I’m tired of sin and straying, Lord,
+Now I’m coming home;
+I’ll trust Thy love, believe Thy Word,
+Lord, I’m coming home.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My soul is sick, my heart is sore,
+Now I’m coming home;
+My strength renew, my hope restore,
+Lord, I’m coming home.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>My only hope, my only plea,
+Now I’m coming home;
+That Jesus died, and died for me,
+Lord, I’m coming home.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I need His cleansing blood,
+I know, Now I’m coming home;
+O wash me whiter than the snow,
+Lord, I’m coming home.</lines>
+    </verse>
+  </lyrics>
+</song>

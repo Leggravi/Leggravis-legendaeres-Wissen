@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Up to Jerusalem</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v2 v4 v1 v2 v1 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was glad when They said to me,
+Come to the House of the Lord,
+Standing here in Your gates again,
+Up to Jerusalem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I was glad when They said to me,
+Come to the House of the Lord,
+Standing here in Your gates again,
+Up to Jerusalem,
+Up to Jerusalem, Up to Jerusalem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jerusalem, peace,
+Adonai Sar Shalom,
+Blessing be yours,
+God's peace within your walls.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>City of praise,
+Where the tribes shout Hallelujah,
+We lift your voice,
+To the God of Israel.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/: Up to Jerusalem
+Up to Jerusalem
+Up to Jerusalem. :/
+Jerusalem….!!</lines>
+    </verse>
+  </lyrics>
+</song>

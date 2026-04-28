@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Schau mich an</title>
+    </titles>
+    <authors>
+      <author type="words">Jürgen Henkys</author>
+      <author type="music">Manfred Domrös</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, mit deinen Augen schau mich an
+Jesus, mit deinen Augen schau mich an 
+Lass mich in deine Augen seh'n
+Ob ich's ertragen kann, weiß ich nicht
+Doch wenn ich in deine Augen seh - will ich nur dich</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, leg deine Hände auf mich
+Jesus, leg deine Hände auf mich
+Leg deine Hände auf mich Herr
+Ob ich's ertragen kann, weiß ich nicht
+Doch mit deinen Händen auf mir, Jesus - will ich nur dich</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, sprich deine Worte in mein Herz 
+Jesus, sprich deine Worte in mein Herz
+Sprich deine Worte in mein Herz
+Ob ich's ertragen kann, weiß ich nicht
+Doch mit deinem Wort in meinem Herzen - will ich nur dich</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wait on the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Kevin Prosch</author>
+      <author type="music">Kevin Prosch</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's not a mountain too tall
+There's not a problem too small
+That Jesus can't resolve
+In time He'll get involved
+Our God He cares about us</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So wait on the Lord
+Wait on the Lord
+Wait on the Lord
+And He'll renew your strength</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's not a light too dark
+A journey too long to embark
+Jesus will see you through
+In time He'll make you new
+Our God He cares about us</lines>
+    </verse>
+    <verse name="v4">
+      <lines>'Cause He's ordering,
+He's ordering your strength
+You've got to wait, you've got to wait</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Enough</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v4 v5 v6 v1 v4 v7 v1 v4 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You're making me a fighter, a fighter
+You're taking me higher, higher
+You're giving me the strength I need to believe
+Life is worth living'cause You love me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So many people up ahead of me
+Feels like I'll never see the finish line
+I hear the voices of the enemy
+Telling me I'll never see the other side</lines>
+    </verse>
+    <verse name="v3">
+      <lines>But it's not what they say
+It's not what I think
+That defines who I am
+I need Your voice
+I need Your words
+To remind me again</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And that's enough, that's enough
+That's enough You love me
+You're enough, You're enough
+You're enough, enough for me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>If you take away my abilities
+I still know who I'm meant to be
+I can overcome anything
+'Cause Your Spirit is alive in me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Only Your voice
+Only Your words
+Can define who I am
+I need Your voice
+I need Your words
+To remind me again</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I am chosen and redeemed
+Your love has set me free
+You define my identity, oh
+I am seen and I am known
+You call me as Your own
+You define my identity, yeah</lines>
+    </verse>
+    <verse name="v8">
+      <lines>And that's enough, that's enough
+That's enough You love me
+You're enough, You're enough
+You're enough, enough for me.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Bliss Of The Purified</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, bliss of the purified! Bliss of the free,
+I plunge in the crimson tide opened for me;
+O’er sin and uncleanness exulting I stand,
+And point to the print of the nails in His hand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, sing of His mighty love,
+Sing of His mighty love,
+Sing of His mighty love—
+Mighty to save!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, bliss of the purified! Jesus is mine,
+No longer in dread condemnation I pine;
+In conscious salvation I sing of His grace,
+Who lifted upon me the light of His face.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, bliss of the purified! Bliss of the pure!
+No wound hath the soul that His blood cannot cure;
+No sorrow-bowed head but may sweetly find rest,
+No tears but may dry them on Jesus’ breast.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O Jesus the Crucified! Thee will I sing,
+My blessed Redeemer, my God and my King;
+My soul, filled with rapture, shall shout o’er the grave,
+And triumph in death in the Mighty to Save!</lines>
+    </verse>
+  </lyrics>
+</song>

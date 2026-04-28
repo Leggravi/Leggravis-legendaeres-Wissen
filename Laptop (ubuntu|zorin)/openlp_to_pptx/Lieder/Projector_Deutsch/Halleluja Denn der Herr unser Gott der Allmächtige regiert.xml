@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Halleluja! Denn der Herr, unser Gott, der Allmächtige regiert!</title>
+    </titles>
+    <authors>
+      <author type="words">Andreas Koch</author>
+      <author type="music">Dale Garratt</author>
+      <author type="translation">Hallelujah, for the Lord our God (Hallelujah Our God Reigns)</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Halleluja! Denn der Herr, unser Gott,
+der Allmächtige regiert!
+Wir woll'n uns freun und fröhlich sein
+und Ihm die Ehre geben!
+Halleluja! Denn der Herr, unser Gott,
+der Allmächtige regiert!</lines>
+    </verse>
+  </lyrics>
+</song>

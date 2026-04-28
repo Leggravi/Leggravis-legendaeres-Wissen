@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>No other name</title>
+    </titles>
+    <authors>
+      <author type="words">Robert Gay</author>
+      <author type="music">Robert Gay</author>
+      <author type="translation">Kein andrer Name als der Name Jesus</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No other name, but the name of Jesus
+No other name, but the name of the Lord
+No other name, but the name of Jesus
+Is worthy of glory, and worthy of honor
+And worthy of power and all praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His name is exalted, far above the earth
+His name is high above the heavens
+His name is exalted, far above the earth
+Give glory and honor and praise unto His Name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Lord said He’ll answer, all of our prayers
+When we cry out in His Name
+His name is power, awesome to behold
+Give glory and honor and praise unto His Name</lines>
+    </verse>
+  </lyrics>
+</song>

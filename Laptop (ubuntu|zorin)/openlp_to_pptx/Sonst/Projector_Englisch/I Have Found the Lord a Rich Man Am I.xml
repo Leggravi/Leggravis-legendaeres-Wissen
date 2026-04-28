@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Have Found the Lord a Rich Man Am I</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’ve found something that
+money wouldn’t buy
+I’ve found a good mansion
+beyond the blue sky,
+I've found aland where
+I'll live when I die
+I’ve found the Lord a
+rich man am I
+I've found the Lord a
+rich man am I</lines>
+    </verse>
+    <verse name="v2">
+      <lines>People may say that I am
+dreaming rubbish
+But I believe what I’m believing
+and I’m not gonna quit
+The Bible says I gonna
+live when I die
+I’ve found the Lord a
+rich man am I.
+I’ve found the Lord a
+rich man am I.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I’ve found a dream that
+will surely come true
+I’ve found the rainbow that
+will never turn blue
+I’ve found a land where tears are so
+dry;
+I’ve found the Lord a rich man am I.
+I've found the Lord a rich man am I.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I’ve found a song that angels cannot
+sing
+I’ve found a way to be rich as a King
+I’ve found the love that will burn till
+I die,
+I’ve found the Lord a rich man am I
+I’ve found the Lord a rich man am I.</lines>
+    </verse>
+  </lyrics>
+</song>

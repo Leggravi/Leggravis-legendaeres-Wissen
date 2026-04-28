@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Raise a Hallelujah</title>
+    </titles>
+    <authors>
+      <author type="words">Jonathan David Helser</author>
+      <author type="music">Jonathan David Helser</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I raise a hallelujah, in the presence of my enemies
+I raise a hallelujah, louder than the unbelief
+I raise a hallelujah, my weapon is a melody
+I raise a hallelujah, heaven comes to fight for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm gonna sing, in the middle of the storm
+Louder and louder, you're gonna hear my praises roar
+Up from the ashes, hope will arise
+Death is defeated, the king is alive!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I raise a hallelujah, with everything inside of me
+I raise a hallelujah, I will watch the darkness flee
+I raise a hallelujah, in the middle of the mystery
+I raise a hallelujah, fear you lost your hold on me!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sing a little louder (in the presence of my enemies)
+Sing a little louder (louder than the unbelief)
+Sing a little louder (my weapon is a melody)
+Sing a little louder (heaven comes to fight for me)
+Sing a little louder (in the presence of my enemies)
+Sing a little louder (louder than the unbelief)
+Sing a little louder (my weapon is a melody)
+Sing a little louder (heaven comes to fight for me)
+Sing a little louder!</lines>
+    </verse>
+  </lyrics>
+</song>

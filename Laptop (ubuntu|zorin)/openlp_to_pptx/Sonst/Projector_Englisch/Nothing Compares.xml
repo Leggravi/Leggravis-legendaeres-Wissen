@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nothing Compares</title>
+    </titles>
+    <authors>
+      <author type="words">James Taylor</author>
+      <author type="music">James Taylor</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(But) nothing compares
+To the greatness of knowing You Lord
+Oh no and nothing compares
+To the greatness of knowing You Lord
+Oh no</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Well I've heard all the stories
+And I've seen all the signs
+Witnessed all the glory
+And tasted all that's fine</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I see all the people
+Wasting all their time
+Building up their riches
+For a life that's fine</lines>
+    </verse>
+    <verse name="v4">
+      <lines>BRIDGE
+And I find myself just living for today
+'Cause I don't know what
+Tomorrow's gonna bring
+So no matter if I rise or fall
+I'll never be alone woah no
+Not alone</lines>
+    </verse>
+  </lyrics>
+</song>

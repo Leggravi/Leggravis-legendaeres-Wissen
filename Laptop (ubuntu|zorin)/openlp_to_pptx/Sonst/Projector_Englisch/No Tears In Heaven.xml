@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>No Tears In Heaven</title>
+    </titles>
+    <authors>
+      <author type="words">Eric Clapton</author>
+      <author type="music">Eric Clapton</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No tears in heaven,
+no sorrows even,
+All will be glory in that land,
+There’ll be no sadness,
+all will be gladness,
+When we’ll join our heavenly band.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No tears in heaven, no tears
+In heaven,
+Sorrows and pain will all
+have gone,
+No tears in heaven, no tears
+In heaven,
+No tears in heaven will be known.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Glory is waiting, waiting up yonder,
+Soon we will enter eternal gates
+There with our Saviour we'll
+be forever
+Where no sorrows can dismay.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Some morning yonder,
+we’ll cease to ponder,
+Over all this life has brought to view,
+All will be nearer,
+loved ones be dearer,
+In heaven where all will be made new.</lines>
+    </verse>
+  </lyrics>
+</song>

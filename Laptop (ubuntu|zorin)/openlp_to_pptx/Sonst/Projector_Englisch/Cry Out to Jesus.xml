@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Cry Out to Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Tai Anderson</author>
+      <author type="music">Tai Anderson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To everyone who's lost someone they love
+Long before it was their time
+You feel like the days you had were not enough
+When you said goodbaye</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And to all of the people with burdens and pains
+Keeping you back from your life
+You believe that there's nothing and there is no one
+Who can make it right</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is hope for the Helpless
+Rest for the weary
+And love for the broken heart
+And there is grace and forgiveness
+Mercy and healing
+He'll meet you wherever you are
+Cry out to Jesus
+Cry out to Jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For the marriage that's struggling just to hang on
+They've lost all of their faith in love
+And they've done all thay can to make it right again
+Still its not enough</lines>
+    </verse>
+    <verse name="v5">
+      <lines>For the ones who can't break addictions and
+chains
+You try to give up but you come back again
+just remember you're not alone in your pain
+and suffering.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>When you're lonely
+And you feel like the whole world
+is falling on you
+You just reach out
+You just cry out to Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Passion</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You alone are my passion forever
+Song of my soul Desire of my heart
+You alone are my passion my treasure
+I love You for all that You are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To the ends of the earth I will follow
+There's nothing that I will not do
+You alone are my reason for living
+Jesus my passion is You
+Jesus my passion is You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My life O Jesus
+My love
+You are my passion
+My God my passion
+My passion
+You are my life
+O Jesus my love
+You are my passion
+My God
+My passion
+My passion</lines>
+    </verse>
+  </lyrics>
+</song>

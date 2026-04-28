@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Am Marked</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have lost my reputation since I turned my back on sin,
+And a lot of friends went from me, since I let my Saviour in;
+Now they pass me by unknown, when they once passed with a smile;
+Now they say I’m very foolish, and they say I’m out of style.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am marked, marked, marked,
+I am marked now wherever I go;
+I am marked, marked, marked,
+Just what I am everyone seems to know.
+I am sealed, sealed, sealed,
+I am sealed by His Spirit Divine;
+O glory to God! Hallelujah! Amen!
+I am His, and I know He is mine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Well, they say my life is ruined, and my talent thrown away,
+And they cannot understand it, for I had such plans one day;
+But I know what I surrendered when I promised I’d go through;
+And I gained far more glory since God made me over new.</lines>
+    </verse>
+  </lyrics>
+</song>

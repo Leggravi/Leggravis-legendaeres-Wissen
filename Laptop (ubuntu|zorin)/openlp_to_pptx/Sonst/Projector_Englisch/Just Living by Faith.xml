@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Just Living by Faith</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord when you saved me,
+by faith I was free
+I didn’t know which way to go,
+But Lord you showed me;
+If I trust in your Word,
+Holy Word so divine,
+Just living by faith and walking by faith;
+I’ll always be Thine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Just living by faith,
+faith has no doubt,
+Just living by faith,
+by faith in the Lord,
+Things will work out,
+You’ll have no more struggles
+then make up your mind,
+Just living by faith,
+and willing by faith,
+His Word is more divine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dear Lord you never,
+gave me reason to doubt,
+You were there all the time,
+that I was so blind
+Till by faith I reached out,
+By faith Lord I found you and
+by faith I can see,
+Just living by faith,
+and I know that by faith
+You'll always be mine.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh Say, But I'm Glad</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a song in my heart today,
+Something I never had;
+Jesus has taken my sins away,
+Oh say, but I'm glad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh say, but I'm glad, I'm glad,
+Oh say, but I'm glad;
+Jesus has come
+And my cup's overrun;
+Oh say but I'm glad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wonderful, marvelous
+Love He brings,
+Into a heart that's sad;
+Through darkest tunnels
+The soul just sings,
+Oh say, but I'm glad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We have a fellowship
+Rich and sweet,
+Tongues can never relate;
+Abiding in Him is a real treat,
+Oh say, but I'm glad.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Won't you come to Him
+With all your care,
+Weary and worn and sad?
+You too, will sing
+As His love you share.
+Oh say, but I'm glad.</lines>
+    </verse>
+  </lyrics>
+</song>

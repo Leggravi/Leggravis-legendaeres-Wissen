@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Glück unaussprechlich!</title>
+    </titles>
+    <authors>
+      <author type="words">Julius Anton von Poseck</author>
+      <author type="music">Carl Friedrich Brockhaus</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Glück unaussprechlich! Gott zürnet nicht mehr.
+Den feindlichen Sünder begnadigte Er.
+All unsre Sünd'
+Ist längst gesühnt,
+Der Kerker gekettet,
+Der Tod ist getötet.
+In Jesu ward Heil uns und Leben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Am Throne der Gnade - wer fasset dies Glück? –
+Begegnet uns, Jesu, Dein huldreicher Blick.
+Du Menschensohn
+Auf Gottes Thron,
+Vertrittst uns dort immer,
+Versäumest uns nimmer,
+Bist unser getreuer Sachwalter.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bald kommst Du im Glanze vom Himmel aufs neu'
+Und krönest Dein Siegen und machst uns ganz frei.
+Die sel'ge Braut
+Frohlocket laut,
+Wenn heim sie geführet,
+Mit Dir triumphieret
+Und droben, wie Du bist, Dich schauet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Unendliche Liebe, wie reich machst Du doch!
+Du liebst uns, o Heiland, was fehlet uns noch?
+Wie danken wir,
+O Liebe, Dir!
+Bald werden wir droben
+Dich ewiglich loben
+Und Ehr' und Anbetung Dir bringen.</lines>
+    </verse>
+  </lyrics>
+</song>

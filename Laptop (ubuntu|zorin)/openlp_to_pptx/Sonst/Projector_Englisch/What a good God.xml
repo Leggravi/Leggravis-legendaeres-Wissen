@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What a good God</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v5 v6 v2 v3 v3 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Each time I doubt Your goodness
+You show me You are with us
+Your presence makes the difference
+I've seen it every time</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What a good God
+Bringing me back to life
+Opening up my eyes
+God of every blessing
+Standing by my side</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Calling me by name
+I won't be afraid
+Faithful to Your promise
+You will make a way</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No wall can stop Your kindness
+No place Your love won't find us
+Mercy is right behind us
+I've seen it every time</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Calling me by name
+I won't be afraid
+Faithful to Your promise
+You will make a way
+You will make a way</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I've seen it, I've seen it
+I've seen it every time
+I've seen it, I've seen it
+I've seen it every time
+You're faithful, You're faithful
+You're faithful every time
+You're faithful, You're faithful
+You're faithful every time
+I've seen it, I've seen it
+I've seen it every time
+You're faithful, You're faithful
+You're faithful</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I've seen it, I've seen it
+I've seen it every time
+I've seen it, I've seen it
+I've seen it every time
+You're faithful, You're faithful
+You're faithful every time
+You're faithful, You're faithful
+You're faithful
+(Yeah)
+You're faithful
+You're faithful
+You're faithful</lines>
+    </verse>
+  </lyrics>
+</song>

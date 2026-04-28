@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Won’t You Greet Somebody in Jesus’ Name</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Won’t you greet somebody in Jesus’ name,
+Won’t you tell them that you love them in Jesus’ name
+Tell them we can work together in Jesus’ name
+Everybody smile, Jesus loves you
+Everybody smile, Jesus loves you.</lines>
+    </verse>
+  </lyrics>
+</song>

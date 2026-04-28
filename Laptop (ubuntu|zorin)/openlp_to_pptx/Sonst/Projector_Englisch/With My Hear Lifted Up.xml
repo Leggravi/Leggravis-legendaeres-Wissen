@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>With My Hear Lifted Up</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>With my hands lifted up
+And my mouth filled with praise
+with a heart of thanksgiving</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will bless Thee oh Lord
+I will bless Thee oh Lord
+With a Heart of thanks giving
+I will bless Thee oh Lord</lines>
+    </verse>
+  </lyrics>
+</song>

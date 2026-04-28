@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Feast Of The Overcomers</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are in a heavenly celebration
+It's a glorious union
+To unite the bride from every nation
+The redeem church of Jesus Christ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The feast of the great overcomers
+I will not let it pass me by
+A new song the bride of Christ to sing
+Let the redeem shout and praise the Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We'll sing the songs we are triumphant
+With tears of joy we praise our King
+The feast of victorious overcomers
+Only the redeem shall enter in</lines>
+    </verse>
+  </lyrics>
+</song>

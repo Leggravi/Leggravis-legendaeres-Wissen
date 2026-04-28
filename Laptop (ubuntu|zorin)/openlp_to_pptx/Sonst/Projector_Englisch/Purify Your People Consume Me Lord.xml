@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Purify Your People (Consume Me Lord)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Purify Your people, O God
+Cleanse us with Your fire O Lord
+May we walk uprightly
+In the presence of Your love
+Purify Your people, O God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Make us holy Lord, we pray
+In Your likeness
+Righteous in our ways
+Let us be a praise
+To the glory of Your grace
+Purify Your people, O God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Consume me Lord
+by the fire of Your Spirit.
+Consume me Lord
+And make me more like You.
+Won't You break me Lord
+And bless the broken pieces of my life;
+Let me be used, Lord, by You!</lines>
+    </verse>
+  </lyrics>
+</song>

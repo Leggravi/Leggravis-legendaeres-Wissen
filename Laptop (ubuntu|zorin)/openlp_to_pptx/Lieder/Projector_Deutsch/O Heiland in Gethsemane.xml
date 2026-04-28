@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Heiland, in Gethsemane</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Waltersbacher</author>
+      <author type="music">Robert Henry Earnshaw</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Heiland, in Gethsemane
+rangst einsam betend Du voll Weh.
+&quot;Lass, Vater&quot;, hören wir Dich flehn,
+&quot;den Kelch an mir vorübergehn!&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du, der vollkommen heilig, rein,
+Du solltest Sündenträger sein.
+Ach, Deine Seele tief empfand,
+was nun im Sühntod vor Dir stand!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Doch nahmst Du in Ergebung dann
+den Kelch des Zorns vom Vater an.
+&quot;Nicht mein, Dein Wille er gescheh. &quot;
+Das war für Dich Gethsemane!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In Ehrfurcht blicken wir dorthin,
+wo Du gefleht auf Deinen Knien,
+wo Du gesagt das schwere Ja,
+zu gehn den Weg nach Golgatha!</lines>
+    </verse>
+  </lyrics>
+</song>

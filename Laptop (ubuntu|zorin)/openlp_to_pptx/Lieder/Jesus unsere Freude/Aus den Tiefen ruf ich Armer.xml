@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:08">
+  <properties>
+    <titles>
+      <title>Aus den Tiefen ruf ich Armer</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Friedrich Hiller (1767)</author>
+      <author type="music">Warum sollt ich mich denn grämen</author>
+    </authors>
+    <ccliNo>6222080</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aus den Tiefen ruf ich Armer,
+Herr, zu dir, sei du mir, o Gott, ein Erbarmer.
+Willst du ins Gerichte gehen,
+rechnest du Sünden zu, Herr,
+wer wird bestehen?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nichts errettet mir das Leben,
+nichts schafft Ruh, aber du
+kannst und willst vergeben.
+Schäm ich mich so vieler Sünden,
+lässt du doch Gnade noch
+mich durch Christus finden.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn ich auf mein Herz will merken,
+find ich keins, auch nicht eins
+von vollkommnen Werken.
+Alle sind vor dir beflecket,
+wenn sie nicht im Gericht
+Jesu Blut bedecket.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Darauf gründet sich mein Glaube:
+Gott, du liebst, du vergibst,
+du erhebst vom Staube.
+Darauf gründet sich mein Beten:
+durch den Sohn darf ich schon
+zu dem Vater treten.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Darauf gründet sich mein Leben:
+Fehl ich je, Gott ist hie,
+Gott will mir vergeben.
+Dies ist's, was im Kreuz mir dienet
+zur Geduld: Meine Schuld
+ist doch ausgesühnet.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Auf Vergebung will ich sterben,
+das Gericht trifft mich nicht,
+ich soll nicht verderben.
+Ich erwart ein ewig Leben
+als ein Kind. Sünden sind mir,
+Gott Lob, vergeben.</lines>
+    </verse>
+  </lyrics>
+</song>

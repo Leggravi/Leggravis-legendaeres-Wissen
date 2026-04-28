@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let the Holy Blood of Jesus Flow Through Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From the Sacrifice on Calvary,
+From His hands, from His side,
+From His feet,
+Oh, the Blood how it flowed
+To set men free
+From age to age to every generation
+It still flows for our salvation
+Let the holy Blood of Jesus
+Flow through me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Flow through me, flow through me
+Let the holy Blood of Jesus
+Flow through me
+Let the pow'r that poured from the Cross
+Pour through this vessel
+To reach the lost
+May the holy Blood of Jesus
+Flow through me.
+(Let the holy Blood of Jesus
+Freely flow through me.)</lines>
+    </verse>
+  </lyrics>
+</song>

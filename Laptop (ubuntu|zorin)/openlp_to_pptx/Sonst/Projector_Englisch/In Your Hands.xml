@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In Your Hands</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Carson</author>
+      <author type="music">Daniel Carson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are my help when I’m weak
+You are my strength when I fall
+You hold my hand when I fear
+You are the one I call</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You speak with peace in the storm
+You guide my steps in the dark
+You stand beside me each day
+You calm my anxious heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In Your hands, I’m secure
+You take my hand, I’m not alone
+You lift me up, You make me strong
+In Your hands, I’m secure</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When troubles rise, You are near
+You never leave me behind
+Your love surrounds me with peace
+In You, my hope I find</lines>
+    </verse>
+    <verse name="v5">
+      <lines>No fear can hold me down
+No storm will shake my ground
+Your hand will guide me through
+I’ll trust in all You do</lines>
+    </verse>
+    <verse name="v6">
+      <lines>In Your hands, I’m secure
+You take my hand, I trust You</lines>
+    </verse>
+  </lyrics>
+</song>

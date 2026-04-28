@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Walk Life's Road Together</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We'll walk life's road together
+We'll walk hand in hand
+We'll trust our Heavenly Father
+As He leads us on, Our love for one another
+Growing sweeter each day
+As time goes on, there's only one
+We'll live for each other</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When we build our family altar
+Take time to pray
+As we face life's road together
+He'll show us the way, His grace is all sufficient
+Ever leaning on Him, His Word is true
+His love endures
+We'll trust Him together</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Set Me Ablaze</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v5 v4 v5 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord we desire to see Your kingdom come
+To see the glory of Your Son
+Shining bright on everyone
+All we desire is Your eternal flame
+Burning brighter than the sun
+Bringing hope to everyone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For my generation Lord
+I am crying out for more
+Come and fill me with Your fire
+Set me ablaze, set me ablaze</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I want Your fire
+More of Your power
+Set me ablaze, set me ablaze
+I want to know Your fire again
+All we desire is Your eternal flame
+Burning brighter than the sun
+Bringing hope to everyone
+For my generation Lord
+I am crying out for more
+Come and fill me with Your fire
+Set me ablaze, set me ablaze</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I want Your fire
+More of Your power
+Set me ablaze, set me ablaze
+I want to know Your fire again
+Pour out Your Spirit
+More of Your Presence
+Fill me again, fill me again
+I want to know Your fire within</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fill me up, fill me up
+Till Iʼm overflowing
+Fill me up, fill me up
+Till Iʼm running over
+Fill me up, fill me up
+Till Iʼm overflowing
+Overflowing</lines>
+    </verse>
+  </lyrics>
+</song>

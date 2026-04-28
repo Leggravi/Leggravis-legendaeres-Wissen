@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Keiner wird zuschanden, welcher Gottes harrt</title>
+    </titles>
+    <authors>
+      <author type="words">Gustav Knak</author>
+      <author type="music">Darf ich wiederkommen</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Keiner wird zuschanden, welcher Gottes harrt;
+sollt ich sein der erste, der zuschanden ward?
+Nein, das ist unmöglich, du getreuer Hort!
+Eher fällt der Himmel, eh mich täuscht dein Wort!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du hast zugesaget: Wer da bittet, nimmt,
+wer da sucht, soll finden, was ihm Gott bestimmt;
+wer im festen Glauben mutig klopfet an,
+dem wird ohne Zweifel endlich aufgetan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nun, so will ich's wagen, Herr, auf dein Gebot,
+alle meine Sorgen, eig'n und fremde Not,
+all mein heimlich Grämen, alles was mich quält,
+dir ans Herz zu legen, der die Tränen zählt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du bist mein Erbarmer und mein bester Freund,
+meines Lebens Sonne, die mir lacht und scheint
+auch in finstern Nächten und durchs Todestal
+mir hinüber-leuchtet zu des Lammes Mahl.</lines>
+    </verse>
+  </lyrics>
+</song>

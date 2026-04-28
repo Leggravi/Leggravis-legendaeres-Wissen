@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:33">
+  <properties>
+    <titles>
+      <title>Ich klopfe an zum heiligen Advent</title>
+    </titles>
+    <authors>
+      <author type="words">Karl Friedrich Gerok (1854)</author>
+      <author type="music">Hermann Menzel</author>
+    </authors>
+    <ccliNo>5748981</ccliNo>
+    <themes>
+      <theme>Advent</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich klopfe an zum heiligen Advent
+und stehe vor der Tür,
+so spricht der Herr. O selig, wer Mich kennt
+und eilt und öffnet Mir!
+Ich werde Nachtmahl mit ihm halten,
+ihm Gnade spenden, Licht entfalten.
+Ich klopfe an!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich klopfe an! Da draußen ist's so kalt
+in dieser Winterszeit.
+Vom Frost erstarrt schläft ringsum Feld und Wald,
+die Welt ist eingeschneit;
+auch Menschenherzen sind gefroren,
+Ich stehe vor verschlossnen Toren.
+Ich klopfe an!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich klopfe an! Sähst du Mir nur einmal
+ins treue Angesicht,
+den Dornenkranz, der Nägel blutges Mal,
+o du verwürfst Mich nicht!
+ch trag um dich so heiß Verlangen,
+Ich bin so lang dich suchen gangen!
+Ich klopfe an!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich klopfe an und bringe nichts als Heil
+und Segen für und für,
+Zachäus' Glück, Marias bestes Teil
+beschert Ich gern auch dir,
+wie Ich den Jüngern einst beschieden
+in finstrer Nacht den süßen Frieden.
+Ich klopfe an!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ich klopfe an! Klopft dir dein Herze
+mit bei meiner Stimme Ton?
+Erschreckt dich denn der treusten Liebe.
+Tritt wie fernen Donners Drohn?
+O hör auf deines Herzens Pochen,
+in deiner Brust hat Gott gesprochen:
+Ich klopfe an!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ich klopfe an! Sprich nicht: Es ist der Wind,
+er rauscht im dürren Laub.
+Dein Heiland ist's, der Herr, dein Gott!
+Mein Kind, o stelle dich nicht taub!
+Jetzt komm Ich noch im sanften Sausen,
+doch bald vielleicht im Sturmesbrausen.
+Ich klopfe an!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ich klopfe an! Jetzt bin Ich noch dein Gast
+und steh vor deiner Tür.
+Einst, Seele, wenn du hier kein Haus mehr hast,
+dann klopfest du bei mir.
+Wer hier getan nach meinem Worte,
+dem öffn' Ich dort die Friedenspforte.
+Ich klopfe an!</lines>
+    </verse>
+  </lyrics>
+</song>

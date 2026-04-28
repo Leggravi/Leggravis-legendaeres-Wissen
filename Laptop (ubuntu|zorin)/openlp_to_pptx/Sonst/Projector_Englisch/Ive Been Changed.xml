@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I’ve Been Changed</title>
+    </titles>
+    <authors>
+      <author type="words">Spiritual</author>
+      <author type="music">Spiritual</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Well, I’ve been to the river
+and I’ve been baptized,
+I’ve been washed in the
+blood of the Lamb;
+I’ve been changed from the creature
+that once I was,
+And Redeemed’ is now my name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’ve been changed!
+I am new born now, All my life has
+been rearranged;
+What a difference it made,
+When the Lord came
+and stayed In my heart,
+Oh yes, I’ve been changed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Satan once ruled my heart but
+Jesus rescued me,
+By His Grace, I can say
+I’ve been redeemed;
+I’ve been changed from the
+nature that once held me,
+Where I was bound,
+I now am free.</lines>
+    </verse>
+  </lyrics>
+</song>

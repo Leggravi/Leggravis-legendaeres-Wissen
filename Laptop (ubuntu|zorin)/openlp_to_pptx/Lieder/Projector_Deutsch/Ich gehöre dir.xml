@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich gehöre dir</title>
+    </titles>
+    <authors>
+      <author type="words">Werner Thiede</author>
+      <author type="music">Werner Thiede</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich gehöre dir, Jesus, mein Geliebter, der Gott,
+für den ich lebe. All mein Glück bist du, der Schatz,
+den ich begehr. Ich bin verliebt, brenne nur für dich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr, du rufst, ziehst mich ganz nah an dein Herz;
+ich lass dich nie mehr los. Gnade fließt, du wäschst mich
+rein durch dein Blut, weißer als der Schnee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nimm mich, Herr, lass mich ganz nah bei dir sein.
+Mach unsre Herzen eins.
+Liebe fließt; all meine Angst,
+sie weicht, denn du machst mich frei.</lines>
+    </verse>
+  </lyrics>
+</song>

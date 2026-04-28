@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Simple, Devoted and True</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Simple, devoted and true
+Is the way l want to live
+All My life, just for you
+Everyday and every night, Lord
+I pray I’ll stay, following you
+Simple, devoted and true.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Every day, simple devoted and
+true All the way,
+simple devoted and true.</lines>
+    </verse>
+  </lyrics>
+</song>

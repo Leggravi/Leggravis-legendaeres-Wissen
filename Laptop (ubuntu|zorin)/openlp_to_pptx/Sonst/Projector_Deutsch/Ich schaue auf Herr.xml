@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich schaue auf, Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Johannes Falk</author>
+      <author type="music">Marty Sampson</author>
+      <author type="translation">Look To You</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich schaue auf, Herr, zu den Bergen,
+woher mir Hilfe kommt.
+Sie kommt von dir, Herr, Herrscher des Himmels,
+Schöpfer der ganzen Welt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, Herr ich brauche dich,
+auf dich nur hoffe ich,
+nur du bist mein Gebet,
+so warte ich auf dich.
+Komm und errette mich,
+mach du mein Leben neu.</lines>
+    </verse>
+  </lyrics>
+</song>

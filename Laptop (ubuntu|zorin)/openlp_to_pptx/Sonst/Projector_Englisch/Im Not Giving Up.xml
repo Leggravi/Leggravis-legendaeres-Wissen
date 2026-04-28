@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm Not Giving Up</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm not giving up
+I'm not turning'round
+By the grace of God
+I'm gonna wear
+That shining crown someday
+I'll keep holding on
+To that nail-scarred hand
+I'm not giving up
+No I'll keep holding on</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Well, I've been walking
+through the valley
+Through this vale of tears
+At times I've even questioned
+Even if my Lord was near
+And many times that old Tempter
+He says, &quot;Why not turn around
+You can't get any further
+Because you're just losing ground.&quot;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Would you mind to tell me
+There's been something bothering me
+Why is it that old devil
+He just won't let God's children be
+He's purposed and determined
+To get right in my way
+And lead from the Way of Life
+And try to lead my soul astray</lines>
+    </verse>
+  </lyrics>
+</song>

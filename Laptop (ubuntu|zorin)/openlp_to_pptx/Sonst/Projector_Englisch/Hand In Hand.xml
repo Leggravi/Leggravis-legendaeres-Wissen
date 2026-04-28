@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hand In Hand</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Once from my poor sin sick soul
+Christ did every burden roll
+Now I walk redeemed and whole
+Hand in hand with Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hand in hand we walk each day
+Hand in hand along the way
+Walking thus I cannot stray
+Hand in hand with Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the stars are backward rolled
+And His face I shall behold
+I will tread the streets of gold
+Hand in hand with Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In this world I meet with trials
+And sometimes I feel distressed
+I feel Christ who holds my hands
+And he gives me comfort</lines>
+    </verse>
+  </lyrics>
+</song>

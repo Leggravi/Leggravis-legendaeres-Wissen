@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 7, 2024, 9:17:21 PM">
+  <properties>
+    <titles>
+      <title>Something Keeps Holding Me</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>The trial of this world
+was getting closer,
+The pull I felt was more
+than I could bear;
+When I was on the verge
+of giving over,
+The strength within myself
+just wasn't there.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Something keeps holding me,
+Everyday I see;
+He's helping me faithfully
+To overcome my trials.
+Guiding me constantly,
+Giving me victory;
+He's a reality, 'cause
+Something keeps holding me.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Satan laid before me
+his temptation,
+Of his desire to steal away
+my faith;
+But I have found inside
+the revelation,
+The strength I need
+to keep me in His grace.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, You Are So Good</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, You are so good,
+Jesus, You are so, so good,
+There's nothing to fear
+'Cause I'm here in Your
+ presence.
+Jesus, You are so good,
+Jesus, You are so, so good,
+And I just want to thank You
+With every beat of my heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You've given me eternal life,
+And Your Word to light my way.
+You've given me Your Spirit
+And new mercies everyday.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You've given me your confidnece;
+and my soul is filled with peace,
+You are my provider
+You supply my every need.</lines>
+    </verse>
+  </lyrics>
+</song>

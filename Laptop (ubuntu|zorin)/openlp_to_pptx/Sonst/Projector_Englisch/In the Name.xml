@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In the Name</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Unbekannt</author>
+      <author type="translation">Nur im Namen Jesu</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our God is strong in battle
+Our God can never fail
+Through Him our chains our broken
+In Him the sick are healed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the name of Jesus
+Giants are defeated
+Every single mountain has to move
+You're faithful to Your promise
+You finish what You started
+There is none as powerful as You
+Jesus
+Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We see the power of Heaven
+Setting the captives free
+We are the church, awakened
+Singing in victory</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In the name of Jesus
+Giants are defeated
+Every single mountain has to move
+You're faithful to Your promise
+You finish what You started
+There is none as powerful as You
+Jesus</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Be lifted higher
+Be lifted higher
+We lift the sound of Your great name
+Be lifted higher
+Be lifted higher
+Lord, we exhault You in our praise</lines>
+    </verse>
+  </lyrics>
+</song>

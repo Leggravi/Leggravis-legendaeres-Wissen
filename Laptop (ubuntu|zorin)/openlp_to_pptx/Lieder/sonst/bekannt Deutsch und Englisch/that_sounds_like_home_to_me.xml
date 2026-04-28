@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Mar 23, 2021, 8:39:35 PM">
+  <properties>
+    <titles>
+      <title>That sounds like home to me</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Somewhere just across the Jordan River
+There's a place of everlasting joy and peace
+The tree of life is blooming there forever,
+And a crown of life is waiting there for me</lines>
+    </verse>
+    <verse name="C2">
+      <lines>That sounds like home to me like where I want to be
+There'll be no tears to dim our eyes again
+The hills will echo with the story as we sing of His grace and glory
+Where the saints of God will be that sounds like home to me.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>They say there's mansions there inside that city
+The crystal river flowing by the tree of life
+No pain, nor disappointments ever come there
+And Jesus Christ (our God/Himself) will be the light.</lines>
+    </verse>
+  </lyrics>
+</song>

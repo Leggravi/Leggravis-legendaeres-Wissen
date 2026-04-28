@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Calm of My Storm</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I’m down and feeling so empty
+When my eyes are full of tears because of pains
+When I’m helpless, broken into pieces
+Yet I know You are always there for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though there are times I suffer from heartaches
+And my soul is pierced with sorrows and griefs
+Fears and worries overflow inside me
+Yet my heart still trusts in You my Lord my King</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are the Calm of my storm
+You are my Hiding Place
+I trust in Your unfailing love
+You are the Refuge of my soul
+You are my Shelter and my Shield
+I give You my hidden heart
+And all the things that I can’t bear</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I Hold on to Your love and kindness
+You comfort me and mend these broken wings
+Father here I am searching and longing
+In You alone, I will dwell in Your promises</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You are the Refuge of my soul
+You are my Shelter and my Shield
+I give You my hidden heart
+And all the things that I can’t bear</lines>
+    </verse>
+  </lyrics>
+</song>

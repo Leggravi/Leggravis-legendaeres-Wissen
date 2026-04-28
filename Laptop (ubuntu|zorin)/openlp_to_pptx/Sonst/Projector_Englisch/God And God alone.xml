@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God And God alone</title>
+    </titles>
+    <authors>
+      <author type="words">Jason Ingram</author>
+      <author type="music">Jason Ingram</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God and God alone created all these things we call our own
+From the mighty to the small the Glory in them all is God's and God's alone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God and God alone reveals the truth of all we call unknown
+and the best and worst of man won't change the Master's plan it's God's and God's alone</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God and God alone is fit to take the universe's throne
+Let everything that lives reserve it's truest praise for God and God alone</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God and God alone will be the joy of our eternal home
+He will be our one desire Our hearts will never tire of God's and God's alone</lines>
+    </verse>
+    <verse name="v5">
+      <lines>God and God alone is fit to take the universe's throne
+Let everything that lives reserve it's truest praise for God and God alone</lines>
+    </verse>
+    <verse name="v6">
+      <lines>God and God alone is fit to take the universe's throne
+Let everything that lives reserve it's truest praise for God and God</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Let everything that lives reserve it's truest praise for God and God alone</lines>
+    </verse>
+  </lyrics>
+</song>

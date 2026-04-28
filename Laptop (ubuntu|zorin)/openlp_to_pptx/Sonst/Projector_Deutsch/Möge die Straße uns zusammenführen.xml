@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Möge die Straße uns zusammenführen</title>
+    </titles>
+    <authors>
+      <author type="words">Markus Pytlik</author>
+      <author type="music">Markus Pytlik</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Möge die Straße uns zusammen führen
+und der Wind in deinem Rücken sein;
+sanft falle Regen auf deine Felder
+und warm auf dein Gesicht der Sonnenschein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Und bis wir uns wiedersehen,
+halte Gott dich fest in seiner Hand;
+und bis wir uns wiedersehen,
+halte Gott dich fest in seiner Hand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Führe die Straße, die du gehst,
+immer nur zu deinem Ziel bergab;
+hab', wenn es kühl wird warme Gedanken,
+und den vollen Mond in dunkler Nacht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hab' unterm Kopf ein weiches Kissen,
+habe Kleidung und das täglich Brot;
+sei über vierzig Jahre im Himmel,
+bevor der Teufel merkt: du bist schon tot.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bis wir uns'mal wiedersehen, hoffe ich,
+dass Gott dich nicht verlässt;
+er halte dich in seinen Händen,
+doch drucke seine Faust dich nie zu fest.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Unseren Augen verborgen ,</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Frey</author>
+      <author type="music">Albert Frey</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Unseren Augen verborgen ,
+doch mit dem Herzen zu sehn,
+Unser Verstand kann nicht fassen, was wir im Glauben verstehn.:|
+Gott lässt sich finden, wenn wir suchen.
+Gott wird uns hören, wenn wir rufen: Zeige uns Dein Angesicht.
+Gott ist Liebe, Gott ist Geist, den die ganze Schöpfung preist,
+Vater, Sohn und Heiliger Geist, drei Personen und doch eins.</lines>
+    </verse>
+  </lyrics>
+</song>

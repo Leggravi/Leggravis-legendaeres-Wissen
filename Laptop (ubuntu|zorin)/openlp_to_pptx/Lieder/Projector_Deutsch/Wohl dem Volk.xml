@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wohl dem Volk</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wohl dem Volk und Wohl dem Land,
+dessen Gott ist der Herr.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sein Auge ruht auf denen, die ihn fürchten
+und die von seiner Güte leben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lobet und preiset ihn,
+die ihr seinen Namen liebt!</lines>
+    </verse>
+  </lyrics>
+</song>

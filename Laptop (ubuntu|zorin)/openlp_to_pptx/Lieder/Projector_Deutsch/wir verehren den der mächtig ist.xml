@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>wir verehren den der mächtig ist</title>
+    </titles>
+    <authors>
+      <author type="words">Mirjana Angelina</author>
+      <author type="music">Twila Paris</author>
+      <author type="translation">We will glorify the King of kings</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir verehren den, der mächtig ist. Wir verehren Gottes Lamm.
+Wir verehren unsern König, den Gott des Abraham!
+Du alleine herrschst in Majestät, wir neigen uns vor deinem Thron, 
+beten an in Gerechtigkeit durch das Blut Deines Sohns.
+O hallelluja dem, der mächtig ist, hallelluja Gottes Lamm,
+halleluja unserm König , dem Gott des Abraham!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Jesus, Name ohnegleichen</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">P. Kurzenwort</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Jesu, Name ohnegleichen,
+Voll Gnade, Trost und Lieblichkeit!
+Anbetend sich die Engel neigen,
+Bewundern Deine Herrlichkeit.
+Der Gottheit Fülle wohnt in Dir,
+In Dir sind auch vollendet wir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist uns alles: unsre Stärke,
+Erlösung, Weisheit, Licht und Kraft.
+Du bist die Quelle aller Werke,
+Die Deine Gnade in uns schafft.
+Ja, was wir haben, was wir sind,
+In Dir nur seinen Ursprung find't.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und Deine Liebe unvergleichlich
+Erfüllet allen Mangel hier.
+Sie strömt in Kampf und Not so reichlich,
+So mild auf uns herab von Dir.
+Und weigerst Du uns je ein Teil,
+So ist es nur zu unserm Heil.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Drum mag hienieden alles weichen:
+In dieser Welt gibt nichts uns Ruh'.
+Was wär' auch Dir wohl zu vergleichen?
+Des Segens Fülle bist nur Du.
+O Reichtum, wir besitzen Dich,
+Du bleibest unser ewiglich!</lines>
+    </verse>
+  </lyrics>
+</song>

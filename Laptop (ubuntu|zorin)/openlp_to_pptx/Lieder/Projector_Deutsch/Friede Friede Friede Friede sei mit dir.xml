@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Friede, Friede, Friede, Friede sei mit dir</title>
+    </titles>
+    <authors>
+      <author type="words">Manfred Siebald</author>
+      <author type="music">Manfred Siebald</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1 v9 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Friede, Friede,
+Friede, Friede sei mit dir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Der die Menschen liebt, zeigt uns sein Gesicht.
+Friede ist sein erstes Wort, das er zu uns spricht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Der die Menschen liebt, trägt uns in der Not,
+kommt zu uns an unsern Tisch, isst des Menschen Brot.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Der die Menschen liebt, gibt den Schwachen Kraft,
+wo wir selbst am Ende sind, trägt er uns die Last.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Der die Menschen liebt, lädt zur Umkehr ein,
+wer ihm folgt und seinem Wort, wird gesegnet sein.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Der die Menschen liebt, reicht uns seine Hand,
+wer ihm sein Vertrauen schenkt, der sieht neues Land.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Der die Menschen liebt, schafft den Frieden Raum,
+baut mit uns an seinem Reich, wenn wir auf ihn schaun.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Der die Menschen liebt, gibt uns niemals auf,
+wirbt um uns und ruft uns heim, heim ins Vaterhaus.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Der die Menschen liebt, gibt uns seine Kraft,
+die uns Mut macht auf dem Weg, der uns Frieden schafft.</lines>
+    </verse>
+  </lyrics>
+</song>

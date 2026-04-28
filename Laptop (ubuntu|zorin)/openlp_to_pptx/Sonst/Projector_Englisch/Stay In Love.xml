@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Stay In Love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stay In love my brother,
+stay in love;
+Stay In love my brother,
+stay in love;
+Love will mend your broken
+heart
+Love will give you victory
+Stay in love,
+my brother stay in love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My Jesus died for you to
+bring you home again,
+Stay in love my brother,
+stay in love,
+He suffered on the cross to
+bring you back again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Stay in love my brother, stay in love.
+My Bible tells me that He is
+coming with the clouds,
+Stay in love my brother stay in love
+I hope to see you there on
+that bright glorious day
+Stay in love my brother,
+stay in love.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>At the Place Where You Call</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God of love and kindness
+Your presence in me
+You cover me with peace
+In your loving embrace
+I want none but You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Light of truth and love Shining in me
+You cover me with peace
+In your loving embrace
+Your love is all that I see</lines>
+    </verse>
+    <verse name="v3">
+      <lines>At the place where You call
+I worship You Lord
+Wherever I am
+I give You my praise
+At the place where You call
+I worship You Lord
+Wherever I am
+Oh Lord, I worship You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Everywhere I go I praise you
+Everything I do I lift up
+My life to you I worship you</lines>
+    </verse>
+  </lyrics>
+</song>

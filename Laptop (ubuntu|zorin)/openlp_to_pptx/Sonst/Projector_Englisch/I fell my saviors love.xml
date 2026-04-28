@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I fell my savior's love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I feel my Savior’s love
+In all the world around me.
+His Spirit warms my soul
+Through ev’rything I see.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He knows I will follow him,
+Give all my life to him.
+I feel my Savior’s love,
+The love he freely gives me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I feel my Savior’s love;
+Its gentleness enfolds me,
+And when I kneel to pray,
+My heart is filled with peace.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I feel my Savior’s love
+And know that he will bless me.
+I offer him my heart;
+My shepherd he will be.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I’ll share my Savior’s love
+By serving others freely.
+In serving I am blessed.
+In giving I receive.</lines>
+    </verse>
+  </lyrics>
+</song>

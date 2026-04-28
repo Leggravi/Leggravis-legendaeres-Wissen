@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Einfach spitze, dass du da bist</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Kallauch</author>
+      <author type="music">Daniel Kallauch</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Einfach spitze, dass du da bist,
+einfach spitze, dass du da bist.
+Einfach spitze, komm‘ wir loben Gott den Herrn!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Einfach spitze, lass uns stampfen
+Einfach spitze, lass uns stampfen
+Einfach spitze, komm‘ wir loben Gott den Herrn!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Einfach spitze, lass uns klatschen
+Einfach spitze, lass uns klatschen
+Einfach spitze, komm‘ wir loben Gott den Herrn!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Einfach spitze, lass uns hüpfen
+Einfach spitze, lass uns hüpfen
+Einfach spitze, komm‘ wir loben Gott den Herrn!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Einfach spitze, lass uns tanzen
+Einfach spitze, lass uns tanzen
+Einfach spitze, komm‘ wir loben Gott den Herrn!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Christus herrscht als König</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Friedrich Hiller</author>
+      <author type="music">Alles ist an Gottes Segen</author>
+      <author type="translation">Christ, the King and Savior’s reigning</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus Christus herrscht als König,
+alles wird ihm untertänig,
+alles legt ihm Gott zu Fuß.
+Aller Zunge soll bekennen,
+Jesus sei der Herr zu nennen,
+dem man Ehre geben muß.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fürstentümer und Gewalten,
+Mächte, die die Thronwacht halten,
+geben ihm die Herrlichkeit;
+alle Herrschaft dort im Himmel,
+hier im irdischen Getümmel
+ist zu seinem Dienst bereit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gott ist Herr, der Herr ist Einer,
+und demselben gleichet keiner,
+nur der Sohn, der ist ihm gleich;
+dessen Stuhl ist unumstößlich,
+dessen Leben unauflöslich,
+dessen Reich ein ewig Reich.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gleicher Macht und gleicher Ehren
+sitzt er unter lichten Chören
+über allen Cherubim;
+in der Welt und Himmel Enden
+hat er alles in den Händen,
+denn der Vater gab es ihm.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nur in ihm, o Wundergaben,
+können wir Erlösung haben,
+die Erlösung durch sein Blut.
+Hört's: das Leben ist erschienen,
+und ein ewiges Versühnen
+kommt in Jesus uns zugut.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesus Christus ist der Eine,
+der gegründet die Gemeine,
+die ihn ehrt als teures Haupt.
+Er hat sie mit Blut erkaufet,
+mit dem Geiste sie getaufet,
+und sie lebet, weil sie glaubt.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Gebt, ihr Sünder, ihm die Herzen,
+klagt, ihr Kranken, ihm die Schmerzen,
+sagt, ihr Armen, ihm die Not.
+Wunden müssen Wunden heilen,
+Heilsöl weiß er auszuteilen,
+Reichtum schenkt er nach dem Tod.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Zwar auch Kreuz drückt Christi Glieder
+hier auf kurze Zeiten nieder,
+und das Leiden geht zuvor.
+Nur Geduld, es folgen Freuden;
+nichts kann sie von Jesus scheiden,
+und ihr Haupt zieht sie empor.</lines>
+    </verse>
+  </lyrics>
+</song>

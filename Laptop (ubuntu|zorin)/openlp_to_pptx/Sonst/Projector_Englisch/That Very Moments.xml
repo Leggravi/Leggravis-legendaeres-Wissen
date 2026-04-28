@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>That Very Moments</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The moment I knelt down upon my knees in prayer
+Was the moment a beggar became a rightful heir
+He came to live within this heart of mine
+And He filled me with glory divine
+And it happened that very moment He saved my soul</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My name is recorded in the Book of Life in Heaven
+My sins are washed away by the Blood of Calvary
+Since the day that the Blood was applied
+Forever I stand justified
+And it happened that very moment He saved my soul</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I′ll never get over that Grace so rich and free
+The longer I live the more It amazes me
+How just in one moment of time
+All the joys of Heaven became mine
+And it happened that very moment He saved my soul</lines>
+    </verse>
+  </lyrics>
+</song>

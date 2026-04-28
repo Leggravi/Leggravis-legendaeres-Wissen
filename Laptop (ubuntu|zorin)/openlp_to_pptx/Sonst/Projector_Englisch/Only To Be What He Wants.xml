@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Only To Be What He Wants</title>
+    </titles>
+    <authors>
+      <author type="words">Norman John Clayton</author>
+      <author type="music">Norman John Clayton</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Only to be what He wants me to be
+Every moment of every day.
+Yielded completely to Jesus alone,
+Every step of this pilgrim way.
+Just to be clay in the Potter's hand,
+Ready to do what His Word commands.
+Only to be what He wants me to be,
+Every moment of every day.</lines>
+    </verse>
+  </lyrics>
+</song>

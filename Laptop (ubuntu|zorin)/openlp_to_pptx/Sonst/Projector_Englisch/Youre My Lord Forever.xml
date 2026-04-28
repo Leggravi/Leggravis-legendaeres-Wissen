@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You're My Lord Forever</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: Overwhelm me,
+overwhelm me with Your love,
+mercy and grace
+Overtake me
+overtake my heart and mind
+exceed my imagination :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>More than we could ever ask or think
+Overflow, overflow, overflow</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You’re my Lord forever,
+my God my El Shaddai
+You’re my Lord forever,
+you will supply,
+you will supply,
+you will supply,
+El Shaddai</lines>
+    </verse>
+    <verse name="v4">
+      <lines>More than we could ever ask or think
+More than we could ever ask or think
+More than we could ever ask or think
+Overflow, overflow, overflow</lines>
+    </verse>
+  </lyrics>
+</song>

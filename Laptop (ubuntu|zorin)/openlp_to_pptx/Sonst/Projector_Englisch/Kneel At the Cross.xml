@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Kneel At the Cross</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kneel at the cross,
+Christ will meet you there,
+Come while He waits for you;
+List to His voice,
+Leave with Him your care
+And begin life anew.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kneel at the cross,
+Leave ev'ry care;
+Kneel at the cross,
+Jesus will meet you there.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kneel at the cross,
+There is room for all
+Who would His glory share;
+Bliss there awaits,
+Harm can ne'er befall
+Those who are anchored there.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kneel at the cross,
+Give your idols up,
+Look unto realms above;
+Turn not away
+To life's sparkling cup;
+Trust only in His love.</lines>
+    </verse>
+  </lyrics>
+</song>

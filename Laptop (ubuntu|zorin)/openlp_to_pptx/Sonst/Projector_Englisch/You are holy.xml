@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You are holy</title>
+    </titles>
+    <authors>
+      <author type="words">Reuben Morgan</author>
+      <author type="music">Reuben Morgan</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As for me and my house
+We will serve You Lord
+Lifting holy hands in worship
+We will not bow down to the gods of men
+We will worship the God of Israel</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are holy, holy
+There is no one else like you
+You are holy, holy
+There is no one else like you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Choose this day whom you will serve
+Choose this day whom you will serve
+As for me and my house
+We will serve You Lord, we will serve You Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We will not bow to the gods of men,
+We will not bow to the gods of men
+We'll worship the God of Israel</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kadosh, kasoh Ata
+Ein kamocha Adonai
+Kadosh, kasoh Ata
+Ein kamocha Adonai</lines>
+    </verse>
+  </lyrics>
+</song>

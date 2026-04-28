@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Unser Lobpreis sei dir ein Wohlgeruch</title>
+    </titles>
+    <authors>
+      <author type="words">Gitta Leuschner</author>
+      <author type="music">Brent Chambers</author>
+      <author type="translation">Let our praise to You be as incense</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Unser Lobpreis sei dir ein Wohlgeruch,
+unser Lobpreis sei wie Säulen deine Throns.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unser Lobpreis sei dir ein Wohlgeruch,
+wenn wir vor dich treten und huldigen Dir, Herr,
+wenn wir dich in deinem Glanze sehn
+und bestaunen deine Majestät
+und vereint mit allen Engeln,
+deine Heiligkeit verkündigen:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Heilig, heilig, heilig, heilig ist der Herr.</lines>
+    </verse>
+  </lyrics>
+</song>

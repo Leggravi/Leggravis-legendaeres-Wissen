@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'll Worship Only At the Feet of Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I went to visit the shrine of plenty,
+But found its storerooms all filled with dust.
+I bowed at altars of gold and silver,
+But as I knelt there, they turned to rust</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So I'll worship only at the feet of Jesus,
+His cup alone: My holy grail
+There'll be no others gods before Him
+Just Jesus only will never fail.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The call of fortune made me a pilgrim
+To journey to fame's promised heights
+But as I climbed, the promised faded
+And wind blew lonely all through the night.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Just desert dust and empty shadow.
+All promises that turned to lies.
+The gods of earth fell and betrayed me
+You alone are Truth and Life</lines>
+    </verse>
+  </lyrics>
+</song>

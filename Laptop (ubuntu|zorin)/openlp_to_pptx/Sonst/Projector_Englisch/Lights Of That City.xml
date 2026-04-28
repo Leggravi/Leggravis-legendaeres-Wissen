@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lights Of That City</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>John tells of a city,
+That he saw coming down,
+Where no sorrow or death will be known,
+That someday we could go there
+Through His marvelous grace,
+Forever live in that heavenly home.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I can almost see the lights of that city,
+I see them gathering, all around
+The great white throne;
+With faith in my Saviour,
+And His wonderful love,
+Oh, I can almost see the lights of home.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And sometimes when I'm burdened,
+And my cross seems hard to bear.
+And old Satan, he tries to dim my view,
+Well I just look unto Jesus,
+He is standing close by,
+Then once again,
+His great light shines through.</lines>
+    </verse>
+  </lyrics>
+</song>

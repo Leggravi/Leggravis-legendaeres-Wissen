@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Get All Exited</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Get all exited go tell everybody
+that Jesus Christ is King
+Come on get all exited go tell everybody
+that Jesus Christ is King
+Get all exited go tell everybody
+that Jesus Christ is King
+Jesus Christ is still the king of king's</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You talk about peaple
+You talk about things that really aren't important at all
+You talk about weather
+You talk about problems we have here at home and abroad
+Get all exited on about of solution for the word
+Oh I'm gonna shout and sing
+Jesus Christ is still the king of king's</lines>
+    </verse>
+  </lyrics>
+</song>

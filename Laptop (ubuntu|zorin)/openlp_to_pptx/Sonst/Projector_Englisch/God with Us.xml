@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God with Us</title>
+    </titles>
+    <authors>
+      <author type="words">Bryan Torwalt</author>
+      <author type="music">Bryan Torwalt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He walked where I walk,
+He stood where I stand,
+He felt what I feel,
+He understands.
+He knows my frailty,
+Shared my humanity,
+Tempted in every way
+Yet without sin.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God with us, so close to us,
+God with us, Emmanuel!
+God with us, so close to us,
+God with us, Emmanuel!
+Emmanuel!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>One of a hated race,
+Stung by the prejudice,
+Suffered injustice,
+Yet He forgives.
+Wept for a wasted year,
+Paid all my wickedness,
+He died in my place
+That I might live.</lines>
+    </verse>
+  </lyrics>
+</song>

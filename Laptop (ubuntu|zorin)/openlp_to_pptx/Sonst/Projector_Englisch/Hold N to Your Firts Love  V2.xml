@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hold N to Your Firts Love – V2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There are times you don't feel like worshipping.
+There are times you don't feel like praising His name.
+Everything seems to go wrong;
+But Jesus is there all along.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hold on to your first love
+Let there be passion and zeal from above.
+Hold on to your first love
+Glorify Jesus, Jesus Christ from Above.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The first time you knew Him you're burning.
+Desiring to serve Him with your whole life.
+Suddenly you've lost that fire;
+But you're still His heart's desire.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Glorify Jesus, Jesus Christ
+Glorify Jesus, Jesus Christ
+Glorify Jesus, Jesus Christ
+From Above</lines>
+    </verse>
+  </lyrics>
+</song>

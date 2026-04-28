@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Korn, das in die Erde, in den Tod versinkt</title>
+    </titles>
+    <authors>
+      <author type="words">Jürgen Henkys</author>
+      <author type="music">Now the green blade rises</author>
+      <author type="translation">Now the green blade rises</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Korn, das in die Erde, in den Tod
+versinkt, Keim, der aus dem Acker
+in den Morgen dringt. Liebe lebt
+auf, die längst gestorben schien:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Liebe wächst wie Weizen
+und ihr Halm ist grün.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Über Gottes Liebe brach die Welt
+den Stab, wälzte ihren Felsen vor
+der Liebe Grab. Jesus ist tot. Wie
+sollte er noch fliehn?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Im Gestein verloren Gottes
+Samenkorn, unser Herz gefangen
+in Gestrüpp und Dorn. Hin ging die
+Nacht, der dritte Tag erschien:</lines>
+    </verse>
+  </lyrics>
+</song>

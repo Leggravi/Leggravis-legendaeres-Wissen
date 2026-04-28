@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Do Not Take My Burdens Away</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My burdens keep me humble
+And teach me to pray
+If I’ve murmured or grumbled
+Forgive the words I say
+Give me grace to follow
+My road day by day
+Don’t take my burdens
+Or my cross away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For I would grow careless
+And I would not fear
+My eyes would be dry
+And I'd never shed a tear
+Lest I forget that I need Thee
+each day
+Don’t take my burdens
+Or my cross away.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>With the cross on my shoulders
+My heart cannot stray
+For the cross leads me onward
+To my home far away
+And I will not question the way
+He must lead
+Don’t take my burdens
+Or my cross away.</lines>
+    </verse>
+  </lyrics>
+</song>

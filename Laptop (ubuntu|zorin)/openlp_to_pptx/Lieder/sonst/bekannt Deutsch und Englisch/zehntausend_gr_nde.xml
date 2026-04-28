@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 13, 2023, 11:31:54 AM">
+  <properties>
+    <titles>
+      <title>Zehntausend gründe</title>
+    </titles>
+    <verseOrder>C1 V2 C1 V3 C1 V4 C1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="C1">
+      <lines>Komm und lobe den Herrn, meine Seele sing
+bete den König an
+Sing wie niemals zuvor, nur für Ihn
+Und bete den König an</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Ein neuer Tag und ein neuer Morgen
+und wieder bring ich dir mein Lob
+Was auch vor mir liegt und was immer auch geschehen mag
+lass mich noch singen, wenn der Abend kommt</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Du liebst so sehr und vergibst geduldig
+schenkst Gnade, Trost und Barmherzigkeit
+Von deiner Güte will ich immer singen
+zehntausend Gründe gibst du mir dafür</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Und wenn am Ende die Kräfte schwinden
+wenn meine Zeit dann gekommen ist
+wird meine Seele dich weiter preisen
+zehntausend Jahre und in Ewigkeit</lines>
+    </verse>
+  </lyrics>
+</song>

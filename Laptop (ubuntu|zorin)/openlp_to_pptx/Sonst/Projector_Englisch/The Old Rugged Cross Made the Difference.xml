@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Old Rugged Cross Made the Difference</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Twas a life filled with aimless desperation
+Without hope walked the shell of a man
+Then a hand with a nail print stretched downward
+Just one touch then a new life began</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And the old rugged cross made the difference
+In a life bound for heartache and defeat
+I will praise Him forever and ever
+For the cross made the difference for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Barren walls echoed harshness and anger
+Little faces ran in terror to hide
+Now those walls ring with love
+warmth and laughter
+Since the giver of life moved inside</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There’s a room filled with sad, ashen faces
+Without hope death has wrapped them in gloom
+But at the side of a saint there’s rejoicing
+For life can't be sealed in a tomb</lines>
+    </verse>
+  </lyrics>
+</song>

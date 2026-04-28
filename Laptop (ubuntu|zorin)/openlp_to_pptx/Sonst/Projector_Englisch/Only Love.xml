@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Only Love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What could make this world a better place
+Nothing less than amazing grace
+What could help the lonely ones endure
+I believe I've found a miracle cure</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Only love could bridge the great divide
+Only love can move a mountain
+Only love could ever change my heart
+Only the love of my Jesus
+Only the love of my Savior</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You sacrificed everything for me
+Made a guilty man so free
+Sinless hands nailed to a cross
+What would make You wanna die for the lost</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Only love could ever change this heart of stone
+Only love could ever lead me home
+Only love could bridge the great divide
+Only love can move a mountian
+Only love could ever change my heart
+Only the love of my Jesus
+Only the love of my Savior</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Will Celebrate</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will celebrate sing unto the Lord
+I will sing to Him a new song
+I will celebrate sing unto the Lord
+I will sing to Him a new song</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will praise Him
+I will sing to Him a new song
+I will praise Him
+I will sing to Him a new song</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelujah, Hallelujah, Hallelujah, Hallelujah,
+Hallelujah, Hallelujah!
+Hallelujah, Hallelujah, Hallelujah, Hallelujah,
+Hallelujah, Hallelujah!</lines>
+    </verse>
+  </lyrics>
+</song>

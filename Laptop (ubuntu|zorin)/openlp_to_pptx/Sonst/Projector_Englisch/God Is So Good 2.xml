@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God Is So Good (2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God is so good,
+God is so good,
+God is so good,
+He's so good to me. (2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He saved my sin-sick soul,
+He set my spirit free,
+He healed my broken heart,
+He's so good to me. (2x)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I love Him so,
+I love Him so,
+I love Him so,
+He's so good to me. (2x)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He answers prayer,
+He answers prayer,
+He answers prayer,
+He's so good to me. (2x)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He's coming soon,
+He's coming soon,
+He's coming soon,
+He's so good to me. (2x)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh, God is good,
+Oh, God is good,
+Oh, God is good,
+He's so good to me. (2x)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jesus is real
+(Hallelujah!)
+Jesus is real
+He's so real to me. (2x)</lines>
+    </verse>
+    <verse name="v8">
+      <lines>I praise His name,
+(Hallelujah!)
+I praise His name,
+He's so good to me. (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Halleluja - Suchet zuerst Gottes Reich</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">England</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Suchet zuerst Gottes Reich in dieser Welt,
+seine Gerechtigkeit. Amen.
+So wird euch alles von ihm hinzu gefügt.
+Halleluja, Halleluja.
+Halleluja, Halleluja, Halleluja, Halleluja, Halleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Betet und ihr sollt es nicht vergeblich tun.
+Suchet und ihr werdet finden.
+Klopft an und euch wird die Türe aufgetan.
+Halleluja, Halleluja.
+Halleluja, Halleluja, Halleluja, Halleluja, Halleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lasst Gottes Licht durch euch scheinen in der Welt,
+dass sie den Weg zu ihm findet,
+und sie mit euch jeden Tag Gott lobt und preist.
+Halleluja, Halleluja.
+Halleluja, Halleluja, Halleluja, Halleluja, Halleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

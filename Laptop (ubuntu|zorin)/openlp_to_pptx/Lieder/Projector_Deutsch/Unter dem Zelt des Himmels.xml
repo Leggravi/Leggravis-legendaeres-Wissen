@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Unter dem Zelt des Himmels</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v2 v3 v6 v2 v3 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In Gottes Welt ist der Himmel das Zelt
+in Gottes Welt schützt uns Gott der uns hält
+von allen Seiten sind wir geborgen in seinem Schirm
+und sind nicht von und doch in dieser Welt</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unter dem Zelt des Himmels lagern wir getrost
+wir lassen alle Sorgen an Gott los
+er gibt uns alles was zum Leben reicht
+wir sind beschenkte und sind überreich</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Unter dem Zelt des Himmels hat Gott uns erreicht
+er wohnte hier im Zelt uns Menschen gleich
+er machte uns den Weg zum Himmel leicht
+in Jesus schenkt Gott alles wir sind reich</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In Gottes Welt ist der leib unser Zelt
+er gehört ihm denn Gott hat uns erwählt
+so das er Wohnung ein nimmt
+nun Wichtigkeiten bestimmt
+aus und einräumt was ihm wohlgefällt</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In Gottes Welt bauen wir das Lager Zelt
+ums Lagerfeuer auf dem Lagerfeld
+wir lagern kurze Zeit hier bald bauń wir ab
+gehen wir und sind dann wieder in der Heimatweld</lines>
+    </verse>
+    <verse name="v6">
+      <lines>In Gottes Welt sind wir auf Gott gestellt
+und durch ihn haben wir uns hier gesellt
+wir lernen von und in ihm spielen und leben mit ihm
+und sind verbunden bald mit ihm vermählt</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Unter dem Zelt des Himmels wissen wir genau
+wir lagern hier wie Schafe auf der Au
+doch unser Entliche Weide Ort
+bringt uns von dieser Erde fort,
+unser Ewiger Weide Ort
+bringt uns von der Erde fort</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Grace Wins</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v4 v5 v8 v4 v5 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In my weakest moment I see you
+Shaking your head in disgrace
+I can read the disappointment
+Written all over your face</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here comes those whispers in my ear
+Saying who do you think you are
+Looks like you're on your own from here
+'Cause grace could never reach that far</lines>
+    </verse>
+    <verse name="v3">
+      <lines>But, in the shadow of that shame
+Beat down by all the blame
+I hear you call my name sayin' it's not over
+And my heart starts to beat
+So loud now, drowning out the doubt
+I'm down but I'm not out</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There's a war between guilt and grace
+And they're fighting for a sacred space
+But I'm living proof
+Grace wins every time</lines>
+    </verse>
+    <verse name="v5">
+      <lines>No more lying down in death's defeat
+Now I'm rising up in victory
+Singing hallelujah
+Grace wins every time</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Words can't describe the way it feels
+When mercy floods a thirsty soul
+A broken side begins to heal
+And grace returns what guilt has stole</lines>
+    </verse>
+    <verse name="v7">
+      <lines>And, in the shadow of that shame
+Beat down by all the blame
+I hear you call my name sayin' it's not over
+And my heart starts to beat
+So loud now, drowning out the doubt
+I'm down but I'm not out</lines>
+    </verse>
+    <verse name="v8">
+      <lines>For the prodigal son, grace wins
+For the woman at the well, grace wins
+For the blind man and the beggar, grace wins
+For always and forever, grace wins
+For the lost out on the street, grace wins
+For the worst part of you and me, grace wins
+For the thief on the cross, grace wins
+For a world that it lost</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Every time
+I'm living proof grace wins every time</lines>
+    </verse>
+  </lyrics>
+</song>

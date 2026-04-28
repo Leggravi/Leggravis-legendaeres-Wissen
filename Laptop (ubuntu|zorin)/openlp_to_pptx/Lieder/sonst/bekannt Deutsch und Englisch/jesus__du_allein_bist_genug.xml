@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 17, 2018, 10:56:12 PM">
+  <properties>
+    <titles>
+      <title>Jesus, du allein bist genug</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Jesus, du allein bist genug,
+du bist alles für mich.
+Jesus, öffne mein Herz,
+lass mich sehn und verstehn,
+dass du mich liebst.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Komm und fülle mein Herz.
+Gib mir neu deinen Geist.
+Du bist unser Gott,
+der Heilung bringt,
+Licht des Lebens,
+das das Dunkel durchdringt.</lines>
+    </verse>
+  </lyrics>
+</song>

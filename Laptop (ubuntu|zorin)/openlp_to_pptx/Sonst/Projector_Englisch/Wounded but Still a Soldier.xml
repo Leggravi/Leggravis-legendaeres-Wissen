@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wounded, but Still a Soldier</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You called me to an army
+Gave me the sword of this Word to fight
+So I went out to the front lines
+Gave my all and fought with all my might
+But somewhere in the field I took a hit
+The heavy blow brought my spirit low
+But I would never quit</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've been wounded, but I'm still a soldier
+The battle took its toll on me
+But never on my soul
+Standing ever with my Lord until the war is over
+I've been wounded, but I’m still a soldier</lines>
+    </verse>
+    <verse name="v3">
+      <lines>See the scars from bloody battles
+Holding truth the enemy contends
+Even like my captain
+I have some wounds in the house of my friends
+And sometimes in my mind I struggle still
+But He's healed me and I'm ready to carry out His will</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Onward Christian soldier
+Marching as to war
+With the blood of Jesus
+Going on before</lines>
+    </verse>
+  </lyrics>
+</song>

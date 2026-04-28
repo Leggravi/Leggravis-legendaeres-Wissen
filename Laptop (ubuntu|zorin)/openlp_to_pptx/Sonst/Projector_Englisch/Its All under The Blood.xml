@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It's All under The Blood</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's all under the Blood of Jesus,
+It's all under the Blood;
+And God doesn't see
+all the dark things I've done,
+For they're all under the Blood.</lines>
+    </verse>
+  </lyrics>
+</song>

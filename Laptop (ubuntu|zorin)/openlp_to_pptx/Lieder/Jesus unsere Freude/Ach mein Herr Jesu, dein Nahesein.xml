@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:15">
+  <properties>
+    <titles>
+      <title>Ach mein Herr Jesu, dein Nahesein</title>
+    </titles>
+    <authors>
+      <author type="words">Christian Gregor (1767)</author>
+      <author type="music">Karl Knödel</author>
+    </authors>
+    <ccliNo>5209554</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ach mein Herr Jesus, dein Nahesein
+bringt großen Frieden ins Herz hinein,
+und dein Gnadenanblick macht uns so selig,
+dass Leib und Seele darüber fröhlich
+und dankbar wird.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir sehn dein freundliches Angesicht
+voll Huld und Gnade wohl leiblich nicht,
+aber unsre Seele kanns schon gewahren;
+du kannst dich fühlbar gnug offenbaren,
+auch ungesehn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O wer nur immer bei Tag und Nacht
+dein zu genießen recht wär bedacht,
+der hätt ohn Ende von Glück zu sagen,
+und Leib und Seele müsst immer fragen:
+Wer ist wie du?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Barmherzig, gnädig, geduldig sein,
+uns täglich reichlich Schuld verzeihn,
+heilen, stillen, trösten, erfreun und segnen
+und unsrer Seele als Freud begegnen,
+ist deine Lust.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ach gib an deinem kostbaren Heil
+uns alle Tage vollkommen Teil,
+und lass unsre Seele sich immer schicken,
+aus Not und Liebe nach dir zu blicken
+ohn Unterlass.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Du reichst uns deine durchgrabne Hand,
+die so viel Treue an uns gewandt,
+dass wir beim Drandenken beschämt dastehen
+und unser Auge muss übergehen
+vor Lob und Dank.</lines>
+    </verse>
+  </lyrics>
+</song>

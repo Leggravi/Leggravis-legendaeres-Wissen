@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Voll Vertrauen</title>
+    </titles>
+    <authors>
+      <author type="words">Arne Kopfermann</author>
+      <author type="music">Arne Kopfermann</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Voll Vertrauen gehen wir den Weg mit Dir, o Gott,
+getragen von dem Traum, der Leben heißt.
+Am Ende dieses Weges bist Du selber dann das Ziel,
+Du, der Du das Leben bist.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Manchmal werden diesen Weg viele Menschen mit uns gehn,
+und wir werden Hand in Hand tanzend Dir entgegenziehn.
+Dann wollen wir Dir, o Gott, ein Loblied singen,
+dann wollen wir Dir, o Gott, ein Loblied singen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Doch der Weg wird manchmal auch ein Stück durch die Wüste führn,
+und dann habe ich Angst davor, blind mich nur im Kreis zu drehn.
+Wir bitten Dich, o Gott, um Kraft um Weitergehn,
+wir bitten Dich, o Gott, um Kraft zum Gehen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wenn Du, Vater, mit mir gehst, kann der Weg nicht sinnlos sein,
+wenn Du an der Hand mich nimmst, weiß ich, ich bin nie allein.
+wir können Dir, o Gott, unser Leben anvertraun,
+wir können mit Dir, o Gott, unser Leben wagen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:22">
+  <properties>
+    <titles>
+      <title>Ich brauch dich allezeit</title>
+    </titles>
+    <authors>
+      <author type="words">Walter Rauschenbusch</author>
+      <author type="words">Ernst Heinrich Gebhardt (1875)</author>
+      <author type="music">Robert Lowry</author>
+    </authors>
+    <ccliNo>5568219</ccliNo>
+    <themes>
+      <theme>Vertrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich brauch dich allezeit, du gnadenreicher Herr,
+dein Name ist mein Hort, dein Blut mein Freudenmeer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich brauch dich allezeit, o Jesu, steh mir bei,
+dass ich bis in den Tod dir bleibe stets getreu!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich brauch dich allezeit, in Freude wie im Leid;
+du bist mein Sonn und Schild jetzt und in Ewigkeit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich brauch dich allezeit, führ mich nur, wie du willst;
+ich harre auf dein Wort, bis du es ganz erfüllst.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ich brauch dich allezeit, Herr Jesu, Gottes Sohn;
+mit dir ererb ich einst des ewgen Lebens Kron.</lines>
+    </verse>
+  </lyrics>
+</song>

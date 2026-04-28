@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You are my champion</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’ve tried so hard to see it
+Took me so long to believe it
+That you choose someone like me
+To carry your victory
+Perfection could never earn it
+You give what we don’t deserve it
+And you take the broken things
+And raise them to glory</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are my Champion
+Giants fall when you stand undefeated
+Every battle you’ve won
+I am who you say I am
+You crown me with confidence
+I am seated in the heavenly place undefeated
+With the one who has conquered it all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now I can finally see it
+You’re teaching me how to receive it
+So let all the striving cease
+This is my victory</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When I lift my voice and shout
+Every wall comes crashing down
+I have the authority
+Jesus has given me
+When I open up my mouth
+Miracles start breaking out
+I have the authority
+Jesus has given me</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:34">
+  <properties>
+    <titles>
+      <title>Mein Gott, wie bist Du so verborgen</title>
+    </titles>
+    <authors>
+      <author type="words">Salomon Franck (1711)</author>
+      <author type="music">Wer nur den lieben Gott lässt walten</author>
+    </authors>
+    <ccliNo>6222808</ccliNo>
+    <themes>
+      <theme>Trost</theme>
+      <theme>Vetrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mein Gott, wie bist du so verborgen,
+wie ist dein Rat so wunderbar!
+Was helfen alle meine Sorgen?
+Du hast gesorget, eh ich war.
+Mein Vater, führ mich immerdar
+nur selig, wenn auch wunderbar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kein Mensch kann, Herr, dein Antlitz sehen.
+Wir blicken dir nur hinten nach;
+was du bestimmt, das muss geschehen
+bei unserm Glück und Ungemach.
+Mein Vater, führ mich immerdar
+nur selig, wenn auch wunderbar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr, wer kann deinen Rat ergründen?
+Dir bleibt allein der Weisheit Preis;
+du kannst viel tausend Wege finden,
+wo die Vernunft nicht einen weiß.
+Mein Vater, führ mich immerdar
+nur selig, wenn auch wunderbar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gott, deine heiligen Gedanken
+sind himmelweit von Menschenwahn;
+drum leite mich in deinen Schranken
+und führe mich auf rechter Bahn.
+Mein Vater, führ mich immerdar
+nur selig, wenn auch wunderbar.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dir will ich mich ganz überlassen
+mit allem, was ich hab und bin;
+ich werfe, was ich nicht kann fassen,
+auf deine Macht und Weisheit hin.
+Mein Vater, führ mich immerdar
+nur selig, wenn auch wunderbar.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hilf, dass ich nie von dir mich kehre
+in Glück und Unglück, Freud und Leid.
+Schick alles, Herr, zu deiner Ehre
+und meiner Seele Seligkeit.
+Ja Vater, führ mich immerdar
+Nur selig, wenn auch wunderbar.</lines>
+    </verse>
+  </lyrics>
+</song>

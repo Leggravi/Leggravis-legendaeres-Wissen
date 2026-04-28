@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Never a Time</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Are you weary from the battle you're fighting?
+Does it seem like the storm just won't break?
+Is there a mountain in front of you that doubt says will never move?
+And you wonder, &quot;Will God make a way?&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tell me a time he's not been faithful
+Tell me a morning His mercies weren't new
+Tell me a moment He wasn't able to carry you through
+Tell me a day He was less than Almighty
+When He could not roll back the tide
+Saints, when you look back you'll always find
+There was never a time</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So be strong in the Lord and remember
+To take hold of faith and stand firm
+Oh, You can be confident the Lord keeps His promises
+If you doubt Him, just read through His Word</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, He can work miracles through the impossible
+If you don't believe it, just go on and try (go on and try)</lines>
+    </verse>
+  </lyrics>
+</song>

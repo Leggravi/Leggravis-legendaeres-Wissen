@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O dass doch bald dein Feuer brennte</title>
+    </titles>
+    <authors>
+      <author type="words">Georg Friedrich Fickert</author>
+      <author type="music">Guillaume Franc</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, dass doch bald dein Feuer brennte,
+du unaussprechlich Liebender,
+und bald die ganze Welt erkennte,
+dass du bist König, Gott und Herr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verzehre Stolz und Eigenliebe
+und sond're ab, was unrein ist,
+und mehre jener Flamme Triebe,
+die nur auf dich gerichtet ist.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Erwecke, läut're und vereine
+des ganzen Christenvolkes Schar
+und mach in deinem Gnadenscheine
+dein Heil noch jedem offenbar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du unerschöpfter Quell des Lebens,
+allmächtig starker Gotteshauch,
+dein Feuermeer ström nicht vergebens,
+ach zünd in unsern Herzen auch.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Beleb, erleucht, erwärm, entflamme
+doch bald die ganze weite Welt,
+und zeig dich jedem Völkerstamme
+als Heiland, Friedefürst und Held.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dann tönen dir von Millionen
+der Liebe Jubelharmonien,
+und alle, die auf Erden wohnen,
+knien vor den Thron des Lammes hin.</lines>
+    </verse>
+  </lyrics>
+</song>

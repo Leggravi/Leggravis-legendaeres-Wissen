@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nobody Fills My Heart Like Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'd like to say, Lord, from the start
+&quot;Thank You for breaking through my heart!
+Thank You for tearing ev'ry chain apart&quot;
+When I was lost You made a way
+You turned the darkest night into day
+You are my joy and Lord I'd like to say that…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nobody fills my heart like Jesus
+Nobody thrills me like You do
+O, nobody fills my heart like Jesus
+Nobody, Lord, but You
+Nobody but You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I am weak, my Lord, You're strong
+Loving me even when I'm wrong
+Lord, You are my salvation and my song
+Everyday I'll make the choice
+Just listening, following Your voice
+Being with You I can't help but rejoice</lines>
+    </verse>
+  </lyrics>
+</song>

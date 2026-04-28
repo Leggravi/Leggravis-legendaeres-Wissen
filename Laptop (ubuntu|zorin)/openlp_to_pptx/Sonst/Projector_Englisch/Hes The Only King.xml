@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He's The Only King</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who is this king? Who would not wear
+A golden diadem or a rob of royalty
+Who is this king? Who would not take
+An earthly kingdom throne as a sovereign majesty
+Who is this king? Who sits among
+The common man to eat
+Who is this king who humbly bows
+To wash his servants feet</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He's the only king, who had to die for his kingdom to begin
+The only king who surrendered to win
+He's the only king, every king would will bow before and sing
+Jesus Christ is Lord of Lords
+He is the only king</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who is this king? Who paid so high a price to ransom me with the riches of his grace
+Who is this king? Who sacrificed his life so I could live an everlasting grace
+Who is this king? Who let's me be an heir of royalty
+Who is this king? Whose everywhere yet lives inside of me</lines>
+    </verse>
+  </lyrics>
+</song>

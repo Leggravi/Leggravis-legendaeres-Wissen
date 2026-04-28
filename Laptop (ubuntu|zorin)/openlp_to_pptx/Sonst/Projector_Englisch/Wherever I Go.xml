@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wherever I Go</title>
+    </titles>
+    <authors>
+      <author type="words">Adrian Kunert</author>
+      <author type="music">Adrian Kunert</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wherever I go, I'll praise Him
+Whenever I can, I'll praise Him,
+For His love surrounds me like a sea.
+I'll praise the name of Jesus
+Lift up the name of Jesus
+For the name of Jesus lifted me.</lines>
+    </verse>
+  </lyrics>
+</song>

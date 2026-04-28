@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gott ist meine Rettung</title>
+    </titles>
+    <authors>
+      <author type="words">Michael F. Strauss</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Trost – Gott ist mein Trost,
+Hoffnung und Sinn, wenn ich am Boden bin.
+Licht – Gott ist mein Licht,
+das in mir scheint in aller Dunkelheit.
+Gott ist meine Rettung, ihm will ich trauen,
+niemals verzagen, weil er mich hält.
+Lob und Anbetung will ich ihm geben
+und sein Wort tragen in alle Welt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kraft – Gott ist die Kraft,
+die mich erhält, wenn mir die Stärke fehlt.
+Lied – Gott ist mein Lied,
+das in mir klingt, wenn meine Seele singt.
+Gott ist meine Rettung, ihm will ich trauen,
+niemals verzagen, weil er mich hält.
+Lob und Anbetung will ich ihm geben
+und sein Wort tragen in alle Welt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir werden Wasser schöpfen
+aus den Quellen des Heils.
+Wir werden jubeln,
+denn groß ist der Gott Israels unter uns.</lines>
+    </verse>
+  </lyrics>
+</song>

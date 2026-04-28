@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Everything</title>
+    </titles>
+    <authors>
+      <author type="words">Travis Ross</author>
+      <author type="music">Travis Ross</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm captivated, I'll say it
+I'm on a whole new intrigue
+My space invaded, upgraded
+I hear You talking to me
+It's in the boom of the thunder, it's in the cool of the rain
+And I'll say I don't ever want to get away</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tonight is beautiful
+It's got my mind on You
+And everywhere I turn is a reminder (reminder, reminder)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I see You in everything, all day
+And every beat of my heart keeps reminding me
+I see You in every little thing, all day
+No matter where I go I know Your love is finding me
+I see You in everything
+You're all up in everything</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My soul's awaken
+I'm taken by all the beauty You bring
+You got it blarin', I'm starin'
+Love watching You do Your thing
+There's no mistaking Your style
+No mistaking Your touch
+I see the grand, I see the subtle of Your love</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lord, I see You in everything, all day
+And every beat of my heart keeps reminding me
+I see You in every little thing, all day
+No matter where I go I know Your love is finding me
+It's finding me in everything, all day
+And every beat of my heart keeps reminding me
+I see You in every little thing, all day
+No matter where I go I know Your love is finding me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tonight is beautiful
+It's got my mind on You (got my mind on You)
+And everywhere I turn is a reminder (ooh, ooh)
+From the sparkle in her eyes to the starlit open skies
+You bring my heart to life, fill me with wonder (with wonder, with wonder, with wonder)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I see You in everything, all day (all day!)
+And every beat of my heart keeps reminding me
+I see You in every little thing, all day (all day!)
+No matter where I go I know Your love is finding me
+I see You in everything
+You're all up in everything
+I see You in everything
+You're all up in everything</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Oh, I can see Your love, Your love in everything
+And that's why You'll always be my everything
+Yeah, I can see Your love, Your love in everything
+And that's why You'll always be my everything</lines>
+    </verse>
+  </lyrics>
+</song>

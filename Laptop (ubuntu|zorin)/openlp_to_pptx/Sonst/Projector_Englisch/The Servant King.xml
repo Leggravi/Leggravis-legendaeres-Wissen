@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Servant King</title>
+    </titles>
+    <authors>
+      <author type="words">Eoghan Heaslip</author>
+      <author type="music">Eoghan Heaslip</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From heaven you came, helpless babe
+entered our world, Your Glory veiled
+Not to be served, but to serve
+And give Your life, that we might live</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This is our God, the Servant King,
+He calls us now to follow Him,
+To bring our lives as a daily offering,
+Of worship to, the Servant King</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There in the garden of tears,
+My heavy load, He chose to bear,
+His heart with sorrow was torn,
+'Yet Not my will but Yours', He said</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come see His hand and His feet,
+The scars that speak of sacrifice,
+Hands that flung stars into space,
+To cruel nails surrendered</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So let us learn how to serve,
+And in our lives enthrone Him,
+Each other's needs to prefer,
+For it is Christ we're serving</lines>
+    </verse>
+  </lyrics>
+</song>

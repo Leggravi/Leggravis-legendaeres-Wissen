@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There Will Be a Happy Meeting</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There will be a happy meeting in Heaven, I know
+When we see the many loved ones we've known here below
+Gathered on that blessed hilltop with hearts all aglow
+That will be a glad reunion day</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A glad day, a wonderful day
+Glad day, a glorious day
+There with all the holy angels and loved ones to stay
+That will be a glad reunion day</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When we live a million years in that wonderful place
+Basking in the love of Jesus, beholding His face
+It will seem but just a moment of praising God's grace
+That will be a glad reunion day</lines>
+    </verse>
+  </lyrics>
+</song>

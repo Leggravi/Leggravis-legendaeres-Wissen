@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wie könnte ich dir nicht singen</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ein Lied dringt durch die Zeit
+in die Ewigkeit
+und meine Seele singt.
+Ich baue nicht auf Sand,
+halt den Stürmen stand,
+weil dein Lied in mir schwingt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wie könnt ich dir nicht singen, mein Gott?
+Denn alles andre verblasst
+vor der Liebe, die du hast,
+wie könnt ich dich nicht preisen, mein Herr?
+Weil es keinen Anderen gibt
+als den König, der - mich so liebt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In die tiefste Nacht
+hast du Licht gebracht.
+Ich weiß: Mein Erlöser lebt.
+Und ich will mit dir gehn,
+den Test der Zeit bestehn,
+dass mein Lied dich erhebt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich kann sing'n, wenn ich glücklich bin,
+sing'n auch im Leid.
+Ich kann sing'n, denn du gehst mir nach,
+du bist niemals weit.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ich kann sing'n, denn du hilfst mir auf,
+singen, du bist da.
+Ich kann singen, denn du hörst mich an
+und das, was du sagst, ist wahr.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ich kann singen, noch im Sterben,
+singen, denn ich weiß,
+ich werd singen mit den Engeln,
+wenn dich alle Schöpfung preist.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Wie könnt ich dir nicht singen, mein Gott?
+Denn alles andre verblasst
+vor der Liebe, die du hast,
+wie könnt ich dich nicht preisen, mein Herr?
+Weil es keinen Anderen gibt
+(als den König, der - mich so liebt. 3x)</lines>
+    </verse>
+  </lyrics>
+</song>

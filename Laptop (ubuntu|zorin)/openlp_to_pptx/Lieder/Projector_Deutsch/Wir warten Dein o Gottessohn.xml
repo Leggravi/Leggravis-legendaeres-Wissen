@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir warten Dein, o Gottessohn</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Friedrich Hiller</author>
+      <author type="music">Was Gott tut, das ist wohlgetan</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir warten Dein, o Gottessohn, und lieben Dein Erscheinen.
+Wir wissen Dich auf Deinem Thron und nennen uns die Deinen.
+Wer an Dich glaubt erhebt sein Haupt und siehet Dir entgegen;
+Du kommst uns ja zum Segen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir warten Deiner mit Geduld in unsern Leidenstagen.
+Wir trösten uns, dass Du die Schuld am Kreuz hast abgetragen.
+So können wir nun gern mit Dir uns auch zum Kreuz bequemen,
+bis Du es weg wirst nehmen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir warten Dein, Du hast uns ja das Herz schon hingenommen.
+Du bist uns zwar im Geiste nah, doch sollst Du sichtbar kommen.
+Da willst uns Du bei Dir auch Ruh, bei Dir auch Freude geben,
+bei Dir ein herrlich Leben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wir warten Dein Du kommst gewiß, die Zeit ist bald vergangen;
+Wir freuen uns schon überdies mit kindlichem Verlangen.
+Was wird geschehn, wenn wir Dich sehn? Wir werden jauchzend singen,
+Lob, Ehr und Dank Dir bringen.</lines>
+    </verse>
+  </lyrics>
+</song>

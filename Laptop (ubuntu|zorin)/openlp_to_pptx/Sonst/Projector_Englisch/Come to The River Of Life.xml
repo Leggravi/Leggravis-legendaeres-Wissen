@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come to The River Of Life</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come to the river of life
+You will find healing here
+Come to the river of life
+Come and drink freely here
+Come if your heart is searching
+Come if your soul is thirsty
+Draw near and drink
+of the mercy of Jesus Christ
+At the river of life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is a river
+whose streams make glad
+The city of God, the city of God
+So come if you're wounded or sad
+There is a river, there is a river</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It flows, from the land of eternal life
+Where there's no more sorrow
+and no more night
+Into the hearts that are lifted to Him
+Filling His children again
+and again and again</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Draw near and drink
+of the mercy of Jesus Christ
+At the river of life</lines>
+    </verse>
+  </lyrics>
+</song>

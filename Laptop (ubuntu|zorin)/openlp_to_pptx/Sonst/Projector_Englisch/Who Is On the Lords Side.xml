@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Who Is On the Lord’s Side?</title>
+    </titles>
+    <authors>
+      <author type="words">Frances Ridley Havergal</author>
+      <author type="music">John Goss</author>
+      <author type="translation">Wer dient unserm König</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who is on the Lord’s side?
+Who will serve the King?
+Who will be His helper
+Other lives to bring?
+Who will leave the world’s side?
+Who will face the foe?
+Who is on the Lord’s side?
+Who for Him will go?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>By Thy grand redemption,
+By Thy grace divine,
+We are on the Lord’s side:
+Saviour, we are Thine!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Not for weight of glory,
+Not for crown and palm,
+Enter we the army,
+Raise the warrior-palm;
+But for love that claimeth
+Lives for whom He died:
+He whom Jesus nameth
+Must be on His side!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>By Thy love constraining,
+By Thy grace divine,
+We are on the Lord’s side
+Saviour, we are Thine.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus, Thou hast bought us,
+Not with gold or gem,
+But with Thine own life-blood,
+For Thy diadem:
+With Thy blessing filling
+All who come to Thee,
+Thou has made us willing,
+Thou has made us free.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>By Thy grand redemption,
+By Thy grace divine,
+We are on the Lord’s side
+Saviour, we are Thine!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Fierce may be the conflict,
+Strong may be the foe,
+But the King’s own army
+None can overthrow;
+Round His standard raging,
+Victory is secure,
+For His truth unchanging,
+Makes the triumph sure.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Joyfully enlisting,
+By Thy grace divine,
+We are on the Lord’s side:
+Saviour, we are Thine!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Chosen to be soldiers
+In an alien land,
+Chosen, called, and faithful,
+For our Captain’s band.
+In His service royal,
+Let us not grow cold;
+Let us be right loyal,
+Noble, true, and bold.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Master, Thou wilt keep us,
+By Thy grace divine,
+Always on the Lord’s side,
+Saviour, always Thine</lines>
+    </verse>
+  </lyrics>
+</song>

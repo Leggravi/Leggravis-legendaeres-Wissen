@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Set Your Wings</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There are two roads you may take
+One by sight, one by faith
+Take the Word of God or what you see,
+What you believe is what will be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Set your wings to the winds of faith
+You can fly in a higher place.
+Do not struggle, it's by grace.
+Set your wings to the winds of faith</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What's your need, what's your cry,
+What's your mountain much too high.
+Speak the Word of God, and by and by,
+It will move or you will fly.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Watch the eagle in the sky,
+He does not struggle, he does not strive.
+For the power that makes him rise,
+is already in the sky.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Do not struggle, for it s by Grace,
+Set your wings to the winds of Faith
+Set your wings to the winds of Faith</lines>
+    </verse>
+  </lyrics>
+</song>

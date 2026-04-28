@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Didn't Throw the Clay Away</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Empty and broken, I came back to Him
+A vessel unworthy, so scarred from sin.
+But He did not despair, He started over again
+And I bless the day He didn't throw the clay away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Over and over, He molds me and makes me,
+Into His likeness, He fashions the clay.
+A vessel of honor, I am today,
+All because Jesus didn't throw the clay away.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He is the Potter, I am the clay
+And molded in His image, He wants me to stay.
+Oh, but when I stumble,
+When I fall, when my vessel breaks,
+He just picks up the broken pieces,
+He does not throw the clay away.</lines>
+    </verse>
+  </lyrics>
+</song>

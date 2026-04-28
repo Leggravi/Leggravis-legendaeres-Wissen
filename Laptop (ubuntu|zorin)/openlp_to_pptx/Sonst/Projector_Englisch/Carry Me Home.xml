@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Carry Me Home</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord bring me home again
+I'm no longer able
+To bare the bitter winds
+Or the heavy rains
+I've long been settled
+Lord without comfort
+Just a man on an earthly thrown headed for the grave</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Carry me home
+Sweet Jesus lift me
+Until I've flown
+The shadow of shame
+Your love alone
+Lord Jesus mends me
+Lift me up
+Oh Lord carry me home</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord I've been branded
+A loyal sinner
+Seems like forever
+Since I said Your name
+I'm just a pilgrim
+Still afraid of dying
+But the sea is shinning brightly
+With Your grace</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lift me up
+Oh Lord carry me home</lines>
+    </verse>
+  </lyrics>
+</song>

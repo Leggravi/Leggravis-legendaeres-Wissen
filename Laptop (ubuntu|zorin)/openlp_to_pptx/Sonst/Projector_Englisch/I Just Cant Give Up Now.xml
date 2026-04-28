@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Just Can't Give Up Now</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There will be mountains
+That I will have to climb
+And there will be battles
+That I will have to fight
+But victory or defeat
+It's up to me to decide
+But how can I expect to win
+If I never try</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I just can't give up now
+I come to far from where i started from
+Nobody told me the road would be easy
+And I don't believe
+He`s brought me this far to leave me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Never said there wouldn't be trials
+Never said I wouldn't fall
+Never said that everything would go
+The way I want it to go
+But when my back is against the wall
+And I feel all hope is gone
+I'll just lift my head up to the sky
+And say help me to be strong, oh</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, I know You didn't bring me
+Out here to leave me lonely, oh no
+Even when I can't see clearly
+I know that You are with me so I can't</lines>
+    </verse>
+  </lyrics>
+</song>

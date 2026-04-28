@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Revival</title>
+    </titles>
+    <authors>
+      <author type="words">Stuart Garrard</author>
+      <author type="music">Stuart Garrard</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The church where I grew up
+Would seat about 45
+I was just a kid
+But I sure felt that preacher's fire
+Underneath the church pew
+Behind my momma's feet
+I had no idea that Jesus
+Was making plans for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take me back to the days of old
+When we lived by Faith alone
+Long live the love
+That conquered the grave
+Take me back to those days
+Of revival</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No dust on the hymnals
+All the ladies waved their fans
+The prayin' and the sweatin'
+They both went hand in hand
+We didn't have a lot of money
+Or programs after school
+But we sang loud on Sundays
+And didn't care if church was cool</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Take me back to the days of old
+When we lived by Faith alone
+Long live the love
+That conquered the grave
+Take me back to those days
+Of revival
+Take me back to those days</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My first trip to the alter
+My stomach tied in knots
+Today I'm still believing
+In the Jesus that I got</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Take me back to the days of old
+When we lived by Faith alone
+Long live the love
+That conquered the grave
+Take me back to those days
+Take me back to those days
+Take me back to those days
+Of revival
+Of revival</lines>
+    </verse>
+  </lyrics>
+</song>

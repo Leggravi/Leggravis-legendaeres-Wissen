@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord You Are Always With Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the trouble comes I trust in You
+For I know You will lead me through
+And I know You are faithful till the end
+And when the storms are drawing near
+When I'm with You I don't have to fear
+You're my Shepherd on whom I can depend</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Through the day, through the night
+I know You're always by my side</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord You are always here with me
+There is no changing God in Thee
+You are the same yesterday
+And today and forevermore
+Here on Your promises I stand
+You hold my future in Your hand
+My solid Rock, Almighty God
+I worship You</lines>
+    </verse>
+  </lyrics>
+</song>

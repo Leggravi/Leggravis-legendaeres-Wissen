@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm Forever Yours</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I give my all to You
+Send me and I will go for You
+To the ends of the earth
+I'll follow after You
+I want the world to know
+Your Love endures forever</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tell me and I'll obey
+This is far greater than sacrifice
+Trusting you and not myself
+Will always lead to blessing
+Lord have your way in me
+Not my will, Yours be done</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Here I stand within Your Presence
+Longing for Your touch
+A thousand days cannot compare
+To one day in Your courts</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hold me now and never ever let me go
+My Jesus, my Precious Savior
+I'm forever Yours</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I will worship You forever
+I will worship You</lines>
+    </verse>
+  </lyrics>
+</song>

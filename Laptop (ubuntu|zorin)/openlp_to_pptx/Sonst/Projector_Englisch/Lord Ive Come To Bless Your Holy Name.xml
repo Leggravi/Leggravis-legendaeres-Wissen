@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord I've Come To Bless Your Holy Name</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I could ask You for a miracle
+You Know I stand in need
+I could seek your hand
+To move and touch my family
+But I've put aside this
+Temporary trials that I've faced
+Lord I just want to bless You with my praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord I've come to bless Your Holy name again
+Just once more before I say amen
+You're my Jesus, My Redeemer,
+My Savior and my Friend
+Lord I've to come to bless Your holy name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I could never count how many ways
+You've made my life complete
+Lord Your mercy is the reason
+Why my spirit sings
+Though my words could never
+Fully tell the story of Your grace
+I just love to rest in your embrace</lines>
+    </verse>
+  </lyrics>
+</song>

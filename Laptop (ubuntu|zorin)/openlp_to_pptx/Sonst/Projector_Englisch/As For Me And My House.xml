@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>As For Me And My House</title>
+    </titles>
+    <authors>
+      <author type="words">Jim Bailey</author>
+      <author type="music">Jim Bailey</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We stand here together
+ as a family,
+We join hands together,
+Lifting praises to the Father
+ above
+For sending His Son;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We've chosen together as a family
+To serve Him forever,
+Knowing nothing else would
+ matter in time,
+We've made up our minds.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Through the heat of the day
+We will join in the fight,
+'Till He takes us away,
+'Till our faith becomes sight;
+As for me and my house,
+We will serve the Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Choose you this day,
+Tell me who will you serve;
+Let nothing stand in your way,
+Give the praise He deserves;
+As for me and my house,
+We will serve the Lord.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We will serve Him,
+We will serve Him,
+We will serve Him
+For He is worthy.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Choose you this day,
+Tell me who will you serve;
+Let nothing stand in your way,
+Give the praise He deserves;
+As for me and my house,
+We will serve the Lord.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>As for me and my house,
+We will serve the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

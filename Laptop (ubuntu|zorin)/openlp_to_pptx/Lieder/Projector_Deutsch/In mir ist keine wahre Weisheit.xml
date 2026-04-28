@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In mir ist keine wahre Weisheit</title>
+    </titles>
+    <authors>
+      <author type="words">Glaubenszentrum Bad Gandersheim</author>
+      <author type="music">Debbye Graafsma</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In mir ist keine wahre Weisheit .ich rühme mich nicht eigener Kraft.
+Mein Reichtum gibt mir keine Stärke, nur Dich zu kennen, sei mein Ruhm!
+|: Hocherhaben ist Dein Thron, Herrlich keit der Völker.
+Hocherhaben ist Dein Thron, Herr der ganzen Welt.
+Hocherhaben ist Dein Thron, Schöpfer, Erlöser 
+und Dich zu kennen, sei mein Ruhm! :|</lines>
+    </verse>
+  </lyrics>
+</song>

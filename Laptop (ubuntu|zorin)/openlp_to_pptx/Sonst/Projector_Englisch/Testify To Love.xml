@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Testify To Love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All the colours of the rainbow
+All the voices of the wind
+Every dream that reaches out
+Reaches out to find where love begins</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Every word of every story
+Every star in every sky
+Every corner of creation
+Lives to testify</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For as long as I shall live
+I will testify to love
+I'll be a witness in the silences
+When words are not enough
+With every breath I take
+We'll give thanks to God above
+For as long as I shall live
+I will testify to love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>From the mountains to the valleys
+From the rivers to the sea
+Every hand that reaches out
+Every hand that reaches out to offer peace</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Every simple act of mercy
+Every step to kingdom come
+All the hope in every heart
+Will see what love has done</lines>
+    </verse>
+    <verse name="v6">
+      <lines>For as long as I shall live
+I will testify to love
+I'll be a witness in the silences
+When the words are not enough
+With every breath I take
+I will give thanks to God above
+For as long as I shall live
+I will testify love</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nothing Else</title>
+    </titles>
+    <authors>
+      <author type="words">Hank Bentley</author>
+      <author type="music">Hank Bentley</author>
+      <author type="translation">Niemand sonst</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v1 v5 v6 v7 v7 v7 v8 v9 v10 v11 v12 v13 v1 v14</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm caught up in Your presence
+I just want to sit here at Your feet
+I'm caught up in this holy moment
+I never want to leave</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, I'm not here for blessing
+Jesus, You don't owe me anything
+More than anything that You can do
+I just want You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm sorry when I've just gone through the motions
+I'm sorry when I just sang another song
+Take me back to where we started
+I open up my heart to You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'm sorry when I've come with my agenda
+I'm sorry when I forgot that You're enough
+Take me back to where we started
+I open up my heart to You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, I'm not here for blessings
+Jesus, You don't owe me anything
+More than anything that You can do
+I just want You</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I just want You
+Nothing else, nothing else
+Nothing else will do
+I just want You</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nothing else, nothing else
+Nothing else will do
+I just want You</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Nothing else, no nothing else
+Nothing else will do
+I just want You</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Nothing else, nothing else
+Nothing else will do
+I just want You
+I just want You</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Nothing else will do
+Nothing else will do
+I don't want anything else what You don't
+I don't want anything else that You have
+I don't want anything else but You Jesus
+Ohh</lines>
+    </verse>
+    <verse name="v11">
+      <lines>I'm coming back to the heart of worship
+I'm coming back to where it's all about
+Just You Jesus, just You Jesus
+Take all the stuff I don't care I don't want it
+Just You Jesus is all above
+Just You more is all above
+Oh, Jesus, Jesus, Jesus</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Oh, could there be anything else
+But Your presence, but Your heart
+Nothing else matters, nothing else matter
+Nothing else I do, I just worship You Jesus</lines>
+    </verse>
+    <verse name="v13">
+      <lines>I'm sorry when I've come with my agenda
+I'm sorry when I forgot, you're enough
+Jesus, you're enough
+I remember now
+I remember now
+You're enough</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Oh, I'm not here for blessings
+Jesus, You don't owe me anything
+More than anything that You can do
+Oh, I just want You</lines>
+    </verse>
+  </lyrics>
+</song>

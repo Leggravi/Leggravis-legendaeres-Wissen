@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus I love You</title>
+    </titles>
+    <authors>
+      <author type="words">Trish Morgan</author>
+      <author type="music">Trish Morgan</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Not because I've been so faithful,
+Not because I've been so good;
+You've always been there for me
+To provide my every need.
+You were there when I was lonely,
+You were there in all my pain,
+Guiding my footsteps,
+Shelter from the rain.
+And it was You who made my life complete,
+You are to me my everything
+And that is why I sing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, I love You because You care,
+I couldn't imagine if You weren't there.
+Jesus, I love You because You care,
+I couldn't imagine if You weren't there.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are the joy of my salvation,
+You're the peace in my storm.
+Your loving arms protect me,
+You shelter me from harm.
+You are Alpha and Omega,
+The beginning and the end,
+My strong tower, my dearest and best friend.
+And it was You who made my life complete,
+You are to me my everything
+And that is why I sing.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, I love You,
+I love You.
+Jesus, I love You,
+I love You.
+Jesus, I love You,
+I love You because You care.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I love You,
+I love You,
+(Because You are You).</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thank You Lord for Your Blessings on Me</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Baloche</author>
+      <author type="music">Paul Baloche</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As the world looks upon me, as I struggle along
+They say I have nothing, but they are so wrong
+In my heart I'm rejoicing,
+How I wish they could see
+Thank you Lord, for your blessings on me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's a roof up above me
+I've a good place to sleep
+There's food on my table
+And shoes on my feet
+You gave me Your love Lord and a fine family
+Thank you Lord, for your blessings on me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now I know I'm not wealthy,
+And these clothes, they're not new
+I don't have much money, but Lord I have you
+And to me, that's all that matters,
+Though the world cannot see
+Thank you Lord, for your blessings on me</lines>
+    </verse>
+  </lyrics>
+</song>

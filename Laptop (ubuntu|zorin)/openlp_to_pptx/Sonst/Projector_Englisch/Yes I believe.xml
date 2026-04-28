@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Yes, I believe</title>
+    </titles>
+    <authors>
+      <author type="words">Judy Bailey</author>
+      <author type="music">Judy Bailey</author>
+      <author type="translation">Ja, es ist wahr (Jesus, du kommst zu allererst)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yes, I believe You're the Christ my authority
+And yes, I believe that You are Lord
+No others gods- You will be my priority
+The one that I am fixed upon</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, Jesus, yes I will follow
+Jesus, Jesus in all I do
+Jesus, Jesus help me remember
+That first of all comes You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yes, every choice, ervery step will be led by You
+And yes, I will dare to live my faith
+I'II think of You, ask myself what would Jesus do
+My pride should never take Your place</lines>
+    </verse>
+  </lyrics>
+</song>

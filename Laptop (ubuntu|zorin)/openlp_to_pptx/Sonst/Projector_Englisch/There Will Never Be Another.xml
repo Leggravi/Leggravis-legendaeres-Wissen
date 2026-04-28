@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There Will Never Be Another</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There will never be another who will love me like You
+There will never be another who could hold me, mold me
+There will never be another who could love me purely
+No there will never be another who has loved me like You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I know that there will never be another love
+Who could ever be the love that You are</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cause You had so much to lose but still You gave it up for Your scars-
+But that's the way you are
+And if I spent my life attending universities,
+Educated in the wisdom of men
+And if I could even quote a guy like Socrates, even then I couldn't comprehend</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And I know I'll never understand this mystery
+If I live to be a hundred and three
+How You died to live the love You give to me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There will never be another who has loved me like You</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Total Praise</title>
+    </titles>
+    <authors>
+      <author type="words">Richard Smallwood</author>
+      <author type="music">Richard Smallwood</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, i will lift mine eyes to the hills
+Knowing my help is coming from You
+Your peace You give me
+in times of the storm</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are the source of my strength
+You are the strength of my life
+I lift my hands in total praise to You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amen, amen, amen, amen.</lines>
+    </verse>
+  </lyrics>
+</song>

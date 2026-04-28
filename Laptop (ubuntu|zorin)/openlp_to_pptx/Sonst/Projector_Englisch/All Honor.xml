@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All Honor</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Baloche</author>
+      <author type="music">Paul Baloche</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All honor
+All glory
+All power
+to you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy father we worship you
+precious Jesus our savior</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy spirit we wait on you
+Holy spirit we wait on you
+Holy spirit we wait on you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For fire</lines>
+    </verse>
+  </lyrics>
+</song>

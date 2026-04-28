@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Song of Glory</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Son of God, everlasting One,
+You have poured your grace on me,
+Love falls down, filling up my life
+And my heart sings out Your praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let the seas resound, let the oceans roar
+With a song of glory for You Lord,
+Let it fill the sky, saturate my life
+With a song of glory for You Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mercy sings, flowing through my soul
+And Your deep calls to my deep, oh Lord,
+Endless light, of a thousand dreams
+You have come and rescued me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let the sound of Your strong melody
+Break the chains as it rises in me
+As the heavens sing loud in the chorus of love
+I will lift up my voice and cry out
+From my soul I will send up a shout,
+Let the words of my life be the song You hear.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>With a song of glory for You, Lord,
+With a song of glory for You, Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

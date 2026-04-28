@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Psalm 84</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, Du mein Gott, über Himmel und Erde Herr,
+wie sehr liebe ich den Ort, an dem Du wohnst!
+ich kann es kaum, kaum noch erwarten,
+ich sehne mich nach Dir,
+in Deinem Vorhof zu kommen
+im Heiligtum Dir nah zu sein</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mit Leib und Seele juble ich dir zu,
+denn niemand ist so gut zu uns wie Du, lebendiger Gott.
+Du allein bist Herr über Himmel und Erde,
+Du mein König und mein Gott.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr, Du mein Gott, Du bist Sonne und Leben und Licht.
+Du gibst Gnade und gibst Ehre, mit Dir fürcht ich mich nicht.
+Wie glücklich sind, die bei Dir wohnen
+Und ihre Stärke in Dir nur, Herr, sehn.
+Du bist die Quelle im dürren Tal.
+Du bist die Kraft, bis wir vor Dir stehn.</lines>
+    </verse>
+  </lyrics>
+</song>

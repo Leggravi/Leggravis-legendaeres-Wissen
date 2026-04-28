@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 14, 2021, 11:18:32 AM">
+  <properties>
+    <titles>
+      <title>Lord, Prepare Me to Be a Sanctuary</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4 V5 V6 V1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Lord, prepare me to be a sanctuary
+Pure and holy, tried and true
+With thanksgiving, I'll be a living
+Sanctuary for You</lines>
+    </verse>
+    <verse name="V2">
+      <lines>It is you, Lord
+Who came to save
+The heart and soul
+Of every man</lines>
+    </verse>
+    <verse name="V3">
+      <lines>It is you Lord
+Who knows my weakness
+Who gives me strength
+With thine own hand</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Lord prepare me to be a sanctuary
+Pure and Holy, tried and true
+With thanksgiving I'll be a living
+Sanctuary for you</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Lead Me on Lord
+From temptation
+Purify me
+From within</lines>
+    </verse>
+    <verse name="V6">
+      <lines>Fill my heart with
+You holy spirit
+Take away all my sin</lines>
+    </verse>
+  </lyrics>
+</song>

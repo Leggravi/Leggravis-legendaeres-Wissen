@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Angels Watching</title>
+    </titles>
+    <authors>
+      <author type="words">Wolfgang Richter</author>
+      <author type="music">Wolfgang Richter</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All night, all day,
+Angels watching over me, my Lord,
+All night, all day,
+Angels watching over me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I went down to the valley to pray,
+Angels watching over me, my Lord,
+My soul got happy and I stayed all day,
+Angels watching over me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When my heart is sad and blue,
+Angels watching over me, my Lord,
+I don't worry for anything,
+Angels watching over me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If you get there before I do,
+Angels watching over me, my Lord,
+Tell all my friends I'm coming too,
+Angels watching over me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>If this world turns upside down,
+Angels watching over me, my Lord,
+I know he will see me through,
+Angels watching over me.</lines>
+    </verse>
+  </lyrics>
+</song>

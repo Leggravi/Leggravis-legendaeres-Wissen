@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Das ist das Fest</title>
+    </titles>
+    <authors>
+      <author type="words">Christine Morgenstern</author>
+      <author type="music">Christine Morgenstern</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Das ist das Fest, auf das uns der Herr bereitet
+in einer Welt, die voller Trauer ist.
+Das ist der Weg, der uns zum Frieden leitet,
+weil Gottes Liebe eine Mauer ist.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: Herr, gib uns deinen Geist, den Geist der Freude.
+Verändre Du die Welt, ja Herr noch heute. :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Das ist das Fest, auf das die Völker warten
+in einer Welt, die voll Zerstörung ist.
+Herr, wandle Du die Welt in einem Garten,
+der für uns alle die Erhörung ist.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Das ist das Fest, das unsre Nächte lichtet
+in einer Zeit, die voller Wolken ist.
+Herr, lass uns sehen, was Dein Wort berichtet,
+dass Du inmitten Deines Volkes bist.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Das ist das Fest, das unser Leben wandelt
+in einer Welt, die voller Sorgen ist.
+Du hast an uns so wunderbar gehandelt,
+dass unser Herz in dir geborgen ist.</lines>
+    </verse>
+  </lyrics>
+</song>

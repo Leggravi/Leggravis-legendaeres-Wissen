@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Mar 4, 2020, 9:14:05 PM">
+  <properties>
+    <titles>
+      <title>Gut dass wir einander haben</title>
+    </titles>
+    <verseOrder>C1 V2 C1 V3 C1 V4 C1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="C1">
+      <lines>Gut, dass wir einander haben, gut, dass wir einander sehn,
+Sorgen, Freuden, Kräfte teilen
+Und auf einem Wege gehn.
+Gut, dass wir nicht uns nur haben,
+Dass der Kreis sich niemals schließt
+Und dass Gott, von dem wir reden,
+Hier in unsrer Mitte ist.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Keiner, der nur immer redet;
+Keiner, der nur immer hört.
+Jedes Schweigen
+Jedes Hören,
+Jedes Wort hat seinen Wert.
+Keiner wider spricht nur immer,
+Keiner passt sich immer an.
+Und wir lernen
+Wie man streiten
+Und sich dennoch lieben kann.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Keiner, der nur immer jubelt;
+Keiner, der nur immer weint.
+Oft schon hat uns Gott in unsrer
+Freude, unsrem Schmerz vereint.
+Keiner trägt nur immer andre;
+Keiner ist nur immer Last.
+Jedem wurde schon geholfen;
+Jeder hat schon angefasst.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Keiner ist nur immer schwach,
+Und keiner hat für alles Kraft.
+Jeder kann mit Gottes Gaben das tun,
+Was kein anderer schafft.
+Keiner, der noch alles braucht,
+Und keiner, der schon alles hat.
+Jeder lebt von allen andern;
+Jeder macht die andern satt.</lines>
+    </verse>
+  </lyrics>
+</song>

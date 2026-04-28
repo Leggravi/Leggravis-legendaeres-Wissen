@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus I Have Promised</title>
+    </titles>
+    <authors>
+      <author type="words">Gareth Robinson</author>
+      <author type="music">Gareth Robinson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh Jesus I have promised
+To serve Thee till the end
+Be Thou forever near me
+My Master and my Friend
+I shall not fear the battle
+If Thou art by my side
+Nor wander from the pathway
+If Thou wilt be my Guide.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh let me feel Thee near me
+The world is ever near
+I see the sights that dazzle
+The tempting sounds I hear
+My foes are ever near me
+Around me and within
+But Jesus draw, Thou nearer
+And shield my soul from sin.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh let me hear Thee speaking
+In accents clear and still
+Above the storms of passion
+The murmurs of self-will
+Oh speak to reassure me
+To hasten or control
+Oh speak and make me listen
+Thou Guardian of my soul.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh Jesus Thou has promised
+To all who follow Thee
+That where Thou art in glory
+There shall Thy servant be;
+And Jesus I have promised
+To serve Thee to the end
+Oh give me grace to follow
+My Master and my Friend.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh let me see Thy footmarks
+And in them plant my own
+My hope to follow duly
+Is in Thy Strength alone
+Oh guide me, call me, draw me,
+Uphold me to the end
+Andthen in Heaven receive me
+My Saviour and my Friend.</lines>
+    </verse>
+  </lyrics>
+</song>

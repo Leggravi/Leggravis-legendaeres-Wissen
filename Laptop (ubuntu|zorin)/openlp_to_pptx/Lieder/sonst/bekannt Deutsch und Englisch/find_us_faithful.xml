@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 10, 2019, 10:15:23 PM">
+  <properties>
+    <titles>
+      <title>Find Us Faithful</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>We're pilgrims on the journey
+ of the narrow road,
+And those who've gone before us
+ line the way;
+Cheering on the faithful,
+Encouraging the weary,
+Their lives a stirring testament
+ to God's sustaining grace.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Surrounded by so great a cloud
+ of witnesses,
+Let us run the race,
+Not only for the prize
+But as those who've gone before us
+Let us leave to those behind us:
+The heritage of faithfulness
+Passed on to godly lives.</lines>
+    </verse>
+    <verse name="C3">
+      <lines>Oh, may all who come behind us
+ find us faithful,
+May the fire of our devotion
+ light their way;
+May the footprints that we leave
+ lead them to believe
+And the lives we live inspire them
+ to obey.
+Oh, may all who come behind us
+ find us faithful.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>After all our hopes and dreams
+ have come and gone,
+And our children sift through all
+ we've left behind,
+May the clues that they discover
+And the memories they uncover
+Become a light that leads them
+To the road we each must find.</lines>
+    </verse>
+  </lyrics>
+</song>

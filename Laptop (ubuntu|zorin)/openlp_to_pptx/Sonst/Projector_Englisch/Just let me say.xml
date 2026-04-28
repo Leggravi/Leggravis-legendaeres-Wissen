@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Just let me say</title>
+    </titles>
+    <authors>
+      <author type="words">Geoff Bullock</author>
+      <author type="music">Geoff Bullock</author>
+      <author type="translation">Ich will dich mehr als alles lieben</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Just let me say how much I love You
+Let me speak of Your mercy and grace
+Just let me live in a shadow of Your beauty
+Let me see You face to face</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And the earth will shake as Your Word goes forth
+And the heavens will tremble and fall
+But let me say how much I love You
+Oh my Savior, my Lord and Friend</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Just let me hear Your finest whispers
+As You gently call my name
+And let me see Your power and Your glory
+Let me feel Your spirit's flame</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let me find You in the desert
+Till this sand is holy ground
+And I am found completely surrendered
+To You my Lord and Friend</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So let me say how much I love You
+With all my heart I long for You
+For I am caught in this passion of knowing
+This endless love I've found in You</lines>
+    </verse>
+    <verse name="v6">
+      <lines>/: And the depth of grace, the forgiveness found
+To be called a child of God
+Just makes me say how much I love You
+Oh my Savior, my Lord and Friend :/</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Just makes me say how much I love You
+Oh my Savior, my Lord and Friend</lines>
+    </verse>
+  </lyrics>
+</song>

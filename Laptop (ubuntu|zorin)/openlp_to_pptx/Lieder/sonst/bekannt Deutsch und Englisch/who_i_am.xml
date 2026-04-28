@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 29, 2024, 10:26:50 PM">
+  <properties>
+    <titles>
+      <title>Who I Am</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>O, glorious victory
+That day He set me free,
+And He made my heart His very throne.
+My life is no longer mine,
+I'm a prisoner of love divine,
+And now I live to praise His name.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Who I am, Lord, who I am,
+I can see now, who I am.
+A part of my Saviour,
+A part of His Word.
+It's a revelation (It's predestination)
+Of who I am.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>On Calvary He died
+To redeem His lost Bride,
+The King of Kings
+Became my Saviour;
+This is God's great mystery
+Of love expressed to me,
+That Christ and I
+Might be made one!</lines>
+    </verse>
+  </lyrics>
+</song>

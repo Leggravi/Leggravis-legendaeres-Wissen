@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Dec 21, 2019, 12:50:01 PM">
+  <properties>
+    <titles>
+      <title>Welcome Holy Spirit</title>
+    </titles>
+    <verseOrder>V1 V2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Welcome Holy Spirit
+Be Here with Your Presence
+Fill me with Your Power
+Live Inside of Me</lines>
+    </verse>
+    <verse name="V2">
+      <lines>You're the Living Water
+Never drying Fountain
+Comforter and Counselor
+Take Complete Control</lines>
+    </verse>
+  </lyrics>
+</song>

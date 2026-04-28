@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Is My Everything</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He is my everything,
+He is my all.
+He is my everything,
+Both great and small.
+He gave Himself for me,
+Made everything new;
+He is my everything,
+None other will do.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:47">
+  <properties>
+    <titles>
+      <title>Der Herr ist König, hoch erhöht</title>
+    </titles>
+    <authors>
+      <author type="words">Matthias Jorissen (1793)</author>
+      <author type="music">Loys Bourgeois</author>
+    </authors>
+    <ccliNo>5579071</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Der Herr ist König, hoch erhöht,
+er gürtet sich mit Majestät,
+er herrscht, und vor ihm steht die Welt
+unwandelbar, da er sie hält.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dein Thron steht fest zu aller Zeit,
+du lebst in aller Ewigkeit.
+O Herr, du siehst von deinem Thron
+der Ströme Verderben drohn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn sich das Meer erhebt und brüllt,
+was lebt, mit Todesschrecken füllt,
+siehts, Herr dich über sich erhöht,
+sinkt hin vor deiner Majestät.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wenn alles wankt, dein Zeugnis nicht,
+du hältst, was deine Schuld verspricht,
+drum sucht dein Volk, das dir sich weiht,
+hier seinen Schmuck in Heiligkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

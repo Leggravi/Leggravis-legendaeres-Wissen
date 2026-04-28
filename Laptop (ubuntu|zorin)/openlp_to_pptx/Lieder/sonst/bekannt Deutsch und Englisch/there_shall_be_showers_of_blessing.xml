@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Aug 15, 2025, 1:08:57 PM">
+  <properties>
+    <titles>
+      <title>There Shall Be Showers of Blessing</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2 V5 C2 V6 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>There shall be showers of blessing:
+This is the promise of love;
+There shall be seasons refreshing,
+Sent from the Savior above.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Showers of blessing,
+Showers of blessing we need;
+Mercy-drops round us are falling,
+But for the showers we plead.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>There shall be showers of blessing
+Precious reviving again;
+Over the hills and the valleys,
+Sound of abundance of rain.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>There shall be showers of blessing;
+Send them upon us, O Lord!
+Grant to us now a refreshing;
+Come, and now honor Thy Word.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>There shall be showers of blessing;
+O that today they might fall,
+Now as to God we’re confessing,
+Now as on Jesus we call!</lines>
+    </verse>
+    <verse name="V6">
+      <lines>There shall be showers of blessing,
+If we but trust and obey;
+There shall be seasons refreshing,
+If we let God have His way.</lines>
+    </verse>
+  </lyrics>
+</song>

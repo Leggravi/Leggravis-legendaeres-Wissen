@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gone Tomorrow</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I keep watching for the dawning of tomorrow,
+when we'll meet the blessed Savior in the sky,
+and all the troubles of today will soon be over
+that's when God will wipe all the teardrops from our eyes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We're here today, we'll be gone tomorrow,
+and this life won't even be a memory.
+We're here today, we'll be gone tomorrow,
+where we'll praise the Lord through out eternity.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Today we're getting ready for the final journey,
+and I'm making plans to live in my new home,
+soon those eastern skies will glow the clouds of glory,
+and the sounding of the trumpets will gone.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Kommet in das Allerheiligste</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Jacobi</author>
+      <author type="music">John Sellers</author>
+      <author type="translation">Come into the Holy of Holies</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kommet in das Allerheiligste, 
+kommet durch des Lammes Blut.
+Kommt in seine Gegenwart mit Lobgesang,
+betet an vor Gottes Thron!:|
+Hebt heil’ge Hände auf, gebt dem König Lob, |: betet an Jesus! :|</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:35">
+  <properties>
+    <titles>
+      <title>Näher, mein Gott, zu dir</title>
+    </titles>
+    <authors>
+      <author type="words">Erhard Friedrich Wunderlich (1875)</author>
+      <author type="music">Lowell Mason</author>
+    </authors>
+    <ccliNo>5965953</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Näher, mein Gott, zu dir, näher zu dir!
+Drückt mich auch Kummer hier, drohet man mir,
+soll doch trotz Kreuz und Pein dies meine Losung sein:
+Näher, mein Gott, zu dir, näher zu dir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bricht mir, wie Jakob dort, Nacht auch herein,
+find ich zum Ruheort nur einen Stein;
+ist selbst im Traume hier mein Sehnen für und für:
+Näher, mein Gott, zu dir, näher zu dir!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Geht auch die schmale Bahn aufwärts gar steil,
+führt sie doch himmelan zu meinem Heil.
+Engel, so licht und schön, winken aus selgen Höhn:
+Näher, mein Gott, zu dir, näher zu dir.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ist dann die Nacht vorbei, leuchtet die Sonn,
+weih ich mich dir aufs neu vor deinem Thron;
+baue mein Bethel dir und jauchz mit Freuden hier:
+Näher, mein Gott, zu dir, näher zu dir!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ist mir auch ganz verhüllt dein Weg allhier,
+wird nur mein Wunsch erfüllt: Näher zu dir!
+Schließt dann mein Pilgerlauf, schwing ich mich freudig auf:
+Näher, mein Gott, zu dir, näher zu dir!</lines>
+    </verse>
+  </lyrics>
+</song>

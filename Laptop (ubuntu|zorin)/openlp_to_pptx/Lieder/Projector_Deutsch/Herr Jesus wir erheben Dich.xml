@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr Jesus, wir erheben Dich</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Samuel Diterich</author>
+      <author type="music">Elberfeld</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr Jesus, wir erheben Dich,
+und unsre Herzen freuen sich
+der Herrlichkeit, der Majestät,
+zu der Dich Gott, Dein Gott, erhöht'.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dein Werk auf Erden ist vollbracht,
+zerstört hast Du der Feinde Macht.
+Dein Blut hat uns mit Gott versöhnt,
+und Gott hat Dich mit Ruhm gekrönt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jetzt thronst Du in der Herrlichkeit,
+stärkst uns in dieser Pilgerzeit,
+dass wir den guten Kampf bestehn,
+bis droben wir Dein Antlitz sehn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dann wird sich völlig unsre Seel
+in Dir erfreun, o Lebensquell.
+Dann jauchzen und lobsingen wir
+in Ewigkeit, Herr Jesus, Dir.</lines>
+    </verse>
+  </lyrics>
+</song>

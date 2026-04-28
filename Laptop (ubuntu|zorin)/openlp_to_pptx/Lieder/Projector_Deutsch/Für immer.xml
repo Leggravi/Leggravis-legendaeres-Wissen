@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Für immer</title>
+    </titles>
+    <authors>
+      <author type="words">Arne Kopfermann</author>
+      <author type="music">Vince Barlow</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir danken dir, Herr denn du bist gut
+Unendlich ist deine Liebe
+Denn du bist der, der große Wunder tut
+Unendlich ist deine Liebe
+Wir preisen dich</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mit starker Hand hast du uns befreit
+Unendlich ist deine Liebe
+Und ewiges Leben hältst du für uns bereit
+Unendlich ist deine Liebe
+Wir preisen dich</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Für immer bist du treu, Herr
+Für immer bist du stark
+Für immer gest du mit uns
+Unendlich und ewig, für immer</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du bist Gott und du veränderst dich nicht
+Unendlich ist deine Liebe
+Und deine Gnade lässt uns nie im Stich
+Unendlich ist deine Liebe
+Wir preisen dich</lines>
+    </verse>
+  </lyrics>
+</song>

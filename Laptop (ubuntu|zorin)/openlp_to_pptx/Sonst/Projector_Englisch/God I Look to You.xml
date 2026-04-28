@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God I Look to You</title>
+    </titles>
+    <authors>
+      <author type="words">Jenn Johnson</author>
+      <author type="music">Jenn Johnson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God I look to You, I wont be overwhelmed
+Give me vision to see things like You do
+God I look to You, You're where my help comes from
+Give me wisdom, You know just what to do</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God I look to You, and I wont be overwhelmed
+Give me vision to see things like You do
+God I look to You, and You're where my help comes from
+Give me wisdom, You know just what to do
+Yeah yeah</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I will love You Lord my strength
+And I will love You Lord my shield
+And I will love You Lord my rock
+Forever all my days I will love You God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hallelujah our God reigns
+Hallelujah our God reigns
+Oh hallelujah our God you reigns
+Forever all my days Hallelujah</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hallelujah our God reigns
+And hallelujah our God reigns
+Oh hallelujah our God you reigns
+Forever all my days Hallelujah</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And hallelujah our God reigns
+Hallelujah our God reigns
+And Hallelujah our God reigns
+Forever all my days Hallelujah</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hallelujah our God reigns
+Hallelujah our God reigns
+Hallelujah our God you reigns
+Forever all my days Hallelujah</lines>
+    </verse>
+    <verse name="v8">
+      <lines>And hallelujah our God reigns
+Hallelujah our God reigns
+Hallelujah our God reigns
+Forever all my days Hallelujah</lines>
+    </verse>
+    <verse name="v9">
+      <lines>And hallelujah our God reigns
+And hallelujah our God reigns
+Yes hallelujah our God reigns
+Forever all my days Hallelujah</lines>
+    </verse>
+  </lyrics>
+</song>

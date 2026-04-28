@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Will Not Be Defeated No I Won't</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I Will Not Be Defeated No I Won't
+I Will Not Be Defeated No I Won't
+Jesus Christ Gods Only Son
+Fought The Battle And He Won
+I Will Not Be Defeated No I Won't</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I Will Not Be Defeated No I Won't
+I Will Not Be Defeated No I Won't
+Since The Holy Ghost Came In
+Gave Us Power Over Sin
+I Will Not Be Defeated No I Won't</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I Will Not Be Defeated No I Won't
+I Will Not Be Defeated No I Won't
+For The Lord Is On Our Side
+And We'll Not Be Denied
+I Will Not Be Defeated No I Won't</lines>
+    </verse>
+  </lyrics>
+</song>

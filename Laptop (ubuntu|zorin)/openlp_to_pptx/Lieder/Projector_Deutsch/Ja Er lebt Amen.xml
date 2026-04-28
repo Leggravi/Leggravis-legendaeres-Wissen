@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ja Er lebt Amen</title>
+    </titles>
+    <authors>
+      <author type="words">Frank Huck</author>
+      <author type="music">Travis Cottrell</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ja Er lebt Amen
+Ja Er lebt!
+Jesus Christus lebt in Ewigkeit
+Er lebt! Amen</lines>
+    </verse>
+  </lyrics>
+</song>

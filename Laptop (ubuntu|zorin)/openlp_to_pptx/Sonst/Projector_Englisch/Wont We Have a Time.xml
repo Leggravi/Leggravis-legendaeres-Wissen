@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Won’t We Have a Time</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Won’t we have a time
+When we get over yonder?
+Won’t we have a time
+When we get over yonder?
+Won’t we have a time
+When we get over yonder?
+Ohhhhhh! Won’t we have a time?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We’ll see King Jesus there
+When we get over yonder;
+We’ll see King Jesus there
+When we get over yonder;
+We’ll see King Jesus there
+When we get over yonder.
+Ohhhhhh! Won’t we have a time?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We will sing and shout, and dance about
+When we get over yonder;
+We will sing and shout, and dance about
+When we get over yonder;
+We will sing and shout, and dance about
+When we get over yonder.
+Ohhhhhh! Won’t we have a time?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There’ll be no sorrow there
+When we get over yonder;
+There’ll be no sorrow there
+When we get over yonder;
+There’ll be no sorrow there
+When we get over yonder;
+Ohhhhhh! Won’t we have a time?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We’ll crown him Lord of all
+When we get over yonder;
+We’ll crown him Lord of all
+When we get over yonder;
+We’ll crown him Lord of all
+When we get over yonder;
+Ohhhhhh! Won’t we have a time?</lines>
+    </verse>
+  </lyrics>
+</song>

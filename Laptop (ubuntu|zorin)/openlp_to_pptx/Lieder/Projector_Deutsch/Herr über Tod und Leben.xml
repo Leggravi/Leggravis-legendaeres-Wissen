@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr über Tod und Leben</title>
+    </titles>
+    <authors>
+      <author type="words">Hugo Hartnack</author>
+      <author type="music">Melchior Teschner</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr über Tod und Leben!
+Wir sind in Deiner Hand,
+vom Vater Dir gegeben
+und von Dir selbst gekannt.
+Wir sind durch Dich erworben
+mit Deinem eignen Blut,
+der Du für uns gestorben,
+machst allen Schaden gut</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du stiegst an unsrer Stelle
+hinab in Todesnacht
+aus Deinem Sieg strahlt helle
+nun Auferstehungsmacht.
+Du hast Dich selbst gegeben
+aus Himmelsherrlichkeit,
+ans Licht gebracht das Leben
+und Unverweslichkeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lobpreis und Dank und Ehre
+sei, Überwinder, Dir!
+Dass Dein Ruhm stets sich mehre,
+ersehnen dankbar wir.
+Wenn Du ein Glied gerufen
+aus Deiner Zeugenschar
+zu Deines Thrones Stufen,
+wird Dein Lob offenbar!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wo Menschen auf Dich warten,
+klafft eine Lücke hier
+im Paradiesesgarten
+strahlt neuer Glanz dafür!
+Wo wir noch Tränen weinen,
+quillt dort ein Strom von Freud'.
+Ach holtest Du die Deinen
+doch alle, Herr, noch heut!</lines>
+    </verse>
+  </lyrics>
+</song>

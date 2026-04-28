@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wind Gottes</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es weht ein Wind vom Himmel über unser Land
+Ein sanfter Duft des Lebens strömt auf uns herab
+Ich weiß nicht wo er herkommt
+Weiß nicht wohin er geht
+Doch lass ihn wehen über mir
+O Wind Gottes
+Komm und wehe über mir</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Regen fällt vom Himmel Fluten von dem Thron
+Gnadentropfen fallen Liebe wie ein Strom
+Streck dich aus zum Himmel
+Wasser fließt herab
+Lass es fließen über mich
+O Regen Gottes
+Komm und fließe über mich</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Feuer fallt vom Himmel entzündet unser Land
+Zungen wie aus Feuer setzen uns in Brand
+Fühlst du dieses Feuer
+Wie das Opfer brennt
+Lass es brennen auch in mir
+O Feuer Gottes
+Komm und brenne auch in mir</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Wind Gottes
+Komm und wehe über mir
+O Regen Gottes
+Komm und fließe über mich
+O Feuer Gottes
+Komm und brenne auch in mir</lines>
+    </verse>
+  </lyrics>
+</song>

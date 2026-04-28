@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Saved by grace</title>
+    </titles>
+    <authors>
+      <author type="words">Israel Houghton</author>
+      <author type="music">Israel Houghton</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Someday the silver cord will break
+And I no more as now shall sing
+But oh the joy when I awake
+Within the palace of the king</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I will see Him face to face
+And tell the story saved by grace
+And I will see Him face to face
+And tell the story saved by grace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Someday my earthly house will fall
+I cannot tell when it will be
+But this I know my all in all
+Has built a place In Heaven for me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Someday when fades the golden sun
+Beneath horizons in the west
+My blessed Lord will say &quot;well done&quot;
+Then I shall enter into rest</lines>
+    </verse>
+  </lyrics>
+</song>

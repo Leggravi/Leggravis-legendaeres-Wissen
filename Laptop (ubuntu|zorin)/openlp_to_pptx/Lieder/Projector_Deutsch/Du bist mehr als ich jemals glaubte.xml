@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist mehr, als ich jemals glaubte</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist mehr,
+als ich jemals glaubte,
+mehr als ich jemals dachte,
+mehr, so, viel mehr.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deine Freundlichkeit und Liebe,
+Deine Güte und Geduld,
+Deine wundervolle Treue ist so viel größer
+als all meine Schuld.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Deine Gnade und Vergebung,
+Deine zarte Gegenwart,
+Deine Herrlichkeit und Schönheit,
+Du bist alles, was ich hab.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Darum streck ich mein Herz entgegen,
+ich geb' mich Dir ganz hin.
+Jesus, Du mein Leben,
+ich geb' Dir alles, was ich bin.</lines>
+    </verse>
+  </lyrics>
+</song>

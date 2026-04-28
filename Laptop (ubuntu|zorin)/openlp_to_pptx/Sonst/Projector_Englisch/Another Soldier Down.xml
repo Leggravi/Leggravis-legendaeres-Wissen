@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Another Soldier Down</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We're in a mighty conflict here
+The army of the lord
+We must join forces standing tall
+And lean upon his word</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The enemy is now and new
+And bravely circles round
+And comes a cry from the battlefield
+Another soldier down</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Go then within
+Stand by his side
+Lend him your strength once more
+Oh bear him up with faith and prayer
+Until the battles o'er</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And fight before the victory
+The cross before the crown
+Be ever watchful hear the cry
+Another soldier down</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We set our minds on victory
+Advancing day by day
+With God our hope
+Our strategy
+Our fortress on the way</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Then at the end
+There is rest
+An everlasting prayer
+Oh and the fear no more will hear
+Another soldier down</lines>
+    </verse>
+  </lyrics>
+</song>

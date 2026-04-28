@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="May 14, 2019, 6:44:29 PM">
+  <properties>
+    <titles>
+      <title>Du bist gut</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Die ganze Welt soll hörn, wie gut du zu uns bist
+wie gross und grenzenlos doch deine Gnade ist.
+Du machst mein Leben Reich, mit Liebe füllst du mich.
+Ich kann nur staunen Herr!</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Und ich singe, denn du bist gut!
+Und ich tanze, denn du bist gut!
+Und ich rufe laut: Du bist gut!
+Du bist gut zu mir!</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Nichts kommt dir jemals gleich, niemand ist so wie du!
+Der Himmel und das Meer rufen dir jubelnd zu!
+In meiner tiefsten Nacht, strahlst du als helles Licht!
+Ich kann nur staunen Herr!</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Das ist mein Herzensschrei, und alle solln es hörn:
+Du bist gut! Du bist gut!
+Und ob die Sonne scheint, oder der Regen fällt:
+Du bist gut! Du bist gut!</lines>
+    </verse>
+  </lyrics>
+</song>

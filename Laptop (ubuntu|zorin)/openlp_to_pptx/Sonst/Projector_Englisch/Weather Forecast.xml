@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Weather Forecast</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Down through the ages
+God showed His men the weather,
+From Noah to Elijah on the hill;
+If we hear what the Spirit is saying
+to the churches,
+He loves us
+and He sends a warning still.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh the weather forecast
+for the tomorrow is stormy,
+There are dark clouds
+forming in the east;
+But the day after that
+the sun will be shining,
+And it looks
+a thousand years of peace,
+Oh it looks like
+a thousand years of peace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Just hear what the Spirit is saying
+to the churches,
+His ministers are speaking to us plain;
+If we make the sacrifice
+and offer to Him praises,
+Today and He will send the latter rain.</lines>
+    </verse>
+  </lyrics>
+</song>

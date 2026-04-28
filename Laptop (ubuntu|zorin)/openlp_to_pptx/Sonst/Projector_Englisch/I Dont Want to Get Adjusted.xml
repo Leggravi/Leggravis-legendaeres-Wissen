@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Don't Want to Get Adjusted</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In this world, we have our troubles
+Sometimes lonesome, sometimes blue
+But the hope of life eternal
+Makes all old hopes brand-new</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I don't want to get adjusted (I don't want to get adjusted)
+To this world (to this world), to this world (to this world)
+I've got a home so much better
+And I'm gonna go there sooner or later
+I don't wanna get adjusted to this world (to this world)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, I'm growing old and weary
+There's no place that feels like home
+Jesus come my soul to carry
+Oh-oh, where I never more shall roam.</lines>
+    </verse>
+  </lyrics>
+</song>

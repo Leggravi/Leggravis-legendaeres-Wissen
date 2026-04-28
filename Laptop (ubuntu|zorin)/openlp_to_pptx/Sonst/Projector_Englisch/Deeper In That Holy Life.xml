@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Deeper In That Holy Life</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deeper In Thy love, Oh Jesus
+Doth my spirit cry to go.
+Until all my life is hidden
+Deep within the cleansing flow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deeper in that holy life
+'Til I'm lost with Christ in God.
+Hidden with my blessed Lord
+While I walk this earthly sod.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Humbly must I walk with Jesus
+In the paths that He doth lead.
+Never falter, never murmur
+Always to His voice give heed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Daily must I seek to please Him
+Whether it bring joy or pain.
+I shall know then just how blessed
+Is the worth of Heav'nly gain.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Deeper, 'til at last in Glory
+In His likeness I shall come.
+Where the saints of all the ages
+Shall receive their welcome home.</lines>
+    </verse>
+  </lyrics>
+</song>

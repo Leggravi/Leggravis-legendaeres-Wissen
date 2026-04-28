@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What a Lovely Name the Name of Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a name above all others,
+Wonderful to hear, bringing hope and cheer.
+It's the lovely name of Jesus,
+Evermore the same, what a lovely name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What a lovely name, the name of Jesus,
+Reaching higher far, than the brightest star.
+Sweeter than the songs they sing in heaven,
+Let the world proclaim, What a lovely name!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thru His name here's wondrous power,
+Power to redeem, making sinners clean.
+By His pow'r He cleansed the leper,
+Opened blinded eyes, caused the dead to rise.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He'll return in clouds of glory,
+Saints of every race, shall behold His face.
+With Him enter heaven's city,
+Ever to proclaim, what a lovely name.</lines>
+    </verse>
+  </lyrics>
+</song>

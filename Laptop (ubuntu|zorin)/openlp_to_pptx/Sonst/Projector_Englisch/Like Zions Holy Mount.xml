@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Like Zion's Holy Mount</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All they who put their trust in God
+Can never be removed;
+They stand secure like Zion's mount,
+By many ages proved.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Like the mount of God,
+Like the mount of God;
+They stand secure like Zion's mount,
+By many ages proved.
+They can never be removed, removed;
+They stand secure like Zion's mount,
+They can never be removed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As round about Jerusalem
+The rugged mountains lie,
+So round about His holy saints
+Our God is ever nigh.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tho' fierce the storm in fury beat
+And awful thunders roar,
+The children of the mighty God
+Are safe forevermore.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Thus over-shadowed by His love,
+Where harm can ne'er betide,
+Within this refuge safe and sure
+I ever would abide</lines>
+    </verse>
+  </lyrics>
+</song>

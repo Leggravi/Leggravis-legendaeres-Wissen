@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Made in His Image</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am made in His image
+Shaped in His Love
+I am perfect without blemish
+And washed by His blood
+And there is nothing that is not holy
+Within me</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When Israel was in Egypt</title>
+    </titles>
+    <authors>
+      <author type="words">Spiritual</author>
+      <author type="music">Spiritual</author>
+      <author type="translation">Als Israel in Ägypten war (Geh hin, Moses)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When Israel was in Egypt’s land, let my people go!
+Oppressed so hard they could not stand, let my people go!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Go down, Moses, way down in Egypt’s land.
+Tell ol’ Pharao: Let my people go!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thus spoke the Lord, bold Moses said: Let my people go!
+If not I’ll smite your first-born dead, let my people go!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Go down, Moses, way down in Egypt’s land.
+Tell ol’ Pharao: Let my people go!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>No more shall they in bondage toil, let my people go!
+Let them come out with Egypt’s spoil, let my people go!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Go down, Moses, way down in Egypt’s land.
+Tell ol’ Pharao: Let my people go!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Oh let us all from bondage flee, let my people go!
+And let us all in Christ be free, let my people go!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Go down, Moses, way down in Egypt’s land.
+Tell ol’ Pharao: Let my people go!</lines>
+    </verse>
+  </lyrics>
+</song>

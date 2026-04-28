@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nur mit Gott werden wir Sieger sein</title>
+    </titles>
+    <authors>
+      <author type="words">Jugend mit einer Mission</author>
+      <author type="music">Dale Garratt</author>
+      <author type="translation">Victory Song (Through our God)</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nur mit Gott werden wir Sieger sein.
+Er vertreibt und schlägt mit Macht für uns den Feind.
+So singt und feiert seinen Sieg! Gott regiert!
+Denn Gott gewann für uns die Schlacht,
+gab Freiheit seinem Volk.
+Sein Wort hat Tod dem Feind gebracht.
+Die Welt muss erkennen:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nur mit Gott werden wir Sieger sein.
+Er vertreibt und schlägt mit Macht für uns den Feind.
+So singt und feiert seinen Sieg! Gott regiert!
+Denn Gott gewann für uns die Schlacht,
+gab Freiheit seinem Volk.
+Sein Wort hat Tod dem Feind gebracht.
+Die Welt muss erkennen:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gott regiert! Gott regiert!</lines>
+    </verse>
+  </lyrics>
+</song>

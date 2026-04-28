@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let My Word Be Few</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are God in Heaven
+And here am I on earth
+So I'll let my words be few
+Jesus, I am so in love with you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I'll stand in awe of you [Jesus]
+Yes, I'll stand in awe of you
+And I'll let my words be few
+Jesus, I am so in love with You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The simplest of all love songs
+I want to bring to you
+So I'll let my words be few
+Jesus, I am so in love with You</lines>
+    </verse>
+  </lyrics>
+</song>

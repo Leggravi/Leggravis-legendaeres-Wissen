@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Little Light of Mine</title>
+    </titles>
+    <authors>
+      <author type="words">Avis Burgeson Christiansen</author>
+      <author type="music">überliefert</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This Little Light Of mine
+I'm gonna let it shine. x3
+Let it shine! Let it shine!
+Let it shine!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hiding on my bushel No!
+I'm gonna let it shine x3
+Let it shine! Let it shine!
+Let it shine!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus is the light,
+I'm gonna let it shine, x3
+Let it shine! Let it shine!
+Let it shine!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Don't let Satan blow it out!
+I'm gonna let it shine x3
+Let it shine! Let it shine!
+Let it shine!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let it shine through Jesus Comes,
+I'm gonna let it shine x3
+Let it shine! Let it shine!
+Let it shine!</lines>
+    </verse>
+  </lyrics>
+</song>

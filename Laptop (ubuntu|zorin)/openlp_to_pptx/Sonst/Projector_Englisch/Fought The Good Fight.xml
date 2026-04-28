@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Fought The Good Fight</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There was a man named Paul,
+Who was tested and tried;
+He suffered for the Gospel,
+But God was on His side;
+(And) At the end of his road
+He had a testimony,
+(He said) &quot;I have finished my course,
+A crown awaits for me.&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have fought the good fight,
+I have kept the faith;
+I've been through
+some hard times,
+But made it by His grace;
+The battle's almost over,
+I have run the race;
+I have fought the good fight,
+I have kept the faith.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Looking back through all my years,
+There's battles along the way;
+Persecution, pain, and tears,
+I struggled day by day;
+But through it all, one thing I know,
+In Christ is victory;
+And when my life is over,
+my testament will be:</lines>
+    </verse>
+  </lyrics>
+</song>

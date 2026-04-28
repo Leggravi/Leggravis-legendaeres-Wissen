@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Clothe The Lily</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a love that's already given
+There's a Grace that I could not earn
+You pour out mercy
+Morning by morning
+Your goodness follows me all of my days</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What do I have that hasn't been given
+What do I need that you don't supply
+You clothe the lily
+You feed the sparrow
+They do not worry
+So neither will I</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are faithful God
+You are faithful God
+You are faithful God
+You are faithful God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, I don't have to be afraid anymore
+Oh, I don't have to be afraid anymore</lines>
+    </verse>
+  </lyrics>
+</song>

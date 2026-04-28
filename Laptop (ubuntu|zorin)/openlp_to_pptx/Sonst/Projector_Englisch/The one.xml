@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The one</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v2 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The day is dark and I can't see
+The path I'm on or what's in front of me
+But I will stand on this I know
+You will never let me go</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For the one who holds tomorrow
+Holds me in His hand
+And I will not fear the future
+I'll trust the Great I Am</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His love is deep, His love is wide
+A fountain flowing like a crimson tide
+My stains were scarlet, but this I know
+They've been washed as white as snow</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Who has been and always will be
+Reigning on His throne
+For the One who holds me in His hand
+Is the One who holds it all</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Though the world shall fade away
+And the sky may even fall
+You are strong enough to save
+You're the one who holds
+Every heart that is afraid
+You hear our desperate call
+You are strong enough to save
+You're the One who holds it all
+You hold it all
+You hold it all</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Who has been and always will be
+Reigning on His throne
+For the One who holds me in His hand
+Is the One who holds it all
+You're the One who holds it all
+You're the One who holds it all</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Send The Fire</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thou Christ of burning, cleansing flame,
+Send the fire, send the fire, send the fire!
+Thy blood bought gift today we claim,
+Send the fire, send the fire, send the fire;
+Look down and see this waiting host,
+Give us the promised Holy Ghost,
+We want another Pentecost,
+Send the fire, send the fire, send the fire!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God of Elijah, hear our cry,
+Send the fire, send the fire, send the fire!
+He'll make us fit to live or die,
+Send the fire, send the fire, send the fire;
+To burn up every trace of sin,
+To bring the light and glory in,
+The revolution now begin,
+Send the fire, send the fire, send the fire!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Tis fire we want, for fire we plead,
+Send the fire, send the fire, send the fire!
+The fire will meet our every need,
+Send the fire, send the fire, send the fire;
+For strength to ever do the right,
+For grace to conquer in the fight,
+For power to walk in the world in white,
+Send the fire, send the fire, send the fire!</lines>
+    </verse>
+  </lyrics>
+</song>

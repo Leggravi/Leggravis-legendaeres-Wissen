@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Miracles</title>
+    </titles>
+    <authors>
+      <author type="words">Brandon Lake</author>
+      <author type="music">Brandon Lake</author>
+      <author type="translation">Haus der Wunder</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amid the countless blessings the Lord has given me
+The light of truth and goodness; the Holy Spirit's peace
+I see the many sorrows that his children must endure
+So much hurt I long to heal. How can I change the world?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There are hands I cannot hold
+Hearts I cannot comfort
+Tears that only miracles can stay
+So let me love and serve and teach
+Those who come within my reach
+For miracles begin that way</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Savior walked in Galilee, unknown in many lands
+Yet touching every nation by the labors of his hands
+Giving light to all the world by teaching but the few
+He is my example in the work that I must do</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will bear the burden of my neighbor in his need
+I will share my Savior's love in every kindly deed
+He will magnify my efforts, and I'll understand at last
+That by these small and simple things are great things brought to pass.</lines>
+    </verse>
+  </lyrics>
+</song>

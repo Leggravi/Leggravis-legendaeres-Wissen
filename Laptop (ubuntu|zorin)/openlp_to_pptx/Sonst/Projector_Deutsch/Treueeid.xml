@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Treueeid</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich gelobe Dir den Treueeid
+Lamm Gottes bis in Ewigkeit
+und folge Dir für alle Zeit
+ich gelobe Dir den Treueeid!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Christen wurden einst vor langer Zeit
+Vor den Thron eines Tyrannen geschleift
+Er versprach: dein Leben wird verschont
+Entsagen einfach Gottes Sohn.</lines>
+    </verse>
+  </lyrics>
+</song>

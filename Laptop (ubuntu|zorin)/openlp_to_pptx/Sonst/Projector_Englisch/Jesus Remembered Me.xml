@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Remembered Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was alone and drifting
+on the lonely sea of sin,
+Nothing but darkness,
+no sunshine within,
+I lifted up my eyes to the Lord
+in the sky,
+Glory to God He remembered me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus remembered me,
+oh glory, glory,
+And so He set me free,
+Once I was blind
+but now I can see
+Glory to God He remembered me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As He taught His disciples
+by the sea of Galilee
+He said He’d remember a mortal
+like me
+I asked for His forgiveness down
+on my knees
+Glory to God He remembered me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now the dawn is breaking
+I am happy and free
+No more sorrows and troubles
+for me I’m going home in glory
+My Saviour to see
+Glory to God He remembered me.</lines>
+    </verse>
+  </lyrics>
+</song>

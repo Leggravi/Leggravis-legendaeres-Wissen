@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Please Forgive</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My sleep is gone, my heart is full of sorrow
+I can't believe how much I've let you down
+I dread the pain that waits for me tomorrow
+When the sun reveals my broken dreams scattered on the ground</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Please forgive me I need your grace to make it through
+All I have is you, I'm at your mercy Lord,
+I'll serve you Until my dying day
+Help others find the way
+At your mercy, please forgive me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I can't believe the God of earth and glory
+Would take the time to care for one like me
+But I read in the bible that old story
+How he plead for my forgiveness while He was dying on a tree.</lines>
+    </verse>
+  </lyrics>
+</song>

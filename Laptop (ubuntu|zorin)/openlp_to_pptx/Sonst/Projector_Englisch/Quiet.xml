@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Quiet</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here we go again, my mind racing
+And I can't seem to win
+All these crazy thoughts and feelings
+It's like it never ends
+Until Your voice breaks through my noise
+And I know I'm not alone, not alone
+You will fight my battles
+If I will just be still
+Why would I keep running
+When You're right here?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'll just be quiet
+And let You speak through the silence
+Here I am, no more hiding
+You are in this moment, I won't fight it
+I'll be quiet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I don't need to know what comes next
+Tomorrow's in Your hands
+I can trust You with my future
+'Cause You're already there
+I hear Your voice call me forward
+And I know I'm not alone, not alone
+Away with the distractions
+I wanna hear what's true
+The only words that matter
+They come from You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'll just be quiet
+And let You speak through the silence
+Here I am, no more hiding
+You are in this moment, I won't fight it
+I'll be quiet, Quiet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>God, You're here in the silence
+Here I am, no more hiding
+You are in this moment, I won't fight it
+I'll be quiet</lines>
+    </verse>
+  </lyrics>
+</song>

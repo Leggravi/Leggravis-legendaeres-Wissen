@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:00">
+  <properties>
+    <titles>
+      <title>Wie könnt ich ruhig schlafen</title>
+    </titles>
+    <authors>
+      <author type="words">Agnes Franz (1838)</author>
+      <author type="music">So nimm denn meine Hände</author>
+    </authors>
+    <ccliNo>6223065</ccliNo>
+    <themes>
+      <theme>Abendlieder</theme>
+      <theme>Schlaflieder</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wie könnt ich ruhig schlafen
+in dunkler Nacht, wenn ich,
+o Gott und Vater, nicht dein gedacht?
+Es hat des Tages Treiben
+mein Herz zerstreut;
+bei dir, bei dir ist Frieden
+und Seligkeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O decke meine Mängel
+mit deiner Huld;
+du bist ja, Gott, die Liebe
+und die Geduld.
+Gib mir, um was ich flehe:
+ein reines Herz, das dir
+voll Freuden diene
+in Glück und Schmerz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Auch hilf, dass ich vergebe,
+wie du vergibst, und
+meinen Nächsten liebe,
+wie du mich liebst:
+so schlaf ich ohne Bangen
+im Frieden ein und träume
+süß und stille und denke dein.</lines>
+    </verse>
+  </lyrics>
+</song>

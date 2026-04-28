@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gloria sei dir gesungen</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Nicolai</author>
+      <author type="music">Johann Sebastian Bach</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gloria sei dir gesungen
+mit Menschen und mit Engelzungen,
+mit Harfen und mit Zimbeln schön.
+Kein Aug hat je gespürt,
+kein Ohr hat mehr gehört
+solche Freude.
+Des jauchzen wir und singen dir
+das Halleluja für und für.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Von zwölf Perlen sind die Tore
+an deiner Stadt; wir stehn im Chore
+der Engel hoch um deinen Thron.
+Kein Aug hat je gespürt,
+kein Ohr hat mehr gehört
+solche Freude.
+Des jauchzen wir und singen dir
+das Halleluja für und für.
+dir das Halleluja für und für.</lines>
+    </verse>
+  </lyrics>
+</song>

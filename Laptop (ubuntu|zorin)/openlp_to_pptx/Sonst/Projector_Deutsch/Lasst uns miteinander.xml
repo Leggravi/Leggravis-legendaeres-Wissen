@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lasst uns miteinander</title>
+    </titles>
+    <authors>
+      <author type="words">Christa Peikert-Flaspöhler</author>
+      <author type="music">Bea Nyga</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lasst uns miteinander,
+Lasst uns miteinander,
+Singen, spielen, loben den Herrn.
+Lasst es uns gemeinsam tun:
+Singen, spielen, loben den Herrn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Singen, spielen, loben den Herrn;
+Singen, spielen, loben den Herrn;
+Singen, spielen, loben den Herrn;
+Singen, spielen, loben den Herrn.</lines>
+    </verse>
+  </lyrics>
+</song>

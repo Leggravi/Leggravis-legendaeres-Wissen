@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm not ashamed</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Smith</author>
+      <author type="music">Martin Smith</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v2 v3 v3 v2 v3 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When You found me
+My whole world changed
+I'm redeemed by Your life
+Let the earth see
+You are freedom
+Turn my darkness to light</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You welcome me in
+With open arms
+Into unending light</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm not ashamed of the gospel Lord
+Your power, your love
+You saved my soul
+Now I'm alive in You
+I live in the risen Son</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'm not ashamed of the gospel Lord
+Your power, your love
+You saved my soul
+Now I'm alive in You
+I live in the risen Son
+I live in the risen Son
+I live in the risen Son
+I live in the risen Son,
+yeah</lines>
+    </verse>
+  </lyrics>
+</song>

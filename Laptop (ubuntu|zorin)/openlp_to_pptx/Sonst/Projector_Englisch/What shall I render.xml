@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What shall I render</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dear Lord, I can't do nothing without you
+And I can't do nothing for you,
+Everything I give to you, you give it back to me
+What shall I render for all of your love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord You've been my friend, you supply my every need,
+What shall I render for all of you love,
+When I am sick you take away my pain,
+What shall I render for all of your love,
+All I need to do is pray and call your name,
+What shall I render for all of your love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I am lonely You're with me all the way
+What shall I render for all of your love
+When I was lost in sin you died on Calvary
+What shall I render for all of you love
+The reason why you died it was to set me free
+What shall I render for all of your love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dear Lord I can't do nothing without you
+And I can't do nothing for you
+Everything I give to you, you give it back to me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>What shall I render
+What shall I render
+What shall I render (the earth is the Lord's)
+What shall I render (and the fullness thereof)
+What shall I render (He owns the cows)
+What shall I render (On a thousand hills)
+What shall I render (He made the land)
+What shall I render (He made the sea)
+What shall I render (I'm so glad)
+What shall I render (God made me)
+What shall I render (What shall I render)
+What shall I render (What shall I render
+What shall I render for all of your love.</lines>
+    </verse>
+  </lyrics>
+</song>

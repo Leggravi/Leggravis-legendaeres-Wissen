@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Tell Me Who</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tell me who made the angels singing?
+Tell me who made the joy bells ringing?
+Tell me who, is the King of kings?
+Nobody, but my LORD.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yes, he made the world, he made the sea and land,
+Fastened them together with his mighty hand;
+Under His control they move at his command
+Nobody, but my LORD!</lines>
+    </verse>
+  </lyrics>
+</song>

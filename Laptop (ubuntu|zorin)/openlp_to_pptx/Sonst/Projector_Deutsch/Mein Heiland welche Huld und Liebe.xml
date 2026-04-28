@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mein Heiland, welche Huld und Liebe</title>
+    </titles>
+    <authors>
+      <author type="words">Elberfeld</author>
+      <author type="music">Dmitri Stepanowitsch Bortnjanski</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mein Heiland, welche Huld und Liebe
+und welch Erbarmen wohnt in Dir!
+Wer fasset Deine Hirtentriebe,
+womit Du pflegst die Deinen hier,
+für welche Du Dein teures Leben
+aus freier Liebe hingegeben!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wenn ich ermüde, wenn ich leide,
+dann bleibest meine Zuflucht Du
+Du führest mich auf grüne Weide
+und leitest mich zur ew'gen Ruh
+Und dürst' ich Du bist meine Quelle,
+Du labst und stärkest meine Seele.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja, Du bist's, der mich reichlich segnet,
+Du bist und bleibst mein höchstes Gut.
+Du bist's, der freundlich mir begegnet,
+bei Dir mein Herz stets sicher ruht.
+Wohin ich gehe, ich Dich finde,
+und Deine Lieb' ich nie ergründe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Von dieser Liebe will ich singen,
+die mich so reich, so glücklich macht,
+Anbetung Deiner Treue bringen,
+die mich beschützet Tag und Nacht.
+O dass sich stets mein Herz erfreue an
+Deiner Lieb' und Hirtentreue!</lines>
+    </verse>
+  </lyrics>
+</song>

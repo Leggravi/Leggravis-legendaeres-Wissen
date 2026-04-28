@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Until We Give You First Place</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Until we give You first place
+Until we let You begin
+To fill us with your spirit
+Renew us from within
+Nothing matters
+Nothing's gained
+Without your Holy presence
+Our lives are lived in vain</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, we want to know You
+Live our lives to show You
+All the love we owe You
+We're seekers of your heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Because your heart was broken
+Because You saw the need
+Because You gave so freely
+Because of Calvary
+We can now be
+Called your own
+Completed creations
+Filled with You alone</lines>
+    </verse>
+  </lyrics>
+</song>

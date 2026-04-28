@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, füll mich neu</title>
+    </titles>
+    <authors>
+      <author type="words">Kommunität Gnadenthal</author>
+      <author type="music">Kommunität Gnadenthal</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, füll mich neu, füll mich neu mit deinem Geiste,
+der mich belebt und zu dir mein Gott, hinziehet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hier bin ich vor dir, leer sind meine Hände.
+Herr, füll mich ganz mit dir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr, füll mich neu, füll mich neu mit deiner Liebe,
+die bei dir bleibt und mit Freuden Lasten trägt</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herr, füll mich neu, füll mich neu mit deinem Glauben,
+der auf dich schaut und und in anderen Glauben wecket.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Herr, füll mich neu, füll mich neu mit deiner Freude,
+die überströmt und in Lob und Preis dich rühmet</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I've Been Through Enough</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I first began to walk with the Lord,
+I did not fully trust Him,
+How He longed for me
+to understand that I could
+So through the valley,
+He lead me, afraid as I could be,
+Until I felt His loving arms, embracing me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've been through enough to know
+That He'll be enough for me
+He's come through too many times
+That puts my mind at ease, for good
+I'll stake my very life,
+That He's gonna take care of me,
+Cause I've been through enough to know,
+He'll be enough for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>How could I ever doubt a God
+Whose hands hold the universe,
+Why would I ever question His ability,
+There's no place that I can go,
+Where He doesn't know,
+The things that trouble me
+He's always aware of where I am
+ and what I need</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I believe Him now, after all these years,
+He's been so faithful
+He's proven to be true,
+Nevermore will I doubt or question why
+Cause I've seen Him work before
+And I know what God can do</lines>
+    </verse>
+  </lyrics>
+</song>

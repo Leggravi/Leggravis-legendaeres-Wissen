@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wedding Day</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lately I've been thinking as I look all around me
+I see by the signs that we're soon going to leave
+The bridegroom is coming to take us all away
+May be tomorrow, but I pray that it's today</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And we will fly away in the twinkling of an eye
+Leaving all our heartaches and telling them all goodbye
+Yes we will fly away when he hears His Father say
+&quot;Jesus, go and get your bride, today's your wedding day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When we see the bridegroom in the clouds in the sky
+Will he be telling you hello or telling you goodbye?
+Oh, be sure and be ready to meet Him face to face
+We've got to fight the good fight, we've got to keep our faith</lines>
+    </verse>
+  </lyrics>
+</song>

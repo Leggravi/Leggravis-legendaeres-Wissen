@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Far Beyond the Sun</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When salvation story,
+ends in heaven’s glory
+And by sight I witness
+What my Lord has done,
+Helping me surrender,
+by His love so tender
+Giving me a mansion,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Far beyond the sun
+Far beyond the sun,
+Far beyond the sun,
+I have a home,
+a beautiful home,
+Far beyond the sun.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Unto every nation,
+full of free salvation,
+God so freely offered
+Through His precious Son
+Soon shall come the dawning,
+of that happy morning,
+When the Lord shall take us,
+far beyond the sun.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Der Herr ist gut, in dessen Dienst wir stehn</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Jakob Rambach</author>
+      <author type="music">Konrad Kocher</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Der Herr ist gut, in dessen Dienst wir stehn,
+wir dürfen ihn in Demut Vater nennen;
+wenn wir nur treu auf seinen Wegen gehn,
+so sehn wir ihn von zarter Liebe brennen.
+Dies Wort gibt uns im Kampfe Kraft und Mut:
+Der Herr ist gut.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Der Herr ist gut und teilt sich willig mit;
+sein Wesen ist ein Brunnen guter Gaben.
+Er geht uns nach und fragt bei jedem Schritt,
+ob wir nicht was von ihm zu bitten haben.
+Wo ist ein Herr, der so mit Knechten tut?
+Der Herr ist gut.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Der Herr ist gut und sieht in Gnaden an
+den armen Dienst der Knechte, die ihn lieben.
+Er gibt mehr Lohn, als man erwarten kann;
+kein kühler Trunk ist unvergolten blieben:
+er gibt dafür die ganze Segensflut.
+Der Herr ist gut.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Der Herr ist gut und bleibt es bis zum Tod.
+Wir sollen ihm in seinen Armen sterben;
+er will uns führen aus der letzten Not
+und alles, was er hat, uns lassen erben
+und Ruhe geben, wie er selber ruht.
+Der Herr ist gut.</lines>
+    </verse>
+  </lyrics>
+</song>

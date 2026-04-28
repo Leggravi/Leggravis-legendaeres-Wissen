@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mistakes</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I make'em, I try to hide'em
+Sometimes it feels like I'm defined by them
+All of the evidence stacked against me
+All of the fingers that are pointed at me
+I can't deny it</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All of my mistakes
+Woven through my story
+All the mess I make
+God, use it for Your glory
+Every wrong turn, it's true
+Led me right here to You
+I may lose my way, nothing's greater than Your grace
+/: Not even my mistakes
+(Na na na)
+(Na na na na) :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I hunger to be holy
+But I still wrestle with the old me
+You know who I am, who I'm becoming
+Through all the dirt and the stains, you love me
+I can't deny it</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Every hard fall, back in yesterday
+Every stumble that I've yet to make
+The cross redeems, and washes them away
+Whoa
+And washes them away, oh</lines>
+    </verse>
+    <verse name="v5">
+      <lines>All of my mistakes
+Woven through my story
+(My story, oh)
+All the mess I make
+God, use it for Your glory
+(All for You, Lord)
+Every wrong turn, it's true
+Led me right here to You
+(You)
+I may lose my way, nothing's greater than Your grace
+(Oh)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>All of my mistakes
+(My mistakes)
+Woven through my story
+(My story, Lord)
+All the mess I make
+God, use it for Your glory
+(Oh God, use it, Lord)
+Every wrong turn, it's true
+Led me right here to You
+(You)
+I may lose my way, nothing's greater than Your grace</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Not even my mistakes
+(No)
+Not even my mistakes
+Not even my mistakes
+(My mistakes)
+Not even my mistakes
+No, not even my mistakes</lines>
+    </verse>
+  </lyrics>
+</song>

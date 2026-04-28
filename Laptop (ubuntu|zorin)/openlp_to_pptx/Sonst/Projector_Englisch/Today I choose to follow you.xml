@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Today I choose to follow you</title>
+    </titles>
+    <authors>
+      <author type="words">Brian Doerksen</author>
+      <author type="music">Brian Doerksen</author>
+      <author type="translation">Die Wahl steht fest</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Today I choose to follow you
+Today I choose to give my 'yes' to you
+Today I choose to hear your voice and live
+Today I choose to follow you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As for me and my house
+We will serve you
+As for me and my house
+We will spend our lives on you
+Today</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Today I choose to follow you
+Today I choose to give my 'yes' to you
+Today I choose to hear your voice and live
+Today I choose to follow you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>As for me and my house
+We will serve you
+As for me and my house
+We will spend our lives on you
+We will spend our lives on you</lines>
+    </verse>
+  </lyrics>
+</song>

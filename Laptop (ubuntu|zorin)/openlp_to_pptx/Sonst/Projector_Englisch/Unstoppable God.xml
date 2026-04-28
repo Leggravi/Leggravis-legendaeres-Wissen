@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Unstoppable God</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Brown</author>
+      <author type="music">Chris Brown</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heaven thundered
+And the world was born
+Life begins and ends in the dust You formed
+Faith commanded
+And the mountains moved
+Fear is losing ground, to our hope in You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unstoppable God
+Let Your glory go on and on
+Impossible things
+In Your name, they shall be done</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Freedom conquered
+All our chains undone
+Sin defeated,
+Jesus has overcome</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mercy triumphed
+When the third day dawned
+Darkness was denied,
+when the stone was gone</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nothing shall be impossible
+Your kingdom reigns unstoppable
+We'll shout Your praise forevermore
+Jesus our God unstoppable</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Unstoppable God
+Let Your glory go on and on
+Impossible things
+In Your name, they shall be done (let's go)
+Unstoppable God
+Let Your glory go on and on
+Impossible things
+In Your name, they shall be done
+Ohh</lines>
+    </verse>
+  </lyrics>
+</song>

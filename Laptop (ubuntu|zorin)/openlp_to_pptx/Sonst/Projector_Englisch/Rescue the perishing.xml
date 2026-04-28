@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Rescue the perishing</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Rescue the perishing, care for the dying,
+snatch them in pity from sin and the grave;
+weep o'er the erring one, lift up the fallen,
+tell them of Jesus, the mighty to save.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrain:
+Rescue the perishing,
+care for the dying;
+Jesus is merciful,
+Jesus will save.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Though they are slighting Him, still He is waiting,
+waiting the penitent child to receive;
+plead with them earnestly, plead with them gently.
+He will forgive if they only believe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Down in the human heart, crushed by the tempter,
+feelings lie buried that grace can restore;
+touched by a loving heart, wakened by kindness,
+chords that are broken will vibrate once more.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4. Rescue the perishing, duty demands it.
+Strength for thy labor the Lord will provide;
+back to the narrow way patiently win them,
+tell the poor wanderer a Savior has died.</lines>
+    </verse>
+  </lyrics>
+</song>

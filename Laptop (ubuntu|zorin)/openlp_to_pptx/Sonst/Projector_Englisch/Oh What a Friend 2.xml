@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh, What a Friend (2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, what a Friend
+Who walks beside me
+To hold my hand
+And safely guide me.
+Safe in His arms,
+He'll always hide me.
+Oh, what a Friend, He is to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He knows the way,
+My road is wending.
+He can see around
+My pathway's bending.
+He'll take me through
+When day is ending.
+Oh, what a Friend, He is to me.</lines>
+    </verse>
+  </lyrics>
+</song>

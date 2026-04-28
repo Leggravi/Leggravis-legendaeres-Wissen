@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Adonai</title>
+    </titles>
+    <authors>
+      <author type="words">Peter van Woerden</author>
+      <author type="music">Peter van Woerden</author>
+      <author type="translation">Der Herr ist mein Hirt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I lift my voice
+I lift my praise to You
+I lift my hands
+I lift my worship to You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I love You more than I can say
+Oh I love You more than I can say</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ever I will sing only You will I adore
+Glorify my Lord only You will I serve
+For the world will fade away
+Still my song to You remains
+Only You will I Adore</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh I love You always
+Jesus.
+Oh I love You always
+Jesus.
+Oh I love You always
+Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

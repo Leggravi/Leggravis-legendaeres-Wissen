@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Yours</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It all revolves
+Around Your throne
+Who can know Your glory?
+So high above
+Yet slain for us
+You alone are worthy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And the praise is Yours
+And the praise is Yours
+You're the One we bow before
+Reigning over us
+As we lift You up
+You will reign forevermore!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The One who was
+And is to come
+God of every moment
+Forever crowned
+Exalted now
+You alone are holy!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Glory and praise
+Power and strength
+Worthy is the Lamb of God
+Hallelujah</lines>
+    </verse>
+    <verse name="v5">
+      <lines>It all revolves
+Around Your throne
+Who can know Your glory?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oceans Will Part</title>
+    </titles>
+    <authors>
+      <author type="words">Ben Fielding</author>
+      <author type="music">Ben Fielding</author>
+      <author type="translation">Du teilst das Meer</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If my heart has grown cold, there Your love will unfold
+As You open my eyes to the work of Your hand
+When I'm blind to my way, there Your Spirit will pray
+/: As You open my eyes to the work of Your hand :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oceans will part, nations come
+At the whisper of Your call
+Hope will rise, glory shown
+In my life Your will be done</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Present suffering may pass, Lord, Your mercy will last
+As You open my eyes to the work of Your hands
+And my heart will find praise, I'll delight in Your way
+/: As You open my eyes to the work of Your hand :/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oceans will part, nations come
+At the whisper of Your call
+Hope will rise, glory shown
+In my life Your will be done</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oceans will part, nations come
+At the whisper of Your call
+Hope will rise, glory shown
+In my life Your will be done, Your will be done
+Will be done, Your will be done</lines>
+    </verse>
+    <verse name="v6">
+      <lines>As You open my eyes
+To the work of Your hand
+Jesus open my eyes
+To the work of Your hand</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Oceans will part, nations come
+At the whisper of Your call
+Hope will rise, glory shown
+In my life Your will be done</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Oceans will part, nations come
+At the whisper of Your call
+Hope will rise, glory shown
+/: In my life Your will be done :/ 3x</lines>
+    </verse>
+  </lyrics>
+</song>

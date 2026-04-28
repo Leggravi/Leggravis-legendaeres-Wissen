@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Danke, Gott, du gabst mir Augen</title>
+    </titles>
+    <authors>
+      <author type="words">Annegret Sarembe</author>
+      <author type="music">Annegret Sarembe</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Danke, Gott, du gabst mir Augen. Danke, dass ich sehen kann.
+Ich will lernen, das zu sehen, woran ich mich freuen kann.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Danke, Gott, du gabst mir Ohren. Danke, dass ich hören kann.
+Ich will lernen, das zu hören, woran ich mich freuen kann.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Danke, Gott, du gabst mir Hände. Danke, dass ich helfen kann.
+Ich will lernen, so zu handeln, dass du dich dran freuen kannst.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Danke, Gott, du gabst mir Lippen. Danke, dass ich reden kann.
+Ich will lernen, das zu sagen, woran ich mich freuen kann.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Danke, Gott, du gabst mir Füße. Danke, dass ich laufen kann.
+Ich will lernen, hinzugehen, wo du mich gebrauchen kannst.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Danke, Gott, du gabst mir Leben. Danke, dass ich atmen kann.
+Ich will lernen, das zu leben, dass du mich gebrauchen kannst.</lines>
+    </verse>
+  </lyrics>
+</song>

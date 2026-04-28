@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>das was mich atmen lässt</title>
+    </titles>
+    <authors>
+      <author type="words">Arne Kopfermann</author>
+      <author type="music">Marie Barnett</author>
+      <author type="translation">This is the air I breathe</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>|:Das , was mich atmen läßt : |
+ist deine Nähe, die in mir lebt
+|: das ist mein täglich Brot: |
+dass ich verstehe, was du mir sagst.
+Nach dir verzehre ich mich;
+Denn ich bin nichts ohne dich!
+
+(Ende) ||::Bin nichts ohne dich, : ||
+Das, was mich atmen läßt, ist deine Nähe, Herr!</lines>
+    </verse>
+  </lyrics>
+</song>

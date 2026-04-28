@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O komm herab</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1 v9 v1 v10 v1 v11</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O komm herab, o Heil’ger Geist,
+der die finstre Nacht zerreißt,
+strahle Licht in diese Welt,
+komm, der jedes Herz erhellt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Komm, der alle Armen liebt,
+komm, der gute Gaben gibt,
+komm, der jedes Herz erhellt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Höchster Tröster in der Zeit,
+Gast, der Herz und Sinn erfreut,
+köstlich Labsal in der Not,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In der Unrast schenkst du Ruh,
+hauchst in Hitze Kühlung zu,
+spendest Trost in Leid und Tod.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Komm, o du glückselig Licht,
+fülle Herz und Angesicht,
+dring bis auf der Seele Grund.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ohne dein lebendig Wehn
+kann im Menschen nichts bestehn,
+kann nichts heil sein noch gesund.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Was befleckt ist, wasche rein,
+Dürrem gieße Leben ein,
+heile du, wo Krankheit quält.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Wärme du, was kalt und hart,
+löse, was in sich erstarrt,
+lenke, was den Weg verfehlt.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Gib dem Volk, das dir vertraut,
+das auf deine Hilfe baut,
+deine Gaben zum Geleit.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Lass es in der Zeit bestehn,
+deines Heils Vollendung sehn
+und der Freuden Ewigkeit.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Amen. Halleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

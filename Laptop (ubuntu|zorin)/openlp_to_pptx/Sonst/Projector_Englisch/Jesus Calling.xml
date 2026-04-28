@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Calling</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v2 v3 v4 v6 v3 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What do you see when you look at your world today?
+Is it so full of clutter that you feel like you're going insane?
+And you can't fight back'cause you're just too afraid
+And it seems like the clouds in your sky don't wanna change</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You see there's always another story, another side to every coin
+And how you see your circumstance is all about a choice</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When you see the rushing wind, feel the pouring rain
+Hear the thunder now as the clouds roll in
+You're blinded by the lightning
+Do you also hear that still, small voice saying?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>&quot;It's okay, you're not alone
+You may be scared to death but I won't let you go&quot;
+You may think the sky above is falling
+But can you hear Jesus calling?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>What do you see when you look at your world today?
+Do you see a glimmer of hope or has it all turned to gray?
+Well, start by counting your blessings one by one
+And I'm sure right there, you'll start to see the sun</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh, calling out to you
+Because the darker the night, the brighter He can shine</lines>
+    </verse>
+    <verse name="v7">
+      <lines>&quot;It's okay, you're not alone
+You may be scared to death but I won't let you go&quot;
+You may think the sky above is falling
+Well, you may think the sky above is falling
+But can you hear Jesus calling?</lines>
+    </verse>
+    <verse name="v8">
+      <lines>He’s calling, He’s calling
+Calling out to you</lines>
+    </verse>
+  </lyrics>
+</song>

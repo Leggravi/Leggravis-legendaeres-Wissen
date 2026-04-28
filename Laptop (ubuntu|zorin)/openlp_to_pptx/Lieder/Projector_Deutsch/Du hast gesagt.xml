@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du hast gesagt</title>
+    </titles>
+    <authors>
+      <author type="words">Sefora Nelson</author>
+      <author type="music">Sefora Nelson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du hast gesagt, du bist nicht gut genug, und ich
+Ich hab's geglaubt, und immer schlechter wurde ich
+Wie kann es sein, ein Wort verändert meine Welt
+Es darf nicht sein, dass es am Ende Recht behält</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du hast gesagt, du bist nicht schön genug, und ich
+Ich hab's geglaubt, und ganz genau so sah ich mich
+Wie kann es sein, ein Wort verändert meinen Blick.
+Ich war nicht mehr schön und für die ganze Welt zu sehn</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Doch was ich glaubte, das glaub ich nicht mehr
+Manchmal, da fällt mir die Wahrheit noch schwer
+Wahrheit schenkt Freiheit und frei will ich sein
+Das, was ich glaube, bestimm ich allein
+Dadadadada</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du hast gesagt, aus dir wird nie etwas, und ich
+Ich hab's geglaubt und mich seitdem nichts mehr getraut
+Wie kann es sein, man wird von außen programmiert
+Und es kollidiert, bevor man innen resigniert</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Doch was ich glaubte, das glaub ich nicht mehr
+Manchmal, da fällt mir die Wahrheit noch schwer
+Wahrheit schenkt Freiheit und frei will ich sein
+Das, was ich glaube, bestimm ich allein
+Ohohoh</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Es tut mir leid, ich kann dir nicht mehr glauben
+Schon viel zu lang, ließ ich die Kraft mir rauben
+Gott hat gesagt, ich bin unendlich wertvoll
+Und ich bin schön, besser noch als gut genug</lines>
+    </verse>
+  </lyrics>
+</song>

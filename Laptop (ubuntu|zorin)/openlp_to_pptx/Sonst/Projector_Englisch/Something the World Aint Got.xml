@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Something the World Aint Got</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You're my shelter
+From my enemies
+My defender
+Lord, You fight for me
+So I know, yes I know, yes I know, yeah
+You're everything I need</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're my promise
+When I cannot see
+My protection
+You're watching over me
+So I know, yes I know, yes I know
+You're everything need</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Our love keeps growing
+I'm blessed in knowing</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I’ve got something that the world ain’t got
+I’ve got something that the world can never stop
+I got You
+I got You
+I got You, Jesus</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You’re my portion
+Making me complete
+My redemption
+Your blood has ransomed me
+So I know, yes I know, yes I know
+You’re everything I need</lines>
+    </verse>
+    <verse name="v6">
+      <lines>What if I could lead you to a love you never felt before?
+What if I could show you that He's right here waiting?
+What if I could guarantee He's everything you need?
+Would you believe me, believe me, yeah?</lines>
+    </verse>
+  </lyrics>
+</song>

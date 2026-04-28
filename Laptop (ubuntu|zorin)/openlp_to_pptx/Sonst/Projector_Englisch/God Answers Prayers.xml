@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God Answers Prayers</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Have you ever talked to God above
+Tell Him that you need a friend to love
+Pray in Jesus name believing that
+God answer prayers.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Have you told Him all your cares &amp; woes
+Every single little fear He knows
+Do you know He's always there
+And He will answer prayers.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You can whisper in the crowd to Him
+You can cry when you're alone to Him
+You don't have to pray out loud to Him
+He knows your thoughts.
+On a lofty mountain peak He's there
+In the meadow by the stream He's there
+Anywhere on earth you go
+He's been there from the start</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Find the answer in His Word is true
+You'll be strong because He walks with you
+By His faithfulness He'll see you through
+God answer prayers.</lines>
+    </verse>
+  </lyrics>
+</song>

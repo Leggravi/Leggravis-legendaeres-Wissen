@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 10, 2019, 10:27:13 PM">
+  <properties>
+    <titles>
+      <title>Silent Nights</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Silent night, holy night…</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Oh, little town of Bethlehem,
+How still we see thee lie,
+Yet in the midst of such serenity
+I hear a tiny Baby cry;
+He didn't choose to come
+Where the cantata sang
+With prophecies about His birth,
+But in the shadows
+Of those stained-glass walls,
+Our Savior came to earth.</lines>
+    </verse>
+    <verse name="C3">
+      <lines>'Cause great things often come
+from silent nights,
+He chose a quiet, simple stable
+Instead of glitter, noise and lights,
+Oh, Lord, help us just to pull away
+from all the busyness of life;
+'Cause great things often come
+from silent nights.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Still waters run deep,
+So I've heard it told;
+But in this world of noise and hurry
+I see a shallowness unfold,
+We need to make the time to spend
+some quiet time alone with Christ,
+'Cause that's the only way
+His Word can bring forth,
+Great things from our lives.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Oh silent nights, oh holy nights,
+Wandering star, now led by Light;
+They that wait upon the Lord
+shall renew their strength,
+So be still my soul and know
+that He is God.</lines>
+    </verse>
+  </lyrics>
+</song>

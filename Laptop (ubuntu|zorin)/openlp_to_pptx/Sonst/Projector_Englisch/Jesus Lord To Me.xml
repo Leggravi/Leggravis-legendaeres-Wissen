@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Lord To Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus Jesus Lord to me
+Master Savior Prince of Peace
+Ruler of my heart today
+Jesus Lord to me (to me)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If I had seen the sunset
+On the day that Jesus died
+And felt the glow of the sunrise
+When the tomb was opened wide
+Would I have known You
+Would I have seen that
+You were more than just a man
+You were Lord and King
+But now I know You and I can see
+That You are Lord of all
+You are Lord to me</lines>
+    </verse>
+  </lyrics>
+</song>

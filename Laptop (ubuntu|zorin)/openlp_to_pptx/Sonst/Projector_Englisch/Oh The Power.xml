@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh The Power</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v4 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was an heir without a kingdom
+I was an orphan with no home
+These lungs were full of promise
+But emptiness I chose</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh the power, unending power of Jesus blood
+That washes white as snow
+Oh the power, amazing power of redeeming love
+This grace unshakable</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I’m trading slavery for sonship
+I’m trading shackles for the keys
+My inheritance the kingdom
+Where my father is the King</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You’re the way to life and freedom
+(oh the power)
+You’re the truth that can’t be shaken
+(oh the power)
+(You are the) rock of my salvation
+(oh the power)
+Oh the power of Jesus blood</lines>
+    </verse>
+  </lyrics>
+</song>

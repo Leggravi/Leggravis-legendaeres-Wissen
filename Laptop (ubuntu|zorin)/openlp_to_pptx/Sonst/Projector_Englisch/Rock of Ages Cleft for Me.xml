@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Rock of Ages, Cleft for Me</title>
+    </titles>
+    <authors>
+      <author type="words">Augustus Montague Toplady</author>
+      <author type="music">Thomas Hastings</author>
+      <author type="translation">Fels des Heils, geöffnet mir</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rock of Ages, cleft for me,
+Let me hide myself in Thee;
+Let the water and the blood,
+From Thy riven side which flowed,
+Be of sin the double cure,
+Save me from its guilt and power.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Not the labours of my hands
+Can fulfill Thy law’s demands;
+Could my zeal no respite know,
+Could my tears forever flow,
+All for sin could not atione,
+Thou must save, and Thou alone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nothing in my hand I bring,
+Simply to Thy cross I cling;
+Naked, come to Thee for dress,
+Helpless, look to Thee for grace:
+Foul, I to the fountain fly,
+Wash me, Savior, or I die.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>While I draw this fleeting breath,
+When my eyes shall close in death,
+When I soar to worlds unknown,
+See Thee on Thy judgment throne,
+Rock of Ages, cleft for me,
+Let me hide myself in Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

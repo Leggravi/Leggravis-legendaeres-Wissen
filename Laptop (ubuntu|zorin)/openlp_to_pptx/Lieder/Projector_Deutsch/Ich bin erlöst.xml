@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich bin erlöst</title>
+    </titles>
+    <authors>
+      <author type="words">Alice Schardt</author>
+      <author type="music">Alice Schardt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich bin erlöst durch des Lammes Blut.
+Ich bin erlöst durch des Lammes Blut.
+Ich bin erlöst durch des Lammes Blut,
+Jesus, mein Herr, starb mir zugut,
+Denn er wusch meine Sünden weg.
+Ich bin erlöst.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er ist mein Freund und mir ganz nah.
+Er ist mein Freund und mir ganz nah.
+Er ist mein Freund und mir ganz nah,
+Nichts trennt uns mehr, Halleluja:
+Denn er wusch meine Sünden weg.
+Ich bin erlöst.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und er kommt bald zurück zur Welt.
+Und er kommt bald zurück zur Welt.
+Und er kommt bald zurück zur Welt,
+Dass jeder seinen Lohn erhält.
+Denn er wusch meine Sünden weg.
+Ich bin erlöst.</lines>
+    </verse>
+  </lyrics>
+</song>

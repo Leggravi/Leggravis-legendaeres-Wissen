@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I worship you</title>
+    </titles>
+    <authors>
+      <author type="words">Tommy Walker</author>
+      <author type="music">Tommy Walker</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I worship You Almighty God
+There is none like You
+I worship You
+I worship You O Prince of Peace
+That is what I want to do
+I give You praise
+For You are my righteousness
+You are my righteousness</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I worship You Almighty God
+There is none like You
+There is none like You
+There is none like You</lines>
+    </verse>
+  </lyrics>
+</song>

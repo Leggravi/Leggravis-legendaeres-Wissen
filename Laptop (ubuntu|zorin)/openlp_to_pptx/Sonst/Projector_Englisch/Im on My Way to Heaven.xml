@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm on My Way to Heaven</title>
+    </titles>
+    <authors>
+      <author type="words">Spiritual</author>
+      <author type="music">Spiritual</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm on my way to heaven
+And the journey gets sweeter everyday,
+I'm walking with Jesus,
+Talking with Jesus All along the way.
+Oh my Soul gets so happy,
+I laugh and I sing Night and Day,
+Well I'm on my way to Heaven,
+And the journey gets sweeter everyday.</lines>
+    </verse>
+  </lyrics>
+</song>

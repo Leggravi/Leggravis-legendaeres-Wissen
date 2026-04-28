@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hoffend und vertrauend</title>
+    </titles>
+    <authors>
+      <author type="words">Lothar Gassmann</author>
+      <author type="music">Lothar Gassmann</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hoffend und vertrauend rufen wir zu Dir.
+Du kennst uns're Nöte. Jesus, Du bist hier.
+Alles, was uns Angst macht, was uns niederdrückt,
+dürfen wir Dir sagen: Du hast es besiegt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie sind wir verlassen. Jesus, Du bist hier.
+Deine Hand beschützt uns. Wir vertrauen Dir.
+Auch am Tag der Tage, auch wenn alles fällt,
+bleibst Du doch der HERR der Welt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Angst, weil wir so schwach sind, Angst vor unser'm Feind,
+Angst vor schweren Sorgen, Angst, dass einer weint,
+Angst, dass bald ein Krieg kommt, Angst vor Leid und Tod
+werfen wir auf Dich, HERR. Du allein bist Gott.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du hast selbst durchlitten, was uns jetzt bedroht:
+Schwachheit, Angst und Schläge, Untergang und Tod.
+Doch weil Du vorangingst, wich die Angst dem Licht:
+Du bist auferstanden - und wir sterben nicht.</lines>
+    </verse>
+  </lyrics>
+</song>

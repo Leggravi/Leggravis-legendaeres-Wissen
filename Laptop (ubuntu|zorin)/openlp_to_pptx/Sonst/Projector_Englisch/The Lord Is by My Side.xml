@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Lord Is by My Side</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know my Shepherd gives me peace
+The Lord is by my side
+For every day, He walks with me
+The Lord is by my side</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Lord is by my side
+Forever by my side
+His Hope, His strength,
+His peace is mine
+The Lord is by my side</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know my Shepherd gives me strength
+The Lord is by my side
+For I am small, and
+He is great
+The Lord is by my side</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I know my Shepherd gives me hope
+The Lord is by my side
+For He will lead me
+safely home
+The Lord is by my side</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And when I look back,
+I will surely see
+Your goodness and love have followed me
+For when I look,
+I will surely see
+My Shepherd has laid down His life for me</lines>
+    </verse>
+  </lyrics>
+</song>

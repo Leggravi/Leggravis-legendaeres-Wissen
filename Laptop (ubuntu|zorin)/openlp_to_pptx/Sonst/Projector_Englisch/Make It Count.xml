@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Make It Count</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There are days
+this life can get so common,
+Such valley, a monotony;
+Help me, Lord,
+to renew the quest I'm walkin',
+Being all I can be,
+every minute for Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Make it count, make it matter,
+Live your life to the most,
+A cloud of witness is watching
+With the Heavenly Host,
+One life to serve Him,
+to give an account;
+Savor the moment,
+make it count.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Listen closely
+to the saints of old,
+They're rejoicing for us all;
+For they know
+what's awaiting us in Beulah,
+So I'll keep giving my voice,
+For the sake of the cause.</lines>
+    </verse>
+  </lyrics>
+</song>

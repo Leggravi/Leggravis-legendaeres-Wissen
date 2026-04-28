@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Walk With Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I hear people talking about everything,
+Words about war and peace, worldly things,
+But when all is said and done, I know my way
+With a hunger in my heart, to hear God say.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Walk with me through the forest
+And I’ll talk with you, Since the day Adam fell
+I’ve longed to talk with you
+To have fellowship again, It pleases me
+For redemption plan is over
+Now you can walk with me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>With the Holy Ghost to guide me to that place
+Where I’ll stand not on works By His Grace
+When all earthly things have faded from my view
+I know I will hear Him say
+I’ll walk with you’’</lines>
+    </verse>
+  </lyrics>
+</song>

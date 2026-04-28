@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Erzählt von der Größe Gottes</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Franke</author>
+      <author type="music">Mary Kirkbride</author>
+      <author type="translation">Ascribe greatness to our God</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Erzählt von der Größe Gottes, unsres Herrn
+Er ist vollkommen in allem, was er tut</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ein Gott, der Treue hält.
+Er ist ganz ohne Falsch
+Gerecht und heilig ist er.</lines>
+    </verse>
+  </lyrics>
+</song>

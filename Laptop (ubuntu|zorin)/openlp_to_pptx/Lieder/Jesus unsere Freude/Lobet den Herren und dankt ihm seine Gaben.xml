@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:58">
+  <properties>
+    <titles>
+      <title>Lobet den Herren und dankt ihm seine Gaben</title>
+    </titles>
+    <authors>
+      <author type="words">Bartholomäus Ringwaldt (1586)</author>
+      <author type="music">Johann Crüger</author>
+    </authors>
+    <ccliNo>5209626</ccliNo>
+    <themes>
+      <theme>Lob</theme>
+      <theme>Lobpreis</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lobet den Herrn und dankt ihm seine Gaben,
+die wir aus Gnad von ihm empfangen haben
+jetzt an dem Tisch und sonst an allen Enden,
+wo wir uns wenden.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er tut auch wohl durch seine Engelscharen
+uns Tag und Nacht vor Leibes Gfahr bewahren,
+damit der Feind an uns sein’ bösen Willen
+nicht mög erfüllen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Derhalben seid in Gott getrost, ihr Frommen,
+denn ihr sollt Schutz und Brot genug bekommen
+und überdies nach diesem armen Leben
+bei Christus schweben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Das danket ihm, ihr Leut, von Herzensgrunde
+und bittet ihn desgleich zu aller Stunde,
+dass er uns nur als seinen lieben Erben
+helf selig sterben.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So sind wir recht an Leib und Seel genesen
+und reich genug in dieser Welt gewesen
+und haben auch den besten Schatz gefunden
+und überwunden.</lines>
+    </verse>
+  </lyrics>
+</song>

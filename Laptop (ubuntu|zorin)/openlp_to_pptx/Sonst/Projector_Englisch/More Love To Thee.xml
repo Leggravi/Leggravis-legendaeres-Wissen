@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>More Love To Thee</title>
+    </titles>
+    <authors>
+      <author type="words">Edith Gilling Cherry</author>
+      <author type="music">Jean Sibelius</author>
+      <author type="translation">Wir traun auf dich, du Schirmer und Beschützer</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>More love to Thee, oh Christ, more love to Thee!
+Hear Thou the prayer I make on bended knee.
+This is my earnest plea
+More love, oh Christ, to Thee
+More love to Thee, more love to Thee!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Once earthly joy I craved, sought peace and rest
+Now Thee alone I seek, give what is best.
+This all my prayer shall be
+More love, oh Christ to Thee
+More love to Thee, more love to Thee!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Then shall my latest breath whisper Thy praise
+This be the parting cry my heart shall raise
+Still all my prayer shall be
+More love, oh Christ to Thee
+More love to Thee, more love to Thee!
+More love to Thee, more love to Thee!</lines>
+    </verse>
+  </lyrics>
+</song>

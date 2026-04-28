@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Love You Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I want to know you Lord,
+You are a great be God,
+I'm young a do not know a lot,
+Come and be my all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I want to Love you more
+Giving you my life and all
+You died for me, you sacrifice
+I won't forget it all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I love you Jesus, I grow up serving you
+I love you Jesus, I grow up knowing you
+I love you Jesus, my life is save by you
+I'll never forget, never forget
+I'll grow up loving you</lines>
+    </verse>
+  </lyrics>
+</song>

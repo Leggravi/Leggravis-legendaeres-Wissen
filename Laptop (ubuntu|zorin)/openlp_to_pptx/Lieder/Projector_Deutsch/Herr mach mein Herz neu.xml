@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr mach mein Herz neu</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr mach mein Herz neu
+Herr mach mein Herz neu
+Herr mach mein Herz neu für Dich
+Herr mach mein Herz neu
+Herr mach mein Herz neu
+Herr mach mein Herz neu für Dich
+Dass ich Dich hören kann und Dich verstehen kann.
+Herr mach mein Herz neu für Dich ://</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr mach mein Herz frei
+Herr mach mein Herz frei
+Herr mach mein Herz frei für Dich
+Herr mach mein Herz frei
+Herr mach mein Herz frei
+Herr mach mein Herz frei für Dich
+Dass ich Dich ehren kann, und Dich recht preisen kann.
+Herr mach mein Herz frei für Dich. ://</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr mach mein Herz rein
+Herr mach mein Herz rein
+Herr mach mein Herz rein für Dich
+Herr mach mein Herz rein
+Herr mach mein Herz rein
+Herr mach mein Herz rein für Dich
+Dass ich Dir glauben kann und ich ganz echt sein kann.
+Herr mach mein Herz rein für Dich. ://</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herr mach mein Herz neu!
+Herr mach mein Herz frei!
+Her mach mein Herz rein für Dich!</lines>
+    </verse>
+  </lyrics>
+</song>

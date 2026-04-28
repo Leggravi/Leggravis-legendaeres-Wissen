@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We`ll Talk It Over</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tho' shadows deepen, and my heart bleeds,
+I will not question the way He leads;
+This side of Heaven we know in part,
+I will not question a broken heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We'll talk it over in the bye and bye.
+We'll talk it over, my Lord and I.
+I'll ask the reasons - He'll tell me why,
+When we talk it over in the bye and bye.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'll trust His leading, He'll never fail,
+Thru darkest tunnels or misty vales.
+Obey his bidding and faithful be,
+Tho' only one step ahead I see.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'll hide my heartache behind a smile
+And wait for reasons'til after while.
+And tho' He try me, I know I'll find
+That all my burdens are silver lined.</lines>
+    </verse>
+  </lyrics>
+</song>

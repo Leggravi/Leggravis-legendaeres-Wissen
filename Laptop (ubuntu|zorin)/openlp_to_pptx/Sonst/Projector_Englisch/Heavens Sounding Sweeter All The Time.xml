@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heaven's Sounding Sweeter All The Time</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Life has been so good,
+I can't complain
+When I’m down,
+God gives me strength to rise again
+I get weary from the struggle of it all,
+That's when I listen,
+how I listen for His call</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Heaven's sounding sweeter
+all the time
+Seems like lately,
+it's always on my mind
+Someday I’ll leave
+this world behind,
+Heaven's sounding
+sweeter all the time</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, it's hard to lose
+a loved one to the grave
+but we have the blessed hope
+ that Jesus gave
+God's gonna wipe all the tears
+from our eyes
+When we meet Him in that land
+beyond the skies</lines>
+    </verse>
+  </lyrics>
+</song>

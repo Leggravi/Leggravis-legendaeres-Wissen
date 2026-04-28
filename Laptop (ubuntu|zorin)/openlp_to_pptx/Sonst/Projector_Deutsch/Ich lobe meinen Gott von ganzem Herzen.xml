@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich lobe meinen Gott von ganzem Herzen</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Claude Fraysse</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich lobe meinen Gott von ganzem Herzen.
+Erzählen will ich von all seinen Wundern und singen seinen Namen.
+Ich lobe meinen Gott von ganzem Herzen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich freue mich und bin fröhlich, Herr, in dir. Halleluja!
+Ich freue ich und bin fröhlich, Herr, in dir. Halleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich danke meinem Gott von ganzem Herzen.
+Von all seinen Wundern will ich laut erzählen und loben seinen Namen.
+Ich danke meinem Gott von ganzem Herzen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich freue mich und bin fröhlich, Herr, in dir. Halleluja!
+Ich freue mich und bin fröhlich, Herr, in dir. Halleluja!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kommt, stimmet ein in Lob von ganzem Herzen!
+Verkündiget unter den Völkern sein Tun und lobsinget seinem Namen.
+Kommt, stimmet ein ins Lob von ganzem Herzen!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Denn unser Herr ist ein ewiger Gott. Halleluja!
+Denn unser Herr ist ein ewiger Gott. Halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

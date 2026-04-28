@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wonderful One</title>
+    </titles>
+    <authors>
+      <author type="words">Ashton Gardner</author>
+      <author type="music">Ashton Gardner</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are the great creator
+You are the wonderful one
+From dust of the earth
+You have made us
+Made us your daughters and sons</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are the hope eternal
+We see the works you have done
+We lift our hands up to worship
+Worship the wonderful one</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wonderful one
+Holy and mighty
+Wonderful one
+We give you praise
+Boldly we come
+Into your presence
+Drawn by your wonderful love
+You are the wonderful one</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are the wonderful one
+You are the wonderful
+You are the wonderful
+You are the wonderful one
+Wonderful one
+Wonderful one
+Wonderful one</lines>
+    </verse>
+  </lyrics>
+</song>

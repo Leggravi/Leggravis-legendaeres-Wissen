@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Lion Of Judah</title>
+    </titles>
+    <authors>
+      <author type="words">Robin Mark</author>
+      <author type="music">Robin Mark</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lion of Judah shall break every chain,
+And give to us the victory again and again;
+The Lion of Judah shall break every chain,
+And give to us the victory again and again.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir sind des Heilands Himmelsblumen</title>
+    </titles>
+    <authors>
+      <author type="words">Elisabeth von Priesdorff</author>
+      <author type="music">Elisabeth von Priesdorff</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir sind des Heilands Himmelsblumen,
+die er von ganzem Herzen liebt,
+und denen er, was sie bedürfen,
+für alle Tage freundlich gibt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er schützt vor Kälte uns und Regen
+und wenn der Böse uns erschreckt,
+so ist er da um uns zu helfen
+und seine Heilandshand uns deckt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Die Blümlein dürfen nicht verkümmern,
+er gießt sie selbst mit eigner Hand,
+gibt ihnen Kraft zum frohen Wachsen
+und auch den rechten Sonnenstand.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und kommt der Abend sind wir müde,
+dann ruhn die Blümlein gerne aus.
+Und an dem letzten Abend kommt er
+und holt uns selber still nach Haus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dann pflanzt die Hand des Himmelsgärtners
+die Blümlein ewig droben ein.
+Wir sind des Heilands Himmelsblumen
+und er ist unser Sonnenschein.</lines>
+    </verse>
+  </lyrics>
+</song>

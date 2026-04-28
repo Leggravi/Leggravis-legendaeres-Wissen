@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Across the Bridge</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I had lived a life of sin in this world were living in
+I had done forbidden things I shouldn't do
+I ask a beggar along the way,
+u can tell me where to stay
+Where I'd find real happiness and love that's true</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Across the bridge, there's no more sorrow
+Across the bridge, theres' no more pain
+The Sun will shine across the river
+And you'll never be unhappy again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>follow footsteps of the King and you'll hear the voices sing
+They'll be singing out the glory of the Lamb
+The river of Jordan will be near, the sound of trumpets you will hear
+You'll behold the sweetest voice ever known to man</lines>
+    </verse>
+  </lyrics>
+</song>

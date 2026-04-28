@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:22">
+  <properties>
+    <titles>
+      <title>Fürchte dich nicht, denn du bist mein</title>
+    </titles>
+    <authors>
+      <author type="words">Elisabeth Aebi (1949)</author>
+      <author type="music">Robert Witty</author>
+    </authors>
+    <themes>
+      <theme>Vertrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fürchte dich nicht, denn du bist mein,
+fürchte dich nicht, denn du bist mein,
+fürchte dich nicht, denn du bist mein,
+ich habe dich erlöst.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wer auf den Herrn im Glauben harrt,
+wer auf den Herrn im Glauben harrt,
+wer auf den Herrn im Glauben harrt,
+fährt auf mit neuer Kraft.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Selig aus Gnaden darfst du sein,
+selig aus Gnaden darfst du sein,
+selig aus Gnaden darfst du sein,
+die Gabe Gottes ist’s.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wer überwindet, freue sich,
+wer überwindet, freue sich,
+wer überwindet, freue sich,
+er soll mein Erbe sein.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wer mein Wort hält, lebt ewiglich,
+wer mein Wort hält, lebt ewiglich,
+wer mein Wort hält, lebt ewiglich
+und siehet nicht den Tod.</lines>
+    </verse>
+  </lyrics>
+</song>

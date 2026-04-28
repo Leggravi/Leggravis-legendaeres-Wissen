@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Be Thou my Vision</title>
+    </titles>
+    <authors>
+      <author type="words">Mary Elizabeth Byrne</author>
+      <author type="music">Irland</author>
+      <author type="translation">Herr aller Hoffnung</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Be Thou my Vision, O Lord of my heart;
+Naught be all else to me, save that Thou art;
+Thou my best Thought, by day or by night,
+Waking or sleeping, Thy presence my light.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be Thou my Wisdom, and Thou my true Word;
+I ever with Thee and Thou with me, Lord;
+Thou my great Father, and I Thy true son;
+Thou in me dwelling, and I with Thee one.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Be Thou my battle Shield, Sword for the fight;
+Be Thou my Dignity, Thou my Delight;
+Thou my soul’s Shelter, Thou my high Tow’r:
+Raise Thou me heav’nward, O Pow’r of my pow’r.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Riches I heed not, nor man’s empty praise,
+Thou mine Inheritance, now and always:
+Thou and Thou only, first in my heart,
+High King of Heaven, my Treasure Thou art.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>High King of Heaven, my victory won,
+May I reach Heaven’s joys, O bright Heaven’s Sun!
+Heart of my own heart, whatever befall,
+Still be my Vision, O Ruler of all.</lines>
+    </verse>
+  </lyrics>
+</song>

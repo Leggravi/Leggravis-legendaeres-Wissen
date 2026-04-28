@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Call Your Name</title>
+    </titles>
+    <authors>
+      <author type="words">Tore W. Aas</author>
+      <author type="music">Tore W. Aas</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I Come To You Lord
+Hoping For Your Care
+Your Power And Love;
+Always Be There
+Lord, I Need You, I Need You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Help Me I Pray,
+Break Me And Mold Me
+Teach Me Your Ways</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I Call On Your Name
+Asking For Your Help
+Please Give Me The Strength
+For I Can Do Nothing
+Apart From You, Jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Please Guide Me By Your Grace
+I Want To Live For You
+I Want To Live For You
+I Want To Live</lines>
+    </verse>
+  </lyrics>
+</song>

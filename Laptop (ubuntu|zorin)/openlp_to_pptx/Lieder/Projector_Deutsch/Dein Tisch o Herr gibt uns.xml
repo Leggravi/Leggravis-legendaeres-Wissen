@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dein Tisch, o Herr, gibt uns</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Andreas Stoll</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dein Tisch, o Herr, gibt uns die Zeichen Deiner Liebe.
+Gestillt ist Gottes Zorn, versöhnt sind ewig wir.
+Nicht bange Furcht macht jetzt noch unsre Freude trübe,
+Wir sehen nichts als Liebe hier.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dies Brot und dieser Kelch – sie rühmen Deine Gnade,
+Verkünden Deinen Tod und Deine Wiederkehr,
+Sie rufen stets uns zu auf unserm Pilgerpfade:
+Getrost, die Sünden sind nicht mehr!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zerrissen ist der Vorhang und der Himmel offen,
+Das Leben und die Herrlichkeit sind unser Los.
+Der Fluch, den wir verdient, hat Dich für uns getroffen.
+O Gottes Lamm, Dein' Lieb' ist groß!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dein Werk ist jetzt vollbracht! Du hast Dein Blut getragen
+Ins innre Heiligtum, wo Du jetzt für uns bist,
+Wo Du uns immerdar vertrittst in allen Lagen,
+Bis jedes Glied verherrlicht ist.</lines>
+    </verse>
+  </lyrics>
+</song>

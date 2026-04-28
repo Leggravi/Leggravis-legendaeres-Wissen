@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Si Kristo lang ang buhay ko Magpakailanman</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Si Kristo lang ang buhay ko mag pakailanman
+Siya’y pumasok sa puso ko 
+At kaluluwa
+Ako ngayon ay masaya
+Pagkat ako’y binago niya
+Kay Kristo lang ang buhay ko mag pakailanman</lines>
+    </verse>
+  </lyrics>
+</song>

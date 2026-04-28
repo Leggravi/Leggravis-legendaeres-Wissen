@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lift Up Your Heads</title>
+    </titles>
+    <authors>
+      <author type="words">Tré Sheppard</author>
+      <author type="music">Tré Sheppard</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lift up your heads
+ O you gates,
+Swing open wide
+You ancient doors.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let the King of kings
+Take His rightful place,
+Make room, make way
+For our King of grace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lift up your hands,
+Open up your hearts;
+His vict'ry over sin
+And death is ours.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Who is this King of glory,
+Lord of power;
+His name is Jesus our risen King.
+Who is this King so mighty,
+Lord of strength;
+His name is Jesus our risen King.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>King of glory, Lord of power,
+King of glory, Lord of power,
+King of glory, Lord of power.</lines>
+    </verse>
+  </lyrics>
+</song>

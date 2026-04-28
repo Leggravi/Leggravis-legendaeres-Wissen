@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Something Good Is Going to Happen to You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Right there in the dust, he sat by the gate,
+To listen to footsteps and patiently wait.
+The blind man just didn't dream that this was the day
+That Jesus of Nazareth would pass by his way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Something good is going to happen to you
+Happen to you this very day.
+Something good is going to happen to you
+Jesus of Nazareth is passing your way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>She stood by the well, so tired and alone,
+Misfortune and heartache was all she had known,
+She looked at the stranger, but who would ever think,
+'Twas Jesus to offer her living water to drink.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>They were only wee children so happy at play
+And told to stay quiet and out of the way;
+But then came the Saviour with arms open wide,
+They're part of His kingdom, make room by His side.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My friend if you're listening now humbly to me
+Yes this is the moment that you can be free
+This very same Jesus is right here today;
+Release your faith and touch Him, then believe me when I say</lines>
+    </verse>
+  </lyrics>
+</song>

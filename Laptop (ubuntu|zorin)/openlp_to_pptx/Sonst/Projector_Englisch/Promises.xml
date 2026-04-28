@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Promises</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v5 v1 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will begin this day
+Standing on Your promises
+No matter what lies ahead
+You are with me in the fight
+And I will end this day
+Resting in Your promises
+You say &quot;Yes&quot;, I say &quot;Amen&quot;
+And I will sleep in peace tonight</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are faithful, You've always been
+Even when the tunnel is long
+And I can't see the light at the end
+You are faultless, You never fail
+Everything You say, You do
+There is no shadow in You
+So by faith, not sight, I decide</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are so good, my solid ground
+A powerful bastion in the trouble that surrounds
+You are constant, You never change
+All the seasons come and go
+But steadfast You remain
+So by faith, not sight, I decide</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Faithful, God You're faithful
+You are who You say You are
+You'll do what You say You'll do</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Faithful, God You're faithful
+You are who You say You are
+You'll do what You say You'll do
+So by faith, not sight, I decide</lines>
+    </verse>
+  </lyrics>
+</song>

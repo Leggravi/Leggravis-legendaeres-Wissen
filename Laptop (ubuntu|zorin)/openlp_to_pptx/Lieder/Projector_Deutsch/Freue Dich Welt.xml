@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Freue Dich Welt</title>
+    </titles>
+    <authors>
+      <author type="words">Kay Wächter</author>
+      <author type="music">Kay Wächter</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Freue dich, Welt, der Herr ist da.
+Nimm deinen König an!
+Und jedes Herz empfange ihn,
+mach für ihm Raum und singe ihm!
+Ja, Erd und Himmel, sing!
+Ja, Erd und Himmel, sing!
+Ja, Erd, ja, Erd und Himmel sing!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Freue dich, Welt, dein Heiland kommt.
+Stimmt, Völker, stimmet an!
+Und Feld und Wald und Strom und Strand
+und Felsen, Hügel, flaches Land,
+nehmt auf den Lobgesang,
+nehmt auf den Lobgesang,
+nehmt auf, nehmt auf den Lobgesang.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sünde und Schuld sind abgewandt,
+im Frieden ist das Land.
+Denn Gottes Heil erhellt die Welt,
+sein reicher Segen sie erfüllt,
+von allem Fluch befreit,
+von allem Fluch befreit,
+von allem, von allem Fluch befreit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Er herrscht mit Wahrheit, Recht und Gnad,
+und alle Völker sehn
+den Ruhm seiner Gerechtigkeit
+und seiner Liebe Mächtigkeit,
+die alle Welt erneut,
+die alle Welt erneut,
+die alle, die alle Welt erneut.</lines>
+    </verse>
+  </lyrics>
+</song>

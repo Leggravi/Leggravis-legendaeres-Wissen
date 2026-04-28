@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Your Mercy</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Your mercy is all my plea
+I have no defense, my guilt runs too deep
+The best of my works pierced Your hands and Your feet
+Jesus, Your mercy is all my plea</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, Your mercy is all my boast
+The goodness I claim, the grounds of my hope
+Whatever I lack, it's still what I need most
+Jesus, Your mercy is all my boast</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise the King who bore my sin
+Took my place when I stood condemned,
+Oh, how good You've always been to me,
+I will sing of Your mercy.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, Your mercy is all my rest
+When fears weight me down and enemies press,
+A comfort I cling to in life and in death,
+Jesus, Your mercy is all my rest.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus, Your mercy is all my joy
+Forever I'll lift my heart and my voice,
+To sing of a treasure, no pow'r can destroy,
+Jesus, Your mercy is all my joy.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Praise the King who bore my sin
+Took my place when I stood condemned,
+Oh, how good You've always been to me.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I will sing, Praise the King who bore my sin
+Took my place when I stood condemned
+Oh, how good You've always been to me
+I will sing of Your mercy, Oh, I will sing.</lines>
+    </verse>
+  </lyrics>
+</song>

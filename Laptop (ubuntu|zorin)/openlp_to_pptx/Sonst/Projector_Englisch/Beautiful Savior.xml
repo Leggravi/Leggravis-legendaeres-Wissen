@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Beautiful Savior</title>
+    </titles>
+    <authors>
+      <author type="words">Joseph Augustus Seiss</author>
+      <author type="music">Schönster Herr Jesu</author>
+      <author type="translation">Schönster Herr Jesu</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v1 v3 v4 v5 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, beautiful Saviour
+God of all majesty, risen King</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lamb of God, holy and righteous
+Blessed Redeemer, bright morning star</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All the heavens shout Your praise
+All creation bows to worship You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>How wonderful, how beautiful
+Name above every name, exalted high
+How wonderful, how beautiful
+Jesus, Your name
+Name above every name, Jesus</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I will sing forever
+Jesus I love You
+Jesus I love You</lines>
+    </verse>
+  </lyrics>
+</song>

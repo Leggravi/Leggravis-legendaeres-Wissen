@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All is well</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All is well all is well
+Angels and men rejoice
+For tonight darkness fell
+Into the dawn of love's light
+Sing A-le
+Sing Alleluia</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All is well all is well
+Let there be peace on earth
+Christ is come go and tell
+That He is in the manger
+Sing A-le
+Sing Alleluia</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All is well all is well
+Lift up your voice and sing
+Born is now Emmanuel
+Born is our Lord and Savior
+Sing Alleluia
+Sing Alleluia
+All is well</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Born is now Emmanuel
+Born is our Lord and Savior
+Sing Alleluia
+Sing Alleluia
+All is well</lines>
+    </verse>
+  </lyrics>
+</song>

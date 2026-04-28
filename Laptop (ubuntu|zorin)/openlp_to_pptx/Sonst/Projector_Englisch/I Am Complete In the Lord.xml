@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Am Complete In the Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am strong in the Lord
+I am strong in the Lord
+The Lord is all source of my strength
+Everyday giving me power,
+power to walk in His might
+I am complete in the Lord Amen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am what God says I am
+New creature in the Lord
+Old thing shave passed away
+Praise the Lord
+New things have put them on,
+Holy nation of the Lord
+I am complete in the Lord Amen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So I am singing hero of the Lord
+That am blessed with
+spiritual blessings
+So I am singing every day
+With spiritual blessings In
+Christ the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

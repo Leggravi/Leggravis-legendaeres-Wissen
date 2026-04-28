@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gut dass wir einander haben</title>
+    </titles>
+    <authors>
+      <author type="words">Manfred Siebald</author>
+      <author type="music">Manfred Siebald</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gut, dass wir einander haben, gut, dass wir einander sehn,
+Sorgen, Freuden, Kräfte teilen
+Und auf einem Wege gehn.
+Gut, dass wir nicht uns nur haben,
+Dass der Kreis sich niemals schließt
+Und dass Gott, von dem wir reden,
+Hier in unsrer Mitte ist.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Keiner, der nur immer redet;
+Keiner, der nur immer hört.
+Jedes Schweigen
+Jedes Hören,
+Jedes Wort hat seinen Wert.
+Keiner wider spricht nur immer,
+Keiner passt sich immer an.
+Und wir lernen
+Wie man streiten
+Und sich dennoch lieben kann.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Keiner, der nur immer jubelt;
+Keiner, der nur immer weint.
+Oft schon hat uns Gott in unsrer
+Freude, unsrem Schmerz vereint.
+Keiner trägt nur immer andre;
+Keiner ist nur immer Last.
+Jedem wurde schon geholfen;
+Jeder hat schon angefasst.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Keiner ist nur immer schwach,
+Und keiner hat für alles Kraft.
+Jeder kann mit Gottes Gaben das tun,
+Was kein anderer schafft.
+Keiner, der noch alles braucht,
+Und keiner, der schon alles hat.
+Jeder lebt von allen andern;
+Jeder macht die andern satt.</lines>
+    </verse>
+  </lyrics>
+</song>

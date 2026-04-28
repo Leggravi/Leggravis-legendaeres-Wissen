@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Erfasst von deinem Erbarmen, Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Gitta Leuschner</author>
+      <author type="music">Steve Mc Peek</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Erfaßt von deinem Erbarmen, Herr, wurde mein Leben neu!
+Geheilt durch deine Freundlichkeit kann ich mich wieder freun!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, ich liebe dich, Jesus, ich diene dir!
+Jesus, ich lebe durch deine Liebe, ich liebe dich!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich hätte Strafe und Tod verdient, durch meine Sünde und Schuld.
+Doch du hast für mich erduldet das Kreuz, dein Blut hat mich frei gemacht!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, ich liebe dich, Jesus, ich diene dir!
+Jesus, ich lebe durch deine Liebe, ich liebe dich!</lines>
+    </verse>
+  </lyrics>
+</song>

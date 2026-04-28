@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Behind the Wheel</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Behind the wheel in every journey
+On the road, He is watching
+When I'm confused, in troubled time
+He is there calling me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Behind the wheel to nowhere highway
+I am lost but not forsaken
+When I'm down, hurt and falling
+Behind the wheel is my God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He carried me from harm on the dirt road
+Once upon a time, a miracle happened
+He carried my old cross on the dirt road
+Once upon a time, the Savior came down
+Behind the wheel is my God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Behind the wheel, my doubts and fear
+In a prayer, He is listening
+He comforts me, lead me on
+Behind the wheel is my God</lines>
+    </verse>
+  </lyrics>
+</song>

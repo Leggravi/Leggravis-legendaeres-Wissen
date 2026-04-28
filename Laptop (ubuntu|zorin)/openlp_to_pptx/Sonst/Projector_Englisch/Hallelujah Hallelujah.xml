@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hallelujah, Hallelujah</title>
+    </titles>
+    <authors>
+      <author type="words">Ben Cantelon</author>
+      <author type="music">Ben Cantelon</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallelujah, hallelujah, hallelujah,
+Hallelujah, hallelujah, hallelujah,
+Hallelujah, hallelujah.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallelujah, hallelujah,
+Hallelujah, hallelujah.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Blessed Jesus, blessed Jesus,
+Blessed Jesus, blessed Jesus,
+Blessed Jesus, blessed Jesus,
+Blessed Jesus, blessed Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>How I love Him, how I love Him,
+How I love Him, how I love Him,
+How I love Him, how I love Him,
+How I love Him, how I love Him.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Thank you Jesus, Thank you Jesus,
+Thank you Jesus, Thank you Jesus,
+Thank you Jesus, Thank you Jesus,
+Thank you Jesus, Thank you Jesus.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I love You, Jesus, I love You, Jesus
+I love You, Jesus, I love You, Jesus
+I love You, Jesus, I love You, Jesus
+I love You, Jesus, I love You, Jesus</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Lord, I love You
+Lord, I love You
+Lord, I love You</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Lord, We praise Thee
+Lord, We praise Thee
+Lord, We praise Thee
+Lord, We praise Thee</lines>
+    </verse>
+  </lyrics>
+</song>

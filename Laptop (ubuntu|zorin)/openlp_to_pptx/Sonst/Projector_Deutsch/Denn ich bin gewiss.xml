@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Denn ich bin gewiss</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Danny Plett</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Denn ich bin gewiss, dass weder Tod noch Leben mich von ihm scheiden kann, ja, dass nichts und niemand mehr mich kann scheiden von dem Herrn. Ich bin gewiss, dass weder Tod noch Leben mich von ihm scheiden kann, ja, dass nichts und niemand mehr mich kann scheiden von dem Herrn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gott ist immer für uns, wer kann uns noch schaden? Er hat seinen Sohn nicht verschont. Er hat ihn uns gegeben, auf dass wir sollen leben, als freie Menschen auf der Erd.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Traurigkeit und Ängste, Hunger und Verfolgung, kann mich das den scheiden von ihm? In der Not, in Sorgen, weiß ich mich geborgen. Immer will ich hören seine Stimm.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vor Satan und seinen Mächten, Welten und Kräften braucht mir nicht mehr bange zu sein. Denn durch die große Liebe des Herren Jesus Christus, habe ich überwunden die Pein.</lines>
+    </verse>
+  </lyrics>
+</song>

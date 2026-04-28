@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 3, 2019, 6:53:02 PM">
+  <properties>
+    <titles>
+      <title>The battle is the Lord's</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>There is a source in time of needs
+That gives me hope, that brings me peace
+In every trial, through every test
+My saviour stands in my defence
+(Hallelujah)</lines>
+    </verse>
+    <verse name="C2">
+      <lines>So When The Road You Walk
+Leaves You Tired And Worn
+All Your Strength Is gone
+And Your Heart Feels Torn
+Remember God Is greater Than the Storm
+Take Courage For the battle is the Lords.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>And When The Waters Rise
+He Calls My Name And bids me come
+Out On The Wave, He Holds My Hand
+Lest I should I falter, And Makes Me Stand
+Out On The Water</lines>
+    </verse>
+  </lyrics>
+</song>

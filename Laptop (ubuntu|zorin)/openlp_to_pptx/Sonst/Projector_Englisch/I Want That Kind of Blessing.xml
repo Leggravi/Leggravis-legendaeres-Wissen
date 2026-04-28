@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Want That Kind of Blessing</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When Jacob met the Lord
+Upon that lonely night
+He wrestled there alone
+Until the morning light
+He won a princely title
+To guard him for the night
+I want that kind of blessing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I want yes I want that kind of blessing
+That saves and keeps, and satisfies the soul,
+I want yes I want, that full salvation
+till the billows, of Heaven o'er me roll.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When Israel at last
+Came to the promised land
+The Lord His blessings gave
+So full on every hand
+He fought their enemies from them
+They dwelt a happy band
+I want that kind of blessing.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This is the day of grace
+The Comforter has come
+We are The Chosen Bride
+The Lord is drawing nigh
+He's waiting to be gracious
+The prayer of faith to hear
+And then He'll send the blessing.</lines>
+    </verse>
+  </lyrics>
+</song>

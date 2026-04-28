@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Whispers to Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus is waiting near the old rugged cross
+Waiting to bring home a sinner who's lost
+His pardon and grace is sufficient for all
+Whisper to Jesus, He'll hear your call</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Whisper to Jesus, He'll hear your call
+Whisper to Jesus, He'll not let you fall
+Trust in the Saviour, He's all that you've got
+On an old rugged cross, Your sins He bought</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lift up your hands, give Him praise's each day
+All you need say is, Jesus please stay
+O Glorious Father, on your throne above
+Thank you for Jesus, and His wonderful love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Whisper to Jesus, He'll hear your call
+Whisper to Jesus, He'll not let you fall
+Trust in the Saviour, He's all that you've got
+On an old rugged cross, Your sins He bought
+On an old rugged cross, Your sins He bought</lines>
+    </verse>
+  </lyrics>
+</song>

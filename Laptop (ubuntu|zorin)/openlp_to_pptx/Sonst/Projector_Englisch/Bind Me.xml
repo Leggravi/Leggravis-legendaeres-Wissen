@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Bind Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I take my cross and follow You,
+Forsake my life in this world
+Through the cross, the world is dead to me
+And I am dead to the world</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bind me to the horns of Your altar, oh Lord,
+And I’ll be a living sacrifice
+I lay down everything that hinders
+And cry out for a brand new heart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I put my hand to the plow
+I never will look back
+Remove the stones from this well
+And let the living waters flow</lines>
+    </verse>
+  </lyrics>
+</song>

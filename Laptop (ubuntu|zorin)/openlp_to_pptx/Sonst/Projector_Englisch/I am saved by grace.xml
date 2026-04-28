@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I am saved by grace</title>
+    </titles>
+    <authors>
+      <author type="words">Israel Houghton</author>
+      <author type="music">Israel Houghton</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Where would I be without Your grace?
+I'd be lost without Your grace
+How could I live without Your grace?
+The life that I have is by Your grace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am free, I'm forgiven
+By Your work at Calvary
+You gave me a life worth living
+Now the chains are broken, chains are broken</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I am saved by grace
+Love abounding, mercy found me
+I am saved by grace, yeah
+And I have life and it's only by Your grace, oh, oh yeah</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It's only by Your grace, oh, oh
+Where would I be without Your grace?
+I'd be lost without Your grace
+How could I live without Your grace?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The life that I have is by Your grace
+I am free, I'm forgiven
+By Your work at Calvary
+You gave me a life worth living</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Now the chains are broken, chains are broken
+Chains are broken
+I am saved by grace
+Love abounding, mercy found me</lines>
+    </verse>
+    <verse name="v7">
+      <lines>So I am saved by grace, oh yeah
+I have life and it's only by Your grace
+I am saved by grace
+Oh, love abounding, mercy found me</lines>
+    </verse>
+    <verse name="v8">
+      <lines>I am saved by grace, oh yeah
+I have life and it's only by Your grace
+Mercy, the mercy, oh yeah
+New every morning
+Amazing, amazing
+Your grace, Your grace saved me, oh</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Mercy, the mercy
+New every morning
+Amazing, amazing
+Your grace, Your grace saved me, oh</lines>
+    </verse>
+  </lyrics>
+</song>

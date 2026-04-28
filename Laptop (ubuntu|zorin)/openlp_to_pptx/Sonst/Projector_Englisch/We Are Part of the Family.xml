@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Are Part of the Family</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are part of the family,
+that’s been born again,
+Part of the family,
+whose love knows no end
+For Jesus has saved us
+and made us His own,
+Now we’re part of the family,
+that’s on its way home.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And sometimes we laugh together,
+Sometimes we cry;
+Sometimes we share together,
+heartaches and sighs
+Sometimes we dream together,
+of how It will be
+When we all get to heaven,
+God’s Family.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When a brother's in sorrow,
+we all feel his grief,
+When he'spassed through the valley,
+we all feel relieved
+Together in sunshine,
+together in rain,
+Together in victory,
+to His precious name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And though some go before us,
+we’ll all meet again,
+Just inside the city,
+as we enter in,
+There will be no more parting,
+with Jesus we'll be,
+Together, forever,
+God's Family.</lines>
+    </verse>
+  </lyrics>
+</song>

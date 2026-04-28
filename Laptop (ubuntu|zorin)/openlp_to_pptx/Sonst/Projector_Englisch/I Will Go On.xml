@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Will Go On</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I repent for moments I have spent
+Recalling all the pain,
+And failures of my past
+I repent for dwelling on the things
+Beyond my power to change,
+The chains that held me fast</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will go on,
+My past I leave behind me
+I gladly take His mercy and His love
+He is joy and He is peace
+He is strength and sweet release
+I know He is and I am His
+I will go on</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I give up the bitterness and hate
+The blaming me and fate,
+For all my discontent
+The guilt and pain,
+I empty from my cup,
+So God can fill it up,
+With peace and sweet content</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will go on,
+My past I leave behind me
+I gladly take His mercy and His love
+He is joy and He is peace
+He is strength and sweet release
+I know He is and I am His
+I will go on</lines>
+    </verse>
+  </lyrics>
+</song>

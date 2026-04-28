@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Love You, Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Gareth Robinson</author>
+      <author type="music">Gareth Robinson</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I love You, Lord, and I lift my voice
+To worship You, oh my soul, rejoice
+Take joy, my King, in what You hear
+Let it be a sweet, sweet sound in Your ear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love You, Lord, and I lift my hands
+To do Your will as Your Word commands
+Take joy, my King, in what You see
+May there be a river of love flowing from me.</lines>
+    </verse>
+  </lyrics>
+</song>

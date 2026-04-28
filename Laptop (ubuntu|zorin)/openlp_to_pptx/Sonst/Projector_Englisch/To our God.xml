@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>To our God</title>
+    </titles>
+    <authors>
+      <author type="words">Graham Kendrick</author>
+      <author type="music">Graham Kendrick</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Up from the ashes, Your love has brought us
+Out of the darkness into the light
+Lifting our sorrows
+Bearing our burdens healing our hearts</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To our God, we lift up one voice
+To our God, we lift up one song
+To our God, we lift up one voice
+Singing Hallelujah</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chains have been broken
+Eyes have been opened
+An army of dry bones is starting rise
+Death is defeated
+We are victorious for You are alive</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hallelujah, Hallelujah (repeat)
+We'll make His praise glorious, glorious, glorious
+For His name is glorious, glorious, glorious
+Make His praise glorious, glorious, glorious
+Shout His name Glorious, Glorious, Glorious</lines>
+    </verse>
+  </lyrics>
+</song>

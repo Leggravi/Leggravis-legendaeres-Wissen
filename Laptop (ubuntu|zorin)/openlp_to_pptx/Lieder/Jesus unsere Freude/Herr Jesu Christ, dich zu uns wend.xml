@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:57">
+  <properties>
+    <titles>
+      <title>Herr Jesu Christ, dich zu uns wend</title>
+    </titles>
+    <authors>
+      <author type="words">Wilhelm II Herzog zu Sachsen-Weimar (1648)</author>
+      <author type="words">Gotha (1651)</author>
+      <author type="music">Gochsheim</author>
+    </authors>
+    <ccliNo>4832609</ccliNo>
+    <themes>
+      <theme>Eingang</theme>
+      <theme>Pfingsten</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr Jesus Christ, dich zu uns wend,
+dein Heilgen Geist du zu uns send,
+mit Hilf und Gnad er uns regier
+und uns den Weg zur Wahrheit führ.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu auf den Mund zum Lobe dein,
+bereit das Herz zur Andacht fein,
+den Glauben mehr, stärk den Verstand,
+dass uns dein Nam werd wohlbekannt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bis wir singen mit Gottes Heer:
+Heilig, heilig ist Gott der Herr!
+Und schauen dich von Angesicht
+in ew'ger Freud und selg'em Licht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ehr sei dem Vater und dem Sohn,
+dem Heilgen Geist in einem Thron;
+der Heiligen Dreieinigkeit
+sei Lob und Preis in Ewigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

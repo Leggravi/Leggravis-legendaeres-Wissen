@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Do Lord, remember me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do Lord, oh, do Lord, oh, do Lord, oh, do Lord,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Do Lord, oh, do Lord, oh, do remember me,
+Do Lord, oh, do Lord, oh, do remember me, I'm praying
+Do Lord, oh, do Lord, oh, do remember me,
+Way beyond the blue.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now I've got a home in glory land, that outshines the sun
+I've got a home in glory land, that outshines the sun
+I've got a home in glory land, that outshines the sun
+Way beyond the blue,
+beyond the blue, I'm singing</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Well I took Jesus as my Savior, you take Him too,
+I took Jesus as my Savior, you take Him too,
+I took Jesus as my Savior, you take Him too,
+While He's calling you,
+He's calling you, I'm singing</lines>
+    </verse>
+  </lyrics>
+</song>

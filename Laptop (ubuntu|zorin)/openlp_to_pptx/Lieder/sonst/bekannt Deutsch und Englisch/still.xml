@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="May 1, 2020, 1:15:10 PM">
+  <properties>
+    <titles>
+      <title>Still</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 C2 V4 V3 C5 C6 C2 V7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Hide me now
+Under Your wings
+Cover me
+Within Your mighty hand</lines>
+    </verse>
+    <verse name="C2">
+      <lines>When the oceans rise and thunders roar
+I will soar with You above the storm
+Father, You are King over the flood
+I will be still, know You are God</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Find rest my soul
+In Christ alone
+Know His power
+In quietness and trust</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Know You are God, oh yeah
+Know You are God, oh know You are God
+Know You are God, know You are God</lines>
+    </verse>
+    <verse name="C5">
+      <lines>When the oceans rise and thunders roar
+I will soar with You above the storm (Oh, yes I will)
+Father, You are King over the flood
+And I will be still, know You are God</lines>
+    </verse>
+    <verse name="C6">
+      <lines>When the oceans rise and thunders roar
+I will soar with You above the storm (Yes I will, yes I will)
+Father, You are King over the flood
+And I will be still, know You are God</lines>
+    </verse>
+    <verse name="V7">
+      <lines>Oh, yes You are, oh, yes You are
+Oh God, oh God
+I will be still, oh God</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Want to Live…</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I want to live the way he wants me to live.
+I want to give until there's just no more to give.
+I want to love, love till there's just no more love,
+But I can never ever outlove the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There've been times when giving and loving brought pain,
+And I promised I would never let it happen again,
+But I found out that loving was worth all the risk,
+And that even in losing You win.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He taught us that only through dying we live;
+He gave when it seemed there was nothing to give;
+He loved when loving brought heartache and loss,
+He forgave from an old rugged cross.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Take my life and let it be</title>
+    </titles>
+    <authors>
+      <author type="words">Frances Ridley Havergal</author>
+      <author type="music">Paul Oakley</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Take my life and let it be,
+Consecrated Lord to thee.
+Take my moments and my days
+/: Let them follow in ceaseless praise. :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take my voice and let me sing
+Always only for my king
+Take my lips and let them be
+/: Filled with messages from thee :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Take my love my lord I pour
+At thy feet its treasure store
+Take myself and I will be
+/: Ever only, all for thee :/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ever only, all for thee
+Ever only, all for thee
+Ever only, all for thee</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Take my will and make it thine;
+It shall be no longer mine.
+Take my heart, it is thine own;
+/: It shall be thy royal throne. :/ 3x</lines>
+    </verse>
+  </lyrics>
+</song>

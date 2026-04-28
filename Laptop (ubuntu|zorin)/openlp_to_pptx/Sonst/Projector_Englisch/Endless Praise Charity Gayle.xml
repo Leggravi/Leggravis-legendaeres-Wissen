@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Endless Praise (Charity Gayle)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v2 v3 v4 v5 v3 v6 v3 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can't wait for eternity
+Join the song
+They're already singing
+Holy, holy, holy
+Are You Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Just to bow down
+Before Your throne
+See Your face, I'll cry out
+Because You're
+Holy, holy, holy
+Are You Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, king of kings
+Jesus, majesty
+Jesus, king of kings
+Jesus, majesty</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Standing with those
+Who have heard well done
+Proclaiming forever
+That You're the one who's
+Faithful, faithful, faithful
+Are You Lord</lines>
+    </verse>
+    <verse name="v5">
+      <lines>What can we give You
+But endless praise
+The heavens roar as we shout
+Your name is
+Jesus, Jesus, Jesus
+You are Lord!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>/: Worthy, worthy, worthy
+Lord, another glimpse of glory
+We sing once more
+Worthy, worthy, worthy
+Lord, forever, forever :/</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Worthy, worthy, worthy, Lord
+Worthy, worthy, worthy, Lord
+Worthy is the lamb
+Worthy is the lamb
+You are holy, holy
+Are you Lord God almighty
+Worthy is the lamb
+Worthy is the lamb</lines>
+    </verse>
+    <verse name="v8">
+      <lines>You are holy, holy
+Are you Lord God almighty
+Worthy is the lamb
+Worthy is the lamb
+Holy is the lamb
+Holy is the lamb
+Righteous is the lamb
+Righteous is the lamb
+Jesus is the lamb
+Jesus is the lamb, amen</lines>
+    </verse>
+  </lyrics>
+</song>

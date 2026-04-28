@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir danken, treuer Heiland, Dir</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Spitta</author>
+      <author type="music">Arthur Seymour Sullivan</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir danken, treuer Heiland, Dir,
+Dass Du uns nicht gelassen
+Als unversorgte Waisen hier,
+Auf unbekannten Straßen.
+Bei fremdem Volk, in fremdem Land,
+Wo alle Wege ungebahnt,
+Da sehn wir Deine Tritte.
+Wir stehen nie verlassen da,
+Du bist uns allenthalben nah,
+Du lebst in unsrer Mitte.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist bei uns mit Deinem Geist,
+O sel'ge, heil'ge Nähe!
+Der so lebendig sich erweist,
+Als ob Dich selbst man sähe.
+Bist unser Licht im dunklen Tal,
+Erquickst durch Deiner Liebe Strahl,
+Bist Seelen-Trank und -Speise.
+Stehst uns mit Rat und Tat zur Seit'
+Und gibst uns selber das Geleit
+Auf unsrer Pilgerreise.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drum danken wir, o Heiland, Dir
+Für Deine Lieb' und Treue.
+O dass doch jedes Herz schon hier
+Sich Deinem Lob stets weihe!
+Das ist ja unsre Seligkeit,
+Ist süßer Trost in allem Leid,
+So lange wir hier wallen.
+Und wenn wir dort Dein Antlitz sehn
+Und völlig Deine Lieb' verstehn,
+Wird ew'ges Lob erschallen.</lines>
+    </verse>
+  </lyrics>
+</song>

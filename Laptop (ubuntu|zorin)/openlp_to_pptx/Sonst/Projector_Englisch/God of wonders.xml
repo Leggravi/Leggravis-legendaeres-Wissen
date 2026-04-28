@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God of wonders</title>
+    </titles>
+    <authors>
+      <author type="words">Andy Bromley</author>
+      <author type="music">Andy Bromley</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord of all creation
+Of the water, earth and sky
+The Heavens are Your Tabernacle
+Glory to the Lord on high</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God of wonders, beyond our galaxy
+You are holy, holy
+The universe declares Your majesty
+You are holy, holy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord of Heaven and Earth
+Lord of Heaven and Earth</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Early in the morning
+I will celebrate the light
+And when I stumble into darkness
+I will call Your name by night</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hallelujah to the Lord of Heaven and earth
+Hallelujah to the Lord of Heaven and earth
+Hallelujah to the Lord of Heaven and earth</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Holy, holy
+Holy, holy</lines>
+    </verse>
+  </lyrics>
+</song>

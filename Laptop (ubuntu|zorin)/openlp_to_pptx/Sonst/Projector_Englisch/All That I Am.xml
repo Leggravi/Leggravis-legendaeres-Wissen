@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All That I Am</title>
+    </titles>
+    <authors>
+      <author type="words">James Wright</author>
+      <author type="music">James Wright</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can see the tears in your eyes
+I can hear the depths of your cry
+Faint not, My grace
+Is sufficient for thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All that I AM
+All that I WAS
+All that I WILL BE's
+Because of you
+All that I have
+All that I own
+All that I possess I've given you
+For you are My beloved Bride</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fear not, I'm always with thee
+Your comfort and strength to bear thee
+Just run the race
+The rest is MINE to do</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I know your work,
+Your faith and your trials
+You try to live the life
+to make me smile
+Come now rejoice
+Arise, your light has shone!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I have a house that I never built
+Abounding grace that I never merit
+A holy life that I cannot live
+Victorious days that I have never won</lines>
+    </verse>
+    <verse name="v6">
+      <lines>All that I am
+All that I was
+All that I will be's
+Because of You
+All that I have
+All that You give
+Where could I go now
+But just to You
+For you have the Words of Life</lines>
+    </verse>
+  </lyrics>
+</song>

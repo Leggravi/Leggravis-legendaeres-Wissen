@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Christ be Magnified</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v6 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Were creation suddenly articulate
+With a thousand tongues to lift one cry
+Then from north to south and east to west
+We'd hear'Christ be magnified! '</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Were the whole earth echoing His eminence
+His name would burst from sea and sky
+From rivers to the mountain tops
+We'd hear'Christ be magnified! '</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O! Christ be magnified!
+Let His praise arise
+Christ be magnified in me
+O! Christ be magnified!
+From the altar of my life
+Christ be magnified in me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When every creature finds its inmost melody
+And every human heart its native cry
+O then in one enraptured hymn of praise
+We'll sing'Christ be magnified! '
+O be lifted high, Jesus</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I won't bow to idols, I'll stand strong and worship You
+And if it puts me through the fire, I'll rejoice'cause You're there too
+I won't be formed by feelings, I hold fast to what is true
+If the cross brings transformation, Then I'll be crucified with You</lines>
+    </verse>
+    <verse name="v6">
+      <lines>'Cause death is just the doorway into resurrection life
+And if I join You in Your suffering then I'll join You when You rise
+And when You return in glory with all the angels and the saints
+My heart will still be singing and my song will be the same</lines>
+    </verse>
+  </lyrics>
+</song>

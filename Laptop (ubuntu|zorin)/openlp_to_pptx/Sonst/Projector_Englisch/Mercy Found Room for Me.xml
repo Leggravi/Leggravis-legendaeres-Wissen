@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mercy Found Room for Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He was called a rebel, they called him a fool,
+He was living in darkness, breaking the rules,
+He walked in his own way, and thought he knew best,
+But there was a darkness that wouldn't let him rest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But mercy found room for me, yes, mercy found room for me,
+In a world full of sin, I was lost and could not see,
+But the hands of mercy lifted me up, set my spirit free,
+And mercy found room for me, yes, mercy found room for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'd tried so hard to fix it, to find my own way
+To make things right, to brighten my day,
+But the chains of my failures, they held me tight,
+And I was fading away in the endless night.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No one else could save me, no one could heal
+But there's a love so powerful, it made me feel
+A hope that had been missing, a peace I'd never known
+And a heart that was empty, was finally my own.</lines>
+    </verse>
+  </lyrics>
+</song>

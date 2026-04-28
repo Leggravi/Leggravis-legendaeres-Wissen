@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, wenn nicht du</title>
+    </titles>
+    <authors>
+      <author type="words">Miroslav Chrobak</author>
+      <author type="music">Miroslav Chrobak</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mit jedem Atemzug
+Wird mir immer mehr bewusst
+Dass diese Welt voll Trug
+Mir eigentlich zuwider sein müsst‘
+Doch es ändert sich nichts
+Egal wie stark mein Wille ist
+Mein Herz, es dreht nicht um
+Wenn du mir nicht gnädig bist</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr, wenn nicht du
+Mein Herz bewegst
+Herr, wenn nicht du
+Den Wunsch in mich legst
+Herr, wenn nicht du
+Geh‘ ich dahin
+Herr, wenn nicht du
+Verliert mein Leben den Sinn</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mit jedem Herzensschlag
+Wachen Wünsche in mir auf
+Doch schon am nächsten Tag
+Beenden sie ganz spurlos ihr‘n Lauf
+Nein, es ändert sich nichts
+Denn meine Hände bleiben still
+Ich schaff‘ es nicht zu tun
+Das, was ich eigentlich will</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herr, wenn nicht du
+Meine Hände bewegst
+Herr, wenn nicht du
+Deine Kraft in mich legst
+Herr, wenn nicht du
+Geh‘ ich dahin
+Herr, wenn nicht du
+Verliert mein Leben den Sinn</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Aus deiner Gnade lebe ich
+Durch deine Gnade kenn‘ ich dich
+Aus deiner Gnade darf ich seh‘n
+Und deine Gnade lässt mich geh‘n
+Aus deiner Gnade suche ich
+Durch deine Gnade find‘ ich dich
+In deiner Gnade find‘ ich Ruh‘
+Mein Glück bist nur</lines>
+    </verse>
+  </lyrics>
+</song>

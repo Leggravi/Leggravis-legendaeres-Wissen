@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thy Loving Kindness</title>
+    </titles>
+    <authors>
+      <author type="words">Hugh Mitchell</author>
+      <author type="music">Hugh Mitchell</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thy loving kindness is better than life;
+Thy loving kindness is better than life.
+My lips shall praise Thee
+Thus will I bless Thee;
+I will lift up my hands in Thy name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I lift my hands Lord, unto Thy name;
+I lift my hands Lord, unto Thy name.
+My lips shall praise Thee
+Thus will I bless Thee
+I will lift up my hands in Thy name.</lines>
+    </verse>
+  </lyrics>
+</song>

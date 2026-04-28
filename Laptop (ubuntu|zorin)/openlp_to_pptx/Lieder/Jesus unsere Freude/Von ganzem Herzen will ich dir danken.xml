@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:04">
+  <properties>
+    <titles>
+      <title>Von ganzem Herzen will ich dir danken</title>
+    </titles>
+    <authors>
+      <author type="words">Lothar Gassmann (1986)</author>
+      <author type="music">Hans Werner Scharnowski</author>
+    </authors>
+    <ccliNo>4891509</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich rufe, und du erhörst mich,
+gibst meiner Seele Stärke und Kraft.
+Du siehst mich, wenn ich voll Angst bin,
+hältst meine Hand fest, eh sie erschlafft.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Auch Herrscher sollen dir danken.
+Du willst sie leiten nach deinem Wort.
+Doch Ehre steht dir allein zu.
+Wer sich für groß hält, den schickst du fort.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Geringe willst du erhöhen,
+die Stolzen aber siehst du von fern.
+Herr, ewig ist deine Güte.
+Dir will ich danken, dir, meinem Herrn.</lines>
+    </verse>
+  </lyrics>
+</song>

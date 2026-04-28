@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Your presence</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Lass</author>
+      <author type="music">Chris Lass</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All of my life I've searched for You Lord
+You called me to Your side
+With all of my heart, I'm desperate for more
+Your presence is my life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The cry of my heart
+Is to be where You are</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I love Your presence
+I love Your presence
+Father where You are is where I wanna be
+Hidden in Your courts is everything I need</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are my strength, You are my shield
+Surround me with Your song
+All that my soul will know is Your peace
+You hide me in Your love</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The cry of my heart
+Is to be where You are</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I love Your presence
+I love Your presence
+Father where You are is where I wanna be
+Hidden in Your courts is everything I need</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I love Your presence
+I love Your presence
+I can hear You call, I run into Your arms
+Jesus You are all, my heart is longing for</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Father You are my heart's desire
+Overwhelmed I will worship You
+I will dance to the dance of heaven
+All my heart be enthralled by You</lines>
+    </verse>
+    <verse name="v9">
+      <lines>I love Your presence
+I love Your presence
+Father where You are is where I wanna be
+Hidden in Your courts is everything I need</lines>
+    </verse>
+    <verse name="v10">
+      <lines>I love Your presence
+I love Your presence
+I can hear You call, I run into Your arms
+Jesus You are all, my heart is longing for</lines>
+    </verse>
+  </lyrics>
+</song>

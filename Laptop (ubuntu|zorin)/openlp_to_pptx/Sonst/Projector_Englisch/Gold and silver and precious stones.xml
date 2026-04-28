@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gold and silver and precious stones</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Every man on earth is given just one life
+Every life on earth is but a vapor
+It appears then its gone with a record of what's done
+Then we stand alone at the judgment seat of Christ
+Gods holy son</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We must all bow down at the judgment seat of Christ
+We must give account for the things we've done with our lives
+I will live my life for Jesus Christ
+So that in eternity my life will be
+Gold and silver and precious stones</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Every deed I've done and every thought I've known
+Every choice I've made tried by fire
+Will it burn or remain will I bow my head in shame
+Will I heard God say, welcome home my child well done
+My faithful one</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Freude steckt an</title>
+    </titles>
+    <authors>
+      <author type="words">Annegret Sarembe</author>
+      <author type="music">Annegret Sarembe</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Freude steckt an. Freude tut gut.
+Freude an Gott gibt jeden Tag neuen Mut.
+Freude steckt an. Freude tut gut.
+Freude bekommt, wer Gottes Willen tut.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Freude lenkt den Blick weg von Sorgen, Angst und Not.
+Bete! Gott teilt die Freude gern aus. Freude kommt von Gott.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Freude steckt an. Freude tut gut.
+Freude an Gott gibt jeden Tag neuen Mut.
+Freude steckt an. Freude tut gut.
+Freude bekommt, wer Gottes Willen tut.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gott zeigt in der Bibel, wie unser Leben gelingt.
+Glaube! Gott führt dich sicher ans Ziel, wo man fröhlich singt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Freude steckt an. Freude tut gut.
+Freude an Gott gibt jeden Tag neuen Mut.
+Freude steckt an. Freude tut gut.
+Freude bekommt, wer Gottes Willen tut.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gott ist Grund zur Freude, weil er uns trägt und erhält.
+Lobe! Und sieh, was Gott heute tut. Gott regiert die Welt.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Freude steckt an. Freude tut gut.
+Freude an Gott gibt jeden Tag neuen Mut.
+Freude steckt an. Freude tut gut.
+Freude bekommt, wer Gottes Willen tut.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Auch wenn dir dein Alltag, oft fad und freudlos erscheint.
+Gehe! Nimm Gottes Angebot an. Freude liegt bereit.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Freude steckt an. Freude tut gut.
+Freude an Gott gibt jeden Tag neuen Mut.
+Freude steckt an. Freude tut gut.
+Freude bekommt, wer Gottes Willen tut.</lines>
+    </verse>
+  </lyrics>
+</song>

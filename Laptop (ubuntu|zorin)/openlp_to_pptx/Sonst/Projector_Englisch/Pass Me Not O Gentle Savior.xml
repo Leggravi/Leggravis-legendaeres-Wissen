@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Pass Me Not, O Gentle Savior</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pass me not, O gentle Savior,
+Hear my humble cry;
+While on others Thou art calling,
+Do not pass me by.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Savior, Savior,
+Hear my humble cry;
+While on others Thou art calling,
+Do not pass me by.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou the spring of all my comfort,
+More than life to me;
+Whom have I on earth beside Thee?
+Whom in heaven but Thee?</lines>
+    </verse>
+  </lyrics>
+</song>

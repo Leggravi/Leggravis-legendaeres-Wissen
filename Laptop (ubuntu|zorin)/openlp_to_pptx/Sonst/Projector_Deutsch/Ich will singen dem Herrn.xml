@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich will singen dem Herrn</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Gottfried Burger</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich will singen dem HERRN mein Leben lang.
+Loblieder bringen meinem Gott solange ich bin.
+Meines Herzens Rede möge ihm wohl gefalln.
+Ich will mich freun, ich will mich freun in dem Herrn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lobe den Herrn meine Seele! Halleluja.
+Lobe den Herrn meine Seele! Halleluja.
+Lobe den Herrn meine Seele! Halleluja.
+Lobe den Herrn meine Seele! Halleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

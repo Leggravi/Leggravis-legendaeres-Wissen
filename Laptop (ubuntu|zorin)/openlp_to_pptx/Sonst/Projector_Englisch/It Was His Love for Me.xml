@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It Was His Love for Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It was his love for me
+That nailed him to the tree
+To die in agony for all my sin.
+For my own guilt and blame
+The great Redeemer came,
+Willing to bear the shame
+Of all my sin.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, what a Saviour is mine,
+In him God’s mercies combine;
+His love can never decline,
+And he loves me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To Calvary’s hill one day
+The Lord was led away;
+None else the price could pay
+For all my sin.
+He on the cross was slain,
+Yielding his life in pain;
+He felt the bitter stain
+Of all my sin.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Was ever love so strong,
+Was ever crime so wrong,
+When Jesus suffered long
+For all my sin?
+He saw my greatest need,
+Became my Friend indeed,
+Through him I have been freed
+Of all my sin.</lines>
+    </verse>
+  </lyrics>
+</song>

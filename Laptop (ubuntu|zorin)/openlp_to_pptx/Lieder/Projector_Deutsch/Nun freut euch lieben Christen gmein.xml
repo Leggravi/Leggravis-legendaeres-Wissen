@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nun freut euch, lieben Christen g'mein</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Luther</author>
+      <author type="music">Nürnberg</author>
+      <author type="translation">Dear Christians one and all rejoice</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nun freut euch, lieben Christen g'mein,
+und lasst uns fröhlich springen,
+dass wir getrost und all in
+ein mit Lust und Liebe singen,
+was Gott an uns gewendet hat und seine
+süße Wundertat; gar teu'r hat er's erworben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dem Teufel ich gefangen lag,
+im Tod war ich verloren,
+mein Sünd mich quälte Nacht und Tag,
+darin ich war geboren.
+Ich fiel auch immer tiefer drein,
+es war kein Guts am Leben mein,
+die Sünd hatt' mich besessen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mein guten Werk, die galten nicht,
+es war mit ihn' verdorben;
+der frei Will hasste Gotts Gericht,
+er war zum Gutn erstorben;
+die Angst mich zu verzweifeln trieb,
+dass nichts denn Sterben bei mir blieb,
+zur Höllen musst ich sinken.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Da jammert Gott in Ewigkeit
+mein Elend übermaßen;
+er dacht an sein Barmherzigkeit,
+er wollt mir helfen lassen;
+er wandt zu mir das Vaterherz,
+es war bei ihm fürwahr kein Scherz,
+er ließ's sein Bestes kosten.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Er sprach zu seinem lieben Sohn:
+»Die Zeit ist hier zu erbarmen;
+fahr hin, meins Herzens werte Kron,
+und sei das Heil dem Armen
+und hilf ihm aus der Sünden Not,
+erwürg für ihn den bittern Tod
+und lass ihn mit dir leben. «</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Der Sohn dem Vater g'horsam ward,
+er kam zu mir auf Erden
+von einer Jungfrau rein und zart;
+er sollt mein Bruder werden.
+Gar heimlich führt er sein Gewalt,
+er ging in meiner armen G'stalt,
+den Teufel wollt er fangen.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Er sprach zu mir: »Halt dich an mich,
+es soll dir jetzt gelingen;
+ich geb mich selber ganz für dich,
+da will ich für dich ringen;
+denn ich bin dein und du bist mein,
+und wo ich bleib, da sollst du sein,
+uns soll der Feind nicht scheiden.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Vergießen wird er mir mein Blut,
+dazu mein Leben rauben;
+das leid ich alles dir zugut,
+das halt mit festem Glauben.
+Den Tod verschlingt das Leben mein,
+mein Unschuld trägt die Sünde dein,
+da bist du selig worden.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Gen Himmel zu dem Vater mein
+fahr ich von diesem Leben;
+da will ich sein der Meister dein,
+den Geist will ich dir geben,
+der dich in Trübnis trösten soll
+und lehren mich erkennen wohl
+und in der Wahrheit leiten.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Was ich getan hab und gelehrt,
+das sollst du tun und lehren,
+damit das Reich Gotts werd gemehrt
+zu Lob und seinen Ehren;
+und hüt dich vor der Menschen Satz,
+davon verdirbt der edle Schatz:
+das lass ich dir zur Letze. «</lines>
+    </verse>
+  </lyrics>
+</song>

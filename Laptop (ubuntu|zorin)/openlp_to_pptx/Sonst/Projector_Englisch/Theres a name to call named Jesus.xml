@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There’s a name to call named Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There’s a name to call named Jesus
+There’s a way to go named Jesus
+There’s a life to live named Jesus
+He is love, He is love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He was dead and now he is alive
+And I’m in him, and I’m in him.
+And he raised up the dead out of the grave.
+So I am saved, so I am saved.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There’s a hope to hope named Jesus
+There’s a light to shine named Jesus
+There’s a pow’r to work named Jesus
+He is love, He is love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There’s a king who comes named Jesus
+Let us glorify our king Jesus
+All the world will serve king Jesus
+He is Lord, he is Lord!</lines>
+    </verse>
+  </lyrics>
+</song>

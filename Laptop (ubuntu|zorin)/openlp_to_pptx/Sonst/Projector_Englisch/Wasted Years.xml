@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wasted Years</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Have you wandered along
+on life’s pathway?
+Have you lived without
+love a life of fear?   
+Have you searched for that
+great hidden meaning?
+Or is your life filled with
+long wasted years.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wasted years wasted years
+oh how foolish   
+As you walk on in
+darkness and fear       
+Turn around, Turn around
+God is calling,
+He’s calling you from a life
+of wasted years.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Search for wisdom
+and understanding,   
+There’s someone who knows
+and always hears.
+Come to Him! Come to Him!
+Your sins confessing,
+You can’t go on with a life
+of wasted years.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Don’t you know Jesus died
+for all the sinners?
+He loves you and all your guilt
+He gladly bears
+Give it up; give it up the load
+you’re carrying
+You can’t go on with a life
+of wasted years.</lines>
+    </verse>
+  </lyrics>
+</song>

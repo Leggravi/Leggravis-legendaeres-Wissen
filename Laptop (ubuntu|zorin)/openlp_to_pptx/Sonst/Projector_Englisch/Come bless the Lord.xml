@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come bless the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Unbekannt</author>
+      <author type="translation">Lobet den Herrn, alle Knechte</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come bless the Lord,
+All ye servants of the Lord,
+Who stand by night,
+In the house of the Lord.
+Lift up your hands,
+In the Holy Place,
+And bless the Lord.
+And bless the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

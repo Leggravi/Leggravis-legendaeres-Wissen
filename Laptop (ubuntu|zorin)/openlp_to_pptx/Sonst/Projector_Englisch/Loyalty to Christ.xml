@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Loyalty to Christ</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From over hill and plain
+There comes the signal strain -
+’Tis loyalty, loyalty, loyalty to Christ;
+Its music rolls along,
+The hills take up the song,
+Of loyalty, loyalty, yes, loyalty to Christ.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>“On to victory! On to victory!”
+Cries our great Commander, “On!”
+We’ll move at His command -
+We’ll soon possess the land,
+Thru loyalty, loyalty, yes, loyalty to Christ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O hear, ye brave, the sound
+That moves the earth around -
+’Tis loyalty, loyalty, loyalty to Christ;
+Arise to dare and do,
+Ring out the watchword true,
+Of loyalty, loyalty, yes, loyalty to Christ.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come, join our loyal throng -
+We’ll rout the giant wrong -
+’Tis loyalty, loyalty, loyalty to Christ;
+Where Satan’s banners float
+We’ll send the bugle note,
+Of loyalty, loyalty, yes, loyalty to Christ.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The strength of youth we lay
+At Jesus’ feet today -
+’Tis loyalty, loyalty, loyalty to Christ;
+His gospel we’ll proclaim
+Throughout the world’s domain,
+Of loyalty, loyalty, yes, loyalty to Christ.</lines>
+    </verse>
+  </lyrics>
+</song>

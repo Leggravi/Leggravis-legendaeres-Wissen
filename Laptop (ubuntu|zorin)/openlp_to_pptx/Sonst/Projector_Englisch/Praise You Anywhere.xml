@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Praise You Anywhere</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v6 v3 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sometimes you've gotta dance through the darkness
+Sing through the fire
+Praise when it don't make sense
+Sometimes you've 
+gotta stare down the giant
+Worship from the lion's den</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sometimes you've gotta
+shout it from the mountain
+Louder in the valley
+Trusting that He's gonna
+get you there, sometimes
+you've gotta welcome
+the wonder, wait for the answer
+Worship with your hands in the air</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'll praise You anywhere
+Praise, give Him praise,
+give Him praise
+In my highest grace,
+give Him praise, give Him praise
+In my highest, He is worthy
+Yes, He is worthy of all of the praise</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sometimes you've gotta
+praise in the prison
+Cry out to heaven
+Shout it 'til the doors
+swing wide, sometimes
+you've gotta stand on your
+shackles, brave in the battle
+Worship with your hands held high</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Faithful all my life
+Blessings day and night
+Countless reasons why
+I'll praise You anywhere</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Every promise kept
+Goodness every step
+Each and every breath
+I'll praise You anywhere</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Oh, I'll praise You anywhere
+Oh, mountain, oh, valley
+I know that You're
+with me there
+I'll praise You anywhere</lines>
+    </verse>
+  </lyrics>
+</song>

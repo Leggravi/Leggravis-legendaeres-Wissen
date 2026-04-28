@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sing Hallelujah To The Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Linda Stassen</author>
+      <author type="music">Linda Stassen</author>
+      <author type="translation">Sing Halleluja unserm Herrn</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing hallelujah to the Lord,
+Sing hallelujah to the Lord,
+Sing hallelujah,
+Sing hallelujah,
+Sing hallelujah to the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus is risen form the dead
+Jesus is risen form the dead
+Jesus is risen
+Jesus is risen
+Jesus is risen form the dead</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We give thanks to God our King
+We give thanks to God our King
+We give thanks
+We give thanks
+We give thanks to God our king</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Die, rise and follow Jesus Christ
+Die, rise and follow Jesus Christ
+Die, rise and follow
+Die, rise and follow
+Die, rise and follow Jesus Christ</lines>
+    </verse>
+  </lyrics>
+</song>

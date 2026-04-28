@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Don’t Weep for Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can see the sun going down
+My time down here will soon be o’er
+I will hear the angels sing
+When I reach the golden shore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Don’t weep, for me
+When they take me to my
+resting place
+I’ll shout and sing
+When I see my Saviour’s face.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Soon the stones will be rolled away,
+And the graves will open wide
+We’ll take our flight on angels’ wings
+And there with Jesus we’ll abide.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Don’t you weep when am crossing Jordan
+For you won’t have too long to wait
+You’ll be coming on some bright morning
+And I’ll meet you at the Eastern gate.</lines>
+    </verse>
+  </lyrics>
+</song>

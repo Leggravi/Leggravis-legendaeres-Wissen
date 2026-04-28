@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Why Complain</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Why complain about your
+clothes and your shoes
+Why complain about your
+teacher and her rules
+Why complain when there so
+many with no home
+Why complain when you have
+one for your own.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Just be thankful for the good things
+that you’ve got x 2
+The good things that you’ve got are
+for many a dream
+Just be thankful for the good things t
+hat you’ve got.
+Why complain about the
+way that you look</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Why complain about the scolding
+that you took
+Why complain when so
+many cannot run
+Why complain when you are
+having so much fun.</lines>
+    </verse>
+  </lyrics>
+</song>

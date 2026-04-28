@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:45">
+  <properties>
+    <titles>
+      <title>Schon am Morgen, Herr, deine Gnade</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Schnitter (1984)</author>
+      <author type="music">Gerhard Schnitter</author>
+    </authors>
+    <ccliNo>6056610</ccliNo>
+    <themes>
+      <theme>Morgenlieder</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hört, was Gott uns sagen möchte.
+Er sucht Gäste für sein Fest.
+Kommt und bleibt nicht draußen stehen!
+Er wartet auf uns.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sagt es denen in der Nähe.
+Viele wissen es noch nicht.
+Geht und sagt es in der Ferne,
+dass Jesus befreit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Helft, solang noch Zeit zum Helfen.
+Was wir geben, macht uns reich.
+Seht, Gott will Verlorne retten
+und braucht uns dabei.</lines>
+    </verse>
+  </lyrics>
+</song>

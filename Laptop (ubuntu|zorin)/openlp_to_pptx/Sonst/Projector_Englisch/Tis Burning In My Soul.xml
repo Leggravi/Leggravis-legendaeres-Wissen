@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>'Tis Burning In My Soul</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God sent His mighty power
+ to this poor, sinful heart,
+To keep me every hour,
+ and needful grace impart;
+And since His Spirit came,
+ to take supreme control,
+The love enkindled flame
+ is burning in my soul.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Tis burning in my soul,
+ 'tis burning in my soul;
+The fire of heavenly love
+ is burning in my soul,
+The Holy Spirit came,
+ all glory to His name!
+The fire of heavenly love
+ is burning in my soul.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Before the cross I bow,
+ upon the altar lay
+A willing offering now,
+ my all from day to day.
+My Savior paid the price,
+ my name He sweetly calls;
+Upon the sacrifice the fire
+ from heaven falls.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No good that I have done,
+ His promise I embrace;
+Accepted in the Son,
+ He saves me by His grace.
+All glory be to God!
+ let hallelujahs roll;
+His love is shed abroad,
+ the fire is in my soul.</lines>
+    </verse>
+  </lyrics>
+</song>

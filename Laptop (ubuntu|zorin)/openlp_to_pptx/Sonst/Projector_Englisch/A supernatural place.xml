@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>A supernatural place</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lazarus heard a voice though dead in the tomb,
+And Samuel heard the same, though yet a boy;
+We read of Moses and Paul who were changed in their ways,
+They heard the voice of God from a supernatural place.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Into a supernatural place,
+Hearing God’s voice, seeing His face,
+Heavenly words of light has shone on the bride,
+Oh, what a reflection of glory and grace!
+What a reflection of glory and grace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the dark of night,
+God sent a light,
+To quicken us by the rising of the Son;
+Our gloom is passed away,
+We are looking at the day
+Thru eyes that see a supernatural place.</lines>
+    </verse>
+  </lyrics>
+</song>

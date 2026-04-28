@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Fire of Your Love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3 v6 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>… Who can endure on the day of Your coming
+Who will be able to stand
+You will return like refiner's fire
+Who will be saved by Your hand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>… You make a way by the blood of Your sacrifice
+Poured out on Calvary's tree
+Now in Your presence
+Your glory and righteousness
+Stir up a passion in me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>… The fire of Your love is burning within me
+Consuming my heart
+Restoring my soul
+My only desire to abide in Your holiness
+Here in the fire of Your love
+Here in the fire of Your love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>… Though You were blameless
+You laid down Your life for us
+Bearing the weight of our sin
+Come with the power that raised You victorious
+Pour out Your presence again</lines>
+    </verse>
+    <verse name="v5">
+      <lines>… The fire of Your love is burning within me
+Consuming my heart
+You're restoring my soul
+My only desire to abide in Your holiness</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Here in the fire of Your love
+Here in the fire of Your love
+… Here in the fire of Your love
+Here in the fire of Your love</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Auf dem Hügel Golgatha</title>
+    </titles>
+    <authors>
+      <author type="words">Margret Birkenfeld</author>
+      <author type="music">Margret Birkenfeld</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Auf dem Hügel Golgatha drei Kreuze stehen.
+In der Mitte da hängt Jesus.
+Was ist geschehn? Was ist geschehn?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Auf dem Hügel Golgatha dort wird es Nacht.
+In das Dunkel ruft der Heiland:
+Es ist vollbracht! Es ist vollbracht!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Auf dem Hügel Golgatha bin ich dabei.
+Jesus stirbt für meine Leben.
+Er macht mich frei! Er macht mich frei!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herr, wie kann ich danken dir für Golgatha?
+Will dich lieben durch mein Leben.
+Halleluja! Halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

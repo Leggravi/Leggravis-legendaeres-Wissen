@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>DU ALLEIN</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du allein kennst meine Gedanken,
+Du weißt wie ich fühle,
+Du siehst meine Schranken und Ziele,
+Du weißt was mir dann und wann fehlt.
+Du allein siehst Zweifel und Sorgen,
+Die Fragen auf Morgen,
+Du kennst meinen Weg und du weißt wie ich lebe,
+Bist Tag und Nacht da.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist bei mir auch wenn ich dich heute nicht spüre,
+Bist bei mir auch wenn ich mich in meinen Sorgen verliere.
+Du bist bei mir,
+Du bist bei mir auch wenn ich dich heute nicht spüre,
+Bist bei mir auch wenn ich mich in meinen Sorgen verliere.
+Du bist bei mir,
+Ich dank dir dafür.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du allein kennst Wünsche und Träume,
+Du weißt was ich meine,
+Doch nur du allein kennst den richtigen Weg,
+Du denkst größer als ich.
+Du allein liebst mich immer weiter,
+Auch wenn ich dich oft nicht verstehe
+Du weißt dass ich vieles falsch sehe,
+Doch du lässt mich nie los.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du bist bei mir auch wenn ich dich heute nicht spüre
+Bist bei mir auch wenn ich mich in meinen Sorgen verliere
+Du bist bei mir
+Du bist bei mir auch wenn ich dich heute nicht spüre
+Bist bei mir auch wenn ich mich in meinen Sorgen verliere
+Du bist bei mir
+Ich dank' die dafür</lines>
+    </verse>
+  </lyrics>
+</song>

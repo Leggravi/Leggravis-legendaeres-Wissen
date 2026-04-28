@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>To Be Pleasing You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>LORD, I want to live my life to please You
+I bring my heart before You to remold
+Make of me a vessel fit for honor
+That I might shine to You as sparkling gold</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: To be pleasing You, pleasing You
+This is all I really wanna do. :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>LORD, I lift my heart in full surrender
+And all that I hold dear I give to You
+Purify my heart and make me holy
+So I might walk the way that's pleasing You.</lines>
+    </verse>
+  </lyrics>
+</song>

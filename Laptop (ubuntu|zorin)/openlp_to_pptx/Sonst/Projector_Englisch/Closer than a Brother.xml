@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Closer than a Brother</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I may believe my mind can conceive
+A love is closer than a brother's love
+The bond that we share
+Can't be earned anywhere
+It's something I just don't deserve</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I'm feeling all alone
+I call my brother on the phone
+And he'll drop everything
+To say a pray'r with me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is a friend
+Who sticks closer than a brother
+Through thick and thin
+He is always by your side
+Unfailing love
+Is what you will discover
+When you find a friend
+Who sticks closer than a brother</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Does life have you drained
+Are you walkin' in the rain
+Feeling like somebody's let you down
+Though you're out on your own
+You don't have to walk alone
+His love is closer than the air you breathe</lines>
+    </verse>
+    <verse name="v5">
+      <lines>That's the beauty of it all
+And all you have to do is call
+And like a brother
+He'll be there to comfort you</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And that's the beauty of it all
+And all you have to do is call
+And like a brother
+He'll be there to comfort you</lines>
+    </verse>
+    <verse name="v7">
+      <lines>There is a friend
+Who sticks closer than a brother
+Through thick and thin
+He is always by your side
+Unfailing love
+Is what you will discover</lines>
+    </verse>
+    <verse name="v8">
+      <lines>When you find a friend
+When you find a friend
+When you find a friend
+Who is closer than a brother</lines>
+    </verse>
+  </lyrics>
+</song>

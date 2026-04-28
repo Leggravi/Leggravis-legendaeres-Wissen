@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He's Everything to Me</title>
+    </titles>
+    <authors>
+      <author type="words">Ralph Carmichael</author>
+      <author type="music">Ralph Carmichael</author>
+      <author type="translation">In den Sternen Gottes Werk ich seh</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's everything,
+He's everything to me;
+He's everything,
+He's everything to me;
+He's my father, my mother,
+My sister and my brother,
+He's everything to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know it was the Blood,
+I know it was the Blood,
+I know it was the Blood for me;
+One day when I was lost,
+He died upon the Cross,
+I know it was the Blood for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the roll is called up yonder,
+When the roll is called up yonder,
+When the roll is called up yonder,
+When the roll is called up yonder,
+I'll be there.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In that city where the Lamb is the light,
+The city where there cometh no night;
+I've a mansion over there,
+and when free from toil and care,
+I am going where the Lamb is the light.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Leave it there, leave it there,
+Take your burden to the Lord
+And leave it there;
+If you trust and never doubt,
+He will surely bring you out;
+Take your burden to the Lord
+And leave it there.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>He abides, He abides,
+Hallelujah, He abides with me
+I'm rejoicing night and day,
+As I walk the narrow way,
+For the Comforter abides with me.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hold to God's unchanging hand!
+Hold to God's unchanging hand!
+Build your hopes on things eternal,
+Hold to God's unchanging hand!</lines>
+    </verse>
+  </lyrics>
+</song>

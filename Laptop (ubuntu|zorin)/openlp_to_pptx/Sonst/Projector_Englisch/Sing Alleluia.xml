@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sing Alleluia</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing alleluia, sing alleluia
+Praise the Father above.
+Sing alleluia, sing alleluia,
+Sing alleluia
+For His infinite love
+Sing alleluia</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All creatures of our God and King
+Lift up your voice and with us sing
+Sun moon and stars rejoice on high
+Praise to the Lord of light divine</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise to the Giver of good things
+Merciful Father holy King
+Join with the angels sing out loud
+Praise Him who reigns above the clouds</lines>
+    </verse>
+    <verse name="v4">
+      <lines>BRIDGE
+O praise Him
+When the morning comes
+Alleluia
+For the rising sun
+O praise Him
+When the day is done
+Alleluia
+Praise the Lord of love
+O praise Him
+Alleluia alleluia alleluia</lines>
+    </verse>
+  </lyrics>
+</song>

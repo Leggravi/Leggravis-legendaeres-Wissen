@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Covered</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Grace, glorious grace
+Grace, glorious grace
+At the cross, you called it finished
+Grace, wonderful grace
+Grace, wonderful grace
+At the cross all of my sin is</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Covered, covered, covered by your grace, oh
+Covered, covered, covered by your grace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Grace,  beautiful grace
+Grace, beautiful grace
+At the cross,  love everlasting
+Grace, powerful grace
+Grace, powerful grace
+At the cross all of my past is</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Covered, covered, covered by your grace, oh
+Covered, covered, covered by your grace (By your grace)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>No matter what I’ve done, no matter where I’ve been
+No matter how I fall, You pick me up again
+You have removed my shame, You take me as I am
+You call me justified, now I am covered by Your grace</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I am covered, Lord
+I am covered, Lord</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Covered, covered, covered by your grace, oh
+Covered, covered, covered by your grace
+I am covered, I am covered, covered by your grace (By your grace)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Standing on the Promises</title>
+    </titles>
+    <authors>
+      <author type="words">Russell Kelso Carter</author>
+      <author type="music">Russell Kelso Carter</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Standing on the promises of Christ my King,
+Through eternal ages let His praises ring;
+Glory in the highest I will shout and sing,
+Standing on the promises of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Standing, standing, standing on the promises of God, my Savior;
+Standing, standing, I'm standing on the promises of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Standing on the promises that cannot fail,
+When the howling storms of doubt and fear assail,
+By the living Word of God I shall prevail,
+Standing on the promises of God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Standing on the promises I now can see
+Perfect, present cleansing in the blood for me;
+Standing in the liberty where Christ makes free,
+Standing on the promises of God.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Standing on the promises of Christ the Lord,
+Bound to Him eternally by love's strong cord,
+Overcoming daily with the Spirit's sword,
+Standing on the promises of God.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Standing on the promises I cannot fall,
+Listening every moment to the Spirit's call,
+Resting in my Savior as my all in all,
+Standing on the promises of God.</lines>
+    </verse>
+  </lyrics>
+</song>

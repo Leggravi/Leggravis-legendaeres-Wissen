@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gentle Hands</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My hands cannot do the things
+you do,
+My hands only long to do your will
+So I lift them upto you,
+as a living sacrifice,
+I will never fear for I’m in
+gentle hands.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gentle hands holding on to me
+Gentle hands guiding
+me so carefully,
+Though they lead me
+down thro’ paths
+I don’t always understand
+I will never fear for I’m in gentle hands.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Beautifully Broken</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I find myself alone again,
+My hopes and dreams caving in,
+I find myself alone again,
+Wondering when this will end,
+But then a voice calls out to me,
+Surrender all so you can be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(You're, I'm) Beautifully broken,
+(You're, I'm) Perfectly scarred,
+Your love overwhelms me,
+I am never too far,
+With grace like a river,
+It washes me clean,
+Bringing to life what was lost inside of me,
+Beautifully broken,
+Beautifully broken.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I find myself with You again,
+Take control I'm giving in,
+I find myself with you again,
+Where broken things are mended,
+I hear your voice call out to me,
+I'm making you a masterpiece.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You make all things new,
+You make all things new,
+I am whole in You (I'm made, I'm restored)
+I am whole in You (I'm made, I'm restored).</lines>
+    </verse>
+  </lyrics>
+</song>

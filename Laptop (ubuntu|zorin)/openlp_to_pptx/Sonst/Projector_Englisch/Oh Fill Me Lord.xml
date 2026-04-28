@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh Fill Me Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dont let the hurt, the pain,
+The harder things numb my life,
+I want to feel You more
+It's just easy to loose sensitivity
+Tenderness when my mind is out poured
+My heart is open wide I'm burning inside</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh fill me Lord
+Take all these bitterness
+And shut the door
+As I empty out
+All these hurt
+Cleanse me, heart restored
+Fill me Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So now that You were within
+You can begin to heal my soul
+Comfort only comes with You
+Please use my life a sacrifice
+To show Your love so merciful like You
+My heart's open wide I'm burning inside</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fill my cup Lord
+I lift it up Lord
+Come and quench
+This thirsting of my soul</lines>
+    </verse>
+  </lyrics>
+</song>

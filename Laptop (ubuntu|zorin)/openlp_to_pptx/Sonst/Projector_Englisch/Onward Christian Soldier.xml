@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Onward, Christian Soldier</title>
+    </titles>
+    <authors>
+      <author type="words">Sabine Baring-Gould</author>
+      <author type="music">Arthur Seymour Sullivan</author>
+      <author type="translation">Vorwärts, Christi Streiter</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Onward Christian soldiers!
+Marching as to war,
+With the cross of Jesus
+Going on before;
+Christ, the royal Master,
+Leads against the foe;
+Forward into battle,
+See, His banners go!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Onward, Christian soldiers!
+Marching as to war,
+With the cross of Jesus
+Going on before.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Like a mighty army
+Moves the Church of God;
+Brothers, we are treading
+Where the saints have trod;
+We are not divided,
+All one body we:
+One in hope and doctrine,
+One in charity.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Crowns and thrones may perish,
+Kingdoms rise and wane;
+But the Church of Jesus
+Constant will remain;
+Gates of hell can never
+‘Gainst that church prevail;
+We have Christ’s own promise,
+Which can never fail.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>At the sign of triumph, Satan’s host
+doth flee; Oh, then Christian soldiers,
+On to victory! Hell’s foundations
+quiver At the shout of praise;
+Brothers, lift your voices,
+Loud your anthems raise!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Onward, then, ye people!
+Join our happy throng;
+Blend with ours your voices
+In the triumph song;
+Glory, laud, and honor,
+Unto Christ the King;
+This through countless ages
+Men and angels sing.</lines>
+    </verse>
+  </lyrics>
+</song>

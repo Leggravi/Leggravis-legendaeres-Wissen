@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Dove Flew into My Heart</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I may be sick but I'll keep on believing
+I know that I'll be healed in Jesus name
+The devil tried to rob me from my inheritance
+And the blessing the Lord has promised
+I looked at my lying vanities and said
+I'm going to walk into my victory</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The dove flew into my heart I know that He did
+He has led me through the storms I firmly believe
+The Lord has raised me up so high
+To believe what He has done for me
+I'm an eagle to soar above the troubled waters
+He has fluttered His wings in my heart
+The dove flew into my heart I firmly believe
+The dove flew into my heart I know that He did</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I may be troubled, confused and shattered
+I may be scarred but I'll never give up
+He has promised deliverance from all my bondage
+He wouldn't deny what He has promised
+Jesus has provided all my needs
+Whenever I call on His name</lines>
+    </verse>
+  </lyrics>
+</song>

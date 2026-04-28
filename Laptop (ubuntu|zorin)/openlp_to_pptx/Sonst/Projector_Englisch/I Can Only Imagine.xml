@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Can Only Imagine</title>
+    </titles>
+    <authors>
+      <author type="words">Bart Millard</author>
+      <author type="music">Bart Millard</author>
+      <author type="translation">Ich kann nur davon träumen</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can only imagine
+What it will be like
+When I walk
+By Your side
+I can only imagine
+What my eyes will see
+When Your face
+Is before me
+I can only imagine
+I can only imagine</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Surrounded by Your glory
+What will my heart feel
+Will I dance for You Jesus
+Or in awe of You be still
+Will I stand in Your presence
+Or to my knees will I fall
+Will I sing hallelujah,
+Will I be able to speak at all
+I can only imagine
+I can only imagine</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I can only imagine
+When that day comes
+And I find myself
+Standing in the Son
+I can only imagine
+When all I will do
+Is forever
+Forever worship You
+I can only imagine
+I can only imagine</lines>
+    </verse>
+  </lyrics>
+</song>

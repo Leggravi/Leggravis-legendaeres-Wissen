@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Nov 22, 2020, 9:33:14 PM">
+  <properties>
+    <titles>
+      <title>Denn er hat seinen Engeln befohlen über dir</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Wer auf Gott vertraut,
+braucht sich nicht zu fürchten
+vor den Träumen der Nacht und der Einsamkeit.
+Er darf mit Hoffnung in den neuen Tag gehen.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Denn er hat seinen Engeln befohlen über dir,
+dass sie dich behüten.
+Denn er hat seinen Engeln befohlen über dir,
+dass sie dich beschützen Tag und Nacht.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Wer auf Gott vertraut,
+darf sich sicher wissen
+in den Händen der Liebe, die ihn halten.
+Er darf mit Freude Gottes Hilfe sehen.</lines>
+    </verse>
+  </lyrics>
+</song>

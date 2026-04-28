@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What, Never Thirst Again?</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There flows from Calvary a stream
+For every sinner's pain,
+And he that drinketh, Jesus said,
+Shall never thirst again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What! never thirst again?
+No, never thirst again;
+What! never thirst again?
+No, never thirst again,
+For he that drinketh, Jesus said,
+Shall never, never thirst again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Earth's fountains fair,
+But mock our souls,
+Like desert phantoms lure,
+And they that drink, the fainter grow,
+The keener thirst endure.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This stream from Calvary still flows,
+To bless and cleanse and heal,
+And he that drinketh, Jesus said,
+New life and rest shall feel.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, blessed stream of pure delight!
+Oh, balm for ev'ry pain!
+To thee I haste, for Jesus said,
+I'll never thirst again.</lines>
+    </verse>
+  </lyrics>
+</song>

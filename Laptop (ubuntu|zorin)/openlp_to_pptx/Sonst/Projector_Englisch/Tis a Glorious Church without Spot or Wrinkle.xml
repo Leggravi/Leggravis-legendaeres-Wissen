@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Tis a Glorious Church without Spot or Wrinkle</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do you hear them coming, brother
+Thronging up the steeps of light,
+Clad in glorious shining garments,
+Bloodwashed garments pure and white?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Tis a glorious Church without spot or wrinkle,
+Washed in the blood of the Lamb.
+'Tis a glorious Church, without spot of wrinkle,
+Washed in the blood of the Lamb.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Do you hear the stirring anthems
+Filling all the earth and sky?
+'Tis a grand, victorious army.
+Lift its banner up on high!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Never fear the clouds of sorrow;
+Never fear the storms of sin.
+We shall triumph on the morrow'
+Even now our joys begin.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wave the banner, shout His praises,
+For our victory is nigh!
+We shall join our conqu'ring Saviour;
+We shall reign with Him on high!</lines>
+    </verse>
+  </lyrics>
+</song>

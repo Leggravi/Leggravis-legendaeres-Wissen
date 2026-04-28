@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Rest by and By</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Often weary and worn on the pathway below,
+When the burden is heavy, my heart throbs with woe;
+Oh, there comes a sweet whisper to quell ev’ry sigh,
+“Do not faint ’neath the load, there is rest by and by.”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>&quot;There is rest by and by,
+In the beautiful city there is rest by and by.
+Where the ransomed shall live with the Saviour on high,
+In the beautiful city there is rest by and by.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You will not labor long for the Master below,
+Soon his call you will hear, your free spirit shall go
+To the light of his presence in mansions on high,
+Where the faithful repose, there is rest by and by.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then, dear Saviour, I would not in sadness repine,
+Nor would here on a bed of sweet roses recline;
+For a country I seek where they nevermore die,
+And in Zion my home, there is rest by and by</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:02">
+  <properties>
+    <titles>
+      <title>Jesus soll die Losung sein</title>
+    </titles>
+    <authors>
+      <author type="words">Benjamin Schmolck (1725)</author>
+      <author type="music">Jesus, meine Zuversicht</author>
+    </authors>
+    <ccliNo>4695891</ccliNo>
+    <themes>
+      <theme>Sterben</theme>
+      <theme>Silvester</theme>
+      <theme>Neujahr</theme>
+      <theme>Jahreswechsel</theme>
+      <theme>Jahreswende</theme>
+      <theme>Jahresende</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus soll die Losung sein,
+da ein neues Jahr erschienen;
+Jesu Name soll allein
+denen als ihr Zeichen dienen,
+die in seinem Bunde stehn
+und auf seinen Wegen gehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesu Name, Jesu Wort
+soll bei uns in Zion schallen;
+und so oft wir an den Ort,
+der nach Ihm genannt ist, wallen,
+mache seines Namens Ruhm
+unser Herz zum Heiligtum.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sein Versühnen und sein Heil
+wollen wir im Glauben ehren;
+also wird es uns zuteil,
+wird sich täglich bei uns mehren.
+Auch fürs neue Jahr uns beut
+Jesu Name Seligkeit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Unsre Wege wollen wir
+nur in Jesu Namen gehen.
+Geht uns dieser Leitstern für,
+so wird alles wohl bestehen
+und durch seinen Gnadenschein
+alles voller Segen sein.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Alle Sorgen, alles Leid
+soll der Name uns versüßen;
+so wird alle Bitterkeit
+uns zur Freude werden müssen.
+Jesu Nam sei Sonn und Schild,
+welcher allen Kummer stillt.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesus, aller Bürger/Völker Heil,
+und der Stadt ein Gnadenzeichen,
+auch des Landes bestes Teil,
+dem kein Kleinod zu vergleichen,
+Jesus, unser Trost und Hort,
+sei die Losung fort und fort.</lines>
+    </verse>
+  </lyrics>
+</song>

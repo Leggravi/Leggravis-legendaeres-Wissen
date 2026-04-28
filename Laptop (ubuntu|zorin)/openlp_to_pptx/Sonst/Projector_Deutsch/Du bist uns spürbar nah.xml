@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist uns spürbar nah</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Jacobi</author>
+      <author type="music">Daniel Jacobi</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist uns spürbar nah, auch dann,
+wenn wir nicht sehn.
+Du bist der feste Fels, auf dem wir sicher stehn
+Du hast uns frei gekauft, nahmst auf dich unsre Schuld.
+Du bist voll güte und Geduld.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niemand ist so wie du
+So unendlich gut Oh jesus
+Du machst uns heil und frei
+Deine Herrlichkeit ist hier bei uns
+Niemand ist wie du.
+Es ist niemand wie du.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dein Leben fließt zu uns
+Du hast uns durch dein Blut
+Du gibst im Überfluss
+Begegnest jeder Not
+Gnade und Freundlichkeit strömen Herr von dir
+Du lässt uns deine liebe spürn.</lines>
+    </verse>
+  </lyrics>
+</song>

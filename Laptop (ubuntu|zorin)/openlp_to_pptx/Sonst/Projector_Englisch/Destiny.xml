@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Destiny</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deep in the mystr'y of eternity past
+God planned out of my life's design
+A journey of hope a lifetime of faith
+To believe in the bound'ry of time
+He knew my name, he knew my heart
+He even know my sin
+And gave me a will to choose
+And desire that I choose him</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I choose his will it is my destiny
+God's perfect plan
+He knows what's best for me
+And when my life is over
+I looked over my shoulder
+The only thing I want to see
+Is that I lived out my destiny</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Life changing choices are a part of the journey
+God created me to take
+So many paths yet still I know
+There is only one right choice to make
+To live in the center of God's will
+And surrender my own plans
+Seeing my purpose fulfilled
+As I trust His guiding hand</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The only thing I want to see
+Is that I lived out my destiny</lines>
+    </verse>
+  </lyrics>
+</song>

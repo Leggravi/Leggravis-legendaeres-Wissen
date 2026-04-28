@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We give You glory</title>
+    </titles>
+    <authors>
+      <author type="words">Eva-Lena Hellmark</author>
+      <author type="music">Eva-Lena Hellmark</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We're here to bless Your name,
+Gathered as a family
+To praise You and proclaim,
+Your faithfulness and mercy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We give You glory,
+We give You honor
+We give You everything we are
+Lifting our hearts and hands
+before You (Lord).</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We're here to seek Your face,
+To gather in Your presence,
+To celebrate Your grace,
+To praise You for Your blessing.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There is no other reason
+why we came
+than to glorify Your name,
+For You are worthy to be praised.
+Now we offer up our lives
+As a living sacrifice
+Holy, acceptable to You.</lines>
+    </verse>
+  </lyrics>
+</song>

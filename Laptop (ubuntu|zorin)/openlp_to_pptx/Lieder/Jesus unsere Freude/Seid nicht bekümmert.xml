@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:18">
+  <properties>
+    <titles>
+      <title>Seid nicht bekümmert</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="words">Kommunität Gnadenthal (1985)</author>
+      <author type="music">Kommunität Gnadenthal</author>
+    </authors>
+    <themes>
+      <theme>Vertrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, der auferstandene Herr,
+Ist in eurer Mitte.
+Jesus, der auferstandene Herr,
+Er ist unter euch.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, der auferstandene Herr,
+Führt euch seine Wege.
+Jesus, der auferstandene Herr,
+Geht euch stets voran.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, der auferstandene Herr,
+Sendet seine Engel.
+Jesus, der auferstandene Herr,
+Kämpft und siegt in euch.</lines>
+    </verse>
+  </lyrics>
+</song>

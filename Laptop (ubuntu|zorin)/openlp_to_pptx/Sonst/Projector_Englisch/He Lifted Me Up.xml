@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Lifted Me Up</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He lifted me up
+From the miry clay,
+He planted my feet
+On the King's highway,
+And that's the reason why
+I sing and I shout
+For Jesus came down, down, down
+And He lifted me up, up, up.</lines>
+    </verse>
+  </lyrics>
+</song>

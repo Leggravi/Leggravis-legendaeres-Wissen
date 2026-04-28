@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh, Be Ready!</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the Bridegroom cometh by and by,
+When the Bridegroom cometh by and by,
+Will your lamps be burning bright,
+Will your robes be pure and white,
+When the Bridegroom cometh by and by?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, be ready! Oh, be ready!
+Ready when the Bridegroom comes;
+Oh, be ready! Oh, be ready!
+Ready when the Bridegroom comes.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the Bridegroom cometh by and by,
+When the Bridegroom cometh by and by,
+Oh be ready for that day,
+With your sins all washed away,
+When the Bridegroom cometh by and by.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When the Bridegroom cometh by and by,
+When the Bridegroom cometh by and by,
+Will your wearied heart rejoice
+At the sound of Jesus’ voice,
+When the Bridegroom cometh by and by?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When the Bridegroom cometh by and by,
+When the Bridegroom cometh by and by,
+Will the sorrows of the past
+All be changed to joy at last
+When the Bridegroom cometh by and by?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>When the Bridegroom cometh by and by,
+When the Bridegroom cometh by and by,
+When the Lord shall call His own,
+Can you stand before the throne,
+When the Bridegroom cometh by and by?</lines>
+    </verse>
+    <verse name="v7">
+      <lines>When the Bridegroom cometh by and by,
+When the Bridegroom cometh by and by,
+Will you join the ransomed host,
+Or be found among the lost,
+When the Bridegroom cometh by and by?</lines>
+    </verse>
+  </lyrics>
+</song>

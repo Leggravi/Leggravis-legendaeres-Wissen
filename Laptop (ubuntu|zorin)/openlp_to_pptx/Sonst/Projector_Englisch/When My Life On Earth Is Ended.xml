@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When My Life On Earth Is Ended</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When my life on earth is
+ended
+And I cross the rolling tides
+And the beauty of the
+glory land I see
+Many saints, friends and loved ones
+Will be waiting over there
+But I long to see the one
+who died for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh Just think about the glory
+Of the land beyond the sky
+Oh just think about the beauty
+We shall see by and by
+Many things on earth we value
+Will be common over there
+But I long to see the one
+who died for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Even though I may have
+suffered
+Many things on earth below
+If I have kept the faith
+and lived in victory
+My reward will there be waiting
+When I enter heavens gates
+And the shining face of Jesus
+I shall see.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In Frieden leg ich mich nieder</title>
+    </titles>
+    <authors>
+      <author type="words">Carsten Groß</author>
+      <author type="music">Carsten Groß</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In Frieden leg ich mich nieder,
+komm bei dir, mein Gott zur Ruh.
+Denn jeden Abend deckt du mich wieder
+mit deiner Liebe zu, mit deiner Liebe zu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>|: Du, Herr, allein, du, Herr allein,
+du, Herr, allein lässt mich sorglos ruhen. : |</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In Frieden leg ich mich nieder,
+leg den Tag in deine Hand.
+Auch heute danke ich dir wieder,
+dass ich Hilfe bei dir fand, dass ich Hilfe bei dir fand.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In Frieden leg ich mich nieder,
+denn ich weiß dass du mich liebst.
+Ich öffne dir mein Herz heut wieder,
+danke dir, dass du vergibst, danke dir dass du vergibst.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In Frieden leg ich mich nieder,
+und in Frieden schlaf ich ein.
+Denn jede Nacht spür ich es wieder,
+Herr, du lässt mich nicht allein, Herr du lässt mich nicht allein.</lines>
+    </verse>
+  </lyrics>
+</song>

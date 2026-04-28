@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Kingdom</title>
+    </titles>
+    <authors>
+      <author type="words">Geoff Bullock</author>
+      <author type="music">Geoff Bullock</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus,
+God’s righteousness reveal
+The Son of God
+The Son of Man
+His Kingdom come</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus,
+Redemption’s sacrifice
+Now glorified
+Now justified
+His Kingdom come</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And this Kingdom will know no end
+And His glory shall know no bound
+For the majesty and power of This Kingdom
+King has come</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And this Kingdom reign,
+And this Kingdom rule,
+And this Kingdom Power and authority Jesus,
+God’s righteousness revealed</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus,
+The expression of God’s Love
+The grace of God
+The Word of God
+Revealed to us</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesus,
+God’s Holiness displayed
+Now Glorified
+Now Justified
+His Kingdom comes</lines>
+    </verse>
+  </lyrics>
+</song>

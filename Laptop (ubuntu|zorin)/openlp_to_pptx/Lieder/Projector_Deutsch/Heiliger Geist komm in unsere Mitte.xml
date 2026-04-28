@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heiliger Geist, komm in unsere Mitte</title>
+    </titles>
+    <authors>
+      <author type="words">Theo Degler</author>
+      <author type="music">Theo Degler</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heiliger Geist, komm in unsre Mitte, Du bist unsre Kraft, Tröster und Beistand für uns!
+Heilger Geist, komm in unsere Mitte, Herr der Herrlichkeit, wir danken Dir für Deine Kraft.
+Schenk uns Deine Kraft o Herr, Ja, Dein Name soll erhoben sein!
+„Fürchte dich nicht“ hat er zu mir gesagt, „denn ich bleibe allezeit bei euch!“!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord Help Me To Hold Out</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: Lord, help me to hold out :/ 3x
+Until my change has come</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My way may not be easy
+You did not say that it would be
+But when it gets dark
+Can't see my way
+Told me to put my trust (3X's) in Thee</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hold out
+When my way gets weary I can
+Hold out
+Until my change comes</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hold out
+Hold out, don't give up
+Help is on the way</lines>
+    </verse>
+  </lyrics>
+</song>

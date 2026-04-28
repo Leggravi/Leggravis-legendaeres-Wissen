@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Surely the Presence</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Surely the presence of the Lord
+ is in this place
+I can feel His mighty power
+ and His grace
+I can hear the brush of angels' wings
+I see glory on each face
+Surely the presence of the Lord
+is in this place.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the presence of Jehovah,
+God almighty, Prince of Peace
+Troubles vanish, hearts are mended,
+In the presence of the King</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We bring praises to You Lord,
+Lifting holy hands
+We worship and adore;
+Sinners saved by grace,
+We bow before Your face
+Offering nothing
+But praises, to You Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Only You Lord, only You
+Only You Lord, only You
+You're the fountain i run to
+Only You Lord, only You.</lines>
+    </verse>
+  </lyrics>
+</song>

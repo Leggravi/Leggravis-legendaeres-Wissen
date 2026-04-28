@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Down From His Glory</title>
+    </titles>
+    <authors>
+      <author type="words">William E. Booth-Clibborn</author>
+      <author type="music">William E. Booth-Clibborn</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Down from His glory, ever living story,
+My God and Saviour came, and Jesus was His Name.
+Born in a manger, to His own a stranger,
+A Man of sorrows, tears and agony.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh how I love Him! How I adore Him!
+My breath, my sunshine, my all in all!
+The great Creator became my Saviour,
+And all God’s fullness dwelleth in Him.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What condescension, bringing us redemption;
+That in the dead of night, not one faint hope in sight;
+God, gracious, tender, laid aside His splender,
+Stooping to woo, to win, to save my soul.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Without reluctance, flesh and blood His substance,
+He took the form of man, revealed the hidden plan.
+O glorious mystery, Sacrifice of Calvary,
+And now I know Thou wert the great “I AM. ’</lines>
+    </verse>
+  </lyrics>
+</song>

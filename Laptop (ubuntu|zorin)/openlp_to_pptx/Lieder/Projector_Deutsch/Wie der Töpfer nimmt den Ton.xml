@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wie der Töpfer nimmt den Ton</title>
+    </titles>
+    <authors>
+      <author type="words">Hans-Jürgen Zimmermann</author>
+      <author type="music">Hans-Jürgen Zimmermann</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wie der Töpfer nimmt den Ton,
+nimm auch mich in deine Hand
+und gestalte und forme mich.
+Runde Kanten, glätte Ecken,
+drück den Ebenbild hinein,
+dass man auch erkenne dich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lass mich immer stille halten,
+bis du fertig bist mit mir
+und dein Bild Gestalt annimmt.
+Ob durch Freude oder Leid,
+alle Dinge stehn bei dir.
+Nur vollende dein Werk in mir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Die Gefäße bringen Ehre
+dem der sie bereitet hat.
+Lass auch mich so eines sein,
+das dir nützt in allen Dingen,
+brauchbar ist zu jeder Zeit,
+von dem man weiß, es ist dein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lass mich rein und heilig sein,
+dass du wohnen kannst in mir.
+Denn nur dann kann ich dir dienen,
+wenn ich selber werde klein
+und du wirst in mir ganz groß.
+Aller Ruhm soll dir gelten.</lines>
+    </verse>
+  </lyrics>
+</song>

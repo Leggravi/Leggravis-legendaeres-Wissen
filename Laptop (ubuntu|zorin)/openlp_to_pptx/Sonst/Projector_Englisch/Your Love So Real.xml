@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Your Love So Real</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here I am, feeling sorry for myself
+Why did I do it
+I knew that it was wrong,
+There you are, telling me that I could be forgiven one more time,
+For all these years, all I've done,
+Has caused you sorrow and disgrace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But your love's so real
+Each time I fail you always there
+To pick me up again
+You make me feel so special
+Yes, your love's so real
+And its the only reason I could stand,
+The test of time
+And it's so real to me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'ts hard to believed
+You died for me
+Seems like a fantasy
+But in moment like these
+You made your promises
+Come alive to me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yes, your love's so real
+Each time I fail you always there
+To pick me up again
+You make me feel so special
+Yes, your love's so real
+And its the only reason I could stand
+The test of time
+And it's so real to me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Now I know that your grace is all I need,
+So that I can live a life that pleases you
+Now you're here
+Loving inspite of all my inabilities
+You made it plain that I'm a part of You
+And You're a part of me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>But (YES) your love's so real
+Each time I fail you always there
+To pick me up again
+You make me feel so special
+Yes, your love's so real
+And its the only reason I could stand
+The test of time
+And it's so real to me.</lines>
+    </verse>
+  </lyrics>
+</song>

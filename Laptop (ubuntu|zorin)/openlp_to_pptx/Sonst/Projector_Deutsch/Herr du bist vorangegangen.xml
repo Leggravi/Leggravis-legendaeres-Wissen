@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, du bist vorangegangen</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Christoph Anton</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, Du bist vorangegangen,
+Unsre Stätte ist bereit,
+Kommst zurück, uns zu empfangen,
+Und zu enden alles Leid.
+Eh' noch die Gerichte toben,
+Werden wir zu Dir erhoben,
+Eh' der Tag des Zorns erscheint,
+Hast Du uns mit Dir vereint.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Stärk uns jetzt auf Deinem Pfade,
+Dass wir treu Dir folgen nach,
+Nicht versäumen Deine Gnade;
+Halt uns nüchtern, halt uns wach!
+Bis zu jenem neuen Morgen,
+Wo die Güter, jetzt verborgen,
+Unsre Herzen stets erfreun,
+Und wir ew'ges Lob Dir weihn.</lines>
+    </verse>
+  </lyrics>
+</song>

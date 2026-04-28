@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Freedom Hymn (I push, I pull, go back...) </title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v2 v3 v4 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I push, I pull, go back 
+and forth finding myself
+pounding on a locked door
+I try to make it out
+alone without your help, 
+But I know I'll never win this war</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I can never be, never be,
+free without you
+I can never be, never be, 
+me without you!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This is the sound of 
+chains breaking,
+This is the beat of
+a heart changing,
+This is a song of
+a soul forgiven</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This is my freedom hymn,
+This is my freedom hymn,
+My freedom hymn</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I breathe the air of
+freedom in knowing my life,
+Is better off in Your hands
+The past is gone,
+What's done is done
+Now I'm alive
+And I'm never gonna look back.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Who the Son sets (free)
+Is free indeed
+Who the Son sets
+Is free indeed
+Who the Son sets
+Is free, I'm free</lines>
+    </verse>
+  </lyrics>
+</song>

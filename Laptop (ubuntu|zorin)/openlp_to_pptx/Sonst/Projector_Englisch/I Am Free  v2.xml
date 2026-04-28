@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Am Free – v2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Through you the blind will see
+Through you the mute will sing
+Through you the dead will rise
+Through you all hearts will praise
+Through you the darkness flees
+Through you my heart screams
+I am free, Yes, I am free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am free to run
+(I am free to run)
+I am free to dance
+(I am free to dance)
+I am free to live for you
+(I am free to live for you)
+I am free, (I am free)
+Yes I am free, (I am free)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Through you the kingdom comes
+Through you the battle's won
+Through you I'm not afraid
+Through you the price is paid
+Through you there's victory
+Because of you my heart sings,
+I am free, Yes, I am free.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Who the son sets free-is free indeed
+(Who the son sets free)
+Who the son sets free-is free indeed
+(Who the son sets free)</lines>
+    </verse>
+  </lyrics>
+</song>

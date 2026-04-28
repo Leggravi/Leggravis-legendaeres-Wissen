@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:42">
+  <properties>
+    <titles>
+      <title>Beleb dein Werk, o Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Ernst Heinrich Gebhardt (1880)</author>
+      <author type="music">James McGranahan</author>
+    </authors>
+    <ccliNo>5208012</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Beleb Dein Werk, o Herr,
+zeig Deinen starken Arm,
+weck durch Dein Wort die Toten auf,
+der Deinen Herz mach warm.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beleb Dein Werk, o Herr,
+vertreib den Schlaf geschwind,
+den glimmend Docht fach an zur Flamm
+durch Deines Geistes Wind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Beleb Dein Werk, o Herr,
+was krank ist, mache wohl,
+den Durst und Hunger still mit Dir,
+mach uns des Geistes voll.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Beleb dein Werk, o Herr,
+dein Heil werd offenbar,
+dass bald die ganze Welt dich kennt
+und dir sich weiht fürwahr!</lines>
+    </verse>
+  </lyrics>
+</song>

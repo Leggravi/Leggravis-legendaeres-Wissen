@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When the Saints March In</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’m a pilgrim and a stranger
+Wand’ring through this world of sin,
+On my way to that fair city,
+When the Saints go marching in.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When the saints go marching in,
+When the saints go marching in,
+Lord, I want to be in that number
+When the saints go marching in.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, I know I’ll see my Saviour
+If my life is free from sin,
+Heaven’s doors will open for me
+When the Saints go marching in.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When we gather ‘round the Throne
+And the gates are closed within,
+I’ll be shouting “Glory, Glory”
+When the Saints go marching in.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I’m waiting for the chariot
+To swing low and I’ll step in,
+On the clouds I’ll ride to Heaven
+When the Saints go marching in.</lines>
+    </verse>
+  </lyrics>
+</song>

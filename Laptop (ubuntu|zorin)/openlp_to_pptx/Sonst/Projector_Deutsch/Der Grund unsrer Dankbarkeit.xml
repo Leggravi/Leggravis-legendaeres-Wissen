@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Der Grund unsrer Dankbarkeit</title>
+    </titles>
+    <authors>
+      <author type="words">Klaus Heizmann</author>
+      <author type="music">Henry Smith</author>
+      <author type="translation">Give thanks with a grateful heart</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Der Grund unsrer Dankbarkeit,
+das Glück der Geborgenheit,
+das Maß unsrer Freude liegt in dir, o Gott.
+Die Macht, die das Weltall lenkt,
+die Kraft, die das Beten schenkt,
+die Weisheit, die wir brauchen, liegt in dir, o Gott.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dein Sohn hat der Welt das Heil gebracht,
+schenkte Licht in dunkler Nacht,
+gab unserm Leben einen Sinn und ein Ziel.
+Dein Ziel. Hab Dank.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Die Macht, die das Dunkel bricht,
+der Grund unsrer Zuversicht,
+der Trost in schweren Stunden liegt in dir, o Gott.
+Die Kraft, die uns stützen kann,
+das Ziel unsrer Lebensbahn,
+der Mut für das Morgen liegt in dir, o Gott.</lines>
+    </verse>
+  </lyrics>
+</song>

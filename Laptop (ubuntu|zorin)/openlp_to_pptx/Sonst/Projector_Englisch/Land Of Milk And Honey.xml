@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Land Of Milk And Honey</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a land of milk and honey
+There is a land
+Where we won't need money.
+There is a land
+Shining with jasper.
+There we shall see
+Our blessed Saviour.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And that's the reason
+We shout &quot;Hallelujah&quot;
+Praising our King across the river.
+That shining river
+Where the saints will gather
+There we shall see
+Our blessed Messiah.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elijah has come,
+He has done his work already
+As John has said,
+The Bride has made ready.
+And now we are waiting
+For the coming of Jesus.
+For that blessed day
+When the Lamb shall take us.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Our hopes are bright,
+Our lamps are burning.
+And day by day
+Our hearts are yearning.
+This is the evening
+He will come in the morning.
+Then we shall wait
+Until the dawning.</lines>
+    </verse>
+  </lyrics>
+</song>

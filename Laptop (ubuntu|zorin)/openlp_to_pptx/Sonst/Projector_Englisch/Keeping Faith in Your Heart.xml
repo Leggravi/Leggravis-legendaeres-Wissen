@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Keeping Faith in Your Heart</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, dear friend in sin,
+O, when it's lost and dying,
+Every Christian has it's burden down with Care
+Tell me how you're doing all you can for Jesus
+Are you traveling up to offer the Lord your prayer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Keeping faith in your heart and concentrate it.
+Every hour, everyday do you prepare
+Are you ready should your master call you at midnight
+How're you traveling up to offer the Lord your prayer</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Are you praying for those who know not Jesus
+After they be led through the tempest snares
+Could you stand beside and see a losing battle
+How're you traveling up to offer the Lord your prayer</lines>
+    </verse>
+  </lyrics>
+</song>

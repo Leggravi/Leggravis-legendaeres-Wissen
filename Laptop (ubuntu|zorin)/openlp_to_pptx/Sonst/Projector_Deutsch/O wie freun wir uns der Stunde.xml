@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O wie freu'n wir uns der Stunde</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Spitta</author>
+      <author type="music">Halle</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, wie freun wir uns der Stunde,
+da wir dir, Herr Jesus, nahn,
+um aus deinem heil'gen Munde
+Lebensworte zu empfahn!
+Lass uns heute nicht vergebens
+Hörer deines Wortes sein!
+Schreibe selbst das Wort des Lebens
+tief in unsre Herzen ein!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sieh, wir sitzen Dir zu Füßen,
+Herr und Heiland, rede Du!
+Lass uns Deiner süßen Rede
+hören heilsbegierig zu!
+Lehr uns, Deine Jünger werden!
+Lehr uns, wie wir unsre Zeit,
+diese kurze Zeit auf Erden,
+nützen für die Ewigkeit!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr, so leg in Deiner Liebe
+Kraft und Segen auf Dein Wort!
+Lass es mit des Geistes Triebe
+in uns wirken fort und fort!
+Hilf uns, dass wir treu bewahren,
+was wir in das Herz gefasst,
+und lass viele noch erfahren,
+dass Du Lebensworte hast!</lines>
+    </verse>
+  </lyrics>
+</song>

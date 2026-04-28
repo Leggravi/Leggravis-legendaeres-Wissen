@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Es ist Jesus, König Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Glaubenszentrum Bad Gandersheim</author>
+      <author type="music">Gary Roberts</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es ist Jesus, König Jesus!
+Gebt Ihm Herrlichkeit, Ehre und Stärke, König Jesus.
+Zu Seiner Majestät hebt heil’ge Hände auf!
+Herr, wir preisen und lieben und ehren Dich, halleluja !
+(R) Halleluja. Halleluja...</lines>
+    </verse>
+  </lyrics>
+</song>

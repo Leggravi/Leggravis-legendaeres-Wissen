@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Brother Look Up</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Brothers look up
+Lift up your head
+Your redemption is just ahead
+Get ready for that grand reunion
+Like He said,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sisters look up
+Lift up your head
+Don't be looking at fear
+and dread</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Brother look up lift up your hand</lines>
+    </verse>
+  </lyrics>
+</song>

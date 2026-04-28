@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Can I Pray For You?</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've been your friend for a while
+I know you're hiding behind that smile.
+And you're keeping inside tears
+That should have been cried.
+You've been brave through this trial.
+You've been as strong as a stone
+Against the stormy winds that have blown.
+But you have friends who care,
+More than willing to share.
+Don't face those troubles alone.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Can I pray for you?
+Can I mention your name to the Lord?
+When I seek His face, can I plead your case?
+That's what praying is for.
+I'll help you carry your cross
+And find the way when you're lost.
+If we'll let Jesus be true,
+I know that He'll see you through.
+Can I pray for you?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know that there'll come a day
+When I have trials and need you to pray.
+Just like you've done before.
+You'll mention me to the Lord
+That's why I'm here to say,
+Let me be there for you,
+We'll divide all your problems by two</lines>
+    </verse>
+  </lyrics>
+</song>

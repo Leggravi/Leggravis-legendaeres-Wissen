@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:44">
+  <properties>
+    <titles>
+      <title>Christ ist erstanden von der Marter alle</title>
+    </titles>
+    <authors>
+      <author type="words">Österreich</author>
+      <author type="music">Passau</author>
+    </authors>
+    <ccliNo>5685202</ccliNo>
+    <themes>
+      <theme>Ostern</theme>
+      <theme>Auferstehung</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christ ist erstanden
+von der Marter alle.
+Des solln wir alle froh sein,
+Christ will unser Trost sein.
+Kyrieleis.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wär er nicht erstanden,
+so wär die Welt vergangen.
+Seit dass er erstanden ist,
+so lobn wir den Vater Jesu Christ'.
+Kyrieleis.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Halleluja, Halleluja, Halleluja!
+Des solln wir alle froh sein,
+Christ will unser Trost sein.
+Kyrieleis.</lines>
+    </verse>
+  </lyrics>
+</song>

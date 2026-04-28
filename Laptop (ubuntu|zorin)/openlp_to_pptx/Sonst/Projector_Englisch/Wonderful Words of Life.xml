@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wonderful Words of Life</title>
+    </titles>
+    <authors>
+      <author type="words">Philip Paul Bliss</author>
+      <author type="music">Philip Paul Bliss</author>
+      <author type="translation">Schalle wieder im höhern Chor</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing them over again to me,
+Wonderful words of life;
+Let me more of their beauty see,
+Wonderful words of life;
+Words of life and beauty
+Teach me faith and duty.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beautiful words, wonderful words,
+Wonderful words of life;
+Beautiful words, wonderful words,
+Wonderful words of life.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Christ, the blessed one, gives to all
+Wonderful words of life;
+Sinner, list to the loving call,
+Wonderful words of life;
+All so freely given,
+Wooing us to heaven.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sweetly echo the gospel call,
+Wonderful words of life;
+Offer pardon and peace to all,
+Wonderful words of life;
+Jesus, only Savior,
+Sanctify forever.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, das Licht deiner Liebe leuchtet auf</title>
+    </titles>
+    <authors>
+      <author type="words">Manfred Schmidt</author>
+      <author type="music">Graham Kendrick</author>
+      <author type="translation">Shine, Jesus, shine (Lord the light of Your love)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr das Licht deiner Liebe leuchtet auf,
+strahlt in mittener Finsternis für uns auf.
+Jesus du Licht der Welt, sende uns dein Licht!
+Mach uns frei durch die Wahrheit, die jetzt anbricht!
+Sei mein Licht, sei mein Licht!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, dein Licht füll dies Land mit des Vaters Ehre!
+Komm, Heil'ger Geist, setz die Herzen in Brand!
+Fließ Gnadenstrom, überflute dies Land mit Liebe,
+sende dein Wort, Herr, dein Licht strahle auf!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr, voll Ehrfurcht komm’ ich zu deinem Thron,
+aus dem Dunkel ins Licht des Gottessohns.
+Durch dein Blut kann ich nun vor dir stehen.
+Prüf’ mich, Herr, lass mein Dunkel vergehen,
+sei mein Licht, sei mein Licht!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Schaun wir, König, zu deinem Glanze auf,
+dann strahlt dein Bild auf unserm Antlitz auf,
+du hast Gnade um Gnade gegeben,
+dich widerspiegelnd erzähl’ unser Leben
+von deinem Licht, von deinem Licht!</lines>
+    </verse>
+  </lyrics>
+</song>

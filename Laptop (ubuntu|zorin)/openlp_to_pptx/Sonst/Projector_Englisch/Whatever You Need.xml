@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Whatever You Need</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: Whatever you need god's got it,
+Whatever you need god's got it,
+Whatever you need god's got it,
+he's got it, and he's waiting to give it to you. :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If you need more joy, god's got it,
+if you need more joy, god's got it,
+if you need more joy, god's got it,
+he's got it, and he's waiting to give it to you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>if you need more peace, God's got it,
+if you need more peace, God's got it,
+if you need more peace, God's got it,
+He's got it, and He's waiting to give it to you.</lines>
+    </verse>
+  </lyrics>
+</song>

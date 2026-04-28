@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Tell Me His Name Again</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>They tell me of love's sweet old story.
+They tell me of a wonderful name.
+It thrills my soul with its glory.
+It burns in my heart like a flame.
+They say He's the one that so loved me,
+That in Heaven He could not remain;
+He came down to seek and to save me.
+Oh, tell me His name again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, tell me His name again
+And sing me the sweet refrain
+Of Him who in love, came down from above
+To die on the cross in shame.
+This story my heart has been stirred,
+The sweetest I've ever heard,
+It banishes fear; it brings hope and cheer,
+Oh, tell me His name again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>They say He was born in a manger,
+That there was no room in the inn;
+And in His own world was a stranger,
+But loved us in spite of our sins;
+They said that His path led to Calvary,
+And one day He died there in shame.
+He gave His great life a ransom.
+Oh, tell me His name again.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>They call Him the sweet Rose of Sharon.
+They call Him the lily so fair.
+They call Him the great rock of ages.
+They call Him the bright morning star.
+He's a prophet, a priest, and redeemer,
+The king of all kings He now reigns.
+He's coming in power and glory.
+Oh, tell me His name again.</lines>
+    </verse>
+  </lyrics>
+</song>

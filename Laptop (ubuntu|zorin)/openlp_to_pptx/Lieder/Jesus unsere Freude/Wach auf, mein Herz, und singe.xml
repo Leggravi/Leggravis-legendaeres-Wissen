@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:57">
+  <properties>
+    <titles>
+      <title>Wach auf, mein Herz, und singe</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Gerhardt (1647)</author>
+      <author type="music">Nun lasst uns Gott dem Herren Dank sagen</author>
+    </authors>
+    <ccliNo>5209365</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wach auf, mein Herz, und singe
+dem Schöpfer aller Dinge,
+dem Geber aller Güter,
+dem frommen Menschenhüter.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Heut, als die dunklen Schatten
+mich ganz umgeben hatten,
+hat Satan mein begehret;
+Gott aber hat's gewehret.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du sprachst: Mein Kind, nun liege;
+trotz' dem, der dich betrüge;
+schlaf wohl, lass dir nicht grauen,
+du sollst die Sonne schauen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dein Wort, das ist geschehen:
+Ich kann das Licht noch sehen,
+von Not bin ich befreiet,
+dein Schutz hat mich erneuet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Du willst ein Opfer haben,
+hier bring ich meine Gaben:
+mein Weihrauch und mein Widder
+sind mein Gebet und Lieder.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Die wirst du nicht verschmähen,
+du kannst ins Herze sehen,
+denn du weißt, dass zur Gabe
+ich ja nichts Bessres habe.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>So wollst du nun vollenden
+dein Werk an mir und senden,
+der mich an diesem Tage
+auf seinen Händen trage.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Sprich Ja zu meinen Taten,
+hilf selbst das Beste raten;
+den Anfang, Mitt und Ende,
+ach Herr, zum Besten wende.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Mich segne, mich behüte,
+mein Herz sei deine Hütte,
+dein Wort sei meine Speise,
+bis ich gen Himmel reise.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du siegend Haupt, dort in der Herrlichkeit</title>
+    </titles>
+    <authors>
+      <author type="words">Karl August Döring</author>
+      <author type="music">Melchior Franck</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du siegend Haupt, dort in der Herrlichkeit,
+mit Ehr und Ruhm gekrönt!
+Du schaust herab, erblickst uns hier im Streit,
+siehst, wie die Welt uns höhnt.
+Doch kämpfen wir hienieden,
+Dein Arm stärkt uns im Streit,
+wir ruhn in Deinem Frieden,
+von Sünd' und Tod befreit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zieh uns hinauf, der Du die Stätte dort
+für uns bereit gemacht!
+Wir schaun empor zu jenem sel'gen Ort,
+wohin wir bald gebracht.
+Wir werden nie verderben,
+weil wir Geliebte sind.
+Wir werden mit Dir erben,
+wenn wir vollendet sind.</lines>
+    </verse>
+  </lyrics>
+</song>

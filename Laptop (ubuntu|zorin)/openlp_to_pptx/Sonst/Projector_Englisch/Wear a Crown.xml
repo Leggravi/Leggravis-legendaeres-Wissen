@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wear a Crown</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Am I a soldier of the cross,
+A follower of the Lamb,
+And shall I fear to won His cause,
+Or blush to speak His Name?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And when the battle’s over, we shall wear a crown!
+Yes, we shall wear a crown!
+Yes, we shall wear a crown!
+In the new Jerusalem.
+Wear a crown, wear a crown.
+Wear a bright and shining crown.
+And when the battle’s over, we shall wear a crown
+In the new Jerusalem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Must I be carried to the skies
+On flow’ry beds of ease,
+While others fought to win the prize,
+And sailed through bloody seas?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Are there no foes for me to face?
+Must I not stem the flood?
+Is this vile world a friend to grace
+To help me on to God?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sure I must fight if I would reign,
+Increase my courage, Lord;
+I’ll bear the toil, endure the pain,
+Supported by Thy Word.</lines>
+    </verse>
+  </lyrics>
+</song>

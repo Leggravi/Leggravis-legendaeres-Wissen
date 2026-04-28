@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Messiah</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Carson</author>
+      <author type="music">Daniel Carson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He became sin, who knew no sin
+That we might become His righteousness
+He humbled himself and carried the cross
+Love so amazing, love so amazing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus Messiah, name above all names
+Blessed redeemer, Emmanuel
+The rescue for sinners, the ransom from Heaven
+Jesus Messiah, Lord of all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His body the bread, his blood the wine
+Broken and poured out all for love
+The whole earth trembled, and the veil was torn
+Love so amazing, love so amazing, yeah</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All our hope is in You, all our hope is in You
+All the glory to You, God, the light of the world</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus Messiah, Lord of all
+You're the Lord of all
+The Lord of all</lines>
+    </verse>
+  </lyrics>
+</song>

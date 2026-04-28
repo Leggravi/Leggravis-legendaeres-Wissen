@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:44">
+  <properties>
+    <titles>
+      <title>Leuchtend strahlt des Vaters Gnade (Lasst die Küstenfeuer brennen)</title>
+    </titles>
+    <authors>
+      <author type="words">Anna Thekla von Weling (1900)</author>
+      <author type="music">Philip Paul Bliss</author>
+    </authors>
+    <ccliNo>5356847</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Leuchtend strahlt des Vaters Gnade aus dem ober'n Heimatland,
+doch uns hat er anvertrauet Rettungslichter längs dem Strand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unser Weg war fern vom Lichte, unser Herz in Schuld und Qual,
+doch aus Jesu Angesichte leuchtete der Liebe Strahl.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dunkel ist die Nacht der Sünde, schaurig klingt der Wogen Lied,
+manches Auge sucht voll Sehnsucht, ob's am Strande Lichter sieht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus hat uns ausgesendet, wie der Vater ihn gesandt.
+Dass die Liebe Gottes strahle, da wo man ihn nicht gekannt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lass dein Licht doch nicht verlöschen, sonst vielleicht zu dieser Stund,
+weil es nicht den Hafen findet, sinkt ein Schifflein auf den Grund.</lines>
+    </verse>
+  </lyrics>
+</song>

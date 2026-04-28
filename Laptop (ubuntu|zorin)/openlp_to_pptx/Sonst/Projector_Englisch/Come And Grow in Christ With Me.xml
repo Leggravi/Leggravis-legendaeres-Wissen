@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come And Grow in Christ With Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There you are, the one I longed
+And prayed for all my life
+There you are,
+My dream come true and friend, a Godly wife
+I could go on and serve Him on my own,
+Worship Him alone,
+But here's my desire…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come and grow in Christ with me
+Together He will shine through us
+For all the world to see
+Hand in hand through eternity
+Come and grow in Christ with me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Here I am with a love for you and God that ever flows
+Here I am submitting to the plan that He has chose
+It's my desire to see his works done
+But two are better than one
+We'll serve him together</lines>
+    </verse>
+  </lyrics>
+</song>

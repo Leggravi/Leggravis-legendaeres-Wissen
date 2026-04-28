@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Feb 7, 2021, 8:29:24 PM">
+  <properties>
+    <titles>
+      <title>I surrender all</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2 V5 C2 V6 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>All to Jesus I surrender,
+All to Him I freely give;
+I will ever love and trust Him,
+In His presence daily live.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>I surrender all,
+I surrender all;
+All to Thee, my blessed Savior,
+I surrender all.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>All to Jesus I surrender,
+Humbly at His feet I bow;
+Worldly pleasures all forsaken,
+Take me, Jesus, take me now.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>All to Jesus I surrender,
+Make me, Savior, wholly Thine;
+Let me feel the Holy Spirit,
+Truly know that Thou art mine.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>All to Jesus I surrender,
+Lord, I give myself to Thee;
+Fill me with Thy love and power,
+Let Thy blessing fall on me.</lines>
+    </verse>
+    <verse name="V6">
+      <lines>All to Jesus I surrender,
+Now I feel the sacred flame;
+Oh, the joy of full salvation!
+Glory, glory, to His Name!</lines>
+    </verse>
+  </lyrics>
+</song>

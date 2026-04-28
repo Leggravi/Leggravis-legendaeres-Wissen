@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Are Heirs</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are heirs of the Father
+We are joint-heirs with the Son.
+We are people of His Kingdom
+We are family, we are one.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are washed,
+We are sanctified.
+We are cleansed by His blood.
+We are born of the Spirit
+We are children of the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We are members of His body.
+We are objects of His love.
+We're partakers of His holiness
+We are citizens of heaven above.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We're partakers of His suffering;
+We're partakers of His grace.
+We shall meet Him to be like Him
+We shall see Him face to face.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We are longing for His coming
+We are looking to the skies;
+We are watching, we are waiting,
+We shall dwell with Him, we shall rise.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>We shall reign with Him forever;
+Men and angels shout and sing.
+For dominion has been given
+To the family of the King.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come Lord Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Becki Cox</author>
+      <author type="music">Becki Cox</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come Lord Jesus quickly
+Even so come
+Take Your Bride away
+to mansion in the sky
+Come Lord Jesus quickly
+Even so come
+We are ready, come
+Lord Jesus, come</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gentile days will soon
+be over now
+The Gospel is going back
+To Israel soon
+All the signs of end time
+Here and far
+Confirming Jesus,
+Very soon to come</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Lord already
+Had appeared to us
+In the Pillar of Fire
+And the Pillar of Clouds
+Opening to us the Seven Seals
+Full redemption
+Now revealed to us</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Glory, Glory, Hallelujah
+Glory, Glory, Hallelujah
+Glory, Glory, Hallelujah
+We are ready,
+Come, Lord Jesus, come</lines>
+    </verse>
+  </lyrics>
+</song>

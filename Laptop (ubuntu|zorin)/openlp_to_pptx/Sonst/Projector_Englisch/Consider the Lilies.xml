@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Consider the Lilies</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Consider the lilies, they don't toil nor spin
+And there's not a king with more splendor than them
+Consider the sparrows, they don't plant nor sow
+But they're fed by the Master who watches them grow</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We have a Heavenly Father above
+With eyes full of mercy and a heart full of love
+He really cares when your head is bowed low
+Consider the lilies then you will know</lines>
+    </verse>
+    <verse name="v3">
+      <lines>May I introduce you to this friend of mine
+Who hangs out the stars and tells the sun when to shine
+He kisses the flowers each morning with dew
+But He's not too busy to care about you</lines>
+    </verse>
+  </lyrics>
+</song>

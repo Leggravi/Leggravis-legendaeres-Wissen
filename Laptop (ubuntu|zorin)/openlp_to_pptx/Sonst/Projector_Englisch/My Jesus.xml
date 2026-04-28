@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Mark Hall</author>
+      <author type="music">Mark Hall</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am blessed now cause I received your love
+I am cured now cause you healed the wounds inside
+All the fear all the tears you've put them all aside
+You've lend a hand when I broke my feet and led me to the light</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My Lord, my God my savior I thank Jesus I'm alive
+You showed me the way to find the brighter side
+My lord, my God, My Savior I thank Jesus
+I'm revived
+You died on the cross for us to have a better life</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We, We are sinners but still he died for us
+We, have salvation by his blood when he died
+The sin of soul he bought it all and saved us from the fire
+We are redeemed by your blood, the blood of Holy God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All the fears all the tears you've put them all aside
+You've lend a hand when I broke my feet and led me to the light</lines>
+    </verse>
+  </lyrics>
+</song>

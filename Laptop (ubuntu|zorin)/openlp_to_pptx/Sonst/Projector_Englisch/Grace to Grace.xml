@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Grace to Grace</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Davenport</author>
+      <author type="music">Chris Davenport</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v3 v7 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If love endured that ancient cross
+How precious is my Saviour's blood
+The beauty of heaven wrapped in my shame
+The image of love upon death's frame</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If having my heart was worth the pain
+What joy could You see beyond the grave
+If love found my soul worth dying for</lines>
+    </verse>
+    <verse name="v3">
+      <lines>How wonderful
+How glorious
+My Saviour's scars
+Victorious
+My chains are gone
+My debt is paid
+From death to life
+And grace to grace</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If heaven now owns that vacant tomb
+How great is the hope that lives in You
+The passion that tore through hell like a rose
+The promise that rolled back death and its stone</lines>
+    </verse>
+    <verse name="v5">
+      <lines>If freedom is worth the life You raised
+Where is my sin, where is my shame
+If love paid it all to have my heart</lines>
+    </verse>
+    <verse name="v6">
+      <lines>/: When I see that cross I see freedom
+When I see that grave I'll see Jesus
+And from death to life I will sing Your praise
+In the wonder of Your grace :/ x4
+How my soul will sing Your praise
+In the wonder of Your grace
+How my soul will sing Your praise</lines>
+    </verse>
+    <verse name="v7">
+      <lines>/: When I see that cross I see freedom
+When I see that grave I'll see Jesus
+And from death to life I will sing Your praise
+In the wonder of Your grace :/
+How my soul will sing Your praise
+In the wonder of Your grace
+How my soul will sing Your praise</lines>
+    </verse>
+  </lyrics>
+</song>

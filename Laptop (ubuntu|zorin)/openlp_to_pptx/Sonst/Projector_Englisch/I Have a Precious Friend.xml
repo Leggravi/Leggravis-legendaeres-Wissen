@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Have a Precious Friend</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have a friend, a precious friend,
+Oh how He loves me
+He says His love will never end
+Oh how He loves me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, how He loves me x 2
+I know not why I only cry
+Oh, how He loves me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Why He should come I cannot tell
+Oh, how He loves me,
+In my poor broken heart to dwell
+Oh, how He loves me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He died to save my soul from death,
+Oh, how He loves me,
+I will praise Him while He gives me breath
+Oh, how He loves me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He walks with me along life’s road,
+Oh, how He loves me
+He carries every heavy load,
+Oh, how He loves me.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>He has a home prepared for me,
+Oh, how He loves me,
+With Him I'll spend eternity
+Oh, how He loves me.</lines>
+    </verse>
+  </lyrics>
+</song>

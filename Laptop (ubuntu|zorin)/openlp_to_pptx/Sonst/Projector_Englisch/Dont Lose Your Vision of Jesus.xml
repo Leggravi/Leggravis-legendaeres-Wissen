@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Don’t Lose Your Vision of Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We have heard all the Thunders
+Which are sounding so clear;
+And we we’ve seen our Lord in the
+Word.
+But our lives now are telling the
+story so true;
+Have we really caught a vision of
+Him.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Don’t lose your vision of
+Jesus;
+Keep your eyes ever on Him,
+We have all come too far now
+We’re almost home
+So let’s not lose our vision of
+Him.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We’ve seen many who
+have started
+And fell by the way;
+But God’s Elected are
+making the climb
+We can’t afford to look at others
+And start following them;
+If we do we'll lose our vision of
+Him.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now the Predestinated
+are living the Word
+They are hated and rejected
+of men;
+But they have caught a
+revelation,
+It’s manifesting through them,
+And they'll not lose
+their vision of Him.</lines>
+    </verse>
+  </lyrics>
+</song>

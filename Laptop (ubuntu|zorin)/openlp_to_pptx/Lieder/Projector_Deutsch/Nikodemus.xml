@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nikodemus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Den ganzen langen Tag
+hat er die Schriften studiert,
+er sucht nach der Wahrheit.
+Er hat schon alle Möglichkeiten
+durchdiskutiert, er sehnt sich nach Klarheit.
+Erst hat er gehört, was die Leute erzähln,
+dann hat er ihn selber gesehn.
+Seitdem forscht er nach,
+weil die Fragen ihn quäl’n,
+versucht diesen Mann zu verstehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Die Nacht bricht an,
+doch in ihm drin wird es hell,
+er will es jetzt wagen. Im Schutz des Dunkels
+geht er plötzlich auffallend schnell,
+er will ihn selbst fragen.
+Und dann steht er vor ihm,
+weiß nicht was er sagt, sucht Worte,
+versucht es vergebens.
+Doch Jesus versteht ihn,
+noch ehe er fragt, beschenkt ihn
+mit Worten des Lebens.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Weil Gott die Welt so unendlich liebt,
+hat er seinen Sohn gegeben.
+Wer ihm vertraut, wird von neuem geborn
+und kann Gott als Vater erleben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Der weise alte Mann begreift
+die Antwort erst nicht,
+er will noch mehr wissen.
+„Das kann doch gar nicht sein,
+dass alte Leute wie ich
+zum Kind werden müssen,“
+„ich staune“, sagt Jesus,
+„dass du das nicht weißt:
+Dein Leben kann noch mal beginnen.
+Du wirst neu geboren durch Wasser und Geist,
+und kannst wahres Leben gewinnen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/: Weil Gott die Welt so unendlich liebt,
+hat er seinen Sohn gegeben.
+Wer ihm vertraut, wird von neuem geborn
+und kann Gott als Vater erleben. :/</lines>
+    </verse>
+  </lyrics>
+</song>

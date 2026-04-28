@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When I have no one</title>
+    </titles>
+    <authors>
+      <author type="words">Mark Niedzwiedz</author>
+      <author type="music">Mark Niedzwiedz</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've lived my life as others have done
+I've had some friends and I've had loved ones
+As the way of life goes, some have come and gone
+But here in my heart, I am not alone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>See, I have this friend, one others can't see
+He walks with me and how He loves me
+So no matter what comes, what I have to bear
+I've strength to go on for He's always there</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I have no one, I still have someone
+When I have no hope, I still have one hope
+When heartaches sets in, I still have one friend
+Who let's me know, I am not alone
+For when I have no one, I still have someone</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When sorrow still comes and pain lingers on
+God holds me close for He's that someone
+And when my spirits low, by His grace He shows
+I'm never alone when there's one who knows</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh when I have no one, I still have someone</lines>
+    </verse>
+  </lyrics>
+</song>

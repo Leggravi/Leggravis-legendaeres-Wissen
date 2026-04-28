@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Fullness</title>
+    </titles>
+    <authors>
+      <author type="words">Christopher Brown</author>
+      <author type="music">Christopher Brown</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v5 v6 v3 v5 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fullness of eternal promise
+Stirring in Your sons and daughters
+Earth revealing heaven's wonders
+Spirit come, Spirit come</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What You spoke is now unfolding
+All Your children shall behold it
+Dreams awaken in this moment
+Spirit come, Spirit come</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pour it out, let Your love run over
+Here and now, let Your glory fill this house
+Pour it out, let Your love run over
+Here and now, let Your glory fill this house</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now the world awaits Your presence
+And this power is within us
+We will rise to be Your image
+Spirit come, Spirit come</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tongues of fire, testifying of the Son
+One desire, Spirit come, Spirit come
+Speak revival, prophesy like it is done
+One desire, Spirit come, Spirit come</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Let our hearts continue burning
+For our King is soon returning
+As we hold to this assurance
+Spirit come, Spirit come
+Spirit come, Spirit come</lines>
+    </verse>
+  </lyrics>
+</song>

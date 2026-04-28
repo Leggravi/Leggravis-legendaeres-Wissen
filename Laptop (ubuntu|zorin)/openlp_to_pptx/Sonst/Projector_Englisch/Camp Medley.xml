@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Camp Medley</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'll fly away, oh glory,
+I'll fly away;
+when I'm gone
+Hallelujah by and by,
+I'll fly away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm going up, I'm going up
+I'm going up
+in the first resurrection.
+I'm going up, I'm going up
+I'm going up to meet the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We're all going up,
+We're all going up
+We're all going up
+in the first resurrection.
+We're all going up,
+We're all going up
+We're all going up,
+Oh, praise the Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There'll be coming from the East,
+There'll be coming from the West,
+There'll be coming from the North,
+There'll be coming from the South.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We're all going up,
+We're all going up
+We're all going up,
+Oh, praise the Lord.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>In that city where the Lamb is the light,
+The city where there cometh no night;
+I've a mansion over there,
+and when free from toil and care,
+I am going where the Lamb is the light.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I'm going home,
+On the road home.
+Going back to God where I belong.
+Heaven and earth will embrace,
+Glory to God! I'll see His face!
+I'm going back to God
+Where I belong.</lines>
+    </verse>
+  </lyrics>
+</song>

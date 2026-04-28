@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gott ist gut</title>
+    </titles>
+    <authors>
+      <author type="words">Gitta Leuschner</author>
+      <author type="music">Graham Kendrick</author>
+      <author type="translation">God is good</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//: Gott ist gut! Wir singen laut, ja Gott ist gut. Wir feiern ihn!
+Gott ist gut! Wir zweifeln nicht mehr.
+Gott ist gut, ja das ist wahr! ://
+Und denk ich an seine Liebe für mich, dann erfüllt mich Jubel, dann möcht ich tanzen.
+In seinem Herzen ist Raum für mich, und ich lauf voll Freude zu ihm!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Deep, Deep Very Deep</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deep, deep very deep
+Very deep in my heart
+The Love of God is very deep in my heart</lines>
+    </verse>
+  </lyrics>
+</song>

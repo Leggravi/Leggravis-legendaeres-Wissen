@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Stark, stark ist unser Gott</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stark, stark ist unser Gott,
+stärker als alles sonst!
+Stark, stark ist unser Gott,
+stärker als alles sonst!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Groß, groß ist unser Gott,
+größer als alles sonst!
+Groß, groß ist unser Gott,
+größer als alles sonst!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elohim, Adonai El Schaddai,
+Elohim, Adonai, mächtig ist Gott!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lei lei lei lei lei</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Schön schön ist unser Gott,
+schöner als alles sonst!
+Schön schön ist unser Gott,
+schöner als alles sonst!</lines>
+    </verse>
+  </lyrics>
+</song>

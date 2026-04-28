@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Break Thou The Bread Of Life</title>
+    </titles>
+    <authors>
+      <author type="words">Alexander Groves</author>
+      <author type="music">Alexander Groves</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Break Thou the bread of life,
+Dear Lord to me,
+As Thou didst break
+The loaves beside the sea;
+Beyond the sacred page,
+I seek Thee Lord;
+My spirit pants for Thee,
+Oh living Word!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bless Thou the truth, dear Lord
+To me, To me,
+As Thou didst bless
+The bread by Galilee;
+Then shall all bondage cease,
+All fetters fall,
+And I shall find my peace,
+My All in All.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Teach me to live, dear Lord,
+Only for Thee,
+As Thy disciples lived in Galilee;
+Then, all my struggles o'er,
+Then, victory won,
+I shall behold Thee, Lord,
+The living One.</lines>
+    </verse>
+  </lyrics>
+</song>

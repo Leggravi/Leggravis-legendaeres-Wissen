@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Here I am Send me</title>
+    </titles>
+    <authors>
+      <author type="words">Stuart Garrard</author>
+      <author type="music">Stuart Garrard</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v5 v6 v7 v5 v5 v8 v8 v8 v8 v5 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ev'ry knee; will bow
+Ev'ry tongue, confess
+Ev'ry heart; will cry out Your Name
+You are welcome, You're welcome</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ev'ry life, will see
+The glory of our King
+Jesus come; and reign in our hearts
+You are welcome, You're welcome</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy Spirit come; come in power
+My life is Yours, my life is Yours
+Holy Spirit come; start a fire
+My life is Yours, my life is Yours!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God of heav'n and earth
+We long for more of You
+Come and meet; with us as we pray
+You are welcome, You're welcome</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Here I am; send me
+Here I am; send me
+Here I am; send me, God!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Holy Spirit come; come in power
+My life is Yours, my life is Yours
+Holy Spirit come; start a fire
+My life is Yours, my life is Yours</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Holy Spirit come; come in power
+My life is Yours, my life is Yours
+Holy Spirit come; start a fire
+My life is Yours, my life is Yours! …</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Send me; to the nations
+Send me; to my neighbours
+Send me; with Your love!</lines>
+    </verse>
+  </lyrics>
+</song>

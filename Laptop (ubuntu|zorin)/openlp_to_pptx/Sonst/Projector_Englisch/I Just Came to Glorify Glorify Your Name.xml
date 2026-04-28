@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Just Came to Glorify, Glorify Your Name</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I just came to glorify, glorify your name
+I just came to glorify, glorify your name
+you've got the sweetest name I know
+and lift it I'll tell it where ever I go
+I came to glorify, glorify your name.</lines>
+    </verse>
+  </lyrics>
+</song>

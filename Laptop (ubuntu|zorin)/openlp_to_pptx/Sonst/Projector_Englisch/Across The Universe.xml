@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Across The Universe</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v6 v5 v6 v7 v3 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Moon and stars
+Telling us of who You are
+You light the way and move our hearts
+From across the universe</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Day and night
+The song we bring is Your delight
+You listen close to every cry
+You hang on every word</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All across the universe
+We can feel Your love on earth
+All across the universe
+Your love revealed
+Your love is real</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Infinite
+No limit to the love You give
+Pouring out and reaching in
+Pleasing like the sun
+Like the sun</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ohh, ohh</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Your love revealed
+Your love is real</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Moon and stars
+Telling us of who You are</lines>
+    </verse>
+  </lyrics>
+</song>

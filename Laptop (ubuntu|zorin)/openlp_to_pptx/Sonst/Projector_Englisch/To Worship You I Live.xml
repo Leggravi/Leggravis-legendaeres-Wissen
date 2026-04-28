@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>To Worship You I Live</title>
+    </titles>
+    <authors>
+      <author type="words">Bill Drake</author>
+      <author type="music">Bill Drake</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Away, away from the noise
+Alone with You
+Away, away to hear your voice
+And meet with You
+Nothing else matters, my one desire is</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To worship You, I live
+To worship You, I live, I live
+To worship You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Away, away, away, away from the noise
+Alone with You
+'Way, away to hear your voice
+And meet with You, meet with You
+It's been a while
+But hear my heart cry again</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nothing else matters
+Nothing else matters</lines>
+    </verse>
+  </lyrics>
+</song>

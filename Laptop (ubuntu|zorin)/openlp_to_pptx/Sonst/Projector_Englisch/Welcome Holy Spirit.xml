@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Welcome Holy Spirit</title>
+    </titles>
+    <authors>
+      <author type="words">Mark Beswick</author>
+      <author type="music">Mark Beswick</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v2 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Welcome Holy Spirit,
+We are in Your presence.
+Fill us with Your power;
+Live inside of me.
+Welcome Holy Spirit,
+We are in Your presence.
+Fill us with Your power;
+Live inside of me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You’re the living water,
+Ever flowing fountain;
+Comforter and counselor,
+Take complete control.</lines>
+    </verse>
+  </lyrics>
+</song>

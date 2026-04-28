@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Till the storm passes over</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the dark of the midnight
+I have oft hid my face
+While the storms howls above me
+And there's no hiding place
+Mid the crash of the thunder
+Precious Lord hear my cry
+Keep me safe till the storm passes by</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Till the storm passes over
+Till the thunder sounds no more
+Till the clouds roll forever from the sky
+Hold me fast let me stand in the hollow of thy hand
+Keep me safe till the storm passes by</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Many times Satan whispered
+There is no use to cry
+For there's no end of sorrow
+There's no hope by and by
+But I know thou art with me
+And tomorrow I'll rise
+Where the storms never darken the skies</lines>
+    </verse>
+  </lyrics>
+</song>

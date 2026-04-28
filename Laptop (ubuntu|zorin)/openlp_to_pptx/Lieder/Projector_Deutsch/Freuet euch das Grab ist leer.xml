@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Freuet euch, das Grab ist leer</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Schnitter</author>
+      <author type="music">Gerhard Schnitter</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Freuet euch, das Grab ist leer!
+Er ist auferstanden!
+Dem Tode ist die Macht genommen!
+Jesus ist der Herr! Jesus ist der Herr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Der Tod war bisher für alle das Ende,
+auch dann, wenn man noch die Gräber verziert.
+Doch unser Herr lebt,
+und man kann ihm begegnen,
+die ganze Welt wird von ihm regiert.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Er wurde gesehn, man hat ihn gesprochen,
+er aß mit den Jüngern Fische und Brot.
+Er hat ihnen Auftrag und Vollmacht gegeben,
+dem Petrus half er aus seiner Not.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wir brauchen nicht leeren Worten zu glauben!
+So wie er gesagt hat, ist es geschehn.
+Nun ist er der Sieger, der Fürst allen Lebens!
+Wenn er ruft, werden wir auferstehn.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So wollen wir unser Leben ihm leben,
+ihm dienen und ihm gehorchen allein.
+Der Kommende wird auch das letzte Wort sagen.
+Er wird der Richter und Herrscher sein.</lines>
+    </verse>
+  </lyrics>
+</song>

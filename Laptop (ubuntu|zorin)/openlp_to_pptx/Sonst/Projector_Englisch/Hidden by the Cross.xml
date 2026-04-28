@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hidden by the Cross</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The devil used to find me
+Every single day
+No matter how I try
+To stay out of his way
+Our little game of hide and seek
+Would still be going on
+But I found the Perfect hiding place
+And I'm making it my home.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm hidden by the cross
+Hidden by the cross
+Behind those holy timbers
+Where Jesus paid the cost.
+I'm under His protection
+And grace that can't be bought
+And the devil cannot find me
+While I'm hidden by the cross.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know the devil wants me
+To come back out and play
+So he can see my weakness
+And lead my soul astray
+I'm where he can't
+Reach me now
+There's nothing he can do
+And if he still wants to play
+He'll have to find
+Somebody new</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'm under His protection
+And grace that can't be bought
+And the devil cannot find me
+While I'm hidden by the cross.</lines>
+    </verse>
+  </lyrics>
+</song>

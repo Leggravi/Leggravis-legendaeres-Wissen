@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Has Forgiven Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know what it's like to think of things I've done
+And want to run and hide my head in shame,
+I know what it's like to really hurt someone
+And feel no sense of sorrow at their pain,
+But I know what it's like to have enough of my disgrace,
+And find because of Jesus' blood my sins can be erased.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He Has forgiven me,
+My sins have been washed from His memory,
+By the blood of the Lamb of Calvary,
+He has forgiven me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Do you know what it's like for God to be your friend?
+To talk to Him with nothing in between.
+Do you know what it's like when the day comes to an end?
+To sleep in peace, because your heart is clean.
+Do you know what it's like when the accuser comes your way?
+To look him squarely in the eye with confidence and say.</lines>
+    </verse>
+  </lyrics>
+</song>

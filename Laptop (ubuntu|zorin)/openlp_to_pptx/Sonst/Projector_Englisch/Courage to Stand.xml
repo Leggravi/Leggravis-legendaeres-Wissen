@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Courage to Stand</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We Are Called To Stand
+For Such A Time As This.
+We Must Fight For What Is Right,
+And Learn To Trust In Him.
+We Have A Truth To Live For
+A Promise To Defend.
+Stand Up Tall, Stand Up Proud
+‘Til The Very End.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Stand Strong, Stand Firm.
+Press On Until The End,
+And Claim The Promise Of His Word.
+We Have Got A Message;
+Let’s Spread It Through The Land,
+Praying For The Courage To Stand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let’s Run, But Let’s Not Hide,
+Proclaiming Once Again.
+To Fight For What’s Right,
+Showing Love Unto All Men.
+Not Fearing What May Come,
+Nor Looking To The Past.
+Trusting Everything We Are
+To The One Whose Love Will Last.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Standing standing
+Standing On the promises of God my Saviour,
+Standing standing
+Standing On the promises of God.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Praying for the courage to stand,
+Praying for the courage to stand.</lines>
+    </verse>
+  </lyrics>
+</song>

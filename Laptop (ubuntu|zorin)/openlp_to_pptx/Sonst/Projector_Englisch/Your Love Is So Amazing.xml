@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Your Love Is So Amazing</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Oakley</author>
+      <author type="music">Paul Oakley</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, You are amazing
+Your love is so unfailing
+You fill my cup
+I'm full and running over
+Now I'm drinking from the saucer</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your love is so real
+From my soul, I can feel
+It's bubbling, bubbling
+Like a spring,
+Your Love is so amazing.</lines>
+    </verse>
+  </lyrics>
+</song>

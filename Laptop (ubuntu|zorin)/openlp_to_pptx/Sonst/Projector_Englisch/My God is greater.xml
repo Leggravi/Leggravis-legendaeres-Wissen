@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My God is greater</title>
+    </titles>
+    <authors>
+      <author type="words">Hanjo Gäbler</author>
+      <author type="music">Hanjo Gäbler</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When troubles pile up just like a mountain you can't climb
+When you're discouraged seems like you're falling all the time
+When you're down and out and you start to doubt
+That's the time to find a place, to raise your hands and shout</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My God is greater
+Than all these things
+He's in control, he lifts my soul
+Until my spirit sings
+My God is greater
+Wonderful, mighty king of kings
+He holds forever in His hands
+My God is greater</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When others fail you, when disillusionment sets in
+When you're downhearted, feeling like you can never win
+When it a seems lost, is it worth the cost
+That's the time to turn your mind
+And face the mighty cross</lines>
+    </verse>
+  </lyrics>
+</song>

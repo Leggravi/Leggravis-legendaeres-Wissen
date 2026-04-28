@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Apr 6, 2020, 4:24:27 PM">
+  <properties>
+    <titles>
+      <title>O Gnade Gottes, wunderbar</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>O Gnade Gottes, wunderbar
+hast du erretet mich.
+Ich war verloren ganz und gar,
+war blind, jetzt sehe ich.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Die Gnade hat mich Furcht gelehrt
+und auch von Furcht befreit,
+seitdem ich mich zu Gott bekehrt
+bis hin zur Herrlichkeit.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Durch Schwierigkeiten mancher Art
+wurd' ich ja schon geführt,
+doch hat die Gnade mich bewahrt,
+die Ehre Gott gebührt.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Wenn wir zehntausend Jahre sind
+in Seiner Herrlichkeit,
+mein Herz noch von der Gnade singt
+wie in der ersten Zeit.</lines>
+    </verse>
+  </lyrics>
+</song>

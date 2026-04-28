@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Niemand als du, Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Barbara Werner</author>
+      <author type="music">Peter Sandwall</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niemand als du Herr, kann geben, was mein Innerstes vermißt.
+Nichts, was ich tu, Herr, ersetzt, was du durch deine Nähe gibst.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>® Du allein stillst meine tiefste Sehnsucht
+Du allein hauchst neues Leben ein.
+Du allein erfüllst mein Herz mit Freude.
+Du allein hörst meines Herzens Schrein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vater, ich lieb dich, du sättigst das Verlangen tief in mir.
+Füll mich, ergreif mich, bis ich tief in mir deine Liebe spür ®</lines>
+    </verse>
+  </lyrics>
+</song>

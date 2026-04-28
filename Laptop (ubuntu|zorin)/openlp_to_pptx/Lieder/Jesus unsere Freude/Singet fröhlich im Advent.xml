@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:34">
+  <properties>
+    <titles>
+      <title>Singet fröhlich im Advent</title>
+    </titles>
+    <authors>
+      <author type="words">Gottfried Neubert (1977)</author>
+      <author type="music">Gottfried Neubert</author>
+    </authors>
+    <themes>
+      <theme>Advent</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Singet fröhlich im Advent, lasst nun alles Trauern.
+Seht, das erste Licht schon brennt, lang wird’s nicht mehr dauern,
+bis in alle Dunkelheit strahlen hell die Kerzen.
+Singet fröhlich im Advent, singt mit frohem Herzen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Singt von Hoffnung für die Welt dort, wo Menschen zagen!
+Welche Last uns auch befällt: Christus hilft sie tragen;
+dies für andre auch zu tun, daran lasst uns denken.
+Singt von Hoffnung für die Welt: Christus wird sie schenken.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Singt von Frieden in der Welt dort, wo Menschen streiten!
+Christus sein Versprechen hält: er steht uns zur Seiten,
+wenn in seinem Namen wir Friedensstifter werden.
+Singt von Frieden in der Welt: er gescheh auf Erden.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Singt von Liebe in der Welt dort, wo Menschen hassen!
+Wo auf Macht, Besitz und Geld alle sich verlassen,
+wollen wir in allem Tun uns auf Christus gründen.
+Singt von Liebe in der Welt, lasst uns von ihr künden!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Singet fröhlich im Advent, preiset Gottes Taten!
+Keine Macht von ihm uns trennt, nichts kann uns mehr schaden!
+Hell strahlt seiner Liebe Glanz über Raum und Zeiten.
+Lasst uns fröhlich im Advent ihm den Weg bereiten!</lines>
+    </verse>
+  </lyrics>
+</song>

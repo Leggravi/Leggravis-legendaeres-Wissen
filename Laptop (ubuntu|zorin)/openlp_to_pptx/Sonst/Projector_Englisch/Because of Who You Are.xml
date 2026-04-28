@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Because of Who You Are</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You spoke the words and all the worlds came into order
+You waved your hands and planets filled the empty skies
+You placed the woman and the man inside the garden
+And though they fell they found compassion in your eyes</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh Lord I stand amazed at the wonder of your deeds
+And yet a greater wonder brings me to my knees</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord I praise you, because of who you are
+Not just for all the mighty things that you have done
+Lord, I worship you, because of who you are
+You're all the reason that I need to voice my praise
+Because of who you are</lines>
+    </verse>
+    <verse name="v4">
+      <lines>One holy night you brought Your promise from a virgin
+And promise grew as he revealed to us your heart
+Enduring love displayed throughout his Crucifixion
+And in the dark, you tore the grave and death apart</lines>
+    </verse>
+  </lyrics>
+</song>

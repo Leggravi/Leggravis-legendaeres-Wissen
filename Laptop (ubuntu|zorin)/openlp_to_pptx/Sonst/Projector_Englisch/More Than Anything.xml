@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>More Than Anything</title>
+    </titles>
+    <authors>
+      <author type="words">Joseph Garlington</author>
+      <author type="music">Joseph Garlington</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I love You, Jesus
+I worship and adore You
+Just want to tell You
+Lord, I love You more than anything</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love You, Jesus
+I worship and adore You
+Just want to tell You
+Lord, I love You more than anything</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I love You, Jesus
+I worship and adore You
+Just want to tell You
+Lord, I love You more than anything</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord, I love You more than anything
+Lord, I love You more than anything</lines>
+    </verse>
+  </lyrics>
+</song>

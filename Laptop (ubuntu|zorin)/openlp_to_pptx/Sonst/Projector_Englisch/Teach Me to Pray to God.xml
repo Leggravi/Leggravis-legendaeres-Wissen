@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Teach Me to Pray to God</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teach me to pray, Lord, teach me to pray;
+This is my heart-cry day unto day;
+I long to know Thy will and Thy way;
+Teach me to pray, Lord, teach me to pray.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Living in Thee, Lord, and Thou in me;
+Constant abiding, this is my plea;
+Grant me Thy power, boundless and free:
+Power with men and power with Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Power in prayer, Lord, power in prayer,
+Here'mid earth's sin and sorrow and care;
+Men lost and dying, souls in despair;
+O give me power, power in prayer!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My weakened will, Lord, Thou canst renew;
+My sinful nature Thou canst subdue;
+Fill me just now with power anew,
+Power to pray and power to do!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Teach me to pray, Lord, teach me to pray;
+Thou art my Pattern, day unto day;
+Thou art my Surety, now and for aye;
+Teach me to pray, Lord, teach me to pray.</lines>
+    </verse>
+  </lyrics>
+</song>

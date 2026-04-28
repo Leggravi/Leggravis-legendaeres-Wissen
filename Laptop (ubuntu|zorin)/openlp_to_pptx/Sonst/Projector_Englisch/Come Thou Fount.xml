@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come Thou Fount</title>
+    </titles>
+    <authors>
+      <author type="words">Phil Moore</author>
+      <author type="music">Colin Webster</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come Thou Fount of every blessing
+Tune my heart to sing Thy grace
+Streams of mercy, never ceasing
+Call for songs of loudest praise
+Teach me some melodious sonnet
+Sung by flaming tongues above
+Praise the mount, I'm fixed upon it
+Mount of God's unchanging love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here I raise my Ebenezer
+Hither by Thy help I've come
+And I hope, by Thy good pleasure
+Safely to arrive at home
+Jesus sought me when a stranger
+Wandering from the fold of God
+He to rescue me from danger
+Interposed His precious blood</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh to grace how great a debtor
+Daily I'm constrained to be
+Let Thy grace now, like a fetter
+Bind my yielded heart to Thee
+Let me know Thee in Thy fullness
+Guide me by Thy mighty hand</lines>
+    </verse>
+    <verse name="v4">
+      <lines>'Till transform in Thine own image
+In Thy presence I shall stand</lines>
+    </verse>
+  </lyrics>
+</song>

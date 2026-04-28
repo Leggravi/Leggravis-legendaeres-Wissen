@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dankt unserm Gott und bringt ihm Ehre</title>
+    </titles>
+    <authors>
+      <author type="words">Matthias Jorissen</author>
+      <author type="music">Johann Anastasius Freylinghausen</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dankt unserm Gott und bringt Ihm Ehre,
+Denn Er ist freundlich jederzeit!
+Frohlockt, dass Seine Güte währe
+Von Ewigkeit zu Ewigkeit!
+Ja, rühmet Ihn mit Herz und Munde,
+Er ist allein des Rühmens wert.
+Ein Lobgesang sei jede Stunde,
+Die Seine Güte uns beschert!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du, großer Gott, bist unsre Stärke,
+Bist unser Licht in dunkler Nacht.
+Du hast durch wunderbare Werke
+Heil und Erlösung uns gebracht.
+Wir waren hoffnungslos verloren,
+In Welt und Sündenlust verstrickt.
+Du hast uns für Dich selbst erkoren,
+Des Feindes Macht und List entrückt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dich sollen Herz und Zunge loben,
+Erheben Deine Majestät.
+Dein Ruhm, o Gott, sei hoch erhoben,
+Der über alle Himmel geht!
+Dein Vaterantlitz voll Erbarmen
+Bestrahlet uns zu jeder Zeit.
+Du trägst Dein Volk auf mächt'gen Armen,
+Du großer Gott von Ewigkeit!</lines>
+    </verse>
+  </lyrics>
+</song>

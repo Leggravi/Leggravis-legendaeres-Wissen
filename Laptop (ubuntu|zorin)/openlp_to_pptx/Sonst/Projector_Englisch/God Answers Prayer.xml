@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God Answers Prayer</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If you ever feeling down
+And like you have nowhere to go,
+If you feeling like an outcast as your problems overflow,
+Just remember, there is someone
+And all it takes is for you to know
+Is that God is the answer and God answers prayers.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He sees every weakness, every trials,
+Every mountain and sea,
+And He sees every teardrop, and He wipes them for me
+I get down on my knee and I say, &quot;Savior, help me please&quot;,
+Because it's one thing is for certain is my God answers prayers.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You may be broken and feel battered,
+But your strength will surely come,
+In the midst of all your heartache,
+Your battles are already won,
+Just remember in the hard times,
+Don't give up, don't say you're done,
+Because God is the answer and God answers prayers.</lines>
+    </verse>
+  </lyrics>
+</song>

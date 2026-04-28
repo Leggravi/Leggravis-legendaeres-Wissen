@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We've Got the Power in the Name of Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Give me your hand,
+Let's agree together,
+Then all of our enemies
+will crumble at our feet,
+For whatever we bind on earth,
+Shall be bound in Heaven;
+At the Name of Jesus,
+Satan has to flee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(Yes) We've got the power in the Name of Jesus,
+We've got the power in the Name of the Lord,
+Though Satan rages, We cannot be defeated;
+'Cause we've got the power in the Name of the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So many years now,
+Satan tried to stop us,
+But the Bride of Jesus, Lord,
+is still alive;
+Like a mighty army,
+We'll be marchin' onward,
+Winning every battle,
+'Cause the Lord's on our side.</lines>
+    </verse>
+  </lyrics>
+</song>

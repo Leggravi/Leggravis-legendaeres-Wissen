@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Answer's On The Way</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Many times I'm bowed beneath a heavy load.
+On bended knees to God a prayer I prayed. As I knelt there
+on the floor. He reminded me once more. That the answer was already on
+the way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh yes the answer's on the way this i know
+Jesus said it i believe it and it's so
+Our heavenly Father knows our needs before we pray
+And we can rest assured the answer's on the way</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Our Heavenly fatheris no respecter in this world.
+For whosoever will his word does say.
+If to him you take your trouble, your blessings he will double
+And you'll know then the answers on the way.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If theres a special need in your life \my friend
+And your seeking for an answer everyday
+If by faith you'll start believing
+Mighty soon you'll be receiving
+For the answer is already on the way</lines>
+    </verse>
+  </lyrics>
+</song>

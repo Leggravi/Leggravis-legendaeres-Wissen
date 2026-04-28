@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Make me broken</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Make me broken
+So I can be healed
+‘Cause I’m so calloused
+And now I can’t feel
+I want to run to You
+With heart wide open
+Make me broken</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Make empty
+So I can be filled
+‘Cause I’m still holding
+Onto my will
+And I’m completed
+When you are with me
+Make me empty</lines>
+    </verse>
+    <verse name="v3">
+      <lines>‘Til You are my one desire
+‘Til You are my one true love
+‘Til You are my breath, my everything Lord,
+please keep making me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Make me lonely So I can be Yours
+‘Til I want no one More than You,
+Lord ‘Cause in the darkness
+I know You will hold me Make me lonely</lines>
+    </verse>
+  </lyrics>
+</song>

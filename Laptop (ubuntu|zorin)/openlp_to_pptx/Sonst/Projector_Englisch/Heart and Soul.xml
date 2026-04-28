@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heart and Soul</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I never want anything in my life
+To take your place,
+I never want to live by any other Grace,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My longing and my hearth Desire
+Is to seek your face oh Lord,
+I long to be a friend of God,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I love you day and night,
+I love you all my life,
+I love you Lord,
+Hearth and soul,
+I long to be a friend of God</lines>
+    </verse>
+  </lyrics>
+</song>

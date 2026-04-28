@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When I say I do</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There must be a God I believe it's true
+Cause I can see His love, when I look at you
+And He must have a plan for this crazy life
+Because He brought you here and place you by my side
+And I have never been so sure of anything before</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Like I am in this moment here with you
+Now for better or for worse
+Are so much more than only words
+And I pray everyday will be the proof
+That I mean what I say when I say I do
+Yeah I mean what I say when I say I do</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You see these hands you hold, will always hold you up
+When the strength you have just ain't strong enough
+And what tomorrow brings only time will tell
+But I will stand by you in sickness and in health
+Cause I have never been so sure of anything before</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Take my hand and take this ring
+And know that I will always love you through anything
+As the years march on like a beating heart
+I will live these words &quot;til death do us part&quot;
+Cause I have never been so sure of anything before</lines>
+    </verse>
+  </lyrics>
+</song>

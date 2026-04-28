@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It Will Rain Again</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The seed you planted deep
+Has yet to grow
+You've wondered when you'll reap
+The things you sow
+And how long has it been
+Since rain last touched your ground
+You've searched the skies
+But the rain just can't be found</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But it will rain again
+The fruit will fill the vine
+The stalk will bend with wheat
+The grapes burst forth with wine
+So, go into your field
+Your work is not in vain
+God promised harvest
+And I know it will rain</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So, lift your head today
+And see the task
+This rain will come your way
+If you will ask
+Go build your barns, my friend
+Prepare to store the grain
+The clouds are coming in
+And I know it will rain</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God promised harvest
+And I know it will rain</lines>
+    </verse>
+  </lyrics>
+</song>

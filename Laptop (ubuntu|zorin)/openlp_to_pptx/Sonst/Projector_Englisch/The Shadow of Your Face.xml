@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Shadow of Your Face</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will live my life in the shadow
+Of Your lovely face
+L will lift my voice to extol
+Your tender mercy and Your grace
+I cannot live without Your love Oh Lord
+I cannot breathe without Your breath
+I cannot sing without Your song Oh Lord
+Ringing deeply in my breast</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where can I go
+From Your presence Lord
+You are with me
+All of my days
+In my deepest despair
+To the highest place
+I will remain
+Here in the shadow of Your face</lines>
+    </verse>
+  </lyrics>
+</song>

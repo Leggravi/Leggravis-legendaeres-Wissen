@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>City of Gold</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a city that looks o'er the valley of death,
+And its glories can never be told;
+There the sun never sets, and the leaves never fade,
+In that beautiful city of gold.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There the sun never sets,
+and the leaves never fade;
+And the eyes of the faithful our Saviour behold,
+In that beautiful city of gold.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There the King, our Redeemer, the Lord whom we love,
+All the faithful with joy shall behold:
+There the righteous forever shall shine as the stars,
+In that beautiful city of gold.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Every soul we have led to the foot of the cross,
+Every lamb we have brought to the fold -
+Shall be there as bright jewels, our crowns to adorn,
+In that beautiful city of gold.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There we'll tell how he loved and redeemed us from sin,
+But the half even there can't be told;
+There we'll sing the new song with the blood-washed at home,
+In that beautiful city of gold</lines>
+    </verse>
+  </lyrics>
+</song>

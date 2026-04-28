@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nimm von uns, Herr, du treuer Gott</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Moller</author>
+      <author type="music">Vater unser im Himmelreich</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Nimm von uns, Herr, du treuer Gott,
+die schwere Straf und große Not,
+die wir mit Sünden ohne Zahl
+verdienet haben allzumal.
+Behüt vor Krieg und teurer Zeit,
+vor Seuchen, Feu'r und großem Leid.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Erbarm dich deiner bösen Knecht,
+wir flehn um Gnad und nicht um Recht;
+denn so du, Herr, den rechten Lohn
+uns geben wolltst nach unserm Tun,
+so müsst die ganze Welt vergehn
+und könnt kein Mensch vor dir bestehn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ach Herr Gott, durch die Treue dein
+mit Trost und Rettung uns erschein.
+Beweis an uns dein große Gnad,
+und straf uns nicht auf frischer Tat,
+wohn uns mit deiner Güte bei,
+dein Zorn und Grimm fern von uns sei.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Gedenk an deines Sohnes Tod,
+sieh an sein heilig Wunden rot.
+Die sind ja für die ganze Welt
+die Zahlung und das Lösegeld.
+Des trösten wir uns allezeit
+und hoffen auf Barmherzigkeit.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Leit uns mit deiner rechten Hand,
+und segne unser Stadt und Land;
+gib uns allzeit dein heilges Wort,
+behüt vors Teufels List und Mord,
+ein selig End wollst uns verleihn,
+auf dass wir ewig bei dir sein.</lines>
+    </verse>
+  </lyrics>
+</song>

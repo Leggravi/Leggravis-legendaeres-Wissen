@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Opened up the Way</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus Christ the Lord
+Opened up the way to glory
+When He died to save us
+From our ruined state.
+And He asks that we shall go
+Tell the world the story,
+How His blood will save them
+From their awful fate.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus opened up
+The way to heaven's gate
+When He died on the cross
+To redeem all the lost;
+He prepared the road
+That leads to His abode,
+'Tis a road, marked by blood
+But it leads us home to God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And the way is marked
+By the foot-prints of the Savior,
+With His blood He made it,
+Made it plain and straight;
+If you walk that way,
+It will lead you into heaven,
+Lead you safely into
+Glory's golden gate.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sinner, will you come and join
+  in this heav'nly journey,
+Walk the bloody pathway
+That the Savior trod;
+Then when life is over
+And all the sheaves are garnered,
+You will meet the Savior
+  and be not afraid.</lines>
+    </verse>
+  </lyrics>
+</song>

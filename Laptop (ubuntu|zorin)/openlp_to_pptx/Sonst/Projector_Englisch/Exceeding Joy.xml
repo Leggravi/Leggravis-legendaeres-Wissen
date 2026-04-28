@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Exceeding Joy</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have found exceeding joy,
+Jesus answered when I called
+this Name that has saved me,
+pure love that embraced me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mercy, grace, eternal life.
+Bought from darkness to His light.
+While lost in my sin, He
+raised me and made me live.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My soul magnifies the Lord,
+my heart joys in God my Saviour,
+for He lifts the lowly,
+He's done great things for me.
+I will sing, praising evermore,
+He is mighty and Holy is His Name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will lift my head up high,
+praising Jesus through each trial.
+Though I have not seen Him,
+I love Him completely.</lines>
+    </verse>
+  </lyrics>
+</song>

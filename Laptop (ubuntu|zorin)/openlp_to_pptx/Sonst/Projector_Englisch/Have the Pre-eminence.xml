@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Have the Pre-eminence</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Have the pre-eminence
+That you desire
+In our lives, in our lives.
+Have the pre-eminence
+That you desire
+In our lives, in our lives.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Work with our hands,
+Speak with our lips,
+See with our eyes,
+And walk with our feet.
+Have the pre-eminence
+That you desire
+In our lives, in our lives.</lines>
+    </verse>
+  </lyrics>
+</song>

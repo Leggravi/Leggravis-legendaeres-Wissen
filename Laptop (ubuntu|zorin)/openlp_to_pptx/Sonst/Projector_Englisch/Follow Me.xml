@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Follow Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I traveled on a lonely road and no one seemed to care.
+The burden on my weary back had bowed me to despair;
+I oft complained to Jesus how folks were treating me,
+And then I heard Him say so tenderly,
+&quot;My feet were also weary, upon the Calvary road;
+The cross became so heavy, I fell beneath the load,
+Be faithful weary pilgrim the morning I can see,
+Just lift your cross and follow close to me.&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>&quot;I work so hard for Jesus&quot; I often boast and say
+&quot;I've sacrificed a lot of things to walk the narrow way,
+I gave up fame and fortune, I'm worth a lot to Thee&quot;
+And then I hear Him gently say to me,
+&quot;I left the throne of glory and counted it but loss,
+My hands were nailed in anger upon a cruel cross,
+But now we'll make the journey with your hand safe in mine,
+So lift your cross and follow close to me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh Jesus if I die upon a
+foreign field someday,
+'Twould be no more
+Than love demands,
+No less could I repay,
+&quot;No greater love hath
+mortal man than for a friend to die&quot;
+These are the words
+He gently spoke to me,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>&quot;If just a cup of water
+I place within your hand
+Then just a cup of water
+is all that I demand.
+But if by death to
+living they can Thy glory see,
+I'll take my cross and
+Follow close to Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

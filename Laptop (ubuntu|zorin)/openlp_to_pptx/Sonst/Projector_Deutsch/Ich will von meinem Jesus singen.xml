@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich will von meinem Jesus singen</title>
+    </titles>
+    <authors>
+      <author type="words">Ernst Heinrich Gebhardt</author>
+      <author type="music">James McGranahan</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich will von meinem Jesus singen,
+von seiner Gnade, Lieb und Treu,
+von seinem bittern Kreuzesleiden,
+von seiner Blutskraft, die macht frei.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Singt, o singt von meinem Jesus,
+von seiner Gnade, Lieb und Treu,
+von seinem bittern Kreuzesleiden,
+von seiner Blutskraft, die macht frei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich will von seinen Wunden rühmen,
+wie er die Sünder selig macht.
+Er hat auch mir durch sein Versühnen
+himmlisches Licht und Heil gebracht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich will den teuren Heiland preisen:
+Sein Regiment ist ohne Fehl.
+Er hilft den Seinen völlig siegen
+über die Sünde, Tod und Höll.</lines>
+    </verse>
+  </lyrics>
+</song>

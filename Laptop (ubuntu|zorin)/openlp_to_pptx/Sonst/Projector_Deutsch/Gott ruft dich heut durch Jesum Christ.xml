@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gott ruft dich heut durch Jesum Christ</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Fritzsche</author>
+      <author type="music">Johannes Eccard</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott ruft dich heut durch Jesum Christ,
+der unser aller Heiland ist,
+aus deiner Gottestrennung Not
+zu seinem heil'gen Aufgebot.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Die Sünden dein hat Christ, der Herr,
+versenkt in Seiner Liebe Meer;
+weil du ein Sünder vor Gott bist,
+starb auch für dich der Herre Christ.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wirf dich in Seine Arme nun,
+verdamme allen Eigentum!
+Christ ist allein der Freiheit Licht,
+die Kraft, die alle Ketten bricht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Christ ist allein die rechte Straß;
+die geh, mein Herz, ohn Unterlass;
+denn Wahrheit, Leben, Seligkeit
+ist nur bei Christus uns bereit.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So neig dein Herz zu wahrer Buß.
+Verlass die Welt, setz deinen Fuß
+mit Gottes Hilf auf neues Land.
+Gott ruft dich heut, gib Ihm die Hand.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heal my broken heart</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What could you be thinking, Lord, to allow this tragedy?
+You must have some confidence instilled in me
+Only you can see what lies deep within this troubled mind
+An overwhelming pain I look for You to bind</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Because You’ll heal my broken heart
+Calm my spirit, stand my guard
+Soothe my troubled fears
+Remind me You’re here
+And heal my broken heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There are days I make it through O, but Lord, don’t ask me how
+If there’s a lesson for me to learn, then show me now
+I believe no tears that fall could be wasted in your plan
+But, Lord, I need some help here, Help me understand</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In time You’ll heal my broken heart
+Calm my spirit, stand my guard
+Soothe my troubled fears
+Remind me You’re here
+And heal my broken heart</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You know how I’m fighting these feelings inside
+My hope isn’t dying. It will be revived (it will be revived)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Because You’ll heal my broken heart
+Calm my spirit, stand my guard
+Soothe my troubled fears
+Remind me You’re here
+And heal my heart, my broken heart
+Yes, You will heal my heart</lines>
+    </verse>
+  </lyrics>
+</song>

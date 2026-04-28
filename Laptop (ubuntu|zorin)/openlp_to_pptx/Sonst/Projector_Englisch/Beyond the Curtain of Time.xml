@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Beyond the Curtain of Time</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was living a life
+Full of shame and so bad,
+There's no hope but then left for me,
+But Jesus calls me one day
+And drowns my sins far away,
+By his grace and love where I should stay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And then I lift up my voice
+to praise and thanks to the Lord,
+Then he change the hidden side of me,
+I'm lucky I'm to be hold,
+to shining through of the world,
+I'm belong of the redeem I see.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All I want is to walk with Jesus,
+To be with him forever, in his paradise.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There's a beautiful land, across the sky,
+Where all the saints dwells and love by and by,
+He shall wipe our sorrows and tears away,
+Joy and peacefully, eternally,
+And that beyond the curtain of time.</lines>
+    </verse>
+  </lyrics>
+</song>

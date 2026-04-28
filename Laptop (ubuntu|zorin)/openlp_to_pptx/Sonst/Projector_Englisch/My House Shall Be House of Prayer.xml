@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My House Shall Be House of Prayer</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My house shall be house of prayer
+A Holy Place for God to dwell
+A secret place within the veil
+In This house, a house of prayer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He will meet you there
+The Lord will meet you there
+He will meet you there
+In this house, a house of prayer.</lines>
+    </verse>
+  </lyrics>
+</song>

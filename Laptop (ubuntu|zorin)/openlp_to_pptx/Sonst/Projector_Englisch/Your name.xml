@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Your name</title>
+    </titles>
+    <authors>
+      <author type="words">Helmut Jost</author>
+      <author type="music">Helmut Jost</author>
+      <author type="translation">Herr, wir beten dich an</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Humbly to the earth you came
+Born into this world to save
+God with us, Emmanuel
+Now we adore Your name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your name, is a strong and mighty tower
+Your name, is a shelter like no other
+Your name, let the nations sing it louder
+'Cause nothing has the power to save
+But Your name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus in Your name we pray
+Come and fill our hearts today
+Lord give us strength to live for You
+And glorify Your name</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wonderful counselor
+Prince of Peace</lines>
+    </verse>
+    <verse name="v5">
+      <lines>God with us Emmanuel
+God with us Emmanuel
+God with us Emmanuel
+No we adore Your Name</lines>
+    </verse>
+  </lyrics>
+</song>

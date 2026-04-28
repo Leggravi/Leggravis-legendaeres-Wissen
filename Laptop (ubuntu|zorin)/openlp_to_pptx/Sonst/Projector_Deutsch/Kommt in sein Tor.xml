@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Kommt in sein Tor</title>
+    </titles>
+    <authors>
+      <author type="words">AGAPE Gemeinschaft München</author>
+      <author type="music">Nina Lee Hopper</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//: Kommt in sein Tor mit dankbarem Herzen, kommt in den Vorhof mit Lobgesang. ://
+Erfreut euch am Herrn, unserem Schöpfer.
+Erfreut euch am Herrn, dem Vater des Lichts.
+Erfreut euch am Herrn, unserem Erretter.
+Erfreut euch am Herrn, dem ewigen Gott.</lines>
+    </verse>
+  </lyrics>
+</song>

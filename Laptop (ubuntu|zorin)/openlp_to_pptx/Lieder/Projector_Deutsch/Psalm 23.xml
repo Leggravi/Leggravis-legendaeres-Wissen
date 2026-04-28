@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Psalm 23</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Hanne Fossum</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Auf grünen Auen ruhe ich,
+an frischen Wassern trinke ich.
+Du gibst mir Kraft, erneuerst mich
+und führst mich, ich bin gewiss.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Denn du bist mein Hirte,
+mir mangelt nichts,
+bist mein Begleiter,
+ich fürcht mich nicht.
+Liebe und Gnade begleiten mich.
+In deinen Armen ruhe ich.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Durch dunkle Täler laufe ich
+und Todesangst umschattet mich.
+Du rufst mir zu: Fürchte dich nicht,
+mit meinem Stab beschütz ich dich.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Denn ich bin dein Hirte,
+dir mangelt nichts,
+bin dein Begleiter, so fürcht dich nicht.
+Liebe und Gnade begleiten dich.
+Auf meiner Schulter trag ich dich.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Du lädst mich ein,
+ich setze mich
+an deinen reich gedeckten Tisch.
+Die andern schaun, wie du mich grüßt.
+Du gibst mir mehr als genug.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>/: Ja, du bist mein Hirte,
+mir mangelt nichts,
+bist mein Begleiter,
+ich fürcht mich nicht.
+Liebe und Gnade begleiten mich. :/
+[In deinen Armen ruhe ich. ]
+{In deinem Haus, da wohne ich. }</lines>
+    </verse>
+  </lyrics>
+</song>

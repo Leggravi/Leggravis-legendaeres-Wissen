@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I’ve Got Confidence</title>
+    </titles>
+    <authors>
+      <author type="words">Andraé Crouch</author>
+      <author type="music">Andraé Crouch</author>
+      <author type="translation">Seltsam ist mein Leben oft</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When troubles are on my way,
+I can’t tell my night from day,
+When am tossed from side to side,
+Like a ship on a raging tide</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I don’t worry, I don’t fret God has never,
+never failed me yet
+Troubles come from time to time
+But, that’s all right, Am not the worrying type,
+because, I’ve got confidence,
+God Is gonna see me thru
+No matter what the case may be,
+I know I know He’. gonna fix it for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Some folks wonder how I smile,
+Even through I am going
+through trials
+How can I have a song
+When eveiything is going wrong.</lines>
+    </verse>
+  </lyrics>
+</song>

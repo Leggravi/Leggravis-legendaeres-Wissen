@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>His Word Will Stand</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Some say it's myth and legend
+One more book upon the shelf
+But the message it contains
+cannot be stilled
+For God who wrote Its pages
+Will not let it pass away
+Not one syllable
+will linger unfulfilled</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His Word will stand,
+His Word will stand
+Though stars should fall
+And mountains turn to sand
+Though no man believes Him
+Still God's Word is true
+His promise is sure
+His love will endure
+And forever His Word will stand</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Don't listen to the voices
+Of the world caught up in fear
+For the word of God
+proclaims the victory
+He gives His children courage
+to confront the gates of hell
+With the sword
+that conquers every enemy</lines>
+    </verse>
+  </lyrics>
+</song>

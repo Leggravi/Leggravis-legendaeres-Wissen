@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Un Lugar Celestial</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sometimes I realize when I gaze in the skies
+This spinning world is not my home
+A place of mystery, a land of destiny
+Is where I know someday I'll go</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I dream of beauty I have never seen
+I know the arms of heaven wait for me
+And yet I feel its sweetness here and now
+In this life on earth -- I have found</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Un lugar celestial
+Just a little bit of heaven sent from up above
+Un lugar celestial
+Where the presence of my Father
+Holds me in His love
+Un lugar celestial</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When all my skies are gray
+I simply steal away
+Into my secret hiding place
+When hearts are cold as ice
+The breath of paradise
+Blows warm and gentle on my face</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I know I need my time alone with Him
+His healing waters flowing deep within
+Don't have to wish upon a distant star
+'Cause the light of love fills my heart</lines>
+    </verse>
+    <verse name="v6">
+      <lines>El cielo me llama (Heaven is calling me)
+Caminando en las nubes (Walking on the clouds)
+Dulce beso delibertad (Sweet kiss of liberty)
+Nubes de gloria (Clouds of glory)</lines>
+    </verse>
+  </lyrics>
+</song>

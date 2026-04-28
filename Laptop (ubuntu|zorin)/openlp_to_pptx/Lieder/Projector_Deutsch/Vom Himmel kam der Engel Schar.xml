@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Vom Himmel kam der Engel Schar</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Luther</author>
+      <author type="music">Vom Himmel hoch, da komm ich her</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vom Himmel kam der Engel Schar,
+erschien den hirten offenbar;
+sie sagten ihn': &quot;Ein Kindlein zart,
+das liegt dort in der Krippen hart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>zu Bethlehem, in Davids Stadt,
+wie Micha das verkündet hat,
+es ist der Herre Jesus Christ,
+der euer aller Heiland ist.&quot;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Des sollt ihr alle fröhlich sein,
+dass Gott mit euch ist worden ein.
+Er ist geborn eu'r Fleisch und Blut,
+eu'r Bruder ist das ewig Gut.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Was kann euch tun die Sünd und Tod?
+Ihr habt mit euch den wahren Gott;
+lasst zürnen Teufel und die Höll,
+Gottes Sohn ist worden eu'r Gesell.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Er will und kann euch lassen nicht,
+setzt ihr auf ihn eu'r Zuversicht;
+es mögen euch viel fechten an:
+dem sei Trotz, der's nicht lassen kann.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Zuletzt müsst ihr doch haben recht,
+ihr seid nun worden Gotts Geschlecht.
+Des danket Gott in Ewigkeit,
+geduldig, fröhlich allezeit.</lines>
+    </verse>
+  </lyrics>
+</song>

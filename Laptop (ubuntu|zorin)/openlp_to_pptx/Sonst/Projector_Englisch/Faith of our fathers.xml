@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Faith of our fathers</title>
+    </titles>
+    <authors>
+      <author type="words">Frederick William Faber</author>
+      <author type="music">Jeff Guillen</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Faith of our fathers, living still
+In spite of dungeon, fire and sword,
+O how our hearts beat high with joy
+Whene’er we hear that glorious word!
+Faith of our fathers! holy faith!
+We will be true to thee till death!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Our fathers, chained in prisons dark,
+Were still in heart and conscience free;
+And blest would be their children’s fate,
+If they, like them should die for thee:
+Faith of our fathers! holy faith!
+We will be true to thee till death!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Faith of our fathers, we will strive
+To win all nations unto thee;
+And through the truth that comes from God
+Mankind shall then indeed be free.
+Faith of our fathers! holy faith!
+We will be true to thee till death!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Faith of our fathers, we will love
+Both friend and foe in all our strife,
+And preach thee, too, as love knows how
+By kindly words and virtuous life.
+Faith of our fathers! holy faith!
+We will be true to thee till death!</lines>
+    </verse>
+  </lyrics>
+</song>

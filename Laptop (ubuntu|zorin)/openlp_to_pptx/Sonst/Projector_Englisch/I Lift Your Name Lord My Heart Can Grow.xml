@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Lift Your Name (Lord, My Heart Can Grow)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, my heart can grow
+So far away and cold
+And yet for me
+Your Love is still the same.
+Lord, I bend my knee
+In awe and fear of Thee.
+My head bowed down
+In rev'rence to Your name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, I lift Your name
+Your holy name
+Jehovah, God, Elohim
+The great I Am
+The risen Lamb
+My Comforter and King</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, my heart's desire
+Is to be filled with the Spirit fire.
+My purpose
+is to worship You alone.
+Open up my soul
+to worship and adore
+To be fragrance
+Offered to Your throne.</lines>
+    </verse>
+  </lyrics>
+</song>

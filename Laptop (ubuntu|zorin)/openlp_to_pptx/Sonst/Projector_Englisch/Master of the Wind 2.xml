@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Master of the Wind (2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My boat of life sails on a troubled sea
+Ever there's a wind in my sail
+But I have a friend who watches over me
+When the breeze turns into a gale</lines>
+    </verse>
+    <verse name="v2">
+      <lines>… I know the master of the wind (ooooh)
+I know the maker of the rain
+He can calm the storm
+And make the sun shine again
+I know the master of the wind</lines>
+    </verse>
+    <verse name="v3">
+      <lines>… Sometimes I soar like an Eagle to the sky
+Among the peaks my soul can be found
+An unexpected storm may drive me from the heights
+May bring me low but it cannot bring me down</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let Jesus calm your storm
+And make the sun shine again
+He is the master of the wind</lines>
+    </verse>
+  </lyrics>
+</song>

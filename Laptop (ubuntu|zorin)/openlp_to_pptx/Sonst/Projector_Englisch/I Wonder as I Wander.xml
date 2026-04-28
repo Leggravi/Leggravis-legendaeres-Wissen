@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Wonder as I Wander</title>
+    </titles>
+    <authors>
+      <author type="words">überliefert</author>
+      <author type="music">John Rutter</author>
+      <author type="translation">Ich wandre voller Staunen</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I wonder as I wander out under the sky,
+How Jesus the Savior did come for to die.
+For poor on'ry people like you and like I…
+I wonder as I wander out under the sky.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When Mary birthed Jesus'twas in a cow's stall,
+With wise men and farmers and shepherds and all.
+But high from God's heaven a star's light did fall,
+And the promise of ages it then did recall.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If Jesus had wanted for any wee thing,
+A star in the sky, or a bird on the wing,
+Or all of God's angels in heav'n for to sing,
+He surely could have it, 'cause he was the King.</lines>
+    </verse>
+  </lyrics>
+</song>

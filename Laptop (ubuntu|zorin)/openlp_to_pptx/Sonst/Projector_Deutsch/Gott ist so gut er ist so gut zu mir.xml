@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gott ist so gut, er ist so gut zu mir</title>
+    </titles>
+    <authors>
+      <author type="words">überliefert</author>
+      <author type="music">Afrika</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott ist so gut, Gott ist so gut,
+Gott ist so gut, er ist so gut zu mir!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er liebt mich sehr, er liebt mich sehr,
+er liebt mich sehr, er ist so gut zu mir!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus ist hier, Jesus ist hier,
+Jesus ist hier, er ist so gut zu mir!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Er sorgt für mich, er sorgt für mich,
+er sorgt für mich, er ist so gut zu mir!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ich folge ihm, ich folge ihm,
+ich folge ihm, er ist so gut zu mir!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesus ist Herr, Jesus ist Herr,
+Jesus ist Herr, er ist so gut zu mir!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Gott ist so gut, Gott ist so gut,
+Gott ist so gut, er ist so gut zu mir!</lines>
+    </verse>
+  </lyrics>
+</song>

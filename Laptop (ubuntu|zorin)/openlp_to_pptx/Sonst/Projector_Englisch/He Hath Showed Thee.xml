@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Hath Showed Thee</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He hath showed thee, oh man,
+What is good;
+And what doth the Lord require of thee,
+But to do justly, and to love mercy,
+And to walk humbly with thy God.</lines>
+    </verse>
+  </lyrics>
+</song>

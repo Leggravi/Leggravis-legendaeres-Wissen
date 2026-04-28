@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Trust In You</title>
+    </titles>
+    <authors>
+      <author type="words">Lauren Daigle</author>
+      <author type="music">Lauren Daigle</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Letting go of every single dream
+I lay each one down at Your feet
+Every moment of my wandering
+Never changes what You see</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've tried to win this war I confess
+My hands are weary I need Your rest
+Mighty Warrior, King of the fight
+No matter what I face, You're by my side</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When You don't move the mountains I'm needing You to move
+When You don't part the waters I wish I could walk through
+When You don't give the answers as I cry out to You
+I will trust, I will trust, I will trust in You!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Truth is, You know what tomorrow brings
+There's not a day ahead You have not seen
+So, in all things be my life and breath
+I want what You want Lord and nothing less</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When You don't move the mountains I'm needing You to move
+When You don't part the waters I wish I could walk through
+When You don't give the answers as I cry out to You
+I will trust, I will trust, I will trust in You!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I will trust in You!
+You are my strength and comfort
+You are my steady hand
+You are my firm foundation; the rock on which I stand</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Your ways are always higher
+Your plans are always good
+There's not a place where I'll go, You've not already stood</lines>
+    </verse>
+    <verse name="v8">
+      <lines>When You don't move the mountains I'm needing You to move
+When You don't part the waters I wish I could walk through
+When You don't give the answers as I cry out to You
+I will trust, I will trust, I will trust in You!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>I will trust in You!
+I will trust in You!
+I will trust in You!</lines>
+    </verse>
+  </lyrics>
+</song>

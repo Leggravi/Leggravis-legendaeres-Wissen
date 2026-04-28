@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Only Jesus Can Satisfy</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The world will try to satisfy
+The longing in your soul
+You may search this wide world o'er
+But you'll be just as before
+You'll never find true satisfaction
+(Not) until you found the Lord
+For only Jesus can satisfy your soul</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Only Jesus can satisfy your soul
+And only He can change your life
+And make you whole
+He'll give you peace you never knew
+Sweet love and joy and heaven, too
+For only Jesus can satisfy your soul</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If you could have the fame and fortune
+All the wealth you could obtain
+Yet you have no Christ within
+Your living here would be in vain
+There'll come a time
+when death shall call you
+Riches cannot help you then
+So come to Jesus for only He can satisfy.</lines>
+    </verse>
+  </lyrics>
+</song>

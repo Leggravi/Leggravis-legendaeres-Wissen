@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Deeper Still</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Below the Surface
+Beneath the Waves
+Where I was searching
+To find my way
+You Found Me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In quiet Waters
+You called my Name
+You showed me Mercy
+You showed me Grace
+You Found Me
+Jesus You Found Me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the Deep
+In the Deep
+Your Love is Breathing life back into me
+Now that I know how Mercy feels
+I want to go deeper still</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Below the Surface
+I'm finding truth
+A greater purpose
+I never knew
+Til you found Me
+Jesus You Found Me</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Der Herr zieht aus in Macht und Stärke</title>
+    </titles>
+    <authors>
+      <author type="words">Manfred Schmidt</author>
+      <author type="music">Graham Kendrick</author>
+      <author type="translation">The Lord is marching out (O give thanks)</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Der Herr zieht aus in Macht und Stärke.
+Sein Glanz erstrahlt in Herrlichkeit.
+Wahrheit und Recht sind seine Werke.
+Er führt Sein mächtiges Herr zum Streit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O gebt Dank unserm Herrn, denn Seine Liebe bleibt.
+O gebt Dank unserm Herrn, denn Seine Liebe bleibt.
+O gebt Dank unserm Herrn, denn Seine Liebe bleibt in Ewigkeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sein Herr zieht aus und tanzt vor Freude,
+mit Jubel füllt Er unser Herz.
+Denn Gottes Königreich siegt heute:
+Die Liebe Gottes, unser Schwert.</lines>
+    </verse>
+  </lyrics>
+</song>

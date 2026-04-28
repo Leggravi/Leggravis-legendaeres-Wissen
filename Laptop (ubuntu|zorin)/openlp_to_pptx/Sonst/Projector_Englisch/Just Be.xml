@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Just Be</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Everything else can wait
+I’ve come to seek Your face
+So everything can wait
+I’m here for You
+I want to</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Just be here at your feet
+Just be here on my knees
+Here in Your presence I am complete
+Jesus, You’re all that I need</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There’s nothing I want more
+‘Cause nothing matters more
+There’s nothing I want more
+‘Cause nothing matters more
+There’s nothing I want more
+‘Cause nothing matters more
+There’s nothing I want more
+‘Cause nothing matters more</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I’ll just be here at your feet
+Just be here on my knees
+Here in Your presence I am complete
+Jesus, You’re all that I need</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I’ll just be here at your feet
+Just be here on my knees
+Here in Your presence I am complete
+Jesus, You’re all that I need
+Jesus, You’re all that I need
+Jesus, You’re all that I need</lines>
+    </verse>
+  </lyrics>
+</song>

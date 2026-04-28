@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:46">
+  <properties>
+    <titles>
+      <title>O herrlicher Tag, o fröhliche Zeit</title>
+    </titles>
+    <authors>
+      <author type="words">Cyriakus Günther (1714)</author>
+      <author type="music">O Heiliger Geist, o heiliger Gott</author>
+    </authors>
+    <themes>
+      <theme>Ostern</theme>
+      <theme>Auferstehung</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O herrlicher Tag, o fröhliche Zeit,
+da Jesus lebt ohn alles Leid!
+Er ist erstanden von dem Tod,
+wir sind erlöst aus aller Not.
+O herrlicher Tag, o fröhliche Zeit!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O herrlicher Tag, o fröhliche Zeit,
+da wir von Sünden sind befreit!
+Getilget ist nun unsre Schuld,
+wir sind gerecht aus Gottes Huld.
+O herrlicher Tag, o fröhliche Zeit!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O herrlicher Tag, o fröhliche Zeit!
+Der Tod ist überwunden heut;
+es darf uns nicht mehr vor ihm graun,
+wir sind erfüllet mit Vertraun.
+O herrlicher Tag, o fröhliche Zeit!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O herrlicher Tag, o fröhliche Zeit!
+Die Liebe Gottes uns erfreut;
+des Herren Sieg hat uns erlöst,
+uns neues Leben eingeflößt.
+O herrlicher Tag, o fröhliche Zeit!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O herrlicher Tag, o fröhliche Zeit!
+Erhalt uns, Jesu, diese Freud,
+zu sagen hier zu aller Stund
+und dort einmal mit selgem Mund:
+O herrlicher Tag, o fröhliche Zeit!</lines>
+    </verse>
+  </lyrics>
+</song>

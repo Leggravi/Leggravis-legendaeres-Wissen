@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Lifeboat</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We’re floating down the stream of time,
+We have not long to stay;
+The stormy clouds of darkness
+Will turn to brightest day.
+Then let us all take courage,
+For we’re not left alone;
+The lifeboat soon is coming
+To gather the Jewels home.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Then cheer, my brother, cheer,
+Our trials will soon be o’er,
+Our loved ones we shall meet, shall meet,
+Upon the golden shore.
+We’re pilgrims and we’re strangers here,
+We’re seeking a city to come,
+The lifeboat soon is coming,
+To gather the Jewels home.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sometimes the Devil tempts me,
+And says it’s all in vain
+To try to live a Christian life
+And walk in Jesus’ name;
+But then we hear the Master say,
+“I’ll lend you a helping hand,
+And if you’ll only trust Me,
+I’ll guide you to that land.”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The lifeboat soon is coming,
+By eyes of faith I see
+As she sweeps through the waters
+To rescue you and me.
+And land us safely in the port
+With friends we love so dear.
+“Get ready,” cries the Captain;
+“Oh, look, she’s almost here.”</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, now’s the time to get on board,
+While she is passing by;
+But if you stand and wait too long,
+You shall forever die;
+The fare is paid for one and all,
+The Captain bids you come,
+And get on board the lifeboat,
+She’ll carry you safely home.</lines>
+    </verse>
+  </lyrics>
+</song>

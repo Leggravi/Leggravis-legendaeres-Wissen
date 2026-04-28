@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Diese Welt ist eine Wüste</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Diese Welt ist eine Wüste,
+Wo ich nichts zu wählen wüsste,
+Wo ich nichts zu suchen hab'.
+Habe nichts hier zu betrauern,
+Zu verlieren, zu bedauern,
+Brauche nichts als einen Wanderstab.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Scharf bezeichnet, klar zu sehen
+Ist der Weg, den ich zu gehen,
+Weil mein Jesus ging voran.
+Ja, so sicher wie Sein Lieben
+Ist Sein Weg, der hier geblieben,
+Furchtlos schreit' ich fort auf Seiner Bahn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In der Wüste, wo wir gehen,
+Ist ein Fußpfad nur zu sehen:
+Seiner Füße Spur im Sand.
+Und ich folge, ja, ich eile,
+Dass ich bald die Sitze teile,
+Wo Er siegreich Seine Krone fand.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du, mein Jesus in der Höhe,
+Bist's, auf den ich wartend sehe,
+Bis Du kommst entgegen mir;
+Dem die Heimat Du bereitet,
+Den Dein Auge hat geleitet
+Durch die öde, weite Wüste hier.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bis dahin, auf allen Tritten,
+Ist der Pfad, den Du geschritten,
+Stets mein Trost und meine Freud'.
+Bin mit Deinem Stab zufrieden,
+Bis, von diesem Staub geschieden,
+Ich Dich droben schau' in Herrlichkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

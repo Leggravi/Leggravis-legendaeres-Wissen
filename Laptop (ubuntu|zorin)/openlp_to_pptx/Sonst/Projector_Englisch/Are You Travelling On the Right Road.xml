@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Are You Travelling On the Right Road</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Are you travelling on the right road?
+Are you travelling on the right road?
+Are you travelling on the right road?
+You should be travelling on the
+right road.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You were born to be leader
+You believe Him all the way
+Never think that you’ll be forsaken
+For you’ll be travelling on the
+right road.</lines>
+    </verse>
+  </lyrics>
+</song>

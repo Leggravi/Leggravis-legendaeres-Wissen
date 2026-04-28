@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Canaans Land</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Moses lead God's Children
+Forty years He led them
+Thru the cold ang through the night
+Though they said let's turn back
+Moses said keep going
+Canaans Land is just in sight</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There will be no sorrow
+There in that tomorrow
+We will be there by and by
+Milk ang honey flowing
+That is where I'm going
+Canaans Land is just in sight</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though we walk through the valleys
+Though we climb high mountains
+We cannot give up the fight
+We must be like Moses
+We must keep on going
+Canaans land is just in sight</lines>
+    </verse>
+  </lyrics>
+</song>

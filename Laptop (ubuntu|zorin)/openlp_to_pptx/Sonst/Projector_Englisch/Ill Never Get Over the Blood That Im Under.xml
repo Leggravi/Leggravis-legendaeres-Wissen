@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'll Never Get Over the Blood That I'm Under</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One day is victory, the next day I'm living with pain
+One minute the sun is shining down, then it starts to rain,
+But I know a touch from God will quiet the thunder
+I'll Never Get Over The Blood That I'm Under.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'll Never Get Over The Blood That I'm Under
+I'll never wonder where I'll spend eternity
+I realize what could have been that changed at Calvary
+I'll Never Get Over The Blood That I'm Under.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm safe and secure with him in my heart and no one can take that from me
+I'm living life knowing that Heaven is where I will be
+When he saved my soul, no longer in sin did I wander
+I'll Never Get Over The Blood That I'm Under.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I realize what could have been that changed at Calvary,
+I'll Never Get Over The Blood That I'm Under,
+The Blood That I'm Under,
+The Blood That I'm Under.</lines>
+    </verse>
+  </lyrics>
+</song>

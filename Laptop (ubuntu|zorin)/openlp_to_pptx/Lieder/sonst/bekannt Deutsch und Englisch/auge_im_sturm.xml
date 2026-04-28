@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 31, 2020, 11:49:48 PM">
+  <properties>
+    <titles>
+      <title>Auge im Sturm</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Herr, ich suche Deine Ruhe
+Fern vom Getöse dieser Welt!
+Ich hör jetzt auf mit allem, was ich tue
+Und tu' das eine, das im Leben zählt.
+Ich geh' im Geist jetzt vor Dir auf die Knie
+Und höre auf die Stimme meines Herrn.
+Führe Du mein Innerstes zur Ruhe,
+Und lass Dein Feuer meine Hast verzehren!</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Du bist ein starker Turm,
+Du bist das Auge im Sturm.
+Du sprichst zum aufgewühlten Meer
+Meiner Seele in mir, Herr,
+Friede mit Dir, Friede mit Dir!</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Herr, ich suche Deinen Frieden,
+Das, was die Welt nicht geben kann,
+In Harmonie und tief versöhnt zu leben,
+Denn das fängt erst in Deiner Nähe an!
+Ich löse mich von allen Ambitionen
+Und werd' so still wie ein grad gestilltes Kind!
+Denn Du hast mehr für mich als Illusionen,
+Dein Rat für mich verweht nicht mit dem Wind!</lines>
+    </verse>
+  </lyrics>
+</song>

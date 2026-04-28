@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Blood</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When justice called for a payment for sin
+No one worthy could be found among men
+But the precious Son of God
+With a cross and thorny crown
+Paid the debt with the Blood of the Lamb</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Paid in full by the Blood of the Lamb
+Free from sin, free to live now I am
+And it reads on the page,
+Where my sins were written down,
+&quot;Paid in full by the Blood of the Lamb.&quot;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh how great was the debt that I owed
+Bound to pay for the seeds I have sown
+But in Jesus my Lord
+A great treasure I have found
+I'm redeemed by the Blood of the Lamb</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Paid in full by the Blood of the Lamb
+Free from sin, free to live now I am
+And it reads on the page,
+Where my sins were written down,
+&quot;Paid in full by the Blood of the Lamb</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I know it was the blood, I know it was The blood,
+I know it was the Blood for me;
+One day when I lost, He died upon The Cross,
+I know it was the Blood</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Are you washed in the blood,
+In the soul-cleansing blood of the Lamb?
+Are your garments spotless?
+Are they white as snow?</lines>
+    </verse>
+  </lyrics>
+</song>

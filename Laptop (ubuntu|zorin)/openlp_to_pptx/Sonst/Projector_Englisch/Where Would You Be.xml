@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Where Would You Be</title>
+    </titles>
+    <authors>
+      <author type="words">Jason Ingram</author>
+      <author type="music">Jason Ingram</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This morning’s front page headline reads,
+Disaster strikes once more,
+Writing on the wall is just too great to be ignored,
+Floods and earthquakes everywhere,
+Violence plagues our land,
+The last days are upon us,
+Christ’s coming is at hand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where would you be,
+Had Jesus come back five minutes ago,
+Would you still be here,
+Alone and lost without hope,
+He will return as a thief in the night,
+Will you be taken or left behind,
+Where would you be,
+Had Jesus come back five minutes ago.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This lost and dying world must face,
+The judgment seat one day,
+They’re hanging in the balance,
+For this crime they must pay,
+Refusing to accept God’s grace,
+How could they be so blind,
+The sand is quickly pouring through,
+The hourglass of time.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mother Nature, Father Time,
+Won’t stop or change God’s plan,
+Prophesies have been fulfilled,
+He’s coming back again!</lines>
+    </verse>
+  </lyrics>
+</song>

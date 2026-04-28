@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>A Prisoner of Love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I came to Jesus
+I settled it all
+I gave Him my life to control
+Neither fear nor persuasion, could draw
+me to Christ
+But His love has captured my soul.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’m a prisoner of love
+I'm a slave to my Master
+I willingly toil through the heat and
+the cold;
+I seek no reward in this world below
+But the pay day will come,
+Oh Yes! When the pearly gates unfold.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He holds me secure with His
+love strong and true
+I'm happy His servant to be
+If bondaged to Jesus forever
+I’ll stay
+My soul doesn't want to be free.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Revival Is Now</title>
+    </titles>
+    <authors>
+      <author type="words">Stuart Garrard</author>
+      <author type="music">Stuart Garrard</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We prayed, we hungered,
+For a move of God
+To see you move
+in power like never before
+Oh God we want more.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Revival is Now,
+Your kingdom is here,
+Let your glory be revealed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Revival is Now,
+Your kingdom is here,
+We will walk in your victory.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We asked, you answered,
+You said the time has come,
+We'll rise and carry this fire,
+So all of the world,
+Will be left in wonder.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let the winds of revival blow,
+Let the winds of revival blow,
+Let the winds of revival blow,
+Let the winds of revival blow.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thronsaal</title>
+    </titles>
+    <authors>
+      <author type="words">Timo Langner</author>
+      <author type="music">Timo Langner</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist der gute Friedefürst
+Der mich vom Tod ins Leben führt
+Du bist mein Gott
+Du bist mein Gott</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist der Löwe und das Lamm
+Das meine Fehler auf sich nahm
+Du bist mein Gott
+Du bist mein Gott</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn der Friede des Höchsten sich auf mir niederlässt
+Find ich Ruhe im Thronsaal des Herrn
+Ich weiss mich tief geborgen bei dir meinem Gott
+Ich find Friede im Thronsaal des Herrn</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du bist mein Jesus jeden Tag
+Der in mir lebt und für mich starb
+Du bist mein Gott
+Du bist mein Gott</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Du bist der Hirte der mich sucht
+Und für mich die Dornenkrone trug
+Du bist mein Gott
+Du bist mein Gott</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Denn der Friede der jedes verstehen übersteigt
+Schenkt Bewahrung für Herz und Verstand
+Ich leg nieder mein Leben vor Dir meinem Gott
+Ich find Friede im Thronsaal des Herrn</lines>
+    </verse>
+    <verse name="v7">
+      <lines>/: Hallelujah Hallelujah Hallelujah
+Hallelujah /:</lines>
+    </verse>
+  </lyrics>
+</song>

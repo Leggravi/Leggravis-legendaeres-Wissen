@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There Was One Who Was Willing</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There was one who was willing
+To die in my stead
+That a soul so unworthy might live
+And the path to the Cross
+He was willing to tread,
+All the sins of my life
+to forgive.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>They are nailed to the Cross,
+They are nailed to the Cross,
+O how much He was willing to bear
+With what anguish and loss,
+Jesus went to the Cross
+And He carried
+my sins with Him there!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He is tender and loving
+and patient with me,
+While He cleanses my heart
+of its dross,
+But there’s no condemnation
+I know I am free,
+For my sins are all nailed to the Cross.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will cling to my Saviour
+and never depart,
+I will joyfully journey each day,
+With a song on my lips
+and a song in my heart,
+That my sins have
+been taken away</lines>
+    </verse>
+  </lyrics>
+</song>

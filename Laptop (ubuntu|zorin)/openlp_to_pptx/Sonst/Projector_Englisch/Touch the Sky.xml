@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Touch the Sky</title>
+    </titles>
+    <authors>
+      <author type="words">Michael Guy Chislett</author>
+      <author type="music">Michael Guy Chislett</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v4 v2 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What fortune lies beyond the stars
+Those dazzling heights too vast to climb
+I got so high to fall so far
+But I found heaven as love swept low</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My heart beating, my soul breathing
+I found my life when I laid it down
+Upward falling, spirit soaring
+I touch the sky when my knees hit the ground</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What treasure waits within Your scars
+The gift of freedom gold can't buy
+I bought the world and sold my heart
+You traded heaven to have me again</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Find me here at Your feet again
+Everything I am, reaching out, I surrender
+Come sweep me up in Your love again
+And my soul will dance
+On the wings of forever</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Upward falling, spirit soaring
+I touch the sky
+When my knees hit the ground</lines>
+    </verse>
+  </lyrics>
+</song>

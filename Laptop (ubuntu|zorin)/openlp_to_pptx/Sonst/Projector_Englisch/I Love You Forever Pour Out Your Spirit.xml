@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Love You Forever (Pour Out Your Spirit)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pour out your Spirit, pour out your Spirit
+Pour out your Spirit on me
+Pour out your Spirit, pour out your Spirit
+Pour out your Spirit on me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh Lord I love you forever
+For you have always been my friend
+Yes I will love you forever
+And follow you until the end</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You laid your life down on the altar
+You endured hostility
+You drank the cup of the Father
+When I was still your enemy</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When I was far away you called me
+When I was broken in my sin
+You brought your Spirit upon me
+And put a new heart within</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh may my life burn as an offering
+That is pleasing unto thee
+I'll count it joy to share your suffering
+That your life may flow from me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Yes I will be forever grateful
+For you are always by my side
+I will proclaim that you are faithful
+And you're returning for a bride</lines>
+    </verse>
+  </lyrics>
+</song>

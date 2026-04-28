@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:19">
+  <properties>
+    <titles>
+      <title>Bei dir, Jesu, will ich bleiben</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Spitta (1833)</author>
+      <author type="music">Herz und Herz vereint zusammen</author>
+    </authors>
+    <ccliNo>4897637</ccliNo>
+    <themes>
+      <theme>Abendlieder</theme>
+      <theme>Sterben</theme>
+      <theme>Vertrauen</theme>
+      <theme>Nachfolge</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bei dir, Jesus, will ich bleiben,
+stets in deinem Dienste stehn;
+nichts soll mich von dir vertreiben,
+will auf deinen Wegen gehn.
+Du bist meines Lebens Leben,
+meiner Seele Trieb und Kraft,
+wie der Weinstock seinen Reben
+zuströmt Kraft und Lebenssaft.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Könnt ich's irgend besser haben
+als bei dir, der allezeit
+soviel tausend Gnadengaben
+für mich Armen hat bereit?
+Könnt ich je getroster werden
+als bei dir, Herr Jesu Christ,
+dem im Himmel und auf Erden
+alle Macht gegeben ist?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wo ist solch ein Herr zu finden,
+der, was Jesus tat, mir tut:
+mich erkauft von Tod und Sünden
+mit dem eignen teuren Blut?
+Sollt ich dem nicht angehören,
+der sein Leben für mich gab,
+sollt ich ihm nicht Treue schwören,
+Treue bis in Tod und Grab?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ja, Herr Jesu, bei dir bleib ich
+so in Freude wie in Leid;
+bei dir bleib ich, dir verschreib ich
+mich für Zeit und Ewigkeit.
+Deines Winks bin ich gewärtig,
+auch des Rufs aus dieser Welt;
+denn der ist zum Sterben fertig,
+der sich lebend zu dir hält.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bleib mir nah auf dieser Erden,
+bleib auch, wenn mein Tag sich neigt,
+wenn es nun will Abend werden
+und die Nacht herniedersteigt.
+Lege segnend dann die Hände
+mir aufs müde, schwache Haupt,
+sprich: "Mein Kind, hier geht's zu Ende;
+aber dort lebt, wer hier glaubt."</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bleib mir dann zur Seite stehen,
+graut mir vor dem kalten Tod
+als dem kühlen, scharfen Wehen
+vor dem Himmelsmorgenrot.
+Wird mein Auge dunkler, trüber,
+dann erleuchte meinen Geist,
+dass ich fröhlich zieh hinüber,
+wie man nach der Heimat reist.</lines>
+    </verse>
+  </lyrics>
+</song>

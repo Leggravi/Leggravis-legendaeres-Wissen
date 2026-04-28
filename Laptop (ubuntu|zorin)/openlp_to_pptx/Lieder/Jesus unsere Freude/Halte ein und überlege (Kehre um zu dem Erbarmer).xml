@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:12">
+  <properties>
+    <titles>
+      <title>Halte ein und überlege (Kehre um zu dem Erbarmer)</title>
+    </titles>
+    <authors>
+      <author type="words">Johanna Meyer (1891)</author>
+      <author type="music">George Coles Stebbins</author>
+    </authors>
+    <ccliNo>5577853</ccliNo>
+    <themes>
+      <theme>Evangelisation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Halte ein und überlege,
+(Sünder, o, wo willst du hin?),
+wo willst du im Leben hin?
+Dir graut selbst vor deinem Wege,
+denn ein Abgrund endet ihn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, das ist ein andres Leben,
+wenn man weiß, ich bin befreit,
+meine Sünden sind vergeben,
+meinem Herrn bin ich geweiht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Komm! Der Herr hat Himmelsgaben
+für den Menschen, der Ihn liebt.
+Komm, auch du kannst alles haben,
+was Er Gottes Kindern gibt!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du kannst selbst dich nicht bewahren;
+nimm Ihn auf in Herz und Haus!
+Und auch du wirst es erfahren:
+Gottes Kraft geht von Ihm aus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Komm und wirf dich vor Ihm nieder,
+um - befreit aus deiner Haft -
+dann zu Seiner Ehre wieder
+aufzustehn in Seiner Kraft.</lines>
+    </verse>
+  </lyrics>
+</song>

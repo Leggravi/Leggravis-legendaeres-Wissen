@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Cloud of Glory</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Cloud Of glory is moving,
+Move with the cloud,
+Move with the cloud.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let Your Spirit arise
+Let Your strength be renewed,
+Come let us move altogether
+As we follow the way he leads
+New life we shall receive,
+As we move with the cloud,
+Move with the cloud.</lines>
+    </verse>
+  </lyrics>
+</song>

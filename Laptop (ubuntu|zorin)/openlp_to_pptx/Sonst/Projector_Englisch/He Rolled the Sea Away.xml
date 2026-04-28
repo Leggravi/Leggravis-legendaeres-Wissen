@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Rolled the Sea Away</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When Israel out of bondage came,
+A sea before them lay;
+The Lord reach'd down
+ His mighty hand,
+And rolled the sea away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Then forward still,
+ 'tis Jehovah's will,
+Tho' the billows dash and spray,
+With a conq'ring tread
+ we will push ahead
+He'll roll the sea away.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Before me was a sea of sin,
+So great I feared to pray;
+My heart's desire the Savior read,
+And rolled the sea away.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When sorrows dark, like stormy waves,
+Were dashing o'er my way,
+Again the Lord in mercy came,
+And rolled the sea away.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And when I reach the sea of death,
+For needed grace I'll pray;
+I know the Lord will quickly come,
+And roll the sea away.</lines>
+    </verse>
+  </lyrics>
+</song>

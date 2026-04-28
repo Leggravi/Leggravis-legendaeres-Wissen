@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:01">
+  <properties>
+    <titles>
+      <title>Wenn wir unsre Gaben bringen</title>
+    </titles>
+    <authors>
+      <author type="words">Kathi Stimmer-Salzeder (1980)</author>
+      <author type="music">Kathi Stimmer-Salzeder</author>
+    </authors>
+    <themes>
+      <theme>Erntedank</theme>
+      <theme>Erntezeit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wenn wir unsre Gaben bringen, sollen sie ein Zeichen sein,
+dass wir da sind, um zu feiern, denn Gott lädt uns alle ein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wenn wir unsre Gaben bringen, lasst uns preisen unsern Gott,
+der uns schenkt die Frucht der Erde, Leben gibt in Wein und Brot.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn wir unsre Gaben bringen, bringen wir uns selber dar.
+Was wir sind und mit uns tragen, legen wir auf den Altar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wenn wir unsre Gaben bringen, wollen wir Gemeinschaft sein,
+dann bist du in unserer Mitte, schenkst dich uns in Brot und Wein.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Preist den Namen Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Gitta Leuschner</author>
+      <author type="music">Roy Hicks Jr.</author>
+      <author type="translation">Praise the name of Jesus</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>|: Preist den Namen Jesus :|
+Er ist mein Fels, Er ist meine Festung, 
+Er ist mein Erlöser, nur Ihm will ich vertraun! 
+Preist den Namen Jesus !</lines>
+    </verse>
+  </lyrics>
+</song>

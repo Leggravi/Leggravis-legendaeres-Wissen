@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:35">
+  <properties>
+    <titles>
+      <title>Dies ist die Nacht, da mir erschienen</title>
+    </titles>
+    <authors>
+      <author type="words">Kaspar Friedrich Nachtenhöfer (1684)</author>
+      <author type="music">Georg Joseph</author>
+    </authors>
+    <ccliNo>5219283</ccliNo>
+    <themes>
+      <theme>Weihnachten</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dies ist die Nacht, da mir erschienen
+des großen Gottes Freundlichkeit;
+das Kind, dem alle Engel dienen,
+bringt Licht in meine Dunkelheit,
+und dieses Welt- und Himmelslicht
+weicht hunderttausend Sonnen nicht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lass dich erleuchten, meine Seele,
+versäume nicht den Gnadenschein;
+der Glanz in dieser kleinen Höhle
+streckt sich in alle Welt hinein;
+er treibet weg der Höllen Macht,
+der Sünden und des Kreuzes Nacht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In diesem Lichte kannst du sehen
+das Licht der klaren Seligkeit;
+wenn Sonne, Mond und Stern vergehen,
+vielleicht noch in gar kurzer Zeit,
+wird dieses Licht mit seinem Schein
+dein Himmel und dein Alles sein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lass nur indessen helle scheinen
+dein Glaubens- und dein Liebeslicht;
+mit Gott musst du es treulich meinen,
+sonst hilft dir diese Sonne nicht;
+willst du genießen diesen Schein,
+so darfst du nicht mehr dunkel sein.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Drum, Jesu, schöne Weihnachtssonne,
+bestrahle mich mit deiner Gunst;
+dein Licht sei meine Weihnachtswonne
+und lehre mich die Weihnachtskunst,
+wie ich im Lichte wandeln soll
+und sei des Weihnachtsglanzes voll.</lines>
+    </verse>
+  </lyrics>
+</song>

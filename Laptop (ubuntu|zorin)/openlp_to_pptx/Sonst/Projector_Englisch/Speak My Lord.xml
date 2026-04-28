@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Speak, My Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Samuel Sebastian Wesley</author>
+      <author type="music">Frances Ridley Havergal</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hear the Lord of harvest sweetly calling.
+“Who will go and work for Me today?
+Who will bring to Me the lost and dying?
+Who will point them to the narrow way?”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Speak, my Lord, speak my Lord,
+Speak, and I’ll be quick to answer Thee;
+Speak, my Lord, speak, my Lord,
+Speak, and I will answer, “Lord, send me.”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the coal of fire touched the prophet,
+Making him as pure as pure can be.
+When the voice of God, said “Who’ll go for us?”
+The he answered, “Here I am, send me.”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Millions now in sin and shame are dying;
+Listen to their sad and bitter cry;
+Hasten, brother, hasten to the rescue;
+Quickly answer, “Master, here am I.”</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Soon the time for reaping will be over;
+Soon we’ll gather for the harvest home;
+May the Lord of harvest smile upon us,
+May we hear His blessed, “Child, well done.”</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>If You Happy and You Know It</title>
+    </titles>
+    <authors>
+      <author type="words">überliefert</author>
+      <author type="music">England</author>
+      <author type="translation">Wenn du glücklich bist</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If you're happy and you know it, Clap your hands,
+If you're happy and you know it, Clap your hands
+If you're happy and you know it, Then your face will surely show it,
+If you're happy and you know it, Clap your hands.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If you're happy and you know it, Stamp your feet,
+If you're happy and you know it, Stamp your feet,
+If you're happy and you know it,
+Then your face will surely show it,
+If you're happy and you know it, Stamp your feet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If you're happy and you know it, Say &quot;Amen!&quot; Amen!
+If you're happy and you know it, Say &quot;Amen!&quot; Amen!
+If you're happy and you know it,
+Then your face will surely show it.
+If you're happy and you know it, Say &quot;Amen!&quot; Amen!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If you're happy and you know it, Do all three, Amen!
+If you're happy and you know it, Do all three, Amen!
+If you're happy and you know it,
+Then your face will surely show it.
+If you're happy and you know it, Do all three, Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Greatest Morning Ever</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I woke up this morning,
+Wondering could this be the day,
+When those who beneath us are resting,
+Would arise to bring on that new day;
+Than my heart begins to beat for joy,
+Knowing what day that will be,
+For the bride will go to see Jesus,
+The bridegroom she so longs to see.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It'll be the greatest morning ever,
+When our loved ones again we behold.
+This time we'll meet, never to part,
+With Jesus we'll always be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The signs and times are telling us,
+That this is the day he'll return.
+There's wars and earthquakes everywhere,
+Hearts failing for the trouble they see.
+And the prophet has cried out again,
+Oh people turn back to God,
+For Jesus is coming for a bride,
+Who's garments are spotless and white.</lines>
+    </verse>
+  </lyrics>
+</song>

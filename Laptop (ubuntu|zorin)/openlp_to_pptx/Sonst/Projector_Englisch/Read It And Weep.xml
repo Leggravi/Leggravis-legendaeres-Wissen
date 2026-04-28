@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Read It And Weep</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lately I've been in the Word,
+and long to be there more,
+There's a simple understanding
+Of things I've never seen before;
+It's become a brand new book to me,
+the Author made it real;
+And weeping is the only way
+to express the way I feel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I hear the Word,
+I embrace what's heard;
+I love the things so simple
+yet so deep,
+Savor every part,
+hold it in my heart;
+When I'm in the Word
+I read it and weep.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As I grasp each line of Scripture,
+I hang on every Word;
+I bow my head in silence,
+for I feel my heart is stirred;
+Though wrote so many years ago,
+the Spirit's still the same;
+And I weep in expectation,
+as I whisper His sweet Name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The words are only letters
+Written on a page,
+But the Spirit makes it life to me,
+To live above a sinful age.</lines>
+    </verse>
+  </lyrics>
+</song>

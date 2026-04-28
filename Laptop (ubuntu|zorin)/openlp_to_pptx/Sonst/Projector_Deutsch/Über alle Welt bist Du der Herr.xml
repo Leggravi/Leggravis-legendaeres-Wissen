@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Über alle Welt bist Du der Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Jacobi</author>
+      <author type="music">Brenton Brown</author>
+      <author type="translation">Lord, reign in me (Over all the earth)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Über alle Welt bist Du der Herr
+Über jeden Berg, die Sonne und das Meer
+Doch mein größter Wunsch
+Das, was ich begehr', ist
+Herr, regiere Du in mir</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Regier in mir in Deiner Kraft
+Über jeden Traum, auch in tiefster Nacht
+Du bist mein Gott, ich gehöre Dir
+Darum regiere Du in mir</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alles, was ich denk und jedes Wort
+Soll ein Spiegel sein von Deiner Schönheit, Gott
+Du bedeutest mir
+Mehr als alles hier
+Darum regiere Du in mir</lines>
+    </verse>
+  </lyrics>
+</song>

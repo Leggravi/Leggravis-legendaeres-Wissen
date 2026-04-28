@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:37">
+  <properties>
+    <titles>
+      <title>Wie Gott mich führt, so will ich gehn</title>
+    </titles>
+    <authors>
+      <author type="words">Lambert Gedicke (1711)</author>
+      <author type="music">Aus tiefer Not schrei ich zu dir</author>
+    </authors>
+    <themes>
+      <theme>Lebensweg</theme>
+      <theme>Vetrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wie Gott mich führt, so will ich gehn,
+ohn' alles Eigenwählen;
+geschieht, was er mir ausersehn,
+wird’s mir an keinem fehlen.
+Wie er mich führt, so geh' ich mit,
+und folge willig Schritt für Schritt
+in kindlichem Vertrauen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wie Gott mich führt, so bin ich still
+und folge seinem Leiten:
+Obgleich im Fleisch der Eigenwill'
+will öfters widerstreiten.
+Wie Gott mich führt, bin ich bereit
+in Zeit und auch in Ewigkeit,
+stets seinen Schluss zu ehren.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wie Gott mich führt, bin ich vergnügt,
+ich ruh' in seinen Händen.
+Wie er es schickt und mit mir fügt,
+wie er’s will kehr’n und wenden,
+sei ihm hiermit ganz heimgestellt;
+er mach’s, wie es ihm wohlgefällt,
+zum Leben oder Sterben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wie Gott mich führt, so geb' ich mich
+in seinen Vaterwillen;
+Scheint’s der Vernunft gleich wunderlich:
+sein Rat wird doch erfüllen,
+was er in Liebe hat bedacht,
+eh' er mich an das Licht gebracht;
+ich bin ja nicht mein eigen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wie Gott mich führt, so bleib' ich treu
+im Glauben, Hoffen, Leiden.
+Steht er mit seiner Kraft mir bei,
+was will mich von ihm scheiden?
+Ich fasse in Geduld mich fest;
+was Gott mir widerfahren lässt,
+muss mir zum Besten dienen.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wie Gott mich führt, so will ich gehn,
+es geh' durch' Dorn und Hecken.
+Von vornen lässt sich Gott nicht sehn,
+doch einst wird er’s aufdecken,
+wie er nach seinem Vaterrat
+mich treu und wohl geführet hat;
+dies sei mein Glaubensanker.</lines>
+    </verse>
+  </lyrics>
+</song>

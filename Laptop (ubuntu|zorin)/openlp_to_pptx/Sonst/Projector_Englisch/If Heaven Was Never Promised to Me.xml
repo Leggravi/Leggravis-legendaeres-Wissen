@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>If Heaven Was Never Promised to Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You may ask me why do You serve the Lord
+Is it just for heaven's gain
+Or to walk those mighty streets of gold
+Or to hear the angels sing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Is it just to drink from that fountain
+That never shall run dry
+Or is it to live forever, ever, and ever
+In that sweet old by and by</lines>
+    </verse>
+    <verse name="v3">
+      <lines>But if heaven never was promised to me
+Neither God's promise to live eternally
+It's been worth just having the Lord in my life
+I was livin' in a world of darkness
+But he brought me the light</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If there were never any streets of gold
+Neither a land where we will never grow old
+It's been worth just having the Lord in my life
+I was livin' in a world of darkness
+But He brought me the light</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He's been my closest friend down through the years
+And every time I cry you know He dries all my tears
+It's been worth just having the Lord in my life
+I was livin' in a world of darkness
+But He brought me the light</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You know I was livin' in a world of darkness
+But He brought me the light
+I was livin' in a world of darkness
+But He brought me the light</lines>
+    </verse>
+  </lyrics>
+</song>

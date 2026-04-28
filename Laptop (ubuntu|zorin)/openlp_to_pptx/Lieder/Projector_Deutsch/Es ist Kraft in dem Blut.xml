@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Es ist Kraft in dem Blut</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Möchtest du los sein vom Banne der Sünd?
+Es ist Kraft in dem Blut, Kraft in dem Blut.
+Komm, deine Seele den Frieden gewinnt,
+Denn Reinigungskraft hat das Blut!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Es ist Kraft, Kraft, wunderbare Kraft
+In dem Blut, in dem Blut
+Es ist Kraft, Kraft, wunderbare Kraft
+In dem Blut des Heilands allein</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Möchtest du frei von der Leidenschaft sein?
+Es ist Kraft in dem Blut, Kraft in dem Blut.
+Golgathas Blut will zum Sieger dich weih'n!
+Es ist Sieg da für dich durch das Blut.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Möchtest du rein sein, viel weißer als Schnee?
+Es ist Kraft in dem Blut, Kraft in dem Blut.
+Rein wäscht's von Flecken und nimmt jedes Weh!
+Ganz rein wirst du sein in dem Blut.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Möchtest du Jesus hier dienen so gern?
+Es ist Kraft in dem Blut, Kraft in dem Blut.
+Möchtest du preisen den gnädigen Herrn?
+Es ist Kraft Stund um Stund in dem Blut!</lines>
+    </verse>
+  </lyrics>
+</song>

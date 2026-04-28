@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Remind me Dear Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The things that I love and hold dear to my heart
+Are just borrowed they're not mine at all
+Jesus only let me use them to brighten my light
+So remind me, remind me dear Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Roll back the curtain of memory now and then
+Show me where you brought me from
+And where I could have been
+Just remember I'm human, and human forget
+So remind me, remind me dear Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nothing good have I done to deserve God's own son
+I'm not worthy of the scars in his hands
+Yet He chose the road to Calvary to die in my stead
+Why He loved me I can't understand</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Just remember I'm human, and human forget
+So remind me, remind me dear Lord</lines>
+    </verse>
+  </lyrics>
+</song>

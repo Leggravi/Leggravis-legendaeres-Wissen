@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gott dein guter Segen</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott, dein guter Segen ist wie ein großes Zelt
+Hoch und weit, fest gespannt über unsre Welt
+Guter Gott, ich bitte dich
+Schütze und bewahre mich</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lass mich unter deinem Segen
+Leben und ihn weitergeben
+Bleibe bei uns alle Zeit
+Segne uns, segne uns, denn der Weg ist weit
+Segne uns, segne uns, denn der Weg ist weit</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gott, dein guter Segen ist wie ein helles Licht
+Leuchtet weit, alle Zeit in der Finsternis
+Guter Gott, ich bitte dich
+Leuchte und erhelle mich</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lass mich unter deinem Segen
+Leben und ihn weitergeben
+Bleibe bei uns alle Zeit
+Segne uns, segne uns, denn der Weg ist weit
+Segne uns, segne uns, denn der Weg ist weit</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gott, dein guter Segen ist wie des Freundes Hand
+Die mich hält, die mich führt
+In ein weites Land
+Guter Gott, ich bitte dich
+Führe und begleite mich</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Lass mich unter deinem Segen
+Leben und ihn weitergeben
+Bleibe bei uns alle Zeit
+Segne uns, segne uns, denn der Weg ist weit
+Segne uns, segne uns, denn der Weg ist weit</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Gott, dein guter Segen ist wie ein weiches Nest
+Danke Gott, weil du mich heute leben lässt
+Guter Gott, ich danke dir
+Deinen Segen schenkst du mir</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Und ich kann in deinem Segen
+Leben und ihn weitergeben
+Du bleibst bei uns alle Zeit
+Segnest uns, segnest uns, denn der Weg ist weit
+Segnest uns, segnest uns, denn der Weg ist weit</lines>
+    </verse>
+  </lyrics>
+</song>

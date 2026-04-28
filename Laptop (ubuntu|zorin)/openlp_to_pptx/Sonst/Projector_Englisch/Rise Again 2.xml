@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Rise Again (2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Go ahead, drive the nails in my hands
+Laugh at me where you stand
+Go ahead, and say it isn't me
+The day will come, when you will see!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Cause I'll rise again
+Ain't no power on earth can tie me down
+Yes, I'll rise again
+Death can't keep me in the ground!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Go ahead, and mock my name
+My love for you is still the same
+Go ahead, and bury me
+But very soon I will be free!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Go ahead, and say I'm dead and gone
+But you will see that you were wrong
+Go ahead, try to hide the Son
+But all will see
+that I'm the One!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>'Cause I'll Come again
+Ain't no power on earth can keep me back
+Yes, I'll come again
+Come to take my people back</lines>
+    </verse>
+  </lyrics>
+</song>

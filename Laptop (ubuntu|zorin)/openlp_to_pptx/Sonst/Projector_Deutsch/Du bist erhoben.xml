@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist erhoben</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Friedrich Hiller</author>
+      <author type="music">Johann Löhner</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist erhoben, für immer gehört dir der Thron
+Wir beten dich an
+Du bist erhoben, in Ewigkeit loben
+Und beten wir dich an!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist der Herr, der in Wahrheit regiert
+Deiner Majestät alle Ehre gebührt
+Du bist erhoben, für immer gehört dir der Thron.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du bist der Herr, dir folgen wir,
+Deine Majestät haben wir gesehen.
+Du bist erhoben, für immer gehört dir der Thron.</lines>
+    </verse>
+  </lyrics>
+</song>

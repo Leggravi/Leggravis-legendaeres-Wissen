@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>On the Wings of Pray'r</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Troubles may fall like showers of rain,
+Leaving my soul with heartache and pain,
+But I have a refuge, a blessed retreat,
+Wonderful pray'r time at the saviors dear feet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'll fly away on the wings of pray'r,
+I'll fly away leave my trouble and care;
+Jesus is waiting, my burdens to share,
+I'll fly away on the wings of pray'r.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, what a joy to whispers His name,
+Stand on His word, His promises claim,
+New courage he gives me, refreshment is there,
+O, what a blessing, that sweet moment of pray'r.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'll fly away on the wings of pray'r</lines>
+    </verse>
+  </lyrics>
+</song>

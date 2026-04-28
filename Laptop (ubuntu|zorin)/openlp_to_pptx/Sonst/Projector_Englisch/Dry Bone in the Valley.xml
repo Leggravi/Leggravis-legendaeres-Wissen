@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dry Bone in the Valley</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was a dry bone in the valley,
+When Jesus found me;
+A dry bone in the valley,
+When He put flesh upon me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Said, “Son of Man, can these dry bones live? ”
+And I answered, “Oh Lord, Thou knowest. ”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You have given us prophetic eyes,
+So we won’t believe Satan’s lies;
+Although the world thinks us absurd,
+We’ll keep on holding to Your Word.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We are the flowers and You are life’s essence,
+May Oh Lord, You have the pre- eminence;
+For that’s the reason why You made us,
+To achieve Your greatest purpose.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Now I stand justified and do appreciate
+The out-pouring of Your wonderful grace;
+Sanctified from the bondage of sin,
+As the Holy Spirit now dwells within.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Now I’m no longer a dry bone in the valley,
+Since Jesus set me free;
+And now I’m growing in His Grace,
+And some day soon I’ll see His face.</lines>
+    </verse>
+  </lyrics>
+</song>

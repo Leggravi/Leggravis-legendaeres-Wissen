@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Prayer For You</title>
+    </titles>
+    <authors>
+      <author type="words">Melody Green</author>
+      <author type="music">Melody Green</author>
+      <author type="translation">Will bei dir zur Schule gehn</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For anyone who's prayed a thousand prayers
+And still can't find the answer anywhere
+Fighting off the lie that no one cares
+For anyone who's out there losing hope
+Feeling you're forsaken and alone
+Clinging to the last strands of your rope</lines>
+    </verse>
+    <verse name="v2">
+      <lines>May God give you eyes to see, He's still greater
+Courage to rise and believe He's able
+May God be your peace in the fire you're walking through
+This is my prayer now
+This is my prayer for you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For all of those with tired and weary souls
+But still have faith to ask for miracles
+Choosing to believe He's in control</lines>
+    </verse>
+    <verse name="v4">
+      <lines>May God give you eyes to see, He's still greater
+Courage to rise and believe He's able
+May God be your peace in the fire you're walking through
+This is my prayer now
+This is my prayer</lines>
+    </verse>
+    <verse name="v5">
+      <lines>May your eyes be ever on the Lord, your helper
+May you find your refuge in the Lord, your shelter
+May you find Him closer than a brother all your days
+All of your days!
+And may your eyes be ever on the Lord, your helper
+May you find your refuge in the Lord, your shelter
+May you find Him closer than a brother all your days
+All of your days!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>May God give you eyes to see, He's still greater
+Courage to rise and believe He's able
+May God be your peace in the fire you're walking through
+This is my prayer now
+This is my prayer for you!
+For you!</lines>
+    </verse>
+  </lyrics>
+</song>

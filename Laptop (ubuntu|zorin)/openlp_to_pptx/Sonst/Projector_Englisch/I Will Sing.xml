@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Will Sing</title>
+    </titles>
+    <authors>
+      <author type="words">Jacque DeShetler</author>
+      <author type="music">Jacque DeShetler</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will sing
+I will worship You
+I will bow myself down
+Humbly at Your throne
+I will give anything
+I will give everything
+To You alone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I long to be the bride that You're returning for
+Dressed in garments white and wrinkle free
+I have no earthy love that I am holding to
+For You're the One who means everything to me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are the faithful God who keeps Your covenant
+There's not one thing You've said You haven't done
+And someday when I see You standing face to face
+My praise for You will only have begun!</lines>
+    </verse>
+  </lyrics>
+</song>

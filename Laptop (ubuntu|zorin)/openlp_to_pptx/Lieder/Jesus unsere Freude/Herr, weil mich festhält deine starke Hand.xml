@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:33">
+  <properties>
+    <titles>
+      <title>Herr, weil mich festhält deine starke Hand</title>
+    </titles>
+    <authors>
+      <author type="words">Helga Winkel (1957)</author>
+      <author type="music">Charles Henry Purday</author>
+    </authors>
+    <ccliNo>4351850</ccliNo>
+    <themes>
+      <theme>Trost</theme>
+      <theme>Vertrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, weil mich festhält deine starke Hand, vertrau ich still.
+Weil du voll Liebe, dich zu mir gewandt, vertrau ich still.
+Du machst mich stark, du gibst mir frohen Mut,
+ich preise dich, dein Wille, Herr, ist gut.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr, weil ich weiß, dass du mein Retter bist, vertrau ich still.
+Weil du für mich das Lamm geworden bist, vertrau ich still.
+Weil ich durch dich dem Tod entrissen ward,
+präg tief in mich, Herr, deine Lammesart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr, weil du jetzt für mich beim Vater flehst, vertrau ich still.
+Weil du zu meiner Rechten helfend stehst, vertrau ich still.
+Droht mir der Feind, so schau ich hin auf dich,
+ein Bergungsort bist du, o Herr, für mich.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ist auch die Zukunft meinem Blick verhüllt, vertrau ich still.
+Seitdem ich weiß, dass sich dein Plan erfüllt, vertrau ich still.
+Seh’ ich nicht mehr als nur den nächsten Schritt,
+mir ist's genug! Mein Herr geht selber mit.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mein Zuhaus</title>
+    </titles>
+    <authors>
+      <author type="words">Arne Kopfermann</author>
+      <author type="music">Sefora Nelson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ob Berg ob Tal, ob Meer ob Strand
+Ich find ein Heim in jedem Land
+Bei dir ist Schutz und Sicherheit
+Zu jeder Zeit, du bist nicht weit
+Vergeblich wär' al mein Begehren
+Wärst du nicht da, um mich zu führen
+In meinem Segel, sei der Wind
+Sei du mein Gott, ich bin dein Kind</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mein Heimatland und mein Zuhaus
+Bist du mein Gott, Tag ein, Tag aus
+Der Ort, der jede Sehnsucht stillt
+Der Ort, der jede Lücke füllt</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr, wie ich leb' das hat Gewicht
+Mach mich zum Salz, mach mich zum Licht
+Dein Wesen strahle auf mich ab
+Dein Geist, er kom' auf mich herab
+Da ist kein Ort, wo du nicht bist
+Und keine Stadt, die du vergisst
+Für jedes Land und jeden Stamm
+Für alle starb das Gottes Lamm</lines>
+    </verse>
+  </lyrics>
+</song>

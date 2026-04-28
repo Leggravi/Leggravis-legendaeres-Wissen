@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All time all</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">William Walton</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: At all times
+All times
+I will bless the Lord
+At all times :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Strong and courageous
+Mighty in battle
+He’s fighting for us
+The victory is ours</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Put on your armor
+The sword of the spirit
+Our weapon is worship
+The victory is ours
+Shout out to Jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: At all times
+All times
+I will bless the Lord
+At all times :/</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Praise Him in the valley
+Praise Him on the mountain
+Praise Him in the heavens
+The victory is ours</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Worship while you’re weeping
+Worship while you’re waiting
+Worship while you’re winning
+The victory is ours
+Shout out to Jesus
+Shout out to Jesus</lines>
+    </verse>
+    <verse name="v7">
+      <lines>/: At all times
+All times
+I will bless the Lord
+At all times :/ 5x</lines>
+    </verse>
+  </lyrics>
+</song>

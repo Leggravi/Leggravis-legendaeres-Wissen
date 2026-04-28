@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 11, 2021, 6:05:34 PM">
+  <properties>
+    <titles>
+      <title>Great Is the Lord and Most Worthy of Praise</title>
+    </titles>
+    <verseOrder>V1 V2 C3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Great is the Lord and most worthy of praise
+The city of our God, the holy place
+The joy of the whole earth</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Great is the Lord in whom we have the victory
+He aids us against the enemy
+We bow down on our knees</lines>
+    </verse>
+    <verse name="C3">
+      <lines>And Lord, we want to lift
+Your name on high
+And Lord, we want to thank You
+For the works You've done in our lives
+And Lord, we trust in Your unfailing love
+For You alone are God eternal
+Throughout earth and heaven above</lines>
+    </verse>
+  </lyrics>
+</song>

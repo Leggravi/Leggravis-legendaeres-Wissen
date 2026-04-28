@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Zieht in Frieden eure Pfade</title>
+    </titles>
+    <authors>
+      <author type="words">Gustav Knak</author>
+      <author type="music">Wachet auf, ruft uns die Stimme</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zieht in Frieden eure Pfade!
+Mit euch des großen Gottes Gnade
+und seiner heil'gen Engel Wacht!
+Wenn euch Jesu Hände schirmen,
+geht's unter Sonnenschein und Stürmen
+getrost und froh bei Tag und Nacht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lebt wohl im Herrn!
+Er sei euch nimmer fern
+spät und frühe.
+Vergesst uns nicht
+in Seinem Licht
+und wenn ihr sucht Sein Angesicht.</lines>
+    </verse>
+  </lyrics>
+</song>

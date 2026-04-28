@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Will Praise</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Crocker</author>
+      <author type="music">Matt Crocker</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Today, oh, I will lift up my voice in praise(X2)
+For I know You are always there for me
+Almighty God You are my All in all
+No matter what I face
+When success comes my way
+I will praise Your Name.</lines>
+    </verse>
+  </lyrics>
+</song>

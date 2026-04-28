@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Holy Ghost</title>
+    </titles>
+    <authors>
+      <author type="words">Bjorn Aslakson</author>
+      <author type="music">Bjorn Aslakson</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v2 v3 v3 v2 v3 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Consuming fire
+My heart's desire
+Oh, how I need You more
+A fresh outpour
+With no resistance
+I give permission
+So come now, invade my heart
+This life is Yours</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come fill me up, Holy Ghost
+Shine brighter till the whole world knows Your love
+Your love
+Come set me on a holy fire
+Burn bright until the whole world finds Your love
+Your love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/: This is my one desire
+And only this I seek
+To be a living fire
+Consumed completely :/</lines>
+    </verse>
+  </lyrics>
+</song>

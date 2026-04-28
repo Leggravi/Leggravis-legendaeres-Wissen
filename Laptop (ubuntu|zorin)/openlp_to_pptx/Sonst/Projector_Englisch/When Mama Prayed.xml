@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When Mama Prayed</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Daddy never went to church on Sunday
+He said that's one thing I'll never do
+But mama never gave up she said one day
+He'll be sitting here beside of me and you
+I can still hear mama softly talking
+With her tears falling on her folded hands
+So that Easter Sunday Daddy walked in
+That's when I began to understand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When mama prayed, good things happen
+When mama prayed, lives were changed
+Not much more than five foot tall
+But mountains big and small crumbled all away
+When mama prayed</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Seventeen and wild I hit the bottle
+Doing anything I dang well please
+Burning down life's highway at full throttle
+While mama burned a candle on her knees
+Then one night I came home half sober
+I saw mama kneeling in the den
+As I listened she and Jesus talked it over
+And I knew my restless days were'bout to end</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It isn't like every one of them got answered
+But the times they weren't it seems to me were rare
+You almost felt sorry for the devil
+'Cause heaven knows he didn't have a prayer
+When mama prayed
+Not much more than five foot tall
+But mountains big and small crumbled all away
+When mama prayed
+They crumbled all away
+When mama prayed</lines>
+    </verse>
+  </lyrics>
+</song>

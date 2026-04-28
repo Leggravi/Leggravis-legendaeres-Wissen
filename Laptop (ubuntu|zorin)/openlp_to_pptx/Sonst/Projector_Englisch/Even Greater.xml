@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Even Greater</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Take what I've been given,
+make it multiply.
+Take the life I'm living
+make it touch the sky.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You can take us higher
+Than we've ever been
+Lord you will inspire
+Lord you always win.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Even greater things
+than have been done before,
+take what we have done
+and make it more,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>even greater things
+than have been done before,
+even greater things
+through Christ the Lord!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Giant was so mighty,
+over nine feet tall.
+DavId looked so tiny,
+seemed so very small.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>But your hand was with him,
+And the stone he slung,
+You gave him the vision,
+and through You he won.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>It was just a pebble
+made Goliath fall,
+I must be more faithful,
+I must give my all</lines>
+    </verse>
+    <verse name="v8">
+      <lines>I've seen what you can do
+With a stone and sling!
+Take this life I give you;
+Take my ev'rything.</lines>
+    </verse>
+  </lyrics>
+</song>

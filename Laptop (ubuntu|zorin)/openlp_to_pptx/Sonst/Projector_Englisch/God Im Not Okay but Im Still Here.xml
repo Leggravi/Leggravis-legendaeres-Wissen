@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God, I’m Not Okay but I’m Still Here</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I smile when I’m breaking
+Stay strong when I’m weak
+Say “I’m fine” through the aching
+Hide tears no one sees
+But You’ve been there in the silence
+Where no spotlight ever shone
+You see the fight I never mentioned
+And You still call me Your own</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God, I’m not okay but I’m still here
+Holding on through every quiet tear
+When the world moves on, You stay near
+You don’t need me to pretend
+You just sit with me again
+God, I’m not okay… but I’m still here</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I show up when I’m empty
+Sing songs when I’m numb
+Try praying when the words
+Just don’t seem to come
+But You’re not looking for perfection
+Just my barely-holding-on
+You’re the Shepherd in my questions
+The strength when I am gone</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God, I’m not okay but I’m still here
+Breathing through the doubt and hidden fear
+You don’t need my polished prayer
+You just need my quiet heart
+You’ve loved me from the start
+God, I’m not okay… but I’m still here</lines>
+    </verse>
+    <verse name="v5">
+      <lines>If all I bring is brokenness
+That’s enough for You
+You never left my side
+You never needed proof</lines>
+    </verse>
+    <verse name="v6">
+      <lines>God, I’m not okay but I’m still here
+And somehow You still draw me near
+You’re the hope I cling to in my tears
+You don’t ask me to be fine
+You just whisper: “You are mine”
+God, I’m not okay… but I’m still here</lines>
+    </verse>
+  </lyrics>
+</song>

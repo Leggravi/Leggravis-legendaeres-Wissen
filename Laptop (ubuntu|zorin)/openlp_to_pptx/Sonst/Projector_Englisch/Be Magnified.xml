@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Be Magnified</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have made You to small
+in my eyes,
+O, Lord, forgive me;
+And I have believed in a lie
+That You were unable
+to help me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But now, O Lord, I see
+my wrong.
+Heal my heart
+and show Yourself strong,
+And in my eyes,
+and in my song
+O Lord, be magnified.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Be magnified, O Lord,
+You are highly exalted
+And there is nothing
+You can't do
+O lord, my eyes are on You
+Be magnified,
+O Lord, be magnified.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Love Is His Love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'd like to write a song
+about our love
+And all the precious moments
+we have shared till now;
+But I'd rather write
+about our Lord above,
+Because it was Him
+who brought this union all about.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This Love is His Love,
+He formed it from the start;
+Brought us together
+We were in His heart;
+This Love is His Love
+and He will lead the way,
+He will be our stay;
+For this Love (this love)
+is His Love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As our hearts are joined
+we give them back to God,
+So that His perfect will
+can lead us in our lives;
+And through the years
+in all the good times and the trials,
+We will pray His Love
+will guide us day and night.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A marriage takes more than two,
+It takes three;
+So I pray that He will work
+through you and me.</lines>
+    </verse>
+  </lyrics>
+</song>

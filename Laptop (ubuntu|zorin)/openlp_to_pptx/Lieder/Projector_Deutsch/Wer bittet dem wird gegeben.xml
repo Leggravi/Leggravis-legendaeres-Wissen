@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wer bittet, dem wird gegeben</title>
+    </titles>
+    <authors>
+      <author type="words">Christoph Zehendner</author>
+      <author type="music">Christoph Zehendner</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wer bittet, dem wird gegeben.
+Wer sucht, der wird finden.
+Wer anklopft, dem wird aufgetan.
+Ein Vater gibt seinen Kindern, all das was sie brauchen.
+Wie viel mehr gibst du uns deinen Geist.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vater ich danke dir, Von deinen Gaben leben wir und was wir haben kommt von dir.
+Du bist so gut zu mir.
+Vater ich preise dich, denn du bist immer da für mich.
+Lässt deine Kinder nie im Stich.
+Du bist so gut zu mir.</lines>
+    </verse>
+  </lyrics>
+</song>

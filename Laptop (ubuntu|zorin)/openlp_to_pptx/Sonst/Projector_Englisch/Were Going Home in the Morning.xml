@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We're Going Home in the Morning</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We're going home
+In the morning,
+We're going home
+It won't be long</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I can't afford to get my lines
+tangled in these kind of times,
+So I'm looking nine times
+Before I make one step,
+I don't want to be caught
+In an unconscious state of mind,
+For I want to leave this earth
+In the twinkling of an eye.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We are going to slip from time into eternity,
+And we are going to become
+One with our Theophany,
+We're going to live in that mansion
+God has prepared for me,
+We're going to leave
+This old pest-house for eternity.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We're going to be reunited
+With our loved ones
+Who have gone on before
+To that other dimension;
+And soon we'll see Him face to face,
+The One who lives inside our hearts;
+Who saved us by His amazing grace,
+We'll be with Him never to depart.</lines>
+    </verse>
+  </lyrics>
+</song>

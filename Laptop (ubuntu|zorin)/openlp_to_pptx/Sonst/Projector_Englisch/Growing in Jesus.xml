@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Growing in Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It takes a lot of growing
+for a tree to reach the sky
+It takes a lot of rain to help it grow
+It takes a lot of running
+for a child to catch the wind
+It takes a lot of walking to learn to run</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I'm growing in Jesus getting stronger
+Each and every day and in every way
+'Cause Jesus is growing in me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Many times I felt discouraged
+when the rain got in my way
+I didn't know that it could make me grow.
+And everytime I run ahead
+I always miss the turn
+I end up walking back to what I've learned</lines>
+    </verse>
+  </lyrics>
+</song>

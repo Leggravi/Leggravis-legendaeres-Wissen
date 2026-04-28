@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Predestinated</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am predestinated by God’s foreknowledge,
+For He knew that I will serve Him,
+From the start
+He Knew that I see the light
+And conform to His own message,
+That’s why He placed the seed in my heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I may not understand it
+And I may not comprehend it,
+But I know He said it,
+So I believe it.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>How can we sin if we’re born of Him
+And how can we sin if the seed remain,
+For before I ever knew,
+He has me on His thinking,
+That’s why He placed the seed in my heart.</lines>
+    </verse>
+  </lyrics>
+</song>

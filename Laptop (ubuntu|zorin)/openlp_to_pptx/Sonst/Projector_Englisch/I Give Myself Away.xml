@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Give Myself Away</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v4 v5 v1 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I give myself away
+I give myself away
+So You can use me
+I give myself away
+I give myself away
+So You can use me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here I am, here I stand
+Lord, my life is in Your hand
+Lord, I'm longing to see
+Your desires revealed in me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Take my heart, take my life
+As a living sacrifice
+All my dreams, all my plans
+Lord, I place them in Your hands</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I give myself away
+I give myself away
+So You can use me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My life is not my own
+To You I belong
+I give myself, I give myself to You.
+My life is not my own
+To You I belong
+I give myself, I give myself to You.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Here I am to worship
+Here I am to bow down
+Here I am to say that
+You're my God
+You're altogether lovely
+Altogether worthy
+Altogether wonderful to me</lines>
+    </verse>
+  </lyrics>
+</song>

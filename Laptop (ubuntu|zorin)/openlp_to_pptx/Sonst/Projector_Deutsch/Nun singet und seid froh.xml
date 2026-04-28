@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nun singet und seid froh</title>
+    </titles>
+    <authors>
+      <author type="words">Hannover</author>
+      <author type="music">Wittenberg</author>
+      <author type="translation">Good Christian Men, Rejoice</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nun singet und seid froh, jauchzt all' und saget so:
+Unsers Herzens Wonne liegt in der Krippe bloß
+Leuchtet als die Sonne in seiner Mutter Schoß.
+|: Du bist A und O. : |</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sohn Gottes in der Höh', nach dir ist mir so weh!
+Tröst mein Gemüte, o Kindlein zart und rein,
+Und durch deine Güte o liebstes Jesulein!
+|: Zeuch mich hin nach dir!: |</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Groß ist des Vaters Huld, der Sohn tilgt unsre Schuld;
+Da wir ganz verdorben durch Sünd' und Eitelkeit,
+Hat er uns erworben die ew'ge Himmelsfreud'.
+|: Eia, wär'n wir da!: |</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wo ist der Freudenort? Sonst nirgend mehr denn dort,
+Da die Engel singen dem lieben Jesulein,
+Und die Psalmen klingen im Himmel hell und rein.
+|: Eia, wär'n wir da!: |</lines>
+    </verse>
+  </lyrics>
+</song>

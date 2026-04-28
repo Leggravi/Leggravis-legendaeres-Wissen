@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Are the Reason</title>
+    </titles>
+    <authors>
+      <author type="words">David Meece</author>
+      <author type="music">David Meece</author>
+      <author type="translation">Wir sind zum Leben bestimmt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As little children,
+We would dream of Christmas morn
+And all the gifts and toys
+We knew we'd find,
+But we never realized a baby born
+one blessed night,
+Gave us the greatest gift of our lives.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are the reason
+that He gave His life.
+We are the reason
+that He suffered and died.
+To a world that was lost
+He gave all He could give
+To show us the reason to live.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As the years went by
+We learned more of our gift,
+The giving of ourselves
+And what love means.
+On a dark and cloudy day
+A man hung dying in the rain
+Because of love, Because of love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We are the reason
+that He gave His life.
+We are the reason
+that He suffered and died.
+To a world that was lost
+He gave all He could give
+He is the reason to live.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I've finally found the reason for living:
+It's in giving every part of my heart to Him;
+In all that I do, Every word that I say
+I'll be giving my heart just for Him.</lines>
+    </verse>
+  </lyrics>
+</song>

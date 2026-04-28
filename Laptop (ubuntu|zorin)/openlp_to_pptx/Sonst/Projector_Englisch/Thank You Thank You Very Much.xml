@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thank You, Thank You Very Much</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thank you, thank you very much
+You are the Savior with a spiritual touch
+Praise You, praise Your Holy Name
+Since You’ve touched my life I’ve never been the same</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now in my darkness you are my light
+And in confusion You guide me alright
+I sing sweet Jesus, morning and night
+And in my blindness You’re such a beautiful sight</lines>
+    </verse>
+  </lyrics>
+</song>

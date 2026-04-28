@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Gnade Gottes, wunderbar</title>
+    </titles>
+    <authors>
+      <author type="words">Anton Schulte</author>
+      <author type="music">Southern Folk Melody</author>
+      <author type="translation">Amazing Grace</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Gnade Gottes, wunderbar
+hast du erretet mich.
+Ich war verloren ganz und gar,
+war blind, jetzt sehe ich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Die Gnade hat mich Furcht gelehrt
+und auch von Furcht befreit,
+seitdem ich mich zu Gott bekehrt
+bis hin zur Herrlichkeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Durch Schwierigkeiten mancher Art
+wurd' ich ja schon geführt,
+doch hat die Gnade mich bewahrt,
+die Ehre Gott gebührt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wenn wir zehntausend Jahre sind
+in Seiner Herrlichkeit,
+mein Herz noch von der Gnade singt
+wie in der ersten Zeit.</lines>
+    </verse>
+  </lyrics>
+</song>

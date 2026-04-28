@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mein Jesus, ich lieb Dich</title>
+    </titles>
+    <authors>
+      <author type="words">Ulrich Betz</author>
+      <author type="music">Adoniram Judson Gordon</author>
+      <author type="translation">My Jesus, I love Thee</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mein Jesus, ich lieb Dich, ich weiß, Du bist mein.
+Dir will ich gehören, nur Dir ganz allein.
+Du bist mein Erretter. Mein Dank such Dein Ohr:
+&quot;Ich liebe Dich heute wie niemals zuvor!&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zuerst liebtest Du mich, nun liebe ich Dich!
+Vergebung der Sünden erwarbst Du für mich
+als Opfer am Kreuz, das Sein Leben verlor:
+&quot;Ich liebe Dich heute wie niemals zuvor!&quot;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Im Leben, im Sterben, Herr halt ich Dich fest.
+Ich möchte Dir dienen, soland Du mich läßt,
+und rufen Dir zu noch an des Todes Tor:
+&quot;Ich liebe Dich heute wie niemals zuvor!&quot;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Voll ewiger Freude, im himmlischen Licht
+werd ich Dich anbeten und schau n Dein Gesicht.
+Dann werde ich singen mit der Erlösten Chor:
+&quot;Ich liebe Dich heute wie niemals zuvor!&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Your Name Will Be Praised</title>
+    </titles>
+    <authors>
+      <author type="words">Jon Egan</author>
+      <author type="music">Jon Egan</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From the rising sun
+To the end of the day
+Your Name will be praised, Jesus
+Your Name will be praised</lines>
+    </verse>
+    <verse name="v2">
+      <lines>From the prophets of old
+To the mouths of babes
+Your Name will be praised, Jesus
+Your Name will be praised</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Glory to You, Exalted One
+Who gave Your life away
+Glory to You, our Risen King
+Jesus, Your Name will be praised
+Your Name will be praised</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For the gift of new life
+For Your mercies each day
+Your Name will be praised, Jesus
+Your Name will be praised</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Through the darkest of nights
+When we can't find out way
+We will walk by faith not sight, Lord
+And Your Name will be praised</lines>
+    </verse>
+    <verse name="v6">
+      <lines>For who You are
+For what You've done
+For what You've yet to do
+The song we raise
+This day we proclaim
+All glory to You
+All glory to You, Exalted One
+Who gave Your life away
+Glory to You, our Risen King
+Jesus, Your Name will be praised
+Your Name will be praised
+Your Name will be praised</lines>
+    </verse>
+  </lyrics>
+</song>

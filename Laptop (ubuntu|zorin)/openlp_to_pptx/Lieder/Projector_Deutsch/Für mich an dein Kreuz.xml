@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Für mich an dein Kreuz</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>An deinem Kreuz
+Wird mein Herz still
+Denn du, Herr
+Sahst meine Schuld
+Nahmst sie auf dich
+Durch dein Blut</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alles, was mir wertvoll war
+Bedeutet mir nichts mehr</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Führ mich an dein Kreuz, wo die Liebe floss.
+Lass mich vor dir knien, nimm mein Leben hin.
+Mache mich ganz neu, ich gehöre dir.
+Und führ mich,
+führ mich an dein Kreuz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du warst mir gleich
+Als Mensch versucht
+Und doch Gott
+Das Wort wurde Fleisch
+Trug meine Schuld
+Und besiegte den Tod</lines>
+    </verse>
+    <verse name="v5">
+      <lines>An dein Herz
+An dein Herz
+Führ mich an dein Herz
+Führ mich an dein Herz
+An dein Herz
+An dein Herz
+Führ mich an dein Herz
+Führ mich an dein Herz</lines>
+    </verse>
+  </lyrics>
+</song>

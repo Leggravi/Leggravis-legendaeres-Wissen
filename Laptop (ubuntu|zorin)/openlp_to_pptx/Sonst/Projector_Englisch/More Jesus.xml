@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>More Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Eliza Edmunds Hewitt</author>
+      <author type="music">John R. Sweney</author>
+      <author type="translation">Hätte ich mehr von Jesus nur</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v3 v4 v7 v3 v4 v3 v4 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I wake up every morning
+With a prayer in my soul
+Thanking God for my blessings
+And for help as I grow</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And, no matter what my day brings
+I know just who I need</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I need more Jesus, Jesus, Jesus
+A little more light
+A little more love
+A little more hope</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I need more Jesus, Jesus, Jesus
+When I’m by His side
+He lifts my heart up
+And fills me with joy</lines>
+    </verse>
+    <verse name="v5">
+      <lines>As I walk with my Savior
+Hand in hand, every day
+I’ll share smiles like the sunshine
+Making friends on my way</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Living life with care and kindness
+I know just who I need</lines>
+    </verse>
+    <verse name="v7">
+      <lines>His arms are wide open
+He tells me I’m chosen
+I’m a better me when I choose Him</lines>
+    </verse>
+    <verse name="v8">
+      <lines>He fills me with joy</lines>
+    </verse>
+  </lyrics>
+</song>

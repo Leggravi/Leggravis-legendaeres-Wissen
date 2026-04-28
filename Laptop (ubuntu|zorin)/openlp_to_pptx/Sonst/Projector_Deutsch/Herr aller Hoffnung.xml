@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr aller Hoffnung</title>
+    </titles>
+    <authors>
+      <author type="words">Theo Eißler</author>
+      <author type="music">Irland</author>
+      <author type="translation">Be Thou My Vision</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr aller Hoffnung, ich stehe vor dir.
+Höre mein Bitten und neig dich zu mir.
+In dir ist das Leben und du bist mein Licht.
+Herr, deine Nähe gibt mir Zuversicht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr aller Weisheit, ich höre auf dich.
+Sprich durch dein Wort und leb du selbst durch mich.
+Du bist mein Vater und ich bin dein Kind.
+In Liebe verbunden vereint wir nun sind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr aller Wahrheit, ich hoffe auf dich.
+Was mir auch droht, bitte schütze du mich.
+Sei du meine Hilfe, mein starker Turm.
+Du bist meine Kraft, meine Zuflucht im Sturm.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herr aller Herren, mein Erbe bist du.
+Was nützen mir Ehre und Reichtum dazu?
+Nimm in meinem Herzen den ersten Platz ein.
+Du sollst mein Schatz und mein König sein.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Herr aller Himmel, ich diene dir gern.
+Und auch im Sterben gehör ich dem Herrn.
+Der Tod ist besiegt und die Nacht ist vorbei.
+Was immer geschieht, ich bin dein allezeit.</lines>
+    </verse>
+  </lyrics>
+</song>

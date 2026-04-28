@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sehet doch die Spuren</title>
+    </titles>
+    <authors>
+      <author type="words">Kommunität Gnadenthal</author>
+      <author type="music">Kommunität Gnadenthal</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sehet doch die Spuren eures Meisters, eures Herrn!
+Folget diesen Spuren eures Meisters, eures Herrn!
+Folgt dem Lamm! Folgt dem Lamm!
+Folgt dem Lamm, das den Opferweg nicht scheut!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sehet doch die Spuren führen weg von Gottes Thron!
+Vom Geliebten Herzen seines Vaters geht der Sohn
+wie ein Lamm, wie ein Lamm.
+Als ein Lamm der Herr den Kreuzesweg erwählt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Findet seine Lammesspur nun unter seinem Volk!
+Mitten unter seinen Menschen wandelt unser Gott
+als ein Lamm!
+Als ein Lamm wurde er in allem seinem Brüdern gleich.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Seine Spuren auf der Erde enden an dem Kreuz.
+Dort wird unser König festgenagelt und erhöht.
+Seht das Lamm!
+Seht das Lamm führt zum Herzen Gottes uns durch dieses Kreuz!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Seine Spur führt durch das Leid zur Herrlichkeit zurück.
+Menschen, die sein Blut erkauft, nimmt er zum Vater mit.
+Preist das Lamm, preist das Lamm!
+Folgt ihm nach! In ihm fängt euer Leben</lines>
+    </verse>
+  </lyrics>
+</song>

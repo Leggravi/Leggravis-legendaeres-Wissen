@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In you I live</title>
+    </titles>
+    <authors>
+      <author type="words">Graham Kendrick</author>
+      <author type="music">Graham Kendrick</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will sing for all my days
+Of Your goodness and Your grace
+And the wonders of Your love for me
+I will declare Your glory Lord
+That You died and rose again
+Now in You I stand
+Justified</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All of my hope is in You Lord
+In the saving power
+Of Your blood</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You're my Righteousness
+My Deliverer
+I am free and alive
+'Cos You live in me
+I will shout my praise
+Unto You my King
+You're my Jesus
+In You I live</lines>
+    </verse>
+  </lyrics>
+</song>

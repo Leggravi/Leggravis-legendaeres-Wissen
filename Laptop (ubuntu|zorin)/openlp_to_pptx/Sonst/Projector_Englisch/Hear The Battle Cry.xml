@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hear The Battle Cry</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Weapons of our warfare
+Are not made with human hands
+And the enemy we face
+Is not the flesh and blood of man
+But we serve a mighty captain
+With a wondrous battle plan
+He's already won the victory
+Yet He calls us now to stand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: Hear the battle cry
+Put your armor on
+We must occupy the land
+Until the kingdom comes :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Take the sword of the Spirit
+Bind the truth around your waist
+Keep the breastplate of righteousness
+Firmly in its place
+Fit your feet with the Gospel
+Raise the mighty shield of faith
+Wear the helmet of salvation
+By the power of His grace</lines>
+    </verse>
+  </lyrics>
+</song>

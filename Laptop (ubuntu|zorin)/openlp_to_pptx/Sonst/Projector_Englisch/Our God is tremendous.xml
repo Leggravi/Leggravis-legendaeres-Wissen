@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Our God is tremendous</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I’m in need
+I call on the lord
+And he hears me, yes He helps me
+He’s faithful and true, won’t forget his own
+My companion, my best friend
+The only true God
+There is no one greater
+A wonderful saviour, Jesus
+The lion of Judah</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Our God is tremendous
+His words never faileth
+He walks through the fire just to save a sinner
+Yes He is almighty, He sends his angels to guide me
+There is nothing to powerful our God cannot handle
+Our God in simplicity revealed in you and me
+He comes from His glory and gives us the victory
+The greatest love story</lines>
+    </verse>
+  </lyrics>
+</song>

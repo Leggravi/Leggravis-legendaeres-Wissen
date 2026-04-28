@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hosanna (Praise is rising)</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Baloche</author>
+      <author type="music">Paul Baloche</author>
+      <author type="translation">Hosanna (Lob erklingt und Augen schauen zu dir)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v2 v2 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise is rising, eyes are turning to You, we turn to You
+Hope is stirring, hearts are yearning for You, we long for You
+'Cause when we see You, we find strength to face the day
+In Your Presence all our fears are washed away, washed away</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hosanna, hosanna
+You are the God Who saves us, worthy of all our praises
+Hosanna, hosanna
+Come have Your way among us
+We welcome You here, Lord Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hear the sound of hearts returning to You, we turn to You
+In Your Kingdom broken lives are made new, You make us new
+'Cause when we see You, we find strength to face the day
+In Your Presence all our fears are washed away, washed away</lines>
+    </verse>
+    <verse name="v4">
+      <lines>'Cause when we see You, we find strength to face the day
+In Your Presence all our fears are washed away</lines>
+    </verse>
+    <verse name="v5">
+      <lines>'Cause when we see You, we find strength to face the day
+In Your Presence all our fears are washed away, washed away</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hosanna, hosanna
+Hosanna, hosanna</lines>
+    </verse>
+  </lyrics>
+</song>

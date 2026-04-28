@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God You Reign</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You paint the night, You count the stars
+And You call them by name
+The skies proclaim, God, You reign</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your glory shines, You teach the sun
+When to bring a new day
+Creation sings, God, You reign</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God, You reign, God, You reign
+Forever and ever, God, You reign</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You part the seas, You move the mountains
+With the words that You say
+My song remains, God, You reign</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You hold my life, You know my heart
+And You call me by name
+I live to say, God, You reign</lines>
+    </verse>
+    <verse name="v6">
+      <lines>God, You reign, God, You reign
+Forever and ever, God, You reign
+God, You reign, God, You reign
+I know You reign
+Forever and ever, God, You reign</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hallelujah, Hallelu, Hallelujah, Hallelu
+Hallelujah, Hallelu, Hallelujah, Hallelu</lines>
+    </verse>
+  </lyrics>
+</song>

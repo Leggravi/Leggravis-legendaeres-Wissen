@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:07">
+  <properties>
+    <titles>
+      <title>Lasst mich gehn, lasst mich gehn</title>
+    </titles>
+    <authors>
+      <author type="words">Gustav Knak (1846)</author>
+      <author type="music">Karl Friedrich Voigtländer</author>
+    </authors>
+    <ccliNo>5579284</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lasst mich gehn, lasst mich gehn,
+dass ich Jesus möge sehn!
+Meine Seel ist voll Verlangen,
+Ihn auf ewig zu umfangen
+und vor seinem Thron zu stehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Großes Licht, großes Licht,
+Sonne, die durch Wolken bricht!
+Oh, wann werd ich dahin kommen,
+dass ich dort mit allen Frommen
+schau dein holdes Angesicht?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ach wie schön, ach wie schön,
+ist der Engel Lobgetön!
+Hätt ich Flügel, hätt ich Flügel,
+flog ich über Tal und Hügel
+heute noch nach Zions Höhn!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wie wird's sein, wie wird's sein,
+wenn ich zieh in Salem ein,
+in die Stadt der goldnen Gassen!
+Herr, mein Gott, ich kann's nicht fassen,
+was wird das für Wonne sein!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Paradies, Paradies,
+wie ist deine Frucht so süß!
+Unter deinen Lebensbäumen
+wird uns sein, als ob wir träumen.
+Bring uns, Herr, ins Paradies!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Something in My Heart</title>
+    </titles>
+    <authors>
+      <author type="words">Dominik Laim</author>
+      <author type="music">Dominik Laim</author>
+      <author type="translation">Stark und wunderschön</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is something in my heart, like a stream running down,
+it makes me feel so happy, as happy as can be.
+When I think of Jesus and what He's done for me,
+there is something more than gold in my soul yes,
+there's something more than gold.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh Yes, Oh yes,
+There's something more than gold!
+Oh Yes, Oh yes,
+There's something more than gold in my soul, yes,
+There's something more than gold!</lines>
+    </verse>
+  </lyrics>
+</song>

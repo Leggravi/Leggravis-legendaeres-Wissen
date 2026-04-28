@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mercy</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mercy mercy Lord
+Your mercy is how we are restored
+Mercy O mercy Lord
+Help us to show Your mercy Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You have been patient with our offenses
+You have forgiven all of our sings
+We were deserving only Your judgement
+But Your great mercy triumphed again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mercy mercy Lord
+Your mercy is how we are restored
+Mercy O mercy Lord
+Help us to show Your mercy Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord You have taught us
+Love one another
+As You have loved us
+So we must love
+Always forbearing
+Always forgiving
+Showing to others
+The mercy we've known</lines>
+    </verse>
+  </lyrics>
+</song>

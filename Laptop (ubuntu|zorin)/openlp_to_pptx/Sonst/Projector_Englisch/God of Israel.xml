@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God of Israel</title>
+    </titles>
+    <authors>
+      <author type="words">traditionell</author>
+      <author type="music">traditionell</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He will be like rain falling on a field
+Like showers watering the earth
+In His days the righteous flourishes
+Prosperity abounds
+He will rule from sea to sea</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All kings will bow down to Him
+All nations will serve the Lord and King
+He endures as the sun as long as the moon
+His Majesty will shine through all the world.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise be to the Lord my God of Israel
+Had it not been because of You,
+Who'll be on my side?
+Praise be to His glorious Name eternally,
+All of my hope, all of my help,
+All of my life, because of You.</lines>
+    </verse>
+  </lyrics>
+</song>

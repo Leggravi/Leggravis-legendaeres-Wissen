@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Until Then</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My heart can sing
+When I pause to remember,
+A heartache here
+Is but a stepping stone,
+Along the trail
+That's winding always upward,
+This troubled world
+Is not my final home.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But until then,
+My heart will go on singing,
+Until then,
+With joy I'll carry on.
+Until the day
+Mine eyes behold the city
+Until the day
+God calls me home.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The things of earth
+Will dim and lose their value,
+If we recall,
+They're borrowed for awhile
+And things of earth
+That cause the heart to tremble
+Remember there,
+Will only bring a smile.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This weary world
+With all its toil and struggle,
+May take its toll
+Of misery and strife,
+The soul of man
+Is like a waiting eagle
+When it's released
+It's destined for the sky.</lines>
+    </verse>
+  </lyrics>
+</song>

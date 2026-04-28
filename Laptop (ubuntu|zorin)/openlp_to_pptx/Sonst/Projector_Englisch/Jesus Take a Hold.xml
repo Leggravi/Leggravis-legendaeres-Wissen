@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Take a Hold</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, I know I’ve failed you,
+as I struggle on
+And I keep getting weaker,
+I need someone that’s strong
+Oh so reach down once again
+Lord, as I go on my knees
+While I’m still holding on,
+And hold on to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus take a hold,
+and hold on to me
+I’m the weakest of your children
+Oh how I need Thee…
+And if I should make it thru
+the only way it will be
+Is that Jesus take a hold,
+and hold on to me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sometimes I feel unworthy,
+sometimes I feel ashamed,
+Cause I can’t offer more
+to glorify Thy name;
+Lord I need to see your presence,
+oh how I need Thee
+So Jesus take a hold,
+and hold on to me.</lines>
+    </verse>
+  </lyrics>
+</song>

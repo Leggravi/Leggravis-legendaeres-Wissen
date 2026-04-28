@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Are Peculiar People</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Some of us are quiet
+Some of us are loud
+All of us are grateful
+None of us is proud
+We are not what we used to be
+We are better off by far
+And if you haven’t guessed by now,
+We’ll tell you who we are.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are peculiar people
+We rejoice when things go wrong
+We shed tears when we are happy
+We sing anew glad song
+We are redeemed by the blood of Jesus
+We are the children of the heavenly King
+And If you care to join us
+Just come and sing with me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Each day existing, it is a new surprise
+Miracles just happen,
+right before our eyes We don’t question,
+where they come from
+For we already know that if the
+King should come today
+To heaven we will go.</lines>
+    </verse>
+  </lyrics>
+</song>

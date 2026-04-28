@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Your grace is sufficient</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your grace is sufficient for me
+Your strength is made perfect when I am weak
+All that I cling to
+I lay at your feet
+Your grace is sufficient for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm no longer striving
+To merit Your love
+I rest in your promise to me
+All of my sins have been
+Washed in Your blood
+Your mercy is all that I need</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You see me as righteous
+Because of the blood
+That made the atonement for me
+Your mercy has triumphed where I should be judged
+So now by your grace I am free</lines>
+    </verse>
+  </lyrics>
+</song>

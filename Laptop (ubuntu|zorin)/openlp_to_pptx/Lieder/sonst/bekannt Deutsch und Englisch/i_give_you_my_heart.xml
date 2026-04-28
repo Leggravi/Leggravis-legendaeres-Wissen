@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 26, 2019, 9:03:11 PM">
+  <properties>
+    <titles>
+      <title>I Give You my Heart</title>
+    </titles>
+    <verseOrder>V1 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>This is my desire
+To honor You;
+Lord, with all my heart
+I worship You.
+With all I have within me
+I give You praise,
+All that I adore is in You.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Lord, I give You my heart,
+I give You my soul,
+I live for You alone;
+Every breath that I take,
+Every moment I'm awake,
+Lord, have Your way in me.</lines>
+    </verse>
+  </lyrics>
+</song>

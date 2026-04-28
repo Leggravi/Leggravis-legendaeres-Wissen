@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gnade und Wahrheit</title>
+    </titles>
+    <authors>
+      <author type="words">Evangelische Marienschwestern Darmstadt</author>
+      <author type="music">Evangelische Marienschwestern Darmstadt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir schau'n der Wahrheit ins Auge
+Stellen uns in dein Licht.
+Wir halten dort aus durch Gnade
+Denn du verdammst uns nicht.
+Du kennst uns're toten Winkel,
+Siehst uns'ren blinden Fleck,
+Berührst uns're wunden Punkte,
+Nimmst uns're Ängste weg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, dein Licht scheint
+Voll Gnade und Wahrheit.
+Jesus, dein Licht scheint
+In uns're Dunkelheit.
+Jesus, durchdring uns
+Mit Gnade und Wahrheit.
+Jesus, komm bring uns ins Licht.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Suffer Not Little Children to Come Unto Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When mothers of Salem
+Their children brought to Jesus,
+The stern disciples drove
+them back,
+And bade them depart:
+But Jesus saw them ere they fled,
+And sweetly smiled and kindly said,
+Suffer not little children to come unto
+Me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For I will receive them,
+And fold them in My bosom;
+I’ll be a Shepherd to those lambs,
+Oh, drive them not away!
+For if their hearts to Me they give,
+They shall with Me in glory live:
+Suffer not little children to come unto
+Me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>How kind was our Saviour
+To bid those children welcome!
+But there are many thousands
+who have never heard His Name;
+The Bible they have never read;
+They know not that the
+Saviour said,
+Suffer not little children to
+come unto Me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, soon may the heathen
+Of every tribe and nation
+Fulfil Thy blessed word, and cast
+Their idols all away;
+Oh, shine upon them from above,
+And show Thyself a God of love;
+Teach the little children to come
+unto Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

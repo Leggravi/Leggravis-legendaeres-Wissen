@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It's Time</title>
+    </titles>
+    <authors>
+      <author type="words">Steve Hindalong</author>
+      <author type="music">Terry Scott Taylor</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v4 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Looking at the world around me
+Everyone is searching for a key
+One that makes them, truly happy
+All they want is to be free from this life’s miseries,
+something certain from all these uncertainties
+There’s a call to answer
+A commitment to be done
+And He needs people more than one</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will go inspire, teach and serve
+Tell the people around the world
+Share of Him as He deserves
+Let the truth be unfurled
+And i will imitate the Master’s example
+And lift His name sublime
+It’s time</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Look at the world around you
+There so many things we need to do
+I’m gonna do it all for Him, will you?
+Together we will answer
+The commitment to be done
+Because together we are one in the Son</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We’ll go inspire, teach and serve
+Tell the people around the world
+Share of Him as He deserves
+Let the truth be unfurled
+And we will imitate the Master’s example
+To lift His name sublime
+It’s time</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So much to do, so all will know
+To be free, He is the remedy</lines>
+    </verse>
+    <verse name="v6">
+      <lines>We will imitate the Master’s example
+To lift His name sublime
+It’s time
+It’s time
+It’s time</lines>
+    </verse>
+  </lyrics>
+</song>

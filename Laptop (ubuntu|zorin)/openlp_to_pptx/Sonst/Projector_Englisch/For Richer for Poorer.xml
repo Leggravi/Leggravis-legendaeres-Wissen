@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>For Richer for Poorer</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Long ago we spoke our vows to heaven
+Long ago we promise we endure
+Though the years have grown us older
+And many things have changed
+There's one thing for certain
+Our love will stay the same</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For richer, for poorer; for better or worse
+In health and in sickness you are mine and I am yours
+Together, forever, no matter what we face
+Trusting in his mercy and his grace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No one else could bring me joy like you do
+No one else could love me quite like you
+The storms came in, the winds blew strong
+And they said we'd never last
+But the Lord himself was our right hand
+And the rains they soon did pass</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If I had it all to do over
+I'll choose you again.
+I promise you my love
+I'll be with you till the very end</lines>
+    </verse>
+  </lyrics>
+</song>

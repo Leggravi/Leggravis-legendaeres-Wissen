@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:22">
+  <properties>
+    <titles>
+      <title>Du hast mein Leben so reich gemacht</title>
+    </titles>
+    <authors>
+      <author type="words">Fritz Woike (1925)</author>
+      <author type="music">Wolfgang Dallmann</author>
+    </authors>
+    <ccliNo>6309147</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du hast mein Leben so reich gemacht,
+dem heißen Sehnen Erfüllung gebracht.
+All meine Sünden decktest Du zu,
+an Deinem Herzen fand ich die Ruh,
+an Deinem Herzen fand ich die Ruh.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du gabst mir Frieden so tief und reich
+und eine Freude dem Strome gleich.
+Bist drum mein Psalm und mein Jubelgesang,
+der schönste Ton und der liebste Klang,
+der schönste Ton und der liebste Klang.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du ist im Kampfe mir Burg und Hort,
+im wilden Sturme der Ruheort.
+Du bist mein Retter in jeder Not.
+Du bist mein Leben, kommt einst der Tod,
+Du bist mein Leben, kommt einst der Tod.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du bist mein Führer, an Deiner Hand
+geh ich so sicher durchs Erdenland.
+Du bist mein Alles, bist Leben und Licht.
+Herr Jesus Christus, ich lass Dich nicht,
+Herr Jesus Christus, ich lass Dich nicht.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Unworthy Am I</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Unworthy am I, of the grace that
+He gave,
+Unworthy to hold His hand
+Amazed that a King would reach
+down to a slave
+His love I cannot understand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unworthy, unworthy, a beggar
+In bondage and alone,
+But He made me worthy,
+And now by His grace,
+His mercy has made me
+His own.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My sorrows and sickness
+laid stripes on His back,
+My sins caused the blood
+that was shed,
+My faults and my failures
+have won Him a crown,
+Of thorns that He wore
+on His head.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Unworthy am I of the glory divine,
+Unworthy with angels to stay,
+It thrills just to know that He loves
+so much,
+A pauper I walk with the King.</lines>
+    </verse>
+  </lyrics>
+</song>

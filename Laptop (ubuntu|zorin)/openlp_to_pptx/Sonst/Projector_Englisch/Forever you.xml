@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Forever you</title>
+    </titles>
+    <authors>
+      <author type="words">Raymond Badham</author>
+      <author type="music">Raymond Badham</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This song I sing for you
+Has a melody as simple as you
+No doubt I offer to you
+And give the best I have</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm just a poor but I give my heart
+Just for you my one and only you
+I honestly have tomorrow
+And today to be with you
+I faithfully and humbly love you
+There's only one forever you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This song my pledge to you
+Has a rhyme that reminds me of you
+I live with no regret
+I stand forever and true
+I'm just an ordinary girl
+Who's in love to one in a million you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>From the rising of the sun
+Till it's setting down
+Seven days on a week
+I will keep on loving you
+I honestly have tomorrow
+And today to be with you</lines>
+    </verse>
+  </lyrics>
+</song>

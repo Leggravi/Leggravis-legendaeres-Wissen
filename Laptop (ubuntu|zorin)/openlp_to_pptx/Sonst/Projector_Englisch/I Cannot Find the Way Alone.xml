@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Cannot Find the Way Alone</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As I journey through this veil of sorrows,
+The way seems so strange
+and unknown
+Lord I need a helping
+hand to hold on,
+For I cannot find the way alone.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I cannot find the way without you,
+Dear Lord look down from
+Thy Throne
+And make the light to shine.
+around me
+For I cannot find the way alone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I have no other friend to guide me,
+And I'm so weak and undone,
+Walk a little close
+Dear Lord beside me,
+For I cannot find the way alone.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When the raging storms of
+life come round me,
+Dear Lord won’t Thou give me
+Thine warmth?
+Let me feel Thine arms of
+love around me
+For I cannot find the way alone.</lines>
+    </verse>
+  </lyrics>
+</song>

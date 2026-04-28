@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Worthy</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hear the cries of the shackled
+From the onset of time
+For the chains of defeat there's no key.
+See the tears of the broken,
+The cries of the slaves
+Is there no one worthy to set us free?
+Then the crying is stilled
+As the chörus rings out.
+The shackled released from their chains,
+And thousands of voices
+Are swelling the song,
+Worthy the lamb that was slain.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Worthy, Worthy,
+Worthy the Lamb that was slain.
+Worthy, Worthy,
+Worthy the Lamb that was slain.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Then all the archangels
+The saints of all time
+Holding their crowns in their hands
+Fall down before Him joining the song
+Worthy, Worthy the Lamb</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Praise Him, praise Him,
+Praise the Lamb that was slain.
+Praise Him, praise Him,
+Praise the Lamb that was slain.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Love Him, love Him,
+Love the Lamb that was slain.
+Love Him, love Him,
+Love the Lamb that was slain.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Serve Him, serve Him,
+Serve the Lamb that was slain.
+Serve Him, serve Him,
+Serve the Lamb that was slain.</lines>
+    </verse>
+  </lyrics>
+</song>

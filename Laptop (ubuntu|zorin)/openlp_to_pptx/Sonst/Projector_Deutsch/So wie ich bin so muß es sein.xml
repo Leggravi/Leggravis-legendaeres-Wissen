@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>So wie ich bin, so muß es sein</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Bickel</author>
+      <author type="music">William Batchelder Bradbury</author>
+      <author type="translation">Just as I am, without one plea</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>So wie ich bin, so muss es sein,
+nicht meine Kraft, nur Du allein!
+Dein Blut wäscht mich von Flecken rein.
+O Gottes Lamm, ich komm, ich komm!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So wie ich bin, vom Sturm gejagt,
+mit bangen Zweifeln oft geplagt,
+vom Feind bedroht und sehr verzagt.
+O Gottes Lamm, ich komm, ich komm!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So wie ich bin, blind, arm und irr,
+such ich, was mir gebricht, bei Dir:
+Licht, Reichtum, Deiner Gnade Zier.
+O Gottes Lamm, ich komm, ich komm!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Grad wie ich bin, nimmst Du mich an.
+Die Sündenschuld ist abgetan,
+weil ich auf Dein Wort trauen kann.
+O Gottes Lamm, ich komm, ich komm!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Grad wie ich bin, was mich noch hält,
+vor Deiner Lieb in Staub zerfällt.
+Dir hab ich ewig mich vermählt.
+O Gottes Lamm, ich komm, ich komm!</lines>
+    </verse>
+  </lyrics>
+</song>

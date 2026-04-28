@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It Is I Be Not Afraid</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There was a ship once rolling gently
+Over the sea the Saviour made;
+All the disciples of His were in it as
+together this time they stayed
+But the Great Captain was not
+with them,
+On the shore He was delayed,
+They saw a man come waiting
+on the waters saying:
+It’s I be not afraid!
+Oh! it is I be not afraid</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This is the reply that the Saviour made
+Though the night was dark and the
+wind was blowing
+Still with the ship the disciples stayed,
+They saw a man Come walking
+on the waters saying
+It is I be not afraid</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aren’t you glad you claim a Saviour
+who can calm the wind and sea,
+While this is the same Dear Jesus
+who said:
+Come unto me
+So let’s go to the ship’s salvation one
+that sin has never swayed Jesus is
+calling to us gently saying:
+It’s I be not afraid!</lines>
+    </verse>
+  </lyrics>
+</song>

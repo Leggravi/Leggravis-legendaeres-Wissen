@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Family of God</title>
+    </titles>
+    <authors>
+      <author type="words">William J. Gaither</author>
+      <author type="music">William J. Gaither</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You will notice we say &quot;brother and sister&quot; round here,
+It's because we're a family and these folks are so near;
+When one has a heartache we all share the tears,
+And rejoice in each victory In this family so dear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm so glad I'm a part of the family of God.
+I've been washed in the fountain, cleansed by His blood!
+Joint heirs with Jesus as we travel this sod,
+For I'm part of the family, the family of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From the door of an orphanage to the house of the King,
+No longer an outcast, a new song I sing;
+From rags unto riches, from the weak to the strong,
+I'm not worthy to be here, but, praise God, I belong!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yes I'm part of the family, the family of God.</lines>
+    </verse>
+  </lyrics>
+</song>

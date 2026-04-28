@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O for a Thousand Tongues to Sing</title>
+    </titles>
+    <authors>
+      <author type="words">Charles Wesley</author>
+      <author type="music">O, hätt ich tausend Zungen nur</author>
+      <author type="translation">O, hätt ich tausend Zungen nur</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O for a thousand tongues to sing
+my great Redeemer's praise,
+the glories of my God and King,
+the triumphs of his grace!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus! the name that charms our fears,
+That bids our sorrows cease;
+’Tis music in the sinner’s ears,
+’Tis life, and health, and peace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>See all your sins on Jesus laid:
+The Lamb of God was slain,
+His soul was once an offering made
+For every soul of man.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He breaks the power of canceled sin,
+He sets the prisoner free;
+His blood can make the foulest clean,
+His blood availed for me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He speaks, and, listening to His voice,
+New life the dead receive,
+The mournful, broken hearts rejoice,
+The humble poor believe.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hear Him, ye deaf; His praise, ye dumb,
+Your loosened tongues employ;
+Ye blind, behold your Savior come,
+And leap, ye lame, for joy.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>My gracious Master and my God,
+assist me to proclaim,
+to spread thro' all the earth abroad
+the honors of your name.</lines>
+    </verse>
+  </lyrics>
+</song>

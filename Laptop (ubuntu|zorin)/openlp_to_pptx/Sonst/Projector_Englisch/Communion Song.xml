@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Communion Song</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Maher</author>
+      <author type="music">Matt Maher</author>
+      <author type="translation">Im Gedenken an dich</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pictures and photographs,
+Memories of old
+Stories in every frame,
+That's never yet been told
+And there's a picture in the kitchen
+That displays the supper scene
+There's a meaning within the frame,
+Until now I've never seen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How could He desire
+To have a fellowship with me
+There must be something more within
+That only He can see
+I pray dear Lord,
+Take all my life,
+I give it all to thee
+Grant it everyday,
+You commune with me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On the road to Emmaus,
+Three men walked one day
+As they reach their destination
+The two men begged the third to stay
+And as they shared together,
+Breaking bread and pouring wine
+I finally now realized
+The simplicity of his sign.</lines>
+    </verse>
+  </lyrics>
+</song>

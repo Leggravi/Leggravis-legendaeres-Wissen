@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Falling</title>
+    </titles>
+    <authors>
+      <author type="words">Benjamin Hastings</author>
+      <author type="music">Benjamin Hastings</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No mountain high, no valley low
+No river wide enough to stop You
+How great is Your love for me
+The darkest night, the deepest sea
+No power on earth could ever stop You
+How great is Your love for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I'm falling in Your waves of love
+It's too wonderful for me
+In Your presence, God, my fear's undone
+I surrender all of me!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No weight of sin, no sting of death
+No power in hell could ever stop You
+You conquered it all for me
+You conquered it all for me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We sing with the heavens
+Ohhhh
+How great is your love</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, deine liebe</title>
+    </titles>
+    <authors>
+      <author type="words">Helga Poppe</author>
+      <author type="music">Helga Poppe</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, deine Liebe ist wie Gras und Ufer,
+wie Wind und Weite und wie ein Zuhaus.
+Frei sind wir, da zu wohnen und zu gehen.
+Frei sind wir, ja zu sagen oder nein.
+Herr, deine Liebe ist wie Gras und Ufer,
+wie Wind und Weite und wie ein Zuhaus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir wollen Freiheit, um uns selbst zu finden,
+Freiheit, aus der man etwas machen kann
+Freiheit, die auch noch offen ist für Träume,
+wo Baum und Blume Wurzeln schieben kann.
+Herr, deine Liebe ist wie Gras und Ufer,
+wie Wind und Weite und wie ein Zuhaus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und dennoch sind da Mauern zwischen Menschen,
+und nur durch Gitter sehen wir uns an.
+Unser versklavtes Ich ist ein Gefängnis
+und ist gebaut aus Steinen unsrer Angst.
+Herr, deine Liebe ist wie Gras und Ufer,
+wie Wind und Weite und wie ein Zuhaus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herr, du bist Richter! Du nur kannst befreien,
+wenn du uns frei sprichst, dann ist Freiheit da.
+Freiheit sie gilt für Menschen, Völker, Rassen,
+so weit, wie deine Liebe uns ergreift.
+Herr, deine Liebe ist wie Gras und Ufer,
+wie Wind und Weite und wie ein Zuhaus.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Will Choose Christ</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v1 v1 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will choose Christ
+I will choose love
+I choose to serve
+I give my heart
+I give my life
+I give my all to You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Some days are hard
+And I fight to see the truth
+But I'm gonna take a stand
+In all I say and do.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Some fall away
+And some refuse to see
+A willing and humble heart
+I pray You'll find in me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are grace, You are peace
+You are hope and healing
+You are faith, You are joy
+You are God revealing
+Jesus, my Lord and King</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I give my all to You.</lines>
+    </verse>
+  </lyrics>
+</song>

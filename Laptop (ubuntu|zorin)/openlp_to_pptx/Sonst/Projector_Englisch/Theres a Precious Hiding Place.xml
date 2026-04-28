@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There's a Precious Hiding Place</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a precious hiding place,
+In Jesus side, In Jesus side,
+There's a cleft of heavenly grace,
+In Jesus side, In Jesus side,
+There's a shelter from all sin,
+From all doubt and from all fear,
+All the world may enter in,
+In Jesus side, In Jesus side.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This precious place was bought for me,
+By Jesus blood shed on the cross,
+He died for me on Calvary,
+To set me free and make me whole.
+There's a shelter from all sin,
+From all doubt and from all fear,
+All the world may enter in,
+In Jesus side, In Jesus side.</lines>
+    </verse>
+  </lyrics>
+</song>

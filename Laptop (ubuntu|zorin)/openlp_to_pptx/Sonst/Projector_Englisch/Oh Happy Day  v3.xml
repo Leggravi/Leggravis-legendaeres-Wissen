@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh, Happy Day – v3</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh happy day,
+That fixed my choice
+On Thee, my Savior and my God!
+Well may this glowing heart rejoice,
+And tell its raptures all abroad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, happy day, Oh, happy day,
+When Jesus washed my sins away!
+He taught me how to watch and pray,
+And live rejoicing every day:
+(Hallelujah!)
+Oh happy day, On happy day,
+When Jesus washed my sins away!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, happy bond,
+That seals my vows
+To Him Who merits all my love!
+Let cheerful anthems fill His house,
+While to that sacred shrine I move.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tis done: the great transaction’s done!
+I am the Lord’s and He is mine;
+He drew me and I followed on;
+Charmed to confess the voice divine.</lines>
+    </verse>
+  </lyrics>
+</song>

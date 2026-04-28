@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Blow upon Me/Melodies of Heaven</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blow upon me, O wind of God
+Breathe upon me, O Spirit of the Lord,
+Make my hands like those of skilled musicians,
+Blow upon me, O wind of God
+Breathe upon me, O spirit of the Lord
+Let me hear the melodies of heaven.</lines>
+    </verse>
+  </lyrics>
+</song>

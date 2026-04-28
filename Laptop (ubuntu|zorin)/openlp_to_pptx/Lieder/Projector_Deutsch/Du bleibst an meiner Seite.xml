@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bleibst an meiner Seite</title>
+    </titles>
+    <authors>
+      <author type="words">Tobias Gerster</author>
+      <author type="music">Tobias Gerster</author>
+    </authors>
+    <verseOrder>v1 v3 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bleibst an meiner Seite, du schämst dich nicht für mich.
+Du weißt, ich bin untreu und dennoch liebst du mich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du stehst zu unserer Freundschaft, obwohl ich schwierig bin,
+hältst du mir die Treue, gehst mit mir durch dick und dünn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du bist treu Herr, an jedem neuen Tag.
+Du bist treu Herr, auch wenn ich versag, bist du treu Herr.
+Unerschütterlich hält deine Treue mich, du bleibst mir treu.</lines>
+    </verse>
+  </lyrics>
+</song>

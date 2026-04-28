@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Von den Gipfeln der Welt</title>
+    </titles>
+    <authors>
+      <author type="words">Guido Baltes</author>
+      <author type="music">Jesse Reeves</author>
+      <author type="translation">Indescribable (From The Highest Of Heights)</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Von den Gipfeln der Welt
+Zu den tiefen des Meers
+Bezeugt deine Schöpfung wie herrlich du bist
+Von den Gipfeln der Welt
+Zu den tiefen des Meers
+Bezeugt deine Schöpfung wie herrlich du bist
+Von den Farben im Herbst
+Bis zum Frühlingsduft
+Jedes Wesen bringt auf seine Art dir sein Lied
+Voller staunen</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unbeschreiblicher, Unbegreiflicher
+Du warfst die Sterne ins All
+Und du kennst ihre Bahn
+Du bist unglaublich Gott
+Allmächtiger und Ewiger
+Wir fallen staunend und ehrfürchtig nieder vor dir
+Du bist unglaublich Gott</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wer weist selbst jedem Blitz
+Jedem Donner den Weg
+Oder wer füllt dem Himmel
+Die Wolken mit Schnee
+Gibt der Sonne ihr Licht
+Ihr Wärme und Kraft
+Und verbirgt sie doch wieder im Schatten der Nacht
+Unerforschlich</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Unbeschreiblicher, Unbegreiflicher
+Du warfst die Sterne ins All
+Und du kennst ihre Bahn
+Du bist unglaublich Gott
+Unvergänglicher, Beständiger
+Du kennst mein Herz und du liebst mich doch so wie ich bin
+Du bist unglaublich Gott
+Bist unglaublich Gott</lines>
+    </verse>
+  </lyrics>
+</song>

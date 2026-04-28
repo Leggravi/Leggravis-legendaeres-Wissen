@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Leben aus der Quelle</title>
+    </titles>
+    <authors>
+      <author type="words">Hedwig von Redern</author>
+      <author type="music">Frieder Paul</author>
+    </authors>
+    <verseOrder>v1 v1 v2 v2 v1 v1 v3 v3 v1 v1 v4 v4 v1 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Leben aus der Quelle, Leben nur aus dir,
+Leben aus der Quelle des Lebens.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Und du erforscht mich, veränderst mein Denken,
+nur noch aus dir will ich leben, oh Herr.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hilfst mir zu schweigen und auf dich zu warten,
+nur noch aus dir will ich leben, oh Herr.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Willst mich gebrauchen, als Salz für die Erde,
+nur noch aus dir will ich leben, oh Herr.</lines>
+    </verse>
+  </lyrics>
+</song>

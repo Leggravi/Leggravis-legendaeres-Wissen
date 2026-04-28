@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Blood Washed Band</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We're a band of Christian soldiers fighting Satan every day
+We're standing up for Jesus while we're kneeling down to pray
+If His precious blood has cleansed you and washed away your sin
+That makes you a member of the blood washed band</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise God, I'm a member of the blood washed band
+I've been washed in the soul cleansing blood of the Lamb
+I was bound by chains of sin 'till one day the Master came
+And made me a member of the blood washed band</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God's children are advancing, marching till we reach the goal
+For the battle's almost over, we'll soon be going home
+I can hear the sound of angels as the saints go marching in
+Singing praises to the captain of the blood washed band</lines>
+    </verse>
+  </lyrics>
+</song>

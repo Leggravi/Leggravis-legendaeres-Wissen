@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 14, 2021, 11:46:20 AM">
+  <properties>
+    <titles>
+      <title>Open the Eyes of My Heart</title>
+    </titles>
+    <verseOrder>V1 V1 V2 V1 V1 V2 V2 V3 V3 V3 V3 V3 V3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Open the eyes of my heart, Lord
+Open the eyes of my heart
+I want to see You, I want to see You.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>To see You high and lifted up
+Shining in the light of Your glory
+Pour out Your power and love
+As we sing holy, holy, holy.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Holy, holy, holy
+Holy, holy, holy
+Holy, holy, holy
+I want to see You.</lines>
+    </verse>
+  </lyrics>
+</song>

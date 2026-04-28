@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Im A believer Not A Doubter</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v4 v5 v1 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm a believer, I'm not a doubter,
+I have faith and my faith works,
+I believe in God the Father,
+I believe, the Father is good,
+I believe in the Son of God,
+Therefore I'm a child of God,
+Praise God, I'm born again,
+And I'm a believer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yes I'm a believer,
+I'm a believer, I'm a believer
+I'm not a doubter,
+I have faith, I have faith,
+I have faith, I have faith,
+And my faith works.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ooh, Ooh.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yes I'm a believer (How 'bout you?)
+I'm a believer, I'm a believer,
+I'm not a doubter
+I have faith, I have faith,
+I have faith, I have faith,
+And my faith works.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I'm a believer,
+I'm a believer.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh, I'm a believer (How 'bout you?)
+I'm a believer, I'm a believer
+I'm not a doubter
+I have faith, I have faith,
+I have faith, I have faith,
+And my faith works.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Yes I'm a believer (How 'bout you?),
+I'm a believer, I'm a believer,
+I'm not a doubter
+I have faith, I have faith,
+I have faith, I have faith,
+And my faith works (C'mon now).</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Yes I'm a believer (How 'bout you?),
+I'm a believer (How 'bout you?),
+I'm a believer (How 'bout you?),
+I'm a believer.</lines>
+    </verse>
+  </lyrics>
+</song>

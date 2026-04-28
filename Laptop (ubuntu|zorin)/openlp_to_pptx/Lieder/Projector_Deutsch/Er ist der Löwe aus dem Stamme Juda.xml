@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Er ist der Löwe aus dem Stamme Juda</title>
+    </titles>
+    <authors>
+      <author type="words">Jugend mit einer Mission</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Er ist der Löwe aus dem Stamme Juda.
+Jesus brach sein Joch und ich bin frei.
+Jetzt leb ich in seinem Sieg und Heil.
+Er ist der Fels im dürren Land,
+er ist die Hilfe in Zeiten der Not.
+Oh, die Hoffnung Israels.</lines>
+    </verse>
+  </lyrics>
+</song>

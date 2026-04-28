@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lion of Judah Lamb of God</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Messiah would come
+The earth would rejoice
+The people start to sing
+For they would behold
+As Scripture foretold
+A mighty King of Kings
+But He came as a child
+Not like they had planned
+Not like they planned</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lion of Judah, Lamb of God,
+Glorious Conqueror,
+Suffering Son, Lion of Judah,
+With nails in His hands
+The Mighty Redeemer
+Was meek as a lamb.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No elegant robes,
+No glorious throne,
+No armies at His side,
+Could this be the One?
+A carpenter's son?
+A man condemned to die?
+But a lion roared
+Deep inside this Lamb
+Inside this Man</lines>
+    </verse>
+  </lyrics>
+</song>

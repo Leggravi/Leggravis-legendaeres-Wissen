@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I’m Almost Home</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For many long years,
+I’ve travelled life’s road
+I’m weary and tired of carrying
+life’s load,
+So often times am tempted by
+Satan to bow,
+But I’m journeying home,
+to turn back no!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Almost home,
+I’m almost home,
+I know my race Is almost run,
+Though troubles and sorrows
+have already come
+But I can’t turn back now
+I am too near home</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I stand at the river,
+that homeland I see,
+With its beautiful mansion
+He has prepared for me,
+Just a few days to linger,
+then I’ll go across
+And I know what awaits me
+will be worth it all!</lines>
+    </verse>
+  </lyrics>
+</song>

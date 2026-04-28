@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Nov 20, 2020, 5:14:18 AM">
+  <properties>
+    <titles>
+      <title>Herr, wohin sonst</title>
+    </titles>
+    <verseOrder>V1 C2 V1 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Herr, wohin sonst sollten wir gehen?
+Wo auf der Welt fänden wir Glück?
+Niemand, kein Mensch
+kann uns soviel geben wie du
+du führst uns zum Leben zurück
+nur du
+nur du schenkst uns Lebensglück</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Aus deinem Mund höre ich das schönste Liebeslied
+an deinem Ohr darf ich sagen, was die Seele fühlt
+an deiner Hand kann ich fallen, und du hälst mich fest
+an deinem Tisch wird mein Hunger gestillt</lines>
+    </verse>
+  </lyrics>
+</song>

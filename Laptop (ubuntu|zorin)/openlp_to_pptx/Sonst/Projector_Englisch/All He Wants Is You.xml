@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All He Wants Is You</title>
+    </titles>
+    <authors>
+      <author type="words">Dominique Jones</author>
+      <author type="music">Dominique Jones</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All He wants is you,
+No one else will do.
+Not just a part,
+He wants all of your heart.
+All He wants is all of you;
+All He wants is you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All He wants is me,
+Unreservedly.
+Not just a part,
+He wants all of my heart.
+All He wants is all of me;
+All He wants is me.</lines>
+    </verse>
+  </lyrics>
+</song>

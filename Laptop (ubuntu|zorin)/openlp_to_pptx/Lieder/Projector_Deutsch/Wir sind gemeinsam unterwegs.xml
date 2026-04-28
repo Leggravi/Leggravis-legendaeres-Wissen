@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir sind gemeinsam unterwegs</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Buchholz</author>
+      <author type="music">Johannes Nitsch</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir sind gemeinsam unterwegs
+und schaun in eine Richtung.
+Auf tausend Wegen führt uns Gott
+zu seinem großen Ziel.
+Wir sind gemeinsam unterwegs.
+Auch wenn uns Welten trennen,
+verbinden uns Gewalten einer and'ren Welt.
+Gottes Liebe, die uns fest zusammenhält.
+wir sind gemeinsam unterwegs
+und lernen dabei viel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wer Christus glaubt, folgt seinen Spuren;
+Gott weiß, wohin, das nimmt den Grund zur Hast.
+Wer nur auf Übermorgen zulebt,
+dem wird die Gegenwart zur schweren Last.
+Wir geh'n, getragen von der Hoffnung,
+und wollen heute tun, was Jesus sagt:
+Wir stehen ein für Gottes Schöpfung
+und seh'n den Menschen, der nach Liebe fragt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dort, wo ich Grenzen klar erkenne,
+die meine Prägung, die mein Stil mir steckt,
+und nicht mehr glaub', der &quot;Stein der Weisen&quot;,
+der würd'demnächst in meiner Art entdeckt,
+da lern' ich felsenfest vertrauen,
+dass Gott auch handelt, wo man anders glaubt.
+Mein Horizont gewinnt an Weiten
+und altgewohntes Denken wird entstaubt.</lines>
+    </verse>
+  </lyrics>
+</song>

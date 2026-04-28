@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Den Herrn will ich lobpreisen</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Den Herrn will ich lobpreisen,
+seinen Ruhm will ich vermehr'n
+meine Seele kann sich freu'n in dem Herr'n.
+Der Gebeugte soll es hören,
+der Bedrückte schaue auf
+und so wird euer Leben wieder neu!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kommt lasst uns nun
+den Herrn lobpreisen für immer.
+Ich schrie zu ihm, er hörte mich
+und stellte mich wieder auf.
+So lasst uns nun den Herrn lobpreisen für immer,
+kommt singt sein Lob mit mir, ihr meine Freunde.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Meine Kraft war am Ende, schon beinah gab ich auf,
+in meiner Not schrie ich zu dem Herrn!
+Da sandte er seinen Engel, seinen Geist, mir beizusteh'n
+und so entriß er mich der Dunkelheit!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Der Herr ist nahe denen, die zerbroch'nen Herzens sind,
+er hilft all denen auf, die ihm vertrauen.
+So beugt euch unter seine Hand, tretet ein in sein Licht
+und erlebt, wie er euch wieder auferbaut!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kommt her, ihr Kinder höret, die ihr das Leben liebt,
+bewahret euch vor Bosheit und vor Stolz. bewahre to
+Sucht Frieden, jagt ihm nach, übt stets Gerechtigkeit
+und Gott wird euch erhören alle Zeit!</lines>
+    </verse>
+  </lyrics>
+</song>

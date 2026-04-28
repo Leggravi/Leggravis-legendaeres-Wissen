@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ehre, Ehre sei dem Höchsten</title>
+    </titles>
+    <authors>
+      <author type="words">Rudolf Kassühlke</author>
+      <author type="music">Danny Daniels</author>
+      <author type="translation">Glory, glory in the highest</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ehre, Ehre sei dem Höchsten, Ehre dem Allmächtigen ,Ehre sei dem Gottessohn
+Ehre dem lebendigen Wort ,Ehre sei dem Lamm.
+® |:alle Ehre- Ehre,Ehre, Ehre, Ehre sei dem Gotteslamm: |
+Alle Ehre sei dem Lamm!</lines>
+    </verse>
+  </lyrics>
+</song>

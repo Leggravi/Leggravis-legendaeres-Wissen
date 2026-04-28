@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Apr 18, 2021, 1:43:09 PM">
+  <properties>
+    <titles>
+      <title>I Have Been Blessed</title>
+    </titles>
+    <verseOrder>V1 V2 C3 V4 V5 C3 V6 V7 C3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>When He moves among us, all that He does,
+All of His mercy, all of His love;
+If the pen of a writer could write every day,
+Even this world could never contain
+How I've been blessed!</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Warmth in the winter, flowers in spring,
+Laughter of summer, the changing of leaves,
+Food on my table and a good place to sleep,
+Clothes on my back and shoes on my feet
+I have been blessed!</lines>
+    </verse>
+    <verse name="C3">
+      <lines>I have been blessed, God's so good to me.
+Precious are His thoughts of you and me.
+No way I could count them, there's not enough time,
+So I'll just thank Him for being so kind.
+God has been good, so good; I have been blessed.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Arms that will raise, a voice that can talk,
+Hands that can touch, and legs that can walk,
+Ears that can listen and eyes that can see:
+I've got to praise Him as long as I breath!
+I have been blessed!</lines>
+    </verse>
+    <verse name="V5">
+      <lines>A mother and father, nurtured and raised,
+Sisters and brothers, memories made.
+Our pastor to lead us, this alter to pray,
+Stripes that can heal, the blood that still saves,
+I have been blessed!</lines>
+    </verse>
+    <verse name="V6">
+      <lines>We live in a country, the greatest on earth,
+Where the flag stands for freedom and what it is worth.
+She stands in a harbor, Miss Liberty calls;
+All have given some, but some gave it all
+So we could be blessed!</lines>
+    </verse>
+    <verse name="V7">
+      <lines>He's my shoulder to lean on when I am down,
+The Rock where He leads me when I'm overwhelmed,
+The place where He hides me under His wings.
+He's not just a song, He's the reason I sing!
+I have been blessed!</lines>
+    </verse>
+  </lyrics>
+</song>

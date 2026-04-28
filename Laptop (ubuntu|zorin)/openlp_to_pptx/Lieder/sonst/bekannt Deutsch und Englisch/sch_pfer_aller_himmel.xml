@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jul 3, 2020, 8:19:01 PM">
+  <properties>
+    <titles>
+      <title>Schöpfer aller Himmel</title>
+    </titles>
+    <verseOrder>V1 C2 V3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Schöpfer aller Himmel, der die Welt gemacht, 
+dein schönstes Werk hast du in mir vollbracht. 
+Engel wollen singen von dem, was du mir gabst, 
+Liebe, die niemals ein Ende hat.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>//: In dir, oh Herr erfüllt sich mein Gebet, 
+die Worte, die mein Herz nur sagen kann. 
+Dir, oh Herr, gehört mein schönstes Lied.
+Voll Ehrfurcht steh ich hier und bet dich an. ://</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Schöpfer aller Himmel, der die Welt gemacht, 
+dein Angesicht erhellt die tiefste Nacht.
+Seitdem ich dich gefunden, liebe ich dich. 
+Herr, nach dir allein verlangt mein Herz so sehr.</lines>
+    </verse>
+  </lyrics>
+</song>

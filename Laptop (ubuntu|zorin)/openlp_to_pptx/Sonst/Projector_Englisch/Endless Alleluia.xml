@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Endless Alleluia</title>
+    </titles>
+    <authors>
+      <author type="words">Howard S. Olson</author>
+      <author type="music">Mfurahini Haleluya</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6 v7 v8 v9 v10 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I stand before Your throne
+Dressed in glory not my own
+What a joy I'll sing of on that day
+No more tears or broken dreams
+Forgotten is the minor key
+Everything as it was meant to be</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And we will worship, worship
+Forever in Your presence we will sing
+We will worship, worship You
+An endless hallelujah to the King</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will see You as You are
+Love You with unsinning heart
+And see how much You paid to bring me home
+Not till then, Lord, shall I know
+Not till then, how much I owe
+Everything I am before Your throne</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No more tears, no more shame
+No more sin and sorrow ever known again
+No more fears, no more pain
+We will see You face to face
+See You face to face</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And we will worship, worship
+Forever in Your presence we will sing (sing)
+We will worship, worship You
+An endless hallelujah to the King</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh, hallelujah, hallelujah, yeah
+Oh</lines>
+    </verse>
+    <verse name="v7">
+      <lines>And we will worship, worship
+Forever in Your presence we will sing, we will sing
+We will worship, worship You
+An endless hallelujah to the King</lines>
+    </verse>
+    <verse name="v8">
+      <lines>An endless hallelujah to the King
+We'll sing
+An endless hallelujah to the King</lines>
+    </verse>
+    <verse name="v9">
+      <lines>To the King</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Sing an endless hallelujah
+To you
+Forever and ever
+And ever and ever
+Saints and Angels, living creatures
+All the hosts of Heaven
+Hallelujah, hallelujah
+To you</lines>
+    </verse>
+  </lyrics>
+</song>

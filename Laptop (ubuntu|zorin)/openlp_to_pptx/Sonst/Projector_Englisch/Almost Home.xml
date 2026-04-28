@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Almost Home</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Don’t drop a single anchor
+We’re almost home
+Through every toil and danger
+We’re almost home
+How many pilgrim saints have before us gone?
+No stopping now
+We’re almost home</lines>
+    </verse>
+    <verse name="v2">
+      <lines>That promised land is callin’
+We’re almost home
+And not a tear shall fall then
+We’re almost home
+Make ready now your souls for that kingdom come
+No turning back
+We’re almost home</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Almost home
+We’re almost home
+So press on toward that blessed shore
+O praise the Lord
+We’re almost home</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This journey ours together
+We’re almost home
+Unto that great forever
+We’re almost home
+What song anew we’ll sing ‘round that happy throne
+Come faint of heart
+We’re almost home</lines>
+    </verse>
+    <verse name="v5">
+      <lines>This life is just a vapor
+We’re almost home
+That sun is settin’ yonder
+We’re almost home
+Take courage, for this darkness shall break to dawn
+O lift your eyes
+We’re almost home</lines>
+    </verse>
+  </lyrics>
+</song>

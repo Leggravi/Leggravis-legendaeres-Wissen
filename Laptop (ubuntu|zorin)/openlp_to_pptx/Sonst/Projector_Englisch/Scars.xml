@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Scars</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Waking up to a new sunrise
+Looking back from the other side
+I can see now with open eyes
+Darkest water and deepest pain
+I wouldn't trade it for anything
+Cause my brokenness brought me to You
+And these wounds are a story You'll use</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So I'm thankful for the scars
+'Cause without them I wouldn't know Your heart
+And I know they'll always tell of who You are
+So forever I am thankful for the scars</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now I'm standing in confidence
+With the strength of Your faithfulness
+And I'm not who I was before
+No, I don't have to fear anymore</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I can see, I can see
+How You delivered me
+In Your hands, In Your feet
+I found my victory
+I can see, I can see
+How You delivered me
+In Your hands, In Your feet
+I found my victory</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I'm thankful for Your scars
+'Cause without them I wouldn't know Your heart
+And with my life I'll tell of who You are
+So forever I am thankful</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I'm thankful for the scars
+'Cause without them I wouldn't know Your heart
+And I know they'll always tell of who You are
+So forever I am thankful for the scars
+So forever I am thankful for the scars</lines>
+    </verse>
+  </lyrics>
+</song>

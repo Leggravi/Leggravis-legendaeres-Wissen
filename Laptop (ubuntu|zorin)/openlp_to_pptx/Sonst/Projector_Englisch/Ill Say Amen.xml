@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'll Say Amen</title>
+    </titles>
+    <authors>
+      <author type="words">Niko Schlenker</author>
+      <author type="music">Niko Schlenker</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Beyond this flesh
+That you can see now
+Beyond all weaknesses of this flesh
+There is a connection
+Invisible with Jesus Christ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I don't know how, I don't why
+I cannot explain the love of God for my soul
+But down inside of me when I hear the Word
+My heart says Amen – I’ll say Amen</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He has said that I will be perfect
+With the virtues of Jesus Christ Himself
+But I look around, I can still see imperfections
+Shown to me by the devil my enemy
+Trying to get me sad and depressed
+But I stand right up on my two feet
+Look at him straight in the eyes
+and I say:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He has said that I will be raptured
+To fly away in the sky
+And discover this other dimension
+But I can still feel the force of gravity
+Trying to pull me down to this earth
+And get me stuck in this realm
+But I stand right up on my two feet -
+I lift my hands challenging gravity
+and I say:</lines>
+    </verse>
+  </lyrics>
+</song>

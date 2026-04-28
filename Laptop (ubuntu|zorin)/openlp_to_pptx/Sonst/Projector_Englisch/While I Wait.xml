@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>While I Wait</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deep within my heart, I know You've won
+I know You've overcome
+And even in the dark, when I'm undone
+I still believe it</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I live by faith, and not by sight
+Sometimes miracles take time</lines>
+    </verse>
+    <verse name="v3">
+      <lines>While I wait, I will worship
+Lord, I'll worship Your name
+While I wait, I will trust You
+Lord, I'll trust You all the same</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When I fall apart, You are my strength
+Help me not forget
+Seeing every scar, You make me whole
+You're my healer</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I live by faith, and not by sight,
+Sometimes miracles take time.
+I live by faith, and not by sight,
+Sometimes miracles take time.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You're faithful every day
+Your promises remain
+You're faithful every day
+Your promises remain
+You're faithful every day
+Your promises remain
+You're faithful every day
+Your promises remain</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Though I don't understand it
+I will worship with my pain
+You are God, You are worthy
+You are with me all the way</lines>
+    </verse>
+    <verse name="v8">
+      <lines>So while I wait, I will worship
+Lord, I'll worship Your name
+Though I don't have all the answers
+Still, I trust You all the same.</lines>
+    </verse>
+  </lyrics>
+</song>

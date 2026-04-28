@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Happy Birthday</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Schnitter</author>
+      <author type="music">Carol Cymbala</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’ve been born into the family
+of Jesus my King
+The church (bride) is the
+circle of His wedding ring
+To the Kingship’s marriage
+forever to be
+And the angels up in heaven
+sang, Happy Birthday to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’ve been born by the spirit
+And made part of the Bride
+Saved by the blood that flowed
+From His precious side,
+In sin I was blinded but
+now I can see
+And the angels up in heaven sang</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Happy Birthday to me.
+I’ve a home up in heaven
+Where there'll be no more nights
+By the birth of my Saviour
+I must see the light
+There I’ll sit by the river
+By the waters from the stream
+And hear the angels singing
+Happy Birthday to me.</lines>
+    </verse>
+  </lyrics>
+</song>

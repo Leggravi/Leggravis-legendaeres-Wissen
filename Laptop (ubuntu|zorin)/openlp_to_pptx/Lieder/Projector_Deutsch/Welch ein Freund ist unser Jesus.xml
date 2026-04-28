@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Welch ein Freund ist unser Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Ernst Heinrich Gebhardt</author>
+      <author type="music">Charles C. Converse</author>
+      <author type="translation">What a friend we have in Jesus</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Welch ein Freund ist unser Jesus,
+O, wie hoch ist er erhöht!
+Er hat uns mit Gott versöhnet
+Und vertritt uns im Gebet.
+Wer mag sagen und ermessen,
+Wieviel Segen uns entgeht,
+Wenn wir nicht zu ihm uns wenden
+Und ihn suchen im Gebet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wenn des Feindes Macht uns drohet
+Und manch Sturmwind um uns weht,
+Brauchen wir uns nicht zu fürchten,
+Stehn wir gläubig im Gebet.
+Da erweist sich Jesu Treue,
+Wie er uns zur Seite steht,
+Als ein mächtiger Erretter,
+Der erhört ein ernst Gebet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sind mit Sorgen wir beladen,
+Sei es frühe oder spät,
+Hilft uns sicher unser Jesus,
+Fliehn zu ihm wir im Gebet.
+Sind von Freunden wir verlassen
+Und wir gehen ins Gebet,
+O, so ist uns Jesus alles:
+König, Priester und Prophet!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kommen Prüfungen und Leiden,
+scheint's, als ob's nicht weitergeht,
+wird die Not am allergrößten,
+flieg zu Jesus im Gebet.
+Jesus bleibt des Herzens Zuflucht,
+selig, wer im Glauben fleht.
+Er deckt uns mit starken Armen,
+schenkt uns Ruhe im Gebet.</lines>
+    </verse>
+  </lyrics>
+</song>

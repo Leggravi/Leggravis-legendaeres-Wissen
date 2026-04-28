@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Can Never Tell</title>
+    </titles>
+    <authors>
+      <author type="words">Neil Bennetts</author>
+      <author type="music">Neil Bennetts</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can never tell how much I love Him,
+I can never tell His love for me;
+For it passeth human measure,
+Like a deep unfathomed sea,
+'Tis redeeming love in Christ my Saviour,
+In my soul the heavenly joys begin;
+And I live for Jesus only since the fullness
+ of His love shone in.</lines>
+    </verse>
+  </lyrics>
+</song>

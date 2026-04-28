@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gottes Sohn! Anbetend schauen</title>
+    </titles>
+    <authors>
+      <author type="words">Rudolf Brockhaus</author>
+      <author type="music">Carl Mebus</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gottes Sohn! - Anbetend schauen
+Wir in Dir des Vaters Bild,
+Gottes Herrlichkeit und Gnade,
+Seine Liebe unverhüllt.
+Staunend beugen wir uns nieder,
+Singen Dir, dem Herrn der Welt,
+Der das ganze All erhält,
+Unsre Lob und Dankeslieder,
+Preisen mit der Schöpfung laut
+Dich, o Herr, der sie erbaut.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gottes Lamm! - Du kamst hernieder
+Aus des Vaters Herrlichkeit,
+Schrittest durch die Welt der Sünde,
+Segen spendend, Gott geweiht.
+Littest stille, ohne Klagen,
+Ließest Dich für unsre Schuld –
+O der wunderbaren Huld! –
+Willig an das Fluchholz schlagen.
+Dank Dir, teures Opferlamm,
+Gottes Sohn am Kreuzesstamm!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gottes Lamm! - Jetzt weilst Du droben
+Ruhmgekröhnt auf Gottes Thron.
+Siegreich hast Du überwunden
+Satans Macht und Menschenhohn.
+Jauchzend singen heil'ge Chöre,
+Seit das große Werk vollbracht:
+Dir, dem Lamme, sei gebracht
+Macht und Herrlichkeit und Ehre!
+Und wir stimmen freudig ein:
+Du bist würdig, Du allein!</lines>
+    </verse>
+  </lyrics>
+</song>

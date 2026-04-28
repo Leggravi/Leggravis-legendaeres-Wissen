@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus It Is You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v3 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who makes the sun to rise
+And brings the earth new life in every beam?
+Jesus it is You.
+Who turns the day to night
+And watches me as I begin to dream?
+Jesus it is You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who brings me food for my table?
+Who cares for all of my needs?
+Who walks the road with me,
+Has grown with me through all that I have been?
+Jesus it is You,
+Jesus it is You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I lift my hands
+I bring my song
+All of my days
+All of my rights
+All of my wrongs</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I offer my life
+Here and beyond
+To the One thing true
+Jesus it is You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Who sees my brokenness
+And carries me when I am frail and weak
+Jesus it is You</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Who tells the storm to rest
+When I am overwhelmed and cannot speak?
+Jesus it is You</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Who wears my guilt on His shoulders?
+Who holds my heart in His hands?
+Who takes my thoughts and fears and hangs them on the arms of calvary?
+Jesus it is You,
+Jesus it is You,</lines>
+    </verse>
+    <verse name="v8">
+      <lines>I offer my life
+Here and beyond
+To the One thing true
+Jesus
+It is You</lines>
+    </verse>
+    <verse name="v9">
+      <lines>To the One thing true
+Jesus
+It is You</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 6, 2025, 12:06:55 PM">
+  <properties>
+    <titles>
+      <title>How Great Thou Art</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2 V5 C2 C2 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>O Lord, my God, when I in awesome wonder,
+Consider all the worlds Thy Hands have made,
+I see the stars, I hear the rolling thunder,
+Thy power throughout the universe displayed.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Then sings my soul, my Saviour God, to Thee,
+How great Thou art, how great Thou art!
+Then sings my soul, my Saviour God, to Thee,
+How great Thou art, how great Thou art!</lines>
+    </verse>
+    <verse name="V3">
+      <lines>When through the woods and forest Glades I wander,
+And hear the birds sing sweetly in the Trees;
+When I look down from lofty mountain Grandeur,
+And hear the brook and feel the gentle Breeze.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>And when I think that God, His Son not sparing,
+Sent Him to die, I scarce can take it in,
+That on the Cross, my burden gladly bearing,
+He bled and died to take away my sin.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>When Christ shall come with shout of acclamation
+And lead me home, what joy shall fill my heart
+Then I shall bow with humble adoration
+And then proclaim, my God, how great Thou art</lines>
+    </verse>
+  </lyrics>
+</song>

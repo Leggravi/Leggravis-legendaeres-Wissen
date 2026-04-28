@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Unbeschreiblich tief ist deine Liebe</title>
+    </titles>
+    <authors>
+      <author type="words">Antje Janzen</author>
+      <author type="music">Reuben Morgan</author>
+      <author type="translation">Highest (Your love O Lord)</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Unbeschreiblich tief ist deine Liebe
+endlos weit, wie das Meer.
+Deine Treue reicht bis zu den Wolken
+und dein Wort bleibt bestehen</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ehre sei Gott
+jeder wird singen
+Ehre sei Gott in der Höhe</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kommt betet an
+Jesus den Retter
+König für immer. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

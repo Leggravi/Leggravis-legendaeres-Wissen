@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Is All I Need</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He is all I need,
+He is all I need,
+Jesus is all I need.
+He is all I need,
+He is all I need,
+Jesus is all I need.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will worship Him,
+I will worship Him,
+In Spirit and in truth.
+I will worship Him,
+I will worship Him,
+In Spirit and in truth.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will take Him now,
+I will take Him now,
+For all that I need.
+I will take Him now,
+I will take Him now,
+For all that I need.</lines>
+    </verse>
+  </lyrics>
+</song>

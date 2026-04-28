@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Honey In The Rock</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, my brother do you know
+  the Savior,
+Who is wondrous, kind and true?
+He's the &quot;Rock of your salvation!&quot;
+There's Honey in the Rock for you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, there's Honey in the Rock,
+  my brother,
+There's Honey in the Rock for you;
+Leave your sins for the blood
+  to cover,
+There's Honey in the Rock for you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Have you &quot;tasted that the Lord
+  is gracious?&quot;
+Do you walk in the way that's new?
+Have you drunk from
+The living fountain?
+There's Honey in the Rock for you.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Do you pray unto God the Father,
+&quot;What wilt Thou have me to do?&quot;
+Never fear, He will surely answer:
+There's Honey in the Rock for you.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Then go out through the streets
+  and byways,
+Preach the Word
+To the many or few;
+Say to every fallen brother,
+&quot;There's Honey in the Rock for you.&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

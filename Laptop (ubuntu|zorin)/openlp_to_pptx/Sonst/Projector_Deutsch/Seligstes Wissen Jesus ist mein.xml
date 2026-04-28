@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Seligstes Wissen, Jesus ist mein</title>
+    </titles>
+    <authors>
+      <author type="words">Heinrich Rickers</author>
+      <author type="music">Phoebe Knapp</author>
+      <author type="translation">Blessed assurance, Jesus is mine (This is my story)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Seligstes Wissen, Jesus ist mein!
+Köstlichen Frieden bringt es mir ein.
+Leben von oben, ewiges Heil,
+völlige Sühnung ward mir zuteil.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lasst mich's erzählen, Jesus zur Ehr;
+wo ist ein Heiland, größer als er?
+Wer kann so segnen, wer so erfreun?
+Keiner als Jesus! Preis ihm allein!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ihm will ich leben, o welche Freud!
+Herrliche Gaben Jesus mir beut:
+Göttliche Leitung, Schutz in Gefahr,
+Sieg über Sünde reicht er mir dar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Völlig sein eigen! Nichts such ich mehr;
+Jesus, er stillet all mein Begehr.
+Treu will ich dienen ihm immerdar,
+bis ich gelang zur oberen Schar.</lines>
+    </verse>
+  </lyrics>
+</song>

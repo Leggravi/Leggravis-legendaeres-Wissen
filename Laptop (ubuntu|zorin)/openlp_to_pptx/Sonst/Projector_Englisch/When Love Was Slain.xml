@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When Love Was Slain</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This world is not my home,
+Oh, this world is not my home,
+My home's been made at heaven's throne,
+This world is not my home,
+This life is not my own.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, this life is not my own,
+I am His and His alone,
+This life is not my own.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I was bought when Love was slain,
+What high cost, to pay death's wage,
+Now ransomed, I am freedom's slave,
+My Jesus raised me from the grave,
+Come now and walk with me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, come now and walk with me,
+Together we our Lord shall meet,
+Come now and walk with me
+For I was bought when Love was slain,
+What high cost to pay death's wage,
+Now ransomed, I am freedom's slave,
+My Jesus raised me from the grave,
+For I was bought when Love was slain.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>What high cost, to pay death's wage,
+Now ransomed, I am freedom's slave,
+My Jesus raised me from the grave
+Soon Lord and very soon,
+Oh, soon Lord and very soon,
+You'll come take me to be with You,
+Soon Lord, very.</lines>
+    </verse>
+  </lyrics>
+</song>

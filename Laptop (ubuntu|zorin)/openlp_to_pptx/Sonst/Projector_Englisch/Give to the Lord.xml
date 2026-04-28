@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Give to the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Kevin Gould</author>
+      <author type="music">Kevin Gould</author>
+    </authors>
+    <verseOrder>v1 v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Give, and it will come back to you
+Good measure, pressed down, shaken together, and running over
+Give, and it will come back to you
+When you give, give to the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Give in love, give in faith
+Give with joy, and the smile on your face
+Give as the Lord has given to you
+How you give is a reflection of your gratitude</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From your heart
+Give your best
+Give unto God
+And you will be blessed
+Don't be stingy
+And don't be tight
+Learn from the widow
+In the Bible
+Who gave her last dime</lines>
+    </verse>
+    <verse name="v4">
+      <lines>People rob God when they don't give tithes and offerings
+And they don't understand why they've been cut off
+From heavenly blessings
+But abundant life and prosperity begins
+When you prove your love to God by giving to Him</lines>
+    </verse>
+    <verse name="v5">
+      <lines>(What you go to do is)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>When you give
+Give to the Lord</lines>
+    </verse>
+    <verse name="v7">
+      <lines>When you give, give to the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

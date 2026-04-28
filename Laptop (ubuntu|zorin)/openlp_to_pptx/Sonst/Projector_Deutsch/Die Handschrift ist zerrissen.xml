@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Die Handschrift ist zerrissen</title>
+    </titles>
+    <authors>
+      <author type="words">Ernst Gottlieb Woltersdorf</author>
+      <author type="music">Erfurt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Die Handschrift ist zerrissen,
+die Zahlung ist vollbracht.
+Er hat mich's lassen wissen,
+dass Er mich frei gemacht,
+Er, der versank in bittern Tod,
+und der für meine Seele
+sich selbst zum Opfer bot</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich weiß sonst nichts zu sagen,
+als dass ein Bürge kam,
+der meine Schuld getragen,
+die Rechnung auf Sich nahm
+und sie so völlig hingezählt,
+dass von der ganzen Menge
+auch nicht ein Stäublein fehlt.</lines>
+    </verse>
+  </lyrics>
+</song>

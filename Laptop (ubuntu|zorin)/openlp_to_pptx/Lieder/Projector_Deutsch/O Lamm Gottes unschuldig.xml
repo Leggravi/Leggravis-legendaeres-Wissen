@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Lamm Gottes, unschuldig</title>
+    </titles>
+    <authors>
+      <author type="words">O Lamm Gottes, unschuldig</author>
+      <author type="music">Nikolaus Decius</author>
+      <author type="translation">O Lamb of God most holy</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lamm Gottes, unschuldig
+Am Kreuzesstamm geschlachtet!
+Du littest stets geduldig,
+Da Du geschmäht, verachtet.
+All' Sünd' hast Du getragen,
+Sonst müßten wir verzagen:
+Wir preisen Dich, o Lamm Gottes!</lines>
+    </verse>
+  </lyrics>
+</song>

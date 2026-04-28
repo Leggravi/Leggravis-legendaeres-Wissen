@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich trau auf Dich, o Herr,</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Marion Warrington</author>
+      <author type="translation">I trust in Thee O Lord (I trust in You O Lord)</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich trau auf Dich, o Herr,ich sage, Du bist mein Gott.
+|: in Deiner Hand steht meine Zeit :|
+
+Gelobet sei der Herr ,denn ER hat wunderbar
+Seine Liebe mir erwiesen und Güte mir gezeigt.</lines>
+    </verse>
+  </lyrics>
+</song>

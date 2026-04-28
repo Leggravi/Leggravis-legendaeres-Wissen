@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Lord Is My Shepherd / Psalm 23 / I Am Not Alone</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord is my Shepherd
+He goes before me
+Defender behind me
+I won't fear
+I'm filled with anointing
+My cup's overflowing
+No weapon can harm me
+I won't fear</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallelujah, I am not alone
+He's my Comfort, always holds me close</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He always guides me
+Through mountains and valleys
+His joy is refreshing
+Restores my soul
+Mercy and goodness
+Give me assurance
+That I'll see His glory
+Face to face</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hallelujah, I am not alone
+He's my Comfort, always holds me close
+Hallelujah, I am not alone
+He's my Comfort, always holds me close</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/: Your Spirit lives within me
+So I will walk in Your peace
+Your Spirit lives within me
+My victory, my victory :/ x4</lines>
+    </verse>
+    <verse name="v6">
+      <lines>My victory, my victory
+My victory, my victory
+My victory, my victory
+My victory…</lines>
+    </verse>
+  </lyrics>
+</song>

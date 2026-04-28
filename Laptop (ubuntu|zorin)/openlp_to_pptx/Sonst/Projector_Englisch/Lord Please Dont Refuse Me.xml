@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord Please Don’t Refuse Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh Lord I’ve been so selfish
+In my work for you
+I haven’t been the way
+You’d have me be
+But now I come repenting
+Of my self-centred ways;
+And from now on
+My life I'll live forThee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus use me,
+Oh Lord please don’t refuse me;
+Surely there’s a work that I can
+do,
+And even though I stumble,
+Help my will to crumble.
+Though the cost be great
+I’ll work for you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There’s many things to do Lord
+They may be great or small;
+Whatever you want done
+Please let me do.
+I know there I'll be rewards Lord,
+When at the Judgment bar
+If only here I stand and work for you.</lines>
+    </verse>
+  </lyrics>
+</song>

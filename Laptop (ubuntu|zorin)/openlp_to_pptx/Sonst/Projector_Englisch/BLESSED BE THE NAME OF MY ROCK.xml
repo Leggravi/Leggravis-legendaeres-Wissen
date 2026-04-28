@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>BLESSED BE THE NAME OF MY ROCK</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessed be the Name of my Rock,
+Who trains my hands for war,
+Who causes me to walk
+In his overcoming power for evermore.
+Blessed be the Name of my Rock,
+Blessed be the Name of my Shield,
+Blessed be the Lamb
+Who has opened the scroll,
+And loosed the seven seals.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Proclaim this Word to every land,
+Let my people prepare for war.
+Wake up the mighty men,
+Let all the men become,
+Mighty men of war.
+Come be a people great and strong,
+The like of which has never been.
+Pick up your Sword,
+Pick up your Shield,
+And become mighty men.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let the weak say “I am strong”,
+Let the faint say “I am renewed”.
+Blow the trumpet in Zion,
+For I am coming soon.</lines>
+    </verse>
+  </lyrics>
+</song>

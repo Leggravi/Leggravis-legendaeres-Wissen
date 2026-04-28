@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hört ihr, wie die Engel singen</title>
+    </titles>
+    <authors>
+      <author type="words">Wilhelm Horn</author>
+      <author type="music">Volksweise</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hört ihr, wie die Engel singen,
+wie ihr Herz vor Freude lacht?
+Seht, das Licht, das sie uns bringen,
+hat die Nacht zum Tag gemacht.
+Gloria in excelsis deo! Gloria in excelsis deo!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hört ihr, was die Engel sagen?
+Diese Welt ist nicht verlorn,
+denn, um unsre Schuld zu tragen,
+wurde heut ein Kind geborn.
+Gloria in excelsis deo! Gloria in excelsis deo!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hört ihr, wie die Engel spielen,
+wie ihr Lied zum Himmel klingt?
+So wie sie sollt ihr euch fühlen,
+dass ihr selbst voll Freude singt:
+Gloria in excelsis deo! Gloria in excelsis deo!</lines>
+    </verse>
+  </lyrics>
+</song>

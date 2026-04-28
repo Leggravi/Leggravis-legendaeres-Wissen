@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesaja 61</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v4 v4 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Er lässt uns sein Erbarmen finden
+Wir wurden reich beschenkt
+Aus dieser Fülle woll'n wir leben
+Und selbst barmherzig sein</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er tröstet die zerbrochnen Herzen
+Und traut uns Menschen zu
+Dass wir dem Schmerz der Welt begegnen
+mit seinem Mitgefühl</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bis an die Enden der Erde
+Hat er uns gesandt
+Aus seinem Herz voller Liebe
+Dringt sein Ruf zu uns:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Geht zu den Armen der Nationen
+Gebt allen Schwachen Schutz
+Lasst euer Licht der Hoffnung leuchten
+Mein Geist ist mit euch</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Er tröstet die zerbrochnen Herzen
+Und traut uns Menschen zu
+Dass wir dem Schmerz der Welt begegnen
+Mit seinem Mitgefühl</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bis an die Enden dieser Erde
+Hat er uns gesandt
+Aus seinem Herz voller Liebe
+Dringt sein Ruf zu uns:</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Wenn ihr auf die Geringsten achtet
+Und ihnen Güte zeigt
+Habt ihr mir selbst gedient in Liebe
+Und Barmherzigkeit</lines>
+    </verse>
+  </lyrics>
+</song>

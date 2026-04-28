@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Christ In Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christ in me is to live
+To die is to gain
+Christ in me is to live
+To die is to gain</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He's my King He's my song
+He's my life and He's my joy
+He's my strength He's my sword
+He's my peace He's my Lord</lines>
+    </verse>
+  </lyrics>
+</song>

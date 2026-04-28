@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'll Say Yes Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'll Say Yes Lord
+I'll Say Yes
+To Your will Lord
+I'll Say Yes
+Wherever you lead me
+I will go</lines>
+    </verse>
+  </lyrics>
+</song>

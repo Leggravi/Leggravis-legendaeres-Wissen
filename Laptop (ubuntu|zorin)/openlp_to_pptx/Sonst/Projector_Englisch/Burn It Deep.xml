@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Burn It Deep</title>
+    </titles>
+    <authors>
+      <author type="words">Kent Henry</author>
+      <author type="music">Kent Henry</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Burn it deep Within my soul, New strength and fire O Lord,
+Burn it deep Within my soul, New zeal and fire O Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Burn it deep Within my soul
+New strength and fire It makes me whole
+Burn it deep, Deep within my soul, Burn it deep.</lines>
+    </verse>
+  </lyrics>
+</song>

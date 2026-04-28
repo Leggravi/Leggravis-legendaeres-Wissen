@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lamm, für unsre Schuld geschlachtet</title>
+    </titles>
+    <authors>
+      <author type="words">Annie von Wethern-Viebahn</author>
+      <author type="music">Wilhelm Brockhaus</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lamm, für unsre Schuld geschlachtet,
+du bist würdig, du allein,
+aller Ehren wert geachtet,
+hoch-, ja hochgelobt zu sein,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>zu empfangen Macht und Stärke,
+Reichtum, Weisheit, Herrlichkeit;
+Segnung, Ehre sei dem Lamme
+Ewigkeit um Ewigkeit!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Was im Himmel, was auf Erden,
+was darunter, was im Meer:
+Alles muss dem Lamm sich beugen,
+alles bringt dem Lamm die Ehr!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alle durch sein Blut Erkauften
+werfen dann im Jubelton
+ihre Siegeskronen nieder
+vor dem Lamme dort am Thron!</lines>
+    </verse>
+  </lyrics>
+</song>

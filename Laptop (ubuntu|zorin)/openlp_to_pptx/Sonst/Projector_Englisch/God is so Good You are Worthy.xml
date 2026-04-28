@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God is so Good (You are Worthy)</title>
+    </titles>
+    <authors>
+      <author type="words">Pat Barrett</author>
+      <author type="music">Pat Barrett</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6 v7 v8 v9 v10 v11 v2 v12</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No height or depth can separate
+Your steadfast love we can't escape
+Your faithfulness, an endless sea
+So full of grace and mercy
+We sing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God is so good
+God is so good
+God is so good
+He's so good to me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hardened by the past no more
+My answers have been restored
+Forgiveness flows from Your veins
+Your kindness shown in all Your ways
+We sing</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There's never been anyone like You
+There's never been anyone like
+You are worthy, You are worthy
+Never been anyone like You
+Never been anyone like You
+You are worthy, You are worthy</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You're always rising like the sun
+The old is gone, the new has come
+I fix my eyes on Christ alone
+My Rock, my Shield, my Cornerstone
+We sing</lines>
+    </verse>
+    <verse name="v6">
+      <lines>God is so good
+God is so good
+God is so good
+He's so good to me (oh, You are)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>God, You are good
+God, You are good
+God, You're so good
+You're so good to me</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Set my eyes on You alone
+My Rock, my Shield, my Cornerstone</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Oh-o-o-oh, o-o-oh
+Oh-o-o-oh, o-o-oh
+Good, always good, always good
+God, You are good, You are always good</lines>
+    </verse>
+    <verse name="v10">
+      <lines>God, You're so good, always good
+God, You're so good, always good
+God, You're so good, always good
+God, You're so good, always good</lines>
+    </verse>
+    <verse name="v11">
+      <lines>God, You're so good, always good
+We sing</lines>
+    </verse>
+    <verse name="v12">
+      <lines>God is so good
+He's so good to me
+God, You're so good
+You're so good to me</lines>
+    </verse>
+  </lyrics>
+</song>

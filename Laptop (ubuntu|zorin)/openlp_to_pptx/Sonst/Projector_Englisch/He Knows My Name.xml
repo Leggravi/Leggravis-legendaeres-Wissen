@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Knows My Name</title>
+    </titles>
+    <authors>
+      <author type="words">Tommy Walker</author>
+      <author type="music">Tommy Walker</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He counts the stars one and all
+He knows how much sand is on the shores
+He sees every sparrow that falls
+He made the mountains and the seas
+He's in control of everything
+Of all creatures great and small</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And He knows my name
+Every step that I take
+Every move that I make
+Every tear that I cry
+He knows my name
+When I'm overwhelmed by the pain
+And can't see the light of day
+I know I'll be just fine
+'Cause He knows my name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I don't know what tomorrow will bring
+I can't tell you what's in store
+I don't know a lot of things
+I don't have all the answers
+To the questions of my life
+But I know in Whom I have believed</lines>
+    </verse>
+  </lyrics>
+</song>

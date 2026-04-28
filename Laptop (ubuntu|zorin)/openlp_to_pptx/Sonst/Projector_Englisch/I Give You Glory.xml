@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Give You Glory</title>
+    </titles>
+    <authors>
+      <author type="words">Andreas Spyker</author>
+      <author type="music">Andreas Spyker</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How beautiful
+Are you Lord
+It's your word
+It's your love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How glorious
+Are you Lord
+It's your power
+It was a cross</lines>
+    </verse>
+    <verse name="v3">
+      <lines>That saved me, and rescued me
+Just a moment there you set me free</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: I give you glory, glory
+I give you glory, glory Jesus. :/</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/: With the crown of thorns
+You became my came forever :/</lines>
+    </verse>
+  </lyrics>
+</song>

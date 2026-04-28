@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Solang mein Jesus lebt</title>
+    </titles>
+    <authors>
+      <author type="words">Ernst Heinrich Gebhardt</author>
+      <author type="music">Christian Friedrich Spittler</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Solang mein Jesus lebt
+und Seine Kraft mich hebt,
+muss Furcht und Sorge von mir fliehn,
+mein Herz in Lieb erglühn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er ist ein guter Hirt,
+der treu Sein Schäflein führt.
+Er weidet mich auf grüner Au,
+tränkt mich mit Himmelstau.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn sich die Sonn verhüllt,
+der Löwe um mich brüllt,
+so weiß ich auch in finstrer Nacht,
+dass Jesus mich bewacht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und glitte je mein Fuß,
+brächt mir die Welt Verdruss,
+so eilt ich schnell zu Jesu Herz,
+Er heilte meinen Schmerz.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Drum blick ich nur auf Ihn,
+o seliger Gewinn!
+Mein Jesus liebt mich ganz gewiss,
+das ist mein Paradies.</lines>
+    </verse>
+  </lyrics>
+</song>

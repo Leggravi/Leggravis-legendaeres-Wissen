@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let Your Living Water Flow Over My Soul</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let Your living water flow over my soul
+Let Your Holy Spirit come and take control
+Of every situation that has troubled my mind
+All my cares and burdens on to You, I roll</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, Jesus, Jesus
+Sing to the Father
+Father, Father, Father
+Holy Spirit
+Spirit, Spirit, Spirit</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come now Holy Spirit and take control
+Hold me in Your loving arms and make me whole
+Wipe away all doubt and fear and take my pride
+Draw me to Your love and keep me by Your side</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, Jesus, Jesus
+Pray to the Father
+Father, Father, Father
+Spirit, Spirit, Spirit</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Give your life to Jesus, let Him fill your soul
+Let Him take you in His arms and make you whole
+As you give your life to Him, He'll set you free
+You will live and reign with Him eternally</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesus, Jesus, Jesus
+Let us talk to the Father
+Father, Father, Father
+Fresh your spirit
+Spirit, Spirit, Spirit</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Was für ein Gott</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deine Gnade reicht aus,
+ist mehr als ich brauch´.
+Deinem Wort vertraue ich.
+Zieh´ mich zu dir.
+Ich wart´ auf dich.
+Mach´ mich neu durch deinen Geist.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus hier knie ich vor dir,
+ja, hier knie ich vor dir,
+und ich bete dich an.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Deine Kraft lebt in mir,
+zeigt mir meinen Weg.
+Dein Wort leuchtet hell und klar.
+Ich bin erlöst,
+wieder hergestellt
+und befreit durch deinen Geist.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus hier knie ich vor dir,
+ja, hier knie ich vor dir,
+und ich bete dich an.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Du gabst dich für uns in den Tod.
+Ans Kreuz schlug man dich, den wahren Gott,
+der du dich selbst gibst,
+weil du uns liebst.
+Was für ein Gott!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Du überwandst des Todes Macht,
+wirst ewig geehrt in deiner Pracht.
+Diener und Held,
+Retter der Welt,
+was für ein Gott!</lines>
+    </verse>
+  </lyrics>
+</song>

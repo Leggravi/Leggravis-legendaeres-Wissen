@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sel'ge Hoffnung! Du kommst wieder</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Johann Georg Bäßler</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sel'ge Hoffnung! Du kommst wieder,
+Läßt die Glieder nicht zurück.
+Bald verkünden neue Lieder
+Droben unser ew'ges Glück.
+Dann ist jeder Wunsch erfüllt,
+Unser Sehnen ganz gestillt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ruhen werden dann die Glieder
+Ewig dort, vereint mit Dir.
+Keine Trübsal kehret wieder,
+Keine Träne fließt wie hier.
+Ewig fern ist alles Leid,
+Jedes Herz füllt Seligkeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und anbetend wird dann singen
+Deine teu'r erkaufte Schar,
+Dir, dem Lamme, Ehre bringen,
+Gott erheben immerdar.
+Welch ein Glück, bei Dir zu sein!
+Komm, o Jesu, führ' uns ein!</lines>
+    </verse>
+  </lyrics>
+</song>

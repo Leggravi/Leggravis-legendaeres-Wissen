@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Holy, Holy, Holy, Lord God of Hosts</title>
+    </titles>
+    <authors>
+      <author type="words">Nolene Prince</author>
+      <author type="music">Nolene Prince</author>
+      <author type="translation">Heilig, heilig, heilig ist der Herr Zebaoth</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy, holy, holy, Lord God of hosts.
+Heaven and earth are full of Thee,
+Heaven and earth are praising Thee,
+O Lord Most High.</lines>
+    </verse>
+  </lyrics>
+</song>

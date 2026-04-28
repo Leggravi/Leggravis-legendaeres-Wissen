@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Know My Redeemer Lives</title>
+    </titles>
+    <authors>
+      <author type="words">Charles Wesley</author>
+      <author type="music">Chris Eaton</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who taught the sun where to stand in the morning?
+And who taught the ocean you can only come this far?
+And who showed the moon where to hide till evening?
+Whose words alone can catch a falling star?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Well I know my Redeemer lives,
+I know my Redeemer lives,
+All of creation testifies this life within me cries,
+I know my Redeemer lives.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The very same God that spins things in orbit
+runs to the weary the worn and the weak,
+And the same gentle hands that hold me when,
+I'm broken they conquer death to bring me victory.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He lives to take away my shame,
+And He lives forever
+I'll proclaim that the payment for my sin was the precious life He gave,
+But now He's alive and there's an empty grave.</lines>
+    </verse>
+  </lyrics>
+</song>

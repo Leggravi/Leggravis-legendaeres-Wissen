@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Is Old Time Religion</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Some people say,
+this is old time religion
+It’s just a thing of the past,
+But in these modern days
+that we are living
+It’s just the thing that will last.
+Well, you may think I’m a
+little old fashioned
+Well, friends that’s alright for me:
+But I am so glad that I am a
+Christian from sins I have
+been set free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know, I know, there is no
+doubt about it,
+He lives in my heart and am
+gonna shout it, I know,
+I know, my sins were all forgiven
+And am on my way to a
+place that’s called heaven.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Not long ago, in an old
+fashioned meeting I knelt there
+on my knees and I prayed,
+He lifted my burdens sins
+shackles fell from me
+His presence was present
+everywhere.
+Now that the load I carry is lighter,
+He’s turned my grey skies to blue.
+My steps are higher I have
+this assurance
+That His sweet love will
+carry me through</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come let us go to a land over yonder,
+Its prepared for the pure and the true
+It’ a place where sickness and death
+can’t enter
+I’m going my friend how about you?
+May be today or may be tomorrow
+He’ll return
+In robes of pure white:
+Am packing up now getting all things
+together
+Who knows He may come tonight.</lines>
+    </verse>
+  </lyrics>
+</song>

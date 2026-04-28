@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Words You Speak</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All the flowers are
+All of our tomorrow
+Are in the seeds today
+In the seeds we’re sowing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For the words you speak
+Are little seeds
+When they’re planted,
+they will grow
+And you’ll reap every seed
+that you sow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Our words can justify us
+Or condemn us on that day
+So why not say what God says
+And sow the seed the right way.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Words of hate can kill
+Words of love can heal
+Words can make one glad
+And words can make one cry.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And you’ll reap every seed
+That you sow.</lines>
+    </verse>
+  </lyrics>
+</song>

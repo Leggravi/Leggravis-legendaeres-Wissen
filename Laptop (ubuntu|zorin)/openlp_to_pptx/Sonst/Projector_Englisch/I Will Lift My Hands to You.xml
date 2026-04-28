@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Will Lift My Hands to You</title>
+    </titles>
+    <authors>
+      <author type="words">Bruce Ellis</author>
+      <author type="music">Bruce Ellis</author>
+      <author type="translation">Herr, ich will dich ehrn (Ich erhebe meine Hände)</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will lift my hands to You saying
+Father I love You Father I need You
+I will lift my voice and sing
+I will sing of Your glory
+The glory of my King</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will worship You (I will worship You)
+Worship and adore You
+I will worship You (I will worship You)
+Lay my life before You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'll bow my head before Your glory
+Worship at Your feet
+I'll declare that You are worthy
+Set my eyes on You alone and</lines>
+    </verse>
+  </lyrics>
+</song>

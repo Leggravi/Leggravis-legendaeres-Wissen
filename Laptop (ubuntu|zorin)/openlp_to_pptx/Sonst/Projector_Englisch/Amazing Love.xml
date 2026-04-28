@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Amazing Love</title>
+    </titles>
+    <authors>
+      <author type="words">David Hind</author>
+      <author type="music">David Hind</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's amazing how he loved me
+and he chose to die I live,
+He Gave up all His life at Calvary,
+He did not complain or say Hit back
+But He choose to die
+He choose to die that I may live</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Am glad I've found the one
+The one who love me first
+The one who choose to die that I may live
+It was love amazing love
+That forever keep me on
+Am grateful Jesus Christ for your Amazing love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He loves me when am weak
+He loves me when am poor
+He such a faithful friend and ever true
+It's this love that keeps me on
+And forever drives me on
+And this love, One day shall take me home</lines>
+    </verse>
+  </lyrics>
+</song>

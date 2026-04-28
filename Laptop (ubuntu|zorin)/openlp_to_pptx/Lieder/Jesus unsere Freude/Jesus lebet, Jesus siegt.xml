@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:46">
+  <properties>
+    <titles>
+      <title>Jesus lebet, Jesus siegt</title>
+    </titles>
+    <authors>
+      <author type="words">Friedrich Traub (1901)</author>
+      <author type="music">Johann Georg Ebeling</author>
+    </authors>
+    <ccliNo>5729838</ccliNo>
+    <themes>
+      <theme>Ostern</theme>
+      <theme>Auferstehung</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus lebet, Jesus siegt! Halleluja! Amen.
+Satan wütend stets bekriegt Gottes heiligen Samen.
+Volk des Herrn, o sei getrost,
+wenn der Feind auch sehr erbost:
+Jesus lebet, Jesus siegt! Halleluja! Amen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er verlor noch keine Schlacht und wird nie verlieren,
+denn mit unbegrenzter Macht kann er Kriege führen.
+Unter seinem Kreuzpanier
+ist der beste Platz allhier!
+Jesus lebet, Jesus siegt! Halleluja! Amen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Streiter Christi, frisch voran ohne Furcht und Zagen!
+Längst gebrochen ist die Bahn, drum darfst du es wagen.
+Gottes Gnade reicht für dich,
+und du siehst ganz sicherlich:
+Jesus lebet, Jesus siegt! Halleluja! Amen!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wird dir's auch im Kampfe heiß, lass den Mut nicht schwinden!
+Denn es gilt um jeden Preis völlig überwinden!
+Nur stets auf das Lamm geschaut
+und ihm still und fest vertraut!
+Jesus lebet, Jesus siegt! Halleluja! Amen!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kleines Häuflein, sei getreu in des Königs Kriegen!
+Mache dich von allem frei, was nicht hilft zum Siegen!
+Halt zusammen wie ein Mann,
+dass durch dich man sehen kann:
+Jesus lebet, Jesus siegt! Halleluja! Amen!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Harre aus! Das End ist nah! Bald erscheint die Stunde,
+wo ein froh "Viktoria!" geht von Mund zu Munde.
+Ewig enden Kampf und Schmerz,
+selig jauchzt ein jedes Herz:
+Jesus lebet, Jesus siegt! Halleluja! Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

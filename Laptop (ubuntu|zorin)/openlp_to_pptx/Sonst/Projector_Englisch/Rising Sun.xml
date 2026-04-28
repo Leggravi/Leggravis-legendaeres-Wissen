@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Rising Sun</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v2 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise Him all you sinners
+Sing oh sing you weary
+Oh praise Him all you children of God
+We lift high His glory
+Shown throughout our stories
+We praise Him as the children of God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Our great Redeemer glorious Savior
+Your Name is higher than the rising sun
+Light of the morning You shine forever
+Your Name is higher than the rising sun (oh)
+Your Name is higher than the rising sun</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise His Name forever
+Speak it loud and clear now
+Oh praise Him all you children of God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh oh oh oh, oh oh oh oh</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hallelujah name above all
+Simply to speak Your Name is praise
+Hallelujah now and always
+Forever we lift Your Name in praise
+Hallelujah our God You reign
+Simply to speak Your Name is praise oh</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hallelujah name above all
+Hallelujah name above all
+Hallelujah
+Hallelujah</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When the Roll Is Called Up Yonder</title>
+    </titles>
+    <authors>
+      <author type="words">James Milton Black</author>
+      <author type="music">James Milton Black</author>
+      <author type="translation">Wenn des Herrn Posaune einst erschallt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the trumpet of the Lord shall sound
+And time shall be no more,
+And the morning breaks eternal,
+Bright and fair;
+When the saved of earth shall gather
+Over on the other shore,
+And the roll is called up yonder,
+I'll be there.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When the roll is called up yonder,
+When the roll is called up yonder,
+When the roll is called up yonder,
+When the roll is called up yonder,
+I'll be there.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On that bright and cloudless morning
+When the dead in Christ shall rise,
+And the glory of His resurrection share;
+When His chosen ones shall gather
+To their home beyond the skies,
+And the roll is called up yonder,
+I'll be there.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let us labor for the Master
+From the dawn till setting sun,
+Let us talk of all His wondrous
+Love and care;
+Then when all of life is over,
+And our work on earth is done,
+And the roll is called up yonder,
+I'll be there.</lines>
+    </verse>
+  </lyrics>
+</song>

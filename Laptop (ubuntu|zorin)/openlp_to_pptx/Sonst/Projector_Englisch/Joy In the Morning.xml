@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Joy In the Morning</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There’ll be joy in the morning
+When the dead in Christ
+Shall rise in that day
+I can sing hallelujah going down
+I feel like travelling on
+There’ll be joy in the morning in
+that day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There’ll be joy in the morning
+There’ll be joy in the morning
+There’ll be joy In the morning
+one of these days
+When we see all our loved ones
+Who have gone on before
+There’ll be joy In the morning
+One of these days… (what a day)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There are brothers in many dimensions
+That are waiting for that day
+When they’ll be appearing to their own
+And with great anticipation
+We’re longing for that day
+Oh what a beautiful (wonderful)
+morning Bright and fair.</lines>
+    </verse>
+  </lyrics>
+</song>

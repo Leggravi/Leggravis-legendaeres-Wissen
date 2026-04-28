@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Golden</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v4 v7 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I think it's too soon to write this
+I'm still in the grip of the crisis
+If this is part of making me righteous
+I might just
+Need a little courage to fight this</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Honestly, I feel a little bit like Job
+Though I know he had it worse than me
+Through it all, You're making me golden
+Facing opposition everywhere I go
+Like somebody's cursing me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I'm afraid
+I lack the faith
+For the road ahead
+I try to follow You, but I don't know where You went</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I go to the East
+I go to the West
+And still, I'm not finding You
+In the North and the South
+I'm chasing You down
+Like somebody's hiding You
+I know You know the way
+I go and You won't leave me broken
+Through it all, You're making me golden</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So I'll stand up and face it
+I got a chance and I don't wanna waste it
+Sometimes, grace can be a little abrasive
+But if I embrace it, it'll sharpen up my dull places
+I'm trying not to focus on how cruel the universe can be
+I'm looking for a reason to believe I'm wrong
+Like somebody's cursing me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>But I refuse to listen to
+All the voices in my head
+But instead, I keep praying the words that Job said</lines>
+    </verse>
+    <verse name="v7">
+      <lines>When it hurts so bad
+When it all comes crashing down
+When we start from scratch
+See what we can live without
+In the end, I know
+It'll all be gold
+While I wait for that
+I don't look back</lines>
+    </verse>
+  </lyrics>
+</song>

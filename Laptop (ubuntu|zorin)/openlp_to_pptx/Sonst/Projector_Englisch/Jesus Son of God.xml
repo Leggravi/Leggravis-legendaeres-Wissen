@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, Son of God</title>
+    </titles>
+    <authors>
+      <author type="words">Jason Ingram</author>
+      <author type="music">Jason Ingram</author>
+      <author type="translation">Jesus Gottes Sohn (Du kamst herab)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You came down from heaven's throne,
+This earth you formed was not your home
+A love like this the world had never known,
+A crown of thorns to mock your name,
+Forgiveness fell upon your face,
+A love like this the world had never known.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On the altar of our praise let there be no higher name
+Jesus son of God
+You laid down your perfect life
+You are the sacrifice
+Jesus son of God
+You are Jesus, son of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You took our sin,
+You bore our shame,
+You rose to life,
+You defeated the grave,
+Love like this the world has never known.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Be lifted higher than all you've overcome,
+Your name be louder than any other song,
+There is no power that can come against your love,
+The cross was enough,
+The cross was enough.</lines>
+    </verse>
+  </lyrics>
+</song>

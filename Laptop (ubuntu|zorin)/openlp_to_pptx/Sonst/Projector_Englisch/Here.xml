@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Here</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've come here
+To find You
+Arms open wide
+I'm empty
+But Your fountain
+Never runs dry</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So fall down on me
+Pour Your presence out</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I raise my hands
+Shout out loud
+Hope is rising all around
+Cause You are here
+You are here
+Holy Spirit capture me
+Open heaven let me see
+That You are here
+Jesus You are here</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'm ready
+To listen
+Speak to my heart
+Come show me
+Your fullness
+How great You are</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And I join all creation (You are here)
+Singing praise to the King of kings, yeah
+As I bow and surrender (You are here)
+Offering everything</lines>
+    </verse>
+  </lyrics>
+</song>

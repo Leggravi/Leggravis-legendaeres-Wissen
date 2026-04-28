@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Worship the King</title>
+    </titles>
+    <authors>
+      <author type="words">Billy Funk</author>
+      <author type="music">Billy Funk</author>
+      <author type="translation">Der König lebt (preist ihn, den Auferstandnen)</author>
+    </authors>
+    <verseOrder>v1 v1 v1 v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Worship the king
+Worship the king
+We are in his presence
+to magnify his name
+when we seek his face
+glory fills this place
+as we worship the King</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Worship the king
+Worship the king
+we are in his presence
+to magnify his name
+when we seek his face
+glory fills this place</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As we worship the King
+As we worship the King
+As we worship the King</lines>
+    </verse>
+  </lyrics>
+</song>

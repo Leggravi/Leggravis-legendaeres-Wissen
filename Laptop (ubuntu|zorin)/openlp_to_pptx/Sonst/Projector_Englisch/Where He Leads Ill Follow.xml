@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Where He Leads I'll Follow</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sweet are the promises,
+  kind is the word;
+Dearer far than any message
+  man ever heard;
+Pure was the mind of Christ,
+  sinless I see;
+He the great example is,
+  and pattern for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where He leads I'll follow,
+Follow all the way;
+Where He leads I'll follow,
+Follow Jesus ev'ry day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sweet is the tender love
+  Jesus hath shown,
+Sweeter far than any love
+  that mortals have known;
+Kind to the erring one,
+  faithful is He;
+He the great example is
+  and pattern for me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>List to His loving words,
+  &quot;Come unto Me!&quot;
+Weary, heavy laden,
+  there is sweet rest for thee;
+Trust in His promises,
+  faithful and sure;
+Lean upon the Savior,
+  and thy soul is secure.</lines>
+    </verse>
+  </lyrics>
+</song>

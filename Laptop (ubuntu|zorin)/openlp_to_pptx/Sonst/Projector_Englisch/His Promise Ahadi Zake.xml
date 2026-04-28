@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>His Promise (Ahadi Zake)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My self do not tire, my spirit praise the Lord
+He promised he will do it, trust in the Lord
+His promises are forever, if he promises he will do it
+My spririt my self, trust in the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As the rain pours, from heaven on earth
+So his words from his mouth, will not return in vain
+It will accomplish his will, it will do as he says
+If he promises he will do it, trust in the Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His thoughts are not ours, his ways are not like ours
+As the heavens are above, his thoughts are great
+He will instruct his mercies, his song to me at night
+Do not despair do not falter, trust in the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

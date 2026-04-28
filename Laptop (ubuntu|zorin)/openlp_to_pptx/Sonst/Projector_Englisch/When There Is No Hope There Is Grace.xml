@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When There Is No Hope, There Is Grace</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tossing and turning, sleep just won`t come.
+You hate to see the sun rise on another day.
+And you dread the sorrow that waits for tomorrow.
+You're out of hope but thank God for grace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When there's no hope, there is grace.
+When you feel too weak to stand, let the blood take your place.
+There's no trial He can't erase.
+When there's no hope, thank God for grace.
+When there's no hope, thank God for grace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the hours in your days seem like eternity.
+Oh no matter what you do the pain just wont leave.
+You start to think that life is over, your burdens hard to bear.
+Remember at your lowest, He is always there.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So no matter what you're going through the blood will prevail.
+Just past all the sorrow, remember He's still there.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There's no trial He can't erase.
+When there's no hope, thank God for grace.
+When there's no hope, thank God for grace.</lines>
+    </verse>
+  </lyrics>
+</song>

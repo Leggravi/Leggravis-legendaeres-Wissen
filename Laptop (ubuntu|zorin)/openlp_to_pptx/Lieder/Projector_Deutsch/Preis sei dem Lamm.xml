@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Preis sei dem Lamm</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Preis sei Dir, o Lamm,
+Spross aus Davids Stamm!
+Unsre Schuld hast Du gesühnet,
+Trugst den Fluch, den wir verdienet.
+Preis sei Dir, o Lamm,
+Spross aus Davids Stamm!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In welch tiefer Not
+Schrieest Du zu Gott:
+&quot;Warum hast Du mich verlassen?&quot;
+O wer kann Dein Weh erfassen!
+In welch tiefer Not
+Schrieest Du zu Gott!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du, zur Sünd' gemacht,
+Sankst in Todesnacht.
+Du, der keine Sünde kannte,
+Der sich selbst &quot;das Leben&quot; nannte,
+Du, zur Sünd' gemacht,
+Sankst in Todesnacht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nun ist Gott geehrt,
+Satans Macht zerstört,
+Freigemacht unzähl'ge Scharen,
+Die des Todes Beute waren.
+Gott in Dir geehrt,
+Satans Macht zerstört.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O Anbetung Dir,
+Preis und Dank dafür!
+Über alles hoch erhoben,
+Weilest, Gottes Lamm, Du droben.
+O Anbetung Dir,
+Preis und Dank dafür!</lines>
+    </verse>
+  </lyrics>
+</song>

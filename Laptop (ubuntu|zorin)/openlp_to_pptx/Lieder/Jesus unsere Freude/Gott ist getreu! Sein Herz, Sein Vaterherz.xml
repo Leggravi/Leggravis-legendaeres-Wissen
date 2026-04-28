@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:33">
+  <properties>
+    <titles>
+      <title>Gott ist getreu! Sein Herz, Sein Vaterherz</title>
+    </titles>
+    <authors>
+      <author type="words">Ehrenfried Liebich (1768)</author>
+      <author type="music">Es ist genug, so nimm, Herr, meinen Geist</author>
+    </authors>
+    <ccliNo>5216657</ccliNo>
+    <themes>
+      <theme>Trost</theme>
+      <theme>Vetrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott ist getreu. Sein Herz, sein Vaterherz
+ist voller Redlichkeit.
+Gott ist getreu bei Wohlsein und bei Schmerz,
+in gut und böser Zeit.
+Weicht, Berge, weicht! Fallt hin, ihr Hügel!
+Mein Glaubensgrund hat dieses Siegel:
+Gott ist getreu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gott ist getreu. Er ist mein treuster Freund;
+dies weiß, dies glaub ich fest.
+Ich bin gewiss, dass er mich keinen Feind
+zu hart versuchen lässt.
+Er wiegt bei jeder Prüfungsstunde
+die Kraft von meinem Glaubenspfunde.
+Gott ist getreu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gott ist getreu. Er tut, was er verheißt;
+er hält, was er verspricht.
+Wenn mir sein Wort den Weg zum Leben weist,
+so gleit und irr ich nicht.
+Gott ist kein Mensch, er kann nicht lügen,
+sein Wort der Wahrheit kann nicht trügen.
+Gott ist getreu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gott ist getreu. Er gibt der bösen Welt
+sein eingebornes Kind.
+Der Heiligste bezahlt das Lösegeld
+für die, die Sünder sind.
+Gott macht den liebsten Sohn zum Bürgen,
+er lässt ihn martern und erwürgen.
+Gott ist getreu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gott ist getreu. Mein Vater, des ich bin,
+sorgt für mein Seelenwohl.
+Sein Will und Wunsch, sein Zweck und sein Bemühn
+ist, dass ich leben soll.
+Er reinigt mich von allen Sünden,
+er lässt mich Ruh in Christus finden.
+Gott ist getreu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gott ist getreu. Vergiss, o Seel, es nicht,
+wie zärtlich treu Gott ist.
+Gott treu zu sein, sei deine frohe Pflicht,
+so lang du denkst und bist.
+Halt fest an Gott, sei treu im Glauben;
+lass dir den starken Trost nicht rauben:
+Gott ist getreu.</lines>
+    </verse>
+  </lyrics>
+</song>

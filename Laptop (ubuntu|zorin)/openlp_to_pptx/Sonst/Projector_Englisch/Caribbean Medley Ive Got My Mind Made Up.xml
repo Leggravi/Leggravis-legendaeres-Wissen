@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Caribbean Medley (I've Got My Mind Made Up)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v1 v2 v2 v3 v4 v4 v1 v5 v6 v7 v1 v8 v9 v1 v1 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've got my mind made up and I won't turn back
+Because I want to see my Jesus someday
+I've got my mind made up and I won't turn back
+Because I want to see my Jesus someday</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Goodbye world, I stay no longer with you
+Goodbye pleasures of sin, I stay no longer with you
+I've made up my mind to go God's way the rest of my life
+I've made up my mind to go God's way the rest of my life</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Born, born, born again Thank God, I'm born again
+Born, born, born again Thank God, I'm born again
+Born, born, born again Thank God, I'm born again
+Born, born, born again Thank God, I'm born again</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Born of the water, spirit and the blood
+Thank God, I'm born again
+Born of the water, spirit and the blood
+Thank God, I'm born again</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I am under the rock, The rock that's higher than I (but the rock is higher)
+(Jehovah Hide me) Jehovah hide me, I am under the rock (oh yeah)
+(Go tell my enemies) Go tell my enemies, I am under the rock (yes I am)
+Jehovah hide me, I am under the rock</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesus name so sweet, Emanuel name so sweet
+Jesus name so sweet, Emanuel name so sweet
+Jesus name so sweet, Emanuel name so sweet
+Jesus name so sweet, Emanuel name so sweet</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Every rock, me rock upon Jesus, Jesus' name so sweet
+Every rock, me rock upon Jesus, Jesus' name so sweet
+Every rock, me rock upon Jesus, Jesus' name so sweet
+Every rock, me rock upon Jesus, Jesus' name so sweet</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Oh, I want to see Him, look upon His face
+There, to sing forever of His saving grace
+On the streets of glory let me lift my voice
+All my cares are past, home at last, ever to rejoice</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Yes I want to see Him, look upon His face
+There, to sing forever love forever love of His saving grace
+On the streets of glory let me lift my voice
+All my cares are past, home at last, ever to rejoice</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Fire, fire, fire Fire fall on me
+Fire, fire, fire Fire fall on me
+On the day of Pentecost, the fire fall on me
+On the day of Pentecost, the fire fall on me
+Fire, fire, fire Fire fall on me</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I’m Here to Stay</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A thousand miles I cried in this room,
+a bird in a cage and Heaven only knows
+I called up Your name in many ways,
+the greatest hope I have is Your love and grace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I heard your cry, o, my little child,
+I knew how much you tried and I'm here to stay
+I'm here to stay when your world is torn apart
+when help is that far, I’m here to stay.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And you will rise from those sufferings
+And you will fly from those broken wings,
+I want you to know in spite of these things
+I want you to know that I’m always here to stay.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I ponder this Book day after day,
+close my eyes to pray that one day I’ll be free,
+My faith and trust they’re all I have,
+keep me going on, Lord, keep me strong.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Keep holding on, O my little child,
+I knew how much you tried and I’m here to stay,
+I'm here to stay, when your heart crumbles,
+when your hope stumbles, I'm here to stay.</lines>
+    </verse>
+  </lyrics>
+</song>

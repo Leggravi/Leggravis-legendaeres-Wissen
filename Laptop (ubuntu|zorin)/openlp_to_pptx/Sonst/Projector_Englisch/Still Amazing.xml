@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Still Amazing</title>
+    </titles>
+    <authors>
+      <author type="words">Geraldine Latty</author>
+      <author type="music">Geraldine Latty</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, I know the power of the Blood
+  of the lamb;
+The cleansing flow from calvary
+  to redeem fallen man,
+Though you were rejected and your love
+was more than tested, You carried on.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord you left your Father;
+You came to set men free;
+To give me life, You laid Yours down
+    as a ransom just for me;
+Oh Jesus, I'm so grateful that your love's
+  been more than faithful.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord your grace is still amazing (3x)
+Amazing to me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sometimes our desires may lead us far away,
+But Your Spirit draws us back to You
+ no matter where we stray;
+Even in our weakness Lord,
+Your love can always reach us.</lines>
+    </verse>
+  </lyrics>
+</song>

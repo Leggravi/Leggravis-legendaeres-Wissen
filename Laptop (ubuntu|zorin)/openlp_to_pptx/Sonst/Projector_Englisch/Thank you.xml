@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thank you</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Army</author>
+      <author type="music">Jesus Army</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Just a little while longer I wanna pray
+Can't get You off my mind so I came to say
+Thank You Lord just for loving me
+Many times I do forget
+Every need that You have met
+Oh thank You Lord, I know You're showing me
+You are there when I am down and out
+You're holding me, Your love is so amazing
+Oh it changed me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here I am with all I have
+Raise my hands to worship You
+I wanna say thank you, oh thank you
+For everything, for who You are
+You cover me, You touch my heart
+I wanna say thank you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I could have died in my sin but You saved me
+Didn't have any hope at all
+You gave me peace divine, strength to carry on
+I should have been the one to pay
+But instead You took my place
+Amazing grace, it's more than just a song
+Even though I don't deserve Your love for me
+You look beyond my fault and You showed mercy</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I wanna say thank you for the sun
+I wanna say thank you for the rain
+Thank You for the love You gave</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Here I am with all I have
+Raise my hands to worship You
+I wanna say thank you, oh thank you
+For everything, for who You are
+You cover me, You touch my heart
+I wanna say thank You, thank You
+I wanna say thank You, thank You
+I wanna say thank You</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I wanna say thank You
+I wanna say thank You
+I wanna say thank You</lines>
+    </verse>
+  </lyrics>
+</song>

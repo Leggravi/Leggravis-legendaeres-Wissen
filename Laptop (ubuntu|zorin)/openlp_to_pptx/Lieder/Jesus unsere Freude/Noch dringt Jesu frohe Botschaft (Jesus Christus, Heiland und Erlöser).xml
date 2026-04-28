@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:11">
+  <properties>
+    <titles>
+      <title>Noch dringt Jesu frohe Botschaft (Jesus Christus, Heiland und Erlöser)</title>
+    </titles>
+    <authors>
+      <author type="words">Jugendteam Schwarzwald (1960)</author>
+      <author type="music">Robert Lowry</author>
+    </authors>
+    <ccliNo>6275147</ccliNo>
+    <themes>
+      <theme>Evangelisation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Noch dringt Jesu frohe Botschaft in die dunkle Welt;
+noch sind allerorten Boten aufgestellt.
+Menschen müssen Menschen sagen, dass Gott alle liebt,
+dass es einen Weg aus Schuld und Elend gibt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ehe du geboren wurdest, hat dich Gott erkannt.
+Oft hat dir im Herzen schon sein Wort gebrannt.
+Hell und Dunkel deines Lebens sind ein Ruf nach Haus,
+und noch immer weichst du seiner Liebe aus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Heute, wenn sein Wort dich trifft, so halt ihm endlich still;
+brich mit dem Vergangnen, sprich zu Gott: Ich will!
+Und das "mene tekel"/Todesurteil, das auf deinem Leben stand,
+wird gelöscht von Gottes guter Vaterhand.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Garment of Praise</title>
+    </titles>
+    <authors>
+      <author type="words">David J. Hadden</author>
+      <author type="music">David J. Hadden</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Put on the garment of praise
+For the spirit of heaviness
+Lift up your voice to God
+Pray in the Spirit
+And with understanding
+Oh magnify the Lord!</lines>
+    </verse>
+  </lyrics>
+</song>

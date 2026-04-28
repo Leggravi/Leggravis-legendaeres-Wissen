@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wenn es je an der Zeit war</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Jacobi</author>
+      <author type="music">Daniel Jacobi</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wenn es je an der Zeit war,
+für Jesus zu leben, dann jetzt.
+Wenn es je an der Zeit war,
+alles zu geben, dann jetzt.
+Jetzt ist die Zeit zu erobern.
+Jetzt ist die Zeit,
+mit Gott vorwärts zu gehen in Kraft.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dein Reich kommt mit Macht.
+Zeichen und Wunder geschehen.
+Licht durchbricht die Nacht.
+Gefangene werden frei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dein Reich kommt mit Macht.
+Die Pforten der Hölle erbeben.
+König der Herrlichkeit,
+Du herrschst in Ewigkeit.
+Dein Thron steht fest für immer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wir durchziehen das Land mit der Botschaft: &quot;Jesus ist HERR! „
+Es ist niemand so mächtig und herrlich und siegreich wie Er.
+Er ist der ewige König.
+Er ist der Gott, dessen Herrschaft niemals vergeht.</lines>
+    </verse>
+  </lyrics>
+</song>

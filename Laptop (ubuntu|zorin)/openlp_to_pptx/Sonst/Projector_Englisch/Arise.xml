@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Arise</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Arise, arise, arise, arise!
+Arise! Take Your place,
+Be enthroned on our praise…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>One thing we ask of You,
+One thing that we desire:
+That as we worship You,
+Lord come and change our lives.
+Arise, arise, arise, arise!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Arise! Take your place,
+Be enthroned on our praise;
+Arise! King of kings,
+Holy God, as we sing.
+Arise, arise, arise, arise!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We lift You up, we lift You up,
+We lift You up on our praises.
+We lift You up, we lift You up,
+We lift You up on our praises.
+We lift You up, we lift You up,
+We lift You up on our praises.
+We lift You up, we lift You up,
+We lift You up on our praises.</lines>
+    </verse>
+  </lyrics>
+</song>

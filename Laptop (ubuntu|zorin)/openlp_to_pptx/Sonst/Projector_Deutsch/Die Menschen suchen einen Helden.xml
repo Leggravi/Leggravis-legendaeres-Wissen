@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Die Menschen suchen einen Helden</title>
+    </titles>
+    <authors>
+      <author type="words">Arne Kopfermann</author>
+      <author type="music">Noel Richards</author>
+      <author type="translation">The world is looking for a hero (Champion of the world)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Die Menschen suchen einen Helden.
+Den größten Helden kennen wir.
+Den mächtigen Herrscher über alles,
+den Herrn der Herrn für allezeit.
+Er wurde alle Menschen Diener
+und gab sein Leben für uns hin.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Und wir rufen aus,
+ja wir singen laut.
+Er ist der Champion dieser Welt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir folgen einem großen Helden,
+denn Er zerbricht der Sünde Macht
+Durch Jesus fürchten wir kein Über,
+denn böse Mächte fliehn vor ihm.
+Sein Licht erstrahlt über den Völkern.
+Gerechtigkeit geht von ihm aus.</lines>
+    </verse>
+  </lyrics>
+</song>

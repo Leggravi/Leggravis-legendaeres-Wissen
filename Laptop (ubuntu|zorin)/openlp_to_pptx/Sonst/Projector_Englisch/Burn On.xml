@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Burn On</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Burn on, burn on,
+Oh, fire of God burn on,
+Till all my dross is burned away,
+Prepare me for the testing day
+Oh, fire of God burn on.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Burn on, Burn on,
+Oh, fire of God, burn on!
+'Til all my soul, Christ's image bears
+His holy, heavenly nature wears,
+Oh, fire of God, burn on!</lines>
+    </verse>
+  </lyrics>
+</song>

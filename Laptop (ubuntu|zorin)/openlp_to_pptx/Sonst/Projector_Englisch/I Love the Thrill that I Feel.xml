@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Love the Thrill that I Feel</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I love the thrill that I feel when I get together
+with God’s wonderful people
+Love the thrill that I feel when I get together
+with God’s wonderful people
+What a sight just to see all the happy faces
+Praising God in the heavenly places
+Love the thrill that I feel when I get together
+with God’s wonderful people.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love you with the love of the Lord,
+I love you with the love of the Lord,
+I can see in you the glory of My King
+Yes, I love you with the love of the Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh I love that Man from Galilee,
+For He's done so very much for me.
+He's forgiven all my sins,
+Placed the Holy Ghost within;
+Oh I love, I love that man from Galilee.</lines>
+    </verse>
+  </lyrics>
+</song>

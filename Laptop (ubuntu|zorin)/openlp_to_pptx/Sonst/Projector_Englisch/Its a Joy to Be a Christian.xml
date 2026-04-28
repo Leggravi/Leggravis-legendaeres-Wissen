@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It's a Joy to Be a Christian</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It’s a joy to be a Christian, it’s a joy
+It’s a joy to be a Christian, it’s a joy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Every Monday, Tuesday, Wednesday,
+Thursday, Friday, Saturday, Sunday,
+It’s a joy to be a Christian, it’s a joy.</lines>
+    </verse>
+  </lyrics>
+</song>

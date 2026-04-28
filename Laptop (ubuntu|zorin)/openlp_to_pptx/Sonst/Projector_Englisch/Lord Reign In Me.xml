@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord Reign In Me</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Bowater</author>
+      <author type="music">Chris Bowater</author>
+      <author type="translation">Herrsche du, höchster Herr, herrsche du</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Over all the earth you reign on high
+Every mountain stream, every sunset sky
+But my one request, Lord my only aim
+Is that you'd reign in me again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord reign in me, reign in your power
+Over all my dreams, in my darkest hour
+You are the Lord of all I am
+So won't you reign in me again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Over every thought, over every word
+May my life reflect the beauty of my Lord
+Cause you mean more to me than any earthly thing
+So won't you reign in me again</lines>
+    </verse>
+  </lyrics>
+</song>

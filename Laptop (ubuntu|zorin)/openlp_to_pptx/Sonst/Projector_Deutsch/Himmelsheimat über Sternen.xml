@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Himmelsheimat über Sternen</title>
+    </titles>
+    <authors>
+      <author type="words">Adeline Birkel-Schönenborn</author>
+      <author type="music">Heinrich Fransen</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Himmelsheimat über Sternen droben,
+Ziel der Sehnsucht hier in Mesechs Land,
+Ruhplatz derer, die bald aufgehoben,
+Himmelsstadt, dem Glauben wohlbekannt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Jerusalem! zu deinen Toren
+Ziehen bald im Sieg'sgepränge ein
+Müde Pilger, die aus Gott geboren,
+Um sich deiner Ruhe zu erfreun'.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Auch ich wend' im Glauben meine Blicke
+Oft zu deinen Perlentoren hin,
+Und mein Herz – es sehnt sich nicht zurücke,
+Möchte gern der Erde ganz entfliehn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Möchte gern auf ewig droben leben
+Mit der auserwählten, sel'gen Schar,
+Ewig meines Heilands Ruhm erheben
+Und mich Seiner freuen immerdar.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nicht zur Stadt mit ihren goldnen Gassen
+Geht des Herzens tiefste Sehnsucht hin,
+Ewig möchte Ihn ich nur umfassen,
+Dessen teures Eigentum ich bin.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O mein Jesus! stille bald das Sehnen
+Deiner Heil'gen, noch im Pilgerkleid,
+Trockne bald des Heimwehs heiße Tränen,
+Hol' sie heim in Deine Herrlichkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

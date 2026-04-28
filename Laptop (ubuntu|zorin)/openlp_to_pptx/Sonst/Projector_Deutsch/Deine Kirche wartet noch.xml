@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Deine Kirche wartet noch</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deine Kirche wartet noch,
+Sehnet sich nach oben,
+Wo sie, frei von allem Joch,
+Dich wird schauend loben.
+Sie ist fremd und einsam hier,
+Von der Welt geschieden.
+Doch, o Jesu, Du bleibst ihr,
+Leitest sie in Frieden.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ihre Ruhestätt' ist da,
+Wo kein Feind sie störet,
+Wo sie, Dir auf ewig nah',
+Keine Klage höret.
+Wo kein Glied vom Glied sich trennt,
+Wo kein Herz erkaltet,
+Wo man Liebe völlig kennt,
+Wo nur Liebe waltet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Komm, Du heller Morgenstern,
+Bleibe nicht mehr lange!
+O wir sehn Dein Kommen gern,
+Hier wird uns oft bange.
+Doch Du lässt uns nie allein –
+Stärke dies Vertrauen –
+Bis Du selbst uns führest heim,
+Bis wir dort Dich schauen.</lines>
+    </verse>
+  </lyrics>
+</song>

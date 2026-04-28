@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Need Thee Every Hour</title>
+    </titles>
+    <authors>
+      <author type="words">Annie Sherwood Hawks</author>
+      <author type="music">Robert Lowry</author>
+      <author type="translation">Ich brauch dich allezeit</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I need Thee every hour,
+Most gracious Lord;
+No tender voice like Thine
+Can peace afford.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I need Thee, oh, I need Thee;
+Every hour I need Thee;
+Oh, bless me now, my Savior!
+I come to Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I need Thee every hour,
+Stay Thou near by;
+Temptations lose their power
+When Thou art nigh.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I need Thee every hour,
+In joy or pain;
+Come quickly and abide,
+Or life is vain.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I need Thee every hour,
+Teach me Thy will;
+And Thy rich promises
+In me fulfill.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I need Thee every hour,
+Most Holy One;
+Oh, make me Thine indeed,
+Thou blessed Son.</lines>
+    </verse>
+  </lyrics>
+</song>

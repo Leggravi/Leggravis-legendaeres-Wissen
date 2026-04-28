@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>With each borrowed breath you give</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>With each borrowed breath you give,
+Every sacred day I live,
+Lord my declaration is,
+I will worship you.
+Every hour is a gift,
+Passing like the morning mist,
+The passion of my heart is this,
+I will worship you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the best and worst of times,
+All that life may take me through,
+With each borrowed breath you give,
+Jesus I will worship you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Every dawn Lord help me see,
+The hands of time move like a thief,
+The days are long but the years are brief,
+So I will worship you.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When I breath my final breath,
+And Heavens light becomes my rest,
+I'll join the song that never ends,
+And I will worship you,
+Jesus I will worship you,
+Forever I will worship you.</lines>
+    </verse>
+  </lyrics>
+</song>

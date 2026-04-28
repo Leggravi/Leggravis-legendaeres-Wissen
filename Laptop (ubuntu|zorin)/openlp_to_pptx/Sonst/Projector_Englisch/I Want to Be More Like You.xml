@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Want to Be More Like You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I want to be more like You, Jesus,
+I want to be more like You,
+I want to be a vessel You work through,
+I want to be more like You.</lines>
+    </verse>
+  </lyrics>
+</song>

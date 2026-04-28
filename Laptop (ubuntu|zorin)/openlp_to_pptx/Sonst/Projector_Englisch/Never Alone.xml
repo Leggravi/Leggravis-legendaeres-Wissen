@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Never Alone</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fear not I am with thee
+Blessed golden ray
+Like a star of glory
+Lighting up my way
+Through the clouds of midnight
+This bright promise shone
+I will never leave thee
+Never will leave thee alone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No, never alone!
+No, never alone!
+He promised never to leave me,
+Never to leave me alone;
+No, never alone!
+No, never alone
+He promised never to leave me,
+Never to leave me alone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Roses fade around me
+Lilies bloom and die
+Earthly sunbeams vanish
+Radiant still the sky
+Jesus, Rose of Sharon
+Blooming for His own
+Jesus heaven's sunshine
+Never will leave me alone</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Steps unseen before me
+Hidden dangers near
+Nearer still my Savior
+Whispering &quot;Be of cheer&quot;
+Joys like birds of spring time
+To my heart have flown
+Singing all so sweetly
+&quot;He will not leave me alone&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

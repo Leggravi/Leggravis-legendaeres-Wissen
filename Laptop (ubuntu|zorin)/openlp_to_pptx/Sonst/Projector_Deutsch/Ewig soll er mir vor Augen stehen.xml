@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ewig soll er mir vor Augen stehen</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Knapp</author>
+      <author type="music">Herrnhut</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ewig soll Er mir vor Augen stehen,
+wie Er als ein stilles Lamm
+dort so blutig und so bleich zu sehen,
+hängend an des Kreuzes Stamm,
+wie Er dürstend rang um meine Seele,
+dass sie Ihm zu Seinem Lohn nicht fehle,
+und dann auch an mich gedacht,
+als Er rief: &quot;Es ist vollbracht!&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja, Herr Jesus, lass mich nie vergessen
+meine Schuld und Deine Huld!
+Als ich in der Finsternis gesessen,
+trugest Du mit mir Geduld,
+hattest längst nach Deinem Schaf getrachtet,
+eh' es auf des Hirten Ruf geachtet,
+und mit teurem Lösegeld
+mich erkauft von dieser Welt.</lines>
+    </verse>
+  </lyrics>
+</song>

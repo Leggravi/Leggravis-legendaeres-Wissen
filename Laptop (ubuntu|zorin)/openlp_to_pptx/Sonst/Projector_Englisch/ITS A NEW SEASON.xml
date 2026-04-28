@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>IT'S A NEW SEASON</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's a new season; it's a new day,
+Fresh anointing, coming my way
+Spirit of power and authority
+It's a new season coming to me</lines>
+    </verse>
+  </lyrics>
+</song>

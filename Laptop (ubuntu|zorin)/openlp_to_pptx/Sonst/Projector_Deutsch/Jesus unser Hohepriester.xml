@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, unser Hohepriester</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, unser Hohepriester, König und Herr!
+Deine Gemeinde kommt zu Dir.
+Du hast Dich uns hingegeben, hast uns geliebt,
+damit wir rein und heilig sind vor Dir,
+makellos und herrlich, wunderschön und stark.
+Kinder und Geliebte nennst Du uns.
+Unsere Herzen heben wir zu Deinem Herzen auf und erwarten,
+dass Du Dich uns offenbarst.</lines>
+    </verse>
+  </lyrics>
+</song>

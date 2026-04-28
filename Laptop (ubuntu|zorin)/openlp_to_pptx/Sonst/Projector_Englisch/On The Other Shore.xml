@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>On The Other Shore</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've got Father over yonder,
+I've got Father over yonder,
+I've got Father over yonder,
+On the other shore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Some bright day I'll go and see Him,
+Some bright day I'll go and see Him,
+Some bright day I'll go and see Him,
+On the other shore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Won't that be a happy meeting!
+Won't that be a happy meeting!
+Won't that be a happy meeting!
+On the other shore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>That bright day may be tomorrow,
+That bright day may be tomorrow,
+That bright day may be tomorrow,
+On the other shore.</lines>
+    </verse>
+  </lyrics>
+</song>

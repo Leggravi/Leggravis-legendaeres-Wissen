@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh My Soul</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, my soul, Oh, how you worry
+Oh, how you're weary from fearing you lost control
+This was the one thing, you didn't see coming
+And no one would blame you though
+If cried in private
+If tried to hide it away so no one knows no will see if you stop believing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, my soul You are not alone
+There's a place where fear has to face the God you know
+One more day, He will make a way
+Let him show you how, you can lay this down
+'Cause you're not alone</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Here and now You can be honest
+I won't try to promise that someday it all works out
+'Cause this is the valley
+And even now, He is breathing on your dry bones
+And there will dancing
+There will be beauty where beauty was ash and stone
+This much I know</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, my soul, You are not alone
+There's a place where fear has to face the God you know
+One more day, He will make a way
+Let him show you how, you can lay this down</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I'm not strong enough, I can't take anymore
+(You can lay it down, you can lay down)
+And my shipwrecked faith will never get me to shore
+(You can lay it down, you can lay it down)
+Can He find me here
+Can He keep mo from going under</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh, my soul, You are not alone
+There's a place where fear has to face the God you know
+One more day, He will make a way
+Let him show you how you can lay this down
+'Cause you're not alone
+Oh, my soul you're not alone</lines>
+    </verse>
+  </lyrics>
+</song>

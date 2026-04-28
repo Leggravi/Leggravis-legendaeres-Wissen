@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Home Is Sweeter</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Home is sweeter than the Lord,
+None Is sweeter,
+Home Is sweeter than the Lord,
+None Is sweeter.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise the Lord! Is our Redeemer,
+Praise the Lord! Is our Saviour,
+Praise the Lord! Is our Redeemer,
+Jesus Is our Saviour.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Home Is mightier than the Lord,
+None Is mightier.
+Home Is mightier than the Lord,
+None Is mightier.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Home Is better than the Lord,
+None Is better,
+Home Is better than the Lord,
+None Is better.</lines>
+    </verse>
+  </lyrics>
+</song>

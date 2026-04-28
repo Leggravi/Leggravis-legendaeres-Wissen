@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sende dein Licht und deine Wahrheit</title>
+    </titles>
+    <authors>
+      <author type="words">Dietmar Fischenich</author>
+      <author type="music">Dietmar Fischenich</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sende dein Licht und deine Wahrheit
+daß sie mich leiten zu deiner Klarheit
+und ich dir danke, dass du mir hilfst.</lines>
+    </verse>
+  </lyrics>
+</song>

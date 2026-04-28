@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>No Other Way</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Now the heart keeps on beating
+With each breath that you take
+Till the time appointed, only
+God knows
+Think of that last heartbeat
+And the last breath you take
+You’ll stand before your Maker
+And you will stand alone.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh repent today,
+and choose the right way,
+While the Master is calling and
+you hear Him say
+Come unto me He’ll turn your night to day,
+If you reject His Word
+There is no other way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When a child of the King is being led
+In the way of temptations in this world
+Of the evil that surrounds,
+Then I’m so thankful for
+God’s Spirit within
+That keeps me from wand’ring
+And draws me unto Him.</lines>
+    </verse>
+  </lyrics>
+</song>

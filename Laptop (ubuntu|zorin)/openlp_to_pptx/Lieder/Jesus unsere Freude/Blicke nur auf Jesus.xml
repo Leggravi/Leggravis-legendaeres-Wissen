@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:11">
+  <properties>
+    <titles>
+      <title>Blicke nur auf Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Theodor Kübler (1880)</author>
+      <author type="music">Philip Paul Bliss</author>
+    </authors>
+    <ccliNo>5578986</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blicke nur auf Jesum, Seele, eil ihm zu!
+Der für dich gelitten, gibt dir Fried und Ruh.
+Er trug deine Schmerzen, alle deine Schuld.
+Blicke nur auf Jesus, traue seiner Huld!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Blicke nur auf Jesus mitten in dem Streit!
+Wird der Kampf auch heißer, Hilfe ist bereit.
+Ist der Feind gleich mächtig, deine Kraft nur klein,
+blicke nur auf Jesus, sein Sieg ist auch dein!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Blicke nur auf Jesus, wenn der Himmel hell!
+Oft, wenn alles ruhig, kommt Versuchung schnell.
+Erdenfreuden schwinden wie des Tages Licht.
+Blicke nur auf Jesus, er entweichet nicht!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Blicke nur auf Jesus bei der Arbeit Last!
+Denn zu seinen Füßen findst du süße Rast.
+Horch, er ruft so gnädig: "Alles ist bereit!"
+Blicke nur auf Jesus, folg ihm allezeit!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Einst wird's herrlich klingen dort im Himmelssaal;
+dann wirst du mitsingen bei dem Hochzeitsmahl.
+Doch bei allem Glanze, der dort ist bereit,
+blicke nur auf Jesus, bis in Ewigkeit!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>So Groß ist mein Gott</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>So Groß ist mein Gott
+kein andere wie er
+Sein Name so hoch
+nur er ist der Herr</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er teilte die Fluten
+vom Roten Meer
+hat auch heute noch die selbe Kraft
+nichts ist Ihm zu schwer</lines>
+    </verse>
+  </lyrics>
+</song>

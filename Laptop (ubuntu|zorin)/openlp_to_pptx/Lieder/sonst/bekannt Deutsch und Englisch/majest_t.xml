@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Mar 31, 2020, 6:29:59 PM">
+  <properties>
+    <titles>
+      <title>Majestät</title>
+    </titles>
+    <verseOrder>V1 V2 C3 V4 C3 V5 C6 V5 C6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Hier bin ich, klein vor deiner Herrlichkeit,
+Deine Gnade hat mich befreit!
+Hier bin ich, kenne meine Sünde gut,
+Doch du machst mich rein durch dein Blut.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Ich fand ja
+Die allergrößte Liebe da,
+Wo du dein Leben gabst,
+Das größte Opfer warst.</lines>
+    </verse>
+    <verse name="C3">
+      <lines>Majestät! Majestät!
+Ich bin wie deine Gnade mich fand:
+Leer, und dennoch leb ich in deiner Hand.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Hier bin ich, demütig weil du mich liebst,
+Vergeben kann ich, weil du vergibst!
+Hier bin ich, ich weiß nur dich verlangt nach mir,
+Geheiligt durch das Feuer in dir.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Ich fand ja
+Die allergrößte Liebe da,
+Wo du dein Leben gabst,
+Das größte Opfer warst.</lines>
+    </verse>
+    <verse name="C6">
+      <lines>Majestät! Majestät!
+Ich bin wie deine Gnade mich fand:
+Leer, und dennoch leb ich in deiner Hand!
+Majestät! Majestät!
+Verändert bin ich für alle Zeit
+In der Nähe deiner Herrlichkeit
+Majestät</lines>
+    </verse>
+  </lyrics>
+</song>

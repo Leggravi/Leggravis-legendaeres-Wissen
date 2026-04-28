@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Lighthouse</title>
+    </titles>
+    <authors>
+      <author type="words">Ronnie Hinson</author>
+      <author type="music">Ronnie Hinson</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Like a light house let us be
+A beacon to the city
+To share the news of Jesus
+Let it spread throughout this land.
+May our arms be open wide
+To all who come inside
+This place of love and mercy for the lost.
+May all who enter see
+The Holy Spirit meet their need
+as the power of revival falls.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This is the time, this is the place
+Where the power of God is moving
+To heal the sick, to save the lost
+To bring us to His holy place.
+This is the day the prophets told
+Of a people He'll be using
+To become a light house</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We gather giving praise
+And worship in His name
+Then soon the Presence of the Lord is here
+We stand in awe to see
+The power of Almighty
+Reaching into hearts to make them free
+The blessings that have come
+Are changing everyone
+We see the glory of revival fall.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We have prayed and waited
+He has heard our cry
+Dying to our ways
+And we will follow Him at any cost</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We're to be a lighthouse
+Let us be Your lighthouse</lines>
+    </verse>
+  </lyrics>
+</song>

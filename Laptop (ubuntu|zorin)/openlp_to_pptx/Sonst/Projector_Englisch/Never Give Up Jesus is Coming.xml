@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Never Give Up, Jesus is Coming</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There are days I know when you get so discouraged,
+It seems that all hope is gone.
+But there's only One who can give you courage
+And strength to carry on.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Never give up, Jesus is coming.
+It's the darkest just before dawn.
+Never give up, Jesus is coming.
+Never give up, keep holding on!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This old world I know can't last much longer,
+And sin will soon pass away.
+But my faith in God simply keeps growing stronger,
+For Jesus is coming some day!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Never give up, Jesus is coming.
+It's the darkest just before dawn.
+Never give up, Jesus is coming.
+Never give up, keep holding on!
+Never give up, Jesus is coming.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>It's the darkest just before dawn.
+Never give up, Jesus is coming.
+Never give up, keep holding on!
+Never give up, keep holding on!
+Keep holding on</lines>
+    </verse>
+  </lyrics>
+</song>

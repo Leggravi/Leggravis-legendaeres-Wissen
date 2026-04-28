@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Promise</title>
+    </titles>
+    <authors>
+      <author type="words">Godfrey Birtill</author>
+      <author type="music">Godfrey Birtill</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord you know my heart and all my desires
+And the secret things I'd never tell
+Lord you know them well
+Though I may be young I see and understand
+That at times like sheep we go astray
+And things get out of hand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So I promise to be true to you
+To live my life in purity as unto you
+Waiting for the day when I hear you say
+&quot;Here is the one I have created just for you&quot;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Until then oh lord, I will be content
+Knowing that true love will come some day
+It'll only come from you
+'Coz I have seen the suffering
+That loneliness can cause
+When we choose to give our love away
+Without a righteous cause</lines>
+    </verse>
+  </lyrics>
+</song>

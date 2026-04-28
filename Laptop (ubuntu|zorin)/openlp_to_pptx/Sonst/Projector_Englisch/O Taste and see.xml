@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Taste and see</title>
+    </titles>
+    <authors>
+      <author type="words">Brian Johnson</author>
+      <author type="music">Brian Johnson</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Taste and see that the Lord is good
+O Taste and see that the Lord is good
+O Taste and see that the Lord is good to me
+You have turned my mourning into dancing
+Put off my rags and clothed me with gladness
+And I will arise and I will praise you
+I'll sing and not be silent</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Lord my God I will give thanks to you forever
+O Lord my God I will give thanks to you forever</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will live only for you
+I will lift these hands up to you
+I will dance before you
+I will shout it I will shout it to you</lines>
+    </verse>
+  </lyrics>
+</song>

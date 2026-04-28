@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Got to Praise Him</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I think of where He brought me from,
+And where I could have been,
+My soul cries hallelujah,
+Thank You, Jesus, for saving me from sin.
+You see, He picked me up and He turned me around,
+He set my feet on higher ground!
+That’s why I’ve got to praise Him,
+I just can’t hold my peace!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I got to praise Him,
+I got to praise Him,
+For what He’s done for me!
+He loosed my shackles and set me free,
+I got to praise His name!
+I got to praise Him,
+I got to praise Him,
+For what He’s done for me!
+I can’t sit still, I’ve got to praise His name!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sometimes my body’s weary,
+Sometimes my way gets rough,
+But when I think of all He’s done for me,
+I can’t praise Him enough!
+When I think about His mercy,
+And all He’s done for me,
+My hands go up, my feet move ‘round,
+I’ve got the victory!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He’s been too good,
+He’s been too kind,
+When I think it over,
+He’s brought me out every time!
+So I’m gonna lift my voice,
+And shout His name!
+Jesus!
+Oh, I got to praise His name!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I can’t sit still,
+I’ve got to praise His name!
+Glory! Hallelujah!
+I’ve got to praise His name!</lines>
+    </verse>
+  </lyrics>
+</song>

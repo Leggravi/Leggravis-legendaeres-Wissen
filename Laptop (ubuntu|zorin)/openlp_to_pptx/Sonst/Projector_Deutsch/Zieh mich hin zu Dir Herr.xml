@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Zieh mich hin zu Dir, Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Gitta Leuschner</author>
+      <author type="music">Helen Bousfield</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zieh mich hin zu Dir, Herr,
+lass uns zusammen laufen.
+Zieh mich hin zu Dir, o Herr,
+und halt mich fest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Komm und führe mich, Herr,
+in Deine Königskammer,
+in die Verborgenheit,
+wo Deine Liebe mich umfängt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich will mich freu´n in Dir,
+ich will mich freu´n in Dir,
+ich will mich freu´n in Dir,
+und fröhlich sein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Es ist recht, Dich zu lieben, Herr,
+Es ist recht, Dich zu lieben, Herr,
+Es ist recht, Dich zu lieben, Herr,
+Du mein König und mein Gott.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Herzlich lieb hab ich Dich, o Herr,
+Herzlich lieb hab ich Dich, o Herr,
+Herzlich lieb hab ich Dich, o Herr,
+Du mein König und mein Gott!</lines>
+    </verse>
+  </lyrics>
+</song>

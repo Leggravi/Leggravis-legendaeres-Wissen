@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Somewhere Beyond the Blue – v2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Somewhere beyond the blue
+There’s a mansion for me
+Somewhere beyond the blue
+I am longing to see
+I see my Savior’s face
+And sing His saving grace
+Somewhere beyond the blue
+Someday.</lines>
+    </verse>
+  </lyrics>
+</song>

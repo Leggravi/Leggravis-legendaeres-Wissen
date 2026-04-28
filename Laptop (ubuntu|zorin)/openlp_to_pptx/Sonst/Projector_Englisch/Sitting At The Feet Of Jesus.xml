@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sitting At The Feet Of Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sitting at the feet of Jesus,
+O what words I hear him say!
+Happy place! so near, so precious!
+May it find me there each day;
+Sitting at the feet of Jesus,
+I would look upon the past;
+For His love has been so gracious,
+It has won my heart at last.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sitting at the feet of Jesus,
+Where can mortal be more blest?
+There I lay my sins and sorrows,
+And, when weary, find sweet rest;
+Sitting at the feet of Jesus,
+There I love to weep and pray,
+While I from his fullness gather
+Grace and comfort every day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bless me, oh my Savior, bless me,
+As I sit low at Thy feet;
+Oh look down in love upon me,
+Let me see Thy face so sweet,
+Give me, Lord, the mind of Jesus,
+Make me holy as He is;
+May I prove I've been with Jesus,
+Who is all my righteousness.</lines>
+    </verse>
+  </lyrics>
+</song>

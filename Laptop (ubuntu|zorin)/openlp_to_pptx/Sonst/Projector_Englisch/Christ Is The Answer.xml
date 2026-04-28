@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Christ Is The Answer</title>
+    </titles>
+    <authors>
+      <author type="words">T. William Maltby</author>
+      <author type="music">T. William Maltby</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christ is the answer
+ to all my longing,
+Christ is the answer
+ to all my need,
+Saviour, Baptizer,
+ the Great Physician,
+Oh, Hallelujah, He's all I need.</lines>
+    </verse>
+  </lyrics>
+</song>

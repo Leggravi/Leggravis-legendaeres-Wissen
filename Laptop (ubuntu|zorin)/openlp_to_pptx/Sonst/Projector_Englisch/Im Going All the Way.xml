@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm Going All the Way</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Satan is busy trying to block my path
+But I'm going all the way
+He's throwing rocks and hiding his hands
+But I'm going all the way
+You may stone me and turn your back on me
+But I'm going all the way
+Because God's got His arms wrapped all around me
+I'm going all the way</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All the way, I'm going all the way
+No matter what tomorrow brings
+All the way, I'm going all the way
+So don't even try to turn me around
+Oh yes, I'm going all the way
+I've got to go all the way</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God never said my way would be easy
+Or that the sun would always shine
+But He said no matter what I go through
+He will be with me all the time
+Because if God be for us
+Tell me who can be against us
+Greater is He that is in us than He that is in the world</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In The Presence Of A Holy God</title>
+    </titles>
+    <authors>
+      <author type="words">Mark Altrogge</author>
+      <author type="music">Mark Altrogge</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>And I cry holy, holy, holy God
+How awesome is Your Name
+Holy, holy, holy God
+How majestic is Your Name
+And I am changed
+In the presence of a holy God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the presence of a holy God
+There’s new meaning now to grace
+You took all my sins upon Yourself
+I can only stand amazed</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the presence of Your infinite might
+I'm so small and frail and weak
+When I see Your power
+and wisdom, Lord
+I have no words left to speak</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In the power of Your glory
+All my crowns lie in the dust
+You are righteous
+in Your judgments, Lord
+You are faithful true and just</lines>
+    </verse>
+  </lyrics>
+</song>

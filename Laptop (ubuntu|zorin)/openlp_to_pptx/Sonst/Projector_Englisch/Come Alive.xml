@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come Alive</title>
+    </titles>
+    <authors>
+      <author type="words">Michael Fatkin</author>
+      <author type="music">Michael Fatkin</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v6 v3 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Through the eyes of men, it seems there's so much we have lost
+As we look down the road where all the prodigals have walked
+One by one, the enemy has whispered lies
+And led them off as slaves</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But we know that You are God, Yours is the victory
+We know there is more to come
+That we may not yet see
+So with the faith You've given us
+We'll step into the valley unafraid, yeah</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As we call out to dry bones, come alive, come alive
+We call out to dead hearts, come alive, come alive
+Up out of the ashes, let us see an army rise
+We call out to dry bones, come alive</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God of endless mercy, god of unrelenting love
+Rescue every daughter, bring us back the wayward son
+And by Your spirit, breathe upon them, show the world that You alone can save
+You alone can save</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So breathe, oh, breath of God
+Now breathe, oh, breath of God
+Breathe, oh, breath of God, now breathe</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Breathe, oh, breath of God
+Now breathe, oh, breath of God
+Breathe, oh, breath of God, now breathe</lines>
+    </verse>
+    <verse name="v7">
+      <lines>We call out to dry bones, come alive
+Oh, come alive</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All I Want Is Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have plunged into the depths of Your love, Lord
+I have tasted of the sweetness of Your wine
+I have felt Your arms around me in my darkest hour
+Telling me that You were with me all the time</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have climbed into Your presence on the mountain
+I have basked within the radiance of Your smile
+I have feasted at Your table as You held me there
+Your reflection on my face ‘cause I'm Your child</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All I want is Jesus
+Nothing satisfies me like You do
+Abba, my Father
+Draw me to the very heart of You
+That my heart might beat with the rhythm of Yours
+And Your chains of love set me free evermore
+I cry Abba, Father
+Draw me to the very heart of You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There’s a place next to Your heart in the Holies
+That’s the place where, Lord, I want to stay
+There are times when in my searching I have found Your there
+But all too quickly then those moments slip away</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There’s a day when what I now see only darkly
+I’ll see plainly as the bright and morning Sun
+As my hand slips through to part the veil You rent for me
+Your glory fills my soul and bids me come</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I cry Abba, Father
+Draw me to the very heart of You
+Draw me to the very heart of You
+Draw me to the very heart of You</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Love Living in Love with Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a love song rising up inside of me,
+These feelings in my heart must be released,
+I feel so alive, I just can't help but sing,
+About the One who makes my heart beat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love living in love with Jesus,
+I love knowing that He loves me,
+He makes the sun shine in my heart,
+When the way is dim,
+Oh! How I love living in love with Him.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His presence is a treasure this world can't afford,
+Each day with Him is sweeter than before,
+He satisfied me yet He makes me long for more,
+Even in the sunshine and the storm.</lines>
+    </verse>
+  </lyrics>
+</song>

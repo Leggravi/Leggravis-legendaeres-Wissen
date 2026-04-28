@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Deeper, Deeper</title>
+    </titles>
+    <authors>
+      <author type="words">Stuart Garrard</author>
+      <author type="music">Stuart Garrard</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deeper, deeper,
+In the love of Jesus
+Daily let me go;
+Higher, higher,
+In the school of wisdom,
+More of grace to know.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deeper yet, I pray,
+And higher every day,
+And wiser, blessed Lord,
+In Thy precious, holy Word.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Deeper, deeper!
+Blessed Holy Spirit,
+Take me deeper still,
+Till my life is
+Wholly lost in Jesus,
+And His perfect will.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Deeper, deeper!
+Though it cost hard trials,
+Deeper let me go!
+Rooted in the
+Holy love of Jesus,
+Let me fruitful grow.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Deeper, higher,
+Every day in Jesus,
+Till all conflict past,
+Finds me conqueror,
+And in His own image
+Perfected at last.</lines>
+    </verse>
+  </lyrics>
+</song>

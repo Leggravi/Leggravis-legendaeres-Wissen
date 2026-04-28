@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Does Anybody Hear Her</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>She is running
+A hundred miles an hour
+In the wrong direction
+She is trying
+But the canyon's ever-widening
+In the depths of her cold heart
+So she sets out on another misadventure just to find
+She's another two years older and she's three more steps behind</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Does anybody hear her?
+Can anybody see?
+Or does anybody even know she's going down today?
+Under the shadow of our steeple
+With all the lost and lonely people
+Searching for the hope that's tucked away in you and me
+Does anybody hear her?
+Can anybody see?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>She is yearning
+For shelter and affection
+That she never found at home
+She is searching
+For a hero to ride in
+To ride in and save the day
+And then walks in her prince charming
+And he knows just what to say
+Momentary lapse of reason
+And she gives herself away</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If judgment looms under every steeple
+With lofty glances from lofty people
+Who can't see past her scarlet letter
+And we've never even met her</lines>
+    </verse>
+    <verse name="v5">
+      <lines>If judgment looms under every steeple
+If lofty glances from lofty people
+Can't see past her scarlet letter
+And we've never even met her
+Never even met her</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Does anybody hear her?
+Does anybody see?
+Or does anybody even know she's going down today?
+Under the shadow of our steeple
+With all the lost and lonely people
+Searching for the hope that's tucked away in you and me
+Does anybody hear her?
+Does anybody see?
+Does anybody even know she's going down today?
+Under the shadow of our steeple
+With all the lost and lonely people
+Searching for the hope that's tucked away in you and me
+Does anybody hear her?
+Does anybody see?</lines>
+    </verse>
+    <verse name="v7">
+      <lines>He is running a hundred miles an hour in the wrong direction</lines>
+    </verse>
+  </lyrics>
+</song>

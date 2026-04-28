@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hills and Valleys</title>
+    </titles>
+    <authors>
+      <author type="words">Chuck Butler</author>
+      <author type="music">Chuck Butler</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v12 v13 v9 v10 v14 v15</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've walked among the shadows
+You wiped my tears away
+And I've felt the pain of heartbreak
+And I've seen the brighter days</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I've prayed prayers to Heaven
+From my lowest place
+And I have held Your blessings
+God, You give and take away</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No matter what I have, Your grace is enough
+No matter where I am, I'm standing in Your love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>On the mountains, I will bow my life
+To the One who set me there
+In the valley, I will lift my eyes
+To the One who sees me there</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When I'm standing on the mountain
+I didn't get there on my own
+When I'm walking through the valley
+I know I am not alone!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You're God of the hi-hi-hills and valleys
+Hi-hi-hills and valleys
+God of the hi-hi-hills and valleys
+And I am not alone</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I've watched my dreams get broken
+In You, I hope again
+No matter what I know
+I'm safe inside Your hands</lines>
+    </verse>
+    <verse name="v8">
+      <lines>On the mountains, I will bow my life
+To the One who set me there (to the One who set me there)
+In the valley, I will lift my eyes
+To the One who sees me there</lines>
+    </verse>
+    <verse name="v9">
+      <lines>When I'm standing on the mountain
+I didn't get there on my own
+When I'm walking through the valley
+I know I am not alone</lines>
+    </verse>
+    <verse name="v10">
+      <lines>You're God of the hi-hi-hills and valleys
+Hi-hi-hills and valleys
+God of the hills and valleys
+And I am not alone</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Father, You give and take away
+Every joy and every pain
+Through it all, You will remain
+Over it all</lines>
+    </verse>
+    <verse name="v12">
+      <lines>On the mountains, I will bow my life, yeah
+In the valley, I will lift my eyes, yeah!</lines>
+    </verse>
+    <verse name="v13">
+      <lines>You're God of the hi-hi-hills and valleys (yeah)
+Hi-hi-hills and valleys
+God of the hi-hi-hills and valleys (You're the God of the hills)
+And I am not alone</lines>
+    </verse>
+    <verse name="v14">
+      <lines>You're God of the hi-hi-hills and valleys (yeah!)
+Hi-hi-hills and valleys
+God of the hi-hi-hills and valleys (You're the God of the hills)
+And I am not alone (God of the valleys)</lines>
+    </verse>
+    <verse name="v15">
+      <lines>And I will choose to say
+Blessed be Your Name
+And I am not alone</lines>
+    </verse>
+  </lyrics>
+</song>

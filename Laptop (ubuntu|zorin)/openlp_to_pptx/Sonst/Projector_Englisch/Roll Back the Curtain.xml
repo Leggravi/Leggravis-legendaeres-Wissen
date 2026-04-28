@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Roll Back the Curtain</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The things that I love and hold dear to my heart,
+They are just borrowed, They are not mine at all,
+Jesus only let me use them
+To brighten my life,
+So remind me, remind me, dear Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Roll back the curtain of memory now again,
+Show me where you brought me from
+And where I could have been,
+Remember I'm a human and humans forget,
+So remind me, remind me, dear Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nothing good have I done
+To deserve God's own Son,
+I'm not worthy of the scars In His hands,
+Yet he chose the road to Calvary,
+To die in my stead why He loved me,
+I cannot understand.</lines>
+    </verse>
+  </lyrics>
+</song>

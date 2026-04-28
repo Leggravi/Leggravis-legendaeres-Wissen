@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Zehntausend gründe</title>
+    </titles>
+    <authors>
+      <author type="words">David Hanheiser</author>
+      <author type="music">Jonas Myrin</author>
+      <author type="translation">10000 Reasons (Ten Thousand Reasons - Bless The Lord)</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Komm und lobe den Herrn, meine Seele sing
+bete den König an
+Sing wie niemals zuvor, nur für Ihn
+Und bete den König an</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ein neuer Tag und ein neuer Morgen
+und wieder bring ich dir mein Lob
+Was auch vor mir liegt und was immer auch geschehen mag
+lass mich noch singen, wenn der Abend kommt</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du liebst so sehr und vergibst geduldig
+schenkst Gnade, Trost und Barmherzigkeit
+Von deiner Güte will ich immer singen
+zehntausend Gründe gibst du mir dafür</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und wenn am Ende die Kräfte schwinden
+wenn meine Zeit dann gekommen ist
+wird meine Seele dich weiter preisen
+zehntausend Jahre und in Ewigkeit</lines>
+    </verse>
+  </lyrics>
+</song>

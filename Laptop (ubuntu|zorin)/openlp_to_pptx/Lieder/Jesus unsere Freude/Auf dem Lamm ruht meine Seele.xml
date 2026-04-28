@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:14">
+  <properties>
+    <titles>
+      <title>Auf dem Lamm ruht meine Seele</title>
+    </titles>
+    <authors>
+      <author type="words">Julius Anton von Poseck (1856)</author>
+      <author type="music">Wilhelm Brockhaus</author>
+    </authors>
+    <ccliNo>5207941</ccliNo>
+    <themes>
+      <theme>Abendmahl</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Auf dem Lamm ruht meine Seele,
+betet voll Bewundrung an.
+Alle, alle meine Sünden
+hat sein Blut hinweggetan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Selger Ruhort! Süßer Friede
+füllet meine Seele jetzt.
+Da, wo Gott mit Wonne ruhet,
+bin auch ich in Ruh gesetzt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ruhe fand hier mein Gewissen,
+denn sein Blut, o reicher Quell,
+hat von allen meinen Sünden
+mich gewaschen rein und hell.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und mit süßer Ruh im Herzen
+geh ich hier durch Kampf und Leid,
+ewge Ruhe find ich droben
+in des Lammes Herrlichkeit.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dort wird ihn mein Auge sehen,
+dessen Lieb mich hier erquickt.
+Dessen Treue mich geleitet,
+dessen Gnad mich reich beglückt.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dort besingt des Lammes Liebe
+seine teur erkaufte Schar,
+bringt in Zions selger Ruhe
+ihm ein ewges Loblied dar.</lines>
+    </verse>
+  </lyrics>
+</song>

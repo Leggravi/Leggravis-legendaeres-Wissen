@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Because of Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Andraé Crouch</author>
+      <author type="music">Andraé Crouch</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You made a covenant with me,
+Signed by the blood that still speaks,
+Now I'm forgiven, I'm called righteous,
+I'm made clean.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There on the cross at Calvary,
+You gave it all to purchase me,
+You are the Savior and the God,
+Who set me free.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now my heart cries &quot;This is my Redeemer&quot;
+With my whole life I will give You praise,
+All the glory to the One Who's worthy,
+Because of Jesus, I have been changed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You made a way for me to enter
+Into Your holy place forever,
+And now I am hidden,
+I am covered, I found peace.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Into your likeness You transform me,
+Making me holy, like You're holy,
+No longer I who live, but Christ Who lives in me.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You bring freedom to the captives,
+Good news to the poor,
+Healing to the broken,
+And joy to those who mourn,
+You turn ashes into beauty,
+The ruins You restore,
+I am a testimony,
+Of the goodness of the Lord. (x2)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Now my heart cries &quot;This is my Redeemer&quot;
+With my whole life I will give You praise,
+All the glory to the One Who's worthy,
+Because of Jesus, I have been changed,
+Because of Jesus, I have been changed.</lines>
+    </verse>
+  </lyrics>
+</song>

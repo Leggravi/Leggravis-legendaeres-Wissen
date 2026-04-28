@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Peace in Trusting</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God only knows how I've cried
+Heartbroken and my hands are tied
+But He's been faithful time and time again
+And although I don't know how it ends</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's peace in trusting the Lord
+Peace when my faith and fear are at war,
+So I don't have to worry, He knows what's in store
+And there's peace in trusting the Lord
+There is peace in trusting the Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If His will should not go my way
+If the answer is not what I've prayed
+Then I'll trust Him for what I can't see
+'Cause I know He knows what's best for me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There's peace in trusting the Lord,
+Peace when my faith and fear are at war,
+So I don't have to worry, He knows what's in store,
+And there's peace in trusting the Lord,
+There is peace, peace, peace in trusting the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

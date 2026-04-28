@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="May 31, 2020, 10:22:17 AM">
+  <properties>
+    <titles>
+      <title>Beautiful Savior</title>
+    </titles>
+    <verseOrder>V1 V2 V3 C4 V1 V3 C4 V5 C4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Jesus, beautiful Saviour
+God of all majesty, risen King</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Lamb of God, holy and righteous
+Blessed Redeemer, bright morning star</lines>
+    </verse>
+    <verse name="V3">
+      <lines>All the heavens shout Your praise
+All creation bows to worship You</lines>
+    </verse>
+    <verse name="C4">
+      <lines>How wonderful, how beautiful
+Name above every name, exalted high
+How wonderful, how beautiful
+Jesus, Your name
+Name above every name, Jesus</lines>
+    </verse>
+    <verse name="V5">
+      <lines>I will sing forever
+Jesus I love You
+Jesus I love You</lines>
+    </verse>
+  </lyrics>
+</song>

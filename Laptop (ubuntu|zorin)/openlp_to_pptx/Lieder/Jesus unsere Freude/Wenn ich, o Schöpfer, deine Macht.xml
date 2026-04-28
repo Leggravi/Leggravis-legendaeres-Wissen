@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:53">
+  <properties>
+    <titles>
+      <title>Wenn ich, o Schöpfer, deine Macht</title>
+    </titles>
+    <authors>
+      <author type="words">Christian Fürchtegott Gellert (1757)</author>
+      <author type="music">Bis hierher hat mich Gott gebracht</author>
+    </authors>
+    <ccliNo>4898430</ccliNo>
+    <themes>
+      <theme>Schöpfung</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wenn ich, o Schöpfer, deine Macht,
+die Weisheit deiner Wege,
+die Liebe, die für alle wacht,
+anbetend überlege,
+so weiß ich, von Bewundrung voll,
+nicht, wie ich dich erheben soll,
+mein Gott, mein Herr und Vater.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mein Auge sieht, wohin es blickt,
+die Wunder deiner Werke;
+der Himmel, prächtig ausgeschmückt,
+preist dich, du Gott der Stärke.
+Wer hat die Sonn an ihm erhöht?
+Wer kleidet sie mit Majestät?
+Wer ruft dem Heer der Sterne?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wer misst dem Winde seinen Lauf?
+Wer heißt die Himmel regnen?
+Wer schließt den Schoß der Erde auf,
+mit Vorrat uns zu segnen?
+O Gott der Macht und Herrlichkeit,
+Gott, deine Güte reicht so weit,
+so weit die Wolken reichen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dich predigt Sonnenschein und Sturm
+dich preist der Sand am Meere.
+Bringt, ruft auch der geringste Wurm,
+bringt meinem Schöpfer Ehre!
+Mich, ruft der Baum in seiner Pracht,
+mich, ruft die Saat, hat Gott gemacht;
+bringt unserm Schöpfer Ehre!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Der Mensch, ein Leib, den deine Hand
+so wunderbar bereitet,
+der Mensch, ein Geist, den sein Verstand
+dich zu erkennen leitet:
+der Mensch, der Schöpfung Ruhm und Preis,
+ist sich ein täglicher Beweis
+von deiner Güt und Größe.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Erheb ihn ewig, o mein Geist,
+erhebe seinen Namen;
+Gott unser Vater sei gepreist,
+und alle Welt sag Amen,
+und alle Welt fürcht ihren Herrn
+und hoff auf ihn und dien ihm gern.
+Wer wollte Gott nicht dienen?</lines>
+    </verse>
+  </lyrics>
+</song>

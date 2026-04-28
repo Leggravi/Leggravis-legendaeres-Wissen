@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lead Me to the Cross – V2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v5 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Savior I come
+Quiet my soul, remember
+Redemption's hill
+Where Your blood was spilled
+For my ransom
+Everything I once held dear
+I count it all as lost</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lead me to the cross
+Where Your love poured out
+Bring me to my knees
+Lord I lay me down
+Rid me of myself
+I belong to You
+Oh, lead me, lead me to the cross</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You were as I
+Tempted and trialed
+Human
+The word became flesh
+Bore my sin and death
+Now you're risen</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Everything I once held dear
+I count it all as lost</lines>
+    </verse>
+    <verse name="v5">
+      <lines>To Your heart
+To Your heart
+Lead me to Your heart
+Lead me to Your heart</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Lead me to the cross
+Where Your love poured out
+Bring me to my knees
+Lord I lay me down
+Rid me of myself
+I belong to You
+Oh, lead me, lead me</lines>
+    </verse>
+  </lyrics>
+</song>

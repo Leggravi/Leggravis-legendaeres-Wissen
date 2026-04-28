@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Choose Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have searched to find the meaning of this life,
+Something that would fill my empty soul,
+Some believe a lie, choose darkness over light,
+But I will stand and let the whole world know.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I choose Jesus, I choose Jesus,
+The One who first chose me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I stand unashamed, trusting in one Name,
+'Cause I have seen the cross and I believe, oh,
+This choice comes at a cost, all other things are lost,
+No other love could mean so much to me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I choose Jesus, I choose Jesus,
+The One who first chose me,
+I choose Jesus, I choose Jesus,
+For now and eternity.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He chose to love me when I felt unlovable
+He chose to reach me when I felt unreachable
+He carried me out of my fear and doubt
+How I want the world to know I choose Jesus</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I choose Jesus, I choose Jesus, the One who first chose me
+I don't want anyone but You, my Jesus
+I choose Jesus, I choose Jesus
+For now and eternity, for now and eternity.</lines>
+    </verse>
+  </lyrics>
+</song>

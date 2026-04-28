@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Aug 7, 2018, 7:19:01 PM">
+  <properties>
+    <titles>
+      <title>Heilig, heilig, heilig ist der Herr</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Heilig, heilig, heilig ist der Herr.
+Heilig, heilig, heilig ist der Herr.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Verzehrendes Feuer, ewige Glut,
+Vollkommen gerecht und vollkommen gut;</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Gewaltige Wasser, endloses Meer,
+unfassbar groß bist du, Herr.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Voll Ehrfurcht stehen wir vor dir,
+aus Gnade dürfen wir uns nah'n,
+Voll Ehrfurcht steh'n wir hier und beten an.</lines>
+    </verse>
+  </lyrics>
+</song>

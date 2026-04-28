@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Bless the Wayward Path</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I saw the storm clouds gatherin', on the horizon line,
+Walked a thousand miles or more, in search of something Divine,
+Halfway down that twisted road, through the tears and rain,
+I felt Your hand upon my heart, easing all the pain.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Every winding detour, every wrong turn led me here,
+Through the valleys deep and wide, You were always near,
+You blessed this wayward path I trod, heard my silent prayers,
+Turned the darkness into light, with Your love and care.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bless the wayward path I’ve roamed, winding through the night,
+Lead me to Your open arms, where everything’s made right,
+Every step and stumble, every tear I’ve cried,
+You blessed the wayward path, stayed always by my side.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When the nights were cold and long, I felt Your gentle grace,
+In the silence of my heart, You found a secret place,
+Showed me love I've never known, stronger than my fears,
+In the stillness of the dawn, I knew that You were here.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Through the trials and tribulations, through the highs and lows,
+In Your everlasting love, my heart forever knows,
+That every twist and turn, is leading me back home,
+On this wayward path You blessed, I know I’m not alone.</lines>
+    </verse>
+  </lyrics>
+</song>

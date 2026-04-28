@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When Am Gone</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When It Comes My Time to leave here
+And I have said my last goodbye
+When the Angles come to take me home up there
+When the call comes down from glory
+Saying Child your race is run
+Then I close my eyes and wake up over there</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thinking now of days gone by me and of times I have been tried
+Have I done my best to do the thing that's right
+People judge you by your actions and not by your words alone
+What I've done for Christ Is All that's going to Last</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When am gone (X2)
+Will anybody know I've been Here when am gone
+Will they remember some things I've done
+Will they remember I befriended none
+But Most of all, will they remember I lived for Jesus Christ God's Son</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When am gone(X2)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Will anybody know I've been here when am gone (X2)</lines>
+    </verse>
+  </lyrics>
+</song>

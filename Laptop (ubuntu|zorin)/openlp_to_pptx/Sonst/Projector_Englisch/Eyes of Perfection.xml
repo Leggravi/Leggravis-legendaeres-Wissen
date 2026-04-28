@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Eyes of Perfection</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How many times have I often felt
+Is God with me or am I fooling myself
+Sometimes I think all I can see
+Is little of Him and too much of me
+I said I want Him to have full control
+Then let my passion hinder my goal
+The war is raging all of the time
+I've got to quit looking through
+These eyes of mine</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And look through the eyes of perfection
+They see no fault at all
+Just a finished work,
+Not the many times I fall
+His eyes are the eyes of love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And when I see every flaw in my life
+Oh, how I stand condemned
+But He looks at me so differently
+He sees me perfect
+Through His eyes of love for me</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Just Get On Boat</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’ve travelled many,
+many miles in this world here
+below Well I’ve seen the beauty
+and splendour that different
+times bring home
+Oh but I won’t be satisfied living
+here below My home is in heaven
+and I’m longing to go.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Just get on boat
+We are sailing home
+Just get on boat
+You know it won’t be long
+Till we’ll be crossing old
+Jordan’s tide
+Just get on boat
+Well it may be tonight.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Well I’ve got friends and loved ones
+Who have gone this trip I know
+And am longing to see them
+And to journey here below
+Cause I have made my preparation
+And I have got my reservation
+Now will you join me on this journey
+Are you ready to go…</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Holy, Holy, Holy! Lord God Almighty!</title>
+    </titles>
+    <authors>
+      <author type="words">Reginald Heber</author>
+      <author type="music">John Bacchus Dykes</author>
+      <author type="translation">Heilig, heilig, heilig! Gott, dir sei Ehre</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy, Holy, Holy!
+Lord God Almighty!
+Early in the morning
+Our song shall rise to Thee;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy, Holy, Holy!
+Merciful and Mighty!
+God in Three Persons,
+Blessed Trinity!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy, Holy, Holy!
+All the saints adore Thee,
+Casting down their golden
+Crowns a round the glassy sea;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cherubim and seraphim
+Falling down before Thee,
+Which wert and art, and
+Evermore shalt be.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Holy, Holy, Holy!
+Tho' the darkness hide Thee,
+Tho' the eye of sinful man Thy
+Glory may not see,</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Only Thou art holy;
+there is none beside Thee
+Perfect in power, in
+Love, and purity.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Holy, Holy, Holy!
+Lord God Almighty!
+All Thy works shall
+praise Thy name, in</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Earth, and sky, and sea;
+Merciful and Mighty!
+God in Three Persons,
+Blessed Trinity!</lines>
+    </verse>
+  </lyrics>
+</song>

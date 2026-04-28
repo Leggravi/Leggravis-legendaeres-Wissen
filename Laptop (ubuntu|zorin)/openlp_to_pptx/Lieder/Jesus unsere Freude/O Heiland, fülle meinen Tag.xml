@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:51">
+  <properties>
+    <titles>
+      <title>O Heiland, fülle meinen Tag</title>
+    </titles>
+    <authors>
+      <author type="words">Adolf Hahn (1946)</author>
+      <author type="music">Volksweise</author>
+    </authors>
+    <ccliNo>4346009</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Heiland, fülle meinen Tag,
+das er Dir Früchte bringe!
+O segne meiner Harfe Schlag,
+dass er für Dich nur klinge.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So lang ging ich, fern von Dir,
+durch Nacht und Dämmerungen;
+Du aber trats voll Huld zu mir
+und hast mich ganz bezwungen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nun wandre ich ihm Morgenlicht,
+um strahlt von Deiner Gnade.
+Selbst Leid und Kummer schreckt mich nicht
+auf meinem Lebenspfade.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du hast mir selbst ein Ziel gestellt,
+gib meinem Lauf Gelingen!
+Und segne, weil ich in der Welt,
+mein Tagwerk und mein Singen.</lines>
+    </verse>
+  </lyrics>
+</song>

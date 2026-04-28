@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:55">
+  <properties>
+    <titles>
+      <title>Eines wünsch ich mir vor allem andern</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Knapp (1823)</author>
+      <author type="music">Herr und Ältster deiner Kreuzgemeine</author>
+    </authors>
+    <ccliNo>4946722</ccliNo>
+    <themes>
+      <theme>Passion</theme>
+      <theme>Leid</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eines wünsch ich mir vor allem andern,
+eine Speise früh und spät;
+selig lässt's im Tränental sich wandern,
+wenn dies Eine mit uns geht:
+Unverrückt auf einen Mann zu schauen,
+der mit blut'gem Schweiß und Todesgrauen
+auf sein Antlitz niedersank
+und den Kelch des Vaters trank.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ewig soll er mir vor Augen stehen,
+wie er als ein stilles Lamm
+dort so blutig und so bleich zu sehen,
+hängend an des Kreuzes Stamm;
+wie er dürstend rang um meine Seele,
+dass sie ihm zu seinem Lohn nicht fehle,
+und dann auch an mich gedacht,
+als er rief: "Es ist vollbracht!"</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja, mein Jesu, lass mich nie vergessen
+meine Schuld und deine Huld.
+Als ich in der Finsternis gesessen,
+trugest du mit mir Geduld;
+hattest längst nach deinem Schaf getrachtet,
+eh es auf des Hirten Ruf geachtet,
+und mit teurem Lösegeld
+mich erkauft von dieser Welt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich bin dein, sprich du darauf ein Amen;
+treuster Jesu, du bist mein!
+Drücke deinen süßen Jesusnamen
+brennend in mein Herz hinein.
+Mit dir alles tun und alles lassen,
+in dir leben und in dir erblassen:
+Das sei bis zur letzten Stund
+unser Wandel, unser Bund.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Die wir uns allhier beisammen finden,
+schlagen unsre Hände ein,
+uns auf deine Marter zu verbinden,
+dir auf ewig treu zu sein.
+Und zum Zeichen, dass dies Lobgetöne
+deinem Herzen angenehm und schöne,
+sage Amen und zugleich:
+"Friede, Friede sei mit euch!"</lines>
+    </verse>
+  </lyrics>
+</song>

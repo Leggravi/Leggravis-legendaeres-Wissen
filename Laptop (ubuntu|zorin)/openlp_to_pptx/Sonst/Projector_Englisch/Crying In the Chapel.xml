@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Crying In the Chapel</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You saw me crying in the Chapel,
+The tears I shed were tears of joy,
+I know the meaning of contentment,
+Now am happy with the Lord,
+Just a plain an simple chapel
+were humble people go to pray
+I Know the Lord will make me stronger
+As I feed upon His Word</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh I Searched, I Searched I searched
+But I couldn't find a way,
+Till He opened up His Word to my heart,
+Now am Happy in the Chapel,
+Where people are with one acord
+From Gods word we come and Worship
+And we're singing praise the Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh you'll Searched, you'll Searched you'll searched
+But you'll never find the way,
+Till he'll open up his Word to your heart
+Take your burdens to the Chapel
+Get down on your Knees and pray
+And your burdens will grow ligter
+And he'll surely show you the way</lines>
+    </verse>
+  </lyrics>
+</song>

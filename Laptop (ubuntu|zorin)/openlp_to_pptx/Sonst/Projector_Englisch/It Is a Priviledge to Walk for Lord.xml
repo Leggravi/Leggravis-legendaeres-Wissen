@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It Is a Priviledge to Walk for Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It is a priviledge to walk for the Lord
+It is a priviledge to walk for the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>i want to walk walk walk in the light
+walk walk walk in the light</lines>
+    </verse>
+  </lyrics>
+</song>

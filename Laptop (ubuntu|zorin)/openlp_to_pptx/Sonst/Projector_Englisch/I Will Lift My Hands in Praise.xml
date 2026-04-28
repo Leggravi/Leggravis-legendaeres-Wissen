@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Will Lift My Hands in Praise</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>So many reasons to be thankful for,
+Jesus, you are so so good,
+You have been so kind and merciful,
+Father you have delivered me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I will lift my hands in praise
+To the one who gave me life,
+Jesus, I thank you, Jesus, I thank you,
+You have always stand beside me,
+You've seen the tears I cry,
+You are the solid rock on which I stand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My strong tower my refuge in the storm,
+Jesus, you are so so good,
+You delivered me from my enemies,
+You've won the battle the victory is yours.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And I will lift my hands in Praise
+To the one who gave me life
+Jesus I thank you Jesus I thank you
+You have always stand beside me
+You've seen the tears I cry
+You are the solid rock on which I stand.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>How awesome is your name the name above all name,
+Lord, you fight my every battle,
+Blessed be the name of the Lord
+For I am surrounded by your grace and love,
+That flows right from your heart,
+Father I thank Father I thank you.</lines>
+    </verse>
+  </lyrics>
+</song>

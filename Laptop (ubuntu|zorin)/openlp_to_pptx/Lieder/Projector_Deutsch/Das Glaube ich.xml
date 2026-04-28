@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Das Glaube ich</title>
+    </titles>
+    <authors>
+      <author type="words">Birgit Minichmayr</author>
+      <author type="music">Birgit Minichmayr</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich glaube an den Vater
+Den Schöpfer aller Welt
+Gott allmächtig
+Durch den Geist empfangen
+Kam Christus in die Welt
+Jesus, mein Retter</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja, ich glaub an Gott, den Vater
+Und an Christus, Seinen Sohn
+An den Heiligen Geist der Wahrheit
+An den dreieinen Gott
+Ja, ich glaub an die Auferstehung
+Das Leben nach dem Tod
+Ich glaube an Deinen Namen, Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mein Richter und mein Anwalt
+Gekreuzigt unter Leid
+Vergebung ist in Dir
+Du stiegst ins Reich der Toten
+Standst auf in Herrlichkeit
+Und herrschst in Ewigkeit</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ja, ich glaub an Dich
+Dass Du auferstanden bist
+Ja, ich glaub an Christus, unsern Herrn</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ja, ich glaub, dass wir ewig leben
+Dass die Jungfrau den Sohn gebar
+Die Gemeinschaft der Kinder Gottes
+Die Kirche unsres Herrn
+Ja, ich glaub an die Auferstehung
+Wenn Jesus wiederkommt
+Ich glaube an Deinen Namen, Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

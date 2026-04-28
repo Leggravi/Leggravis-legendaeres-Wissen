@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Unlike Me, Just Like Him</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How can I forgive someone who has hurt me
+How can I love someone who is my enemy
+Can I just overlook it and let the healing begin
+It's unlike me, but it's just like Him.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>From the cross He said, &quot;Forgive them
+For they know not what they do.&quot;
+When He said it is finished
+He made that possible for you.
+Calvary's where the hatred ends
+And forgiveness begins
+It's unlike me, but it's just like Him.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>How can I forgive the past and just start all over
+How can I forget my scars and pour in the myrrh
+Is it really like me to make my enemy my friend
+It's unlike me, but it's just like Him.</lines>
+    </verse>
+  </lyrics>
+</song>

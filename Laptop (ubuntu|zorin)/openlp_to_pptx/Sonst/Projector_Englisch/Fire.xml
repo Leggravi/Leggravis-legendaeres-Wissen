@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Fire</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've got a fire
+I've got a fire burning
+Burning inside of me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've got a fire
+I've got a fire burning
+Burning inside of me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your presence is my passion
+When You capture my gaze, You set me ablaze
+With Your</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fire, fire, fire
+Ever burning, all consuming
+Fire, fire, fire
+You baptized me
+With Your Spirit and fire</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In Your presence, when I'm at Your throne
+It's like fire, shut up in my bones
+You're the One, the One that I desire
+You're the all consuming fire</lines>
+    </verse>
+  </lyrics>
+</song>

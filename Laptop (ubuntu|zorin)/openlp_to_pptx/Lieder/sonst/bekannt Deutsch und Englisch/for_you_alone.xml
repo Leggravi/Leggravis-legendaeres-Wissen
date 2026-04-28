@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Dec 29, 2020, 3:03:45 PM">
+  <properties>
+    <titles>
+      <title>For you alone</title>
+    </titles>
+    <verseOrder>V1 V2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>You are the peace that guards my heart
+My help in times of need
+You are the hope that leads me on
+And brings me to my knees
+For there I find You waiting
+And there I find release
+So with all my heart I worship
+And unto You I sing</lines>
+    </verse>
+    <verse name="V2">
+      <lines>For You alone deserve all glory
+For You alone deserve all praise
+Father we worship and adore You
+Father we long to see Your face
+For You alone deserve all glory
+For You alone deserve all praise
+Father we love You
+And we worship You this day</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:09">
+  <properties>
+    <titles>
+      <title>Segne uns, o Herr! Lass leuchten dein Angesicht</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="words">Kommunität Gnadenthal (1978)</author>
+      <author type="music">Kommunität Gnadenthal</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Segne uns, o Herr!
+Lass leuchten Dein Angesicht
+über uns und sei uns
+gnädig ewiglich!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Segne uns, o Herr!
+Deine Engel stell' um uns!
+Bewahre uns in Deinem
+Frieden ewiglich!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Segne uns, o Herr!
+Lass leuchten Dein Angesicht
+über uns und sei uns
+gnädig ewiglich!</lines>
+    </verse>
+  </lyrics>
+</song>

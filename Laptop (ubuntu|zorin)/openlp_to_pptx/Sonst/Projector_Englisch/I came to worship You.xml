@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I came to worship You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I came to worship You
+I came just to sing Your praise
+I came to love You, Lord.
+Your Holy name to raise.
+Hallelujah, hallelujah
+Oh, how I worship You,
+You are my Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We came to worship You
+We came just to sing Your praise
+We came to love You Lord 
+Your Holy name to raise
+Hallelujah, hallelujah
+Oh how we worship You
+You are our Lord
+Oh how I worship You
+Oh how I worship You
+Oh how I (We) worship
+You You are my Lord</lines>
+    </verse>
+  </lyrics>
+</song>

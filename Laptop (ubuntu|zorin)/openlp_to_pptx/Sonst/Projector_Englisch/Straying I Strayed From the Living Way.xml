@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Straying I Strayed From the Living Way</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Straying I strayed from the living way
+From the way of the truth
+Thinking I'd find my rest at last
+Until Thy grace found my soul</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now when I reach on the other shore
+I'll praise Thee for Thy amazing grace
+Seeking I sought yet I could not find
+Until Thy grace found my soul</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Trying I tried to please the Lord
+But according to my mind
+I though You just needed someone good
+Until Thy grace rescued me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Praying I prayed for days on end
+Thnking only then can You save
+Not knowing that by Thy amazing grace
+You loved me before I met You</lines>
+    </verse>
+  </lyrics>
+</song>

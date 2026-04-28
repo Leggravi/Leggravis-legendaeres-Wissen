@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Apr 19, 2020, 12:40:36 PM">
+  <properties>
+    <titles>
+      <title>Carry your candle</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C4 V5 C6 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>There is a candle in every soul
+Some brightly burning, some dark and cold
+There is a Spirit who brings fire
+Ignites a candle and makes His home</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Carry your candle, run to the darkness
+Seek out the hopeless, confused and torn
+Hold out your candle for all to see it
+Take your candle, and go light your world
+Take your candle, and go light your world</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Frustrated brother, see how he's tried to
+Light his own candle some other way
+See now your sister, she's been robbed and lied to
+Still holds a candle without a flame</lines>
+    </verse>
+    <verse name="C4">
+      <lines>Carry your candle, run to the darkness
+Seek out the lonely, the tired and worn
+Hold out your candle for all to see it
+Take your candle, and go light your world
+Take your candle, and go light your world</lines>
+    </verse>
+    <verse name="V5">
+      <lines>We are a family whose hearts are blazing
+So let's raise our candles and light up the sky
+Praying to our Father, in the name of Jesus
+Make us a beacon in darkest times</lines>
+    </verse>
+    <verse name="C6">
+      <lines>Carry your candle, run to the darkness
+Seek out the helpless, deceived and poor
+Hold out your candle for all to see it
+Take your candle, and go light your world</lines>
+    </verse>
+  </lyrics>
+</song>

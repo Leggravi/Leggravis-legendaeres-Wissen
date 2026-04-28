@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Miss the Way</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Once a true believer
+Once there was a fire in your soul
+You were the epitome of blessed faith astir
+With thirst for holiness
+And hunger for the Word</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now you move in other circles
+To the beat of different drums
+And I see only glimpses of the one you used to be
+The inspiration that you were to me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I miss the way His love would dance within your eyes
+I miss the way His heart was the soul of your life
+And somewhere in the saddest part of heaven's room
+Our Father sheds a tear for you
+He's missing you, too!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Some are calling you a prodigal
+Some aren't calling you at all
+But far away someone is calling you back home
+Do you hear it anymore out there on your own</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I miss the way His love would dance within your eyes
+I miss the way His heart was the soul of your life
+And somewhere in the saddest part of heaven's room
+Our Father sheds a tear for you</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh, Oh, I Miss The Way,
+(I Miss The Way)
+Oh, Oh, I Miss The Way.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>And somewhere in the saddest part of heaven's room
+Our Father sheds a tear for you
+He's missing you, too</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Once A True Believer</lines>
+    </verse>
+  </lyrics>
+</song>

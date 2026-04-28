@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We will serve the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Tom Brooks</author>
+      <author type="music">Tom Brooks</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We will serve the Lord even when trials come
+For none can separate us from the love of God
+We are more than conquerors, no one can defeat us
+We are the chosen generation, we are the sons of God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We will serve the Lord
+We will serve the Lord
+As for me and my house
+We will serve the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

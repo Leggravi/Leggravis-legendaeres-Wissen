@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We are free</title>
+    </titles>
+    <authors>
+      <author type="words">Jonas Myrin</author>
+      <author type="music">Jonas Myrin</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v7 v11</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are more than conquerors
+We don't have to be afraid
+Nothing is as powerful
+As His love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, the way He gave His Son
+To give life to everyone
+Not a thing can separate us
+From His love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It's the life and the hope that He brings
+His forgiveness that leads us to sing</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We are free to love
+Like our God has loved
+We are free to give like He gave</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We are free from sin
+We are free to begin
+To forgive as He forgave
+We are free</lines>
+    </verse>
+    <verse name="v6">
+      <lines>We are living evidence
+He restores our innocence
+Jesus stands in our defense
+All for love</lines>
+    </verse>
+    <verse name="v7">
+      <lines>It's the grace and the peace that He brings
+His forgiveness that leads us to sing</lines>
+    </verse>
+    <verse name="v8">
+      <lines>We are free from sin
+We are free to begin
+To forgive as He forgave
+We are free, we are free</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Nothing can separate us
+Nothing can separate us, Lord
+Nothing can ever take us from You</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Nothing can separate us
+Nothing can separate us, Lord
+Nothing can ever take us from You
+From You</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Oh, we are free from sin
+We are free to begin
+To forgive as He forgave
+We are free, we are free, oh yeah</lines>
+    </verse>
+  </lyrics>
+</song>

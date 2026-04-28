@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God Rich In Mercy</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This world was lost and so undone,
+Just look at what sin has done,
+Believing the lie that
+Satan told to Eve that day,
+Throwing this world in total despair,
+In east of Eden no longer could dwell
+Now they can see driven
+from God what sin has done.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God rich in mercy, God rich in mercy,
+Sent us His Son, we were undone,
+God rich in mercy;
+God rich in grace, God rich in love,
+Sent us the best from heaven above,
+Saying to all of men today,
+God rich in mercy, God rich in mercy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A prophet God sent to restore His word
+As its recorded in Malachi 4
+Behold I’ll send you Elijah before that day
+What’s been destroyed I will restore,
+Proving to men God keeps His word,
+Now they can see what I’ve revealed,
+I’m rich in mercy.</lines>
+    </verse>
+  </lyrics>
+</song>

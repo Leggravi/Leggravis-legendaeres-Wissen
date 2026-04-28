@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Trust in God</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Brown</author>
+      <author type="music">Chris Brown</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I trust in God wherever I may be,
+Upon the land or on the rolling sea,
+For, come what may, from day to day,
+My heav'nly Father watches over me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I trust in God, I know He cares for me,
+On mountain bleak or on the stormy sea;
+Tho' billows roll, He keeps my soul,
+My heavn'ly Father watches over me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He makes the rose an object of His care,
+He guides the eagle thru the pathless air,
+And surely He remembers me,
+My heav'nly Father watches over me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I trust in God, for in the the lion's den,
+On battlefield, or in the prison pen,
+Thru praise or blame, thru flood or flame,
+My heav'nly Father watches over me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The valley may be dark, the shadows deep
+But O, The Shepherd guards His lonely sheep;
+And thru the gloom, He'll lead me home
+My heav'nly Father watches over me.</lines>
+    </verse>
+  </lyrics>
+</song>

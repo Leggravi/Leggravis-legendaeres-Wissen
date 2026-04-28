@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let Us Plead for Faith Alone</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let us plead for faith alone,
+faith which by our works is shown;
+God it is who justifies,
+only faith the grace applies.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Active faith that lives within,
+conquers hell and death and sin,
+hallows whom it first made whole,
+forms the Savior in the soul.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let us for this faith contend,
+sure salvation is the end;
+heaven already is begun,
+everlasting life is won.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Only let us persevere
+till we see our Lord appear,
+never from the Rock remove,
+saved by faith which works by love.</lines>
+    </verse>
+  </lyrics>
+</song>

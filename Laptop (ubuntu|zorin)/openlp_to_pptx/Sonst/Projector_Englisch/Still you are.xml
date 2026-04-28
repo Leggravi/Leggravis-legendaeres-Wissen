@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Still you are</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the middle of the darkness
+When I'm looking hard for hope
+When I'm drifting toward the rocks of fear
+Afraid that I'm alone
+When I can't see beyond today
+I'm sure of what is true
+I turn my hearts in silent prayer
+To all I know of you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Still you are the faithful father
+Timeless is your loving plan
+Still you are the place of shelter
+In this lost and barren land
+Still you are the God of heaven
+Forever in your hand
+You revealed yourself to be the Great I am
+And still you are (the great I am)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I can never understand it
+How your love remains the same
+In a world that's full of restless hearts
+In a constant state of change
+You've proven that you're worthy
+Of the trust I place in you
+You've been through all the ages past
+The only source of truth</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Still you are…
+Still you are…</lines>
+    </verse>
+  </lyrics>
+</song>

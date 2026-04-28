@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Church in the Wildwood</title>
+    </titles>
+    <authors>
+      <author type="words">William Savage Pitts</author>
+      <author type="music">William Savage Pitts</author>
+      <author type="translation">Ich weiß eine liebe Kapelle</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a church in the valley by the wildwood
+No lovelier place in the dale
+No spot is so dear to my childhood
+As the little brown church in the vale</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(Oh, come, come, come, come)
+Come to the church by the wildwood
+Oh, come to the church in the dale
+No spot is so dear to my childhood
+As the little brown church in the dale</lines>
+    </verse>
+    <verse name="v3">
+      <lines>How sweet on a clear Sabbath morning
+To listen to the clear ringing bells
+Its tones so sweetly are calling
+Oh come to the church in the vale</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There, close by the church in the valley
+Lies one that I loved so well
+She sleeps, sweetly sleeps, 'neath the willow
+Disturb not her rest in the vale</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There, close by the side of that loved one
+'Neath the tree where the wild flowers bloom
+When farewell hymns shall be chanted
+I shall rest by her side in the tomb</lines>
+    </verse>
+  </lyrics>
+</song>

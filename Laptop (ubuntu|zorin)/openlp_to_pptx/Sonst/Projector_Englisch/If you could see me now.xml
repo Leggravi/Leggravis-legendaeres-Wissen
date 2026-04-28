@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>If you could see me now</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our prayers have all been answered I've finally arrived
+The healing that had been delayed has now been realized
+No ones in a hurry there's no schedule to keep
+We're all enjoying Jesus just sitting at His feet</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If you could see me now
+I'm walking streets of gold
+If you could see me now
+I'm standing tall and whole
+If you could see me now
+You&quot;d know I'd seen His face
+If you could see me now
+You'd know the pains erased
+You wouldn't want me to ever leave this place
+If you could only see me now</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My light and temporary trials have worked out for my good
+To know it brought Him glory when I misunderstood
+Though we've had our sorrows they can never compare
+When Jesus has in store for us no language can share</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich weiß wer ich bin</title>
+    </titles>
+    <authors>
+      <author type="words">Sheila Geisinger</author>
+      <author type="music">Ben Fielding</author>
+      <author type="translation">Who You Say I Am</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wer bin ich, dass der König kam
+Und mich empfing
+War verlor'n, doch Er nahm mich an
+Oh, wie Er mich liebt
+Oh, wie Er mich liebt</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wen der Sohn befreit
+Oh, ist wirklich frei
+Ich bin Gottes Kind
+Ja Sein Kind</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Endlich frei
+Voller Gnade hat
+Er mich erlöst
+War Sklave der Sünde doch
+Jesus starb für mich
+Ja, Er starb für mich</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wen der Sohn befreit
+Oh, ist wirklich frei
+Ich bin Gottes Kind
+Ja, Sein Kind
+Denn in Seinem Haus
+Ist ein Platz für mich
+Ich bin Gottes Kind
+Ja, Sein Kind</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Du erwählst mich
+Und verlässt nicht
+Durch Dich weiß ich wer ich bin
+Du bist für mich
+Willst mein Bestes
+Durch Dich weiß ich wer ich bin</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Du erwählst mich
+Und verlässt nicht
+Durch Dich weiß ich wer ich bin
+Du bist für mich
+Willst mein Bestes
+Durch Dich weiß ich wer ich bin
+Durch Dich weiß ich wer ich bin</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Wen der Sohn befreit
+Oh, ist wirklich frei
+Ich bin Gottes Kind
+Ja, Sein Kind
+Denn in Seinem Haus
+Ist ein Platz für mich
+Ich bin Gottes Kind
+Ja, Sein Kind</lines>
+    </verse>
+  </lyrics>
+</song>

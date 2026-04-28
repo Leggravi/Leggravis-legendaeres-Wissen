@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:40">
+  <properties>
+    <titles>
+      <title>Fröhlich zieh ich meine Straße</title>
+    </titles>
+    <authors>
+      <author type="words">Hulda Paul (1901)</author>
+      <author type="music">Julius Dietrich</author>
+    </authors>
+    <ccliNo>4342292</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fröhlich zieh ich meine Straße hier durch dieses Pilgertal;
+meinen Herrn ich nimmer lasse, er beschirmt mich überall.
+Mag manch wilder Sturm auch toben, der mich zu verderben droht,
+gläubig blicke ich nach oben, bin getrost in Not und Tod.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus starb am Kreuzesstamme, trug dort alle Sünden Schuld.
+Ach wie glüht in heilger Flamme doch sein Herz voll Lieb und Huld!
+Drum hab' ich mich ihm ergeben, in ihm sich mein Herze freut,
+ohne ihn könnt ich nicht leben, ich bin sein in Ewigkeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Heil fand ich in Jesu Wunden, bin von Sund gewaschen rein;
+Fried und Ruh hab ich gefunden, drum kann ich so fröhlich sein.
+Mag die Welt mich gleich auch hassen, willig trag ich Christi Schmach;
+bis ich werd im Tod erblassen, folg ich meinem Heiland nach.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Willst auch du so glücklich werden, armes, friedeleeres Herz?
+Lass die Treber dieser Erden, die dir bringen Leid und Schmerz!
+Jesus nur kann recht beglücken, füllt dein Herz mit sel'ger Lust,
+will dich laben und erquicken, o so komm an seine Brust!</lines>
+    </verse>
+  </lyrics>
+</song>

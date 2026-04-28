@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du siehst die Wunden</title>
+    </titles>
+    <authors>
+      <author type="words">Arne Kopfermann</author>
+      <author type="music">Danny Plett</author>
+      <author type="translation">You Heal My Wounds</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du siehst die Wunden, und heilst mein Herz.
+Beugst Dich in meine Not herab,
+und trocknest meine Tränen ab.
+Du siehst die Wunden, und heilst mein Herz.
+O, wie wunderbar bist Du.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In mir wächst Dein Lob, steigt wie auf Flügeln auf
+Und es gleitet hin zu Deinem Herzen, Herr.
+In mir wächst Dein Lob, steigt wie auf Flügeln auf.
+O, wie wunderbar bist Du.</lines>
+    </verse>
+  </lyrics>
+</song>

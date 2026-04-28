@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Ninety Nine</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v6 v7 v3 v6 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>With hands lifted high
+I know You've heard my cry
+For mercy
+Jesus, Son of God
+Your love goes on and on
+And finds me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glory undefined
+Unmeasured and divine
+I worship
+I worship
+You and You alone
+Majestic on the throne
+Of heaven
+Of heaven</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hear the mountains tremble
+Our God is strong and able
+Your kingdom coming down
+Your kingdom coming down
+Merciful and mighty
+For love, You left the ninety-nine
+Savior to the lost and blind
+Savior to me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>With hands lifted high
+I know You've heard my cry
+For mercy, for mercy
+Jesus, Son of God
+Your love goes on and on
+And finds me
+Oh, and finds me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>As the thunder starts to roll
+I'll hold to what I know
+That You are my high tower
+Fortress in dark hours
+That Your promises are true
+And I no longer stand accused
+The Cross has crushed my shame</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hallelujah I'll shout it loud
+Hallelujah I'll sing about
+Your love, Your love, Your love
+Your love, Your love, Your love</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Whoa, whoa, whoa</lines>
+    </verse>
+  </lyrics>
+</song>

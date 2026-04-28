@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Better than life</title>
+    </titles>
+    <authors>
+      <author type="words">Marty Sampson</author>
+      <author type="music">Marty Sampson</author>
+      <author type="translation">Besser als</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Better than the riches of this world Better than the sound of my friends voices
+Better than the biggest dreams in my heart and that's just the start
+Better than getting what I say I need Better than living the life that I wan't to
+Better than the love anyone could give
+Your love is</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You hold me now in Your arms and never let me go
+And You oh Lord made the sunshine and the moonlight in the night sky
+You give me breath and all Your love
+I give my heart to You
+Because I can't stop falling in love with You
+I'll never stop falling in love with You</lines>
+    </verse>
+  </lyrics>
+</song>

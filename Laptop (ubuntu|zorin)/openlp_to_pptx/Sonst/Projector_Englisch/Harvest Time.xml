@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Harvest Time</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A cooler breeze dances through the cornfield tall and strong
+And summer's rhythm fades with autumn's song
+A pile of childhood memories surround like fallen leaves
+And the smell of pumpkin pie, my senses seize</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's the season of thanksgiving
+When all the family's meeting
+And the only warmth is by the lights of home
+Where the field is ripe and ready
+Awaiting the gathering
+We count the many blessings we have known
+Where heart and Heaven rhyme
+Harvest time</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I can feel the changes, the breeze against my soul
+The evening shadows make me long to go
+A familiar voice is calling, my Father's arms await
+What a perfect way to end the weary day</lines>
+    </verse>
+  </lyrics>
+</song>

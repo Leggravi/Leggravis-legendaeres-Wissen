@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Reich gekrönt bist du, o Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Wort des Glaubens München</author>
+      <author type="music">John Sellers</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Reich gekrönt bist du, o Herr,
+als Herrscher in Gerechtigkeit.
+Reich gekrönt bist du, o Herr.
+Du trägst die Weltentdecken durch Dein Wort!
+Du herrschst in Kraft,
+Du regierst in Herrlichkeit.
+Du bist der Herr von Himmel und Erd
+Du allein bist Herr!</lines>
+    </verse>
+  </lyrics>
+</song>

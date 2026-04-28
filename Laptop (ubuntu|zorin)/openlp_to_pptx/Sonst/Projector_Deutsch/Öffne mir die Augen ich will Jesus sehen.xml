@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Öffne mir die Augen, ich will Jesus sehen,</title>
+    </titles>
+    <authors>
+      <author type="words">Gitta Leuschner</author>
+      <author type="music">Robert Cull</author>
+      <author type="translation">Open our eyes, Lord</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Öffne mir die Augen, ich will Jesus sehen, 
+mich ausstrecken zu ihm und sagen, ich lieb dich!
+Öffne mir die Ohren und hilf mir zu hören.
+Öffne das Herz mir, ich will dir gehören.</lines>
+    </verse>
+  </lyrics>
+</song>

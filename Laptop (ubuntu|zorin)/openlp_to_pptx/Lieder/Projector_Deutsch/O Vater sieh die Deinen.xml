@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Vater, sieh die Deinen</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Vater, sieh die Deinen
+Vor Dir sich hier vereinen
+Zu kindlichem Gebet.
+Du hörest gern ihr Flehen,
+Willst alles wohl versehen,
+Dein Herz uns allzeit offen steht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du sprichst Dein Ja und Amen,
+Wenn wir in Jesu Namen
+Dir, Vater, bittend nahn.
+Die Schätze Deiner Gnade
+Sind auf dem Pilgerpfade
+Den Deinen reichlich aufgetan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drum lass uns Dir vertrauen,
+Auf Deine Güte bauen,
+Die jeden Morgen neu.
+Dein Lieben ist ohn' Wanken,
+So lehr' uns bitten, danken
+In Kindeseinfalt, ohne Scheu.</lines>
+    </verse>
+  </lyrics>
+</song>

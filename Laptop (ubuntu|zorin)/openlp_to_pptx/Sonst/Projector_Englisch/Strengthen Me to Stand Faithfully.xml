@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Strengthen Me to Stand Faithfully</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Strengthen me to stand faithfully
+Change my heart that I may learn how to love Thee
+Guide my feet to walk in victory
+And do Thy perfect will faithfully</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Faithful and true I want to be to you
+To do Your perfect will, yielded and still
+A vessel you can use, filled with your virtues
+And though broken you’ll remold me till Your image You behold</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Not my will but Thine, for this cause I came
+My life is not mine, I’ve been bought with a price
+So I surrender my all, a willing sacrifice
+Your eternal purpose I will take and my freewill lay aside</lines>
+    </verse>
+  </lyrics>
+</song>

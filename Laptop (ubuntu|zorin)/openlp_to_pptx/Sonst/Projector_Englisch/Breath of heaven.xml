@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Breath of heaven</title>
+    </titles>
+    <authors>
+      <author type="words">Geraldine Latty</author>
+      <author type="music">Geraldine Latty</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have traveled many moonless nights
+Cold and weary with a babe inside
+And I wonder what I've done
+Holy Father you have come
+And chosen me now,
+To carry your son</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am waiting in a silent prayer
+I am frightened by the load I bear
+In a world as cold as stone
+Must I walk this path alone
+Be with me now
+Be with me now</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Breath of heaven
+Hold me together
+Be forever near me
+Breath of heaven.
+Breath of heaven
+Lighten my darkness
+Pour over me your holiness
+For you are holy
+Breath of heaven</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Do you wonder as you watch my face
+If a wiser one should have had my place
+But I offer all I am
+For the mercy of your plan
+Help me be strong
+Help me be, help me</lines>
+    </verse>
+  </lyrics>
+</song>

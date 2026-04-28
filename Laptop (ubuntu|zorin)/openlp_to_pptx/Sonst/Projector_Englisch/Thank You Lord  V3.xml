@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thank You Lord – V3</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thank You Lord,
+Thank You Lord;
+Thank You Lord,
+I Just want to thank You Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise You Lord,
+Praise You Lord;
+Praise You Lord,
+I Just want to praise You Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We Love You Lord,
+We Love You Lord;
+We Love You Lord,
+I Just want to love You Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

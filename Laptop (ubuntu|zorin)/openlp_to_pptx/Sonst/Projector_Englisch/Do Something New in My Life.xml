@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Do Something New in My Life</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do something new in my life,
+Something new in my life,
+Do something new in my life, I pray,
+Do something new in my life,
+Something new in my life,
+Do something new in my life today.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I cannot serve without You,
+cannot serve without You,
+I cannot serve without You today,
+I cannot serve without You,
+cannot serve without You,
+I cannot serve without You today.
+I cannot pray pray without You
+I cannot live without You.</lines>
+    </verse>
+  </lyrics>
+</song>

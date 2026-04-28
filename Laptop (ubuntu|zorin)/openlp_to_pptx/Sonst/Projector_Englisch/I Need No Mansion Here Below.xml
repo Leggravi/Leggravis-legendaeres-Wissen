@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Need No Mansion Here Below</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When burdens seem so hard to bear;
+That no earthly man can share,
+Drives away the smiles and leaves
+My heart in pain:
+But my Father from above,
+Speaks to me in tones of love,
+Wipes away the tears and
+Makes me smile again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I need no mansion here below
+For Jesus said that I would go;
+To a home beyond the clouds
+Not made with hands,
+Won’t you come and go along,
+We will sing the sweetest songs,
+Ever played upon the harps,
+In glory land.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh to me the thought is sweet
+That the loved ones I will see,
+At the ending of my journey here below,
+It seems I hear their voices blend,
+In that world without an end
+I won’t worry when my time
+has come to go.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When Jesus comes to claim His own,
+I will move to my new home;
+We’ll talk and walk with Him
+Along the streets,
+A mansion there is awaiting me:
+Soon it’s beauty I shall see,
+In that city where we never more
+shall roam.</lines>
+    </verse>
+  </lyrics>
+</song>

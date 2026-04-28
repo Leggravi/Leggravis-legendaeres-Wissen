@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Rejoice</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rejoice for the steps of a
+righteous man
+They are ordered of God,
+They are ordered of God (x2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the time of trouble
+God will uphold you,
+God will uplift you,
+God will sustain you
+In the time of trouble,
+God will lift you up
+So rejoice for the steps
+are ordered of God.</lines>
+    </verse>
+  </lyrics>
+</song>

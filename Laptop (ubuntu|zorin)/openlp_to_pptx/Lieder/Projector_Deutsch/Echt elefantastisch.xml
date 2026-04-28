@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Echt elefantastisch</title>
+    </titles>
+    <authors>
+      <author type="words">Albrecht Gralle</author>
+      <author type="music">Hella Heizmann</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Echt elefantastisch,
+einfach bombastisch!
+Musik, die uns gefällt,
+von Gott und seiner Welt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Und die blauen Tauben gurren.
+Kleine Kätzchen sind am Schnurren.
+Ein Elefant bläst die Posaune
+und verbreitet gute Laune.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Echt elefantastisch,
+einfach bombastisch!
+Musik, die uns gefällt,
+von Gott und seiner Welt!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und die Fische murmeln leise,
+jeder Fisch auf seine Weise.
+In dem Stall, da brüllen Kühe,
+geben sich die größte Mühe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Echt elefantastisch,
+einfach bombastisch!
+Musik, die uns gefällt,
+von Gott und seiner Welt!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Und dann erst die Kinderstimmen,
+wenn sie frech und fröhlich klingen.
+Melodien rauf und runter.
+Tolle Lieder machen munter.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Echt elefantastisch,
+einfach bombastisch!
+Musik, die uns gefällt,
+von Gott und seiner Welt!</lines>
+    </verse>
+  </lyrics>
+</song>

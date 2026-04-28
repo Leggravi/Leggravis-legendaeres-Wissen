@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Victory in Jesus - Medley</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O victory in Jesus,
+My Saviour, forever,
+He sought me and bought me
+With His redeeming blood;
+He loved me ere I knew Him
+And all my life is due Him
+He plunged me to victory,
+Beneath the cleansing flood.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the Name of Jesus,
+In the Name of Jesus
+We have the victory,
+In the Name of Jesus,
+In the Name of Jesus
+Demons will have to flee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When we stand,
+In the Name of Jesus,
+Tell me who can stand before,
+In the precious Name of Jesus,
+We have the victory.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Victory is mine, victory is mine,
+Victory today is mine.
+I told Satan,
+&quot;Get ye behind,&quot;
+Victory today is mine.</lines>
+    </verse>
+  </lyrics>
+</song>

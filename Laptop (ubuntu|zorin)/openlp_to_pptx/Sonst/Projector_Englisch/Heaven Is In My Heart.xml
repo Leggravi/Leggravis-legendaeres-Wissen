@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heaven Is In My Heart</title>
+    </titles>
+    <authors>
+      <author type="words">Graham Kendrick</author>
+      <author type="music">Graham Kendrick</author>
+      <author type="translation">Der Himmel erfüllt mein Herz</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The kingdom of our God is here (Leader)
+Heaven is in my heart (All)
+The presence of his majesty (Leader)
+Heaven is in my heart (All)
+And in his presence joy abounds (Leader)
+Heaven is in my heart (All)
+The light of holiness surrounds (Leader)
+Heaven is in my heart (All)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, heaven is in my heart
+O, heaven is in my heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His precious life on me he spent (All)
+Heaven is in my heart
+To give me life without an end
+Heaven is in my heart
+In Christ is all my confidence
+Heaven is in my heart
+The hope of my inheritance
+Heaven is in my heart</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We are a temple for his throne (Women)
+Heaven is in my heart (All)
+And Christ is the foundation stone (Women)
+Heaven is in my heart (All)
+He will return to take us home (Women)
+Heaven is in my heart (All)
+The Spirit and the Bride say'Come! ' (Women)
+Heaven is in my heart</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Be Bold! Be Strong!</title>
+    </titles>
+    <authors>
+      <author type="words">Morris Chapman</author>
+      <author type="music">Morris Chapman</author>
+      <author type="translation">Sei stark, hab Mut</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Are you ready to take a Land?
+(Yes! Yes!)
+Are you ready to take a Land?
+(Yes! Yes!)
+Are you ready to take a Land?
+For the Lord? (x2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be Bold! Be Strong!
+For the Lord Our God is with us. (x2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Do not be afraid, do not be dismayed,
+We're walking in faith and victory (x2)
+For the Lord Our God is with us.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Running to the camp tell everybody,
+Get ready! Get ready!</lines>
+    </verse>
+  </lyrics>
+</song>

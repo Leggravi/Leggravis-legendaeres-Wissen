@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Down Deep Inside My Soul</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This highway of heartcahe is rocky and rough
+Lord, I learned a long time ago
+You can't build a fire from the ashes of love
+Roses don't bloom in the snow</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Down deep inside my soul
+Where once it was cold and dark
+I feel Your love take ahold
+Way down deep in my heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You were my light on the darkest of days
+Though storms that were raging within
+And slowly but surely the clouds rolled away
+And the sun started shining again</lines>
+    </verse>
+  </lyrics>
+</song>

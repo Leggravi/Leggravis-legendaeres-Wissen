@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Crown of Victory</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Before the foundation of the world
+You predestined me to see
+Out of a million people
+You chose me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sometimes I walk in a wrong path
+But you showed me what is right
+Then you lift me up
+And you make me stand</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He gives us courage
+To be the light of the world
+And gives us strength
+To fight the greatest battle
+Until we finish the race
+And wear the crown of victory</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God didn’t give us trial
+That goes beyond our standard
+Whenever we are weak
+You make us strong</lines>
+    </verse>
+  </lyrics>
+</song>

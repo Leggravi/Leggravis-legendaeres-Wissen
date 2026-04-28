@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir kommen zu dir</title>
+    </titles>
+    <authors>
+      <author type="words">Horst Wallis</author>
+      <author type="music">Horst Wallis</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir kommen zu dir, wir kommen zu dir,
+als erlöste Schar stehen wir vor dir.
+Mit erhobenem Haupt, dem Herz voller Dank beten wir dich an.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir preisen dich, Herr, wir preisen dich, Herr.
+Wir loben deine Barmherzigkeit, denn du hast uns befreit, hast die Ketten gesprengt, die uns gefangen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir lieben dich, Herr, wir lieben dich, Herr.
+Wir erheben deinen großen Nam', denn in dir ist die Kraft, in dir ist die Macht, die uns den Sieg gegeben hat.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wir beten dich an, wir beten dich an,
+in heiligem Schmuck stehen wir vor dir, unser Lob sei dein Thron.
+Komm, herrsche du unter uns!</lines>
+    </verse>
+  </lyrics>
+</song>

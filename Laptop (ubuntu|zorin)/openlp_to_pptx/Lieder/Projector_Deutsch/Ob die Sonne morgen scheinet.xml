@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ob die Sonne morgen scheinet</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ob die Sonne morgen scheinet, ob der Himmel grau ob trüb,
+ob mein Herze lacht, ob weinet, ich halt fest an Jesu Lieb!
+Wenn die Zukunft auch verborgen, ist sein Wort mir doch bekannt!
+Er trägt alle meine Sorgen und er führt mich an der Hand!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Was mir morgen schon begegnet ahn ich nicht,
+kann's nicht ersehn, doch der heut mich reich gesegnet,
+wird auch morgen mit mir gehn!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Was die Seele auch bewegt, mag es Not und Armut sein,
+der den Sperling nährt und pfleget lässt mich nimmermehr allein.
+Auf dem Pfad, den er bereitet, sei's durch Feuer oder Flut,
+folg ich ihm, der mich geleitet und mich deckt mit seinem Blut.</lines>
+    </verse>
+  </lyrics>
+</song>

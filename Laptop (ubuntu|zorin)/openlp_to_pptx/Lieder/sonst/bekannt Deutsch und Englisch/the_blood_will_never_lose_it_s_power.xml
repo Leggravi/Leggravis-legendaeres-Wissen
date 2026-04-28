@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Apr 2, 2021, 10:25:55 PM">
+  <properties>
+    <titles>
+      <title>The Blood Will Never Lose It's Power</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>The blood that Jesus shed for me,
+Way back on Calvary;
+The blood that gives me strength
+From day to day,
+It will never lose it's power.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>It reaches to the highest mountain,
+It flows to the lowest valley;
+The blood that gives me strength
+From day to day,
+It will never lose its power.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>It soothes my doubts and calms my fears,
+And it dries all my tears;
+The blood that gives me strength
+From day to day,
+It will never lose its power</lines>
+    </verse>
+  </lyrics>
+</song>

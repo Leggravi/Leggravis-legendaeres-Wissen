@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir sagen euch an den lieben Advent</title>
+    </titles>
+    <authors>
+      <author type="words">Maria Ferschl</author>
+      <author type="music">Heinrich Rohr</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir sagen euch an den lieben Advent.
+Sehet, die erste Kerze brennt!
+Wir sagen euch an eine heilige Zeit.
+Machet dem Herrn den Weg bereit!
+Freut euch, ihr Christen! Freuet euch sehr.
+Schon ist nahe der Herr.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir sagen euch an den lieben Advent.
+Sehet, die zweite Kerze brennt.
+So nehmet euch eins um das andere an,
+wie auch der Herr an uns getan!
+Freut euch, ihr Christen! Freuet euch sehr.
+Schon ist nahe der Herr.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir sagen euch an den lieben Advent.
+Sehet, die dritte Kerze brennt.
+Nun tragt eurer Güte hellen Schein
+weit in die dunkle Welt hinein.
+Freut euch, ihr Christen! Freuet euch sehr.
+Schon ist nahe der Herr.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wir sagen euch an den lieben Advent.
+Sehet, die vierte Kerze brennt.
+Gott selber wird kommen, er zögert nicht.
+Auf, auf, ihr Herzen, werdet licht.
+Freut euch, ihr Christen! Freuet euch sehr.
+Schon ist nahe der Herr.</lines>
+    </verse>
+  </lyrics>
+</song>

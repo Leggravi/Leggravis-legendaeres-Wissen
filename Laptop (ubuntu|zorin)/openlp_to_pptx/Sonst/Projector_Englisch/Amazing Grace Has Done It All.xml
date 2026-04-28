@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Amazing Grace Has Done It All</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v4 v5 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Found my Amazing Grace
+How could I deserve a gift so great
+My life is forever changed
+Blessed, He's now fills my soul
+Amazing Grace Has done it all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let me tell you about my Lord
+How he opened my heart's door
+Stepping in He said,
+My freedom now is yours</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm the one that paid it all
+The Lord had said, sin is no more yours
+Now you're free to live a life
+In abundance by my side</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Amazing Grace has led me to
+The revealed End Time Word
+So I make it through
+This dark evil world</lines>
+    </verse>
+    <verse name="v5">
+      <lines>What a joy it is to see
+I'm in the Word, the Word's in me
+I know what I'm destined for
+Amazing Grace wholly be whole</lines>
+    </verse>
+  </lyrics>
+</song>

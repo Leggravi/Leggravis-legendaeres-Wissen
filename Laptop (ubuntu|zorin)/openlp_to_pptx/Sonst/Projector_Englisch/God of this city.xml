@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God of this city</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You're the God of this city
+You're the King of these people
+You're the Lord of this nation
+You are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're the light in this darkness
+You're the hope to the hopeless
+You're the peace to the restless
+You are</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is no one like our God
+There is no one like our God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For greater things have yet to come
+And greater things are still to be done in this city
+Greater things have yet to come
+And greater things are still to be done in this city</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You're the Lord of creation
+The Creator of all things
+You're the King above all kings
+You are</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You're the strength in our weakness
+You're the love to the broken
+You're the joy in the sadness
+You are</lines>
+    </verse>
+    <verse name="v7">
+      <lines>There is no one like our God
+There is no one like our God</lines>
+    </verse>
+    <verse name="v8">
+      <lines>For greater things have yet to come
+And greater things are still to be done in this city
+Greater things have yet to come
+And greater things are still to be done in this city</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Greater things have yet to come
+And greater things are still to be done here</lines>
+    </verse>
+    <verse name="v10">
+      <lines>There is no one like our God
+There is no one like you, God</lines>
+    </verse>
+    <verse name="v11">
+      <lines>For greater things have yet to come
+And greater things are still to be done in this city
+Greater things have yet to come
+And greater things are still to be done</lines>
+    </verse>
+    <verse name="v12">
+      <lines>We believe, we believe in you, God</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Greater things have yet to come
+And greater things are still to be done in this city
+Greater things have yet to come
+And greater things are still to be done here
+Greater things, still to be done here
+Ooh</lines>
+    </verse>
+  </lyrics>
+</song>

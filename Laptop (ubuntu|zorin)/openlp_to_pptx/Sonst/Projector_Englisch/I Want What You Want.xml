@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Want What You Want</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I want what You want for me,
+ dear Lord.
+Whatever, wherever it may be.
+I know that You know
+What's best, my Lord.
+I want what You want for me.
+I want what You want for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The course may lead
+through stormy weather,
+To places near or far.
+And the times may bring me
+ sunny days
+On close or distant shore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm happy now that I am learning,
+ yielded to Your plan,
+Trusting now in Your decisions,
+My times are in Your hands.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gross ist de Dunkelheit auf dieser Welt</title>
+    </titles>
+    <authors>
+      <author type="words">Cary Buraty</author>
+      <author type="music">Gerald Coates</author>
+      <author type="translation">Great is the darkness that covers the earth (Come, Lord Jesus, come)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gross ist de Dunkelheit auf dieser Welt,
+durch Unrecht getrübt ist das Licht.
+Völker verzweifeln und Hoffnung zerbricht
+trozt viler, die kämpften für dich.
+Gegen Vernunft auf der Welt
+hat sich die Lüge gestellt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Komm, Herr Jesus, komm, Herr Jesus,
+dein Geist erfülle uns heute neu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dein Volk erhebt sich mt Liebe und Macht,
+die Frohe Botschaft im Herz.
+Zu allen Völkern soll kommen dein Heil,
+zu denen, die glauben an dich.
+Hilf, dass dein Licht durch uns strahlt
+und deine Wiederkunft naht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gross wird die Freude sein an diesem Tag,
+wenn du in Herrlicht kommst
+Dunkelheit weicht, alle Not ist vorbei
+und Herrscher knien vor deiem Thron.
+Dann ist der Auftrag erfüllt,
+auf ewig sind wir vereint.</lines>
+    </verse>
+  </lyrics>
+</song>

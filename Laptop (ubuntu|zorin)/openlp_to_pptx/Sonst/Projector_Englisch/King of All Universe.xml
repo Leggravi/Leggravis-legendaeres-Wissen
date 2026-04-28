@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>King of All Universe</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heaven is wide open
+I can see in there
+The Son of God is standing
+For His people everywhere
+Lift up your eyes
+Our hope is alive</lines>
+    </verse>
+    <verse name="v2">
+      <lines>King of all the universe
+We declare Your matchless worth
+You reign, You reign
+Sin has lost its hold on me
+Death has no more victory
+You reign, You reign</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Everywhere Your glory
+Is shining in the dark
+Every corner of creation
+Speaks of who You are
+How great is Your name
+So worthy of our praise</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hallelujah, Hallelujah
+Hallelujah You reign
+Hallelujah, Hallelujah
+Hallelujah You reign</lines>
+    </verse>
+    <verse name="v5">
+      <lines>King of all the universe
+We declare Your matchless worth
+You reign, You reign
+Sin has lost its hold on me
+Death has no more victory
+You reign, You reign
+Oh yeah, You reign</lines>
+    </verse>
+  </lyrics>
+</song>

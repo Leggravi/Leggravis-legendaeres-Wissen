@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist Gott</title>
+    </titles>
+    <authors>
+      <author type="words">Johannes Jourdan</author>
+      <author type="music">Frank Hernandez</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist Gott und wir preisen Dich.
+Du bist Herr, wir erheben Dich.
+Du bist der Ewigvater, alle Schöpfung betet Dich an (2x) Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

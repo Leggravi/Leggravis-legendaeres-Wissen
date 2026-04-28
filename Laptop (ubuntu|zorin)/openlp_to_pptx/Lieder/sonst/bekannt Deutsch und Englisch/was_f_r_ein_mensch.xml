@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 14, 2020, 5:20:10 PM">
+  <properties>
+    <titles>
+      <title>Was für ein Mensch</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Was für ein Mensch, dem Wind und Wellen gehorchen.
+Was für ein Mensch, der auf dem Wasser geht.
+Was für ein Mensch, der Wasser in Wein verwandelt,
+Brot und Fisch vermehrt.
+Was für ein Mensch, der die Gefangenen frei macht.
+Was für ein Mensch, der selbst den Tod bezwingt.
+Was für ein Mensch, der allen Armen und Schwachen
+frohe Botschaft bringt.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Jesus, Erlöser der Welt.
+Du bist Christus, der Fels der uns hält.
+Gott ist mit uns, er selbst kommt zur Welt,
+das Licht, das die Nacht erhellt.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Was für ein Gott, der zu uns kommt, um zu dienen.
+Was für ein Gott, der klein wird, wie ein Kind.
+Was für ein Gott, der alle Schuld dieser Erde
+für uns auf sich nimmt.
+Was für ein Gott, der mit uns sein neues Reich baut.
+Was für ein Gott, der uns das Erbe gibt.
+Was für ein Gott, der uns als Söhne und Töchter
+Unbeschreiblich liebt.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Was für ein Mensch, Jesus.
+Was für ein Gott, Jesus.
+Was für ein Mensch, Jesus.
+Was für ein Gott, Jesus.
+Was für ein Gott!</lines>
+    </verse>
+  </lyrics>
+</song>

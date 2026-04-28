@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:25">
+  <properties>
+    <titles>
+      <title>Gott, gib mir deinen Geist</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Friedrich Hiller (1767)</author>
+      <author type="music">Georg Neumark</author>
+    </authors>
+    <ccliNo>6222750</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott, gib mir deinen Geist zum Beten,
+zum Beten ohne Unterlass,
+getrost im Glauben hinzutreten,
+wenn ich dein Worte mit Freuden fass,
+und auch im Glauben hinzuknien,
+wenn ich in Furcht und Jammer bin.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Im Schrecken über meine Sünde
+sei dies mein Ruf: Erbarme dich!
+So oft ich mich so schwach empfinde,
+sei dies mein Seufzer: Stärke mich!
+Sink ich, so werde dies mein Flehn:
+Herr, hilf, sonst muss ich untergehn!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fühlt Seel und Leib ein Wohlergehen,
+so treib es mich zum Dank dafür;
+lässt du mich deine Werke sehen,
+so sei mein Rühmen stets von dir;
+und find ich in der Welt nicht Ruh,
+so steig mein Sehnen himmelzu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ist der Versucher in der Nähe,
+so lehr mich ihn im Beten fliehn;
+wenn ich den Bruder leiden sehe,
+so lehr mich bitten auch für ihn;
+und in der Arbeit meiner Pflicht
+sei doch mein Herz zu dir gericht't.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Am Abend heiß mich mit dir reden,
+am Morgen auch noch bei dir sein;
+und sterb ich, lass in letzten Nöten
+doch deinen Geist noch in mir schrein.
+Weckst du mich einst, so bet ich dann
+dich ewig auch im Himmel an.</lines>
+    </verse>
+  </lyrics>
+</song>

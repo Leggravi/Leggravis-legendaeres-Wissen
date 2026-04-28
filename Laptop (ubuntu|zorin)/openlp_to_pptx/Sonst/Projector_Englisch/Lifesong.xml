@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lifesong</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Empty hands held high
+Such small sacrifice
+Now joined with my life
+I sing in vain tonight
+May the words I say
+And the things I do
+Make my lifesong sing
+Bring a smile to you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let my lifesong sing to you
+Let my lifesong sing to you
+I want to sign your name
+To the end of this day
+Lord led my heart was true
+Let my lifesong sing to you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord I give my life
+A living sacrifice
+To reach a world in need
+To be your hands and feet
+So may the words I say
+And the things I do
+Make my lifesong sing
+Bring a smile to you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hallelujah, Hallelujah let my lifesong sing to you
+Hallelujah, Hallelujah let my lifesong sing to you
+Hallelujah, Hallelujah let my lifesong sing to you</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let my lifesong sing to you
+Let my lifesong sing to you
+I want to sign your name
+To the end of this day
+Lord led my heart was true
+Let my lifesong sing to you</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In the Blood of Christ My Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the blood of Christ my Lord (x3)
+We have the victory
+We have the victory, we have the victory
+In the blood of Christ my Lord
+We have the victory.</lines>
+    </verse>
+  </lyrics>
+</song>

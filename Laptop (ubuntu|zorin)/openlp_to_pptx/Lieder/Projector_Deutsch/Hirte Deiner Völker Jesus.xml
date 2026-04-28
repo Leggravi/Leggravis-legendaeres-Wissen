@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hirte Deiner Völker, Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Kommunität Gnadenthal</author>
+      <author type="music">Kommunität Gnadenthal</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hirte Deiner Völker, Jesus.
+Hirte Deiner Völker,
+Opferlamm wurdest Du.
+Du trugst unsre Schuld schon von Anfang an.
+Erlösung bringt uns Dein Blut.
+Wir sind erlöst durch Dein Blut.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hirte Deiner Kirche, Jesus.
+Hirte Deiner Kirche,
+Opferlamm wurdest Du.
+Du trugst unsre Schuld, ehe sie geschah.
+Versöhnung bringt uns Dein Blut.
+Wir sind versöhnt durch dein Blut.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hirte Deiner Schafe, Jesus.
+Hirte Deiner Schafe, Opferlamm wurdest du.
+Du trägst unsre Schuld immer wieder neu.
+adie Heilung bringt uns Dein Blut.
+Wir sind geheilt durch Dein Blut.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nun aufwärts froh den Blick gewandt</title>
+    </titles>
+    <authors>
+      <author type="words">August Hermann Franke</author>
+      <author type="music">Nun danket all und bringet Ehr</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nun aufwärts froh den Blick gewandt
+und vorwärts fest den Schritt!
+Wir gehn an unsers Meisters Hand,
+und unser Herr geht mit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vergesset, was dahinten liegt
+und euern Weg beschwert;
+was ewig euer Herz vergnügt,
+ist wohl des Opfers wert.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und was euch noch gefangen hält,
+o werft es von euch ab!
+Begraben sei die ganze Welt
+für euch in Christi Grab.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So steigt ihr frei mit ihm hinan
+zu lichten Himmelshöhn.
+Er uns vorauf, er bricht uns Bahn -
+wer will ihm widerstehn?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Drum aufwärts froh den Blick gewandt
+und vorwärts fest den Schritt!
+Wir gehn an unsers Meisters Hand,
+und unser Herr geht mit.</lines>
+    </verse>
+  </lyrics>
+</song>

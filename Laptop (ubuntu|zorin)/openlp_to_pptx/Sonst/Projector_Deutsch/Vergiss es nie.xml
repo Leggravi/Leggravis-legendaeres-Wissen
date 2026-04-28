@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Vergiss es nie</title>
+    </titles>
+    <authors>
+      <author type="words">Arne Kopfermann</author>
+      <author type="music">Arne Kopfermann</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vergiss es nie: Dass du lebst, war keine eigene Idee,
+und daß du atmest, kein Entschluss von dir.
+Vergiss es nie: Dass du lebst, war eines anderen Idee,
+und daß du atmest, sein Geschenk an dich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vergiss es nie: Niemand denkt und fühlt und handelt so wie du,
+und niemand lächelt so, wie du's grad tust.
+Vergiss es nie: Niemand sieht den Himmel ganz genau wie du,
+und niemand hat je, was du weißt, gewusst.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vergiss es nie: Dein Gesicht hat niemand sonst auf dieser Welt,
+und solche Augen hast alleine Du.
+Vergiss es nie: Du bist reich, egal ob mit, ob ohne Geld;
+denn du kannst leben! Niemand lebt wie du.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du bist gewollt, kein Kind des Zufalls, keine Laune der Natur,
+ganz egal, ob du dein Lebenslied in Moll singst oder Dur.
+Du bist ein Gedanke Gottes, ein genialer noch dazu!
+Du bist du,
+das ist der Clou,
+ja, du bist du!</lines>
+    </verse>
+  </lyrics>
+</song>

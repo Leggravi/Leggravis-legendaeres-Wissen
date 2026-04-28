@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, zu dir erheb</title>
+    </titles>
+    <authors>
+      <author type="words">Hans-Joachim Klösel</author>
+      <author type="music">Charles F. Monroe</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, zu dir erheb,
+Herr, zu dir erheb
+ich mich um dich zu preisen,
+ich mich um dich zu preisen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O mein Gott,
+O mein Gott,
+Ich trau auf dich,
+ich trau auf dich,
+lass mich nicht zu schanden sein,
+dass meine Feinde nicht Siegen über mich.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wer auf dich vertraut,
+wer auf dich vertraut,
+den wirst du nicht enttäuschen,
+den wirst du nicht enttäuschen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zeige mir, o Herr,
+zeige mir, o Herr,
+deine Pfade und Wege,
+deine Pfade und Wege.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Denke nicht mehr, Herr,
+denke nicht mehr, Herr,
+an die Sünden meiner Jugend,
+an die Sünden meiner Jugend,</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gottes Wege sind:
+Gottes Wege sind:
+Güte, Treue und Wahrheit,
+Güte, Treue und Wahrheit</lines>
+    </verse>
+  </lyrics>
+</song>

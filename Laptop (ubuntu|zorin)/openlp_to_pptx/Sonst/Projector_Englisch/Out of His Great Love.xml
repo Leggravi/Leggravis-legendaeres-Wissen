@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Out of His Great Love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Out of His great love
+He picked me up
+Set my feet on a sturdy rock
+Out of His great love
+I've learned the meaning of
+Salvation out of His great love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I had gone astray
+I had lost my way
+When I called upon His name
+Then He rescued me
+Now the song I sang
+&quot;What a loving God is He&quot;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now I shout His praise
+Through all my days
+For His endless mercy and grace
+There's no other one
+Who has greater love
+With joy I will ever say</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Out of His great love
+He picked me up
+Set my feet on a sturdy rock
+Out of His great love
+I've learned the meaning of
+Salvation out of His great love
+Salvation out of His great love</lines>
+    </verse>
+  </lyrics>
+</song>

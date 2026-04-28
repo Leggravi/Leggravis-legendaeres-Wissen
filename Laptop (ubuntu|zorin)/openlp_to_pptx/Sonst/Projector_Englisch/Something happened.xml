@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Something happened</title>
+    </titles>
+    <authors>
+      <author type="words">Toni Hatch</author>
+      <author type="music">Toni Hatch</author>
+      <author type="translation">Eines Tages hörte ich (Und Seine Liebe ist viel wärmer)</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Something Happens
+When I call you Name
+Something Happens
+When I call you Name
+Something Happens
+When I call you Name
+Something Happens
+When I call you Name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mountains Move
+When I call you Name
+Mountains Move
+When I call you Name
+Mountains Move
+When I call you Name
+Something Happens
+When I call you Name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chains are Loose
+When I call you Name
+Chains are Loose
+When I call you Name
+Chains are Loose
+When I call you Name
+Something Happens
+When I call you Name</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We Break through
+When we call your Name
+We Break through
+When we call your Name
+We Break through
+When we call your Name
+Something Happens
+When I call you Name</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/: Mountains Move
+Chains are Loose
+We Break through
+Something Happens
+When I call you Name :/
+/: Mountains Move
+Chains are Loose
+We Break through
+Mountains Move
+Chains are Loose
+We Break through :/</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Right here
+We Break through
+(Right Now)
+We Break through
+/: Mountains Move
+Chains are Loose
+We Break through :/
+(We Break through)
+We Break through</lines>
+    </verse>
+  </lyrics>
+</song>

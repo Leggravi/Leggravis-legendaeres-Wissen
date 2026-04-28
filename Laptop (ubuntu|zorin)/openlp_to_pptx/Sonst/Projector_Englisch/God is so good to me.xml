@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God is so good to me</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I had my sad days
+And there were hills to climb
+I had my bad days
+And then a weary mind
+But when I look above
+And all these things around
+God is so good to me
+I can't complain</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God is so good to me
+Yes, He's so good to me
+More than this world could be
+He's so good to me
+His Spirit came to me
+And gave me victory
+God is so good to me
+I can't complain</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sometimes these clouds hang on
+And I'd like to see them go
+I ask this question, Lord
+&quot; Why so much pain?&quot;
+But He knows what's best for me
+Although I cannot see
+God is so good to me
+I can't complain</lines>
+    </verse>
+  </lyrics>
+</song>

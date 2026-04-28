@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Spirit of God Come Fill Me</title>
+    </titles>
+    <authors>
+      <author type="words">James E. Moore Jr.</author>
+      <author type="music">James E. Moore Jr.</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All of my life I live for my own
+Trying to make myself known,
+But I found out
+That it's not the way We live
+Cause you have the better
+Plan to Give</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I empty myself before your throne
+Longing to hear your word
+Let me stay always like
+A desperate man
+Hungry and thirsty to Jesus I run</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spirit of God come fill me,
+Spirit of God come fill me now,
+Spirit of God come fill me,
+Until I overflow and touch the world.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I am willing to pay the price
+Setting aside my comfort and pride
+Dying to self just to gain my Christ
+And to live by grace you provide</lines>
+    </verse>
+  </lyrics>
+</song>

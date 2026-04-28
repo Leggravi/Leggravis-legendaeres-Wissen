@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wenn nach der Erde Leid, Arbeit und Pein</title>
+    </titles>
+    <authors>
+      <author type="words">Hedwig von Redern</author>
+      <author type="music">Charles H. Gabriel</author>
+      <author type="translation">O that will be glory for me</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wenn nach der Erde Leid, Arbeit und Pein
+ich in die goldenen Gassen zieh ein,
+wird nur das Schaun meines Heilands allein
+Grund meiner Freude und Anbetung sein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Das wird allein Herrlichkeit sein,
+das wird allein Herrlichkeit sein,
+wenn frei von Weh ich sein Angesicht seh!
+Wenn frei von Weh ich sein Angesicht seh!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn dann die Gnade, mit der ich geliebt,
+dort eine Wohnung im Himmel mir gibt,
+wird doch nur Jesus und Jesus allein
+Grund meiner Freude und Anbetung sein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dort vor dem Throne im himmlischen Land
+treff ich die Freunde, die hier ich gekannt;
+dennoch wird Jesus und Jesus allein
+Grund meiner Freude und Anbetung sein.</lines>
+    </verse>
+  </lyrics>
+</song>

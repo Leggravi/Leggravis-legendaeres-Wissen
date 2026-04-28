@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Fly High</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was looking toward the sky,
+Wishing that I could fly;
+But I was locked up in this old barnyard,
+Without even knowing why;
+Eating from this rotten food,
+That I never learnt to want it;
+I stayed here for a long, long time,
+Not knowing, who I am,
+Who I am?
+Who I am?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fly high, Soar Towards the sky
+Fly high; your wings were made to fly
+Fly high, High above the storms,
+Fly high; Coz heaven is your home,
+You're an Eagle.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Loneliness enslaved my soul,
+I was troubled and confused.
+Coz in my heart, there's a deep call,
+That I never want to loose;
+And how can I ever leave this place,
+And meet someone to help me;
+And that's the time I heard, The Voice,
+&quot;Come Out, Come Out of her my people&quot;
+You're and Eagle.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Loneliness enslaved my soul,
+I was troubled and confused;
+Coz in my heart there's a deep call,
+That I never want to loose;
+And how can I ever leave this place,
+And meet someone to help me;
+And that's the time I heard the Voice,
+&quot; You're an Eagle&quot;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Set your wings, on the winds of faith,
+You can fly, in a higher plane
+Do not struggle
+It's by Grace
+Set your wings, on the winds of faith.</lines>
+    </verse>
+  </lyrics>
+</song>

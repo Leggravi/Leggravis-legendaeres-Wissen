@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh Yes, I'm A Child Of The King</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh yes, oh, yes,
+I'm a child of the King,
+His royal blood
+Now flows through my veins.
+And I who was wretched and vile,
+Now can sing:
+Praise God, praise God,
+I'm a child of the King.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Move</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v2 v4 v2 v2 v5 v6 v2 v7 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When You move, darkness runs for cover
+When You move, no one's turned away
+Because where You are, fear turns into praises
+And where You are, no heart's left unchanged</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So come move, let justice roll on like a river
+Let worship turn into revival
+Lord, lead us back to You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When You move, the outcast finds a family
+When You move, the orphan finds a home
+Lord, here we are, oh, teach us to love mercy
+With humble hearts, we bow down at Your throne
+Jesus, oh-ooh-oooh</lines>
+    </verse>
+    <verse name="v4">
+      <lines>King of all generations
+Let every tongue and nation
+Surrender all to You alone, Jesus
+King of all generations
+Let every tongue and nation
+Surrender all to You alone, oh, You alone</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, so come move, let justice roll on like a river
+Let worship turn into revival
+Lord, lead us back to You</lines>
+    </verse>
+    <verse name="v6">
+      <lines>King of all generations
+Let every tongue and nation
+Surrender all to You alone, You alone
+King of all generations
+Let every tongue and nation
+Surrender all to You alone</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Back to You, Jesus
+Back to You
+Back to our first love
+Back to our first love
+Jesus, Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

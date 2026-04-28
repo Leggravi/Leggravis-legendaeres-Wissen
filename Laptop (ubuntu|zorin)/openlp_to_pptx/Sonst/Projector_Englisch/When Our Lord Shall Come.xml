@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When Our Lord Shall Come</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When upon the clouds of heaven,
+Christ shall come to earth again.
+Will the world be glad to see Him,
+When our Lord shall come again?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There’ll be singing, there’ll be shouting,
+There’ll be sorrow, there’ll be pain,
+There’ll be weeping, there’ll be praying,
+When our Lord shall come again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Will his coming bring rejoicing?
+Or will it bring tears and pain?
+Are you ready to receive Him,
+When our Lord shall come again?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Will you join in lamentation?
+Or the angel’s glad refrain?
+Will you help His people crown Him,
+When our Lord shall come again?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Work and pray till Jesus calls you.
+Help to gather in the grain,
+Then with joy you’ll meet the Saviour,
+When our Lord shall come again.</lines>
+    </verse>
+  </lyrics>
+</song>

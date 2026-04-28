@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Am Redeemed, Bought With A Price</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am redeemed, bought with a price;
+Jesus has changed my whole life;
+If anybody ask you, just who I am,
+Tell them, I am redeemed.</lines>
+    </verse>
+  </lyrics>
+</song>

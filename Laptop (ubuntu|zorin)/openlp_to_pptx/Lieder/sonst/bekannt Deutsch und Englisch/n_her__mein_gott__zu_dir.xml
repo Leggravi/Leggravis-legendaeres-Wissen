@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 18, 2021, 10:58:33 AM">
+  <properties>
+    <titles>
+      <title>Näher, mein Gott, zu dir</title>
+    </titles>
+    <verseOrder>V1 V2 V3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Näher, mein Gott, zu dir, näher zu dir!
+Drückt mich auch Kummer hier, drohet man mir,
+soll doch trotz Kreuz und Pein dies meine Losung sein:
+Näher, mein Gott, zu dir, näher zu dir.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Bricht mir, wie Jakob dort, Nacht auch herein,
+find ich zum Ruheort nur einen Stein;
+ist selbst im Traume hier mein Sehnen für und für:
+Näher, mein Gott, zu dir, näher zu dir!</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Geht auch die schmale Bahn aufwärts gar steil,
+führt sie doch himmelan zu meinem Heil.
+Engel, so licht und schön, winken aus selgen Höhn:
+Näher, mein Gott, zu dir, näher zu dir.</lines>
+    </verse>
+  </lyrics>
+</song>

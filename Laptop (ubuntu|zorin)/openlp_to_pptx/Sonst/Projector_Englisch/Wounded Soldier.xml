@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wounded Soldier</title>
+    </titles>
+    <authors>
+      <author type="words">Danny Daniels</author>
+      <author type="music">Danny Daniels</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You went out to the front line
+Committed to the cause
+You fought the fight of Faith
+You truly gave your all
+Now you lie there wounded
+With a bleeding heart
+You've cried for help but help just seems so far
+And you wonder where the other soldiers are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He is coming for you wounded soldier
+And He will gently carry you upon His shoulder
+He will give you time to mend
+Till you can fight again
+There's no need to fear
+He is right here
+Wounded soldier</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sometimes the greatest battles
+Are fought within your soul
+And no one sees your struggle
+'Cause you wont let them show
+You're the one getting wounded
+Pretending to be strong
+But deep inside you're barely hanging on
+And it's hard to find the courage to go on</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I am coming for you wounded soldier
+And I will gently carry you upon my shoulder
+I will give you time to mend
+Till you can fight again
+There's no need to fear
+I am right here
+Wounded soldier</lines>
+    </verse>
+  </lyrics>
+</song>

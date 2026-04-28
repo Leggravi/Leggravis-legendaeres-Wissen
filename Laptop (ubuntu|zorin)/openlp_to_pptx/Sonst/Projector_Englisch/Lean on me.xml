@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lean on me</title>
+    </titles>
+    <authors>
+      <author type="words">Bill Withers</author>
+      <author type="music">Bill Withers</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the world outside is dark and stormy
+When the fears of life surround on every side
+Lord, sometimes I feel my faith begin to waver
+Tis then I look up and hear my Father say</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lean on me-when the storm is raging
+I'm the solid rock- I'm the solid rock
+You're safe from harm
+I will endure - through the endless ages
+By faith look up - by faith look up
+And lean on me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord sometimes I begin to look around me
+Friends seem few and I feel so all alone
+I'm overwhelmed and my heart is pained and burdened
+Then I remember I belong to the one who said</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thank you Lord, I bless you heavenly father
+How bright life is when I keep my eyes on you
+You're everything I have ever longed or hoped for
+When I cry for help, I feel your presence near</lines>
+    </verse>
+  </lyrics>
+</song>

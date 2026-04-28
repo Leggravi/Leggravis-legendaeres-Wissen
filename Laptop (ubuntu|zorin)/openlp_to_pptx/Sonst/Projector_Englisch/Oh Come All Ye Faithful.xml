@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh Come, All Ye Faithful</title>
+    </titles>
+    <authors>
+      <author type="words">John Francis Wade</author>
+      <author type="music">Herbei, o ihr Gläubigen (Adeste fideles)</author>
+      <author type="translation">Herbei, o ihr Gläubigen (Adeste fideles)</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh come, all ye faithful,
+ joyful and triumphant,
+Oh come ye, O come ye to
+ Bethlehem;
+Come and behold Him,
+Born the King of angels;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh come, let us adore Him,
+Oh come, let us adore Him,
+Oh come, let us adore Him,
+Christ, the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sing, choirs of angels,
+ sing in exultation,
+Oh sing, all ye citizens
+ of heav'n above;
+Glory to God, all glory
+ in the highest;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yea, Lord, we greet Thee,
+Born this happy morning,
+Jesus, to Thee be all
+ glory giv'n;
+Word of the Father,
+Now in flesh appearing;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>For He alone is worthy
+For He alone is worthy
+For He alone is worthy
+Christ, the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

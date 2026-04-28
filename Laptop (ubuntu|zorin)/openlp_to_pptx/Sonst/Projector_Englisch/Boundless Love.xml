@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Boundless Love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is not a mother, sister, friend, or brother
+Loves the way that Jesus can.
+He proved His love for me
+When He died on Calvary
+He gave His life for fallen man</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His love (His love) is a boundless love
+And it reaches down and touches me (touches me).
+His love (His love) is an endless love
+That will last through all eternity</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus wants to love you
+There is none above you
+You are precious in His sight
+He will never fail you
+When the doubts assail you
+He'll be with you day and night</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: His love (His love); His love (His love)
+His love (His love); His love (His love)
+His love is an endless love (His boundless… love) :/</lines>
+    </verse>
+  </lyrics>
+</song>

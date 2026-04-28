@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Don't Tell Me What He Meant</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Now the same old devil gave the same old problems
+When the Lord walked the earth down here,
+He was always deceiving and causing confusion
+To anyone who would hear,
+He was always trying to cause unbelief
+For he didn't want a poor soul to see,
+That all you've gotta do is only believe
+Just believe what the Messenger said.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Don't tell me what He meant,
+Just tell me what He said,
+Don't tell me what He meant,
+Just tell me what He said,
+I don't have no time, for private interpretations my friend,
+Just tell me what he said,
+Don't tell me what he meant,
+Oh no! Tell me what he said,
+And don't tell me what he meant.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now today strange voices we can hear
+All over throughout the land,
+Trying to teach what the Messenger said
+They just sell so much higher than him,
+They've got a new revelation and interpretation
+And they'll tell you they're the leaders now,
+But Little Bride you just stay with the tapes
+God's vindicated what His Messenger said.</lines>
+    </verse>
+  </lyrics>
+</song>

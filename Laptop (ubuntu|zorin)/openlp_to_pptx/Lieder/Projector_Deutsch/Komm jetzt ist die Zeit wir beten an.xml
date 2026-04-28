@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Komm, jetzt ist die Zeit, wir beten an</title>
+    </titles>
+    <authors>
+      <author type="words">Guido Baltes</author>
+      <author type="music">Brian Doerksen</author>
+      <author type="translation">Come, now is the time to worship</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Komm, jetzt ist die Zeit, wir beten an.
+Komm, jetzt ist die Zeit, gib Ihm dein Herz.
+Komm, so wie du bist und bete an.
+Komm, so wie du bist vor Deinen Gott.
+Komm.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jede Zunge wird Dich bekennen als Gott.
+Jeder wird sich beugen vor Dir.
+Doch der größte Schatz bleibt für die bestehn,
+die jetzt schon mit Dir gehn.</lines>
+    </verse>
+  </lyrics>
+</song>

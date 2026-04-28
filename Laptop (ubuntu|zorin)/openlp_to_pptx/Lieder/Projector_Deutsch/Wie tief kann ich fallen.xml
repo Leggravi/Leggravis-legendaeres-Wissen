@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wie tief kann ich fallen</title>
+    </titles>
+    <authors>
+      <author type="words">Manfred Siebald</author>
+      <author type="music">Manfred Siebald</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wie tief kann ich fallen, wenn alles zerfällt
+Wenn Brücken und Stützen verschwinden?
+Wie lang muß ich laufen auf dieser Welt
+Um sicheren Boden zu finden?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie tiefer als in Gottes Hand
+Nie länger als in seine Nähe.
+Nie bau ich mein Leben auf Sand
+Wenn ich jeden Schritt mit ihm gehe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wie frei kann ich werden?
+Man hält sich für frei
+Und hört doch nicht auf, sich zu binden.
+Wie klar kann ich sehen?
+Wer hilft mir dabei
+Das Ziel meines Lebens zu finden?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nie freier als in Gottes Hand
+Nie klarer als in seine Nähe.
+Nie bau ich mein Leben auf Sand
+Wenn ich jeden Schritt mit ihm gehe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wie weit kann ich denken?
+Wie komm ich dahin
+Nicht nur für mich selber zu leben?
+Wie gut kann ich helfen
+Wenn andre sich mühn
+Den Berg ihrer Sorgen zu heben?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nie weiter als in Gottes Hand
+Nie besser als in seiner Nähe.
+Nie bau ich mein Leben auf Sand
+Wenn ich jeden Schritt mit ihm gehe.</lines>
+    </verse>
+  </lyrics>
+</song>

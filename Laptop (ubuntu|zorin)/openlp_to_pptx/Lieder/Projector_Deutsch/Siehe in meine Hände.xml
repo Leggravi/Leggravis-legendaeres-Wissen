@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Siehe, in meine Hände</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Swen Schönheit</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Siehe, in meine Hände
+hab ich dich gezeichnet spricht der Herr.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich will vor Dir hergeh'n und deine Wege ebnen,
+sprenge Eiseriegel und breche starke Pforten.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gehst du durch das Wasser, es wird dich nicht ertränken;
+Und selbst durch das Feuer will ich dich sicher leiten.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mitten in der Wüste lass ich das Wasser quellen;
+Und durch dürre Täler führ‘ ich die Wasserbäche.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Männer werden müde und Krieger müssen fallen.
+Doch die Kraft des Herrn wird dich stets neu beflügeln.</lines>
+    </verse>
+  </lyrics>
+</song>

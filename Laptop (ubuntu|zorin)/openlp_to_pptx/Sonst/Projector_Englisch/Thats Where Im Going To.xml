@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>That's Where I'm Going To</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v3 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A little lamb girl lives through
+A grassy field so long,
+and stops to rest beside his friend
+A lion large and strong</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And though I'm smaller playful grizzly
+Follows timidly,
+I stroke his fur without a fear
+He would never hurt me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>That's where I'm going,
+That's where I'm going,
+That's where I'm going to
+That's where I'm going,
+That's where I'm going,
+That's where I'm going to</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And I don't fear the darkness
+Cause there is only light
+And everyday is beautiful
+So I can play outside</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Then I get talk to grandpa
+The one I never got to know
+He tells me just to take my time
+I've got a thousand years to go</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Everyone is smiling
+Laughter fills the air
+No one said her hurting
+Only peace is there</lines>
+    </verse>
+  </lyrics>
+</song>

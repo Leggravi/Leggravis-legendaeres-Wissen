@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Kommt preist den Herrn</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kommt preist den Herrn.
+
+Kommt preist den Herrn.
+
+Ihr das Volk des Herrn.
+
+Ihr das Volk des Herrn</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Das bei ihm steht.
+
+Das bei ihm steht.
+
+Hebt die Hände.
+
+Hebt die Hände.
+
+Zu dem heiligen Ort.
+
+Zu dem heiligen Ort.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und preist den Herrn.
+
+Und preist den Herrn.
+
+Und preist den Herrn.
+
+Und preist den Herrn.</lines>
+    </verse>
+  </lyrics>
+</song>

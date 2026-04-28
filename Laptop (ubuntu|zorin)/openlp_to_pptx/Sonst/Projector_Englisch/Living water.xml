@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Living water</title>
+    </titles>
+    <authors>
+      <author type="words">Tore W. Aas</author>
+      <author type="music">Tore W. Aas</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I feel Your touch, I can feel Your heart,
+As I'm lying here, alone in the dark.
+I feel Your voice gently say, &quot;Come to Me.&quot;
+I long for Your love as the earth longs for the rainfall.
+I'm weary - Lord, I've wandered this desert too long.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So come, living water, flow through me like a river,
+My heart's been thirsting so long.
+Flood through my soul, and pour out your mercy.
+Come, living water, fill me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, so many times You've called my name,
+And I've turned my face the other way.
+Yet before I even saw the womb, You loved me.
+How can I be so blind
+When I alone have created my darkness.
+Forgive me, and wash me clean again.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:56">
+  <properties>
+    <titles>
+      <title>Ich freu mich auf den Tag mit dir</title>
+    </titles>
+    <authors>
+      <author type="words">Kommunität Gnadenthal (1976)</author>
+      <author type="music">Kommunität Gnadenthal</author>
+    </authors>
+    <themes>
+      <theme>Morgenlieder</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich freu' mich auf Dein Reden,
+denn was Du sagst, ist gut.
+will offen vor Dich treten,
+mein Wille in Dir ruht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du gibst Dich selbst in Brot und Wein
+und öffnest mir den Tag.
+So willst Du völlig in mir sein
+bei aller Freud' und Plag'.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich freu' mich auf Dein Leiten,
+Du gehst uns selbst voraus
+und führst durch diese Zeiten
+uns Tag um Tag nach Haus'.</lines>
+    </verse>
+  </lyrics>
+</song>

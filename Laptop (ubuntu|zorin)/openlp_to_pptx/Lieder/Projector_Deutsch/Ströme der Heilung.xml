@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ströme der Heilung</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Pepper</author>
+      <author type="music">Harlan Rogers</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ströme der Heilung fließen von Deinem Thron,o himmlischer Vater.
+Wunder der Liebe, Zeichen der Vollmacht schenkst Du uns.
+Du bist unser Gott, Deinem Namen geben wir Ehre,
+und Dein Geist wirkt herrlich unter uns.
+Denn Du bist der Geber aller guten Gaben, Herr.
+Und wir leben täglich aus der Gnade Deiner Hand.
+Du bist die Quelle des ewigen Lebens , Herr,
+Du bist die Quelle des ewigen Lebens, Herr.</lines>
+    </verse>
+  </lyrics>
+</song>

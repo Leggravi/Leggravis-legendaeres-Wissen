@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Singet mit Freuden, verkündet’s mit mächtigen Worten</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Stralsund</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Singet mit Freuden, verkündet’s mit mächtigen Worten;
+Christus, der Held, hat gestürzet die höllischen Pforten!
+Sein ist der Sieg!
+Teufel und Tod sind im Krieg
+ewig zuschanden geworden.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Freu dich, bekümmerte Seele, der Herr ist erstanden!
+Nun ist Vergebung der Sünden für all vorhanden.
+Rettung und Heil
+wird dir alsbald nun zuteil
+bei Ihm, der frei macht von Banden.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gläubiges Herze, auch du lass dein Klagen und Weinen,
+trockne die Tränen, blick aufwärts am Grabe der Deinen.
+Was du gesät,
+heilig und herrlich ersteht.
+Jesus erwecket die Seinen.</lines>
+    </verse>
+  </lyrics>
+</song>

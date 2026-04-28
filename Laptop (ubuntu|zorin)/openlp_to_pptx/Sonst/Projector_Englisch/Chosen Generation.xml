@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Chosen Generation</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Carson</author>
+      <author type="music">Daniel Carson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are a chosen generation
+Rise up, holy nation
+God, we live for You
+You have called us out of darkness
+Into light so glorious
+God, we live for You
+We live for You
+God, we live for You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We run with passion for Your name, we run
+Freedom, You've broken every chain, we run
+Our God will not be moved
+Our God will never be shaken
+We run to You, we run</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We are a chosen generation
+Rise up, holy nation
+God, we live for You
+You have called us out of darkness
+Into light so glorious
+God, we live for You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We are a chosen generation
+Rise up, holy nation
+God, we live for You
+You have called us out of darkness
+Into light so glorious
+God, we live for You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Our God will not be moved
+Our God will never be shaken
+Our God will not be moved
+Our God will never be shaken
+Our God will not be moved
+Our God will never be shaken
+We run to You, we run</lines>
+    </verse>
+  </lyrics>
+</song>

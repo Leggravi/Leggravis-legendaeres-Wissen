@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lead Me, Savior</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Savior lead me, lest I stray,
+Gently lead me all the way;
+I am safe when by Thy side,
+I would in Thy love abide.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lead me, lead me, Savior,
+lead me, lest I stray;
+Gently down the stream of time,
+Lead me Savior, all the way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou the refuge of my soul,
+When life's stormy billows roll,
+I am safe when Thou art nigh,
+All my hopes on Thee rely.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Savior, lead me, then at last,
+When the storm of life is past,
+To the land of endless day,
+Where all tears are wiped away.</lines>
+    </verse>
+  </lyrics>
+</song>

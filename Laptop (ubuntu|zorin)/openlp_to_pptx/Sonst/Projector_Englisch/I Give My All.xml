@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Give My All</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bless my life, take away the shame,
+Allow me to experience your most amazing grace,
+You fill my heart, it's empty and frail,
+Make me whole again Lord, mend my broken soul.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I Offer my life to you Lord,
+With all my strength, I worship you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I give my all (take me as I am)
+And I'm yours Oh God (lead me to your arms)
+And I give you praise (I rejoice in you)
+Till the end of my days I give my all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You gave your all, unworthy as I am
+You have died for me, Lord, and now I am free
+Your the only reason, why my heart leaps for joy
+I give you back the glory, Lord, mold me and use me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Till the end of my days I give my all (3x) …
+.. to you.</lines>
+    </verse>
+  </lyrics>
+</song>

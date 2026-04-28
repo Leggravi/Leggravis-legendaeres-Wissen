@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sometimes he calms the storm</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All who sail the sea of faith
+Find out before too long
+How quickly blue skies can grow dark
+And gentle winds grow strong
+And suddenly fear is like white water
+Pounding on the soul
+But still we sail on knowing
+That our lord is in control</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sometimes he calms the storm
+With a whispered &quot;peace be still&quot;
+He can settle any sea
+But it doesn't mean he will
+Sometimes he holds us close
+And lets the wind and waves go wild
+Sometimes he calms the storm
+And other times he calms his child</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He has a reason for each trial
+That we pass through in life
+And though we're shaken
+We cannot be pulled apart from christ
+No matter how the driving rain beats down
+On those who hold to faith
+A heart of trust will always be
+A quiet peaceful place</lines>
+    </verse>
+  </lyrics>
+</song>

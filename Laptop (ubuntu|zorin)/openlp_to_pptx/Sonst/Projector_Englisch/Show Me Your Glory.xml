@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Show Me Your Glory</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Bowater</author>
+      <author type="music">Chris Bowater</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All I am hungers for You
+All I am is thirsty for You
+Nothing else but You
+Can satisfy my soul</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Passing by the outer court
+And come into the holy place
+Lord I never stop
+I want to see Your face</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As I turn my heart to You
+Take my veil away oh Lord
+Show me Your glory
+To see Your face and be changed
+To never be the same oh Lord
+Show me Your glory</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Just to be with You
+In the beauty of Your holiness
+I want to know You
+And live in Your presence
+You've put this longing inside
+And now I found my grace in Your sight</lines>
+    </verse>
+  </lyrics>
+</song>

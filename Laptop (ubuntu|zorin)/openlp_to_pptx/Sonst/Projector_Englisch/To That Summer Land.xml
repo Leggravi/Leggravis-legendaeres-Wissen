@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>To That Summer Land</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To that summer land up yonder,
+Where the angels ever sing
+Hallelujahs to the Saviour,
+Sweet hosannas to the King;
+We are marching swiftly onward,
+Guided by our Father’s hand
+Thro’ this world of sin and sorrow,
+To that happy summer land.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh,… the joy when we
+get there…
+Golden crowns of life to wear…
+In that happy land so fair
+In that summer land up yonder.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To that summer land up yonder
+Some are going every day,
+And the time is drawing nearer
+When we, too, shall go away;
+We are going straight to Jesus,
+There to join the ransom’d band,
+We will praise His Name for ever,
+In that happy summer land.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In that summer land up yonder
+There’s a place prepared for all
+Who are trusting in the Saviour,
+Who will listen to His call;
+and the happy time is coming
+When the Lord shall give command,
+And we’ll leave this world for ever
+For that happy summer land.</lines>
+    </verse>
+  </lyrics>
+</song>

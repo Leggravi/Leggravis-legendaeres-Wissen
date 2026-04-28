@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Is There Anything Too Hard</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One day I was thinking of Jesus
+my Lord,
+And salvation so full and so free,
+The cares of this life were
+heavy to bear,
+Then He whispered so sweetly to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Is there anything too hard to bear,
+Sure there’s something that I
+can always do,
+All power in heaven is given to me,
+Believe me and I will
+see you through.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Is your heart burdened
+with problems and cares
+Does your life seem wasted away?
+Come to Jesus the Saviour,
+Repent of all your sins,
+Just believe and to you He will say.</lines>
+    </verse>
+  </lyrics>
+</song>

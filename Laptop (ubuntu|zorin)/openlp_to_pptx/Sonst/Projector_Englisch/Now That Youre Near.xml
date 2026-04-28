@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Now That You're Near</title>
+    </titles>
+    <authors>
+      <author type="words">Marty Sampson</author>
+      <author type="music">Marty Sampson</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v2 v1 v3 v4 v5 v1 v3 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hold me in Your arms,
+Never let me go,
+I wanna spend the eternity with You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I stand before You, Lord
+And give You all my praise,
+Your love is all I need,
+Jesus, You're all I need,
+My life belongs to You,
+You gave Your life for me,
+Your grace is all I need,
+Jesus, You're all I need.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And now that You're near,
+Everything is different,
+Everything's so different, Lord
+And I know I'm not the same,
+My life You've changed,
+And I wanna be with You,
+I wanna be with You.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now You're near,
+Everything is different,
+Everything's so different, Lord
+And I know I'm not the same,
+My life You've changed
+And I wanna be with You,
+I wanna be with You.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And I will sing for You always, yeah
+'Cause in Your presence God is where I wanna stay.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In Dir ist mein Leben</title>
+    </titles>
+    <authors>
+      <author type="words">Mirjana Angelina</author>
+      <author type="music">Daniel Gardner</author>
+      <author type="translation">My life is in You, Lord</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In Dir ist mein Leben, in Dir meine Stärke,
+in Dir meine Hoffnung, in Dir, o Herr!
+In Dir ist mein Leben, in Dir meine Stärke,
+in Dir meine Hoffnung, in Dir, o Herr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich preise Dich mit all meinem Sein.
+Ich preise Dich mit all meiner Kraft.
+Mit all meinem Sein, mit all meiner Kraft.
+All meine Hoffnung ist in Dir!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich preise Dich mit all meinem Sein.
+Ich preise Dich mit all meiner Kraft.
+Mit all meinem Sein, mit all meiner Kraft.
+All meine Hoffnung ist in Dir! Nur in Dir.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In Dir ist mein Leben, in Dir meine Stärke,
+in Dir meine Hoffnung, in Dir, o Herr!
+In Dir ist mein Leben, in Dir meine Stärke,
+in Dir meine Hoffnung, in Dir, o Herr!
+In Dir, o Herr! In Dir, o Herr!
+Nur in Dir.</lines>
+    </verse>
+  </lyrics>
+</song>

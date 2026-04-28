@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Allmacht</title>
+    </titles>
+    <authors>
+      <author type="words">Julius Köbner</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es ist Allmacht in dem Namen Jesus,
+Es ist Allmacht in dem Namen Jesus,
+Es ist Allmacht in dem Namen Jesus,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er bricht jedes Joch
+Er bricht jedes Joch
+Er bricht jedes Joch</lines>
+    </verse>
+  </lyrics>
+</song>

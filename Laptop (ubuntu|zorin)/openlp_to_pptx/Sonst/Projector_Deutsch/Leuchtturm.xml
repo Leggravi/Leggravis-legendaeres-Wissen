@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Leuchtturm</title>
+    </titles>
+    <authors>
+      <author type="words">Dietmar Fischenich</author>
+      <author type="music">Dietmar Fischenich</author>
+    </authors>
+    <verseOrder>v1 v3 v2 v3 v4 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wenn ich zweifle und kämpf mit mir, wenn ich falle, bleibst du doch hier. Deine Liebe trägt mich durch. Du bist mein Halt in der rauen See, whoa oh, du bist mein Halt in der rauen See.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Auch im Schweigen bist du stets da, in den Fragen bleibt dein Wort wahr. Deine Liebe trägt mich durch. Du bist mein Halt in der rauen See, whoa oh,
+du bist mein Halt in der rauen See.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sei mein Licht, sei mein Licht. Du strahlst wie ein Leuchtturm, und ich schau auf dich. Oh, sei mein Licht, sei mein Licht. Du gabst das Versprechen: sicher bringst du mich bis ans Land, bis ans Land, bis ans Land, bis ans Land.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich fürcht nicht, was die Zukunft bringt, ich geh vorwärts, und mein Herz singt: Gottes Liebe trägt mich durch. Du bist mein Halt in der rauen See, whoa oh, du bist mein Halt in der rauen See.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dein Licht leuchtet, nichts strahlt heller, und du führst uns durch den Sturm.</lines>
+    </verse>
+  </lyrics>
+</song>

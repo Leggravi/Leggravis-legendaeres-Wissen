@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Komm heilger Geist, zünde an dein Feuer</title>
+    </titles>
+    <authors>
+      <author type="words">Horst Wallis</author>
+      <author type="music">Horst Wallis</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Komm, Heil'ger Geist :| Zünde an Dein Feuer, brenne lichterloh!
+Reinige, was Dich nicht meint und salbe uns ganz neu.
+Komm Heilger Geist, Komm Heilger Geist!
+Wir lieben dich und deine Gegenwart.</lines>
+    </verse>
+  </lyrics>
+</song>

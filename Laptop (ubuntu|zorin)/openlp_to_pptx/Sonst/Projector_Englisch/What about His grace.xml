@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What about His grace</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I think of where I've been
+And where He brought me from
+And how I found in giving
+The strength to overcome
+I wouldn't want to live a single minute
+Without Jesus in it, but as I look around
+I have no place to run</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What about His grace
+What about how He came
+What about the blood He shed on Calvary
+That washes sin away
+Think of all His done
+And how He helps us overcome
+How could we ever run away
+What about His grace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If you've been in His presence
+And you found His mercy flow
+Strength from His throne and glory
+To your wounded soul
+How could you ever turn your back on Jesus?
+When He died to free us
+Ask yourself a simple thing be for you go</lines>
+    </verse>
+  </lyrics>
+</song>

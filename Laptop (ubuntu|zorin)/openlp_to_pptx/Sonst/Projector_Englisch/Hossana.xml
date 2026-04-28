@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hossana</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jerusalem, Jerusalem,
+Lift up your gates and sing,
+Hosanna in the highest,
+Hosanna forevermore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jerusalem, Jerusalem,
+Hear how the saints (angels) sing,
+Hosanna to the highest,
+Hosanna to the King.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jerusalem, Jerusalem,
+Lift up your gates and sing,
+Hosanna in the highest,
+Hosanna to the King.</lines>
+    </verse>
+  </lyrics>
+</song>

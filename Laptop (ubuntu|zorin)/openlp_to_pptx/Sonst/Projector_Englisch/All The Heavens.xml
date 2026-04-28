@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All The Heavens</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v4 v5 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy, holy are You Lord
+The whole earth is filled with Your glory
+Let the nations rise to give
+Honor and praise to Your name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let Your face shine on us
+And the world will know You live
+All the heavens shout Your praise
+Beautiful is our God, the universe will sing
+Hallelujah to You our King
+Church sing holy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let Your face shine on us
+And the world will know You live
+All the heavens shout Your praise
+Beautiful is our God, the universe will sing
+Hallelujah to You our King</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let Your face shine on us
+And the world will know You live</lines>
+    </verse>
+    <verse name="v5">
+      <lines>All the heavens shout Your praise
+Beautiful is our God, the universe will sing
+Hallelujah to You our King</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hallelujah to You our King
+Hallelujah to You our King
+Hallelujah Lord</lines>
+    </verse>
+  </lyrics>
+</song>

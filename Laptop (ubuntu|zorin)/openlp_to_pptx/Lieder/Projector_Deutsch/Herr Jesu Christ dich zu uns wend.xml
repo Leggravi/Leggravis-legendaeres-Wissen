@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr Jesu Christ, dich zu uns wend</title>
+    </titles>
+    <authors>
+      <author type="words">Wilhelm II Herzog zu Sachsen-Weimar</author>
+      <author type="music">Gochsheim</author>
+      <author type="translation">Lord Jesus Christ, be present now</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr Jesu Christ, dich zu uns wend,
+dein Heilgen Geist du zu uns send,
+mit Hilf und Gnad er uns regier
+und uns den Weg zur Wahrheit führ.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu auf den Mund zum Lobe dein,
+bereit das Herz zur Andacht fein,
+den Glauben mehr, stärk den Verstand,
+dass uns dein Nam werd wohlbekannt,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>bis wir singen mit Gottes Heer:
+Heilig, heilig ist Gott der Herr!
+Und schauen dich von Angesicht
+in ewger Freud und selgem Licht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ehr sei dem Vater und dem Sohn,
+dem Heilgen Geist in einem Thron;
+der Heiligen Dreieinigkeit
+sei Lob und Preis in Ewigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

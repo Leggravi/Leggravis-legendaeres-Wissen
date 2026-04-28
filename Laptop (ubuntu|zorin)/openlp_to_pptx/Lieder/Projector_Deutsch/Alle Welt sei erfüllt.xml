@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Alle Welt sei erfüllt</title>
+    </titles>
+    <authors>
+      <author type="words">Martina Fiordalisi</author>
+      <author type="music">Ron Coile</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alle Welt sei erfüllt mit Erkenntnis von der Herrlichkeit des Herrn, so wie die Wasser füllen das Meer.
+Richtet auf ein Banner für die Völker, das Königreich des Herrn zu demonstrieren. 
+Ein kühnes Volk sind wir, ihn zu proklamieren, bist die Fülle Gottes alles ganz erfüllt</lines>
+    </verse>
+  </lyrics>
+</song>

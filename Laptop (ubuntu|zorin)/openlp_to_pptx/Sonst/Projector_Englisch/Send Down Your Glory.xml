@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Send Down Your Glory</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Send down Your Glory
+Send down Your Glory
+Cleanse these hands that we raise
+In this temple filled with praise
+Send down Your Glory
+Send down Your Glory
+Our broken lives You can mend
+If You'll touch us once again
+Send down Your Glory</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We believe in Your Name
+That is why we came
+Hoping that You'd visit us this hour
+And in one accord we sing praises
+ to You, Lord
+Hoping that You'd visit us this hour.</lines>
+    </verse>
+  </lyrics>
+</song>

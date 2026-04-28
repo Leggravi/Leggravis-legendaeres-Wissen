@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Rise up and Complete the Job</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We've been called to walk where
+no other age has
+Of all dispensations we are the
+last
+The harvest is ripe but the
+labourers are few
+The work that must be done falls
+on me and you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refuse to be compromised by the enemy
+Keep your eyes fixed on the
+prize set before you and me
+There is much work to be done
+so we must
+Rise up and complete the job</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We've been called to be light
+bearers in this age
+Shining forth God's glory, oh
+what a privilege
+By our prophet messenger our
+lamps have been lit
+We're a city on a hill whose glory
+can't be hid</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Each age was given a word to manifest
+There were always believers
+who rose and stood the test
+Now there is a word that's
+allotted to this age
+We've been called to manifest
+the fullness of this message</lines>
+    </verse>
+  </lyrics>
+</song>

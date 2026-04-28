@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Leadeth Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He leadeth me!
+Oh blessed thought!
+Oh words with heav'nly
+  comfort fraught!
+Whate'er I do,
+Where'er I be,
+Still'tis God's hand
+That leadeth me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He leadeth me, He leadeth me,
+By His own hand He leadeth me:
+His faithful follower I would be,
+For by His hand He leadeth me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sometimes'mid scenes
+Of deepest gloom,
+Sometimes where Eden's
+  bowers bloom,
+By waters still,
+O'er troubled sea,
+Still'tis His hand
+That leadeth me!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord, I would clasp
+Thy hand in mine,
+Nor ever murmur nor repine,
+Content, whatever lot I see,
+Since'tis my God
+That leadeth me!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And when my task
+On earth is done,
+When, by Thy grace,
+The victry's won,
+E'en death's cold wave
+I will not flee,
+Since God thro' Jordan
+  leadeth me.</lines>
+    </verse>
+  </lyrics>
+</song>

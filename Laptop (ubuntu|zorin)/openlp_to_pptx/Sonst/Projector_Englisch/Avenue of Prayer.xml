@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Avenue of Prayer</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My dear friend this sinful world is lost and dying,
+Every Christian’s heart is burdened down with care,
+Tell me are you doing all you can for Jesus,
+Are you traveling down the Avenue of Prayer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Keeping faith in your heart and consecrate it,
+Every hour of every day do you prepare?
+Are you ready should your Master call at midnight,
+Are you traveling down the Avenue of Prayer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Are you praying for the ones who know not Jesus,
+As they are being there into the tempter’s snare,
+Could you stand aside and see a losing battle,
+Are you traveling down the Avenue of Prayer.</lines>
+    </verse>
+  </lyrics>
+</song>

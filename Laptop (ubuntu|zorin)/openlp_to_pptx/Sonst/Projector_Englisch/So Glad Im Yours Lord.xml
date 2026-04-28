@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>So Glad I'm Yours, Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>So glad I'm yours, Lord,
+So glad I'm yours.
+So glad your mercy,
+Has followed me.
+So glad you found me,
+And set me free
+So glad I'm yours, Lord,
+So glad I'm yours.</lines>
+    </verse>
+  </lyrics>
+</song>

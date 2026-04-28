@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sing Hallelujah</title>
+    </titles>
+    <authors>
+      <author type="words">Karl Friedrich Jost</author>
+      <author type="music">Karl Friedrich Jost</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing hallelujah to the King of kings,
+Sing hallelu, hallelu.
+Give Him the highest praise,
+Oh, magnify His name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sing hallelujah to the Lord of lords,
+Sing hallelu, hallelu.
+Sing Him the highest praise,
+Sing hallelu, hallelu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will bless the Lord
+With all I have within,
+Forever His praise be in my mouth
+For He has lifted me
+Up to the heavenlies
+With Him, at the Father's side.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will bless the Lord
+With all I have within
+For He has made my heart so blessed;
+I will give Him the highest praise,
+I'll sing hallelu, hallelu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Give Him the highest praise,
+I'll sing hallelu, hallelu.</lines>
+    </verse>
+  </lyrics>
+</song>

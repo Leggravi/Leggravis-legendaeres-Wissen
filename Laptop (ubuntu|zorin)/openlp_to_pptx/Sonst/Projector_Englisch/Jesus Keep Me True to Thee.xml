@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Keep Me True to Thee</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I was bound with chains of sin,
+And I was down cast with sorrows
+and shame;
+There was no-one, Oh not even one,
+To stand by me except Christ who died.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh loving Jesus keep me true to Thee
+And always ready to do Thy will
+To serve Thee till In the grave I’m laid,
+Hallelujah my tongue sings no more.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh loving Jesus we thank you
+Lord,
+For Thy message to this our day,
+For if it were not for your amazing
+grace,
+We don’t know, where we could be
+Dear Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My Lord, my whole life to Thee I
+yield,
+My Lord, my heart for Thee be swift
+My Lord my ways to Thee I resign
+And my lips confess it to the world.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There was no way out, but for Thy death,
+To make me righteous
+before Thee oh Lord,
+To fulfil that wondrous plan of salvation,
+For me that blessed home to see.</lines>
+    </verse>
+  </lyrics>
+</song>

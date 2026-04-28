@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I’m Using My Bible for a Road Map</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’m using my Bible for a road map,
+Ten commandments they tell me what to do,
+The twelve disciples are my road signs;
+And Jesus will see me safely through.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There’ll be no detours in heaven,
+No rough roads along the way,
+I’m using my Bible for a road map,
+My last stop is heaven some sweet day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I’m using my Bible for a road map,
+The children of Israel used it too
+They crossed the Red sea of destruction,
+For God was there to see them through.</lines>
+    </verse>
+  </lyrics>
+</song>

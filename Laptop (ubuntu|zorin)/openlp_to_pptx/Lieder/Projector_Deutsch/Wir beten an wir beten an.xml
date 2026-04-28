@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir beten an, wir beten an</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Franke</author>
+      <author type="music">Martin Franke</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir beten an, wir beten an
+und verherrlichen Deinen heilgen Namen
+und verherrlichen Deinen heiligen Namen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir huldigen Dir, wir huldigen Dir,
+und beugen unsre Knie vor Dir,
+und wir beugen unsre Knie vor Dir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Komm, herrsche Du! Komm, herrsche Du!
+Nimm ein den Thron Jerusalems,
+nimm ein den Thron in dieser Deiner Stadt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wir warten auf Dich! Wir warten auf Dich!
+O komme mit Macht und Herrlichkeit.
+O komme mit Macht und Herrlichkeit.
+Nimm ein den Thron Jerusalems.
+Nimm ein den Thron in dieser Deiner Stadt.
+Wir lieben Dich. Wir lieben Dich.</lines>
+    </verse>
+  </lyrics>
+</song>

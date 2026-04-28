@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Old Time Religion</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's the old-time Holy Spirit,
+And the devil won't go near It,
+That's the reason people fear It;
+But it's good enough for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Give me that old-time religion,
+Give me that old-time religion,
+Give me that old-time religion,
+It's good enough for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It will make you stop your lying;
+It will save you when you're dying;
+It will start the devil flying;
+And It's good enough for me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It's so good I want no other,
+For It makes me love my brother;
+And It brings things from under
+  cover,
+And It's good enough for me.</lines>
+    </verse>
+  </lyrics>
+</song>

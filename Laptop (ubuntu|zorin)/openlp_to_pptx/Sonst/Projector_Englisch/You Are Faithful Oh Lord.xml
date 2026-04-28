@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Are Faithful, Oh, Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You Are faithful, Oh, Lord,
+You Are faithful, Oh, Lord,
+Every day and every hour,
+You are faithful, Oh, Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

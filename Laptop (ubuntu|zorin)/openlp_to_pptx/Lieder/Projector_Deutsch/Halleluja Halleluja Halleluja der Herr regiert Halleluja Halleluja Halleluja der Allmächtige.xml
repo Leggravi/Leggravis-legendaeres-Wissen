@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Halleluja, Halleluja, Halleluja, der Herr regiert! Halleluja, Halleluja, Halleluja, der Allmächtige </title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Halleluja, (3x), Dir dem Lamm 
+Jesus, Deine Liebe macht mich neu, wäscht mich frei von jeder Schuld!
+Wenn ich versage, bleibst Du treu, vergibst mit Gnade und Geduld.
+Halleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

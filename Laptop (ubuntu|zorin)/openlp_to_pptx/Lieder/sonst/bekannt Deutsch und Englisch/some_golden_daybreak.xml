@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 10, 2019, 10:27:27 PM">
+  <properties>
+    <titles>
+      <title>Some Golden Daybreak</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Some glorious morning
+Sorrow will cease,
+Some glorious morning
+All will be peace;
+Heartaches all ended,
+Schooldays all done,
+Heaven will open,
+Jesus will come.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Some golden daybreak,
+Jesus will come;
+Some golden daybreak,
+Battles all won,
+He'll shout the victory,
+Break through the blue,
+Some golden daybreak,
+For me, for you.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Sad hearts will gladden,
+All shall be bright,
+Good-bye forever
+To earth's dark night;
+Changed in a moment,
+Like Him to be,
+Oh, glorious daybreak,
+Jesus I'll see.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Oh, what a meeting,
+There in the skies,
+No tears nor crying
+Shall dim our eyes;
+Loved ones united
+Eternally,
+Oh, what a daybreak
+That morn will be.</lines>
+    </verse>
+  </lyrics>
+</song>

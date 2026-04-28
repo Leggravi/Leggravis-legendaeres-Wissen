@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let the weak say I am strong</title>
+    </titles>
+    <authors>
+      <author type="words">Reuben Morgan</author>
+      <author type="music">Reuben Morgan</author>
+      <author type="translation">Schwachen gibt er neue Kraft</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the weak say, &quot;I am strong&quot;
+Let the poor say, &quot;I am rich&quot;
+Let the blind say, &quot;I can see&quot;
+It's what the lord has done in me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hosanna, hosanna
+To the lamb that was slain
+Hosanna, hosanna
+Jesus died and rose again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Into the river I will wade
+And there my sins are washed away
+From the heavens mercy streams
+Of the savior's love for me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And I will rise from waters deep
+Into the saving arms of god
+And I will sing salvation songs
+Jesus christ has set me free</lines>
+    </verse>
+  </lyrics>
+</song>

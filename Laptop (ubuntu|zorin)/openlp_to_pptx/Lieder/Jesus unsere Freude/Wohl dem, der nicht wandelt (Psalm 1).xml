@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:30">
+  <properties>
+    <titles>
+      <title>Wohl dem, der nicht wandelt (Psalm 1)</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel / Peter Strauch (1984)</author>
+      <author type="music">Peter Strauch</author>
+    </authors>
+    <themes>
+      <theme>Nachfolge</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wohl dem, der nicht wandelt,
+wohl dem, der nicht wandelt
+im Rat der Gottlosen.
+Wohl dem, der nicht wandelt,
+wohl dem, der nicht wandelt
+im Rat der Gottlosen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wohl dem, der da Lust hat,
+wohl dem der da Lust hat
+an dem Gesetz des Herrn.
+Wohl dem, der da Lust hat,
+wohl dem der da Lust hat
+an dem Gesetz des Herrn.</lines>
+    </verse>
+  </lyrics>
+</song>

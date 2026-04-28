@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Jesus is Alive Forevermore</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alive alive alive forevermore
+My Jesus is alive
+Alive forevermore
+Alive alive alive forevermore
+My Jesus is alive</lines>
+    </verse>
+    <verse name="v2">
+      <lines/>
+    </verse>
+    <verse name="v3">
+      <lines>Sing hallelujah, sing hallelujah
+My Jesus is alive forevermore
+Sing hallelujah, sing hallelujah
+My Jesus is alive</lines>
+    </verse>
+  </lyrics>
+</song>

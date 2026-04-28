@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wohlgeruch und Herrlichkeiten</title>
+    </titles>
+    <authors>
+      <author type="words">Jacques Erné</author>
+      <author type="music">Walter Briem</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wohlgeruch und Herrlichkeiten stiegen auf vom Kreuzaltar,
+wo das Lamm in tiefsten Leiden bis zum Tod gehorsam war.
+Zu des Vaters Wohlgefallen gab der Sohn sich willig dar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Auf dem Holz hat Er gegeben – o welch göttlich große Huld –
+ganz sich selbst, sein teures Leben, um zu sühnen Sünd und Schuld.
+Gottes Zorn und Strafe trug Er voll Ergebung und Geduld.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gott, Dich Heil'gen und Gerechten, hat geehrt Dein eigner Sohn,
+und, erhöht zu Deiner Rechten, sitzt Er jetzt auf Deinem Thron,
+bis Du Ihm, dem Sohn des Menschen, Macht und Segnung gibst zum Lohn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gott und Vate, wir erheben Deinen wunderbaren Rat,
+der den Sohn dahinzugeben vor der Zeit beschlossen hat;
+Lob und Dank und Ruhm gebühren Dir, der Ihn verherrlicht hat.</lines>
+    </verse>
+  </lyrics>
+</song>

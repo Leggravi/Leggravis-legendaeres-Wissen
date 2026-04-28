@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O, To Be Like Thee</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, to be like Thee,
+Blessed Redeemer,
+This is my constant
+Longing and prayer;
+Gladly I'll forfeit,
+All of earth's treasures,
+Jesus, Thy perfect
+Likeness to wear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, to be like Thee,
+O, to be like Thee,
+Blessed Redeemer,
+Pure as Thou art;
+Come in Thy sweetness,
+Come in Thy fullness;
+Stamp Thine own image
+Deep on my heart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, to be like Thee,
+Full of compassion,
+Loving, forgiving,
+Tender and kind,
+Helping the helpless,
+Cheering the fainting,
+Seeking the wandering
+Sinner to find.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, to be like Thee,
+Lowly in spirit,
+Holy and harmless,
+Patient and brave;
+Meekly enduring
+Cruel reproaches,
+Willing to suffer,
+Others to save.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O, to be like Thee,
+Lord, I am coming,
+Now to receive
+Th' anointing divine,
+All that I am and have
+I am bringing,
+Lord, from this moment
+All shall be Thine.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O, to be like Thee,
+While I am pleading,
+Pour out Thy Spirit,
+Fill with Thy love,
+Make me a temple
+Meet for Thy dwelling,
+Fit me for life
+And heaven above.</lines>
+    </verse>
+  </lyrics>
+</song>

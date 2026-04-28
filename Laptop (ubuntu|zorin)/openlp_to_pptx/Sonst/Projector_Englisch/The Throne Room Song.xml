@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Throne Room Song</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v6 v7 v3 v5 v6 v6 v6 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus is in this room
+Here right now, here right now
+Making this place I stand
+Holy ground, holy ground
+Your Spirit moves and breathes
+All around, all around
+All good and perfect things
+Flowing down, flowing down</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If all of the heavens are singing along
+With the saints and the elders in glorious song
+And the praises they sing never seem to get old
+Then I'll stay here forever singing</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy, holy, holy Lord
+God Almighty, Lord of all
+You were, You are, and You'll be forever
+The King, enthroned, in glorious splendor
+Holy, holy Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gentle love calling me
+Closer still, closer still
+Jesus, You're guiding me
+To Your will, to Your will</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The veil is torn and the doors fling wide
+I see glory as I run inside
+The throne room, before You, I bow, I bow</lines>
+    </verse>
+    <verse name="v6">
+      <lines>The veil is torn and the doors fling wide
+I see glory as I run inside
+The throne room, before You, I bow</lines>
+    </verse>
+    <verse name="v7">
+      <lines>/: The veil is torn and the doors fling wide
+I see glory as I run inside
+The throne room, before You, I bow
+The veil is torn and the doors fling wide
+I see glory as I run inside
+The throne room, before You, I bow :/</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Holy, holy, holy Lord
+God Almighty, over all
+You were, You are, and You'll be forever
+The King, enthroned, in glorious splendor
+Holy, holy Lord
+Holy, holy, holy Lord</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Holy, holy, holy Lord
+God Almighty, over all
+You were, You are, and You'll be forever
+The King, enthroned, in glorious splendor
+Holy, holy Lord
+Holy, holy, holy Lord
+Holy, holy, holy Lord</lines>
+    </verse>
+  </lyrics>
+</song>

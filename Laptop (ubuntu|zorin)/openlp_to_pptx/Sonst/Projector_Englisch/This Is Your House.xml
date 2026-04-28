@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Is Your House</title>
+    </titles>
+    <authors>
+      <author type="words">Graham Kendrick</author>
+      <author type="music">Graham Kendrick</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As we gather in this place today,
+Holy Spirit, come and have Your way.
+Have Your way!
+As we lay aside our own desires,
+Sweep across our hearts
+ with holy fire.
+Have Your way!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This is Your house, Your home,
+We welcome You.
+Lord, we welcome You.
+This is Your house, Your home,
+We welcome You today.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As we offer up our hearts and lives,
+Let them be a living sacrifice,
+Have Your way!
+Be glorified in everything we do;
+Be glorified in everything we say.
+Have Your way!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>As we pray, Oh Lord, draw near
+It's Your voice, we long to hear.</lines>
+    </verse>
+  </lyrics>
+</song>

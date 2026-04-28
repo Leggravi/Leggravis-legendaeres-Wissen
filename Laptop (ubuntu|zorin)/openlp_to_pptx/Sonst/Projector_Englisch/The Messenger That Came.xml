@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Messenger That Came</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The messenger that came,
+William Branham was his Name;
+God through him He opened
+up the seven seals
+He taught us of the serpent
+seed many more things
+God revealed
+And he said,
+check it out with the Word</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Listen to God and repent,
+And be baptized in The Name
+Of the Lord Jesus Christ
+Ye shall receive the
+Holy Ghost,
+Not many days then
+And His signs shall follow
+thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thank God, thank God, for the
+prophet He sent today
+Or else He had to smite
+the earth with a curse
+Get down on your knees and pray,
+And ask God to lead the way
+Through this prophet
+God showed us the way!</lines>
+    </verse>
+  </lyrics>
+</song>

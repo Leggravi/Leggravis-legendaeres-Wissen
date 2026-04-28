@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Fall Down</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+      <author type="translation">Wir beugen uns</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What can I say
+That You have never heard
+What can I offer You
+And where can I go
+That You have never been
+That You can't lead me through
+Take my hand
+Hear this cry
+Only You can satisfy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fall down on me
+Drop me to my knees
+Pour over me
+I'm deeper than the sea
+Rain on me
+With a love, until I drown
+I need You to fall down</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Well if I had one place
+Just one place to be
+Well, I'd be at Your feet
+And if I had one prayer
+I know that I'dpray
+I'd ask You to fall down on me
+Take my hand
+Hear this cry
+Only You can satisfy</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fall down on me
+Drop me to my knees
+Pour over me
+I'm deeper than the sea
+Rain on me
+With a love, until I drown
+I need you to fall down</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Take my words
+Hear this cry
+Only You can satisfy
+Fall down on me
+Drop me to my knees
+Pour over me
+I'm deeper than the sea
+Rain on me
+With a love, until I drown
+I need you to fall down</lines>
+    </verse>
+  </lyrics>
+</song>

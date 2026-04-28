@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 12, 2019, 8:42:43 PM">
+  <properties>
+    <titles>
+      <title>What A Friend</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>What a Friend we have in Jesus,
+All our sins and griefs to bear!
+What a privilege to carry
+Ev'rything to God in prayer!
+O what peace we often forfeit,
+O what needless pain we bear,
+All because we do not carry
+Ev'rything to God in prayer!</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Have we trials and temptations?
+Is there trouble anywhere?
+We should never be discouraged,
+Take it to the Lord in prayer.
+Can we find a friend so faithful
+Who will all our sorrows share?
+Jesus knows our ev'ry weakness,
+Take it to the Lord in prayer.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Are we weak and heavy laden,
+Cumbered with a load of care?
+Precious Savior, still our refuge,
+Take it to the Lord in prayer.
+Do thy friends despise, forsake thee?
+Take it to the Lord in prayer;
+In His arms He'll take and shield thee,
+Thou wilt find a solace there.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Blessed Savior, Thou hast promised
+Thou wilt all our burdens bear;
+May we ever, Lord, be bringing
+All to Thee in earnest prayer.
+Soon in glory bright, unclouded,
+There will be no need for prayer
+Rapture, praise, and endless worship
+Will be our sweet portion there.</lines>
+    </verse>
+  </lyrics>
+</song>

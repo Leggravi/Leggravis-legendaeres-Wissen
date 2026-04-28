@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heilig ist der Herr, heilig und gerecht</title>
+    </titles>
+    <authors>
+      <author type="words">Horst Wallis</author>
+      <author type="music">Horst Wallis</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heilig ist der Herr, heilig und gerecht ist Er.
+Alle Länder sind erfüllt von seiner Ehre,
+alle Völker preisen laut den Namen des Herrn.
+Und sein Ruhm erschallt durch die Weiten der Himmel.
+Seine Herrlichkeit ist offenbar der ganzen Welt</lines>
+    </verse>
+  </lyrics>
+</song>

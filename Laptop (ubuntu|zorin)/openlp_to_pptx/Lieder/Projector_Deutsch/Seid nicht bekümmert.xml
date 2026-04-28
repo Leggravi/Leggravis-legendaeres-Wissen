@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Seid nicht bekümmert</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Kommunität Gnadenthal</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Seid nicht bekümmert,
+Seid nicht bekümmert,
+Denn die Freude am Herrn ist eure Stärke.
+Seid nicht bekümmert,
+Seid nicht bekümmert,
+Denn die Freude am Herrn ist eure Kraft.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, der auferstandene Herr,
+Ist in eurer Mitte.
+Jesus, der auferstandene Herr,
+Er ist unter euch.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, der auferstandene Herr,
+Führt euch seine Wege.
+Jesus, der auferstandene Herr,
+Geht euch stets voran.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, der auferstandene Herr,
+Sendet seine Engel.
+Jesus, der auferstandene Herr,
+Kämpft und siegt in euch.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wer Gott folgt, riskiert seine Träume</title>
+    </titles>
+    <authors>
+      <author type="words">Theo Lehmann</author>
+      <author type="music">Jörg Swoboda</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wer Gott folgt riskiert seine Träume,
+setzt eigene Pläne aufs Spiel.
+Auch als Verlierer kommt ihr nicht zu kurz.
+Gott bringt euch an sein gutes Ziel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vertraut auf den Herrn für immer,
+denn er ist der ewige Fels.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Auch mit Gott gerät man in Krisen,
+Probleme, die unfassbar sind.
+Trotz aller Zweifel seid dennoch gewiss:
+Er schläft nicht und sorgt für sein Kind.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wo feststeht, dass alles im Fluss ist,
+schwimmt vielen der Glaube mit fort.
+Gott ist unwandelbar, denn er ist Gott.
+Seid sicher: Der Herr hält sein Wort.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Die Mächtigen kommen und gehen,
+und auch jedes Denkmal mal fällt.
+Bleiben wird nur, wer auf Gottes Wort steht,
+dem sichersten Standpunkt der Welt.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Und lehrt eure Kinder das eine,
+dass über Gott keiner mehr steht,
+dass auch der Größte klein beigeben muss,
+wenn Gott kommt und alles vergeht.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Wer stirbt, der wird nicht nur zur Erde.
+Gott ruft ihn zum Jüngsten Gericht.
+Finsternis bleibt für die einen zuletzt,
+die anderen dürfen ins Licht.</lines>
+    </verse>
+  </lyrics>
+</song>

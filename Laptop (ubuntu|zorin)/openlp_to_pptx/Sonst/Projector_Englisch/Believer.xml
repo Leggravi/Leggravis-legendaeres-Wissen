@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Believer</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I dream of tongues of fire
+Resting on Your people,
+I dream of all the miracles to come.
+I hope to see the coming
+Healing of the nations,
+I long to see the prodigals return.
+So many hopes and longings in you
+When will all the dreams come true?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm a believer in Your kindom,
+I am a seeker of the new things,
+I am a dreamer of some old dreams,
+Let them now come!
+(Will you now come?)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I hope to see You come down,
+Rend the mighty heavens,
+And let Your glory cover all the earth;
+to see Your sons and daughters
+Come to know and love You,
+And find a purer passion in the church.
+These are the things my heart will pursue;
+When will all the dreams come true?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>May Your church now reach out,
+Sowing truth and justice,
+Learning to love the poor and help the weak.
+When Your Kingdom's coming
+It will touch the broken,
+Place the lonely in a family.
+So many hopes and longings in You;
+When will all the dreams come true?</lines>
+    </verse>
+  </lyrics>
+</song>

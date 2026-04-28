@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Never look away</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, we come with a psalm of our confession
+Lifting up our prayer to You
+Give us hearts of eager expectation
+That only long to be with You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The saints of God will sing
+The praise of Christ will ring
+As the Bride will turn her gaze
+Oh the saints of God will see
+The returning of our king
+We will never look away</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We rejoice and we stand with holy reverence
+Christ the groom has met His bride
+No more waiting, no more severance
+Now she runs to join His side</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Love makes its way for the procession
+There’ll be a feast and all will taste
+Every tribe, every tongue, every nation
+Every heart will cry Your name</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Turn your eyes upon Jesus
+Look full in His wonderful face
+And the things of earth
+will grow strangely dim
+In the light of His glory and grace</lines>
+    </verse>
+  </lyrics>
+</song>

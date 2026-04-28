@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nimm mein Leben, Jesu, dir übergeb ich's für und für</title>
+    </titles>
+    <authors>
+      <author type="words">Dora Rappard</author>
+      <author type="music">Wolfgang Amadeus Mozart</author>
+      <author type="translation">Take my life, and let it be consecrated</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nimm mein Leben, Jesu,
+dir übergeb' ich's für und für.
+Nimm Besitz von meiner Zeit;
+jede Stund sei dir geweiht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nimm du meine Hände an,
+zeig mir, wie ich dienen kann;
+nimm die Füße, mach sie flink,
+dir zu folgen auf den Wink.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nimm die Stimme, lehre mich
+reden, singen nur für dich;
+nimm, o Herr, die Lippen mein,
+lege deine Worte drein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nimm mein Gold und Silber hin,
+lehr mich tun nach deinem Sinn;
+nimm die Kräfte, den Verstand
+ganz in deine Meisterhand.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nimm, Herr, meinen Willen du,
+dass er still in deinem ruh;
+nimm mein Herz, mach hier es schon
+dir zum Tempel und zum Thron.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nimm du meiner Liebe Füll;
+Jesus, all mein Sehnen still;
+nimm mich selbst und lass mich sein
+ewig, einzig, völlig dein.</lines>
+    </verse>
+  </lyrics>
+</song>

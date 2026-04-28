@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Isn't the Name of Jesus Wonderful</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3 v6 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isn't the name of Jesus wonderful?
+Isn't the name of Jesus wonderful?
+All the world can come to Him
+To have their sins removed.
+Isn't the name of Jesus wonderful?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isn't the name of Jesus beautiful?
+Isn't the name of Jesus beautiful?
+Son of God and one of us.
+Lover of our souls.
+Isn't the name of Jesus beautiful?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eternal king You will reign forever,
+And we will sing the glory of Your name.
+Be lifted high for all the world to see:
+Your name is all they need.
+Your name is all we need.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Isn't the name of Jesus Powerful?
+Isn't the name of Jesus Powerful?
+Chains are broken when it's spoken,
+Every knee must bow.
+Isn't the name of Jesus Powerful?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There is freedom in the name.
+There's healing in the name.
+There is power in the name.
+Salvation in the name.
+There is life in the name.
+There is no other name
+But Jesus!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Isn't the name of Jesus all we need?
+Isn't the name of Jesus all we need?
+He's the way the truth the Life
+The only way to God.
+Isn't the Name oft Jesus all de need?</lines>
+    </verse>
+  </lyrics>
+</song>

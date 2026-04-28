@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:48">
+  <properties>
+    <titles>
+      <title>O Heiliger Geist, o heiliger Gott</title>
+    </titles>
+    <authors>
+      <author type="words">Johannes Niedling (1651)</author>
+      <author type="music">Köln</author>
+    </authors>
+    <ccliNo>4938132</ccliNo>
+    <themes>
+      <theme>Pfingsten</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Heiliger Geist, o heiliger Gott,
+du Tröster wert in aller Not,
+du bist gesandt von's Himmels Thron
+von Gott dem Vater und dem Sohn.
+O Heiliger Geist, o heiliger Gott!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Heiliger Geist, o heiliger Gott,
+gib uns die Lieb zu deinem Wort;
+zünd an in uns der Liebe Flamm,
+danach zu lieben allesamt.
+O Heiliger Geist, o heiliger Gott!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Heiliger Geist, o heiliger Gott,
+mehr' unsern Glauben immerfort;
+an Christus niemand glauben kann,
+es sei denn durch dein Hilf getan.
+O Heiliger Geist, o heiliger Gott!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Heiliger Geist, o heiliger Gott,
+erleucht uns durch dein göttlich Wort;
+lehr uns den Vater kennen schon,
+dazu auch seinen lieben Sohn.
+O Heiliger Geist, o heiliger Gott!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O Heiliger Geist, o heiliger Gott,
+du zeigst den Weg zur Himmelspfort;
+lass uns hier kämpfen ritterlich
+und zu dir dringen seliglich.
+O Heiliger Geist, o heiliger Gott!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O Heiliger Geist, o heiliger Gott,
+verlass uns nicht in Not und Tod.
+Wir sagen dir Lob, Ehr und Dank
+allzeit und unser Leben lang.
+O Heiliger Geist, o heiliger Gott!</lines>
+    </verse>
+  </lyrics>
+</song>

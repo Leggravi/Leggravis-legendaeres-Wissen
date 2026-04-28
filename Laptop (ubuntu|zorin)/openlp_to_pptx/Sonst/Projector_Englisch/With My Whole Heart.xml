@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>With My Whole Heart</title>
+    </titles>
+    <authors>
+      <author type="words">Graham Kendrick</author>
+      <author type="music">Graham Kendrick</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>With my whole heart
+I'm gonna praise You
+With my whole life
+I'm gonna live it for You
+So take my heart
+Every sacred part
+Whole hearted in love with You</lines>
+    </verse>
+  </lyrics>
+</song>

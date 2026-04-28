@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All That Thrills My Soul</title>
+    </titles>
+    <authors>
+      <author type="words">Thoro Harris</author>
+      <author type="music">Thoro Harris</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who can cheer the heart like Jesus,
+By His presence all divine?
+True and Tender, pure and precious,
+Oh how blest to call Him mine!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All that thrills my soul is Jesus;
+He is more than life to me;
+And the fairest of ten thousand,
+In my blessed Lord I see.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Love of Christ so freely given,
+Grace of God beyond degree,
+Mercy higher than the heaven,
+Deeper than the deepest sea.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>What a wonderful redemption!
+Never can a mortal know
+How my sin, tho' red like crimson,
+Can be whiter than the snow.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Every need His hand supplying,
+Every good in Him I see;
+On His strength divine relying,
+He is all in all to me.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>By the crystal flowing river
+With the ransomed I will sing,
+And forever and forever
+Praise and glorify the King.</lines>
+    </verse>
+  </lyrics>
+</song>

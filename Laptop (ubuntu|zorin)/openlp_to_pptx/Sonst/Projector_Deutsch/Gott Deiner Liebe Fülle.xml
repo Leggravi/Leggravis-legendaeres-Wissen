@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gott, Deiner Liebe Fülle</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Elberfeld</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott, Deiner Liebe Fülle
+Macht uns getrost und stille,
+Wie steil der Weg auch ist.
+Will Not uns niederbeugen
+Und sich kein Ausweg zeigen –
+Genug, dass Du die Liebe bist!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir dürfen freudig sagen,
+Dass Du in allen Lagen
+Die Deinen nie vergisst.
+Will uns der Feind betören,
+Durch Zweifel gar uns stören –
+Genug, dass Du die Liebe bist!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dein Lieben ist ohn' gleichen
+Und wird nie von uns weichen,
+Trotz Satans Macht und List.
+Wir dürfen aufwärts schauen
+Und rufen voll Vertrauen:
+Genug, dass Du die Liebe bist!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Free</title>
+    </titles>
+    <authors>
+      <author type="words">Jon Egan</author>
+      <author type="music">Jon Egan</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v6 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It started out when I was just a young kid
+No matter what I did
+I couldn't get enough of it
+I was a broken one, A trigger on a loaded gun
+I could show you my scars
+And how to get some</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've never been one to fight fair on my own
+But this has taken me down, now I can't get home</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I've been a dark horse
+Running for way too long
+Chasing down dreams
+Where I don't belong
+And I could try
+For the rest of my life
+To give up everything
+While I beg to die
+I've been a wild one
+Playing for way too long
+In and outta games where I've never belonged
+So tell me what it means
+Can anybody tell me what it means
+To be Free</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A chain without a lock I don't know how to stop
+Underneath my skin
+A hunger that will never quit
+I've been a broken one a trigger on a loaded gun
+I can show my scars and how to get some</lines>
+    </verse>
+    <verse name="v5">
+      <lines>All I wanted to see was you face to face
+All you wanted from me was the chase</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I'm a dark horse on the coarse on the run
+A dark force chasing me like I'm Forrest Gump
+I'm on the floor but I'm begging for the Lord to come
+I'm in a war for my soul but I ain't got a gun
+I need a cure for the disease that I suffer from
+Who will set me free
+Can I find someone
+Freedom!</lines>
+    </verse>
+  </lyrics>
+</song>

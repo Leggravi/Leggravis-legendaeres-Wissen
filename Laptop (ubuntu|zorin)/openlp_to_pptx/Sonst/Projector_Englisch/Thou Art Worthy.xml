@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thou Art Worthy</title>
+    </titles>
+    <authors>
+      <author type="words">Pauline Michael Mills</author>
+      <author type="music">Pauline Michael Mills</author>
+      <author type="translation">Du bist würdig, du bist würdig</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thou art worthy,
+Thou art worthy
+Thou art worthy Oh Lord.
+To receive glory,
+Glory and honour
+Glory and honour and power.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For Thou hast created,
+Hast all things created
+Thou hast created all things.
+And for Thy pleasure,
+They are created.
+Thou art worthy Oh Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

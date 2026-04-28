@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hymn of Heaven</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Davenport</author>
+      <author type="music">Chris Davenport</author>
+      <author type="translation">Lied des Himmels</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How I long to breathe the air of Heaven
+Where pain is gone and mercy fills the streets
+To look upon the One who bled to save me
+And walk with Him for all eternity</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There will be a day when all will bow before Him
+There will be a day when death will be no more
+Standing face to face with He who died and rose again
+Holy, holy is the Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And every prayer we prayed in desperation
+The songs of faith we sang through doubt and fear
+In the end, we'll see that it was worth it
+When He returns to wipe away our tears</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, there will be a day when all will bow before Him
+There will be a day when death will be no more
+Standing face to face with He who died and rose again
+Holy, holy is the Lord</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And on that day, we join the resurrection
+And stand beside the heroes of the faith
+With one voice, a thousand generations
+Sing, &quot;Worthy is the Lamb who was slain&quot;</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And on that day, we join the resurrection
+And stand beside the heroes of the faith
+With one voice, a thousand generations
+Sing, &quot;Worthy is the Lamb who was slain&quot;
+&quot;Forever He shall reign&quot;</lines>
+    </verse>
+    <verse name="v7">
+      <lines>/: So let it be today we shout the hymn of Heaven
+With angels and the saints, we raise a mighty roar
+Glory to our God who gave us life beyond the grave
+Holy, holy is the Lord :/</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Holy, holy is the Lord
+Holy, holy is the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

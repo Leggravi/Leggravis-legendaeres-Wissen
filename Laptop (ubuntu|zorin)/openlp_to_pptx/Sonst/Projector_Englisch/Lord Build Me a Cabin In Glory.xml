@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord Build Me a Cabin In Glory</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Many years I have been
+looking for a place to
+call a home
+But I have failed here to
+find it so I must travel on;
+I don’t care for a bright
+mansion on earth’s sinking
+sand Lord build me a cabin
+in the corner of glory land.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord build me a cabin In the
+corner of glory land,
+In the shade of the tree of
+life that It may ever stand;
+Where I could hear the angels
+sing and shake Jesus hand
+Lord build me a cabin in the corner of
+glory land.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Blessed Lord I’m not asking
+to live in this earth,
+For I know I’m not worthy
+of the splendour I have seen
+Lord I am asking for mercy
+while on Thee I stand,
+Lord build me a cabin in
+the corner of glory land.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I’ve many dear loved ones
+who’ve gone on that way,
+On that great final morning
+I shall I hear them sing,
+I’ll join in their singing and
+playing in the band,
+Lord build me a cabin in the
+corner of glory land.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Keep Me True</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Keep me true, Lord Jesus, keep me true,
+Keep me true, Lord Jesus, keep me true.
+There's a race that I must run,
+There are victories to be won,
+Give me power, every hour, to be true.</lines>
+    </verse>
+  </lyrics>
+</song>

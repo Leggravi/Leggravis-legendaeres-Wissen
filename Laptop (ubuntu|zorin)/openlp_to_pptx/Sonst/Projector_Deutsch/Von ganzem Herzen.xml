@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Von ganzem Herzen</title>
+    </titles>
+    <authors>
+      <author type="words">Arne Kopfermann</author>
+      <author type="music">Arne Kopfermann</author>
+      <author type="translation">With All My Heart</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Von ganzem Herzen will ich dir danken,
+vor allen Menschen singe ich dir.
+Vor deinem Tempel will ich anbeten.
+Ich will dich preisen, gütiger Herr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich rufe, und du erhörst mich,
+gibst meiner Seele Stärke und Kraft.
+Du siehst mich, wenn ich voll Angst bin,
+hältst meine Hand fest, eh sie erschlafft.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Auch Herrscher sollen dir danken.
+Du willst sie leiten nach deinem Wort.
+Doch Ehre steht dir allein zu.
+Wer sich für groß hält, den schickst du fort.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Geringe willst du erhöhen,
+die Stolzen aber siehst du von fern.
+Herr, ewig ist deine Güte
+Ich will dir danken, dir, meinem Herrn.</lines>
+    </verse>
+  </lyrics>
+</song>

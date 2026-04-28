@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir wollen Deinen Tod verkünden</title>
+    </titles>
+    <authors>
+      <author type="words">Hermann Heinrich Grafe</author>
+      <author type="music">Dmitri Stepanowitsch Bortnjanski</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir wollen deinen Tod verkünden;
+Herr Jesu, lass es recht geschehn!
+Wir wollen statt auf unsre Sünden
+auf dein vollbrachtes Opfer sehn,
+wie du auf ewig uns vollendet,
+uns Gnad und Frieden reich gespendet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Das Brot, das wir zusammen brechen,
+ist die Gemeinschaft, Herr, mit dir.
+Wie kannst du innger zu uns sprechen?
+Was du uns bist, wir sehens hier:
+Du willst mit deinem Leib uns nähren,
+uns deines Lebens Kraft gewähren.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ein Brot ist es, so sind wir
+Viele ein Leib in dir,
+Herr Jesu Christ. Schon sind
+wirs hier, wie einst am Ziele,
+wo du in uns verkläret bist.
+Wie wir von einem Brot empfingen,
+gib Einigkeit in allen Dingen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Der Kelch des Dankes, den wir segnen,
+ist die Gemeinschaft deines Bluts;
+im Glauben wir uns da begegnen
+als Erben jenes selgen Guts,
+das du den Deinen hast erworben,
+da du für sie am Kreuz gestorben.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lass deine Liebe uns regieren
+und durch des Heilgen Geistes Kraft
+in uns das Himmelsfeuer schüren
+zu wahrer, echter Bruderschaft.
+Erbau uns als lebendge Steine
+zu einer heiligen Gemeinde!</lines>
+    </verse>
+  </lyrics>
+</song>

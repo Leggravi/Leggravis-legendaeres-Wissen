@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Psalm 150</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Jo Akepsimas</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise him in the sanctuary
+Praise him with the timbrel and dance
+Praise him with the sound of a trumpet
+Praise him for His mighty acts
+Praise him for His mighty acts</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise him in the mighty heavens
+Praise him for His greatness to us
+Praise him with the clash of the cymbals
+He alone is worthy Praise the Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let everything that hath breath
+Praise him
+Let everything that hath breath
+Praise the Lord
+Let everything that hath breath
+Praise him, Praise the Lord,
+Praise the Lord, Praise the Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let everything that hath breath
+Praise him
+Let everything that hath breath
+Praise the Lord
+Let everything that hath breath
+Praise him, Praise the Lord
+Praise the Lord, Praise the Lord
+Praise the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

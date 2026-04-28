@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Is Good (I Know a Good God)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v4 v5 v6 v7 v8 v2 v6 v7 v8 v9 v10 v11</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know a good God,
+I have a Father,
+He is my daily bread my living water,
+I have a promise He will deliver,
+I'm satisfied I'm satisfied,
+'Cause He is good.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And from the mountain to the valley,
+He is good, On my best days and worst ones,
+He is good, And from glory to glory,
+He is good, Oh taste and see,
+That He is good, I'm satisfied I'm satisfied,
+Cause He is good.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From the mountain to the valley,
+He is good, On my best days and worst ones,
+He is good, And from glory to glory,
+He is good, Oh taste and see
+That He is good,
+I'm satisfied I'm satisfied,
+Cause He is good,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You're sweeter than the honey,
+From the honeycomb,
+Sweeter than the honey,
+From the Honeycomb.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You're sweeter than the honey
+From the honeycomb,
+Sweeter than the honey
+From the Honeycomb,
+Taste and see that He is.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Sweeter than the honey
+From the honeycomb,
+Sweeter than the honey
+From the Honeycomb,
+Taste and see that He is.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jesus is the sweetest name
+I've ever known,
+Jesus is the sweetest name
+I've ever known,
+Taste and see that He is.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Sweeter than the honey
+From the honeycomb,
+Sweeter than the honey
+From the Honeycomb.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Sweeter than the honey
+From the honeycomb,
+Sweeter than the honey
+From the Honeycomb,
+Taste and see.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>He is so good so good
+So good to me.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>My God is so good, so good,
+I'm satisfied I'm satisfied
+Cause He is good.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Is The Day</title>
+    </titles>
+    <authors>
+      <author type="words">Andrew Mitchell</author>
+      <author type="music">Andrew Mitchell</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is the day
+That the Lord has made
+I will rejoice and celebrate
+This is the day
+That the Lord has made
+I will rejoice
+I will rejoice and celebrate</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He goes before me
+He walks beside me
+He lives within me
+He's the lover of my soul
+He's my defender
+He's my provider
+His overflowing mercies
+Are brand new every day</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will rejoice
+I will rejoice and celebrate
+I will rejoice
+I will rejoice
+I will rejoice
+Rejoice and celebrate</lines>
+    </verse>
+  </lyrics>
+</song>

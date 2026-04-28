@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>If Not for Grace</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Where would I be You only know
+I'm Glad You see through eyes of love
+A hopeless case, an empty place
+If not for Grace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I thank you for the things I can not see
+You've been a shelter in the stars of life
+A shield surrounding me
+And I thank you for the mercy you've provided
+And though you could have walked away
+But you stayed a thousand times</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amazing grace how sweet the sound
+I once was lost but now I'm found
+A hopeless case, an empty place
+If not for Grace</lines>
+    </verse>
+  </lyrics>
+</song>

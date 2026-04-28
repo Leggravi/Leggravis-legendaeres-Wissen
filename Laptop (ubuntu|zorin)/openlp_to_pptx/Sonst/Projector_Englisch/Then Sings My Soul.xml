@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Then Sings My Soul</title>
+    </titles>
+    <authors>
+      <author type="words">Joel Houston</author>
+      <author type="music">Joel Houston</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Then sings my soul,
+My Savior God to thee
+How great thou art
+How great thou art
+Then sings my soul,
+My Savior God to thee
+How great thou art
+How great thou art</lines>
+    </verse>
+  </lyrics>
+</song>

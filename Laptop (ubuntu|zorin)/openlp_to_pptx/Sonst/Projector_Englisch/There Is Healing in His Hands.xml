@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There Is Healing in His Hands</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yesterday it seemed so clear
+The way your life should be,
+But somehow things didn't come around
+Confusion leaves you in defeat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But, friend, it's time to find a new day
+There's healing for your needs
+And in Jesus' name I know you can receive</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For there is healing in His hands for you
+Reach out and know there's healing power flowing
+Bring all your broken pieces to
+The One whose love can make you new
+There's healing in His hands for you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The promises in God's word
+Are for comfort and for peace
+For all the hurting in your heart
+You can find relief</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, the joy of knowing Christ, the Savior
+Is more than life to me
+And in Jesus' name I know you can receive</lines>
+    </verse>
+    <verse name="v6">
+      <lines>For there is healing in His hands for you
+Reach out and know there's healing power flowing
+Bring all your broken pieces to
+The One whose love can make you new
+There's healing in His hands
+(Oh, there's healing in His hands)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>For there is healing in His hands for you
+Reach out and know there's healing power flowing,
+Bring all your broken pieces to
+The One whose love can make you new</lines>
+    </verse>
+    <verse name="v8">
+      <lines>There's healing in His hands
+(Oh, there's healing in His hands)
+Healing in His hands for you,
+For you.</lines>
+    </verse>
+  </lyrics>
+</song>

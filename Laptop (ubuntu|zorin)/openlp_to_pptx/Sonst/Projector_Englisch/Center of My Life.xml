@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Center of My Life</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let my walk speak loud
+And my words be true
+Let my life be whole and my eyes on You
+Lord I'm stepping out, from the comfort zone
+Letting go of me, holding on to You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Freedom comes, when I call You Lord
+You are Lord, my God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are the Centre of it all
+The universe declares in awe
+Your Majesty, I surrender all
+I make You the Centre of my life
+Lord I respond with all I am
+You placed in me the song
+Of Heaven's melody
+Your Majesty, I live to sing Your song</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I have found Your peace
+It replaces any fear
+You have done it all, I can trust in You
+Lord I'm stepping out, from the comfort zone
+Letting go of me, holding on to You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>This is Your song, not mine
+It is Your song, that brings healing to this land
+This is Your song, not mine
+It is Your song, that brings freedom</lines>
+    </verse>
+  </lyrics>
+</song>

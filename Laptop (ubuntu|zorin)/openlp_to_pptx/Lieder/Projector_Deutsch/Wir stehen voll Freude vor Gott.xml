@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir stehen voll Freude vor Gott</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir stehen voll Freude vor Gott,
+Denn die Freund am Herrn gibt uns kraft,
+Und wir stehn und beten ihn an.
+Wie groß, wie mächtig ist er.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Und, wir singen es laut
+Wir singen es laut
+Heilig ist der Herr und allmächtig.
+Die welt ist voll seiner Herrlichkeit.
+Heilig ist der Herr und allmächtig.
+Die Welt ist voll seiner Herrlichkeit.
+Die Welt ist voll seiner Herrlichkeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und ein Lied erschallt überall
+eine Hymne auf den Herrn der Herrn.</lines>
+    </verse>
+  </lyrics>
+</song>

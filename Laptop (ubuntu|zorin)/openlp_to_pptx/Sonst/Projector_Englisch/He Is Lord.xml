@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Is Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Marvin Virgil Frey</author>
+      <author type="translation">Er ist Herr (Von den Toten auferstanden ist der Herr)</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He is Lord, He is Lord,
+He has risen from the dead
+And He is Lord,
+Every knee shall bow,
+Every tongue confess,
+That Jesus Christ is Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He's my Lord, He's my Lord,
+He has risen from the dead
+And He's my Lord,
+Every knee shall bow,
+Every tongue confess,
+That Jesus Christ is Lord</lines>
+    </verse>
+  </lyrics>
+</song>

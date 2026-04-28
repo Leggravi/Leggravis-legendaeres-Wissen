@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Psalms 23</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, my shepherd and only provider
+He makes me lie down in green pastures
+He leads me besides the still waters
+He restore my soul</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Surely goodness and mercy will follow
+Me all the days of my life
+And I will dwell in is house forever
+till the end of time</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, my shepherd and only provider
+He makes me lie down in green pastures
+He leads me besides the still waters
+He restore my soul</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Though I walk through the valley
+of shadows I will not be afraid
+Your rod and staff are my only comfort
+And you'll be with me always</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You prepare a table before me in the
+Presence of my enemies
+And you anoint my head with oil
+And my cup overflows
+My cup overflows with your love
+With you love</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesus, my shepherd and only provider
+He makes me lie down in green pastures
+He leads me besides the still waters
+He restore my soul</lines>
+    </verse>
+  </lyrics>
+</song>

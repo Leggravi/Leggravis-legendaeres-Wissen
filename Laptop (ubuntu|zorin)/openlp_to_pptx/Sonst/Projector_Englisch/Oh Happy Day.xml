@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh Happy Day</title>
+    </titles>
+    <authors>
+      <author type="words">Spiritual</author>
+      <author type="music">Edwin Hawkins Singers</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh happy day, oh happy day
+When Jesus washed, when Jesus washed,
+When Jesus washed, washed my sins away
+He taught me how to watch and pray
+And live rejoicing everyday</lines>
+    </verse>
+  </lyrics>
+</song>

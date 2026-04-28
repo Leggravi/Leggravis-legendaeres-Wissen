@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 10, 2019, 10:18:36 PM">
+  <properties>
+    <titles>
+      <title>I Feel Like Traveling On</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>My heavenly home
+Is bright and fair,
+I feel like traveling on,
+No pain, nor death
+Can enter there,
+I feel like traveling on.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Yes, I feel like traveling on,
+I feel like traveling on;
+My heavenly home
+Is bright and fair,
+I feel like traveling on.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Its glittering towers
+  the sun outshine,
+I feel like traveling on;
+That heavenly mansion
+  shall be mine,
+I feel like traveling on.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Let others seek a home below,
+I feel like traveling on;
+Which flames devour,
+Or waves o'er flow,
+I feel like traveling on.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>The Lord has been so
+  good to me,
+I feel like traveling on;
+Until that blessed home I see,
+I feel like traveling on.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh Glory of His Presence</title>
+    </titles>
+    <authors>
+      <author type="words">Steven Fry</author>
+      <author type="music">Steven Fry</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, All Glorious
+Prepare in us Your temple
+We're called as living stones
+Where You're enthroned</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And as You rose from death in power
+So rise within our worship
+Rise upon our praise
+And let the hands that saw You raised
+Clothe us in Your glory
+And draw us by Your grace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh the glory
+Of Your Presence
+We Your temple
+Give You reverence</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So arise to Your rest
+And be blessed by our praise
+And as we glory in Your embrace
+And as Your presence
+Now fills this place</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When the Stars Burn Down</title>
+    </titles>
+    <authors>
+      <author type="words">Jonathan Lee</author>
+      <author type="music">Jonathan Lee</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the stars burn down
+And the earth wears out
+And we stand before the throne,
+With the witnesses who have gone before,
+We will rise and all applaud.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: Singing, &quot;Blessing and honor and glory and power forever to our God.&quot; :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the hands of time wind fully down
+And the earth is rolled up like a scroll,
+The trumpets will call and the world will fall to its knees as we go home.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: Singing, &quot;Blessing and honor and glory and power forever to our God.&quot; :/ x4</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/: Star of the morning, light of salvation, majesty
+God of all mysteries, lord of the universe, righteous king :/</lines>
+    </verse>
+    <verse name="v6">
+      <lines>There will come a day, standing face to face, in a moment we'll be like Him.
+He will wipe our eyes dry and take us up to His side
+And forever we will be His.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>/: Singing, &quot;Blessing and honor and glory and power forever to our God.&quot; :/ x6</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Forever to our God</lines>
+    </verse>
+  </lyrics>
+</song>

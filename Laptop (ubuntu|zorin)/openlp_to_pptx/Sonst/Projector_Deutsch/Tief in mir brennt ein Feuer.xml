@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Tief in mir brennt ein Feuer</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Jacobi</author>
+      <author type="music">Lothar Kosse</author>
+      <author type="translation">I Wanna Be With You (In my soul there's a holy fire)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tief in mir brennt ein Feuer,
+Eine Sehnsucht nach mehr.
+Doch so vieles,
+Was ich bisher versuchte,
+ließ mich hinterher leer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du sagst: Jeder, der Durst hat,
+Der komme herzu.
+Ich bin hungrig,
+Ich bin durstig nach Liebe,
+Was ich brauche, bist DU.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh Herr, bitte hör mein Schrein,
+Ich will Dir ganz nahe sein.
+Oh Herr, Du bist gnädig und gut.
+Nimm das, was mich von Dir trennt, und wasch mich rein mit Deinem Blut.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hilf mir, für Dich zu leben,
+Deinen Willen zu tun,
+Und bei allem,
+Was ich wünsche und träume,
+Völlig in Dir zu ruhn.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Herr, ich möchte Dich lieben,
+Ganz egal, wie's mir geht.
+Du alleine bist der Eine,
+Der mich kennt
+Und mich versteht.</lines>
+    </verse>
+  </lyrics>
+</song>

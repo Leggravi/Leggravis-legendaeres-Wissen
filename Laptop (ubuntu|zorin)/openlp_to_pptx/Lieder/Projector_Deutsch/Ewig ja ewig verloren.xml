@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ewig, ja ewig verloren</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Jacob Hoff</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ewig, ja ewig verloren war die Welt!
+Sieh, da kam Jesus, der große Siegesheld,
+der große Siegesheld!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Halleluja, Halleluja, Halleluja,
+Halleluja, Halleluja, Halleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Er starb für mich, auch für dich in dieser Welt.
+Sieh, das tat Jesus, der große Siegesheld,
+der große Siegesheld!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jetzt bin ich selig hier und in jener Welt.
+Sieh, das tat Jesus, der große Siegesheld,
+der große Siegesheld!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bald wird erscheinen der große Tag der Welt,
+Sieh, dann kommt Jesus, der große Siegesheld,
+der große Siegesheld!</lines>
+    </verse>
+  </lyrics>
+</song>

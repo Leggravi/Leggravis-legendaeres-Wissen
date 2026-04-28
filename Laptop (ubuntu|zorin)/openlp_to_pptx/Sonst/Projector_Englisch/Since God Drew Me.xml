@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Since God Drew Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Like the Prodigal Son, In sin I wondered,
+Far away from my fathers Home
+Often though I thought that I had the answer,
+Success in Life was my core,
+But the further I longed, More sorrow I beheld,
+Till I came to the end of my road.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Since God drew me, I find Joy
+Everlasting Joy in my Soul.
+Since God drew me, I have peace
+Resting dip within my Soul.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Like Joshua and Caleb,
+I want to go through, till I reach that Promised Land.
+And I know each day,
+He will help me overcome by his amazing grace
+By faith I see victory ahead,
+Praise God Hallelujah! Am shouting Victory.</lines>
+    </verse>
+  </lyrics>
+</song>

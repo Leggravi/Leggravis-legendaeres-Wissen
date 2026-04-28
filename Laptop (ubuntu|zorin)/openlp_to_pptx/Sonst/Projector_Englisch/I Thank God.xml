@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Thank God</title>
+    </titles>
+    <authors>
+      <author type="words">Tom Lane</author>
+      <author type="music">Tom Lane</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I Thank God for His love
+I Thank God for His peace
+I Thank God for His grace
+And for all the joys He brings</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I Thank God for his strength
+I Thank God for all his power
+I Thank God for His truth,
+His mercy sees me through</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I Thank God for my life
+I Thank God for my home
+I Thank God for my friends,
+And that I am not alone</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I Thank God for this world
+I Thank God for the sky
+I Thank God for the stars,
+in heaven above</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I Thank God for His plan
+I Thank God for His way
+I Thank God for His hand,
+that leads me through each day</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I Thank God for my trust
+I Thank God for my hope
+I Thank God for my faith,
+My heart for Him</lines>
+    </verse>
+    <verse name="v7">
+      <lines>He'll always be here
+Here in my heart
+Always inside
+Always here</lines>
+    </verse>
+    <verse name="v8">
+      <lines>I Thank God for His love
+I Thank God for His peace
+I Thank God for His grace,
+and for all the joys He brings
+I Thank God for his strength
+I Thank God for all his power
+I Thank God for His son,
+for all He's done</lines>
+    </verse>
+    <verse name="v9">
+      <lines>He has a home
+A place for me
+In heaven above</lines>
+    </verse>
+  </lyrics>
+</song>

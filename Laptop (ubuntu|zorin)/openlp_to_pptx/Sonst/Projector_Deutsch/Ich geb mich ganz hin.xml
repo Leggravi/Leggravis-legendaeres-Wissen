@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich geb mich ganz hin</title>
+    </titles>
+    <authors>
+      <author type="words">Rita Dahlmann</author>
+      <author type="music">Matt Redman</author>
+      <author type="translation">I will offer up my life (This thankful heart)</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hier bin ich, einmal mehr.
+Ich geb mich ganz hin, denn ich weiß, dass du jeden Schrei hörst.
+Du bist da für mich, egal
+wie's mir geht und was mich bewegt.
+Du gibst Antwort, wenn ich rufe.
+Deine Worte sind wahr, deine Hoffnung real,
+und ich weiß deine Nähe,
+sie macht mich ganz frei von dem, was mich hält.
+Ich sehne mich nach dir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich geb mich ganz hin und sage: &quot;Ich liebe dich.&quot;
+Ich geb mich ganz hin und sage: &quot;Ich brauch dich.&quot;
+Ich geb mich ganz hin und sage: &quot;Ich bin dankbar.&quot;
+Ich geb mich ganz hin, denn du bist wunderbar.</lines>
+    </verse>
+  </lyrics>
+</song>

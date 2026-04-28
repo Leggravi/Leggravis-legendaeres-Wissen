@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:52">
+  <properties>
+    <titles>
+      <title>Gott Lob, der Sonntag kommt herbei</title>
+    </titles>
+    <authors>
+      <author type="words">Johannes Olearius (1671)</author>
+      <author type="music">Erschienen ist der herrlich Tag</author>
+    </authors>
+    <ccliNo>5220973</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gottlob, der Sonntag kommt herbei,
+die Woche wird nun wieder neu.
+Heut hat mein Gott das Licht gemacht,
+mein Heil hat mir das Leben bracht.
+Halleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Das ist der Tag, da Jesus Christ
+vom Tod für mich erstanden ist
+und schenkt mir die Gerechtigkeit,
+Trost, Leben, Heil und Seligkeit.
+Halleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Das ist der rechte Sonnentag,
+da man sich nicht g'nug freuen mag,
+da wir mit Gott versöhnet sind,
+dass nun ein Christ heißt Gottes Kind.
+Halleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mein Gott, lass mir dein Lebenswort,
+führ mich zur Himmelsehrenpfort,
+lass mich hier leben heiliglich
+und dir lobsingen ewiglich.
+Halleluja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ehr sei dem Vater und dem Sohn,
+dem Heilgen Geist in einem Thron.
+Der Heiligen Dreieinigkeit
+sei Lob und Preis in Ewigkeit.
+Halleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

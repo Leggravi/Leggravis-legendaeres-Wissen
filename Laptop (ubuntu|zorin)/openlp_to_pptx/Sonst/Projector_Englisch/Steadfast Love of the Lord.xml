@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Steadfast Love of the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Edith McNeill</author>
+      <author type="music">Edith McNeill</author>
+      <author type="translation">Die Güte des Herrn hat kein Ende</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The steadfast love of the Lord
+Never ceases
+His mercies they never
+Come to an end</lines>
+    </verse>
+    <verse name="v2">
+      <lines>They are new every morning
+They are new every day
+They are new every morning
+Great is thy faithfulness
+Oh Lord Oh Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Great is the Lord
+And worthy to be praised
+Now and evermore
+I will bless His holy name</lines>
+    </verse>
+  </lyrics>
+</song>

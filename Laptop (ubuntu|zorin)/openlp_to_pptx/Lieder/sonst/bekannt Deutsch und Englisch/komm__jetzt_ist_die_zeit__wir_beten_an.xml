@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 3, 2018, 7:19:30 PM">
+  <properties>
+    <titles>
+      <title>Komm, jetzt ist die Zeit, wir beten an</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Komm, jetzt ist die Zeit, wir beten an.
+Komm, jetzt ist die Zeit, gib Ihm dein Herz.
+Komm, so wie du bist und bete an.
+Komm, so wie du bist vor Deinen Gott.
+Komm.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Jede Zunge wird Dich bekennen als Gott.
+Jeder wird sich beugen vor Dir.
+Doch der größte Schatz bleibt für die bestehn,
+die jetzt schon mit Dir gehn.</lines>
+    </verse>
+  </lyrics>
+</song>

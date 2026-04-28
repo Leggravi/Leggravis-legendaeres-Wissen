@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Good feeling </title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You're the feeling
+I cannot deny
+You're the fire that
+makes me come alive
+It's a love that I can't hide
+It's burning deep inside
+Wherever I go, wherever I go</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've got that good feeling
+Kicking me out of my chair
+Dancing like I don't care
+I've got that good feeling
+Shouting it out 'cause
+I can't contain it</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I got to tell somebody,
+Gotta tell somebody
+Gotta tell, gotta tell somebody
+Gotta tell somebody
+I got to tell somebody</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You're the sun that's
+lighting up the sky, 
+You're the thunder
+waking up the night,
+The sound of living truth
+Is the beat that makes me move Wherever I go, wherever I go</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Scream it from the rooftops,
+I won't stop, I won't stop,
+Sing it 'til the beat drops
+I won't stop 'til the beat drops</lines>
+    </verse>
+  </lyrics>
+</song>

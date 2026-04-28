@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Love Found A Way</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wonderful love that rescued me,
+sunk deep in sin,
+Guilty and vile as I could be, no hope within;
+When every ray of light had fled,
+O glorious day!
+Raising my soul from out the dead,
+love found a way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Love found a way, to redeem my soul,
+Love found a way, that could make me whole.
+Love sent my Lord to the cross of shame,
+Love found a way, O praise His holy Name!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Love brought my Savior
+here to die on Calvary,
+For such a sinful wretch as I,
+how can it be?
+Love bridged the gulf ’twixt me
+and Heav’n, taught me to pray,
+I am redeemed, set free,
+forgiv’n, love found a way.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Love opened wide the gates
+of light to Heav’n’s domain,
+Where in eternal power
+and might Jesus shall reign.
+Love lifted me from depths
+of woe to endless day,
+There was no help in earth below;
+love found a way.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Es ist vollbracht, das große Werk, das schwere</title>
+    </titles>
+    <authors>
+      <author type="words">Georg Erné</author>
+      <author type="music">Walter Brockhaus</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es ist vollbracht,
+das große Werk, das schwere.
+Gott ist gerecht, Ihm ward nun Seine Ehre
+durch Seinen Sohn, der laut verkündet hat;
+&quot;Es ist vollbracht!&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Es ist vollbracht!
+Was Gottes Liebe wollte,
+was für den Sünder, den verlornen, sollte
+zur Rettung und zum ew'gen Heile sein,
+das ist vollbracht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>&quot;Es ist vollbracht!&quot;,
+durchtönt's die Ewigkeiten
+zu Gottes Lob, zu der Erlösten Freuden;
+sie danken Gott, sie beten Jesus an,
+dass Er's vollbracht.</lines>
+    </verse>
+  </lyrics>
+</song>

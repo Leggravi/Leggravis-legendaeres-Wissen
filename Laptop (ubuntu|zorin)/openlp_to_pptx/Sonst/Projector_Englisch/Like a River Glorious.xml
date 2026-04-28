@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Like a River, Glorious</title>
+    </titles>
+    <authors>
+      <author type="words">Frances Ridley Havergal</author>
+      <author type="music">James Mountain</author>
+      <author type="translation">Wie ein Strom von oben</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Like a river, glorious
+Is God's perfect peace,
+Over all victorious
+In its bright increase;
+Perfect, yet it floweth
+Fuller every day,
+Perfect, yet it groweth
+Deeper all the way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Stayed upon Christ Jesus,
+Hearts are fully blest;
+Finding, as He promised,
+Perfect peace and rest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hidden in the hollow
+Of His blessed hand,
+Never foe can follow,
+Never traitor stand;
+Not a surge of worry,
+Not a shade of care,
+Not a blast of hurry
+Touch the spirit there.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Every joy or trial
+Falleth from above,
+Traced upon our dial
+By the Sun of Love.
+We may trust Him fully
+All for us to do;
+They who trust Him wholly
+Find Him wholly true.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Every joy or trial
+Falleth from above,
+Traced upon our dial
+By the Sun of Love.
+We may trust Him fully
+All for us to do;
+They who trust Him wholly
+Find Him wholly true.</lines>
+    </verse>
+  </lyrics>
+</song>

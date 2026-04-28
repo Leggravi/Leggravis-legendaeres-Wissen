@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He's The Only Reason I live</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've been blessed
+with many things,
+God's been good to me;
+I have family and friends
+Who share in all I do;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But if I lose it all,
+and I am left with nothing,
+If I have the Lord
+I know I'll make it through.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He's the only reason I live
+But oh, what a reason;
+He's the only reason I live
+But oh, what a reason;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You see there's nothing
+in this world
+Worth living for,
+It only leaves you empty
+and longing for more;
+Oh, He's the only reason I live,
+But, oh, what a reason.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You may have tried
+a whole lot of things
+To find real happiness;
+But if you look very long,
+then you'll know
+That it just cannot be found;</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Until you find the Lord
+and you know
+The power of His Spirit;
+He'll be your reason to live
+and He'll never, (never, never)
+Let you down.</lines>
+    </verse>
+  </lyrics>
+</song>

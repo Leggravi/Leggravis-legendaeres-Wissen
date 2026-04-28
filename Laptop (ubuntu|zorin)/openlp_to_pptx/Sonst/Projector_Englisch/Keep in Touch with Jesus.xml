@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Keep in Touch with Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Would you be a victor
+over every foe,
+Conquer every trial
+in this world below;
+Overcome temptations
+that each day you meet?
+Keep in touch with Jesus;
+He will keep you sweet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Keep in touch with Jesus,
+tho’ the path be dim;
+Let no cloud nor shadow
+sever you from Him.
+Joy or sorrow greet you,
+friend or foe you meet,
+Keep in touch with Jesus;
+He will keep you sweet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Many hearts are broken
+oft an aching breast
+Waits the message spoken
+that will give it rest;
+You perhaps can bring them
+joy and peace complete,
+Keep in touch with Jesus;
+He will keep you sweet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Would you be a blessing
+all along the way;
+Would you be possessing
+perfect love each day?
+Let the Holy Spirit overcome defeat;
+Keep in touch with Jesus;
+He will keep you sweet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Would you have communion
+with your Lord each day,
+Have a blessèd union
+with Him all the way;
+Praying without ceasing,
+learning at His feet?
+Keep in touch with Jesus;
+He will keep you sweet.</lines>
+    </verse>
+  </lyrics>
+</song>

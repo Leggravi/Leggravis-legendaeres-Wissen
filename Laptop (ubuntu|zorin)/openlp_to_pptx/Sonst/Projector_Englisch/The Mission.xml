@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Mission</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a call going out
+Across the land in every nation
+A call to those who swear allegiance to the cross of Christ
+A call to true humility, to live our live responsibly
+To deepen our devotion to the cross at any price</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let us then be sober, moving only in the Spirit
+As aliens and strangers in a hostile foreign land
+The message we're proclaiming is repentance and forgiveness
+The offer of salvation to a dying race of man</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To love the Lord our God
+Is the heartbeat of our mission
+The spring from which our service overflows
+Across the street
+Or around the world
+The mission's still the same
+Proclaim and live the Truth
+In Jesus' name</lines>
+    </verse>
+    <verse name="v4">
+      <lines>As a candle is consumed by the passion of the flame
+Spilling light unsparingly throughout a darkened room
+Let us burn to know Him deeper
+Then our service flaming bright
+Will radiate his passions
+And blaze with holy light</lines>
+    </verse>
+    <verse name="v5">
+      <lines>To love the Lord our God
+Is the heartbeat of our mission
+The spring from which our service overflows
+Across the street
+Or around the world
+The mission's still the same…
+Proclaim and live the Truth
+In Jesus' name</lines>
+    </verse>
+  </lyrics>
+</song>

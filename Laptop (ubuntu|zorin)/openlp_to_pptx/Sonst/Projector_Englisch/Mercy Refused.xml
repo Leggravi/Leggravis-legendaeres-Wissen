@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mercy Refused</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Justice demanded satisfaction
+The law had been broken again and again
+Judgment required immediate action
+Death wanted payment for sin</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mercy refused and love took my place
+There on the cross where justice met grace
+Mercy refused to let me die
+Jesus the Lamb was crucified
+Though rightfully death wanted me
+Mercy refused</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Christ has become my righteousness
+The Lord is my peace and my freedom from sin
+Now I am clothed in His holiness
+To a new life I entered in when</lines>
+    </verse>
+    <verse name="v4">
+      <lines>As high as the heavens are over the earth
+So great is His mercy to us (His mercy endure)
+As far as the east is from the west
+That's show far He's removed our transgressions
+From us</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He could have called 10 thousand angels.
+But Jesus took my place
+Mercy refused….</lines>
+    </verse>
+  </lyrics>
+</song>

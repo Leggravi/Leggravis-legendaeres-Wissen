@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Song</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will give praise to You
+Exalt Your holy name
+For You have done great things
+I know You never change
+Your glorious presence
+is all my spirit ever needs
+Let all the world depart
+Just stay close to me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Lord, my God
+Won't You look into my open heart
+I can never ever hide from You
+You know me so well
+You know my life
+Take all of me
+I commit my very soul to You
+And may everything I say and do
+Glorify Your name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I am by myself
+I long to worship You
+You know my heart's desire
+To know Your perfect will
+Lord, let me lift Your name
+Not only with the song I sing
+but with the very life
+I received from You</lines>
+    </verse>
+  </lyrics>
+</song>

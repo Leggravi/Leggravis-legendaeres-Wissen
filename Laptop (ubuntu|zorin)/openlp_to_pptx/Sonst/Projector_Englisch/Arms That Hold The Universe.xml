@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Arms That Hold The Universe</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know it seems
+Like this could be
+The darkest day you've known
+But believe you me
+The God of strength
+Will never let you go
+He will overcome, I know</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And the arms that hold the universe
+Are holding you tonight
+You can rest inside
+It's gonna be alright
+And the voice that calmed the raging sea
+Is calling you His child
+So be still and know He's in control
+He will never let you go</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Through many dangers, toils and snares
+You have already come
+His grace has brought you safe this far
+(And) His grace will lead you home</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You can hope, you can rise, you can stand
+He's still got the whole world in His hands
+You can hope, you can rise, you can stand
+He's still got the whole world, the whole world in His hands</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He's still got the whole world in His hands
+In his hands, yeah
+He's still got the whole world in His hands</lines>
+    </verse>
+  </lyrics>
+</song>

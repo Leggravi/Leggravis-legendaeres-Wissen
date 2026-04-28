@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>For the Glory of Your Name</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God you keep us without failing
+As you watch us from above
+In our comings and our goings
+Sheltered by your precious love
+In the pouring rain of mercy
+Comes the grace by which we're saved
+For the glory of your name
+For the glory of your name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You have touched our lives forever
+Can we be the same again
+May our hearts be ever faithful
+Ever faithful as a friend
+Let us live that we may serve you
+Overflowing with your praise
+For the glory of your name
+For the glory of your name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We behold the man of sorrows
+Hanging there upon a cross
+Where we wounded one so holy
+Yet these wounds are life to us
+For the blood you shed was perfect
+And your finished work remains
+For the glory of your name
+For the glory of your name</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now we life our eyes to heaven
+See you seated on the throne
+Still rejoicing in your promise
+This is where our hope is found
+For we know that you are coming
+Every tongue will sing your fame
+For the glory of your name
+For the glory of your name</lines>
+    </verse>
+  </lyrics>
+</song>

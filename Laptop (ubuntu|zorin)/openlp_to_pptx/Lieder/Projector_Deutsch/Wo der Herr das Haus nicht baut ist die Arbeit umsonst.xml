@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wo der Herr das Haus nicht baut, ist die Arbeit umsonst</title>
+    </titles>
+    <authors>
+      <author type="words">Bene Müller</author>
+      <author type="music">Bene Müller</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wo der Herr das Haus nicht baut, ist die Arbeit umsonst.
+Wo der Herr nicht die Stadt bewacht, wacht der Wächter umsonst.
+Bau Dein Haus in unsrer Mitte, wache Du über der Stadt!
+Ohne Dich sind wir hilflos, darum schreien wir zu Dir:
+® Wir brauchen deine Hilfe, Herr , uns sind die Lasten viel zu schwer!
+Schenk uns Deine Gegenwart und erfülle uns,
+schreib uns deinen Willen heute ins Herz!</lines>
+    </verse>
+  </lyrics>
+</song>

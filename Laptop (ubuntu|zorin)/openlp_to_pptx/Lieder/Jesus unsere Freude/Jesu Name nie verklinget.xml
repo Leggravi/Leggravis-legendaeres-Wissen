@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:30">
+  <properties>
+    <titles>
+      <title>Jesu Name nie verklinget</title>
+    </titles>
+    <authors>
+      <author type="words">Sidney Carvosso Gauntlett (1947)</author>
+      <author type="music">Zululied</author>
+    </authors>
+    <ccliNo>7135534</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesu Name nie verklinget, ewiglich bleibt er bestehn.
+Jesu Name Ruhe bringet, Fried und Freude wunderschön.
+Allen Menschen gilt sein Segen, allen, die in Sündennot.
+Er ruft sie von bösen Wegen, führt die Seele hin zu Gott.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesu Name soll erstrahlen weithin über Land und Meer.
+Trost und Hoffnung gibt er allen; rühmt ihn laut zu seiner Ehr'!
+Vor dem Namen Jesu schwindet alles, was den Herrn betrübt.
+Sünd' und Unrecht überwindet, wer den Namen Jesu liebt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesu Name leuchtet helle, und sein Glanz vergehet nicht.
+Jesu Name bringt der Seele selbst in tiefster Nacht ein Licht.
+Mag auch einst die Welt versinken, mag vergeh'n der Sonne Schein:
+Jesu Nam' wird weiterklingen, unvergänglich wird er sein.</lines>
+    </verse>
+  </lyrics>
+</song>

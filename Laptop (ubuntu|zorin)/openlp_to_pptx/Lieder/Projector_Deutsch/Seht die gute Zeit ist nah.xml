@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Seht, die gute Zeit ist nah</title>
+    </titles>
+    <authors>
+      <author type="words">Friedrich Walz</author>
+      <author type="music">Tschechien</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Seht, die gute Zeit ist nah, Gott kommt auf die
+Erde, kommt und ist für alle da, kommt, dass
+Friede werde, kommt, dass Friede werde.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hirt und König, Groß und Klein, Kranke und Gesunde,
+Arme, Reiche lädt er ein, freut euch
+auf die Stunde, freut euch auf die Stunde. Halleluja. Halleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

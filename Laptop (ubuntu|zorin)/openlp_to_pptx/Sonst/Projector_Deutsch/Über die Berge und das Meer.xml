@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Über die Berge und das Meer</title>
+    </titles>
+    <authors>
+      <author type="words">Margit Kastner</author>
+      <author type="music">Martin Smith</author>
+      <author type="translation">I could sing of Your love forever (Over the mountains and the sea)</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Über die Berge und das Meer
+Fließt dein Liebesstrom zu mir
+Bei dir mach ich mein Herz ganz weit
+Denn wer mich heilt der setzt mich frei
+An deiner Wahrheit freu ich mich
+Und täglich rufe ich zu dir
+Wie du mich liebst davon will ich immer singen</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich will von deiner Liebe singen
+Immer von deiner Liebe singen
+Ich will von deiner Liebe singen
+Immer von deiner Liebe singen</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja ich könnte tanzen
+Auch wenn es töricht scheint
+Doch wenn die Welt dein Licht erkennt
+Tanzen sie mit uns vor lauter Freude</lines>
+    </verse>
+  </lyrics>
+</song>

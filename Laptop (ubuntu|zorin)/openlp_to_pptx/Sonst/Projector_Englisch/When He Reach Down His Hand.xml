@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When He Reach Down His Hand</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Once my soul was astray from the heavenly way
+I was wretched and vile as could be
+But my Savior in love, gave me peace from above
+When he reached down His hand for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When the Savior reached down for me
+When he reached down His hand for me
+I was lost and undone, without God or His Son
+When he reached down His hand for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I was near to despair when He came to me there
+And He showed me that I could be free
+Then He lifted my feet, gave me gladness complete
+When He reached down His hand for me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>How my heart doth rejoice when I hear His sweet voice
+And the tempest to Him I can flee
+There to lean on His arms, safe secure from all harm
+Since he reached down his hand for me</lines>
+    </verse>
+  </lyrics>
+</song>

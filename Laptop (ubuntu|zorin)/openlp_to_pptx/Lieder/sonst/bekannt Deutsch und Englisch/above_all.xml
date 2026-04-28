@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Mar 22, 2025, 6:42:17 AM">
+  <properties>
+    <titles>
+      <title>Above All</title>
+    </titles>
+    <verseOrder>V1 V2 C3 V1 V2 C3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Above all powers
+Above all kings
+Above all nature
+And all created things
+Above all wisdom
+And all the ways of man
+You were here
+Before the world began</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Above all kingdoms
+Above all thrones
+Above all wonders
+The world has ever known
+Above all wealth
+And treasures of the earth
+There's no way to measure
+What You're worth</lines>
+    </verse>
+    <verse name="C3">
+      <lines>Crucified
+Laid behind a stone
+You lived to die
+Rejected and alone
+Like a rose
+Trampled on the ground
+You took the fall
+And thought of me
+Above all</lines>
+    </verse>
+  </lyrics>
+</song>

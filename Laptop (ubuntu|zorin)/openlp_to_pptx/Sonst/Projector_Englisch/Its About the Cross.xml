@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It's About the Cross</title>
+    </titles>
+    <authors>
+      <author type="words">Helen Johnson</author>
+      <author type="music">Helen Johnson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v3 v4 v7 v3 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's not just about the manger
+Where the baby lay
+It's not all about the angels
+Who sing for him that day</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's not all about the shepherds
+Or the bright and shining star
+It's not all about the wise men
+Who travelled from afar</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It's about the cross
+It's about my sin
+It's about how Jesus came to be born once
+So that we could be born again</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It's about the stone
+That was rolled away
+So that you and I could have real life someday
+It's about the cross</lines>
+    </verse>
+    <verse name="v5">
+      <lines>It's not just about the good things
+In this life I've done
+It's not all about the treasures
+Or the trophies that I've won</lines>
+    </verse>
+    <verse name="v6">
+      <lines>It's not about the righteousness
+That I've find within
+It's all about His precious blood
+That save me from my sin</lines>
+    </verse>
+    <verse name="v7">
+      <lines>The beginning of the story
+Is wonderful and great
+But it's the ending that can save you
+And that's why we celebrate</lines>
+    </verse>
+    <verse name="v8">
+      <lines>It's about God's love
+Nailed to a tree
+It's about how every drop of blood
+That flowed from Him when it should have been me</lines>
+    </verse>
+    <verse name="v9">
+      <lines>It's about the stone
+That was rolled away
+So that you and I could have real life someday
+So that you and I could have real life someday</lines>
+    </verse>
+    <verse name="v10">
+      <lines>It's about the cross (it's about the cross)
+It's about the cross
+It's about the cross</lines>
+    </verse>
+  </lyrics>
+</song>

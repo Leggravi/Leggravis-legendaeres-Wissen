@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Näher an dein Herz</title>
+    </titles>
+    <authors>
+      <author type="words">Hedwig von Redern</author>
+      <author type="music">Lelia Naylor Morris</author>
+      <author type="translation">Nearer, still nearer</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Von Dunkelheit umgeben, schau ich auf zu Dir.
+Mein Jesus, oh mein König, mein Blick liegt nur auf Dir.
+Treu bist du gewesen, und treu wirst du mir sein.
+Denn dein Wort gilt für immer, bis ans Ende aller Zeiten.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Und ich weiß, der Gott des Universums,
+der König aller Welt,
+ist der mein ganzes Leben, in seinen Händen hält.
+Ich folge deiner Stimme,
+sie führt mich raus aufs Meer,
+dort ins Ungewisse, näher an dein Herz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bin ich erst losgelaufen, will ich nicht mehr zurück.
+Auch wenn der Weg nicht leicht ist, fass ich neuen Mut.
+Du bist vorausgelaufen, mit Dornen und dem Kreuz.
+Du hast nicht aufgegeben, und nichts davon bereut.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und ich weiß, der Gott des Universums,
+der König aller Welt,
+ist der mein ganzes Leben, in seinen Händen hält.
+Ich folge deiner Stimme,
+sie führt mich raus aufs Meer,
+dort ins Ungewisse, näher an dein Herz.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ja auch in Lebenskrisen, lässt du mich nicht allein.
+Selbst wenn die Nacht noch lang ist, bin ich mir gewiss,
+dass du mich an die Hand nimmst, den Weg vor mir erhellst.
+Du tätest das für jeden, weil jeder für dich zählt.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Weil jeder für dich zählt.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Und ich weiß, der Gott des Universums,
+der König aller Welt,
+ist der mein ganzes Leben, in seinen Händen hält.
+Ich folge deiner Stimme,
+sie führt mich raus aufs Meer,
+dort ins Ungewisse, näher an dein Herz.</lines>
+    </verse>
+  </lyrics>
+</song>

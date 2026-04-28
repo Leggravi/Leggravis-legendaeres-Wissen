@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Saved Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You saved me, You saved me
+Now I will never leave Your love
+And You saved me, You saved me
+Now I will never leave Your love
+And You saved me, You saved me
+Now I will never leave Your love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Cause I'm in love
+I cannot remember what I was doing before I met You
+I've been captivated
+By the love that saved me
+And I'm in love
+I cannot remember what I was doing before I met You
+I've been captivated
+By love that saved me, You saved me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And You saved me, You saved me
+Now I will never leave Your love
+And You saved me, You saved me
+Now I will never leave Your love
+And You saved me, You saved me
+Now I will never leave Your love
+And You saved me, You saved me
+Now I will never leave Your love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And I'm in love I cannot remember
+What I was doing before I met You
+I've been captivated
+By love that saved me
+And I'm in love I cannot remember
+What I was doing before I met You
+I've been captivated
+By a love that saved me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>'Cause You saved me, You saved me
+Now I will never leave Your love</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And You saved me, You saved me
+Now I will never leave Your love
+And You saved me, You saved me
+Now I will never leave Your love
+And You saved me, You saved me
+Now I will never leave Your love</lines>
+    </verse>
+    <verse name="v7">
+      <lines>And this is why we thank You, this is why we thank You
+This is why we thank You, this is why we thank You
+This is why we thank You, this is why we thank You
+This is why we thank You</lines>
+    </verse>
+    <verse name="v8">
+      <lines>And this is why we thank You, this is why we thank You
+This is why we thank You, this is why we thank You
+This is why we thank You, this is why we thank You</lines>
+    </verse>
+    <verse name="v9">
+      <lines>And You saved me, You saved me
+Now I will never leave Your love
+That You saved me, You saved me
+Now I will never leave Your love</lines>
+    </verse>
+  </lyrics>
+</song>

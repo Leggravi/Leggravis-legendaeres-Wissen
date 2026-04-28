@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Humble Yourself in the Sight of the Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Humble yourself
+in the sight of the Lord.
+Humble yourself
+in the sight of the Lord;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And He will lift you up,
+And He will lift you up.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amazing grace,
+how sweet the sound.
+Amazing grace,
+how sweet the sound,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>That saved a wretch like me!
+That saved a wretch like me!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I once was lost
+but now I’m found.
+I once was lost
+but now I’m found,</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Was blind but now I see;
+Was blind but now I see.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>When we’ve been there
+ten thousand years,
+When we’ve been there
+ten thousand years</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Bright shining as the sun;
+Bright shining as the sun.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>We've no less days
+to sing God's praise,
+We've no less days
+to sing God's praise</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Than when we've first begun;
+Than when we've first begun.</lines>
+    </verse>
+  </lyrics>
+</song>

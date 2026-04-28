@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:35">
+  <properties>
+    <titles>
+      <title>Sieh die Vögel unterm Himmel (sie sind unbeschwert)</title>
+    </titles>
+    <authors>
+      <author type="words">Ursula Jankowiak (1984)</author>
+      <author type="music">Christel Schröder</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sieh die Vögel unterm Himmel, sie sind unbeschwert und frei!
+Ob sie auch nicht sä'n und ernten, Gott versorgt sie alle treu.
+Und du willst dich noch sorgen für heute und für morgen?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sieh die Lilien auf dem Felde! Unser Gott kennt ihren Ort.
+Jede pflegt er und umhegt er, so verspricht es uns sein Wort.
+Und du willst dich noch sorgen für heute und für morgen?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lege alle deine Kümmernisse ganz in seine Hand.
+Was dich quält und was dir mangelt, das ist ihm doch längst bekannt.
+Du brauchst dich nicht zu sorgen für heute und für morgen.</lines>
+    </verse>
+  </lyrics>
+</song>

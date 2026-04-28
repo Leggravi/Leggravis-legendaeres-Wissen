@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Say What's on the Tape</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Brother Branham preached the message Future Home,
+And afterwards he spoke to Billy Paul,
+He said “Billy, did you understand?”
+He said “Yes, I think I did!”
+Then he turned and told him
+“No, you didn’t, son!”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He said “Remember, it’s not so important to understand,
+But it’s mighty important to believe!”
+From ‘47 to ‘65, we believe it’s all inspired,
+That Word will take the Bride into the skies!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For if God thought It,
+Brother Branham spoke It,
+We believe It, and that settles It!
+God’s prophets make no mistakes
+God’s Word cannot fail!
+So my friends,
+Let’s say what’s on the Tapes!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Many people criticize the Voice of God,
+They can’t understand why they would print it ALL,
+If Brother Branham said “… the, the, the..”
+That’s “Thus saith The Lord!” to me!
+And that Word will stand throughout eternity!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We don’t need someone to tell us what he meant,
+Or someone to interpret what he said,
+For the whole Word of God is Truth,
+And that is our Absolute!
+Brother Branham said
+“I am God’s Voice to you!”</lines>
+    </verse>
+  </lyrics>
+</song>

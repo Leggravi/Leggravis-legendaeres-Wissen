@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He's The Saviour Of My Soul</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's the Saviour of my soul
+Jesus, my Jesus.
+He's the Saviour of my soul
+He's the Saviour of my soul.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, Jesus, Jesus, Jesus,
+He's the Saviour of my soul.
+He's the Saviour of my soul.</lines>
+    </verse>
+  </lyrics>
+</song>

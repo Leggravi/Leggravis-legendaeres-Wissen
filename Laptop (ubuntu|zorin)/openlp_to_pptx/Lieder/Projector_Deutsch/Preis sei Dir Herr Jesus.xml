@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Preis sei Dir, Herr Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">César Malan</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Preis sei Dir, Herr Jesus, Preis Dir und Ehr!
+Hast die Schuld getragen, unsre Schuld so schwer.
+Hin ist die Nacht, die uns bang gemacht;
+Dein Gericht am Kreuze hat uns Ruh gebracht.
+Ruhe von Sünden, Ruhe durch Dich,
+Ruhe des Gewissens auf ewiglich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Preis sei Dir, Herr Jesus, Preis Dir und Ehr!
+Nun sind Gott wir nahe, sind nicht ferne mehr.
+sein Angesicht gibt uns Trost und Licht,
+und auf Seinen Wegen fehlt Sein Friede nicht;
+Ruhe des Herzens, Ruhe in Dir,
+auch im Tal der Tränen ist Ruhe hier.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Preis sei Dir, Herr Jesus, Preis Dir und Ehr!
+Kannst uns nicht versäumen noch verlassen mehr.
+Führst durch den Streit dieser kurzen Zeit
+in die ew'ge Ruhe, die uns Gott verleiht;
+ewige Ruhe, Ruhe in Dir!
+Bei Dir ewig droben, Herr, ruhen wir!</lines>
+    </verse>
+  </lyrics>
+</song>

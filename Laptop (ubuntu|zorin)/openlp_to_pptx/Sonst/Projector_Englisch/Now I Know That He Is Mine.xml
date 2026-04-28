@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Now I Know That He Is Mine</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Now I know that He Is mine
+and am His forever
+He Is leading me along the way
+He’ll be holding to my hand
+When I cross death’s river,
+He will take the sting of death away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tis so sweet to know,
+I have Jesus with me
+He is keeping me from sin
+and from strife
+He delivers me from condemnation
+Now I have eternal life.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now I’m walking day by day
+With my wondrous Saviour
+He is lighting every step of the way
+And His love so real as He walks
+besides me
+And His peace will be my stay.</lines>
+    </verse>
+  </lyrics>
+</song>

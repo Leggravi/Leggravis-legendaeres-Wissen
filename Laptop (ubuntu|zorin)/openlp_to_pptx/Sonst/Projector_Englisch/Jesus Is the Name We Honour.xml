@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Is the Name We Honour;</title>
+    </titles>
+    <authors>
+      <author type="words">Philip Lawson Johnston</author>
+      <author type="music">Philip Lawson Johnston</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus is the name we honour;
+Jesus is the name we praise.
+Majestic name above all other names,
+the highest Heaven and Earth proclaim
+that Jesus is our God.
+We will glorify, we will lift him high,
+we will give him honour and praise,
+we will glorify, we will lift him high,
+we will give him honour and praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus is the name we worship;
+Jesus is the name we trust.
+He is the King above all other kings,
+let all creation stand and sing
+that Jesus is our God.
+We will glorify, we will lift him high,
+we will give him honour and praise,
+we will glorify, we will lift him high,
+we will give him honour and praise.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus is the Father’s splendour;
+Jesus is the Father’s joy.
+He will return to reign in majesty,
+and every eye at last will see
+that Jesus is our God.
+We will glorify, we will lift him high,
+we will give him honour and praise,
+we will glorify, we will lift him high,
+we will give him honour and praise.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We will glorify, we will lift him high,
+we will give him honour and praise,
+we will glorify, we will lift him high,
+we will give him honour and praise.</lines>
+    </verse>
+  </lyrics>
+</song>

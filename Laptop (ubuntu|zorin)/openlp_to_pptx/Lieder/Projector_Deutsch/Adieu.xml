@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Adieu</title>
+    </titles>
+    <authors>
+      <author type="words">Sefora Nelson</author>
+      <author type="music">Sefora Nelson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Was hab ich gehofft,
+dieser Tag käme nie,
+doch heute ist er da.
+Ich kann gar nichts sagen,
+weiß einfach nicht, wie.
+Adieu, auf Wiedersehn.
+-
+Wenn man dich brauchte,
+warst du immer bereit.
+Dein Geschenk war Zeit.
+Hab Schönes und Schweres,
+auch Freude und Leid,
+so oft mit dir geteilt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All die Momente, zusammen mit dir,
+wohnen im Herzen bei mir.
+Freundschaft wie diese
+gibt's nur ein Mal.
+Adieu, auf Wiedersehn,
+Adieu, auf Wiedersehn.
+-
+Dass Hoffnung sich lohnt
+und Liebe gewinnt,
+das hast du mir gezeigt.
+Das Lieben nicht leicht ist,
+aber trotzdem gelingt,
+wenn man sich verzeiht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All die Momente, zusammen mit dir,
+wohnen im Herzen bei mir.
+Freundschaft wie diese
+gibt's nur ein Mal.
+Adieu, auf Wiedersehn,
+Adieu, auf Wiedersehn.
+-
+Dass hier nicht das Ende ist
+und der Himmel noch kommt,
+ja, das hast du geglaubt.
+Bis wir uns wiedersehen,
+bin ich gespannt
+und schaue dankend auf.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All die Momente, zusammen mit dir,
+wohnen im Herzen bei mir.
+Freundschaft wie diese
+gibt's nur ein Mal.
+Adieu, auf Wiedersehn,
+Adieu, auf Wiedersehn.
+-
+Freundschaft wie diese
+gibt's nur ein Mal.
+Adieu, auf Wiedersehn,
+Adieu, auf Wiedersehn.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gentle Shepherd Come and Lead Us</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gentle shepherd come and lead us
+For we need you to help us find our way
+Gentle shepherd come and feed us
+For we need your strength from day to day</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's no other we can turn to
+Who can help us face another day
+Gentle shepherd come and lead us
+For we need You to help us find our way</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the day when our ears are bombarded by beckoning voices
+And our world is polluted with sound
+Lord, let us hear you
+In a land dissected and muddled by mazes of roads and never-ending highways</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord, help us find your way
+In a world of easy promises, empty guarantees and quick claim insurance policies
+Give us the security of your hand, Lord Jesus
+At a time when we are confused by conflicting authorities
+That will tell us how to manage our marriages, our finances, and our children</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, Lord Jesus, show us your way
+As we walk the tight ropes of parenthood in these explosives days
+Training our little ones to live in a world for which there are no precedence
+Lord, we just need you in all things</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gentle Shepherd
+Help us find the way
+There's no other we can turn to
+Who can help us face another day
+Gentle Shepherd come and lead us
+For we need you to help us find our way</lines>
+    </verse>
+  </lyrics>
+</song>

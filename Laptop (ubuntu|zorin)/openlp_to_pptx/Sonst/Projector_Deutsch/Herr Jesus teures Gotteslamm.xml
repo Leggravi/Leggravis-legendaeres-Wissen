@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr Jesus, teures Gotteslamm</title>
+    </titles>
+    <authors>
+      <author type="words">Elberfeld</author>
+      <author type="music">Johann Schop</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Jesu, teures Gotteslamm!
+Du wurdest an des Kreuzes Stamm
+Für unsre Sünd' geschlachtet.
+Für uns gingst Du in Not und Tod,
+Du opfertest Dich völlig Gott,
+Für uns wardst Du verachtet.
+Jetzt kann uns nichts verdammen mehr.
+O Jesu, Dir sei Dank und Ehr'!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dein glücklich Volk, o Herr, erscheint
+An Deinem Tische hier vereint,
+Von Deiner Lieb' geladen.
+Durch diesen Kelch und dieses Brot
+Verkünden, Herr, wir Deinen Tod
+Und Deine reichen Gnaden.
+Nichts drücket das Gewissen mehr.
+O Jesu, Dir sei Dank und Ehr'!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:45">
+  <properties>
+    <titles>
+      <title>Halleluja! Jesus lebt! Tod und Teufel sind bezwungen</title>
+    </titles>
+    <authors>
+      <author type="words">Benjamin Schmolck (1731)</author>
+      <author type="music">Jesus, meine Zuversicht</author>
+    </authors>
+    <themes>
+      <theme>Ostern</theme>
+      <theme>Auferstehung</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Halleluja! Jesus lebt!
+Tod und Teufel ist bezwungen.
+Gruft und Kluft und Erde bebt,
+da der Held hindurchgedrungen.
+Geht nicht mehr nach Golgatha:
+Jesus lebt, Halleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Halleluja! Seht das Grab,
+die ihr seinen Tod beweinet;
+wischet eure Tränen ab,
+weil die helle Sonne scheinet.
+Euer Heiland ist nicht da:
+Jesus lebt, Halleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Halleluja! Suchet nicht
+den Lebendgen bei den Toten,
+glaubet aber dem Bericht
+der verklärten Osterboten;
+diese wissen, was geschah:
+Jesus lebt, Halleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Halleluja! Dieses Wort
+soll mich wiederum beleben.
+Kann ich gleich nicht an den Ort
+seines Grabes mich begeben,
+gnug, dass es mein Glaube sah:
+Jesus lebt, Halleluja!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Halleluja! Er wird mir
+Leben in dem Tode geben;
+also sterb ich freudig hier,
+Christi Tod ist nun mein Leben.
+Nur getrost, ich glaube ja:
+Jesus lebt, Halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

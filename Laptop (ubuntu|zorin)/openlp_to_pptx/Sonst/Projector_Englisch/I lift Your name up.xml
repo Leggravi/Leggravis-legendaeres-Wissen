@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I lift Your name up</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I come to You
+With a grateful heart
+For the things You've done
+I come to You
+Giving all my praise
+For this day You've made</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're amazing
+Forever reigning, my God
+There's no one like You
+None beside You, my God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Everywhere I go
+I will lift Your name up
+In all I do
+I will give You praise
+Everywhere I go
+I will lift Your name up
+I'll lift Your name up
+I lift Your name up
+I lift Your name up
+I lift Your name up
+I lift Your name up</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I come to You
+With a sacrifice
+Lord to lift You high
+I come to You
+Every night and day
+Lord to give You praise</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Whatever comes my way
+I will lift You up
+Giving You my praise
+I will never stop
+You're surrounding me
+Your love overflows
+I will lift Your name
+Everywhere I go</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>If You Know The Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If you know the Lord,
+You need nobody else
+To see you through
+The darkest night
+You may walk alone,
+You only need the Lord
+To see you on the road that's right.
+Take time to pray, every day;
+And as you're heading home,
+He'll show you the way,
+If you know the Lord
+You need nobody else.
+You'll see the light,
+His wonderful light.</lines>
+    </verse>
+  </lyrics>
+</song>

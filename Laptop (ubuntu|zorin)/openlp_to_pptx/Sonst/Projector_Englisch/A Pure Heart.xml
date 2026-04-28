@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>A Pure Heart</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: A pure heart
+That’s what I long for
+A heart that follows hard after thee :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A heart that hides Your Word
+So that sin will not come in
+A heart that's undivided
+The one You rule and reign
+A heart that beats compassion
+That pleases You, my Lord
+A sweet aroma of worship
+That rises to Your Throne</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wach auf, du Geist der ersten Zeugen</title>
+    </titles>
+    <authors>
+      <author type="words">Karl Heinrich von Bogatzky</author>
+      <author type="music">Dir, dir, o Höchster, will ich singen</author>
+      <author type="translation">Awake, O Spirit of the watchmen</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wach auf, du Geist der ersten Zeugen,
+die auf der Mau'r als treue Wächter stehn,
+die Tag und Nächte nimmer schweigen
+und die getrost dem Feind entgegengehn,
+ja deren Schall die ganze Welt durchdringt
+und aller Völker Scharen zu dir bringt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O dass dein Feuer bald entbrennte,
+o möcht es doch in alle Lande gehn!
+Ach Herr, gib doch in deine Ernte
+viel Knechte, die in treuer Arbeit stehn.
+O Herr der Ernte, siehe doch darein:
+die Ernt ist groß, die Zahl der Knechte klein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dein Sohn hat ja mit klaren Worten
+uns diese Bitt in unsern Mund gelegt.
+O siehe, wie an allen Orten
+sich deiner Kinder Herz und Sinn bewegt,
+dich herzinbrünstig hierum anzuflehn;
+drum hör, o Herr, und sprich: &quot;Es soll geschehn.&quot;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So gib dein Wort mit großen Scharen,
+die in der Kraft Evangelisten sein;
+lass eilend Hilf uns widerfahren
+und brich in Satans Reich mit Macht hinein.
+O breite, Herr, auf weitem Erdenkreis
+dein Reich bald aus zu deines Namens Preis!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ach dass die Hilf aus Zion käme!
+O dass dein Geist, so wie dein Wort verspricht,
+dein Volk aus dem Gefängnis nähme!
+O würd es doch nur bald vor Abend licht!
+Ach reiß, o Herr, den Himmel bald entzwei
+und komm herab zur Hilf und mach uns frei!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ach lass dein Wort recht schnelle laufen,
+es sei kein Ort ohn dessen Glanz und Schein.
+Ach führe bald dadurch mit Haufen
+der Heiden Füll zu allen Toren ein!
+Ja wecke dein Volk Israel bald auf,
+und also segne deines Wortes Lauf!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Lass jede hoh und niedre Schule
+die Werkstatt deines guten Geistes sein,
+ja sitze du nur auf dem Stuhle
+und präge dich der Jugend selber ein,
+dass treuer Lehrer viel und Beter sein,
+die für die ganze Kirche flehn und schrein!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Du wirst dein herrlich Werk vollenden,
+der du der Welten Heil und Richter bist;
+du wirst der Menschheit Jammer wenden,
+so dunkel jetzt dein Weg, o Heilger, ist.
+Drum hört der Glaub nie auf, zu dir zu flehn;
+du tust doch über Bitten und Verstehn.</lines>
+    </verse>
+  </lyrics>
+</song>

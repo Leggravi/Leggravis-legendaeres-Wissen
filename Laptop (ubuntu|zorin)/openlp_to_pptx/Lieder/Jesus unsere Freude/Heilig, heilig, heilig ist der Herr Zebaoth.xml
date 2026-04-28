@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:06">
+  <properties>
+    <titles>
+      <title>Heilig, heilig, heilig ist der Herr Zebaoth</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="words">Gitta Leuschner (1976)</author>
+      <author type="music">Nolene Prince</author>
+    </authors>
+    <ccliNo>5606133</ccliNo>
+    <themes>
+      <theme>Anbetung</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Die Länder sind voll seiner Ehre,
+Die Länder sind voll seiner Ehre,
+Die Länder sind voll seiner Ehre!
+Heilig ist der Herr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gelobt sei, der da kommt
+im Namen des Herrn.
+Gelobt sei, der da kommt
+im Namen des Herrn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hosianna in der Höhe!
+Hosianna in der Höhe!
+Hosianna in der Höhe!
+Heilig ist der Herr!</lines>
+    </verse>
+  </lyrics>
+</song>

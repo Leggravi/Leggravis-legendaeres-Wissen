@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Reaching Out To You</title>
+    </titles>
+    <authors>
+      <author type="words">Cae Gauntt</author>
+      <author type="music">Cae Gauntt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm reaching out to You dear Lord,
+I'm reaching out to You,
+I know Your arm is not too short
+And it can reach me too.
+So as I pray and press my way
+Into Your Kingdom true.
+I'll grow to be more like You,
+Just by reaching out to You.</lines>
+    </verse>
+  </lyrics>
+</song>

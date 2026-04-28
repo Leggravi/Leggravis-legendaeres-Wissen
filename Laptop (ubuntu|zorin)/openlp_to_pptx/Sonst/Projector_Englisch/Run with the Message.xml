@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Run with the Message</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There are people
+All over the world,
+To whom this message
+Must be told;
+All those honest in heart,
+In this light they have a part.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You've got to run, run, run,
+Run with the message of Malachi 4,
+You've got to tell it
+Like you've never told it before
+Let him that readeth run,
+Let him that heareth run,
+For this message is
+The coming of the Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Always ready to give a reason,
+Be instant in and out of season
+Willing to take this blessed hope
+To a lost and dying world</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Seeing we have this ministry
+Let's not faint but earnestly
+Seek to build the Kingdom of God
+For the glory of the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

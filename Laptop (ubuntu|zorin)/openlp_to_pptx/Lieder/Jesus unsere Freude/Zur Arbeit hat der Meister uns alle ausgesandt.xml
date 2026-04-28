@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:44">
+  <properties>
+    <titles>
+      <title>Zur Arbeit hat der Meister uns alle ausgesandt</title>
+    </titles>
+    <authors>
+      <author type="words">Johannes Roos</author>
+      <author type="music">Johann Steuerlein</author>
+    </authors>
+    <ccliNo>6222949</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zur Arbeit hat der Meister
+uns alle ausgesandt;
+ermannt die trägen Geister;
+auf, legt ans Werk die Hand!
+Und sind wir arme Knechte,
+die nur in Schwachheit sä'n,
+so hilft uns seine Rechte,
+er selbst will bei uns stehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ist unser seine Stärke,
+er unser Heil und Hort,
+was fehlt uns dann zum Werke?
+Wir wirken betend fort,
+wir kämpfen durch den Glauben
+im Blick auf Jesus Christ.
+Nichts kann den Sieg uns rauben,
+weil er der König ist.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und wenn uns oft will grauen,
+wenn uns der Mut gebricht,
+so lasst uns aufwärts schauen,
+mit heitrem Angesicht!
+Ist uns auch jetzt verborgen,
+was unser Mühen frommt,
+Gott wird für Frucht schon sorgen,
+wenn seine Stunde kommt.</lines>
+    </verse>
+  </lyrics>
+</song>

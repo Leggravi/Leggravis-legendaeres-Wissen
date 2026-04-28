@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Is He Satisfied With Me?</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do you ever search your heart,
+as you watch the day depart?
+Is there something way down
+deep you're trying to hide?
+If this day should be the end
+and eternity begins,
+When the Book is open wide,
+would the Lord be satisfied?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Is He satisfied, is He satisfied?
+is He satisfied with me?
+Have I done my best,
+have I stood the test?
+ls He satisfied with me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When my Lord shall come again,
+When He walks and talks with men
+What if every friend
+He had were just like me
+Would He find a welcome heart
+or Would He go away in tears?
+Am I all that I should be,
+is He satisfied with me?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Feeble is the lamb of fame,
+By which men inscribe their name
+On the walls of time
+for other men to see,
+Though they boast of wealth and praise,
+None can help them in the end
+When the angels hear my plea,
+Would the Lord be satisfied?</lines>
+    </verse>
+  </lyrics>
+</song>

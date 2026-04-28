@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich bin von innen, außen, oben, unten</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Norbert Binder</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich bin von innen, außen, oben, unten, glücklich allezeit,
+von innen, außen, oben, unten, glücklich allezeit.
+Seit Jesus zu mir kam, die Sünde von mir nahm,
+bin ich von innen, außen, oben, unten, glücklich allezeit! (x2)</lines>
+    </verse>
+  </lyrics>
+</song>

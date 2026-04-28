@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He was there all the time</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Time after time I went searching for peace in some void
+I was trying to blame all my ills on this world I was in
+Surface relationships used me'til I was done in
+And all of the while someone was begging To free me from sin</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He was there all the time
+He was there all the time
+Waiting patiently in line
+He was there all the time</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Never again Will I look for a fake rainbow's end
+Now that I have the answer my life is just starting to rhyme
+Sharing each new day with Him
+Is a cup of fresh wine And oh what I missed,
+He's been waiting right there all the time</lines>
+    </verse>
+  </lyrics>
+</song>

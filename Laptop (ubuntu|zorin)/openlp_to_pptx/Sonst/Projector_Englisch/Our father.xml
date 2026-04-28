@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Our father</title>
+    </titles>
+    <authors>
+      <author type="words">Marcus Meier</author>
+      <author type="music">Marcus Meier</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The words of Christ Passed down through generations
+The Son of God teaching us to pray
+Echoed words Father have Your will,
+Your way in me Completely</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We wholly trust You're faithful in provision
+Amazing grace, mercy for our sins
+May we forgive The way that You've forgiven us,
+Oh Lord So we can sing</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Our Father Hallowed be Your Name
+Forever our God be exalted
+Your kingdom come and in us
+Let your will be done Our Father</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lead us from the valley of temptation
+Deliver us from the evil one
+Lord You reign and here we stand Victorious
+In Your Name Together we pray</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yours is the kingdom and power and glory
+God of authority, ancient of days
+Yours is the wisdom and honour
+Forever and always and always
+Yours is the kingdom and power and glory
+God of authority, ancient of days
+Yours is the wisdom and honour
+Forever and always we pray</lines>
+    </verse>
+  </lyrics>
+</song>

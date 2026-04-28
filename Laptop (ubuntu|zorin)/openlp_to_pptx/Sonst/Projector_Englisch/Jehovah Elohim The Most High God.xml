@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jehovah Elohim The Most High God</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jehovah Elohim
+The most high God
+Jehovah Rapha
+The Lord my healer
+Jehovah Adonai
+My sovereign master
+Jehovah Nissi
+The Lord my Banner</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I will lift You high
+High above the earth
+And I will lift You high
+High above the earth</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will lift You high
+High above the earth
+Jehovah Shammah
+The Lord is here</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will lift You high
+High above the earth
+Jehovah Shammah
+The Lord is here
+Jehovah Shammah
+The Lord is here</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Blameless</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amazing love that always was
+Has washed my sins away
+A perfect Lamb was crucifid
+That I might stand justified
+I said, &quot;Lord, I'm not worthy
+That You should die for me.&quot;
+He said, &quot;Child, don't you worry
+I formed your destiny.&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are blameless, blameless!
+For I have paid the price
+Shameless, innocent
+Filled with the life I gave
+Memory thought he had you bound
+But the evidence was never found
+You are beautiful and blameless</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Unfailing love with His own blood
+Has washed my sins away
+The perfect lamb was crucified
+That I might stand justified
+I said, &quot;Lord, I'm not worthy,
+You know my history&quot;
+But He said,&quot;My love can't you see?
+You are a part of Me.&quot;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Accusers rise on every side
+And demand justice be serve
+But the Mighty Judge
+With His own blood
+Has sovereignly declared</lines>
+    </verse>
+  </lyrics>
+</song>

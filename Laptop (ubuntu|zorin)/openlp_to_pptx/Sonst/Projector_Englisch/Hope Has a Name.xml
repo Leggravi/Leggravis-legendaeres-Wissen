@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hope Has a Name</title>
+    </titles>
+    <authors>
+      <author type="words">Benjamin Cruse</author>
+      <author type="music">Benjamin Cruse</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v2 v4 v2 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a song, I know it well
+A melody that's never failed
+On mountains high, in valleys low
+My soul will rest, my confidence, in You alone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hope has a name, His name is Jesus
+My Savior's cross has set this sinner free
+Hope has a name, His name is Jesus
+Oh, Christ be praised, I have victory</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is a light, salvation's flame
+Christ undefeated, trampled the grave
+See now the cross, be lifted high
+The light has come, the light has won, behold the Christ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There'll be a day my hope complete
+Now home in glory, Your face I'll see
+My pain no more, my fear will cease
+I bow my life, I fix my eyes, on Christ my King
+I bow my life, I fix my eyes, on Christ my King</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, Christ be praised, I have victory</lines>
+    </verse>
+  </lyrics>
+</song>

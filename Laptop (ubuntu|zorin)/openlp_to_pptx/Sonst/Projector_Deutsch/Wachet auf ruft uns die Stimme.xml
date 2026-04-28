@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wachet auf; ruft uns die Stimme</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Nicolai</author>
+      <author type="music">Hans Sachs</author>
+      <author type="translation">Wake, Awake, for Night Is Flying</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1) Wachet auf; ruft uns die Stimme
+der Wächter sehr hoch auf der Zinne,
+wach auf, du Stadt Jerusalem!
+Mitternacht heißt diese Stunde;
+sie rufen uns mit hellem Munde:
+Wo seid ihr klugen Jungfrauen?
+Wohlauf, der Bräut'gam kommt!
+Steht auf, die Lampen nehmt!
+Halleluja! Macht euch bereit
+zu der Hochzeit;
+ihr müsset ihm entgegengehn!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2) Zion hört die Wächter singen;
+das Herz tut ihr vor Freude springen;
+sie wachet und steht eilend auf.
+Ihr Freund kommt vom Himmel prächtig,
+von Gnaden stark, von Wahrheit mächtig;
+ihr Licht wird hell, ihr Stern geht auf.
+Nun komm, du werte Kron,
+Herr Jesu, Gottes Sohn!
+Hosianna! Wir folgen all
+zum Freudensaal
+und halten mit das Abendmahl.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3) Gloria sei dir gesungen
+mit Menschen- und mit Engelzungen,
+mit Harfen und mit Zimbeln schön.
+Von zwölf Perlen sind die Tore
+an deiner Stadt, wir stehn im Chore
+der Engel hoch um deinen Thron.
+Kein Äug hat je gespürt,
+kein Ohr hat mehr gehört
+solche Freude. Des jauchzen wir
+und singen dir
+das Halleluja für und für.</lines>
+    </verse>
+  </lyrics>
+</song>

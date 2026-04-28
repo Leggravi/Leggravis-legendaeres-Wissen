@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Want More of Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I want more of Jesus
+More and more and more,
+I want more of Jesus
+Than I've ever had before
+I want more of His great love
+So rich, so full and free
+I want more of Jesus
+So I'll give Him more of me.</lines>
+    </verse>
+  </lyrics>
+</song>

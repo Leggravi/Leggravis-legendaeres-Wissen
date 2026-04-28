@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Die Gnade sei mit allen</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Friedrich Hiller</author>
+      <author type="music">Christus, der ist mein Leben</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Die Gnade sei mit allen,
+die Gnade unsers Herrn, des Herrn,
+dem wir hier wallen, wallen
+und sehn sein Kommen gern.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Auf dem so schmalen Pfade
+gelingt uns ja kein Tritt,
+es gehe seine Gnade, Gnade
+denn bis zum Ende mit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Auf Gnade darf man trauen,
+man traut ihr ohne Reu;
+und wenn uns je will grauen, grauen,
+so bleibt's: der Herr ist treu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Damit wir nicht erliegen,
+muss Gnade mit uns sein;
+denn sie flößt zu dem Siegen, Siegen
+Geduld und Glauben ein.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So scheint uns nichts ein Schade,
+was man um Jesum misst;
+der Herr hat eine Gnade, Gnade,
+die über alles ist.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bald ist es überwunden
+nun durch des Lammes Blut,
+das in den schwersten Stunden, Stunden
+die größten Taten tut.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Herr, lass es dir gefallen,
+noch immer rufen wir:
+die Gnade sei mit allen, allen,
+die Gnade sei mit mir!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>At the Cross (Lifebreakthrough)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>At the cross I saw salvation
+At the cross I saw the wickedness in me
+At the cross I saw my arrogance
+At the cross I saw amazing grace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>At the cross I saw You crying
+At the cross I saw You praying for me
+At the cross I saw Your humnle heart
+At the cross I saw amazing grace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You love me more than I am
+You love me inspite of my sinful ways
+You love me for who I am
+You love me inspite of my selfish ways.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>At the cross I saw salvation
+At the cross I saw your forgiveness to me
+At the cross I saw the beauty of faith
+At the cross I saw amazing grace.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>At the cross</lines>
+    </verse>
+  </lyrics>
+</song>

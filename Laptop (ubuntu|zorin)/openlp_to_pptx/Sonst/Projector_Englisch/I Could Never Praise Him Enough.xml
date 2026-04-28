@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Could Never Praise Him Enough</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I could never praise Him enough
+For the cross of Calvary
+I could never thank Him enough
+For salvation full and free
+I could never do anything
+To deserve such perfect love
+Oh for everything He's done
+I could never praise Him enough</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For many years I've served the Lord
+The best that I know how
+Giving unto Him my time
+And telling of His power
+But if I were to spend
+Unending hours on my knees
+Praising Him for everything
+He's ever done for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A thousand tongues could not express
+Just what the Lord has done
+As if He hadn't done enough
+He gave His only Son
+To hang upon a rugged cross
+And bear the load of sin
+That explains why I can't express
+The love I have for Him</lines>
+    </verse>
+  </lyrics>
+</song>

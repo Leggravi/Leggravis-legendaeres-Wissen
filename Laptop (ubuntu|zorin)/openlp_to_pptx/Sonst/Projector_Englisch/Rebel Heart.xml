@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Rebel Heart</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, I offer up this rebel heart
+So stubborn and so restless from the start
+I don't wanna fight You anymore
+So take this rebel heart and make it Yours</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Father, I no longer wanna run
+You've broken my resistance with Your love
+And drowned it underneath the crimson spill
+So bend this rebel heart unto Your will</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I give it over to You
+I give it over to You
+Your love is like an arrow, straight and true
+And now this rebel heart belongs to You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Help me lay the renegade to rest
+Turn the stone inside me back to flesh
+And hold me'til my best defenses fall
+And watch this rebel heart surrender all</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, take my life and let it be Yours
+Oh, take my life and let it be Yours
+Oh, take my life and let it be Yours
+Oh, take my life and let it be Yours</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Now this rebel heart belongs to You
+Now this rebel heart belongs to You</lines>
+    </verse>
+  </lyrics>
+</song>

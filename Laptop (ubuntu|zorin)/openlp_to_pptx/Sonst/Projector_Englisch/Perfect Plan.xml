@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Perfect Plan</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When your hope is almost gone
+and the wind is blowing strong
+And Heaven seems so silent when you pray
+When your faith has turned to fear
+and you can’t hold back the tears
+And friends no longer know quite what to say</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When you’ve looked and cannot find Him
+and the road is long and dark
+And you question why He seems so far away
+When you wonder is He with me
+does He hear my broken heart
+Remember child He knows just where you are</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Think of Job and how he suffered
+and the glory of His praise
+When you just can’t seem to face another day
+In the trial God is faithful
+He will give sufficient grace
+Count your blessings bow the knee
+and walk by faith</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The Lord knows every step you take
+and every tear drop in your eye
+And though we often may not understand
+our Father has a perfect plan</lines>
+    </verse>
+  </lyrics>
+</song>

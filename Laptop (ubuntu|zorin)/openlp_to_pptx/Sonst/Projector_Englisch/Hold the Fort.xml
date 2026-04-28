@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hold the Fort</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ho, my comrades! see the signal,
+Waving in the sky!
+Reinforcements now appearing,
+Victory is nigh.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>&quot;Hold the fort, for I am coming,&quot;
+Jesus signals still;
+Wave the answer back to heaven,
+&quot;By Thy grace we will.&quot;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>See the mighty host advancing,
+Satan leading on;
+Mighty men around us falling,
+Courage almost gone!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>See the glorious banner waving!
+Hear the trumpet blow!
+In our Leader's name we'll triumph
+Over ev'ry foe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fierce and long the battle rages,
+But our help is near;
+Onward comes our great Commander.
+Cheer, my comrades, cheer.</lines>
+    </verse>
+  </lyrics>
+</song>

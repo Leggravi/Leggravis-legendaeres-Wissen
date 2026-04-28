@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Is the Life</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus Is the Life, our confidence
+He is the Refuge in troubled times
+He is the Lighthouse we have to trust
+Through Him our lives would be in harmony</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus is the Way, Saviour of every soul
+He is the wholeness for everyone
+O' come my dear friend, let's worship Him
+Our precious lives He spared and redeemed</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O' Jesus my life, I need You now
+O’ please forgive me, my iniquities
+I lift my all in all to You
+You are my Rock and my Foundation</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O’ come let us pray wholeheartedly
+The gracious love of God is eternity
+Adoration belongs to You
+Joy to Your creation, joy to everyone</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O' my sweet Jesus, Armour of my soul
+You are the Root and Breath of my life
+You're The Redeemer, The Defender of truth
+You are the love and The Giver of life</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:42">
+  <properties>
+    <titles>
+      <title>Ich grüße Dich am Kreuzesstamm</title>
+    </titles>
+    <authors>
+      <author type="words">Valentin Ernst Löscher (1722)</author>
+      <author type="music">Es sind doch selig alle, die</author>
+    </authors>
+    <ccliNo>5221147</ccliNo>
+    <themes>
+      <theme>Passion</theme>
+      <theme>Leid</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich grüße dich am Kreuzesstamm,
+du hochgelobtes Gotteslamm,
+mit andachtsvollem Herzen.
+Hier hängst du zwar in lauter Not
+und bist gehorsam bis zum Tod,
+vergehst in tausend Schmerzen;
+doch sieht mein Glaube wohl an dir,
+dass Gottes Majestät und Zier
+in diesem Leibe wohne
+und dass du hier so würdig seist,
+dass man dich Herr und König heißt
+als auf dem Ehrenthrone.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich folge dir durch Tod und Leid,
+o Herzog meiner Seligkeit,
+nichts soll mich von dir trennen.
+Du gehst den engen Weg voran;
+dein Kreuzestod macht offne Bahn
+den Seelen, die dich kennen.
+Ach Jesu, deine höchste Treu
+macht, dass mir nichts unmöglich sei,
+da du für mich gestorben;
+ich scheue nicht den bittern Tod
+und bin gewiss in aller Not:
+"Wer glaubt, ist unverdorben."</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Debt Was Paid</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alone and unforgiven
+Locked in my own prison
+Til I heard that Jesus held the key
+And through His loving mercy
+Though I was unworthy
+His nail-scarred hand reached down
+And rescued me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My debt was paid by the marvelous,
+glorious Blood of Calvary
+All washed away, every stain
+was covered by His grace
+And since that day every chain of sins
+that did surround me
+They all fell away when I called
+on His name
+Oh praise the Lord my soul was saved
+My debt was paid</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the past reminds me of a life
+I left behind me
+And satan tries to rob me of my peace
+That's when I remember
+The day I was delivered
+My soul sings, &quot;Hallelujah I'm redeemed!&quot;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh precious is the flow
+that makes me white as snow
+No other fount I know
+Nothing but the Blood of Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

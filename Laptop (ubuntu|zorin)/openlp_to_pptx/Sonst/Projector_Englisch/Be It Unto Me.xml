@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Be It Unto Me</title>
+    </titles>
+    <authors>
+      <author type="words">William Chatterton Dix</author>
+      <author type="music">Ian Hannah</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Be it unto me
+According to Your Word
+According to Your promises
+I can stand secure
+Carve upon my heart
+The Truth that sets me free
+According to Your Word
+Oh Lord,
+Be it unto me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You promised Your word will deliver
+Lord, we believe it's true
+You promised us joy like a river
+Lord we receive it from You
+These things You have spoken
+And You're bringing to pass
+This world's disappearing
+But Your word will last</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You promised to carry our sorrows
+Lord, we believe it's true
+You promised unending tomorrows
+Lord we receive them from You
+You'll be our provider
+In Your Word it's revealed
+And by the stripes that You bore
+Lord we have been healed</lines>
+    </verse>
+  </lyrics>
+</song>

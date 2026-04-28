@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Do You Really Know Him</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You say you met Him years ago,
+And oh the joy that flooded your soul;
+But what of today,
+When did you last take time to pray,
+Seek His face in that secret place,
+He is here to meet with you;
+Now will you meet with Him?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Do you really know Him
+in a personal way?
+When on the shores of glory,
+what will you hear Him say?
+&quot;Enter in thou good and faithful son,&quot;
+Or will He turn you away?
+Do you really know Him
+in a personal way?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Many will come on that day and say,
+&quot;Have we not done many
+wonderful things in your name,
+Cast out devils, raised the dead,
+healed the sick,
+The hungry are fed?&quot;
+But He'll say,
+&quot;Depart from Me, I never knew you.&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

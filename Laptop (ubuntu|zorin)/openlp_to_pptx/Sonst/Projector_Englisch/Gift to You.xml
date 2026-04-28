@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gift to You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Everything I am (everything I am)
+Everything I'll be (everything I'll be)
+I give it to you, Lord (I give it to you, Lord)
+And do it thankfully (thankfully)
+Every song I sing, every praise I bring,
+Everything I do is a gift to you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Everything I have (everything I have)
+All you've given me (all you've given me)
+I give it to you, Lord (I give it to you, Lord)
+And do it thankfully (thankfully)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Every song I sing,
+Every praise I bring, everything I do,
+Is a gift to you.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Everything I am (everything I am)
+Everything I'll be (everything I'll be)
+I give it to you, Lord (I give it to you, Lord)
+And do it thankfully (thankfully)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Every song I sing,
+Every praise I bring, everything I do,
+Is a gift to you,
+Is a gift to you.</lines>
+    </verse>
+  </lyrics>
+</song>

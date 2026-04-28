@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Love You Lord Today</title>
+    </titles>
+    <authors>
+      <author type="words">John Ellis</author>
+      <author type="music">John Ellis</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>love you, I love you,
+I love you Lord today,
+Because you care for me in such special way,
+That's why I praise you,
+I lift you up and I magnify your name,
+That's why my heart is filled with praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love you, I love you
+I love you Lord today
+Because you care for me in such special way
+That's why I praise you
+I lift you up and I magnify your name
+That's why my heart is filled with praise</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My heart, my mind, my soul belongs to you
+You paid the price for me way back on calvary
+That's why I praise you
+I lift you up and I magnify your name
+That's why my heart is filled with praise</lines>
+    </verse>
+  </lyrics>
+</song>

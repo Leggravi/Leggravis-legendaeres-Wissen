@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>'Tis True</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>'Tis true, oh yes'tis true
+God's wonderful promise is true!
+For I've trusted and tested and tried it
+And I know God's promise is true.</lines>
+    </verse>
+  </lyrics>
+</song>

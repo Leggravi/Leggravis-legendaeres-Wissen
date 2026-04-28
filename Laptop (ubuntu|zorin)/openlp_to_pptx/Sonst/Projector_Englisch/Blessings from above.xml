@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Blessings from above</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In this place, Lord our praises we bring
+Our hearts are filled with joy and adoration
+We thank You for the hearts You have joined,
+We thank You for the lives You have united as one
+As they start their lives together,
+As they put their hands in Your hand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We pray for blessings from above to fill their lives,
+We pray for love of the Father to flow through their hearts,
+We pray for joy of the spirit, peace of the Son,
+And in Your presence each day they'll find
+New strength to see them through</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In this place Lord our worship we bring
+To You our Lord, and King, and The Rock of our salvation
+To You and only You we will sing
+For You alone are worthy of the praise we bring
+You're the one who made this union
+You're the source of love eternal</lines>
+    </verse>
+  </lyrics>
+</song>

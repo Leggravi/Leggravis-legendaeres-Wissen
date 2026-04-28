@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He’ll Hold My Hand</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Some day when I travel
+My last mile here
+The call will be coming for me
+I will enter the lifeboat, that will be near
+To carry me overdeath sea</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He’ll hold my hand
+As over death's river I go
+And safe I will be
+In Beautiful Heaven I know</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My boat will sail safely
+Though the waves dash high
+For Jesus will be by my side
+He’ll calm the rough waters
+And by and by,
+I’ll cross the river so wide.</lines>
+    </verse>
+  </lyrics>
+</song>

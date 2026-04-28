@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It's So Good to Be In the House of the Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's so good to be in
+the house of the Lord again
+With my brothers and sisters in
+the house of the Lord again
+So, let's just praise in the name of the Lord
+Together with this happy song
+It's so good to be in the house of
+the Lord again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come bless the Lord,
+All ye servants of the Lord,
+Who stand by night,
+In the house of the Lord.
+Lift up your hands,
+In the Holy Place,
+And bless the Lord.
+And bless the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We're together again
+Just praising the Lord.
+We're together again
+In one accord.
+Something good
+Is going to happen,
+Something good is in store.
+We're together again,
+Just praising the Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wherever I go, I'll praise Him
+Whenever I can, I'll praise Him,
+For His love surrounds me like a sea.
+I'll praise the name of Jesus
+Lift up the name of Jesus
+For the name of Jesus lifted me.</lines>
+    </verse>
+  </lyrics>
+</song>

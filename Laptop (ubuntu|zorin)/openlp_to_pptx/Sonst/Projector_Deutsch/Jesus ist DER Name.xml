@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus ist DER Name</title>
+    </titles>
+    <authors>
+      <author type="words">Benjamin Schmolck</author>
+      <author type="music">Tut mir auf die schöne Pforte</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus ist
+DER Name, der über allen Namen ist,
+DER Name, der allem Leben Leben gibt.
+DER Name, der heilt, DER Name, der liebt,
+DER Name, der rettet und uns vergibt.
+DER Name, der stärkt, DER Name, der bleibt,
+DER Name, der heiligt und befreit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus ist der Herr der Welt, der Name, der alleine zählt. (der für immer nur zählt)
+Jesus ist der allmächtige Gott, der heilige Name, das lebendige Wort.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In Dir ist das Leben, in Dir ist die Kraft,
+In Dir kann ich leben, erhellst meine Nacht.
+In Dir ist die Stärke, In Dir ist das Heil
+In Dir kann ich alles, Du selbst wirst mein Teil.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>DER NAME JESUS</lines>
+    </verse>
+  </lyrics>
+</song>

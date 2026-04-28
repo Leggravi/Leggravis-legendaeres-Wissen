@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Whenever I See Your Face</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Whenever I see Your face
+Them all of my fears will fly.
+Whenever I clearly hear,
+The times when I ask You why.
+Whenever I feel Your arms,
+Whenever You hold me close
+For then I will see Your face
+As I am found in You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now the heavens can be home
+For my spirit has been freed
+And my soul, it rests in You
+And Your life is found in me.
+And this death, it ends in life
+With this faith, in love fulfilled,
+And my eyes will finally see Your face.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lead me to know You more,
+And help me to understand.
+You cause me to see in faith
+All of Your dreams and plans.
+For faith is perfected now
+For living and loving You
+In hope never wavering
+Completely found in You.</lines>
+    </verse>
+  </lyrics>
+</song>

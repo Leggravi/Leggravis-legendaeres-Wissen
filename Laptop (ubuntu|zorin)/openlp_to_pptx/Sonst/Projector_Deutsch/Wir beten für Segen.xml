@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir beten für Segen</title>
+    </titles>
+    <authors>
+      <author type="words">Esther Lütze</author>
+      <author type="music">Laura Story</author>
+      <author type="translation">Blessings (We pray for blessings)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir beten für Segen
+Für Frieden hier,
+Trost für Familien
+Und Schutz in jeder Nacht</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir wollen Heilung 
+Gutes nur von Dir
+Und das deine starke Hand
+Das Leben leichter macht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Die ganze Zeit 
+Hörst du uns wirklich zu
+Denn du liebst uns so sehr
+Und gibst uns um so mehr.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Doch was wenn durch Regen erst der Segen
+Wenn erst durch Tränen Heilung kommt
+Was wenn durch 1000 wache Nächte
+Mir dann zeigen du bist da
+Wenn im Leid in Wirklichkeit
+Viel mehr deine Gnade wohnt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wir beten für Weisheit
+Um dich zu hören
+Doch wir sind enttäuscht wenn wir 
+Dich dann nicht nahe spüren.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wir zweifeln deine Güte
+Deine Liebe an
+Dein Wort hat es versprochen doch
+Wir denken kaum daran.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Alle Zeit hörst du Herr unser flehen
+Und sehnst dich danach das wir
+Dir ganz vertrauen.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Doch was wenn durch Regen erst der Segen
+Wenn erst durch Tränen Heilung kommt
+Was wenn erst 1000 wache Nächte
+Mir dann zeigen du bist da
+Wenn im Leid in Wirklichkeit
+Viel mehr deine Gnade wohnt</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Wenn Freunde gehen
+Wenn Dunkelheit gewinnt wird klar:
+Der Schmerz erinnert mich
+Hier bin ich, bin ich nicht daheim
+Bin nicht daheim</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Doch was wenn durch Regen erst der Segen
+Wenn erst durch Tränen Heilung kommt
+Was wenn erst 1000 wache Nächte
+Mir dann zeigen du bist da</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Wenn meine größte Illusionen 
+Und die Schmerzen dieser Zeit
+Nur ein Zeichen des Verlangens sind 
+Dass diese Welt nicht stillen kann.
+Wenn im Leid in Wirklichkeit, 
+im Regensturm in harter Zeit
+Viel mehr deine Gnade wohnt.</lines>
+    </verse>
+    <verse name="v12">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

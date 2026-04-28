@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lobpreisopfer bringen wir zu dem Hause des Herrn</title>
+    </titles>
+    <authors>
+      <author type="words">Thomas van Dooren</author>
+      <author type="music">Kirk Dearman</author>
+      <author type="translation">We bring the sacrifice of praise</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lobpreisopfer bringen wir zu dem Hause des Herrn:|
+Und wir bringen, Herr, zu Dir ein Opfer der Dankbarkeit
+und wir bringen, Herr , zu Dir Opfer der Freude.</lines>
+    </verse>
+  </lyrics>
+</song>

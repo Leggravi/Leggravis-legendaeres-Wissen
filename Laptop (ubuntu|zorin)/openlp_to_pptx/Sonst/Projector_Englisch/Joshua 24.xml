@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Joshua 24</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Are you wondering what could be the meaning of your life
+Are you wondering which way to choose
+Do you feel unsure of God's plan for you
+Let Him do it and He will see you through</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But as for me and my house we will serve the Lord
+But as for me and my house we will serve the Lord
+No matter what they say I'll wait for the day
+Till the Lord takes me there</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It's time for you to decide to give all or nothing
+Life without Him is sorrow, never ending
+So stand up, be counted then start to sing
+Cause with Jesus in your heart we've got everything</lines>
+    </verse>
+  </lyrics>
+</song>

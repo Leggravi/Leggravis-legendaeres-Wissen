@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Feb 19, 2020, 4:53:39 PM">
+  <properties>
+    <titles>
+      <title>I Will Run To You</title>
+    </titles>
+    <verseOrder>V1 V2 C3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Your eye is on the sparrow
+And Your hand, it comforts me
+From the ends of the Earth to the depth of my heart
+Let Your mercy and strength be seen</lines>
+    </verse>
+    <verse name="V2">
+      <lines>You call me to Your purpose
+As angels understand
+For Your glory, may You draw all men
+As Your love and grace demand</lines>
+    </verse>
+    <verse name="C3">
+      <lines>And I will run to You to Your words of truth
+Not by might, not by power but by the spirit of God
+Yes I will run the race till I see Your face
+Lord let me live in the glory of Your grace</lines>
+    </verse>
+  </lyrics>
+</song>

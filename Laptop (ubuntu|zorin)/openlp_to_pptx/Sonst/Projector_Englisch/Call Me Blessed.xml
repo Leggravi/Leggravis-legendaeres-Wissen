@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Call Me Blessed</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One day I ran my boat aground,
+My ship of love was goin' down;
+Then Jesus came at my distress,
+Don't call me lucky, call me blessed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Don't call me lucky, call me blessed
+This life of mine's no chance success;
+I know Jesus is my happiness
+Don't call me lucky, call me blessed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I've ears to hear and eyes to see
+I've got a precious family;
+A place to lay my head and rest
+Don't call me lucky, call me blessed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Blessed are the meek and lowly,
+While on this earth they trod;
+Blessed are the poor in spirit
+For we know that they'll see God.
+Blessed are those who hunger,
+And thirst for righteousness;
+Don't call them lucky, call them blessed.</lines>
+    </verse>
+  </lyrics>
+</song>

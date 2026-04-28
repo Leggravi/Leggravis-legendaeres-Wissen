@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let them see Christ</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus is so real to me I see him through eyes of faith
+I have felt His presence hear, in the moments of each day
+Yet so many do not know of the love he longs to give
+O how will they come to see Christ and believe</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let them see Christ in me.
+Let them see Christ in me.
+Let me be his eyes of compassion
+And his ears to hear their need
+Let them see Christ in me.
+Let them see Christ in me.
+Let me be his heart of boundless love
+Let them see Christ in me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>People struggle all alone, in the darkness of this world
+Some imprisoned by their greed, some have given up all hope
+Let the word be flesh again in my life and in my deeds
+That people may see Jesus and believe</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O may I let his light to shine
+That others soon will find
+His grace, his peace, his strength his joy!</lines>
+    </verse>
+  </lyrics>
+</song>

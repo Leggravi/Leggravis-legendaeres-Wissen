@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Lay in Zion</title>
+    </titles>
+    <authors>
+      <author type="words">Leon Patillo</author>
+      <author type="music">Leon Patillo</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I lay in Zion for a foundation, a Stone,
+I lay in Zion for a foundation, a Stone,
+A tried Stone, a precious Cornerstone,
+A sure Foundation, a sure Foundation.
+A tried Stone, a precious Cornerstone,
+He that believeth shall, shall not make haste.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wonderful, counselor, the Mighty God,
+The everlasting Father;
+Wonderful, Counselor, Prince of Peace
+I lay in Zion for a foundation, a Stone,
+I lay in Zion for a foundation, a Stone,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A tried Stone, a precious Cornerstone,
+A sure Foundation, a sure Foundation.
+A tried Stone, a precious Cornerstone,
+He that believeth shall, shall not make haste.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wonderful, counselor, the Mighty God,
+The everlasting Father;
+Wonderful, Counselor, Prince of Peace
+Prince of Peace, Prince of peace.</lines>
+    </verse>
+  </lyrics>
+</song>

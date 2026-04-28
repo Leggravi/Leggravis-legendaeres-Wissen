@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:21">
+  <properties>
+    <titles>
+      <title>Du bist unsre Zuversicht. Du bist unsre Stärke</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Schnitter (1982)</author>
+      <author type="music">Gerhard Schnitter</author>
+    </authors>
+    <ccliNo>4350404</ccliNo>
+    <themes>
+      <theme>Vertrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Über allen Fragen dieser Zeit
+und der Angst, die uns verblendet,
+bist du doch der Herr in Ewigkeit
+und dein Plan wird vollendet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alle Hoffnungen der Welt vergehn,
+und es bleibt nur banges Sorgen.
+Doch weil wir in dir die Hoffnung sehn,
+sind wir schon jetzt geborgen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn uns Not und Sünde überfällt
+und verhindern will das Leben,
+dann bist du der Treue, der uns hält,
+und du willst uns vergeben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In Bedrängnis und Verlassenheit,
+wenn die eignen Kräfte schwinden,
+hast du deine Kraft für uns bereit.
+Du lässt das Ziel uns finden.</lines>
+    </verse>
+  </lyrics>
+</song>

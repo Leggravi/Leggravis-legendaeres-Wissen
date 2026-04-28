@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Worth It</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, You left the splendor of heaven
+A crown, a robe, and a throne
+But what kind of love
+Would lead You to leave
+The safety of that kind of home
+I know that You willingly suffered
+But why would You suffer for me?
+I know what I am
+And I don't understand
+How I could be worth Calvary</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When You knew I was lost
+And You knew that a cross
+Was the price You'd have to pay
+When we cried crucified
+Lord, You didn't have to die
+But you did it anyway
+Now I'll never see what You saw in me
+'Cause You knew I would never be perfect
+But I'm just so glad
+That somehow you thought I was worth it</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, sometimes I feel like a vessel
+Just useless old pieces of clay
+But somehow you saw more
+Something worth dying for
+You paid more than You should have paid</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When You knew I was lost
+And You knew that a cross
+Was the price You'd have to pay
+When we cried crucify
+Lord, You didn't have to die
+But you did it anyway
+Now I'll never see what You saw in me
+'Cause You knew I would never be perfect
+But I'm just so glad
+That somehow you thought I was worth it</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Now I'll never see what You saw in me
+'Cause You knew I would never be perfect
+But I'm just so glad
+That somehow you thought I was worth it</lines>
+    </verse>
+    <verse name="v6">
+      <lines>But I'm just glad
+That somehow you thought
+I was worth it</lines>
+    </verse>
+  </lyrics>
+</song>

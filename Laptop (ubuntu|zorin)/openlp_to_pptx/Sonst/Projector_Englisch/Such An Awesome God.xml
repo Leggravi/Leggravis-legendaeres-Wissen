@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Such An Awesome God</title>
+    </titles>
+    <authors>
+      <author type="words">Tore W. Aas</author>
+      <author type="music">Tore W. Aas</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You call the sun to rise
+And You lay it down to rest
+You hold this heart of mine
+And You hold my every breath</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Such an awesome God
+So mighty
+So holy
+So wonderful
+Such an awesome God
+So selfless
+So generous
+So faithful, You are</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Seated in majesty
+Reigning in holiness
+The table is set for me
+For You are the living bread</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And nothing comes close to the Lord Almighty
+Nothing as sweet as His love and mercy
+Nothing comes close to the Lord Almighty
+And nothing as sweet as Your love and mercy</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, nothing comes close to the Lord Almighty
+Nothing as sweet as His love and mercy
+Oh, nothing comes close to the Lord Almighty
+Nothing as sweet as Your love and mercy</lines>
+    </verse>
+    <verse name="v6">
+      <lines>There's nothing sweeter, sweeter than Your love
+Jesus, the Son of God
+Hung on a Cross to die
+But not even death itself
+Could hold You down, for You rose to life</lines>
+    </verse>
+    <verse name="v7">
+      <lines>The name of God is mercy
+Oh, the name of God is love
+Oh, the name of God is kindness
+And He's pouring out on us
+Oh, He's pouring out on us</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Oh, the name of God is mercy
+Yes, it is, yes, it is
+Oh, the name of God is love
+Oh, the name of God is kindness</lines>
+    </verse>
+    <verse name="v9">
+      <lines>And You're pouring out on us
+Oh, You're pouring out on us
+You're pouring out (You're pouring out on us)
+You're pouring out on us (You're pouring out on us)
+You're redefining love to me (You're pouring out on us)</lines>
+    </verse>
+  </lyrics>
+</song>

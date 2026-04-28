@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Living By Faith</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I care not today
+What the morrow may bring,
+If shadow or sunshine or rain,
+The Lord I know ruleth
+  o'er everything,
+And all of my worry is vain.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Living by faith, in Jesus above,
+Trusting, confiding in
+His great love;
+From all harm safe
+In His sheltering arm.
+I'm living by faith
+And I feel no alarm.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though tempest may blow
+And the stormclouds arise,
+Obscuring the brightness of life,
+I'm never alarmed
+At the overcast skies,
+The Master looks on at the strife.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I know that He safely
+  will carry me through,
+No matter what evils betide,
+Why should I then care,
+Though the tempest may blow,
+If Jesus walks close to my side.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Our Lord will return to this
+  earth some sweet day,
+Our troubles will then all be o'er.
+The Master so gently
+Will lead us away,
+Beyond that blest heavenly shore.</lines>
+    </verse>
+  </lyrics>
+</song>

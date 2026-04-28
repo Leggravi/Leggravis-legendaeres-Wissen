@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Psalm 23 – Don Moen</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, my shepherd and only provider
+He makes me lie down in green pastures
+He leads me beside the still water
+He restores my soul
+Surely goodness and mercy will follow me
+All the days of my life
+And I will dwell in house forever
+Until the end of time</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, my shepherd and only provider
+You make me lie down in green pastures
+You lead me beside the still water
+You restore my soul
+Though I walk through the valley of shadows
+I will not be afraid (I'm not afraid)
+Your rod and staff are my only comfort
+And You'll be with me always (with me always)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You prepared a table before me
+In the presence of my enemies
+And you anoint my head with oil
+And my cup overflows
+My cup overflows with your love, with your love (Your love)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, my shepherd and only provider
+You make me lie down in green pastures
+You lead me beside the still water
+You restore my soul</lines>
+    </verse>
+  </lyrics>
+</song>

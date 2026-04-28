@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Is Mighty</title>
+    </titles>
+    <authors>
+      <author type="words">Carol Owen</author>
+      <author type="music">Carol Owen</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hey ey ey ey
+Hey ey ey ey</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Everybody, lift your hands,
+Everybody, sing his praises,
+with every voice shout,
+and rejoice to the mighty,
+God the Anointed one.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He is mighty and greatly to be praised,
+He is holy let us worship and adore,
+He is worthy we will magnify His name,
+He is worthy to be worshipped and praised.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are mighty,
+You are holy,
+You are worthy to be praised.</lines>
+    </verse>
+  </lyrics>
+</song>

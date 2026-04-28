@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In the Presence of Jehovah</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In and out of situations
+That tug – a – war at me
+All day long I struggle
+For answers that I need.
+Then I come into His presence
+All my questions become clear
+And for a sacred moment
+No doubt can interfere.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the presence of Jehovah
+God Almighty Prince of Peace
+Troubles vanish hearts are mended
+In the presence of the King</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Through His love
+The Lord provided
+A place for us to rest
+A place to find the answers
+In hour of distress.
+There is never any reason
+To give up in despair
+Just slip away and breathe His name
+He will come and meet you there.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Painter of the Sky</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is no other Name in heaven,
+There is no other Name on the earth
+By which we can be saved,
+There is no other way,
+So we worship, You, our King,
+And give You everything.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is none like You,
+Painter of the sky,
+Bright and morning star,
+Shine into our lives,
+There is none like You,
+Beginning and the end,
+All-consuming fire,
+Ignite our hearts again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is no other love like Jesus,
+There is no other friend so true,
+No other hand of grace,
+No other hiding place,
+You're the Lamb of sacrifice,
+The glory of our lives.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Rock of refuge, holy One,
+Your love has made us new,
+Through the ages kingdom come,
+We will worship You,
+We will worship You.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>All-consuming fire,
+Ignite our hearts again.</lines>
+    </verse>
+  </lyrics>
+</song>

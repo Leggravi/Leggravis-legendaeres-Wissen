@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Es ist Herrlichkeit, mit ihm zu gehn</title>
+    </titles>
+    <authors>
+      <author type="words">Johannes Roos</author>
+      <author type="music">Haldor Lillenas</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es ist Herrlichkeit, mit ihm zu gehn,
+es ist Herrlichkeit, mit ihm zu gehn;
+denn er führt mich überall, 
+sei's Berge, sei's durchs Tal.
+Es ist Herrlichkeit, mit ihm zu gehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Es ist Herrlichkeit, auf ihn vertraun, 
+es ist Herrlichkeit, auf Jesus schaun;
+der sein teures Blut uns gibt, 
+der uns ewig, ewig liebt;
+es ist Herrlichkeit, auf ihn vertraun.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Es ist Herrlichkeit, zu dienen ihm,
+es ist Herrlichkeit, auf Jesus schaun;
+der das Heil der Welt erwarb, 
+der für alle, alle starb;
+es ist Herrlichkeit, zu dienen ihm, dienen .</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Es ist Herrlichkeit, den König sehn,
+es ist Herrlichkeit, auf Jesus schaun;
+wenn er kommt von seinem Thron, 
+der geliebte Gottessohn;
+es ist Herrlichkeit, den König sehn.</lines>
+    </verse>
+  </lyrics>
+</song>

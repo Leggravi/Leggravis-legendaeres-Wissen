@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Everybody Up There</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I wondered again
+of my home in heaven,
+Where we shall have peace
+and be happy and free,
+Where Jesus shall rule and
+the saints be with Him,
+Where we all will be young
+and we'll never grow old.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Everybody up there,
+Will give praise to the Master
+Nobody up there that will disagree
+We all will be one, big family in heaven
+And we will all have a name
+By the Father above.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I want to thank God
+for the seventh angel
+The vessel God chose
+to bring forth His word
+Now the prophet has gone and the
+days here are numbered
+When Jesus will come
+to take home His bride.</lines>
+    </verse>
+  </lyrics>
+</song>

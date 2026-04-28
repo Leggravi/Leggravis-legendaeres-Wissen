@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>No Shame</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v4 v6 v4 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I hear what you're saying
+At the end of the other line
+What you said, you'd never do again
+You did it one more time</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're crushed and you're hopeless
+'Cause you fell to the weakness
+You feel like a fool
+Wonder if there's grace enough for you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He knows your name
+Every tear you cry
+He knows the pain
+How you feel alone</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Feel the weight of the blame
+But mercy longs to reach us
+In the arms of Jesus
+There is no shame</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Your world's been shattered
+And your heart's torn in two
+'Cause you've done something
+That you can't undo</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You can't deny and you can't pretend
+The loss of the innocence
+And you wish you could forget
+Another midnight of all your regret</lines>
+    </verse>
+    <verse name="v7">
+      <lines>He knows your name
+Every tear you cry
+He knows your pain
+How you feel alone</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Once you know He's forgiven you
+And you've forgiven yourself, too
+Let His mercy flow
+Till you're white as snow</lines>
+    </verse>
+  </lyrics>
+</song>

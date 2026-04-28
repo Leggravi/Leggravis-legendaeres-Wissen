@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gott mag Kinder</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Kallauch</author>
+      <author type="music">Daniel Kallauch</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott mag Kinder, große und kleine,
+dicke, dünne, kurze oder lange Beine,
+rotes, blondes, schwarzes Haar,
+Gott mag Kinder, das ist wunderbar!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gott macht keinen Unterschied
+zwischen den Menschen, die er liebt.
+Gott liebt alle, das ist klar,
+auch uns Kinder, das ist wahr!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gott mag Kinder, große und kleine,
+dicke, dünne, kurze oder lange Beine,
+rotes, blondes, schwarzes Haar,
+Gott mag Kinder, das ist wunderbar!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gott hat alles in der Hand,
+jedermann, in jedem Land.
+Gott schützt alle, das ist klar,
+auch uns Kinder, das ist wahr!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gott mag Kinder, große und kleine,
+dicke, dünne, kurze oder lange Beine,
+rotes, blondes, schwarzes Haar,
+Gott mag Kinder, das ist wunderbar!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gott hat einen guten Weg
+für jeden Menschen, der ihn geht.
+Gott führt alle, das ist klar,
+auch uns Kinder, das ist wahr!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Gott mag Kinder, große und kleine,
+dicke, dünne, kurze oder lange Beine,
+rotes, blondes, schwarzes Haar,
+Gott mag Kinder, das ist wunderbar!</lines>
+    </verse>
+  </lyrics>
+</song>

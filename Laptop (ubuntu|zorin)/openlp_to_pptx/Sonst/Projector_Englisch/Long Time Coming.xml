@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Long Time Coming</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v4 v3 v5 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You've been waiting and praying for so many years;
+Overcome with the doubts that just led you to fear,
+But you stayed strong (but you stayed strong),
+And you held on.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To the God who makes way when your path is unclear;
+Giving hope, shining light, making lust disappear,
+Bring a new life (bring a new life),
+Before your eyes</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It's been a long time coming,
+Trusting in the Father,
+Victory is sweet when you felt defeat,
+But you didn't give up or retreat;
+It is His faith that kept me going,
+While waiting on the promise.
+All my hopes and dreams
+Impossible it seems fulfill
+But now it's all I see, It's been a long time coming.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now you see that He's done
+All He said, He will do;
+You can trust in His Word
+Cause He'll always come through,
+Always faithful (always faithful),
+More than able.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When you trust and believe
+(trust and believe…)
+All the miracles you'll see.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>It's been a long time coming…
+(long time coming)
+(long time coming)
+It's been a long time coming.</lines>
+    </verse>
+  </lyrics>
+</song>

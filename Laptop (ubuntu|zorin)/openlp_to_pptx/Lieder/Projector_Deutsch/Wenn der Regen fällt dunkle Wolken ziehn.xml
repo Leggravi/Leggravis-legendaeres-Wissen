@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wenn der Regen fällt, dunkle Wolken ziehn</title>
+    </titles>
+    <authors>
+      <author type="words">Andreas Malessa</author>
+      <author type="music">John Denver</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wenn der Regen fällt, dunkle Wolken ziehn
+und kein Mensch ist da, der mal nach dir fragt.
+Wenn es dunkel wird und du einsam bist,
+weil du keinen hast, der sich um dich sorgt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sprich zu ihm, er ist da
+und er kennt die Einsamkeit.
+Jesus Christus will dein Freund sein.
+Sprich zu ihm, er ist da!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn kein Anruf kommt, alles um dich schweigt
+und es nichts mehr gibt, was dich fasziniert.
+Wenn es Abend wird und du traurig bist,
+weil Enttäuschung dein Denken bitter macht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wenn die Zeit verrinnt und die Angst dich packt,
+weil du mutlos bist für den nächsten Tag.
+Wenn du plötzlich weinst und dich schämen musst,
+weil du stark sein willst und es doch nicht kannst.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Yours Is Dominion and Strength</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yours is dominion and strength
+all honor is Yours alone.
+Heaven and earth bow before You with fear.
+The sky is open, death is conquered.
+And honor is Yours alone.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nothing overcomes Your name, Your power.
+King of the world, all creation sings to You.
+God of eternity You are wonderful, You are wonderful.
+And the call of this world will be Your praise.
+God Your wonderful name will shine forever as light.
+Because the glory is Yours.
+God forever all glory is Yours.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Bride Is for Christ</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The heavens declare Your glory
+The nations bow before Thee
+And in this place
+Let Your praise arise
+The Philippines is for Christ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Reign, reign Lord Jesus
+In our hearts and in our lives
+Reign, reign O Lord of the heavens
+The Philippines is for Christ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Forever Your name be exalted
+O Lord of all creation
+And in this place
+We lift Your song on high
+The Bride is for Christ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Reign, reign Lord Jesus
+In our hearts
+And in our lives
+Reign, reign, O, Lord of the heavens
+The Bride is for Christ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The Bride is for Christ.</lines>
+    </verse>
+  </lyrics>
+</song>

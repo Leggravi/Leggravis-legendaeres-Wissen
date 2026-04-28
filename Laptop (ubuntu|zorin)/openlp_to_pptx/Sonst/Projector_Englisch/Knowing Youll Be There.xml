@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Knowing You'll Be There</title>
+    </titles>
+    <authors>
+      <author type="words">Graham Kendrick</author>
+      <author type="music">Graham Kendrick</author>
+      <author type="translation">Dich erkennen, Jesus (Alles, was mir einst so wertvoll schien)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The other day I passed the place
+You always liked to go
+And I picked up the phone because
+I thought you'd want to know
+But I forgot you weren't there
+I miss you all these days
+That I'm reminded of your smile
+And the funny things you'd say</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Knowing we can spend a lifetime
+Reminiscing on the past
+Knowing I will see your face again
+Where tender moment last
+It makes me wanna be there
+Knowing I won't be alone
+Knowing you'll be there makes it easy to go home</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I miss you most at Christmas
+You were like a little kid
+You always loved a good surprise
+And now I must admit
+That I long more for heaven
+Than I ever did before
+You give me one more reason
+And each day I want it more</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You left your friends and loved ones
+Somehow you left me too
+And though I've felt you many times
+And know you saw me through
+I'll always long to feel your arms
+And look into your eyes
+And talk forever me and you
+Somewhere in paradise</lines>
+    </verse>
+    <verse name="v5">
+      <lines>If your body suffers pain and your health you can't regain
+And your soul is almost sinking in despair
+Jesus knows the pain you feel, He can save and He can heal
+Take your burden to the Lord and leave it there</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Leave it there, leave it there
+Take your burden to the Lord and leave it there
+If you trust and never doubt
+He will surely bring you out
+Take your burden to the Lord and leave it there</lines>
+    </verse>
+  </lyrics>
+</song>

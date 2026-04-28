@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:59">
+  <properties>
+    <titles>
+      <title>Dankt, dankt dem Herrn, jauchzt volle Chöre</title>
+    </titles>
+    <authors>
+      <author type="words">Matthias Jorissen (1793)</author>
+      <author type="music">Christian Friedrich Richter</author>
+    </authors>
+    <ccliNo>4339511</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dankt, dankt dem Herrn, jauchzt volle Chöre,
+denn er ist freundlich jederzeit;
+singt laut, dass seine Güte währe
+von Ewigkeit zu Ewigkeit.
+Jauchz, Israel, und bring ihm Ehre!
+Er zeigte es dir jederzeit;
+frohlock, dass seine Gnade währe
+von Ewigkeit zu Ewigkeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Der Herr ist meine Hilf und Stärke,
+mein Psalm singt seine Treu und Macht;
+mein Heiland hat durch große Werke
+Sieg und Erlösung uns gebracht.
+Ich sterbe nicht, ich werde leben
+durch den, der mich erlöset hat;
+ich will die Werke froh erheben,
+die der Erbarmer für mich tat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dies ist der schönste aller Tage,
+den Gott uns schenkt, weil er uns liebt,
+dass jeder nun der Furcht entsage,
+sich freue, weil Gott Freude gibt.
+Schenk heut, Erbarmer, Heil und Segen,
+es ist dein Tag der Herrlichkeit!
+Gib, dass wir all erfahren mögen,
+wie hoch, Herr, deine Gnad erfreut!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du bist mein Gott, dich will ich loben,
+erheben deine Majestät.
+Dein Ruhm, mein Gott, wird hoch erhoben,
+der über alle Himmel geht.
+Rühmt, rühmt den Herrn! Schaut, sein Erbarmen
+bestrahlet uns in trüber Zeit,
+und seine Gnade trägt die Armen
+von Ewigkeit zu Ewigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

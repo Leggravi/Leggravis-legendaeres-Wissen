@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Take Up Thy Cross, Follow Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I journeyed one day along
+a country road
+And there a stranger journeyed too
+Bent low beneath the burden of
+His load
+It was a cross, a cross I knew.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take up Thy cross and follow me,
+follow me
+I hear the blessed Saviour's call
+How can I make a lesser
+sacrifice
+When Jesus gave His all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I cried Lord Jesus
+and He spoke my name
+I saw His hands all bruised
+and scarred
+I tried to kiss away the
+marks of shame
+The shame for me that He had
+borne.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thy cross I’ll carry till
+the crown appears
+The way I journey soon will end
+When God Himself shall wipe all tears
+And hold sweet fellowship
+with friends.</lines>
+    </verse>
+  </lyrics>
+</song>

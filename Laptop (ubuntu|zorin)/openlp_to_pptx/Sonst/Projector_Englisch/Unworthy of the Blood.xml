@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Unworthy of the Blood</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know not why the sovereign King would leave His throne on high
+And dwell here in this barren land with mortals such as I.
+He left His home in paradise, oh why, I'll never know,
+But His precious blood has made me purer than the virgin snow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here am I so unworthy of the blood,
+So unworthy of the blood that set me free.
+Here am I so unworthy of the blood,
+But yet it flowed for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For every time I falter and I bring the Father shame
+A droplet of His precious blood then falls upon my name.
+I'll never know the reason why this thing has come to be,
+All I know is that He did it just for you and me.</lines>
+    </verse>
+  </lyrics>
+</song>

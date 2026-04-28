@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Among The Thirsty</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm feeling so small
+I'm standing here weeping
+As I'm coming clean
+Of the secrets I'm keeping
+'Cause I've caused so much pain
+To the ones I love the most
+And I'm falling apart
+As I carry my heart to Your throne</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am completely surrendering
+Finally giving You everything
+You're my redeemer, I run to the cross
+Because You are more than enough
+Lord complete me
+'Cause I'm Yours completely</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm letting go
+There's nothing I own
+The treasures I held
+Just weighed down my soul
+And there's nothing left
+Inside of me
+But a longing for You
+And a longing to be the man that You need</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I let Your gifts take the place of you
+But You pulled up my selfishness from its roots
+I am a broken and fragile me
+But I'm where You want me to be</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lord complete me
+'Cause I'm Yours completely</lines>
+    </verse>
+  </lyrics>
+</song>

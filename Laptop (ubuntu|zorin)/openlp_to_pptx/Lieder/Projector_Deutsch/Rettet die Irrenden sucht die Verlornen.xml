@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Rettet die Irrenden, sucht die Verlornen</title>
+    </titles>
+    <authors>
+      <author type="words">Walter Rauschenbusch</author>
+      <author type="music">William H. Doane</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rettet die Irrenden, sucht die Verlornen,
+warnt, wo das Lokken der Sünde berückt;
+weint mit den Trauernden, hebt die Gefallnen,
+helft, wo die Schuld eine Seele bedrückt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rettet die Irrenden, sucht die Verlornen!
+Jesus errettet sie, Jesus ist gut</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Viele vergessen Ihn, manche verachten;
+Jesus harrt noch voll Erbarmen und Treu.
+Ruft's ihnen freund-lich zu, sagt's ihnen herzlich:
+Jesus verlanget nur Glauben und Reu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tief in dem Her-zens-grund lieget der Same,
+den in der Jugend die Liebe gestreut.
+Unter der Sünde Last lag er begraben,
+strahlt ihn die Gnade an, sproßt er noch heut.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Rettet die Irrenden, Jesus gebeut es;
+Mitleid und Liebe Er selber uns gibt.
+Hin auf den schma-len Weg führt sie geduldig;
+sagt's ihnen trö-stend, daß Jesus sie liebt.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mein Jesus, mein Retter</title>
+    </titles>
+    <authors>
+      <author type="words">Missionswerk Friedensstimme</author>
+      <author type="music">Ukraine</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mein Jesus, mein Retter,
+keiner ist so wie du.
+Lobpreis sei dir, jeden Tag mehr,
+für deine große Liebe, Herr.
+Mein Tröster, mein Helfer,
+du bist mir Zuflucht und Kraft.
+Alles in mir beugt sich vor dir.
+Du bist hoch erhoben, Herr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ruft zu dem Herrn, alle Enden der Welt!
+Ehre und Dank dem, der alles erhält.
+Himmel und Erde erhebt ihn und singt,
+wenn sein Name erklingt.
+Wir preisen dich, du hast Großes getan.
+Wir kommen vor dich und beten dich an.
+Dank sei dir, Herr, du bist unvergleichlich gut.</lines>
+    </verse>
+  </lyrics>
+</song>

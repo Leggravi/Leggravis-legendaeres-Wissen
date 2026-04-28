@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>How Great Are Your Works Oh Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It is good to give thanks to the Lord
+To sing praises to Your Name, oh most High
+To declare Your steadfast love in the morning
+And Thy faithfulness by night</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To the music of the flute and the harp
+To the melody of my life
+For You, oh Lord, have made me glad by Your works
+And the work of Your hand
+I sing for joy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>How great are Your works, Oh Lord
+Your thoughts are very deep
+How great are Your works
+How great are Your works
+How great are Your works, Oh Lord</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 2, 2022, 8:24:10 PM">
+  <properties>
+    <titles>
+      <title>The Rock</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>I started out to built a house of my dreams
+On life's shifting sands
+And with no thought of the wind,
+Or the rains that would come, with haste, I began.
+I gathered pleasures of every kind,
+Every thrill that I could find,
+Till, at last, the house of my dreams was finally mine.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>I was so proud of the house that I had built,
+I wanted all to see.
+Just what I had made out of my life,
+It looked so good to me.
+Until one day when the rains began,
+And from my house I quickly ran.
+In time to see my shattered dreams fall to the sand.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>So now I'm building again,
+But not as before
+My foolish dreams are all gone.
+I found it's not so important the house that you build,
+Is what your build it upon.
+And now I found me a Rock that's sure,
+It shall forever more endure
+Though every storm of life I'm shattered, safe and secure.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>And now I'm building on the Rock,
+Upon the solid Rock.
+The Rock that shall forever more endure.
+So let the storm clouds rise.
+The strong winds blow
+Let the rains come and go.
+For in Jesus forever I am safe
+For in Jesus forever I am safe
+For in Jesus forever I am safe
+Forevermore. Safe evermore.</lines>
+    </verse>
+  </lyrics>
+</song>

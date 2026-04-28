@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thanks, Thanks, I Give Thee Thanks</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thanks, thanks I give you thanks
+For all you've done.
+I am so blessed,
+My soul is at rest.
+Oh, Lord, I give you thanks.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thank you Lord for the strength you give
+To simply carry on.
+Through life's toils and tests,
+And the worst and best,
+You never left me alone.
+You're always right beside me,
+You hear me every time I pray.
+And since I first began,
+You've been my dearest friend
+And I give you all the praise.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I give you thanks for this moment,
+And I will continually.
+For each day I live, your praise to give,
+I'm blessed abundantly.
+I can't forget that moment,
+When in my life you made such change.
+And since the Spirit came,
+I've not been the same.
+I just wanna give you thanks</lines>
+    </verse>
+  </lyrics>
+</song>

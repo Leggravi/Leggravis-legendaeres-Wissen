@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Victory</title>
+    </titles>
+    <authors>
+      <author type="words">Diane Fung</author>
+      <author type="music">Diane Fung</author>
+      <author type="translation">Siegeskraft durchdringt das Dunkel</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Victory, victory,
+Over all the powers of
+ darkness, victory;
+When the battle's in array,
+Angels help us in the fray;
+And God fights for those
+ who pray, victory.</lines>
+    </verse>
+  </lyrics>
+</song>

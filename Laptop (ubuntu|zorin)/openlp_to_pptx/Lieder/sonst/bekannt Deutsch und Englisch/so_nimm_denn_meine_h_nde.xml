@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 14, 2019, 8:30:12 PM">
+  <properties>
+    <titles>
+      <title>So nimm denn meine Hände</title>
+    </titles>
+    <verseOrder>V1 V2 V3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>So nimm denn meine Hände
+und führe mich
+bis an mein selig Ende
+und ewiglich.
+Ich mag allein nicht gehen,
+nicht einen Schritt:
+wo du wirst gehn und stehen,
+da nimm mich mit.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>In dein Erbarmen hülle
+mein schwaches Herz
+und mach es gänzlich stille
+in Freud und Schmerz.
+Lass ruhn zu deinen Füßen
+dein armes Kind:
+es will die Augen schließen
+und glauben blind.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Wenn ich auch gleich nichts fühle
+von deiner Macht,
+du führst mich doch zum Ziele
+auch durch die Nacht:
+so nimm denn meine Hände
+und führe mich
+bis an mein selig Ende
+und ewiglich!</lines>
+    </verse>
+  </lyrics>
+</song>

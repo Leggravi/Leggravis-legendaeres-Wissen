@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nothing but the Blood of Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Robert Lowry</author>
+      <author type="music">Robert Lowry</author>
+      <author type="translation">Nur das Blut des Lammes Jesu (Was macht mich von Sünden rein)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What can wash away my sin?
+Nothing but the blood of Jesus.
+What can make me whole again?
+Nothing but the blood of Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O precious is the flow
+That makes me white as snow;
+No other fount I know;
+nothing but the blood of Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For my pardon this I see:
+nothing but the blood of Jesus.
+For my cleansing this my plea:
+nothing but the blood of Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nothing can for sin atone:
+nothing but the blood of Jesus.
+Naught of good that I have done:
+nothing but the blood of Jesus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>This is all my hope and peace:
+nothing but the blood of Jesus.
+This is all my righteousness:
+nothing but the blood of Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

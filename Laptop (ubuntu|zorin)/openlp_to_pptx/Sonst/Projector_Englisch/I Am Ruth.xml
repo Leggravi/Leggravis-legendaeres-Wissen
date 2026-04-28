@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Am Ruth</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Where thou goest I will go
+Where thou lodgest I will lodge,
+Where thou goest I will go
+Where thou lodgest I will lodge.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am Ruth, a virtuous woman
+Into Boaz field,
+Whose eyes shall I find great favour in
+Cover me with your garment of love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From the field, to the threshing floor
+From the threshing floor into the garner,
+From the field, to the threshing floor
+From the threshing floor into the garner</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are my Kinsman Redeemer
+The One who covered me,
+Took me from the field To have rest.
+No longer in Moab into Bethlehem,
+United with a near Kinsman.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>A Crown of Thorns</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There was no crown for Him
+Of silver or of gold
+There was no diadem for Him to hold
+But blood adorned His brow and proud
+Its stain He wore
+And sinners gave to Him the crown He wore</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A rugged cross became His throne,
+His kingdom was in hearts alone
+He wrote His love in crimson red
+And wore the thorns upon His head</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He did not reign upon a throne of ivory,
+He died upon the cross of Calvary
+For sinners there He counted all
+He owned but loss
+And He surveyed His kingdom from His cross.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No purple robe He wore
+His bleeding wounds to hide
+But stripes upon His back He wore with pride
+And from the wounds there flowed
+A crimson cleansing stream
+That was a cover for the soul unclean</lines>
+    </verse>
+  </lyrics>
+</song>

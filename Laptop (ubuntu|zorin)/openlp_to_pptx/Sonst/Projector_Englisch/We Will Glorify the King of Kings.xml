@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Will Glorify the King of Kings</title>
+    </titles>
+    <authors>
+      <author type="words">Twila Paris</author>
+      <author type="music">Twila Paris</author>
+      <author type="translation">Wir verehren den, der mächtig ist</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We will glorify the King of kings
+We will glorify the Lamb
+We will glorify the Lord of lords
+Who is the great I am</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord Jehovah reigns in majesty
+We will bow before His throne
+We will worship Him in righteousness
+We will worship Him alone</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We will glorify the King of kings
+We will glorify the Lamb
+We will glorify the Lord of lords
+Who is the great I am</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He is Lord of Heaven, Lord of Earth
+He is Lord of all who live
+He is Lord above the universe
+All praise to Him we give</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, hallelujah to the King of kings
+Hallelujah to the Lamb
+Hallelujah to the Lord of Lords
+Who is the great I am</lines>
+    </verse>
+    <verse name="v6">
+      <lines>We will glorify the King of kings
+We will glorify the Lamb
+We will glorify the Lord of lords
+Who is the great I am
+Who is the great I am</lines>
+    </verse>
+  </lyrics>
+</song>

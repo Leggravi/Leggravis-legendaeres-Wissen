@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Das alt’ raue Kreuz</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dort auf Golgatha stand
+Einst ein alt’ raues Kreuz
+Stets ein Sinnbild von Leiden und Weh.
+Doch ich liebe das Kreuz
+Denn dort hing einst der Herr
+Und in ihm ich das Gotteslamm seh.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Schätzen werd' ich das alt’ raue Kreuz
+Bis ich Jesus erblick auf dem Thron.
+Ich will halten mich fest an dem Kreuz
+Einst erhalt' ich dafür eine Kron.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dieses alt’ raue Kreuz
+Von der Welt so verhöhnt
+Zieht mich wunderbar mächtiglich an.
+Hat doch dort Gottes Lamm
+Das vom Thron zu uns kam
+Für uns Sünder Genüge getan.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Diesem alt’ rauen Kreuz
+Bleib auf immer ich treu
+Trage williglich Schande und Hohn.
+Einstens ruft er mich heim
+Wo ich ewig darf schaun
+Seine Herrlichkeit vor Gottes Thron.</lines>
+    </verse>
+  </lyrics>
+</song>

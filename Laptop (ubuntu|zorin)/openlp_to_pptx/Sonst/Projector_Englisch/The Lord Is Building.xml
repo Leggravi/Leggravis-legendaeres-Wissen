@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Lord Is Building</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord is building Jerusalem
+The Lord is building Jerusalem
+Gathering together the outcasts of Israel
+Healing broken hearts, binding up their wounds
+The Lord is building, the Lord is building up Jerusalem</lines>
+    </verse>
+  </lyrics>
+</song>

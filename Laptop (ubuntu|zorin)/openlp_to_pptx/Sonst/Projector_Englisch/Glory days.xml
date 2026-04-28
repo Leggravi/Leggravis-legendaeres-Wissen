@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Glory days</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can see the miracle and the ordinary things
+I have learned to celebrate what each new morning brings
+Because Jesus touches common lives in such uncommon ways
+And when it comes to living these are the glory days</lines>
+    </verse>
+    <verse name="v2">
+      <lines>These are glory days of mercy, these are glory days of grace
+When the blessing and the blessed come together face to face
+Yes I know, this isn't heaven, there is sorrow there is strife
+But just knowing I'm forgiven makes it the glory days of life.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To some it is the good old days they can't believe are gone
+To others, it's the future that keeps them pressing on
+But I take joy in knowing all the sweet and loving ways
+God just keeps on blessing me in these glory days</lines>
+    </verse>
+  </lyrics>
+</song>

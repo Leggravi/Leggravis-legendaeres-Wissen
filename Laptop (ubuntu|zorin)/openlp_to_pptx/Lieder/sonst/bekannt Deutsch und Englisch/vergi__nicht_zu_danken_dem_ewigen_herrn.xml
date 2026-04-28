@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="May 24, 2020, 9:38:58 AM">
+  <properties>
+    <titles>
+      <title>Vergiß nicht zu danken dem ewigen Herrn</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2 V5 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Vergiß nicht zu danken dem ewigen Herrn,
+er hat dir viel Gutes getan.
+Bedenke, in Jesus vergibt er dir gern
+Du darfst ihm, so wie du bist, nahn.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Barmherzig, geduldig und gnädig ist er
+vielmehr, als ein Vater es kann.
+Er warf unsere Sünden ins äußerste Meer,
+Kommt, betet den Ewigen an.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Du kannst ihm vertrauen in dunkelster Nacht,
+wenn alles verloren erscheint.
+Er liebt dich, auch wenn du ihm Kummer gemacht
+ist näher als je du gemeint.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Im Danken kommt Neues ins Leben hinein
+ein Wünschen, das nie du gekannt,
+dass jeder wie du Gottes Kind möchte sein
+vom Vater zum Erben ernannt.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>In Jesus gehörst du zur ewigen Welt
+zum Glaubensgehorsam befreit.
+Er hat dich in seine Gemeinde gestellt
+und macht dich zum Dienen bereit.</lines>
+    </verse>
+  </lyrics>
+</song>

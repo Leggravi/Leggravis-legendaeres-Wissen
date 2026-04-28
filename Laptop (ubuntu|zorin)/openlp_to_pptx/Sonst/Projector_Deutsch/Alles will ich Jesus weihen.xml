@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Alles will ich Jesus weihen</title>
+    </titles>
+    <authors>
+      <author type="words">Walter Rauschenbusch</author>
+      <author type="music">Winfield Scott Weeden</author>
+      <author type="translation">I surrender all</author>
+    </authors>
+    <verseOrder>v1 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alles will ich Jesu weihen,
+nichts mehr will ich nennen mein.
+Leib uns Seele, Gut und Habe:
+Alles soll sein eigen sein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alles will ich weihn,
+alles will ich weihn,
+dir, mein Herr, mein Gott, mein Heiland,
+will ich alles weihn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alles will ich Jesu weihen,
+all mein Herz zu ihm sich neigt,
+all mein eigner, stolzer Wille
+sich dem Herrn gehorsam beugt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alles will ich Jesu weihen,
+halte alle Welt für Spreu.
+Doch was ich dem Heiland schenke,
+gibt er mir verklärt und neu</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Alles will ich Jesu weihen:
+meines Geistes beste Kraft.
+All mein Denken, all mein Streben,
+alles, was mein Tagwerk schafft.</lines>
+    </verse>
+  </lyrics>
+</song>

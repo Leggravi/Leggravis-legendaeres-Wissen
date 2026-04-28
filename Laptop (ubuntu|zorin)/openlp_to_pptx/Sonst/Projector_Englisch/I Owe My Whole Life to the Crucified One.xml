@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Owe My Whole Life to the Crucified One</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord where would I be,
+If you had not gone,
+On that lonely hill to die at Calvary,
+What is man, that a King would
+leave
+His glory above and suffer
+in deep agony.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I owe my whole life
+to the crucified one,
+Who gave His all for me,
+With all that’s in me I will praise
+His Holy name
+Praise God, for the crucified one.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He walked that lonely hill,
+With me in mind,
+I was wretched, naked and blind,
+My load was so great only One
+could bear
+Thank God for the crucified word.</lines>
+    </verse>
+  </lyrics>
+</song>

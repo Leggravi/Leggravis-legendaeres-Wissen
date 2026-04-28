@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I will sing unto the lord</title>
+    </titles>
+    <authors>
+      <author type="words">Rita Baloche</author>
+      <author type="music">Rita Baloche</author>
+      <author type="translation">Herr, ich freue mich so sehr über Dich</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: I will sing unto the Lord, for He is worthy to be praised.
+I will sing unto the Lord, and bless His holy name. :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are holy, you are righteous,
+You are magnificent, You are victorious,
+You are mighty, You are omnipotent.
+There is none that can compare,
+I've come to bless His name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bless His Name, Bess His Name,
+Let everybody come and Bless His name</lines>
+    </verse>
+  </lyrics>
+</song>

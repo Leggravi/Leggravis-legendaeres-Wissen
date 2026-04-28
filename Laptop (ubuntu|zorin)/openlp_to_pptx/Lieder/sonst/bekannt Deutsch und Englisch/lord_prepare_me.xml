@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Aug 30, 2022, 8:11:58 PM">
+  <properties>
+    <titles>
+      <title>Lord Prepare Me</title>
+    </titles>
+    <verseOrder>V1 V2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Lord prepare me, to be a sanctuary,
+Pure and holy, tried and true
+With thanksgiving,
+I'll be a living, sanctuary, for you</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Lord prepare me, to be a sanctuary,
+Pure and holy, tried and true
+With thanksgiving,
+I'll be a living, sanctuary, for you</lines>
+    </verse>
+  </lyrics>
+</song>

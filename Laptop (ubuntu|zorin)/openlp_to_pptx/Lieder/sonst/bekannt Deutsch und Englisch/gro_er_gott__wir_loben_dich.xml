@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Mar 12, 2020, 9:34:52 PM">
+  <properties>
+    <titles>
+      <title>Großer Gott, wir loben dich</title>
+    </titles>
+    <verseOrder>V1 V2 V3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Großer Gott, wir loben Dich;
+Herr, wir preisen Deine Stärke.
+Vor Dir neigt die Erde sich
+und bewundert Deine Werke.
+Wie Du warst vor aller Zeit,
+so bleibst Du in Ewigkeit.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Alles, was Dich preisen kann,
+Cherubim und Seraphinen,
+stimme Dir ein Loblied an;
+alle Engel, die Dir dienen,
+rufen Dir in sel'ger Ruh:
+&quot;Heilig, heilig, heilig!&quot; zu.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Heilig, Herr Gott Zebaot
+Heilig, Herr der Himmelschöre!
+Starker Helfer in der Not!
+Himmel, Erde, Luft und Meere
+sind erfüllt von Deinem Ruhm,
+alles ist Dein Eigentum.</lines>
+    </verse>
+  </lyrics>
+</song>

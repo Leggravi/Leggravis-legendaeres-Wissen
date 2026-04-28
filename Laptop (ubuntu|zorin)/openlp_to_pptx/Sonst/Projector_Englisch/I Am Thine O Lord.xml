@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Am Thine, O, Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Frances Ridley Havergal</author>
+      <author type="music">Ethelbert William Bullinger</author>
+      <author type="translation">Ich vertraue dir, Herr Jesus</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am Thine, O Lord, I have heard Thy voice,
+And it told Thy love to me;
+But I long to rise in the arms of faith,
+And be closer drawn to Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Draw me nearer, nearer, blessed Lord,
+To the cross where Thou hast died;
+Draw me nearer, nearer, nearer, blessed Lord,
+To Thy precious, bleeding side.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Consecrate me now to Thy service, Lord,
+By the pow’r of grace divine;
+Let my soul look up with a steadfast hope,
+And my will be lost in Thine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O the pure delight of a single hour
+That before Thy throne I spend,
+When I kneel in prayer, and with Thee, my God,
+I commune as friend with friend!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There are depths of love that I yet may know
+Ere Thee face to face I see;
+There are heights of joy that I yet may reach
+Ere I rest in peace with Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Last Night As I Lay Sleeping</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Last night as I lay sleeping
+A dream came to me,
+I dreamt about the end of time
+and about eternity;
+I saw a million sinners fall on
+their faces to pray,
+The Saviour sadly shook
+His head,
+And this I heard Him say:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sorry, I never knew you,
+Depart from me for ever more;
+Sorry, I never knew you,
+Go and serve the one that you
+served before.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I thought the times had fully come
+When I must stand the trial,
+I told the Lord that I had been a
+Christian all the while;
+Then through the Book He
+carefully looked
+And sadly shook His head:
+He placed me over on His left
+And this is what He said:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sorry, I never knew you,
+I find no record of your work;
+Sorry, I never knew you,
+Go and serve the one that you
+served all the while.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There was my wife and children
+I heard each one’s voice,
+They must have been so happy -
+It seemed they did rejoice
+With robes of white all round them
+And crowns upon their heads;
+My little girl looked up to me
+And this is what she said:</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Daddy, we can’t go with you,
+We must dwell in the joys of our Lord;
+Sorry, but we still love you -
+But you’ll never be our
+daddy any more.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>When from sleep I awakened with
+tears in my eyes,
+I looked around about me,
+And to my great surprise,
+I saw my wife and babies,
+And knew I had a dream;
+And down beside my bed I fell
+And poured my sins’ history.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Father, who art in heaven,
+In mercy look on me today,
+Forgive me and let me serve You,
+Till Thy Son has come and
+carries me away.</lines>
+    </verse>
+  </lyrics>
+</song>

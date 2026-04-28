@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Know (be still)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Be still
+Be still and know that
+In stillness and quiet
+That I am the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let go
+Let go of your worries
+Only one thing is needed
+Just be still and know</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Be still and know
+That I am the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

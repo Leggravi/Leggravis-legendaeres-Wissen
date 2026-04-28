@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Still, Herr Jesus, das Verlangen</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Wilhelm Brockhaus</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Still', o Jesu, das Verlangen!
+Alles seufzt und sehnet sich.
+Glieder, die Dir treu anhangen,
+Warten sehnsuchtsvoll auf Dich.
+Eine Freude sie nur kennen,
+Eine Hoffnung sie nur nennen:
+Jesu, dass sie schauen Dich!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fremd und ungekannt hienieden,
+Finden nirgend Ruhe sie.
+Bliebest Du, o Herr, geschieden,
+Dann frohlocken nimmer sie.
+In der Welt, wo Satan thronet,
+Eitelkeit und Sünde wohnet,
+Ruhen Deine Glieder nie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sieht man sich, man trennt sich wieder,
+Und kein Auge sieht jetzt Dich.
+In die Lob- und Dankeslieder
+Mischt der Schmerz der Trennung sich.
+Hier auf dieser armen Erde
+Gibt's nur Mühe, nur Beschwerde,
+Nirgend zeigt die Heimat sich.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Doch Du kommst – welch frohe Kunde! –
+Unser Auge wird Dich sehn.
+Ja, Du kommst – o sel'ge Stunde,
+Wo wir nie getrennt mehr stehn!
+Wo der Heil'gen Harfenklänge,
+Lob- und Preis und Dankgesänge
+Ewig Deinen Ruhm erhöhn.</lines>
+    </verse>
+  </lyrics>
+</song>

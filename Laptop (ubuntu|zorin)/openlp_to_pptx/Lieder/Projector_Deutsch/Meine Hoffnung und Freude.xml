@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Meine Hoffnung und Freude</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Jacques Berthier</author>
+      <author type="translation">In the Lord I'll be ever thankful</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meine Hoffnung und meine Freude,
+meine Stärke, mein Licht:
+Christus meine Zuversicht,
+auf dich vertrau ich und fürcht mich nicht,
+auf dich vertrau ich und fürcht mich nicht.</lines>
+    </verse>
+  </lyrics>
+</song>

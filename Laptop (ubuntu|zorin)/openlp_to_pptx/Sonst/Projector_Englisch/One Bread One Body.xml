@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>One Bread, One Body</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One bread, one body, one Lord of all,
+one cup of blessing which we bless.
+And we, though many,
+throughout the earth,
+we are one body in this one Lord.
+Gentile or Jew, servant or free,
+woman or man, no more.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>One bread, one body, one Lord of all,
+one cup of blessing which we bless.
+And we, though many,
+throughout the earth,
+we are one body in this one Lord.
+Many the gifts, many the works,
+one in the Lord of all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>One bread, one body, one Lord of all,
+one cup of blessing which we bless.
+And we, though many, throughout the earth,
+we are one body in this one Lord.
+Grain for the fields, scattered and grown,
+gathered to one, for all.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>One bread, one body, one Lord of all,
+one cup of blessing which we bless.
+And we, though many,
+throughout the earth,
+we are one body in this one Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

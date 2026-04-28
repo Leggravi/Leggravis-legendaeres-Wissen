@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:33">
+  <properties>
+    <titles>
+      <title>Mit Ernst, o Menschenkinder</title>
+    </titles>
+    <authors>
+      <author type="words">Valentin Thilo jun. (1642)</author>
+      <author type="words">Lüneburg (1657)</author>
+      <author type="music">Von Gott will ich nicht lassen</author>
+    </authors>
+    <ccliNo>5208108</ccliNo>
+    <themes>
+      <theme>Advent</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mit Ernst, o Menschenkinder,
+das Herz in euch bestellt;
+bald wird das Heil der Sünder,
+der wunderstarke Held,
+den Gott aus Gnad allein
+der Welt zum Licht und Leben
+versprochen hat zu geben,
+bei allen kehren ein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bereitet doch fein tüchtig
+den Weg dem großen Gast;
+macht seine Steige richtig,
+lasst alles, was er hasst;
+macht alle Bahnen recht,
+die Täler all erhöhet,
+macht niedrig, was hoch stehet,
+was krumm ist, gleich und schlicht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ein Herz, das Demut liebet,
+bei Gott am höchsten steht;
+ein Herz, das Hochmut übet,
+mit Angst zugrunde geht;
+ein Herz, das richtig ist
+und folget Gottes Leiten,
+das kann sich recht bereiten,
+zu dem kommt Jesus Christ.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ach mache du mich Armen
+zu dieser heilgen Zeit
+aus Güte und Erbarmen,
+Herr Jesu, selbst bereit.
+Zieh in mein Herz hinein
+vom Stall und von der Krippen,
+so werden Herz und Lippen
+dir allzeit dankbar sein.</lines>
+    </verse>
+  </lyrics>
+</song>

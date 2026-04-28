@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:31">
+  <properties>
+    <titles>
+      <title>Amen! Amen! lauter Amen</title>
+    </titles>
+    <authors>
+      <author type="words">Benjamin Schmolck (1723)</author>
+      <author type="music">Joachim Neander</author>
+    </authors>
+    <ccliNo>4350507</ccliNo>
+    <themes>
+      <theme>Kanon</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amen! Amen! lauter Amen
+hat des treuen Gottes Mund.
+Ewig führet er den Namen,
+dass er aller Wahrheit Grund.
+Was er sagt, trifft alles ein;
+es muss Ja und Amen sein,
+es muss Ja und Amen sein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Die Verheißung kann verziehen;
+kommt nicht bald was er verspricht,
+muss man doch den Zweifel fliehen,
+weil sein Wort er niemals bricht.
+Ist die rechte Zeit nur da,
+so wird alles lauter Ja,
+so wird alles lauter Ja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hat er es doch so gehalten
+von dem Anbeginn der Welt;
+seine Wahrheit wird auch walten,
+bis die Welt in Asche fällt,
+- weil er, wie er nie getan,
+sich nicht selbst verleugnen kann,
+sich nicht selbst verleugnen kann.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wohl, mein Herz, du sollst ihm trauen!
+Was er dir verheißen hat,
+wirst du auch erfüllet schauen.
+Kommt es auch nicht gleich zur Tat,
+spart er's auch oft weit hinaus,
+es wird doch ein Amen draus,
+es wird doch ein Amen draus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Amen! Herr, du willst erfüllen,
+was dein treuer Mund verspricht;
+das erwart ich nun im stillen,
+bis sich's offenbart im Licht,
+dass du die Erfüllung gehst.
+Amen! Ja, so wahr du lebst.
+Amen! Ja, so wahr du lebst.</lines>
+    </verse>
+  </lyrics>
+</song>

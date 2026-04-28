@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sing unto the Lord a New Song</title>
+    </titles>
+    <authors>
+      <author type="words">Mark Beswick</author>
+      <author type="music">Mark Beswick</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing unto the Lord a new song,
+Sing unto the Lord all the earth,
+Sing unto the Lord a new song,
+Sing unto the Lord all the earth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For God is great and greatly to be praised,
+God is great and greatly to be praised.</lines>
+    </verse>
+  </lyrics>
+</song>

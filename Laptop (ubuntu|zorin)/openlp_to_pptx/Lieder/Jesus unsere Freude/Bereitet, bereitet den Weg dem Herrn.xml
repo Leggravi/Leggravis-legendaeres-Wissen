@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:31">
+  <properties>
+    <titles>
+      <title>Bereitet, bereitet den Weg dem Herrn</title>
+    </titles>
+    <authors>
+      <author type="words">Kommunität Gnadenthal (1976)</author>
+      <author type="music">Kommunität Gnadenthal</author>
+    </authors>
+    <themes>
+      <theme>Advent</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Macht die Bahnen gerade, lasst die Umwege sein,
+füllt die Schluchten der Verzagtheit und Furcht!
+Reißt die Berge und Hügel des Hochmuts ein,
+ebnet holprige Wege und horcht, denn es hallt:
+Das Heil Gottes erscheint aller Welt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tut die Tore der Freude und des Jubels auf,
+reißt die Mauern des Stillschweigens ein,
+lasst den Quellen des Lobes in euch freien Lauf,
+denn kein Bettler, sondern ein König zieht ein:
+Der Herr aller Herrlichkeit! Bereitet, bereitet ...</lines>
+    </verse>
+  </lyrics>
+</song>

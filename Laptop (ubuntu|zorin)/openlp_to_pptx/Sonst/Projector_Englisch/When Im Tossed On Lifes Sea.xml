@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When I'm Tossed On Life’s Sea</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When am tossed on life’s sea,
+and the waves cover me
+And the dark clouds won’t let
+the sun shine through
+Then a voice seems to say,
+child there will be a brighter day
+Don’t allow the clouds to hide
+sweet heavens view.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(Cos you've got) one more valley
+One more hill
+(May be) one more trial,
+one more tear
+One more heavy life’s load
+May be one more mile to go
+You can lay down your heavy load
+When you get home.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Don’t let Satan see your tears
+Learn to smile through your fears
+Hold your head up high and give
+the world a smile
+You must be faithful all the way
+It will be worth it all some day
+For it’s going to be over, after a while.</lines>
+    </verse>
+  </lyrics>
+</song>

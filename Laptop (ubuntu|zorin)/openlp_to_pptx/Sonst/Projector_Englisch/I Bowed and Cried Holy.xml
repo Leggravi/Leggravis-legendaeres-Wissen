@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Bowed and Cried Holy</title>
+    </titles>
+    <authors>
+      <author type="words">Nettie Dudley Washington</author>
+      <author type="music">E. M. Dudley Cantwell</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I dreamed I went to that city called glory,
+So bright and so fair,
+When I entered the gate I cried, “Holy,”
+The angels all met me there;
+They showed me from mansion to mansion,
+And oh, the sights I saw,
+But I said, “I want to see Jesus,
+The One who died for all.”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Then I bowed on my knees and cried,
+“Holy, Holy, Holy,”
+I clapped my hands and sang,
+“Glory, Glory to the Son of God.”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I thought when I entered that city,
+My friends knew me well.
+They showed me all through heaven,
+The scenes are too num’rous to tell;
+They showed me Abraham, Isaac, Jacob,
+Mark, Luke, and Timothy,
+But I said, “I want to give praise,
+To the One who died for me.”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I thought when I saw my Saviour,
+Oh! Glory to God!
+I just fell right down before Him,
+Singing, “Praise to the name of the Lord;”
+I bowed down and worshipped Jehovah,
+My friend of Calvary,
+For I wanted to give praise to Jesus,
+For saving a sinner like me.</lines>
+    </verse>
+  </lyrics>
+</song>

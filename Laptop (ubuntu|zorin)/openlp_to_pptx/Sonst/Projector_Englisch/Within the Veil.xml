@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Within the Veil</title>
+    </titles>
+    <authors>
+      <author type="words">Ruth Dryden</author>
+      <author type="music">Ruth Dryden</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Within the veil, I now would come
+Into the holy place, to look upon Your face
+I see such beauty there,
+None other can compare
+I worship You, Oh Lord, Within the veil</lines>
+    </verse>
+  </lyrics>
+</song>

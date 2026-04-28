@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God is for us</title>
+    </titles>
+    <authors>
+      <author type="words">Sherilyn Keller</author>
+      <author type="music">Sherilyn Keller</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We won’t fear the battle
+We won’t fear the night
+We will walk the valley, with You by our side
+You will go before us
+You will lead the way
+We have found a refuge, only You can save</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sing with joy now: our God is for us
+The Father’s love is a strong and mighty fortress
+Raise your voice now, no love is greater
+Who can stand against us if our God is for us</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Even when I stumble
+Even when I fall
+Even when I turn back, still Your love is sure
+You will not abandon
+You will not forsake
+You will cheer me onward with never ending grace</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: Neither height nor depth can separate us
+Hell and death will not defeat us
+He who gave His Son to free us
+Holds me in His love. :/</lines>
+    </verse>
+  </lyrics>
+</song>

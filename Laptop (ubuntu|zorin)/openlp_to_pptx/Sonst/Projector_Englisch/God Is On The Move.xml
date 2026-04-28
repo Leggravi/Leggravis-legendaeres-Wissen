@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God Is On The Move</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Anytime a heart turns from darkness to light
+Anytime temptation comes and someone stands to fight
+Anytime somebody lives to serve and not be served</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know, I know, I know, I know
+God is on the move, on the move
+Hallelujah
+God is on the move
+In many mighty ways
+God is on the move, on the move
+Hallelujah
+God is on the move
+On the move today</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Anytime in weakness someone falls upon their knees
+Or dares to speak the truth that sets men free
+Anytime the choice is made to stand upon the Word</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I see your generation standing on the truth
+In each and everyday saying God is on the move
+Anytime the Gospel stirs a searching souls
+And someone says &quot;send me, here I go&quot;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I see your generation standing on the truth
+In each and everyday saying God is on the move</lines>
+    </verse>
+  </lyrics>
+</song>

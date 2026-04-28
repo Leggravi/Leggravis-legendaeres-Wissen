@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Supernatural</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Something never seen never heard before.
+It’s supernatural.
+Step into the new see the old no more.
+It’s supernatural</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take us higher.
+Take us deeper.
+Take us into everything you have for us.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We’re going up moving out of the natural.
+We’re stepping in to the promises of Your Word.
+We’re going up to the supernatural.
+Whoa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Are you ready (are you ready).
+For His power (for His power).
+I am ready (I am ready).
+It’s supernatural (it’s supernatural).</lines>
+    </verse>
+  </lyrics>
+</song>

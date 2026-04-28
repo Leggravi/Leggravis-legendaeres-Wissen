@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When Nothing But A Mircale Will Do</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When you've tried everything,
+And everything you've tried has failed,
+When you're standing at the harbor
+And the ship of hope has sailed;
+Friends have no answers
+And peace just can't be found,
+Oh, but, there's a hand of mercy
+That can turn it all around.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When nothing but a miracle will do,
+There's nothing that the hand of God,
+Cannot bring you through.
+Well, I know He's more than able,
+and He will deliver you,
+When nothing but a miracle will do.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When you've cried in the darkness,
+And no one seems to hear
+Just because you can't see Him,
+Doesn't mean He isn't near.
+Perhaps He's only waiting,
+'Til you've done all you can do
+Until He's the only thing that's left
+ to hold on to.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In your time of trials,
+when you face the challenge of death
+Oh, just listen to the crowd of witnesses,
+you'll hear them crying out;
+From a lion's den, and a fiery furnace,
+From the belly of a whale,
+Through prison walls, and a hopeless tomb,
+Walks a God who never fails
+I hear Daniel, and Jonah, Peter and Paul,
+They're shouting with Lazarus,
+&quot;He delivered us all!&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

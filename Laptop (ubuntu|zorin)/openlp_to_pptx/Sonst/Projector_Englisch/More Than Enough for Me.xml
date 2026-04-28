@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>More Than Enough for Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jehovah Jireh, my provider
+You're more than enough for me.
+Jehovah Rapha, You're my healer,
+by Your stripes, I have been set free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jehovah Shamma, You are with me
+and You supply all of my needs;
+You are more than enough
+You are much more than enough,
+You are more than enough for me.</lines>
+    </verse>
+  </lyrics>
+</song>

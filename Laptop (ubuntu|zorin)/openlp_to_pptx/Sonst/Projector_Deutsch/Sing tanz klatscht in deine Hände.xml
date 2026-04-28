@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sing, tanz, klatscht in deine Hände</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing, tanz, klatsch in deine Hände,
+denn wir sind von Angst und von Not befreit.
+Jesus, Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dein Lob soll immerdar bis hin in aller Ewigkeit,
+in meinem Mund zu finden sein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dieser Tag heut ist ein wunderbarer Tag,
+denn diesen Tag hat Gott für dich und mich gemacht.</lines>
+    </verse>
+  </lyrics>
+</song>

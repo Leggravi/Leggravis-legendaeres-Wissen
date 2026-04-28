@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 13, 2024, 2:34:34 PM">
+  <properties>
+    <titles>
+      <title>Wings Of A Dove</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Noah had drifted
+On the floods many days,
+He searched for land
+In various ways
+Troubles he had some,
+But not from above,
+God gave him His sign
+On the wings of a dove.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>On the wings of a snow-white dove,
+God sends down His pure, sweet love,
+A sign from above,
+On the wings of a dove.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Jesus, our Saviour
+Came to earth one day;
+He was born in a stable,
+In a manger of hay;
+Though here rejected,
+But not from above,
+God gave us His sign,
+On the wings of a dove.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Though I have suffered
+In many a way,
+I cried for healing
+Both night and day;
+Faith wasn't forgotten
+By the Father above,
+He gave me His sign
+On the wings of a dove.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let Not Your Heart Be Troubled</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let not your weary heart be troubled,
+Believe in God, believe in Me;
+For in My Father’s house are mansions,
+I will prepare a place for thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let not your heart be troubled,
+Let not your heart be troubled;
+Let not your heart be troubled,
+Nor let it be afraid.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let not your peace in calm assurance
+Be ruffled by the storms of life;
+But soldier-like, with firm endurance,
+Just glory in the holy strife.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let not your hope be dimmed with doubting,
+Let not life’s burdens foil your grace;
+But in each conflict vict’ry shouting,
+Like he who runs to win a race.</lines>
+    </verse>
+  </lyrics>
+</song>

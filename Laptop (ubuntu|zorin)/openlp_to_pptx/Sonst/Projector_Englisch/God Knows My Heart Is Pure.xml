@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God Knows My Heart Is Pure</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God knows my heart
+Is pure
+And I strive to do some good
+Though temptations
+are so hard to overcome
+I’ll rejoice on that day when I'll hear
+my Saviour say
+Lay your burdens down my child,
+welcome home</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’m so troubled and so weary
+that I don’t know what to do
+But the Lord said that He’d see
+me through
+All the road that I have travelled
+has been long and so dark
+But the Lord knows what is in my heart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, Satan has a power
+to tempt a sinner man
+Till he’s caught up in a snare
+he can’t undo
+If you hear the gentle whisper
+of the Master’s voice above
+I know that the Lord
+will see you through.</lines>
+    </verse>
+  </lyrics>
+</song>

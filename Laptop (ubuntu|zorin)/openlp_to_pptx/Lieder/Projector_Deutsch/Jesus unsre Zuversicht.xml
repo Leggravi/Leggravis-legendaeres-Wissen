@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, unsre Zuversicht</title>
+    </titles>
+    <authors>
+      <author type="words">Johannes Jourdan</author>
+      <author type="music">Bertold Engel</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, unsre Zuversicht,
+oh, wie reich ist Deine Gnade!
+Du gibst Freude, Trost und Licht
+auf des Glaubens schmalen Pfade.
+Alle Fülle wohnt in Dir,
+o Herr Jesus nur in Dir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unser bist Du, wir sind Dein,
+Liebe hat uns so verbunden.
+Unser Heil bist Du allein
+durch Dein Blut und Deine Wunden.
+Nur in Dir ist sel'ge Ruh,
+unsre Hoffnung, Herr, bist Du.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du, Herr, lässt uns nicht von Dir,
+Stehest schützend uns zur Seite.
+Du gibst uns, das wissen wir,
+durch die Wüste das Geleite.
+Selig, wer von Herzen spricht:
+Jesus, meine Zuversicht!</lines>
+    </verse>
+  </lyrics>
+</song>

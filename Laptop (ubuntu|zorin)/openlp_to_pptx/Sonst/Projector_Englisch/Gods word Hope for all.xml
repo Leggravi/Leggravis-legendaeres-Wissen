@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God's word Hope for all</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In this world full of broken dreams
+A ray of hope shines through
+It shines beyond the pain and wants
+It shines for me and you
+In this world where people weak
+And living fear and madness
+There's hope beyond this sadness
+Through the power of God's word.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God's Word
+Hope for all mankind
+Sight to all the blind
+It's joy to those despairing
+It's loving and it's caring
+It sets our spirit free
+God's word is hope eternally.</lines>
+    </verse>
+  </lyrics>
+</song>

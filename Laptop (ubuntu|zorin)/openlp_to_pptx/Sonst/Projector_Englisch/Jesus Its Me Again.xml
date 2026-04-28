@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus It's Me Again</title>
+    </titles>
+    <authors>
+      <author type="words">Mack Brock</author>
+      <author type="music">Mack Brock</author>
+      <author type="translation">Noch einmal (Dein Wort bleibt bestehn)</author>
+    </authors>
+    <verseOrder>v1 v2 v2 v3 v2 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lately Lord, I almost feel like dyin'
+Wakeup like a child slowly cryin'
+Sometimes Lord, I just can't keep from cryin'
+I can't find the strength to carry on</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus it's me again
+Down on my knees again
+Asking you please again
+Reach out your hand</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Time to time I try to find a reason
+To talk to you from time to time before
+But this time Lord Your Will is my command
+And I know I just can't take it anymore</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Reach out your hand</lines>
+    </verse>
+  </lyrics>
+</song>

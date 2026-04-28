@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:59">
+  <properties>
+    <titles>
+      <title>The day thou gavest, Lord, is ended</title>
+    </titles>
+    <authors>
+      <author type="words">John F. Ellerton (1870)</author>
+      <author type="music">Clement Cotterill Scholefield</author>
+    </authors>
+    <ccliNo>541953</ccliNo>
+    <themes>
+      <theme>Abendlieder</theme>
+      <theme>Schlaflieder</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The day thou gavest, Lord, has ended,
+The darkness falls at Thy behest;
+To Thee our morning hymns ascended,
+Thy praise shall hallow now our rest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We thank Thee that Thy Church unsleeping,
+While earth rolls onward into light,
+Through all the world her watch is keeping,
+And rests not now by day or night.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As o'er each continent and island
+The dawn leads on another day,
+The voice of prayer is never silent,
+Nor dies the strain of praise away.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The sun, that bids us rest, is waking
+Our brethren 'neath the western sky,
+And hour by hour fresh lips are making
+Thy wondrous doings heard on high.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So be it, Lord; Thy throne shall never,
+Like earth's proud empires, pass away:
+But stand, and rule, and grow for ever,
+Till all Thy creatures own Thy sway.</lines>
+    </verse>
+  </lyrics>
+</song>

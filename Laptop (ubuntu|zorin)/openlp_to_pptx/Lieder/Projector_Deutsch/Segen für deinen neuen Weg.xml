@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Segen für deinen neuen Weg</title>
+    </titles>
+    <authors>
+      <author type="words">Sefora Nelson</author>
+      <author type="music">Sefora Nelson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v5 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Der Herr segne dich schon jetzt
+Für deinen neuen Weg
+Er lässt dich niemals allein
+Er selbst gehe dir voraus
+Und leite Schritt für Schritt
+Er weiß genau was, du brauchst</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kein Weg verläuft gerade
+Er wird auch steinig sein
+Sei voller Zuversicht
+Denn Gott hält Sein Wort ein</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Der Herr ebne deinen Weg
+Und lehre dich vertrauen
+Selbst dann, wenn du an Ihm zweifelst
+Er ist der Fels, auf dem du stehst
+Dein Anker auch im Sturm
+Du bist sicher bei Ihm</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wenn Menschen dich enttäuschen
+Und du alleine stehst
+Bist du bei Ihm geborgen
+Wenn du mit Ihm gehst</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Der Herr segne dich schon jetzt
+Für deinen neuen Weg
+Er lässt dich niemals allein
+Er selbst gehe dir voraus
+Und leite Schritt für Schritt
+Er weiß genau, was du brauchst</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Den Anker auch im Sturm
+Der Fels auf dem du stehst
+Er segne dich schon jetzt</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Der Herr segne dich schon jetzt
+Für deinen neuen Weg
+Er lässt dich niemals allein
+Er selbst gehe dir voraus
+Und leite Schritt für Schritt
+Er will das beste für dich</lines>
+    </verse>
+  </lyrics>
+</song>

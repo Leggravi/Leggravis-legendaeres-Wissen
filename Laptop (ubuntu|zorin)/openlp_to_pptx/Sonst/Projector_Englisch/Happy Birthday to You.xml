@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Happy Birthday to You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A happy birthday to you
+A happy birthday to you
+May you find Jesus near
+Every day of the year
+A happy birthday to you
+A happy birthday to you
+And the best year you've ever had</lines>
+    </verse>
+  </lyrics>
+</song>

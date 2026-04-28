@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:05">
+  <properties>
+    <titles>
+      <title>Herr und Haupt, du helle Sonne</title>
+    </titles>
+    <authors>
+      <author type="words">Helmut Bornhak (1949)</author>
+      <author type="music">Genf</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr und Haupt, du helle Sonne,
+wann gehst Du uns endlich auf?
+Komm, o Tag voll großer Wonne,
+da vollendet ist der Lauf,
+da der Deinen Weh sich legt,
+da die Freiheitsstunde schlägt.
+Christe, eile zu den Deinen,
+die erwarten dein Erscheinen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr, sieh an der Feinde Rotten,
+sieh ihr Heer und große Macht,
+höre, wie sie Deiner spotten,
+wie dein Name wird verlacht.
+O zerreiß den Himmel gar;
+deinem Volk herniederfahr,
+ehe wir in Angst vergehen,
+lass uns deine Ankunft sehen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr, wir warten alle Stunden,
+halten fest an deinem Wort.
+Du hast selber Dich gebunden,
+Du bist unser Trost und Hort.
+Kommt dein Tag mit hellem Schein,
+dann erhörst Du unser Schrein.
+In der hohen Engel Reihen
+jubelnd werden wir uns freuen!</lines>
+    </verse>
+  </lyrics>
+</song>

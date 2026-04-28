@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:32">
+  <properties>
+    <titles>
+      <title>Du brauchst nicht mehr zu tragen</title>
+    </titles>
+    <authors>
+      <author type="words">Hedwig von Redern (1928)</author>
+      <author type="music">Melchior Vulpius</author>
+    </authors>
+    <ccliNo>6222781</ccliNo>
+    <themes>
+      <theme>Leid</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du brauchst nicht(s) mehr zu tragen
+als nur die Last von heut,
+und brauchst nichts weiter fragen,
+als was Gott jetzt gebeut.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mehr soll dein Fuß nicht gehen,
+als nur den nächsten Schritt,
+mehr nicht dein Herz verstehen,
+als was es heute litt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nicht weiter darfst du sorgen,
+als was heut Gott gefällt.
+Das Nachher und das Morgen
+sei ihm anheimgestellt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Heut trägt er deine Bürde,
+heut ebnet er den Pfad,
+dass heut dir Gnade würde,
+er schon beschlossen hat.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Für heut, nicht spätre Zeiten,
+gibt Jesus Kraft und Mut,
+gibt Macht und Möglichkeiten
+und Schutz in seinem Blut.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Für heut quillt dir sein Bronnen,
+für heute strahlt sein Licht,
+für heut hat Freud und Wonnen
+bereit er, zage nicht!</lines>
+    </verse>
+  </lyrics>
+</song>

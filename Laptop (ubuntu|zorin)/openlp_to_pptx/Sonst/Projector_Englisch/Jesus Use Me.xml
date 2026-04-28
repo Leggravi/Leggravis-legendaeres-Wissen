@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Use Me</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Lore</author>
+      <author type="music">Martin Lore</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dear Lord I will be a witness
+if you will help my weakness
+I know that I am not
+worthy Lord of Thee
+By eyes of faith I see
+Thee Upon the cross of Calvary,
+Dear Lord I pray let me Thy servant be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus use me,
+Oh Lord and don’t refuse,
+For surely there’s a work
+that I can do,
+And even though it Is humble
+Help my will to crumble
+Though the cost be great I will work for you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He is the Lily of the Valley,
+The bright and Morning Star
+He is the fairest of ten thousands
+to my soul
+He is the beautiful Rose of Sharon
+He is all in all to me
+And most of all He is my coming King.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>El Shaddai</title>
+    </titles>
+    <authors>
+      <author type="words">Barbara Werner</author>
+      <author type="music">Michael Card</author>
+      <author type="translation">El Shaddai</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>El Shaddai, El Shaddai, El El yon na Adonai,
+Du bleibst Gott in Ewigkeit, auch im Wandel dieser Zeit.
+El Shaddai, El Shaddai, Erkamka na Adonai,
+Deine Liebe macht uns frei, El Shaddai.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du hast dich geoffenbart, Abraham in Not bewahrt,
+Seinen langerersehnten Sohn durch des Widders Blut verschont.
+Und durch Meer und Wüstensand führtest du mit starker Hand
+Dein Israel in das verheißne Land!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du hast dich geoffenbart, als die Zeit erfüllet war,
+Und nach deinem großen Plan Jesus Christus zu uns kam.
+Doch sie nahmen ihn nicht auf, nahmen das Gericht in Kauf,
+Lehnten den Messias ab, der für ihre Rettung starb!</lines>
+    </verse>
+  </lyrics>
+</song>

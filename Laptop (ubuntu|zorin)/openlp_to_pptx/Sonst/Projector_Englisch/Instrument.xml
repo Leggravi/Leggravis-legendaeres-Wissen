@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Instrument</title>
+    </titles>
+    <authors>
+      <author type="words">Robert Bicknell</author>
+      <author type="music">Robert Bicknell</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do I please You Lord?
+Is my life worthy of the Gospel?
+A life that tells the world
+You are not dead?
+And do the words I say
+Bring a smile to Your face?
+And do the people see
+That You are living in me?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Do I honor You, or have I brought
+reproach to the cause of Christ?
+I only want my life to be a light.
+And are my footsteps
+Walking in Your beautiful ways?
+Help me to say and do
+That which pleases You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, Lord I long to be
+Whatever pleases Thee,
+Just mold me in Your hands
+For You know who I am.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'm just an instrument
+Longing to be played by You,
+A melody of love for all to hear.
+Let me be pleasing Lord,
+Before Your majesty;
+So that the world may see
+That You are living in me.</lines>
+    </verse>
+  </lyrics>
+</song>

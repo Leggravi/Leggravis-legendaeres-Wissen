@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God Will Win Our Fights</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v2 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Shaking grounds, surging storms
+How do we face the crises we see
+Firing guns, raging arms
+Who can keep us safe from the enemy
+But like a child who is lost
+In the dark of the night
+Just believe there's someone
+Who can show us the light</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Win our fight</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Why wish upon a star
+When we can ask from the one
+Who created it
+Why put our hope on a rainbow
+We can depend on the one
+Who painted it, Have faith
+Walk by faith, Not by sight
+God will win our fight</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Whooo.. Ohhh</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Many times we rely
+Only on things our eyes can see
+We forget who can give
+All our needs and lead us to victory
+And when everything's wrong
+At the end of the night
+Just believe there's someone
+Who can make it all right</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Overcome and survive
+For whatever is right
+In the wars of our lives</lines>
+    </verse>
+  </lyrics>
+</song>

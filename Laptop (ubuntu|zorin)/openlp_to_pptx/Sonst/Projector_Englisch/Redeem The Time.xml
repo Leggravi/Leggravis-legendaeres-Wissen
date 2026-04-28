@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Redeem The Time</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I find myself again at
+ the end of the day,
+Looking back at what I've done,
+And wish it hadn't been that way.
+And wonder how the time
+could pass so swiftly by,
+I spend my time on foolish things
+ and the Lord I deny.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We must redeem the time,
+this day will never come again;
+Let the things I do today
+ be eternal without end.
+Redeem the time,
+you may never find the chance
+ to pray that prayer,
+or help a brother in despair.
+Lay aside the things standing
+ in your way.
+Precious is the time we have today.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Just living to get by,
+there must be a better way.
+With the world and its confusion,
+it's a struggle just to pray;
+And the moments passing by,
+we try to hold them in our hands,
+But we see the hours slip through
+ our fingers like sand.</lines>
+    </verse>
+  </lyrics>
+</song>

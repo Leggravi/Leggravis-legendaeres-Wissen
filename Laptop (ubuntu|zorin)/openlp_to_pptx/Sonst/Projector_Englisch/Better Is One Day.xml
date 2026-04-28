@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Better Is One Day</title>
+    </titles>
+    <authors>
+      <author type="words">Keith Getty</author>
+      <author type="music">Keith Getty</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How lovely is your dwelling place
+Oh, Lord Almighty
+For my soul longs and even faints for You
+For here my heart is satisfied
+Within Your presence
+I sing beneath the shadow of Your wings</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Better is one day in Your courts
+Better is one day in Your house
+Better is one day in Your courts
+Than thousands elsewhere</lines>
+    </verse>
+    <verse name="v3">
+      <lines>One thing I ask and I would seek
+To see Your beauty
+To find You in the place Your glory dwells
+One thing I ask and I would seek
+To see Your beauty
+To find You in the place Your glory dwells</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My heart and flesh cry out
+For You, the living God
+Your Spirit's water to my soul
+I've tasted and I've seen
+Come once again to me
+I will draw near to You
+I will draw near to You</lines>
+    </verse>
+  </lyrics>
+</song>
