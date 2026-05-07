@@ -1,0 +1,35 @@
+fix davinci:
+sudo apt install cabal-install
+cabal update
+(cabal install pandoc-crossref)... (bessere Lösung: Papa)
+
+
+**grafikkarte:
+windows -> treiber (zusätzliche...)
+passenden instellieren
+dann nvidia-smi wenn das nicht kalppt
+(secureboot aus (bios)) sudo modprobe nvidia
+
+( bei x settings ist da das volle menÜ geladen? normaler Neustart?)
+
+Speicheranalyse: def -h
+(23gb (5%) werden übrig gelassen für den notfall (abziehen; tmpfs=ram
+löschbar: /usr/local/texlive; ggf androidstudio (downloads und /homme/android); /home/unity da projekte; 
+/home/mirko/Games/epic-games-store/drive_c/Program Files/Epic Games/ReturnToMoria (17gb)
+davinci resolve videos... (70 gb)
+
+!alle (alten) logs usw löschen
+
+find ~/.local/share/applications /usr/share/applications -iname '*resolve*.desktop'
+
+!! admin: vor einen Dateipfad schreiben (für adminrechte)
+
+hotspot: ggf. (zuerst einmal auschalten...) -> wlan (in terminal)
+
+test der grafik: glmark2 
+-> glmark2 Score: 2918 (25.04)
+
+
+__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia
+
+
