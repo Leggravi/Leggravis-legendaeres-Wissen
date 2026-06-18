@@ -1,0 +1,775 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Jungsfreizeit Spieleabend</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+    /* Pulsieren Animation */
+    @keyframes pulse {
+      0% { filter: brightness(1); }
+      50% { filter: brightness(1.4); }
+      100% { filter: brightness(1); }
+    }
+    /* FadeIn Animation */
+    @keyframes fadeInUp {
+      0% { opacity: 0; transform: translateY(15px);}
+      100% { opacity: 1; transform: translateY(0);}
+    }
+
+    /* Body & Grund */
+    body {
+      margin: 0;
+      font-family: 'Press Start 2P', cursive;
+      background: radial-gradient(ellipse at center, #373737 0%, #000 100%);
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      overflow-x: hidden;
+      text-align: center;
+      padding: 2em 1em 4em;
+      position: relative;
+    }
+
+    /* Animationsschalter oben rechts */
+    #animToggleWrapper {
+      position: fixed;
+      top: 10px; right: 10px;
+      font-family: monospace;
+      user-select: none;
+      z-index: 1000;
+      cursor: pointer;
+      color: #0ff;
+      font-size: 0.8em;
+      display: flex; align-items: center; gap: 0.3em;
+    }
+    #animToggle {
+      cursor: pointer;
+      width: 18px; height: 18px;
+    }
+
+    /* Icons als zweifarbige Pfeile (➩) */
+    .icon {
+      color: #0ff;
+      text-shadow: 1px 1px #222, 2px 2px #0ff;
+      margin-left: 0.3em;
+      font-weight: 900;
+      vertical-align: middle;
+      user-select: none;
+    }
+
+    h1, h2 {
+      margin: 0.5em 0;
+      animation: fadeInUp 0.6s ease forwards;
+      display: inline-block;
+      position: relative;
+    }
+    h1 .icon, h2 .icon {
+      font-size: 1.3em;
+    }
+
+    /* Screens */
+    .screen {
+      width: 100%;
+      max-width: 1400px;
+      padding: 1em;
+      display: none;
+      animation: fadeInUp 0.5s ease forwards;
+    }
+    .visible {
+      display: block;
+    }
+
+    /* Button mit Icon */
+    .button {
+      background-color: #0ff;
+      border: none;
+      padding: 0.7em 1.5em;
+      margin: 0.5em;
+      border-radius: 15px;
+      cursor: pointer;
+      font-size: 1em;
+      color: #111;
+      font-weight: 700;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.4em;
+      transition: background-color 0.3s ease;
+      user-select: none;
+      animation: pulse 2s infinite;
+    }
+    .button:focus {
+      outline: 2px solid #0ff;
+      outline-offset: 2px;
+    }
+    .button:hover {
+      background-color: #0cc;
+    }
+    /* Icon hinter Button Text */
+    .button .icon {
+      color: #111;
+      filter: drop-shadow(0 0 1px #0ff);
+      font-weight: 900;
+      font-size: 1.3em;
+      margin-left: 0;
+      margin-right: -6px;
+    }
+
+    /* Input Felder */
+    .team-inputs input {
+      padding: 0.5em;
+      margin: 0.3em;
+      border-radius: 10px;
+      border: none;
+      font-family: 'Press Start 2P', cursive;
+      font-size: 0.8em;
+      text-align: center;
+      transition: background-color 0.3s ease;
+    }
+    .team-inputs input:focus {
+      background-color: #0ff;
+      color: #111;
+      outline: none;
+      font-weight: 700;
+    }
+
+    /* Spielfeld Raster */
+    .game-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 2em;
+      margin: 3em auto;
+      max-width: 1000px;
+    }
+
+    /* Game Tile Farben mit dunkleren Stufen (3 Stufen) */
+/* alt @keyframes gradientMove {
+  0%   { background-position: 100% 0; }
+  50%  { background-position: 0% 0; }
+  100% { background-position: 100% 0; }
+}
+
+.game-tile {
+  padding: 3em 1em;
+  border-radius: 20px;
+  text-align: center;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 1em;
+  user-select: none;
+  color: white;
+  background: linear-gradient(270deg, #ff4081, #536dfe, #ff4081);
+  background-size: 400% 400%;
+  animation: gradientMove 12s ease-in-out infinite;
+  animation-delay: var(--delay); 
+  box-shadow: 0 0 25px rgba(255, 64, 129, 0.5);
+  position: relative;
+  z-index: 1;
+}
+
+.game-tile::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  z-index: -1;
+  filter: blur(10px);
+  background: inherit;
+  background-size: 400% 400%;
+  animation: gradientMove 12s ease-in-out infinite;
+  animation-delay: var(--delay); 
+  opacity: 0.5;
+} */
+ 
+.game-tile {
+  padding: 3em 1em;
+  border-radius: 20px;
+  text-align: center;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 1em;
+  user-select: none;
+  color: white;
+
+  background: linear-gradient(270deg, #ff4081 0%, #536dfe 100%);
+  background-size: 400% 400%;
+  animation: gradientMove 12s ease-in-out infinite;
+  animation-delay: var(--delay, 0s);
+
+  box-shadow: 0 0 25px rgba(255, 64, 129, 0.5);
+  position: relative;
+  z-index: 1;
+}
+
+.game-tile::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  z-index: -1;
+  filter: blur(10px);
+  background: inherit;
+  background-size: 400% 400%;
+  animation: gradientMove 12s ease-in-out infinite;
+  animation-delay: var(--delay, 0s);
+  opacity: 0.5;
+}
+
+@keyframes gradientMove {
+  0% { background-position: 100% 0; }
+  100% { background-position: 0 0; }
+}
+
+/* Bereits benutzte Spiele */
+.game-tile.used {
+  background: #333 !important;
+  text-decoration: line-through;
+  cursor: not-allowed;
+  opacity: 0.5;
+  box-shadow: none !important;
+  animation: none !important;
+  color: #777 !important;
+}
+
+
+/* Hovereffekt */
+.game-tile:hover::before {
+  opacity: 0.4;
+}
+
+.game-tile:hover {
+  transform: scale(1.07);
+  box-shadow: 0 0 25px var(--color), 0 0 50px #fff3;
+}
+
+
+    /* Leaderboard */
+    .leaderboard {
+      background: rgba(255,255,255,0.05);
+      padding: 1em;
+      border-radius: 10px;
+      margin: 2em auto;
+      max-width: 400px;
+      animation: fadeInUp 0.5s ease forwards;
+    }
+    .leaderboard div {
+      margin: 0.3em;
+      font-size: 1em;
+      /*cursor: pointer;*/
+      user-select: none;
+      transition: color 0.25s ease;
+    }
+    .leaderboard div:hover {
+      color: #0ff;
+    }
+
+    #finalLeaderboard div {
+  margin-bottom: 0.5em;
+  transition: all 0.3s ease;
+}
+
+.leader-first {
+  font-size: 1.8em !important;
+  color: white;
+  font-weight: bold;
+  animation: pulse 1.5s ease-in-out infinite;
+}
+
+.leader-second {
+  font-size: 1.4em !important;
+  color: #ccc;
+  font-weight: bold;
+}
+
+.leader-other {
+  font-size: 1.1em;
+  color: #888;
+}
+
+@keyframes pulse {
+  0%   { text-shadow: 0 0 5px rgba(255,255,255,0.2); }
+  50%  { text-shadow: 0 0 15px rgba(255,255,255,0.6); }
+  100% { text-shadow: 0 0 5px rgba(255,255,255,0.2); }
+}
+
+
+    /* Score Eingaben */
+    #scoreInputs div {
+      padding: 0.3em 0;
+      cursor: pointer;
+      user-select: none;
+      font-weight: 700;
+      color: #0ff;
+      text-shadow: 0 0 4px #0ff;
+      transition: color 0.3s ease;
+    }
+    #scoreInputs div:hover {
+      color: #6ff;
+    }
+
+    /* Canvas fürs Feuerwerk */
+    canvas {
+      position: fixed;
+      top: 0; left: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+      z-index: -1;
+    }
+    #screen-winner {
+  position: relative;
+  overflow: hidden;
+}
+
+  </style>
+</head>
+<body>
+
+ <!-- Animationsschalter 
+  <label id="animToggleWrapper" title="Animationen an/aus">
+    Animations
+    <input type="checkbox" id="animToggle" checked />
+  </label> -->
+
+  <canvas id="fireworks"></canvas>
+
+  <h1>✮ Spieleabend ✮ </h1>
+
+  <div id="screen-teams" class="screen visible">
+    <h2>Teamnamen eingeben </h2>
+    <div class="team-inputs" id="teamInputs"></div>
+    <button class="button" onclick="startGame()">Start! <span class="icon">➩</span></button>
+  </div>
+
+  <div id="screen-games" class="screen">
+    <h2>Wählt ein Spiel </h2>
+    <div class="game-grid" id="gameGrid"></div>
+    <div class="leaderboard" id="leaderboardMini"></div>
+    <button class="button" onclick="endGameEarly()">Abbrechen & Gewinner anzeigen <span class="icon">➩</span></button>
+  </div>
+
+  <div id="screen-current" class="screen">
+    <h2 id="currentGameTitle">Aktuelles Spiel <span class="icon">➩</span></h2>
+    <p id="gameDescription">Beschreibung des Spiels erscheint hier...</p>
+    <div class="leaderboard" id="scoreInputs"></div>
+    <button class="button" onclick="updateScores()">Weiter <span class="icon">➩</span></button>
+  </div>
+
+ <div id="screen-winner" class="screen">
+  <h2>⫸⫸ Gewinnerteam ⫷⫷</h2>
+  <canvas id="fireworksCanvas" style="position:absolute; top:0; left:0; width:100%; height:100%; pointer-events:none; z-index: 10;"></canvas>
+  <div id="finalLeaderboard" class="leaderboard"></div>
+  <button class="button" onclick="restartGame()">Nochmal spielen <span class="icon">➩</span></button>
+</div>
+
+
+ <audio id="clickSound" src="Coin.wav" preload="auto"></audio>
+<audio id="winSound" src="Party.wav" preload="auto"></audio>
+
+  <script>
+    // Daten
+    const gameNames = [
+      { name: "Klopapier", desc: "Suche und stapel so viele Rollen wie möglich." },
+      { name: "Chaoslauf", desc: "Hole verschiedene Gegenstände" },
+      { name: "Glücksgriff", desc: "Wann ist die Zeit rum?" },
+      { name: "Mysterybox", desc: "Salzstangen essen" },
+      { name: "Bibelduell", desc: "Joker!" },
+      { name: "Hoch damit", desc: "Flaschenstemmen" },
+      { name: "Sockenrennen", desc: "Ein Rennen... auf Socken!" },
+      { name: "Wörterwirrwarr", desc: "Wie viele Wörter könnt ihr in 2 Minuten unterbringen?" },
+      { name: "Challenge", desc: "Schafft es als gesamtes Team die Anforderunegn zu erfüllen" },
+      { name: "Lachflash", desc: "Wer hält am längsten das Lachen zurück?" },
+      { name: "Schlürf", desc: "Weg mit dem Sirup" },
+      { name: "Nass", desc: "Nass, nässer, David" }
+    ];
+
+    let usedGames = [];
+    let teams = [];
+    let scores = [];
+    let animationsOn = true;
+   /* Animations aktiv oder nicht
+    let animationsOn = true;
+    const animToggle = document.getElementById('animToggle');
+    animToggle.addEventListener('change', () => {
+      animationsOn = animToggle.checked;
+      toggleAnimations(animationsOn);
+    }); */
+
+    function toggleAnimations(on) {
+      document.querySelectorAll('.game-tile').forEach(tile => {
+        tile.style.animationPlayState = on ? 'running' : 'paused';
+      });
+      document.querySelectorAll('.button').forEach(btn => {
+        btn.style.animationPlayState = on ? 'running' : 'paused';
+      });
+    }
+
+    // Screens switchen
+    function showScreen(id) {
+      document.querySelectorAll('.screen').forEach(s => s.classList.remove('visible'));
+      document.getElementById(id).classList.add('visible');
+    }
+
+    // Teams eingeben
+    function renderTeamInputs(n = 4) {
+      const wrapper = document.getElementById('teamInputs');
+      wrapper.innerHTML = '';
+      for (let i = 0; i < n; i++) {
+        const input = document.createElement('input');
+        input.placeholder = `Team ${i + 1}`;
+        input.className = 'team-name';
+        wrapper.appendChild(input);
+      }
+    }
+
+    // Spiel starten
+    function startGame() {
+      teams = [];
+      document.querySelectorAll('.team-name').forEach(input => {
+        const val = input.value.trim();
+        if (val !== '') teams.push(val);
+      });
+      // if (teams.length < 2) return alert('Bitte mindestens 2 Teams eingeben!');
+      scores = new Array(teams.length).fill(0);
+      usedGames = [];
+      renderGameGrid();
+      renderLeaderboard();
+      showScreen('screen-games');
+    }
+
+    // Grid rendern mit Farbwechsel bei Klick
+function renderGameGrid() {
+  const grid = document.getElementById('gameGrid');
+  grid.innerHTML = '';
+  const columns = 4;
+  gameNames.forEach((obj, idx) => {
+    const tile = document.createElement('div');
+    tile.className = 'game-tile';
+
+    // ✨ Animation-Delay dynamisch setzen
+    const columnPosition = idx % columns;
+    const delay = columnPosition ;
+    tile.style.setProperty('--delay', `${delay}s`);
+
+    if (usedGames.includes(idx)) {
+      tile.classList.add('used');
+      tile.style.pointerEvents = 'none';
+    } else {
+      tile.style.cursor = 'pointer';
+      tile.onclick = () => {
+        if (usedGames.includes(idx)) return;
+
+        usedGames.push(idx);
+        tile.classList.add('used');
+        tile.style.pointerEvents = 'none';
+
+        startCurrentGame(obj.name, obj.desc);
+        toggleAnimations(animationsOn);
+      };
+    }
+
+    tile.textContent = obj.name;
+    grid.appendChild(tile);
+  });
+  //updateScores();
+  renderLeaderboard('leaderboardMini');
+  toggleAnimations(animationsOn);
+}
+
+
+
+    // Aktuelles Spiel starten
+    function startCurrentGame(name, desc) {
+      document.getElementById('currentGameTitle').textContent = `Spiel: ${name}`;
+      document.getElementById('gameDescription').textContent = desc;
+      renderScoreInputs();
+      showScreen('screen-current');
+    }
+
+    // Score Eingaben rendern (Klick + Rechtsklick)
+    function renderScoreInputs() {
+      const div = document.getElementById('scoreInputs');
+      div.innerHTML = '';
+      teams.forEach((team, i) => {
+        const item = document.createElement('div');
+        item.textContent = `${team}: ${scores[i]}`;
+        item.onclick = () => {
+          scores[i]+=5;
+          renderScoreInputs();
+          renderLeaderboard('leaderboardMini');
+        };
+        item.oncontextmenu = e => {
+          e.preventDefault();
+           scores[i]-= 5;
+          renderScoreInputs();
+          renderLeaderboard('leaderboardMini');
+        };
+        div.appendChild(item);
+      });
+    }
+
+    // Scores aktualisieren & zurück zu Spielauswahl
+    function updateScores() {
+      renderLeaderboard();
+      showScreen('screen-games');
+      // Animations an
+      toggleAnimations(animationsOn);
+    }
+
+    // Leaderboard rendern
+    function renderLeaderboard(containerId = 'finalLeaderboard') {
+      const container = document.getElementById(containerId);
+      container.innerHTML = '';
+      const sorted = teams
+        .map((team, i) => ({ team, score: scores[i] }))
+        .sort((a, b) => b.score - a.score);
+      sorted.forEach(({ team, score }, i) => {
+        const div = document.createElement('div');
+        div.textContent = `${team}: ${score} Punkte`;
+
+        // Style nach Platzierung
+        if (containerId === 'finalLeaderboard') {
+          if (i === 0) {
+            div.classList.add('leader-first');
+          } else if (i === 1) {
+            div.classList.add('leader-second');
+          } else {
+            div.classList.add('leader-other');
+          }
+        }
+
+        container.appendChild(div);
+
+      });
+      //console.log('scores:', scores);
+      //console.log('teams:', teams);
+
+    }
+
+    // Spiel früh beenden
+    function endGameEarly() {
+      renderLeaderboard();
+      showScreen('screen-winner');
+      playWinSound();
+    }
+
+    // Spiel neu starten
+    function restartGame() {
+      teams = [];
+      scores = [];
+      usedGames = [];
+      renderTeamInputs();
+      showScreen('screen-teams');
+    }
+
+    // Sounds
+    function playClickSound() {
+      const audio = document.getElementById('clickSound');
+      audio.currentTime = 0;
+      audio.play();
+    }
+    function playWinSound() {
+      const audio = document.getElementById('winSound');
+      audio.currentTime = 0;
+      audio.play();
+    }
+
+    // Initial Setup
+    renderTeamInputs();
+    toggleAnimations(animationsOn);
+
+    // Optional: Feuerwerk Canvas (leicht animiert, wenn Zeit)
+    // (hier lasse ich es weg für Kürze, du kannst fragen wenn du willst)
+const canvas = document.getElementById('fireworks');
+const ctx = canvas.getContext('2d');
+let cw, ch;
+let fireworks = [];
+let particles = [];
+let animationFrameId;
+
+function setCanvasSize() {
+  cw = canvas.width = canvas.offsetWidth;
+  ch = canvas.height = canvas.offsetHeight;
+}
+
+class Firework {
+  constructor(sx, sy, tx, ty) {
+    this.x = sx;
+    this.y = sy;
+    this.sx = sx;
+    this.sy = sy;
+    this.tx = tx;
+    this.ty = ty;
+    this.distanceToTarget = distance(sx, sy, tx, ty);
+    this.distanceTraveled = 0;
+    this.coordinates = [];
+    this.coordinateCount = 3;
+    while (this.coordinateCount--) {
+      this.coordinates.push([this.x, this.y]);
+    }
+    this.angle = Math.atan2(ty - sy, tx - sx);
+    this.speed = 5;
+    this.acceleration = 1.05;
+    this.brightness = random(50, 70);
+    this.targetRadius = 5;
+  }
+  update(index) {
+    this.coordinates.pop();
+    this.coordinates.unshift([this.x, this.y]);
+    this.speed *= this.acceleration;
+    let vx = Math.cos(this.angle) * this.speed;
+    let vy = Math.sin(this.angle) * this.speed;
+    this.distanceTraveled = distance(this.sx, this.sy, this.x + vx, this.y + vy);
+
+    if (this.distanceTraveled >= this.distanceToTarget) {
+      createParticles(this.tx, this.ty);
+      fireworks.splice(index, 1);
+    } else {
+      this.x += vx;
+      this.y += vy;
+    }
+  }
+  draw() {
+    ctx.beginPath();
+    ctx.moveTo(this.coordinates[this.coordinates.length - 1][0], this.coordinates[this.coordinates.length - 1][1]);
+    ctx.lineTo(this.x, this.y);
+    ctx.strokeStyle = `rgba(255, 255, 255, 100)`;
+    ctx.stroke();
+
+    ctx.beginPath();
+    //ctx.arc(this.tx, this.ty, this.targetRadius, 0, Math.PI * 2);
+    ctx.stroke();
+  }
+}
+
+class Particle {
+  constructor(x, y) {
+    this.x = x;
+    this.y = y;
+    this.coordinates = [];
+    this.coordinateCount = 5;
+    while (this.coordinateCount--) {
+      this.coordinates.push([this.x, this.y]);
+    }
+    this.angle = random(0, Math.PI * 2);
+    this.speed = random(1, 10);
+    this.friction = 0.95;
+    this.gravity = 0.7;
+    const hues = [300, 190]; // 300 = pink, 190 = neonblau
+    this.hue = hues[Math.floor(Math.random() * hues.length)];
+
+    this.brightness = random(60, 80);
+    this.alpha = 1;
+    this.decay = random(0.005, 0.01);
+  }
+  update(index) {
+    this.coordinates.pop();
+    this.coordinates.unshift([this.x, this.y]);
+    this.speed *= this.friction;
+    this.x += Math.cos(this.angle) * this.speed;
+    this.y += Math.sin(this.angle) * this.speed + this.gravity;
+    this.alpha -= this.decay;
+
+    if (this.alpha <= 0) {
+      particles.splice(index, 1);
+    }
+  }
+  draw() {
+    ctx.beginPath();
+    ctx.moveTo(this.coordinates[this.coordinates.length - 1][0], this.coordinates[this.coordinates.length - 1][1]);
+    ctx.lineTo(this.x, this.y);
+    ctx.strokeStyle = `hsla(${this.hue}, 100%, ${this.brightness}%, ${this.alpha})`;
+    ctx.stroke();
+  }
+}
+
+function random(min, max) {
+  return Math.random() * (max - min) + min;
+}
+
+function distance(x1, y1, x2, y2) {
+  const dx = x2 - x1;
+  const dy = y2 - y1;
+  return Math.sqrt(dx * dx + dy * dy);
+}
+
+function createParticles(x, y) {
+  let particleCount = 30;
+  while (particleCount--) {
+    particles.push(new Particle(x, y));
+  }
+}
+
+function loop() {
+  animationFrameId = requestAnimationFrame(loop);
+  ctx.globalCompositeOperation = 'destination-out';
+  ctx.fillStyle = 'rgba(0, 0, 0, 0.3)';
+  ctx.fillRect(0, 0, cw, ch);
+  ctx.globalCompositeOperation = 'lighter';
+
+  for (let i = fireworks.length - 1; i >= 0; i--) {
+    fireworks[i].draw();
+    fireworks[i].update(i);
+  }
+
+  for (let i = particles.length - 1; i >= 0; i--) {
+    particles[i].draw();
+    particles[i].update(i);
+  }
+
+  if (Math.random() < 0.05) {
+    const startX = cw / 2;
+    const startY = ch;
+    const targetX = random(0, cw);
+    const targetY = random(0, ch / 2);
+    fireworks.push(new Firework(startX, startY, targetX, targetY));
+  }
+}
+
+// Resize canvas on window resize
+window.addEventListener('resize', () => {
+  setCanvasSize();
+});
+
+function startFireworks() {
+  setCanvasSize();
+  loop();
+}
+
+function stopFireworks() {
+  cancelAnimationFrame(animationFrameId);
+  ctx.clearRect(0, 0, cw, ch);
+}
+
+// Starte Feuerwerk beim Gewinner-Screen anzeigen:
+function showScreen(id) {
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('visible'));
+  document.getElementById(id).classList.add('visible');
+
+  if (id === 'screen-winner') {
+    startFireworks();
+  } else {
+    stopFireworks();
+  }
+}
+
+  document.querySelectorAll('button').forEach(btn => {
+    const originalOnClick = btn.onclick;
+    btn.onclick = function(event) {
+      playClickSound();
+      if (originalOnClick) originalOnClick.call(this, event);
+    };
+  });
+
+  </script>
+</body>
+</html>
+

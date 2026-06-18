@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Jungsfreizeit Spieleabend</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+    @keyframes pulse {
+      0% { filter: brightness(1); }
+      50% { filter: brightness(1.4); }
+      100% { filter: brightness(1); }
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Press Start 2P', cursive;
+      background: radial-gradient(ellipse at center, #111 0%, #000 100%);
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      overflow-x: hidden;
+      text-align: center;
+      position: relative;
+    }
+    h1, h2 {
+      margin: 0.5em 0;
+    }
+    .screen {
+      width: 100%;
+      max-width: 1400px;
+      padding: 1em;
+      display: none;
+    }
+    .visible { display: block; }
+    .button {
+      background-color: #0ff;
+      border: none;
+      padding: 0.7em 1.5em;
+      margin: 0.5em;
+      border-radius: 15px;
+      cursor: pointer;
+      font-size: 1em;
+      color: #111;
+      transition: 0.3s;
+      animation: pulse 2s infinite;
+      user-select: none;
+    }
+    .team-inputs input {
+      padding: 0.5em;
+      margin: 0.3em;
+      border-radius: 10px;
+      border: none;
+      font-family: 'Press Start 2P', cursive;
+      font-size: 0.8em;
+      width: 140px;
+      text-align: center;
+      color: #111;
+    }
+    .game-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 2em;
+      margin: 3em auto;
+      max-width: 1000px;
+    }
+    .game-tile {
+      background: #660; /* dunkleres Gelb */
+      padding: 3em 1em;
+      border-radius: 20px;
+      text-align: center;
+      font-weight: bold;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      font-size: 1em;
+      animation: pulse 4s infinite;
+      box-shadow: 0 0 20px #cc0;
+      user-select: none;
+      position: relative;
+    }
+    .game-tile.used {
+      background: #222;
+      text-decoration: line-through;
+      cursor: not-allowed;
+      opacity: 0.4;
+      box-shadow: none;
+      animation: none;
+    }
+    .game-tile.used::after {
+      content: "✓";
+      position: absolute;
+      top: 10px;
+      right: 15px;
+      font-size: 2em;
+      color: limegreen;
+      font-weight: bold;
+      user-select: none;
+    }
+    .leaderboard {
+      background: rgba(255,255,255,0.05);
+      padding: 1em;
+      border-radius: 10px;
+      margin: 2em auto;
+      max-width: 400px;
+      user-select: none;
+    }
+    .leaderboard div {
+      margin: 0.3em;
+      font-size: 1em;
+      cursor: pointer;
+      user-select: none;
+    }
+    .leaderboard div:hover {
+      color: #0ff;
+    }
+    canvas {
+      position: fixed;
+      top: 0; left: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+      z-index: -1;
+    }
+    /* Farb-Picker Popup */
+    #colorPickerPopup {
+      position: fixed;
+      top: 10px;
+      right: 10px;
+      background: rgba(0,0,0,0.8);
+      border-radius: 10px;
+      padding: 10px;
+      color: white;
+      font-family: 'Press Start 2P', cursive;
+      font-size: 0.7em;
+      z-index: 1000;
+      user-select: none;
+      max-width: 200px;
+    }
+    #colorPickerPopup label {
+      display: block;
+      margin: 5px 0 2px 0;
+    }
+    #colorPickerPopup input[type="color"] {
+      width: 100%;
+      height: 30px;
+      border: none;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+    #animationToggle {
+      margin-top: 10px;
+      cursor: pointer;
+      user-select: none;
+    }
+  </style>
+</head>
+<body>
+  <canvas id="fireworks"></canvas>
+
+  <h1>🎲 Spieleabend 🎉</h1>
+
+  <div id="screen-teams" class="screen visible">
+    <h2>Teamnamen eingeben</h2>
+    <div class="team-inputs" id="teamInputs"></div>
+    <button class="button" onclick="startGame()">Start!</button>
+  </div>
+
+  <div id="screen-games" class="screen">
+    <h2>Wählt ein Spiel</h2>
+    <div class="game-grid" id="gameGrid"></div>
+    <div class="leaderboard" id="leaderboardMini"></div>
+    <button class="button" onclick="endGameEarly()">Abbrechen & Gewinner anzeigen</button>
+  </div>
+
+  <div id="screen-current" class="screen">
+    <h2 id="currentGameTitle">Aktuelles Spiel</h2>
+    <p id="gameDescription">Beschreibung des Spiels erscheint hier...</p>
+    <div class="leaderboard" id="scoreInputs"></div>
+    <button class="button" onclick="updateScores()">Weiter</button>
+  </div>
+
+  <div id="screen-winner" class="screen">
+    <h2>🏆 Gewinnerteam 🏆</h2>
+    <div id="finalLeaderboard" class="leaderboard"></div>
+    <button class="button" onclick="restartGame()">Nochmal spielen</button>
+  </div>
+
+  <div id="colorPickerPopup" role="dialog" aria-modal="true" aria-labelledby="colorPickerLabel">
+    <label id="colorPickerLabel" for="baseColorInput">Grundfarbe (Gelbton):</label>
+    <input type="color" id="baseColorInput" value="#ffcc00" title="Wähle Grundfarbe" />
+    <label for="animationToggle"><input type="checkbox" id="animationToggle" checked /> Animationen an</label>
+  </div>
+
+  <audio id="clickSound" src="https://cdn.pixabay.com/download/audio/2022/03/15/audio_d7c3a2346f.mp3" preload="auto"></audio>
+  <audio id="winSound" src="https://cdn.pixabay.com/download/audio/2022/03/15/audio_ea3be9b60e.mp3" preload="auto"></audio>
+
+  <script>
+    // Daten & State
+    const gameNames = [
+      { name: "Klopapier", desc: "Stapel so viele Rollen wie möglich." },
+      { name: "Chaoslauf", desc: "Ein wilder Hindernislauf im Team." },
+      { name: "Glücksgriff", desc: "Zufällige Bonuspunkte - wer wagt, gewinnt!" },
+      { name: "Mysterybox", desc: "Eine Überraschung erwartet euch..." },
+      { name: "Bibelduell", desc: "Fragen rund um die Bibel." },
+      { name: "Turmbau", desc: "Baut den höchsten Turm mit Alltagsgegenständen." },
+      { name: "Sockenrennen", desc: "Ein Rennen... auf Socken!" },
+      { name: "Wörterwirrwarr", desc: "Wie viele Wörter könnt ihr in 1 Minute bilden?" },
+      { name: "Speedstacking", desc: "Becherstapel-Wettkampf." },
+      { name: "Lachflash", desc: "Wer hält am längsten das Lachen zurück?" },
+      { name: "Teamtanz", desc: "Improvisierter Gruppentanz mit Stil." },
+      { name: "Puzzle Panic", desc: "Wer puzzelt am schnellsten?" }
+    ];
+    let usedGames = [];
+    let teams = [];
+    let scores = [];
+    let animationsEnabled = true;
+    let baseColor = '#ffcc00';
+
+    // Icons (abwechselnd)
+    const icons = ['➩', '➔', '➤', '➜', '➢'];
+
+    // UI Steuerung
+    function showScreen(id) {
+      document.querySelectorAll('.screen').forEach(s => s.classList.remove('visible'));
+      document.getElementById(id).classList.add('visible');
+    }
+
+    // Teams Eingabe rendern
+    function renderTeamInputs(n = 4) {
+      const wrapper = document.getElementById('teamInputs');
+      wrapper.innerHTML = '';
+      for (let i = 0; i < n; i++) {
+        const input = document.createElement('input');
+        input.placeholder = `Team ${i + 1}`;
+        input.className = 'team-name';
+        wrapper.appendChild(input);
+      }
+    }
+
+    // Teams speichern & Spiel starten
+    function startGame() {
+      const inputs = document.querySelectorAll('.team-name');
+      teams = [];
+      scores = [];
+      for (let i = 0; i < inputs.length; i++) {
+        let name = inputs[i].value.trim();
+        if (!name) name = `Team ${i + 1}`;
+        teams.push(name);
+        scores.push(0);
+      }
+      usedGames = [];
+      renderGameGrid();
+      updateLeaderboardMini();
+      showScreen('screen-games');
+    }
+
+    // Spielraster rendern
+    function renderGameGrid() {
+      const container = document.getElementById('gameGrid');
+      container.innerHTML = '';
+      gameNames.forEach((game, i) => {
+        const tile = document.createElement('div');
+        tile.className = 'game-tile';
+        tile.textContent = `${icons[i % icons.length]} ${game.name}`;
+        if (usedGames.includes(i)) tile.classList.add('used');
+        tile.onclick = () => {
+          if (usedGames.includes(i)) return;
+          selectGame(i);
+        };
+        container.appendChild(tile);
+      });
+    }
+
+    // Spiel auswählen & Beschreibung zeigen
+    let currentGameIndex = null;
+    function selectGame(i) {
+      currentGameIndex = i;
+      document.getElementById('currentGameTitle').textContent = gameNames[i].name;
+      document.getElementById('gameDescription').textContent = gameNames[i].desc;
+      renderScoreInputs();
+      showScreen('screen-current');
+      playClickSound();
+    }
+
+    // Score Eingabe rendern
+    function renderScoreInputs() {
+      const container = document.getElementById('scoreInputs');
+      container.innerHTML = '';
+      teams.forEach((team, i) => {
+        const div = document.createElement('div');
+        div.style.cursor = 'pointer';
+        div.textContent = `${team}: ${scores[i]} Punkte`;
+        div.onclick = () => {
+          scores[i] += 5;
+          renderScoreInputs();
+          updateLeaderboardMini();
+          playClickSound();
+        };
+        container.appendChild(div);
+      });
+    }
+
+    // Scores übernehmen und zurück zum Spielraster
+    function updateScores() {
+      usedGames.push(currentGameIndex);
+      if (usedGames.length >= gameNames.length) {
+        showWinner();
+      } else {
+        renderGameGrid();
+        updateLeaderboardMini();
+        showScreen('screen-games');
+      }
+      playClickSound();
+    }
+
+    // Mini-Leaderboard auf Spielraster
+    function updateLeaderboardMini() {
+      const container = document.getElementById('leaderboardMini');
+      container.innerHTML = '';
+      teams.forEach((team, i) => {
+        const div = document.createElement('div');
+        div.textContent = `${team}: ${scores[i]} Punkte`;
+        div.onclick = () => {
+          scores[i] += 5;
+          renderScoreInputs();
+          updateLeaderboardMini();
+          playClickSound();
+        };
+        container.appendChild(div);
+      });
+    }
+
+    // Gewinner anzeigen
+    function showWinner() {
+      showScreen('screen-winner');
+      const container = document.getElementById('finalLeaderboard');
+      container.innerHTML = '';
+      const sorted = teams
+        .map((team, i) => ({ team, score: scores[i] }))
+        .sort((a, b) => b.score - a.score);
+      sorted.forEach(({ team, score }, i) => {
+        const div = document.createElement('div');
+        div.textContent = `${i + 1}. ${team}: ${score} Punkte`;
+        container.appendChild(div);
+      });
+      playWinSound();
+    }
+
+    // Spiel vorzeitig beenden und Gewinner anzeigen
+    function endGameEarly() {
+      showWinner();
+    }
+
+    // Spiel neu starten
+    function restartGame() {
+      teams = [];
+      scores = [];
+      usedGames = [];
+      renderTeamInputs();
+      showScreen('screen-teams');
+    }
+
+    // Sound Effekte
+    function playClickSound() {
+      const snd = document.getElementById('clickSound');
+      snd.currentTime = 0;
+      snd.play();
+    }
+    function playWinSound() {
+      const snd = document.getElementById('winSound');
+      snd.currentTime = 0;
+      snd.play();
+    }
+
+    // Farben anpassen
+    const baseColorInput = document.getElementById('baseColorInput');
+    baseColorInput.addEventListener('input', () => {
+      baseColor = baseColorInput.value;
+      updateColors();
+    });
+
+    function updateColors() {
+      // Update CSS Variablen oder Styles dynamisch
+      document.documentElement.style.setProperty('--base-yellow', baseColor);
+      // Spiele Kacheln, Buttons, etc. anpassen:
+      document.querySelectorAll('.game-tile').forEach(tile => {
+        if (!tile.classList.contains('used')) {
+          tile.style.backgroundColor = baseColor;
+          tile.style.boxShadow = `0 0 20px ${baseColor}`;
+        }
+      });
+      document.querySelectorAll('.button').forEach(btn => {
+        btn.style.backgroundColor = baseColor;
+        btn.style.color = '#111';
+      });
+    }
+
+    // Animationen ein/aus
+    const animToggle = document.getElementById('animationToggle');
+    animToggle.addEventListener('change', () => {
+      animationsEnabled = animToggle.checked;
+      toggleAnimations();
+    });
+
+    function toggleAnimations() {
+      if (animationsEnabled) {
+        document.querySelectorAll('.game-tile').forEach(tile => {
+          if (!tile.classList.contains('used')) tile.style.animationPlayState = 'running';
+        });
+        document.querySelectorAll('.button').forEach(btn => btn.style.animationPlayState = 'running');
+      } else {
+        document.querySelectorAll('.game-tile').forEach(tile => tile.style.animationPlayState = 'paused');
+        document.querySelectorAll('.button').forEach(btn => btn.style.animationPlayState = 'paused');
+      }
+    }
+
+    // Einfaches Feuerwerk (Canvas)
+    const canvas = document.getElementById('fireworks');
+    const ctx = canvas.getContext('2d');
+    let particles = [];
+
+    function resizeCanvas() {
+      canvas.width = window.innerWidth;
+      canvas.height = window.innerHeight;
+    }
+    window.addEventListener('resize', resizeCanvas);
+    resizeCanvas();
+
+    class Particle {
+      constructor(x, y, color) {
+        this.x = x;
+        this.y = y;
+        this.radius = Math.random() * 3 + 2;
+        this.color = color;
+        this.speedX = (Math.random() - 0.5) * 5;
+        this.speedY = (Math.random() - 0.5) * 5;
+        this.life = 50 + Math.random() * 30;
+      }
+      update() {
+        this.x += this.speedX;
+        this.y += this.speedY;
+        this.speedY += 0.1; // gravity
+        this.life--;
+      }
+      draw() {
+        ctx.beginPath();
+        ctx.fillStyle = this.color;
+        ctx.shadowColor = this.color;
+        ctx.shadowBlur = 10;
+        ctx.arc(this.x, this.y, this.radius, 0, Math.PI * 2);
+        ctx.fill();
+      }
+    }
+
+    function createFirework() {
+      const x = Math.random() * canvas.width * 0.8 + canvas.width * 0.1;
+      const y = Math.random() * canvas.height * 0.3 + canvas.height * 0.1;
+      const baseCol = baseColor;
+      for (let i = 0; i < 30; i++) {
+        const p = new Particle(x, y, baseCol);
+        particles.push(p);
+      }
+    }
+
+    function animate() {
+      if (!animationsEnabled) {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        requestAnimationFrame(animate);
+        return;
+      }
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      if (Math.random() < 0.03) createFirework();
+      particles.forEach((p, i) => {
+        p.update();
+        p.draw();
+        if (p.life <= 0) particles.splice(i, 1);
+      });
+      requestAnimationFrame(animate);
+    }
+    animate();
+
+    // Initial Setup
+    renderTeamInputs();
+    updateColors();
+    toggleAnimations();
+
+  </script>
+</body>
+</html>
+

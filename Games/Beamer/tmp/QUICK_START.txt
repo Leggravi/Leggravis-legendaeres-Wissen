@@ -1,0 +1,270 @@
+===============================================
+🎮 WIKINGER SPIELEABEND – QUICK START GUIDE
+===============================================
+
+👋 HELLO WIKINGER-TEAMS!
+
+Willkommen zur überarbeiteten Version mit modernem Buzzer-System,
+Soundeffekten und zwei separaten Websites für Publikum & Moderator.
+
+===============================================
+🚀 LOS GEHT'S – 5 SCHRITTE
+===============================================
+
+SCHRITT 1: Zwei Browser-Fenster öffnen
+──────────────────────────────────────
+Fenster A: file:///path/to/beamer.html
+   → Diese Website wird auf dem BEAMER angezeigt
+   → Vollbild (F11)
+   → Zeigt Teams, Spielnamen, Punkte, Buzzer-Anzeige
+
+Fenster B: file:///path/to/moderator.html
+   → Diese Website auf LAPTOP/TABLET des Moderators
+   → Zur Spielsteuerung & Punktvergabe
+   → Hier passiert die Kontrolle
+
+
+SCHRITT 2: Team-Namen eingeben (Beamer)
+────────────────────────────────────────
+Beamer-Website:
+  - Team 1 Name: [Text eingeben] z.B. "Drachen"
+  - Team 2 Name: [Text eingeben] z.B. "Wikinger"
+  - Team 3 Name: [Text eingeben] z.B. "Götter"
+  → "SPIELEABEND STARTEN" Button klicken
+
+
+SCHRITT 3: Buzzer testen (Moderator)
+─────────────────────────────────────
+Moderator-Website (rechts):
+  → Im Info-Box "Audio" Button "🔊 Buzzer Test" klicken
+  → Drücke die Tasten 1, 2, 3 auf Tastatur
+  → Browser-Konsole (F12) sollte zeigen: "Team X buzzed!"
+
+
+SCHRITT 4: Spiel auswählen (Moderator)
+───────────────────────────────────────
+Moderator-Website (Mitte):
+  → Klick auf eines der Spiel-Kacheln
+  → INFO-Panel zeigt Regeln
+  → Beamer-Website zeigt das aktive Spiel
+
+
+SCHRITT 5: Spielen & Punkte vergeben!
+──────────────────────────────────────
+Moderator:
+  → Timer nutzen (Space zum Starten/Stoppen)
+  → Punkte eingeben (rechts, Score-Grid)
+  → "Score Input" ändern: +1 oder +5 Punkte Button
+  → Nächstes Spiel wählen
+
+Beamer:
+  → Teams sehen großes Spiel-Display
+  → Buzzer-Anzeige wenn Team buzzert
+  → Punkte oben rechts aktualisiert
+
+
+===============================================
+⌨️ WICHTIGE TASTEN
+===============================================
+
+1, 2, 3 .......................... Buzzer (Team 1, 2, 3)
+SPACE ............................ Timer Start/Stop (Moderator)
+F11 .............................. Vollbild-Modus
+F12 .............................. Browser-Konsole (Debugging)
+
+
+===============================================
+🎮 SPIELE ÜBERSICHT
+===============================================
+
+BUZZER-SPIELE (wer buzzert zuerst?)
+├─ Die Bergung ..................... Gegenstände bergen
+├─ Das Ankertau .................... Tauziehen (3x)
+└─ Rat der Ältesten ................ Quiz + Buzzer
+
+COUNTER-SPIELE (buzzer-drücke zählen)
+├─ Der Schmied ..................... 60 Sekunden schlagen
+│  (WICHTIG: High-Frequency! >30 clicks/sec möglich)
+
+TIMER-SPIELE (Countdown)
+├─ Die eiserne Ration .............. Keks ohne Hände essen
+└─ Der Fjordkurs ................... Auf 30s genau stoppen (3x)
+
+ENDURANCE-SPIELE (durchhaltevermögen)
+└─ Der Schildwall .................. Wandsitzen
+
+MODERIERTE SPIELE (Moderator erklärt)
+├─ Das Turnier ..................... Klobürsten-Klau
+└─ Der blinde Wächter .............. Mit Schwimmnudel
+
+JOKER-SPIELE ✨ (GEHEIM!)
+├─ Wahl der Götter ................. Team gewinnt einfach!
+├─ Wahl des Schicksals ............. Team gewinnt einfach!
+└─ Odin's Gnade .................... Team gewinnt einfach!
+   (Diese 3 Spiele sind zufällig verteilt im Spielplan)
+
+
+===============================================
+🔊 SOUNDEFFEKTE
+===============================================
+
+Automatische Sounds:
+  ✓ Buzzer-Sound wenn Team buzzert
+  ✓ Punkt-Sound bei Punktvergabe
+  ✓ Gewinner-Sound am Ende
+  ✓ Beep bei Timer-Ablauf
+
+Einstellungen (Moderator-Website, rechts):
+  → Lautstärke-Slider "Soundeffekte"
+  → Button "Beep testen" für Sound-Check
+
+
+===============================================
+🎨 DESIGN-FEATURES
+===============================================
+
+✓ Moderne Schriftarten (Orbitron, Fredoka)
+✓ Neon-Glow Effekte
+✓ Gradient-Text
+✓ Animierte Hintergründe
+✓ Responsive Design (auch auf Tablets)
+✓ Dunkles Theme (schön für Beamer)
+
+
+===============================================
+🆘 HÄUFIGE PROBLEME
+===============================================
+
+Q: Buzzer funktioniert nicht!
+A: → Moderator: "Buzzer Test" Button drücken
+   → Taste 1 drücken
+   → Browser-Konsole (F12) anschauen
+   → Sollte "Team 1 buzzed!" anzeigen
+
+Q: Sound funktioniert nicht!
+A: → Moderator: Lautstärke-Slider erhöhen
+   → "Beep testen" Button
+   → Browser-Lautsprecher checken
+   → In manchen Browsern muss Audio "freigegeben" werden
+
+Q: Beamer und Moderator sind nicht synchron!
+A: → Das ist aktuell normal (mit localStorage)
+   → Einfach die gleichen Teamnamen verwenden
+   → Punkte müssen manuell eingegeben werden
+   → (WebSocket-Version kommt später)
+
+Q: Spiel-Auswahl wird nicht angezeigt!
+A: → Fenster aktualisieren (F5)
+   → Bei Beamer: "SPIELEABEND STARTEN" klicken
+   → Bei Moderator: Spiel-Kachel anklicken
+
+
+===============================================
+💡 TIPPS FÜR ERFOLGREICHE NUTZUNG
+===============================================
+
+VORBEREITUNG:
+  ✓ Buzzer testen BEVOR das Event startet
+  ✓ Team-Namen vorbereiten
+  ✓ Regeln durchlesen (Moderator)
+  ✓ Sound-Lautstärke anpassen
+
+WÄHREND DES SPIELS:
+  ✓ Beamer im Vollbild (F11)
+  ✓ Moderator auf Tablet neben Beamer
+  ✓ Regeln KURZ vorlesen (nicht zu lang)
+  ✓ Nach jedem Spiel Punkte eingeben
+  ✓ Timer nutzen für Rhythmus
+
+NACH JEDEM SPIEL:
+  ✓ Punkte in Moderator eingeben
+  ✓ Nächstes Spiel wählen
+  ✓ Beamer zeigt neues Spiel automatisch
+
+FINALE:
+  ✓ Am Ende: Team mit meisten Punkten gewinnt!
+  ✓ Lautstärke für Gewinner-Sound erhöhen 🎉
+
+
+===============================================
+📝 REGELWERK-KURZÜBERSICHT
+===============================================
+
+DIE BERGUNG
+  Gegenstände ausrufen → Team buzzert → Bringt Ding hin
+  → 3 Runden
+
+DER SCHMIED
+  60 Sekunden schlagen! Wer drückt am meisten?
+  → Schnelligkeit zählt!
+
+DAS ANKERTAU
+  Tauziehen in 3 Matches (1vs2, 1vs3, 2vs3)
+  → 5 Sekunden pro Match
+
+DIE EISERNE RATION
+  Keks auf Stirn, ohne Hände in den Mund!
+  → Fallt runter = raus
+
+RAT DER ÄLTESTEN
+  5 Quiz-Fragen, Team buzzert & antwortet
+  → Richtig = 1 Punkt
+
+DER FJORDKURS
+  Timer läuft, auf 30 Sekunden genau stoppen!
+  → 3 Versuche, wer am nächsten?
+
+DAS TURNIER
+  Klobürsten-Klau-Spiel! Teams kämpfen um Bürsten
+  → 3 Minuten
+
+DER SCHILDWALL
+  Wandsitzen 90° Winkel, Rücken an Wand
+  → Wer hält am längsten?
+
+DER BLINDE WÄCHTER
+  Einäugiger Wächter mit Schwimmnudel
+  → Gegner müssen Buzzer drücken ohne Schlag
+
+
+JOKER-SPIELE ✨
+  Einfach → Team bekommt Punkte!
+  → Nichts zu tun, einfach Lucky!
+
+
+===============================================
+🔗 DATEI-STRUKTUR
+===============================================
+
+index.html .................... Startseite (Links)
+beamer.html ................... Publikum-Website
+moderator.html ................ Moderator-Website
+js/
+  ├─ buzzer-system.js ......... Tasten-Input
+  ├─ sound-system.js .......... Audio
+  ├─ games-config.js .......... Spiel-Liste
+  └─ sync-system.js ........... Synchronisation
+
+README.md ..................... Ausführliche Doku
+DEVELOPMENT.md ................ Dev-Guide
+
+
+===============================================
+📞 KONTAKT & SUPPORT
+===============================================
+
+Fehler? → Browser-Konsole öffnen (F12 → Console)
+Fragen? → README.md lesen
+Erweiterungen? → DEVELOPMENT.md lesen
+
+
+===============================================
+🎉 VIEL SPAß MIT DEM SPIELEABEND!
+===============================================
+
+Möge Odin euch Stärke verleihen! ⚔️
+
+Version: 2.0 (Überarbeitet)
+Letzte Änderung: Mai 2026
+
+===============================================

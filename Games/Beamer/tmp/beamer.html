@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🎮 Wikinger Spieleabend – BEAMER</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Fredoka:wght@500;700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    
+    body {
+      font-family: 'Fredoka', sans-serif;
+      background: linear-gradient(135deg, #0a0e27 0%, #1a0a3e 100%);
+      color: #e0e7ff;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      position: relative;
+    }
+
+    /* Animated Background */
+    @keyframes bgShift {
+      0%, 100% { background: linear-gradient(135deg, #0a0e27 0%, #1a0a3e 100%); }
+      50% { background: linear-gradient(135deg, #1a0f4e 0%, #2a1060 100%); }
+    }
+    body { animation: bgShift 20s infinite; }
+
+    /* Glow Effect */
+    ::selection { background: rgba(139, 92, 246, 0.5); color: #fff; }
+
+    .screen {
+      display: none;
+      width: 100%;
+      height: 100vh;
+      padding: 2rem;
+      text-align: center;
+      animation: fadeIn 0.6s ease;
+    }
+
+    .screen.active { display: flex; flex-direction: column; }
+
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    /* ═══════════════════════════════════════════
+       TEAM-AUSWAHL SCREEN
+    ═══════════════════════════════════════════ */
+    #screen-teams {
+      justify-content: center;
+      gap: 2rem;
+    }
+
+    .title {
+      font-family: 'Orbitron', monospace;
+      font-size: clamp(2.5rem, 8vw, 5rem);
+      font-weight: 900;
+      background: linear-gradient(45deg, #00d4ff, #c084fc, #f472b6);
+      background-size: 300% 300%;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      animation: gradientShift 4s ease infinite;
+      letter-spacing: 3px;
+      margin-bottom: 1rem;
+      text-shadow: 0 0 30px rgba(139, 92, 246, 0.5);
+    }
+
+    @keyframes gradientShift {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
+    .subtitle {
+      font-size: 1.5rem;
+      color: #a0aec0;
+      margin-bottom: 2rem;
+      font-style: italic;
+    }
+
+    .team-selector {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1.5rem;
+      margin-bottom: 2rem;
+      max-width: 900px;
+    }
+
+    .team-card {
+      background: rgba(139, 92, 246, 0.1);
+      border: 3px solid rgba(139, 92, 246, 0.3);
+      border-radius: 12px;
+      padding: 1.5rem;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: #fff;
+    }
+
+    .team-card:hover, .team-card.selected {
+      background: rgba(139, 92, 246, 0.3);
+      border-color: #c084fc;
+      transform: scale(1.05);
+      box-shadow: 0 0 30px rgba(192, 132, 252, 0.5);
+    }
+
+    .team-name-input {
+      background: rgba(255, 255, 255, 0.08);
+      border: 2px solid rgba(139, 92, 246, 0.4);
+      border-radius: 8px;
+      padding: 0.8rem;
+      color: #fff;
+      font-family: 'Fredoka', sans-serif;
+      font-size: 1rem;
+      width: 100%;
+      margin-top: 0.5rem;
+      text-align: center;
+      transition: all 0.3s;
+    }
+
+    .team-name-input:focus {
+      outline: none;
+      border-color: #c084fc;
+      box-shadow: 0 0 15px rgba(192, 132, 252, 0.3);
+      background: rgba(192, 132, 252, 0.1);
+    }
+
+    .btn {
+      background: linear-gradient(135deg, #8b5cf6 0%, #c084fc 100%);
+      border: none;
+      color: #fff;
+      padding: 1rem 2.5rem;
+      font-size: 1.3rem;
+      font-weight: 700;
+      border-radius: 12px;
+      cursor: pointer;
+      transition: all 0.3s;
+      font-family: 'Orbitron', monospace;
+      letter-spacing: 1px;
+      box-shadow: 0 0 20px rgba(192, 132, 252, 0.3);
+    }
+
+    .btn:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 0 40px rgba(192, 132, 252, 0.6);
+      background: linear-gradient(135deg, #c084fc 0%, #f472b6 100%);
+    }
+
+    /* ═══════════════════════════════════════════
+       SPIEL-SCREEN
+    ═══════════════════════════════════════════ */
+    #screen-game {
+      justify-content: space-between;
+    }
+
+    .game-header {
+      margin-bottom: 1rem;
+    }
+
+    .game-rune {
+      font-size: 4rem;
+      margin-bottom: 0.5rem;
+      animation: pulse 2s infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.1); }
+    }
+
+    .game-name {
+      font-family: 'Orbitron', monospace;
+      font-size: 2.5rem;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 0.5rem;
+    }
+
+    .game-type {
+      font-size: 0.9rem;
+      color: #94a3b8;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    /* Spielzustand Anzeige */
+    .game-state {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 2rem;
+      margin: 2rem 0;
+    }
+
+    /* BUZZER-ANZEIGE */
+    .buzzer-display {
+      background: rgba(0, 212, 255, 0.1);
+      border: 4px solid #00d4ff;
+      border-radius: 20px;
+      padding: 3rem 2rem;
+      font-size: 3.5rem;
+      font-weight: 900;
+      color: #00d4ff;
+      text-shadow: 0 0 40px rgba(0, 212, 255, 0.8);
+      animation: buzzerFlash 0.3s ease;
+      font-family: 'Orbitron', monospace;
+      letter-spacing: 3px;
+    }
+
+    @keyframes buzzerFlash {
+      0% { opacity: 0; transform: scale(0.8); }
+      50% { opacity: 1; }
+      100% { opacity: 1; transform: scale(1); }
+    }
+
+    /* SCORE-ANZEIGE */
+    .score-display {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1.5rem;
+      margin: 1.5rem 0;
+    }
+
+    .score-card {
+      background: rgba(139, 92, 246, 0.15);
+      border: 3px solid rgba(139, 92, 246, 0.4);
+      border-radius: 15px;
+      padding: 1.5rem;
+      font-size: 1.5rem;
+    }
+
+    .score-card.leading {
+      border-color: #fbbf24;
+      background: rgba(251, 191, 36, 0.15);
+      box-shadow: 0 0 30px rgba(251, 191, 36, 0.4);
+    }
+
+    .score-team-name {
+      font-size: 1rem;
+      color: #94a3b8;
+      margin-bottom: 0.5rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    .score-points {
+      font-family: 'Orbitron', monospace;
+      font-size: 3rem;
+      font-weight: 900;
+      color: #fff;
+    }
+
+    .score-card.leading .score-points {
+      color: #fbbf24;
+      text-shadow: 0 0 20px rgba(251, 191, 36, 0.6);
+    }
+
+    /* Turn Banner */
+    .turn-banner {
+      background: rgba(244, 114, 182, 0.1);
+      border: 2px solid #f472b6;
+      border-radius: 12px;
+      padding: 1rem;
+      font-size: 1.2rem;
+      color: #f472b6;
+      font-weight: 700;
+    }
+
+    /* Footer */
+    .footer {
+      font-size: 0.85rem;
+      color: #64748b;
+      margin-top: 1rem;
+    }
+
+    /* ═══════════════════════════════════════════
+       JOKER-SCREEN
+    ═══════════════════════════════════════════ */
+    .joker-warning {
+      font-size: 2rem;
+      color: #c084fc;
+      animation: pulse 1s infinite;
+      margin-bottom: 2rem;
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .title { font-size: clamp(1.5rem, 6vw, 2.5rem); }
+      .game-name { font-size: 1.5rem; }
+      .score-display { grid-template-columns: 1fr; }
+      .score-points { font-size: 2rem; }
+      .buzzer-display { font-size: 2rem; padding: 2rem 1rem; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- TEAMS AUSWAHL -->
+<div id="screen-teams" class="screen active">
+  <div class="title">⚔️ WIKINGER SPIELEABEND ⚔️</div>
+  <div class="subtitle">Möge Odin euch Stärke verleihen</div>
+  
+  <div class="team-selector" id="teamSelector"></div>
+  
+  <button class="btn" onclick="startGame()">SPIELEABEND STARTEN</button>
+</div>
+
+<!-- SPIEL-ANZEIGE -->
+<div id="screen-game" class="screen">
+  <div class="game-header">
+    <div class="game-rune" id="gameRune">⚔</div>
+    <div class="game-name" id="gameName">Spiel</div>
+    <div class="game-type" id="gameType">BUZZER</div>
+  </div>
+
+  <div class="game-state">
+    <!-- Hier werden spieltyp-spezifische Inhalte eingefügt -->
+    <div id="gameStateContent"></div>
+  </div>
+
+  <!-- Score-Anzeige -->
+  <div>
+    <div class="turn-banner" id="turnBanner"></div>
+    <div class="score-display" id="scoreDisplay"></div>
+    <div class="footer" id="footerText"></div>
+  </div>
+</div>
+
+<!-- JOKER! -->
+<div id="screen-joker" class="screen">
+  <div class="title">✨ SPECIAL ✨</div>
+  <div class="joker-warning">Dieses Team gewinnt einfach diese Runde!</div>
+  <div class="score-display" id="jokerScores"></div>
+  <button class="btn" onclick="nextGame()" style="margin-top: 2rem;">WEITER ZUM NÄCHSTEN SPIEL</button>
+</div>
+
+<script src="js/buzzer-system.js"></script>
+<script src="js/sound-system.js"></script>
+<script src="js/games-config.js"></script>
+
+<script>
+  let teams = ['Team 1', 'Team 2', 'Team 3'];
+  let scores = [0, 0, 0];
+  let currentGameIdx = 0;
+  let games = [];
+  let buzzer = null;
+  let lastBuzzedTeam = null;
+
+  // Initialize
+  function initTeamSelector() {
+    const selector = document.getElementById('teamSelector');
+    selector.innerHTML = '';
+    teams.forEach((team, idx) => {
+      const card = document.createElement('div');
+      card.className = 'team-card';
+      card.innerHTML = `
+        <div style="margin-bottom: 0.5rem;">Team ${idx + 1}</div>
+        <input type="text" class="team-name-input" id="team${idx}" value="${team}" maxlength="20">
+      `;
+      selector.appendChild(card);
+    });
+  }
+
+  function startGame() {
+    teams[0] = document.getElementById('team0').value || 'Team 1';
+    teams[1] = document.getElementById('team1').value || 'Team 2';
+    teams[2] = document.getElementById('team2').value || 'Team 3';
+    
+    scores = [0, 0, 0];
+    games = Games.shuffleWithJokers();
+    currentGameIdx = 0;
+    
+    initBuzzer();
+    showGame();
+  }
+
+  function initBuzzer() {
+    buzzer = new BuzzerSystem({
+      teamCount: 3,
+      onBuzz: (teamIdx) => {
+        onTeamBuzz(teamIdx);
+        window.soundSystem.playSound('buzzer');
+      },
+      onMultiBuzz: (teamIndices) => {
+        console.log('Multiple buzz:', teamIndices);
+        window.soundSystem.playSound('buzzer');
+      }
+    });
+    buzzer.enable();
+  }
+
+  function showGame() {
+    const game = games[currentGameIdx];
+    
+    if (game.isJoker) {
+      showJokerScreen();
+      return;
+    }
+
+    document.getElementById('screen-teams').classList.remove('active');
+    document.getElementById('screen-joker').classList.remove('active');
+    document.getElementById('screen-game').classList.add('active');
+
+    document.getElementById('gameRune').textContent = game.rune;
+    document.getElementById('gameName').textContent = game.name;
+    document.getElementById('gameType').textContent = game.type.toUpperCase();
+    
+    const content = document.getElementById('gameStateContent');
+    content.innerHTML = '';
+    
+    // Spieltyp-spezifische Anzeige
+    if (game.type === 'buzzer_race') {
+      content.innerHTML = '<div class="buzzer-display" id="buzzDisplay">Bereit!</div>';
+    } else if (game.type === 'counter') {
+      content.innerHTML = '<div class="buzzer-display" id="buzzDisplay">60 Sekunden!</div>';
+    } else if (game.type === 'tug_of_war') {
+      content.innerHTML = '<div class="buzzer-display" id="buzzDisplay">Tauziehen!</div>';
+    } else if (game.type === 'precision') {
+      content.innerHTML = '<div class="buzzer-display" id="timerDisplay">00:00</div>';
+    } else {
+      content.innerHTML = '<div style="font-size: 1.5rem; color: #94a3b8;">Moderiertes Spiel</div>';
+    }
+
+    updateScoreDisplay();
+  }
+
+  function showJokerScreen() {
+    const game = games[currentGameIdx];
+    document.getElementById('screen-teams').classList.remove('active');
+    document.getElementById('screen-game').classList.remove('active');
+    document.getElementById('screen-joker').classList.add('active');
+    
+    const jokerScores = document.getElementById('jokerScores');
+    jokerScores.innerHTML = teams.map((team, idx) => `
+      <div class="score-card">
+        <div class="score-team-name">${team}</div>
+        <div class="score-points">${scores[idx]}</div>
+      </div>
+    `).join('');
+  }
+
+  function onTeamBuzz(teamIdx) {
+    lastBuzzedTeam = teamIdx;
+    const display = document.getElementById('buzzDisplay');
+    if (display) {
+      display.textContent = `⚡ ${teams[teamIdx]} ⚡`;
+      display.style.color = '#fbbf24';
+      display.style.textShadow = '0 0 60px rgba(251, 191, 36, 0.8)';
+      setTimeout(() => {
+        display.textContent = 'Bereit!';
+        display.style.color = '#00d4ff';
+        display.style.textShadow = '0 0 40px rgba(0, 212, 255, 0.8)';
+      }, 2000);
+    }
+  }
+
+  function updateScoreDisplay() {
+    const display = document.getElementById('scoreDisplay');
+    const maxScore = Math.max(...scores);
+    
+    display.innerHTML = teams.map((team, idx) => `
+      <div class="score-card ${scores[idx] === maxScore && maxScore > 0 ? 'leading' : ''}">
+        <div class="score-team-name">${team}</div>
+        <div class="score-points">${scores[idx]}</div>
+      </div>
+    `).join('');
+  }
+
+  function nextGame() {
+    currentGameIdx++;
+    if (currentGameIdx < games.length) {
+      showGame();
+    } else {
+      // FINALE!
+      document.getElementById('screen-joker').classList.remove('active');
+      document.getElementById('screen-game').classList.remove('active');
+      const winner = teams[scores.indexOf(Math.max(...scores))];
+      alert(`🏆 ${winner} gewinnt! 🏆`);
+    }
+  }
+
+  // Init
+  initTeamSelector();
+
+  // Für Moderator-Website (WebSocket/shared state)
+  window.beamerState = {
+    teams,
+    scores,
+    currentGame: () => games[currentGameIdx],
+    updateScore: (teamIdx, points) => {
+      scores[teamIdx] += points;
+      updateScoreDisplay();
+    }
+  };
+</script>
+
+</body>
+</html>

@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🎮 Wikinger Spieleabend – MODERATOR</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Fredoka:wght@500;700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    
+    body {
+      font-family: 'Fredoka', sans-serif;
+      background: #0f0f1f;
+      color: #e0e7ff;
+      min-height: 100vh;
+      padding: 1rem;
+    }
+
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 300px 1fr 300px;
+      gap: 1.5rem;
+    }
+
+    /* SIDEBAR LEFT */
+    .sidebar {
+      background: rgba(139, 92, 246, 0.08);
+      border: 2px solid rgba(139, 92, 246, 0.3);
+      border-radius: 12px;
+      padding: 1.5rem;
+      max-height: 90vh;
+      overflow-y: auto;
+    }
+
+    .sidebar-title {
+      font-family: 'Orbitron', monospace;
+      font-size: 1.2rem;
+      font-weight: 700;
+      margin-bottom: 1rem;
+      color: #c084fc;
+      text-transform: uppercase;
+    }
+
+    .team-setup {
+      display: flex;
+      flex-direction: column;
+      gap: 0.8rem;
+      margin-bottom: 2rem;
+    }
+
+    .team-input {
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid rgba(139, 92, 246, 0.3);
+      border-radius: 6px;
+      padding: 0.5rem;
+      color: #fff;
+      font-family: 'Fredoka', sans-serif;
+      font-size: 0.85rem;
+      width: 100%;
+    }
+
+    .team-input:focus {
+      outline: none;
+      border-color: #c084fc;
+      background: rgba(192, 132, 252, 0.1);
+    }
+
+    .team-label {
+      font-size: 0.75rem;
+      color: #94a3b8;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 0.3rem;
+    }
+
+    .btn-small {
+      background: linear-gradient(135deg, #8b5cf6 0%, #c084fc 100%);
+      border: none;
+      color: #fff;
+      padding: 0.6rem;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 0.85rem;
+      font-weight: 700;
+      transition: all 0.3s;
+      font-family: 'Orbitron', monospace;
+      margin-bottom: 0.5rem;
+    }
+
+    .btn-small:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 0 15px rgba(192, 132, 252, 0.4);
+    }
+
+    /* CENTER */
+    .main {
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+
+    .panel {
+      background: rgba(139, 92, 246, 0.08);
+      border: 2px solid rgba(139, 92, 246, 0.3);
+      border-radius: 12px;
+      padding: 1.5rem;
+    }
+
+    .panel-title {
+      font-family: 'Orbitron', monospace;
+      font-size: 1.3rem;
+      font-weight: 700;
+      margin-bottom: 1rem;
+      color: #c084fc;
+    }
+
+    /* GAME LIST */
+    .game-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+      gap: 1rem;
+      margin-bottom: 1rem;
+    }
+
+    .game-tile {
+      background: rgba(0, 212, 255, 0.1);
+      border: 2px solid rgba(0, 212, 255, 0.3);
+      border-radius: 8px;
+      padding: 1rem;
+      text-align: center;
+      cursor: pointer;
+      transition: all 0.3s;
+      font-size: 0.85rem;
+    }
+
+    .game-tile:hover {
+      border-color: #c084fc;
+      box-shadow: 0 0 15px rgba(192, 132, 252, 0.4);
+      transform: scale(1.05);
+    }
+
+    .game-tile.active {
+      background: rgba(244, 114, 182, 0.2);
+      border-color: #f472b6;
+      box-shadow: 0 0 20px rgba(244, 114, 182, 0.5);
+    }
+
+    .game-tile.played {
+      opacity: 0.4;
+      cursor: not-allowed;
+    }
+
+    .game-rune {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .game-name {
+      font-weight: 700;
+      font-size: 0.75rem;
+    }
+
+    /* TIMER PANEL */
+    .timer-section {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    .timer-display {
+      font-family: 'Orbitron', monospace;
+      font-size: 3rem;
+      font-weight: 900;
+      text-align: center;
+      color: #00d4ff;
+      text-shadow: 0 0 30px rgba(0, 212, 255, 0.6);
+      padding: 1rem;
+      background: rgba(0, 212, 255, 0.05);
+      border-radius: 8px;
+      margin-bottom: 0.5rem;
+    }
+
+    .timer-controls {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 0.5rem;
+    }
+
+    .btn-timer {
+      background: rgba(139, 92, 246, 0.3);
+      border: 1px solid rgba(139, 92, 246, 0.5);
+      color: #fff;
+      padding: 0.6rem;
+      border-radius: 6px;
+      cursor: pointer;
+      font-weight: 700;
+      font-size: 0.85rem;
+    }
+
+    .btn-timer:hover {
+      background: rgba(139, 92, 246, 0.5);
+    }
+
+    /* SCORE MANAGEMENT */
+    .score-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1rem;
+      margin-bottom: 1rem;
+    }
+
+    .score-input-group {
+      background: rgba(139, 92, 246, 0.1);
+      border: 1px solid rgba(139, 92, 246, 0.3);
+      border-radius: 8px;
+      padding: 1rem;
+      text-align: center;
+    }
+
+    .score-input-group label {
+      display: block;
+      font-size: 0.85rem;
+      color: #94a3b8;
+      margin-bottom: 0.5rem;
+      font-weight: 700;
+    }
+
+    .score-input-group input {
+      width: 100%;
+      background: rgba(0, 0, 0, 0.3);
+      border: 1px solid rgba(139, 92, 246, 0.5);
+      color: #fff;
+      padding: 0.6rem;
+      border-radius: 6px;
+      font-size: 1.2rem;
+      text-align: center;
+      font-family: 'Orbitron', monospace;
+      font-weight: 700;
+    }
+
+    /* QUIZ */
+    .quiz-area {
+      background: rgba(251, 191, 36, 0.08);
+      border: 1px solid rgba(251, 191, 36, 0.3);
+      border-radius: 8px;
+      padding: 1.5rem;
+      margin-top: 1rem;
+    }
+
+    .quiz-question {
+      font-size: 1.1rem;
+      margin-bottom: 1rem;
+      color: #fff;
+    }
+
+    .quiz-answer {
+      font-size: 0.9rem;
+      color: #fbbf24;
+      font-weight: 700;
+      padding: 0.5rem;
+      background: rgba(251, 191, 36, 0.1);
+      border-radius: 4px;
+    }
+
+    /* SIDEBAR RIGHT */
+    .sidebar-right {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    .info-box {
+      background: rgba(139, 92, 246, 0.08);
+      border: 2px solid rgba(139, 92, 246, 0.3);
+      border-radius: 12px;
+      padding: 1.5rem;
+    }
+
+    .info-title {
+      font-family: 'Orbitron', monospace;
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: #c084fc;
+      text-transform: uppercase;
+      margin-bottom: 0.8rem;
+    }
+
+    .info-content {
+      font-size: 0.85rem;
+      line-height: 1.6;
+      color: #94a3b8;
+    }
+
+    .info-content strong {
+      color: #e0e7ff;
+    }
+
+    .buzzer-test-btn {
+      background: linear-gradient(135deg, #8b5cf6 0%, #c084fc 100%);
+      border: none;
+      color: #fff;
+      padding: 0.8rem;
+      border-radius: 6px;
+      cursor: pointer;
+      font-weight: 700;
+      font-size: 0.9rem;
+      margin-top: 0.5rem;
+      transition: all 0.3s;
+      width: 100%;
+    }
+
+    .buzzer-test-btn:hover {
+      box-shadow: 0 0 20px rgba(192, 132, 252, 0.4);
+    }
+
+    .volume-control {
+      margin-top: 1rem;
+    }
+
+    .volume-control label {
+      display: block;
+      font-size: 0.75rem;
+      color: #94a3b8;
+      margin-bottom: 0.3rem;
+    }
+
+    input[type="range"] {
+      width: 100%;
+      accent-color: #c084fc;
+    }
+
+    /* Mobile */
+    @media (max-width: 1024px) {
+      .container {
+        grid-template-columns: 1fr;
+      }
+      .sidebar, .sidebar-right { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <!-- LEFT SIDEBAR: TEAM SETUP -->
+  <div class="sidebar">
+    <div class="sidebar-title">Teams</div>
+    <div class="team-setup">
+      <div>
+        <div class="team-label">Team 1 Name</div>
+        <input type="text" class="team-input" id="team0" value="Team 1" maxlength="20">
+      </div>
+      <div>
+        <div class="team-label">Team 2 Name</div>
+        <input type="text" class="team-input" id="team1" value="Team 2" maxlength="20">
+      </div>
+      <div>
+        <div class="team-label">Team 3 Name</div>
+        <input type="text" class="team-input" id="team2" value="Team 3" maxlength="20">
+      </div>
+    </div>
+
+    <button class="btn-small" onclick="updateTeamNames()">✓ Team-Namen aktualisieren</button>
+
+    <div class="sidebar-title" style="margin-top: 2rem;">Schnellaktionen</div>
+    <button class="btn-small" onclick="resetGame()">↻ Spiel zurücksetzen</button>
+    <button class="btn-small" onclick="resetAllScores()">↻ Alle Punkte zurücksetzen</button>
+    <button class="btn-small" onclick="testBuzzer()">🔊 Buzzer testen</button>
+  </div>
+
+  <!-- CENTER: MAIN CONTROL -->
+  <div class="main">
+    <!-- GAME SELECTION -->
+    <div class="panel">
+      <div class="panel-title">Spiel wählen</div>
+      <div class="game-grid" id="gameList"></div>
+      <div style="background: rgba(0, 0, 0, 0.2); padding: 1rem; border-radius: 6px; font-size: 0.85rem; color: #94a3b8;">
+        <strong>Aktives Spiel:</strong> <span id="activeGame">Keine Auswahl</span>
+      </div>
+    </div>
+
+    <!-- GAME INFO -->
+    <div class="panel" id="gameInfoPanel" style="display: none;">
+      <div class="panel-title" id="gameInfoTitle">Spiel</div>
+      <p id="gameInfoDesc" style="margin-bottom: 1rem; color: #cbd5e1;"></p>
+      <p id="gameInfoRules" style="font-size: 0.85rem; color: #94a3b8; line-height: 1.6;"></p>
+    </div>
+
+    <!-- TIMER -->
+    <div class="panel">
+      <div class="panel-title">⏱️ Timer</div>
+      <div class="timer-section">
+        <div class="timer-display" id="timerDisplay">00:00</div>
+        <div style="display: flex; gap: 0.5rem;">
+          <input type="number" id="timerInput" value="60" min="0" max="999" style="width: 100px; padding: 0.5rem; background: rgba(0, 0, 0, 0.3); border: 1px solid rgba(139, 92, 246, 0.3); border-radius: 6px; color: #fff; font-weight: 700;">
+          <button class="btn-small" style="flex: 1; margin-bottom: 0;" onclick="setTimerValue()">SET</button>
+        </div>
+        <div class="timer-controls">
+          <button class="btn-timer" onclick="startTimer()">▶ START</button>
+          <button class="btn-timer" onclick="pauseTimer()">⏸ PAUSE</button>
+          <button class="btn-timer" onclick="resetTimer()">↻ RESET</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- SCORE MANAGEMENT -->
+    <div class="panel">
+      <div class="panel-title">Punkte</div>
+      <div class="score-grid" id="scoreGrid"></div>
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem;">
+        <button class="btn-small" onclick="addScores(1)">+1 Punkt</button>
+        <button class="btn-small" onclick="addScores(5)">+5 Punkte</button>
+      </div>
+    </div>
+
+    <!-- QUIZ -->
+    <div class="panel" id="quizPanel" style="display: none;">
+      <div class="panel-title">📝 Quiz Fragen</div>
+      <div id="quizContent"></div>
+    </div>
+  </div>
+
+  <!-- RIGHT SIDEBAR: INFO & CONTROLS -->
+  <div class="sidebar-right">
+    <div class="info-box">
+      <div class="info-title">ℹ️ Aktueller Status</div>
+      <div class="info-content">
+        <div><strong>Team an Wahl:</strong></div>
+        <div id="statusTeam" style="color: #c084fc; font-weight: 700; margin-bottom: 1rem;">Team 1</div>
+        
+        <div><strong>Gesamtstand:</strong></div>
+        <div id="statusScores" style="margin-top: 0.5rem;">
+          <div>Team 1: <span id="s0">0</span></div>
+          <div>Team 2: <span id="s1">0</span></div>
+          <div>Team 3: <span id="s2">0</span></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="info-box">
+      <div class="info-title">🔊 Audio</div>
+      <div class="volume-control">
+        <label>Soundeffekte</label>
+        <input type="range" id="sfxVolume" min="0" max="100" value="70" onchange="setSfxVolume(this.value)">
+      </div>
+      <button class="btn-small" onclick="testSound()" style="margin-bottom: 0; margin-top: 1rem; width: 100%;">Beep testen</button>
+      <button class="buzzer-test-btn" onclick="testBuzzer()">🔊 Buzzer Test (Tasten 1-3)</button>
+    </div>
+
+    <div class="info-box">
+      <div class="info-title">⌨️ Tasten</div>
+      <div class="info-content">
+        <strong>Buzzer:</strong><br>1 = Team 1<br>2 = Team 2<br>3 = Team 3<br><br>
+        <strong>Weitere:</strong><br>
+        SPACE = Timer Start/Stop
+      </div>
+    </div>
+
+    <div class="info-box">
+      <div class="info-title">ℹ️ Tipp</div>
+      <div class="info-content">
+        Öffne die Beamer-Website in einem separaten Browser-Fenster/Tab.<br><br>
+        Verwende diese Moderator-Website zur Spielkontrolle und Punktvergabe.
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="js/buzzer-system.js"></script>
+<script src="js/sound-system.js"></script>
+<script src="js/games-config.js"></script>
+
+<script>
+  let teams = ['Team 1', 'Team 2', 'Team 3'];
+  let scores = [0, 0, 0];
+  let games = Games.all();
+  let currentGameIdx = null;
+  let timerInterval = null;
+  let timerSeconds = 0;
+  let timerRunning = false;
+  let buzzer = null;
+
+  // Initialize
+  function init() {
+    renderGameList();
+    renderScoreInputs();
+    initBuzzer();
+    setupKeyboardShortcuts();
+  }
+
+  function renderGameList() {
+    const gameList = document.getElementById('gameList');
+    gameList.innerHTML = '';
+    games.forEach((game, idx) => {
+      const tile = document.createElement('div');
+      tile.className = `game-tile ${game.isJoker ? 'joker' : ''}`;
+      tile.innerHTML = `
+        <div class="game-rune">${game.rune}</div>
+        <div class="game-name">${game.name}</div>
+      `;
+      tile.onclick = () => selectGame(idx);
+      gameList.appendChild(tile);
+    });
+  }
+
+  function selectGame(idx) {
+    currentGameIdx = idx;
+    const game = games[idx];
+    
+    // UI aktualisieren
+    document.querySelectorAll('.game-tile').forEach(el => el.classList.remove('active'));
+    document.querySelectorAll('.game-tile')[idx].classList.add('active');
+    
+    document.getElementById('activeGame').textContent = game.name;
+    
+    // Game Info anzeigen
+    const infoPanel = document.getElementById('gameInfoPanel');
+    document.getElementById('gameInfoTitle').textContent = game.name;
+    document.getElementById('gameInfoDesc').textContent = game.description;
+    document.getElementById('gameInfoRules').textContent = game.rules;
+    infoPanel.style.display = 'block';
+
+    // Quiz Panel anzeigen/verstecken
+    const quizPanel = document.getElementById('quizPanel');
+    if (game.type === 'quiz' && game.typeConfig.questions) {
+      quizPanel.style.display = 'block';
+      renderQuiz(game);
+    } else {
+      quizPanel.style.display = 'none';
+    }
+
+    // Sound spielen
+    window.soundSystem.playSound('point');
+  }
+
+  function renderQuiz(game) {
+    const container = document.getElementById('quizContent');
+    container.innerHTML = '';
+    
+    game.typeConfig.questions.forEach((q, idx) => {
+      const qDiv = document.createElement('div');
+      qDiv.className = 'quiz-area';
+      qDiv.innerHTML = `
+        <div style="font-size: 0.75rem; color: #94a3b8; margin-bottom: 0.5rem;">FRAGE ${idx + 1}</div>
+        <div class="quiz-question">${q.q || q}</div>
+        ${q.a ? `<div class="quiz-answer">A: ${q.a}</div>` : ''}
+      `;
+      container.appendChild(qDiv);
+    });
+  }
+
+  function renderScoreInputs() {
+    const scoreGrid = document.getElementById('scoreGrid');
+    scoreGrid.innerHTML = '';
+    teams.forEach((team, idx) => {
+      const group = document.createElement('div');
+      group.className = 'score-input-group';
+      group.innerHTML = `
+        <label>${team}</label>
+        <input type="number" class="score-input" id="scoreInput${idx}" value="0" min="0" onchange="updateScoreFromInput(${idx})">
+      `;
+      scoreGrid.appendChild(group);
+    });
+  }
+
+  function updateScoreFromInput(idx) {
+    scores[idx] = parseInt(document.getElementById(`scoreInput${idx}`).value) || 0;
+    updateScoreDisplay();
+  }
+
+  function updateScoreDisplay() {
+    teams.forEach((_, idx) => {
+      document.getElementById(`scoreInput${idx}`).value = scores[idx];
+      document.getElementById(`s${idx}`).textContent = scores[idx];
+    });
+  }
+
+  function addScores(points) {
+    if (currentGameIdx === null) return;
+    const game = games[currentGameIdx];
+    
+    // Dialog: Welches Team gewinnt diese Runde?
+    const team = prompt(`Welches Team bekommt ${points} Punkte? (1, 2, oder 3)`);
+    if (!team) return;
+    
+    const idx = parseInt(team) - 1;
+    if (idx >= 0 && idx < 3) {
+      scores[idx] += points;
+      updateScoreDisplay();
+      window.soundSystem.playSound('point');
+    }
+  }
+
+  function initBuzzer() {
+    buzzer = new BuzzerSystem({
+      teamCount: 3,
+      onBuzz: (teamIdx) => {
+        console.log(`Team ${teamIdx + 1} buzzed!`);
+        window.soundSystem.playSound('buzzer');
+      }
+    });
+    buzzer.enable();
+  }
+
+  function testBuzzer() {
+    alert('Drücke die Tasten 1, 2 oder 3 um die Buzzer zu testen. Öffne die Browser-Konsole (F12) um zu sehen, welches Team buzzert.');
+  }
+
+  function testSound() {
+    window.soundSystem.playSound('beep');
+  }
+
+  function setSfxVolume(value) {
+    window.soundSystem.setVolume('sfx', value / 100);
+  }
+
+  // TIMER FUNCTIONS
+  function setTimerValue() {
+    timerSeconds = parseInt(document.getElementById('timerInput').value) * 60 || 0;
+    updateTimerDisplay();
+  }
+
+  function startTimer() {
+    if (timerRunning) return;
+    timerRunning = true;
+    timerInterval = setInterval(() => {
+      timerSeconds--;
+      updateTimerDisplay();
+      
+      if (timerSeconds <= 0) {
+        pauseTimer();
+        window.soundSystem.playSound('winner');
+      }
+    }, 1000);
+  }
+
+  function pauseTimer() {
+    timerRunning = false;
+    clearInterval(timerInterval);
+  }
+
+  function resetTimer() {
+    pauseTimer();
+    timerSeconds = 0;
+    updateTimerDisplay();
+  }
+
+  function updateTimerDisplay() {
+    const mins = Math.floor(timerSeconds / 60);
+    const secs = timerSeconds % 60;
+    document.getElementById('timerDisplay').textContent = 
+      `${String(mins).padStart(2, '0')}:${String(secs).padStart(2, '0')}`;
+  }
+
+  function updateTeamNames() {
+    teams[0] = document.getElementById('team0').value || 'Team 1';
+    teams[1] = document.getElementById('team1').value || 'Team 2';
+    teams[2] = document.getElementById('team2').value || 'Team 3';
+    renderScoreInputs();
+    document.getElementById('statusTeam').textContent = teams[0];
+    alert('✓ Teamnamen aktualisiert!');
+  }
+
+  function resetGame() {
+    if (!confirm('Spiel und Punkte zurücksetzen?')) return;
+    scores = [0, 0, 0];
+    currentGameIdx = null;
+    updateScoreDisplay();
+    document.getElementById('activeGame').textContent = 'Keine Auswahl';
+    document.querySelectorAll('.game-tile').forEach(el => el.classList.remove('active'));
+    resetTimer();
+  }
+
+  function resetAllScores() {
+    if (!confirm('Alle Punkte auf 0 setzen?')) return;
+    scores = [0, 0, 0];
+    updateScoreDisplay();
+  }
+
+  function setupKeyboardShortcuts() {
+    document.addEventListener('keydown', (e) => {
+      if (e.code === 'Space') {
+        e.preventDefault();
+        timerRunning ? pauseTimer() : startTimer();
+      }
+    });
+  }
+
+  // Init
+  init();
+
+  // Export Zustand für andere Fenster
+  window.moderatorState = {
+    teams,
+    scores,
+    currentGame: () => games[currentGameIdx],
+    buzzer
+  };
+</script>
+
+</body>
+</html>
