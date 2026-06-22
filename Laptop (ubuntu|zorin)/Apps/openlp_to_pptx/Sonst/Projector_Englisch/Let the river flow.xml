@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let the river flow</title>
+    </titles>
+    <authors>
+      <author type="words">Darrell Evans</author>
+      <author type="music">Darrell Evans</author>
+      <author type="translation">Lass den Schwachen sagen (Sende Deinen Geist)</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the poor man say
+I am rich in him
+Let the lost man say
+I am found in him
+Let the river flow</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let the blind man say
+I can see again
+Let the dead man say
+I am born again
+Let the river flow
+Let the river flow
+Let the river flow
+Let the river flow</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy Spirit come
+Move in power
+Let the river flow
+Let the river flow</lines>
+    </verse>
+  </lyrics>
+</song>

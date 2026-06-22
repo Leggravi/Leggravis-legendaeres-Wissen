@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm Bound for Higher Ground</title>
+    </titles>
+    <authors>
+      <author type="words">Johnson Oatman</author>
+      <author type="music">Charles H. Gabriel</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm bound, I'm bound for higher ground
+I'm seeking, I'm seeking a golden crown
+But I'm glad to say I'm on my way
+I'm bound for higher ground</lines>
+    </verse>
+  </lyrics>
+</song>

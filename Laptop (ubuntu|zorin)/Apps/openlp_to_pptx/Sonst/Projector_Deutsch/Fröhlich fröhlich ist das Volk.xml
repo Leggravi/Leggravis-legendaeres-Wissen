@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Fröhlich, fröhlich ist das Volk</title>
+    </titles>
+    <authors>
+      <author type="words">Gitta Leuschner</author>
+      <author type="music">Merla Watson</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fröhlich, fröhlich ist das Volk,
+dessen Gott ist der Herr.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Früh such ich dein Angesicht, dien ihm,
+bis sein Tag anbricht.
+Ich vertrau auf Gott, den Vater,
+er weist mir den Weg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Was ich auch beginnen mag,
+Gott geht mit mir durch den Tag.
+Ich vertrau' auf Gott, den Vater,
+er weist mir den Weg.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gott ist immer für mich da.
+Überall ist ermittelt nah.
+Ich vertrau' auf Gott, den Vater,
+er weist mir den Weg.</lines>
+    </verse>
+  </lyrics>
+</song>

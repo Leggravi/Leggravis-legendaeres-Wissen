@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heart Whiter Than Snow</title>
+    </titles>
+    <authors>
+      <author type="words">Mike Burn</author>
+      <author type="music">Mike Burn</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, for a heart that is whiter than snow,
+Kept, ever kept'neath the life-giving flow,
+Cleansed from all passion, self-seeking and pride,
+Washed in the fountain of Calvary's tide.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, for a heart whiter than snow!
+Savior divine, to whom else shall I go?
+Thou who didst die, loving me so,
+Give me a heart that is whiter than snow!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, for a heart that is whiter than snow!
+Calm in the peace that He loves to bestow;
+Daily refreshed by the heavenly dews,
+Ready for service whene'er He shall choose.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, for a heart that is whiter than snow!
+With the pure flame of the Spirit aglow;
+Filled with the love that is true and sincere,
+Love that is able to banish all fear.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, for a heart that is whiter than snow!
+Then in His grace and His knowledge to grow,
+Growing like Him who my pattern shall be,
+Till in His beauty my King I shall see.</lines>
+    </verse>
+  </lyrics>
+</song>

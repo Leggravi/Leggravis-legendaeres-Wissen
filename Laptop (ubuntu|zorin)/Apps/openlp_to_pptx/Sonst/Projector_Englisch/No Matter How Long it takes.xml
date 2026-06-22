@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>No Matter How Long it takes</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I watched you as you stumbled out of bed
+Rushed out the door your coffee in your hand
+And you looked so lost and lonely
+I knew I had to find a way
+To make you understand,
+I wanna be your friend</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So I painted a sunrise in the sky
+And I caused the birds to sing you lullabies
+And I whispered sweet &quot;I love you's&quot;
+In the breeze that brushed your face
+You didn't even see, you never noticed Me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No matter how long it takes, somehow I'll find a way
+No matter how far you run, there's no distance that's too great
+'Cause when the wind blows through the treetops
+And in the music of the rain
+Somehow My love will find a way
+No Matter how long it takes</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I watched you as you fell asleep last night
+And I trembled as I watched the tears you cried
+So I splashed your face with moonlight, and I longed for your embrace
+You never called My name, I loved you just the same</lines>
+    </verse>
+    <verse name="v5">
+      <lines>No matter how long it takes, somehow I'll find a way
+No matter how far you run, there's no distance that's too great
+'Cause when the wind blows through the treetops
+And in the music of the rain
+In the laughter of the children
+I'll be calling out your name</lines>
+    </verse>
+    <verse name="v6">
+      <lines>No matter how long it takes, somehow I'll find a way
+No matter how far you run, there's no distance that's too great
+Somehow My love will find a way
+Somehow My love will find a way
+My love will find a way
+No matter how long it takes.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Der letzte Zug fährt mich nach drüben</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Spiritual</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Der letzte Zug fährt mich nach drüben,
+er fährt nur Menschen, die Gott lieben,
+nur zu diesem hohen Preise
+kommst du mit auf diese Reise.
+Doch, ich will dabei sein!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Entscheide dich! Entscheide dich!
+Du hast nicht mehr viel Zeit,
+sonst fährt der Zug auch ohne dich hinein in die Ewigkeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Der letzte Zug fährt keine Sünder,
+nicht selbstgerechte Menschenkinder,
+die sich um den Mammon raufen,
+werden keinen Platz erkaufen.
+Doch, ich will dabei sein!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Entscheide dich! Entscheide dich!
+Du hast nicht mehr viel Zeit,
+sonst fährt der Zug auch ohne dich hinein in die Ewigkeit.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Der letzte Zug fährt mich nach drüben,
+viel' sind am Bahnhof stehngeblieben,
+weil sie ganzen Einsatz scheuten.
+Wie entscheidest du dich heute?
+Willst du auch dabei sein?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Entscheide dich! Entscheide dich!
+Du hast nicht mehr viel Zeit,
+sonst fährt der Zug auch ohne dich hinein in die Ewigkeit.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Der letzte Zug fährt mich nach drüben,
+er fährt nur Menschen, die Gott lieben,
+nur zu diesem hohen Preise
+kommst du mit auf diese Reise.
+Willst du auch dabei sein?</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Entscheide dich! Entscheide dich!
+Du hast nicht mehr viel Zeit,
+sonst fährt der Zug auch ohne dich hinein in die Ewigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

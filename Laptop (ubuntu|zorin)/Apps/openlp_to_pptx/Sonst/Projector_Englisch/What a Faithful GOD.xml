@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What a Faithful GOD</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v3 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In Your majesty
+You have covered me
+In my darkest hour
+You declare Your love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's never been a day
+That You turned away
+You have always been there
+Every time I call</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's nowhere I could run to
+There's no height I could climb
+There's nowhere I won't find You
+Find You waiting</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh what a Faithful God
+Oh what a Faithful God</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When I'm letting go
+You're still holding on
+When my faith is weak
+Your love's so strong</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh what a Faithful God
+Oh what a Faithful God
+Oh what a Faithful God
+Oh what a Faithful God
+You are</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Oh what a Faithful God
+Oh what a Faithful God
+Oh what a Faithful God
+Oh what a Faithful God</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Oh what a Faithful God
+(There's nowhere I could run to)
+Oh what a Faithful God
+(There's no height I could climb)
+Oh what a Faithful God
+(There's nowhere I won't find You)
+Oh what a Faithful God
+(Find You)
+You are</lines>
+    </verse>
+  </lyrics>
+</song>

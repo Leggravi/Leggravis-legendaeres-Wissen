@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God's Love Story</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've waited so long praying for you
+A woman of virtue
+More precious than gold
+A perfect type of the bride
+That Jesus is coming for
+And here we're in the natural of the greatest love story</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This is our love story
+That grace and mercy wrote
+We've come this far on the wings of love
+This is the season of jubilee
+For the bridegroom and the bride
+This's our love story
+That grace and mercy wrote</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now that I'm called by your name
+Mrs. Jesus
+The name above all other names
+The name of power and strength
+And by this, we shall overcome
+No matter the storms
+For the Lord is on our side
+In this journey of love</lines>
+    </verse>
+  </lyrics>
+</song>

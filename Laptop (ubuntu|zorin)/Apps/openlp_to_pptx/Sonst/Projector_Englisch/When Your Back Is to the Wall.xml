@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When Your Back Is to the Wall</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He could have walked away
+But the price He chose to pay
+And as He looked ahead in time
+I have no doubt you crossed His
+mind
+When He heard you Pilate say
+To the hill take Him away
+There He paid sin’s awful cost
+With His back to the cross.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When your back is to the wall
+Remember His was to the cross
+The grave lost its victory
+And old man death, where’s your sting?
+When God gave His only son
+Your every battle then was won
+So when your back is to the wall
+Remember His was to the cross.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When your tears fall like rain
+And you lose more than you gain
+If in your life there is no song
+When all you need the most is gone
+When all is said and done
+You’ve not lost, but you’ve won
+So when your back is to the wall
+Remember His was to the cross.</lines>
+    </verse>
+  </lyrics>
+</song>

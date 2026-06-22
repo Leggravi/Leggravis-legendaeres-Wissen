@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jul 21, 2024, 1:26:35 PM">
+  <properties>
+    <titles>
+      <title>Praise (EW) </title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4 C5 V6 V7 V4 C8 C9 C8 V10 V11 V1 C8 C9 C8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Let everything
+That has breath
+Praise the Lord, 
+Praise the Lord.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>I'll praise in the valley,
+Praise on the mountain.
+I'll praise when I'm sure,
+Praise when I'm doubting.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>I'll praise when outnumbered,
+Praise when surrounded.
+'Cause praise is the water,
+My enemies drown in.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>As long as I'm breathing,
+I've got a reason to:</lines>
+    </verse>
+    <verse name="C5">
+      <lines>Praise the Lord
+Oh, my soul!
+Praise the Lord
+Oh, my soul!</lines>
+    </verse>
+    <verse name="V6">
+      <lines>I'll praise when I feel it,
+And I'll praise when I don't.
+I'll praise 'cause I know
+You're still in control.</lines>
+    </verse>
+    <verse name="V7">
+      <lines>'Cause my praise is a weapon,
+It's more than a sound.
+Oh, my praise is the shout,
+That brings Jericho down.</lines>
+    </verse>
+    <verse name="C8">
+      <lines>Praise the Lord, 
+Oh, my soul! 
+Praise the Lord
+Oh, my soul!</lines>
+    </verse>
+    <verse name="C9">
+      <lines>I won't be quiet
+My God is alive
+So how could I keep it inside?</lines>
+    </verse>
+    <verse name="V10">
+      <lines>I'll praise 'cause You're sovereign,
+Praise 'cause You reign,
+Praise 'cause You rose
+and defeated the grave.</lines>
+    </verse>
+    <verse name="V11">
+      <lines>I'll praise 'cause You're faithful,
+Praise 'cause You're true,
+Praise 'cause there's nobody
+greater than You.</lines>
+    </verse>
+  </lyrics>
+</song>

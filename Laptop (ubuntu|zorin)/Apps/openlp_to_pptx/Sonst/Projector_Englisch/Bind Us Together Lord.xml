@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Bind Us Together Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Bob Gillman</author>
+      <author type="music">Bob Gillman</author>
+      <author type="translation">Bind uns zusammen, Herr</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bind us together Lord,
+bind us together,
+Bind us together with cords
+that cannot be broken,
+Bind us together Lord,
+bind us together,
+Bind us together with love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is only one God,
+there is only one King,
+There is only one Body,
+that’s why I sing.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Made for the glory of God,
+purchased by His precious Son,
+Born with the right to be clean,
+for Jesus the victory has won.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are the family of God,
+you are the promise divine,
+You are God’s chosen desire,
+you are the glorious new wine.</lines>
+    </verse>
+  </lyrics>
+</song>

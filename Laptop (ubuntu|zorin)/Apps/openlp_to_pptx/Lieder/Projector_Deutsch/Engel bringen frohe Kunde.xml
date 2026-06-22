@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Engel bringen frohe Kunde</title>
+    </titles>
+    <authors>
+      <author type="words">Johannes Haas</author>
+      <author type="music">Frankreich</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Engel bringen frohe Kunde,
+allen Menschen weit und breit.
+Von den Bergen in der Runde
+schallt es auch in unsre Zeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gloria in excelsis Deo.
+Gloria in excelsis Deo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sagt, ihr Hirten bei den Herden,
+was soll dieser Jubelsang?
+Will nun endlich Friede werden,
+des wir warten still und bang?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Seht das Kindlein in dem Stalle,
+ihm nur gilt der Engel Lied.
+Ach, wie freuen wir uns alle,
+unser Aug' den Heiland sieht.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lasst uns all zum Kripplein eilen,
+seht das Wunder, das geschah.
+Heut' will sich der Himmel teilen,
+Gott wird Mensch, Halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

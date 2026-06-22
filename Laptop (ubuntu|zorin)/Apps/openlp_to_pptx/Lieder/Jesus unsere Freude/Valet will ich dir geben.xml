@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:04">
+  <properties>
+    <titles>
+      <title>Valet will ich dir geben</title>
+    </titles>
+    <authors>
+      <author type="words">Valerius Herberger (1614)</author>
+      <author type="music">Melchior Teschner</author>
+    </authors>
+    <ccliNo>5217096</ccliNo>
+    <themes>
+      <theme>Sterben</theme>
+      <theme>Bestattung</theme>
+      <theme>Tod</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Valet will ich dir geben,
+du arge, falsche Welt;
+dein sündlich böses Leben
+durchaus mir nicht gefällt.
+Im Himmel ist gut wohnen,
+hinauf steht mein Begier,
+da wird Gott herrlich lohnen
+dem, der ihm dient allhier.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rat mir nach deinem Herzen,
+o Jesu, Gottes Sohn.
+Soll ich ja dulden Schmerzen,
+hilf mir, Herr Christ, davon;
+verkürz mir alles Leiden,
+stärk meinen schwachen Mut,
+lass mich selig abscheiden,
+setz mich in dein Erbgut.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In meines Herzens Grunde
+dein Nam und Kreuz allein
+funkelt all Zeit und Stunde,
+drauf kann ich fröhlich sein.
+Erschein mir in dem Bilde
+zu Trost in meiner Not,
+wie du, Herr Christ, so milde,
+dich hast geblut' zu Tod.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verbirg mein Seel aus Gnaden
+in deiner offnen Seit,
+rück sie aus allem Schaden
+zu deiner Herrlichkeit.
+Der ist wohl hier gewesen,
+wer kommt ins himmlisch Schloss;
+der ist ewig genesen,
+wer bleibt in deinem Schoß.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Schreib meinen Nam aufs Beste
+ins Buch des Lebens ein
+und bind mein Seel gar feste
+ins schöne Bündelein
+der', die im Himmel grünen
+und vor dir leben frei,
+so will ich ewig rühmen,
+dass dein Herz treue sei.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hoffnung unsrer Herzen</title>
+    </titles>
+    <authors>
+      <author type="words">Julius Anton von Poseck</author>
+      <author type="music">Elberfeld</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hoffnung unsrer Herzen,
+sei uns nicht mehr fern,
+heller Morgenstern!
+Ach, erscheine unsern Blikken,
+lass uns bald entgegenrükken
+Dir, o Gottes Lamm,
+unserm Bräutigam!
+Hoffnung unsrer Herzen,
+Ende aller Schmerzen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Keine Ruhestätte
+ist auf dieser Erd'
+uns des Suchens wert.
+Steter Kampf bleibt uns hienieden,
+nirgend find't die Seele Frieden,
+nur im Vaterhaus
+ruhn' wir mit Dir aus.
+Da schweigt alles Sehnen,
+fließen keine Tränen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja, schon hier auf Erden
+stärkt uns diese Freud'
+in dem Pilgerleid.
+Droben aber ohne Schmerzen
+freun' sich völlig unsre Herzen;
+nicht getrennet' mehr,
+stets bei Dir, o Herr,
+wo kein Leid uns drücket',
+ew'ge Ruh' erquicket.</lines>
+    </verse>
+  </lyrics>
+</song>

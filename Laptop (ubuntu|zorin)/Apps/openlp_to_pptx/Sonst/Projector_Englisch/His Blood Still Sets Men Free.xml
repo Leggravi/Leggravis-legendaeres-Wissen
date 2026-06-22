@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>His Blood Still Sets Men Free</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Three crosses stood on Calvary's hill, twas
+crucifixion day
+The time had come to pay sin's debt, and death
+was the only way
+A hammer and a soldier's swing beat out
+redemption's sound
+And from those hands that healed the sick, His
+blood came streaming down</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And from precious veins, sinners chains were
+broken by the blood
+Those rusty nails that shook the gates of Hell,
+had started a crimson flood
+To one and to all, who would heed this gospel
+call, are waiting liberty
+And the truth remains and will never change, His
+blood still sets men free!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is no curse on Golgatha's hill, like there
+was when Jesus died
+The crowd has passed away, that stood to watch
+Him be crucified
+Two thousand years have come and gone since
+that day on Calvary
+But the blood that flowed from God's own Son,
+It's still setting sinners free!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To one and to all, who would heed this gospel
+call, are waiting liberty
+And the truth remains and will never change, His
+blood still sets men free!
+And the truth remains and will never change, His
+blood still sets men free!</lines>
+    </verse>
+  </lyrics>
+</song>

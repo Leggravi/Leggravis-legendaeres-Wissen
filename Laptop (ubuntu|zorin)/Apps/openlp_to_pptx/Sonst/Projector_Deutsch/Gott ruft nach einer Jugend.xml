@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gott ruft nach einer Jugend</title>
+    </titles>
+    <authors>
+      <author type="words">Magdalene Fritzsche-Muntschick</author>
+      <author type="music">Wir haben einen Felsen, der unbeweglich steht</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott ruft nach einer Jugend in sturmbewegter Zeit,
+Die sich zu Gottes Streitern mit Leib und Seele weiht,
+Die nicht im eig‘nen Wollen des Wesens Kräfte regt.
+Gott ruft nach einer Jugend, von Gottes Geist bewegt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gott ruft nach einer Jugend, die für den Heiland brennt,
+Die nicht nur mit den Lippen Ihn „Herr und Meister“ nennt,
+Nein, die in stiller Treue Ihn fest im Herzen trägt:
+Gott ruft nach einer Jugend, von Gottes Geist bewegt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gott ruft nach einer Jugend, die nicht ihr Leben liebt,
+Die Ihm, der‘s ihr gegeben, es freudig wiedergibt,
+Dass nur Sein Reich Er baue, sich Ihm zu Füßen legt.
+Gott ruft nach einer Jugend, von Gottes Geist bewegt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gott ruft nach einer Jugend, die nur nach einem fragt:
+Was willst du, dass ich tue? Und alles ist gesagt.
+Herr, nimm uns, deine Jugend, die tief das Sehnen hegt:
+Mach uns zu einer Jugend, von deinem Geist bewegt.</lines>
+    </verse>
+  </lyrics>
+</song>

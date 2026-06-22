@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Just Because</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You ask me why I love the Lord,
+Why He means so much to me,
+Why He’s there between each breath
+of life that I breathe?
+Oh I’ve tried to count the reasons
+There’s far too many to recall
+So I guess you could say I love the Lord
+Just because…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I don’t love Him
+Just because He first loved me
+And I don’t love Him
+Just because of Calvary
+For there’s at least a million reasons
+I start to count and then I paused to realize
+I really love Him just because</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Not just for the loaves and fishes
+Not just for cleansing from my sins
+Not just for the signs and wonders
+Do I follow after Him
+It makes no difference if He blesses me
+It matters not just what befall
+For I'll love Him till forever just because…</lines>
+    </verse>
+  </lyrics>
+</song>

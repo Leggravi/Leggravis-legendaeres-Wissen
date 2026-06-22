@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, We Are Depending on You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, We Are Depending on you,
+Jesus, We Are Depending on you,
+Jesus, We Are Depending on you,
+Depending on you to see me through.</lines>
+    </verse>
+  </lyrics>
+</song>

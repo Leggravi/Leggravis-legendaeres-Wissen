@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Available</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Narrow as the road may seem
+I'll follow where your spirit leads
+Broken as my life may be
+I will give You every piece</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I hear You call
+I am available
+I say yes Lord
+I am available</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Here I am with open hands
+Counting on Your grace again
+Less of me and more of You
+I just wanna see You move</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Here I am, here I am
+You can have it all
+You can have it all
+Here I am, here I am
+You can have it all
+You can have it all</lines>
+    </verse>
+    <verse name="v5">
+      <lines>For the one who gave me life
+Nothing is a sacrifice
+Use me how you want to God
+Have your throne within my heart</lines>
+    </verse>
+  </lyrics>
+</song>

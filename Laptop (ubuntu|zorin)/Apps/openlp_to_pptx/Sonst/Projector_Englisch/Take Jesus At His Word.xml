@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Take Jesus At His Word</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isn't strange how Jesus
+Works on things?
+He'll let satan take you
+To the last mile of the way,
+But just remember,
+Jesus' still there.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Stand firm, Take Jesus at His Word
+Rest assured in your heart,
+He will bring you through,
+Hold on, He will never fail,
+Just kneel in Him in prayer,
+Faith takes its unmovable stand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And the test has to come,
+Remember Jesus on the cross,
+He died to bore our sin, our shame,
+He redeemed His Bride,
+Every child that comes to Him,
+He puts him through a test.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Suffering, suffering,
+It is where your victory comes,
+Test and trials, test and trials,
+It is where your victory comes.</lines>
+    </verse>
+  </lyrics>
+</song>

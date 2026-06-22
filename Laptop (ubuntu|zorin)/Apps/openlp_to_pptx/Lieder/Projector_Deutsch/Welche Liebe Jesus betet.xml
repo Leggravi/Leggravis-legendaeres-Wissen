@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Welche Liebe! Jesus betet</title>
+    </titles>
+    <authors>
+      <author type="words">Julius Anton von Poseck</author>
+      <author type="music">Johann Jakob Walder</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Welche Liebe! Jesus betet.
+Glaubend schauen wir empor.
+Seine Mittlerstimme redet
+Für uns zu des Vaters Ohr.
+In den Himmel eingegangen,
+Siegreich, voller Herrlichkeit,
+Bleibt Sein Herz doch voll Verlangen,
+Uns zu segnen allezeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Und Er betet ohn' Ermüden
+Auch für unsre Seelen jetzt.
+Sein Gebet bewahrt den Frieden,
+Der wie Tau das Herz benetzt.
+Mag der Feinde Schar auch toben,
+Satan selbst uns klagen an,
+Jesu Hände sind gehoben,
+Wer ist, der uns schaden kann?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja, Du betest für die Deinen.
+Welch Vertrauen gibt uns dies!
+Was uns bitter mag erscheinen,
+Wird durch dies Bewusstsein süß.
+Jeden Schmerz hilfst Du uns tragen,
+Jedes Leid kannst Du verstehn,
+Und Du willst in allen Lagen
+Stets zum Vater für uns flehn.</lines>
+    </verse>
+  </lyrics>
+</song>

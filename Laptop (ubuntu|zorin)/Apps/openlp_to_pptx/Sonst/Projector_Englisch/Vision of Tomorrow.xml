@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Vision of Tomorrow</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Doors close in front of me
+That were once familiar paths
+Routine slips away from me
+That I thought would always last
+But here I stand at this crossroad
+Unsure what God has planned
+A whisper to my heart is heard
+And by faith I understand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God doesn’t let the sun set
+Without a vision of tomorrow
+And you’ll never see a shadow fall
+Without Him knowing all
+And If He should choose to close the door
+Somewhere there’s a window
+‘Cause God doesn’t let the sun set
+Without a vision of tomorrow</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I’ve been feeling a new direction
+Calling for some time
+Walking toward the great unknown
+I feel as though I’m blind
+But I know that You’re leading me
+My destiny You hold
+A new horizon waits ahead
+Full of promise untold</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So I’ll walk on though this road may be ending
+There’s a brighter dawn
+There’s a brand new beginning</lines>
+    </verse>
+  </lyrics>
+</song>

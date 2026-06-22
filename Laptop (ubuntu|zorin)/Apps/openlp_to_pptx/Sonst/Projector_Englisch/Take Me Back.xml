@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Take Me Back</title>
+    </titles>
+    <authors>
+      <author type="words">Andraé Crouch</author>
+      <author type="music">Andraé Crouch</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Take me back, take me back dear Lord
+To the place where I first received you.
+Take me back, take me back dear Lord where I
+first believe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I feel that I'm so far from you Lord
+But still I hear you calling me
+Those simple things that I once knew,
+The memories are drawing me.
+I must confess, Lord I've been blessed
+But yet my soul's not satisfied.
+Renew my faith, restore my joy
+And dry my weeping eyes.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I tried so hard
+To make it all alone
+I need your help
+Just to make it home.</lines>
+    </verse>
+  </lyrics>
+</song>

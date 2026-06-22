@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Won't Let Go</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's like a storm
+That cuts a path,
+It's breaks your will,
+It feels like that.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You think you're lost,
+But your not lost on your own,
+You're not alone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will stand by you,
+I will help you through,
+When you've done all you can do,
+If you can't cope,
+I will dry your eyes,
+I will fight your fight,
+I will hold you tight,
+And I won't let go.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It hurts my heart
+To see you cry
+I know it's dark
+This part of life
+Oh it finds us all (finds us all)
+And we're too small
+To stop the rain
+Oh but when it rains</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I will stand by you,
+I will help you through,
+When you've done all you can do,
+And you can't cope,
+I will dry your eyes,
+I will fight your fight,
+I will hold you tight,
+And I won't let you fall.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Don't be afraid to fall,
+I'm right here to catch you,
+I won't let you down,
+It won't get you down,
+You're gonna make it,
+Yeah I know you can make it.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>'Cause I will stand by you,
+I will help you through,
+When you've done all you can do
+And you can't cope
+And I will dry your eyes,
+I will fight your fight,
+I will hold you tight,
+And I won't let go,
+Oh I'm gonna hold you,
+And I won't let go,
+Won't let you go, no, I won't.</lines>
+    </verse>
+  </lyrics>
+</song>

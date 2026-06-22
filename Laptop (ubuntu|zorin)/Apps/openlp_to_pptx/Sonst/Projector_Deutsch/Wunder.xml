@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wunder</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v2 v4 v4 v2 v2 v2 v2 v4 v4 v2 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Der Eine, der die Blinden heilt
+Er ist jetzt hier, direkt vor mir
+Ist jetzt hier, direkt vor mir
+Der Eine, der die Tauben heilt
+Er stillt nun jede Angst in mir
+Stillt nun jede Angst in mir</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja, ich glaub an dich
+Ja, ich glaub an dich
+Unsern Gott, der Wunder tut
+Ja, ich glaub an dich
+Ja, ich glaub an dich
+Unsern Gott, der Wunder tut</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Der Eine, dem es möglich ist
+Er schaut mich an, er macht mich heil
+Schaut mich an und macht mich heil
+Der Eine, der den Tod besiegt
+Er ist es, der mir Leben gibt
+Er ist es, der mir Leben gibt</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Der Gott, der war und der da kommt
+Die Macht des Auferstandenen
+Der Gott, der Tote auferweckt
+Unser Gott, der Wunder tut
+Unser Gott, der Wunder tut</lines>
+    </verse>
+  </lyrics>
+</song>

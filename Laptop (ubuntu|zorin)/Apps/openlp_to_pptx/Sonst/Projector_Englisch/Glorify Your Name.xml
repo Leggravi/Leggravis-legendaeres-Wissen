@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Glorify Your Name</title>
+    </titles>
+    <authors>
+      <author type="words">Ed Cash</author>
+      <author type="music">Ed Cash</author>
+      <author type="translation">Dein Name sei erhöht</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father, we love You
+We worship and adore you
+Glorify your name in all the earth</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glorify your name
+Glorify your name
+Glorify your name in all the earth</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, we love You
+We worship and adore You
+Glorify your name in all the earth</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Spirit, we love You
+We worship and adore You
+Glorify your name in all the earth</lines>
+    </verse>
+  </lyrics>
+</song>

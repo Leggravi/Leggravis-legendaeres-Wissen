@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Your Steadfast Love</title>
+    </titles>
+    <authors>
+      <author type="words">Ted Sandquist</author>
+      <author type="music">Ted Sandquist</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your steadfast love
+ extends to the heavens
+ Your faithfulness
+ reaches to the clouds
+ Your righteosness
+ is like majestic mountains
+ And your wisdom
+ like the depths of the sea</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And you come to me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Filling my heart
+ With your loving kindness
+ I find my peace
+ In the shadow of your wings
+ I eat my fill from the abundance of your household
+ And I drink from the streams of rejoicing</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are my King
+ You are my King
+ You are my King</lines>
+    </verse>
+  </lyrics>
+</song>

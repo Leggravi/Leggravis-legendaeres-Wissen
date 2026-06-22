@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Brought Me to His Banqueting Table</title>
+    </titles>
+    <authors>
+      <author type="words">Kevin Prosch</author>
+      <author type="music">Kevin Prosch</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He brought me to his banqueting table
+His banner over me His love
+His banner, Over me, His love.</lines>
+    </verse>
+  </lyrics>
+</song>

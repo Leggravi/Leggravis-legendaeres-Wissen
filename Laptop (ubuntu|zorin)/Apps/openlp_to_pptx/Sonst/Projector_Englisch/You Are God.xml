@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Are God</title>
+    </titles>
+    <authors>
+      <author type="words">Walker Beach</author>
+      <author type="music">Walker Beach</author>
+      <author type="translation">Du, du bist Gott</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You've got times and seasons in your hand
+You called for light out of darkness</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You don't need a man to be the God you are
+You have chosen to call me your own</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are God from beginning to the end
+There's no place for arguments
+You are God all by yourself</lines>
+    </verse>
+  </lyrics>
+</song>

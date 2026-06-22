@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Singt dem Herrn ein neues Lied! Wir singen dem Herrn</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Pepper</author>
+      <author type="music">Martin Pepper</author>
+      <author type="translation">Full of Joy</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Singt dem Herrn ein neues Lied!           Wir singen dem Herrn.
+Ihm, der uns die Kraft zum Leben gibt,  wir singen dem Herrn.
+Öffnet eure Herzen weit!                        Wir singen dem Herrn!
+Atmet ein den Hauch der Ewigkeit!        Wir singen dem Herrn!
+®Voller Freude, mit aller Stärke singen wir zusammen, preisen Deinen Namen,
+wir bewundern Deine Werke und wir beten vor Dir an, Herr der Herrn, Herr der Herrn!</lines>
+    </verse>
+  </lyrics>
+</song>

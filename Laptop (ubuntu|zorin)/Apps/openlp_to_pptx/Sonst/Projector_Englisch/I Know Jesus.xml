@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Know Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know Jesus is the Father,
+I know Jesus is the Son,
+I know Jesus is the Holy Ghost,
+And all this three are one.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let me tell you who Jesus is,
+He’s the Rock of all Ages,
+He’s the Alpha and the Omega,
+He’s the Everlasting Father.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He’s the beginning and the end
+Much more than He’s my Friend
+He’s the Son of Man
+He’s coming back again.</lines>
+    </verse>
+  </lyrics>
+</song>

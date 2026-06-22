@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lost forever</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Where is thy hope, poor sinner?
+What are you going to do?
+Hope is a God-given anchor,
+Lavished so freely on you;
+If it is fixed in the Savior,
+On that bright shore you will land,
+But if in sin you still linger,
+Sad your end.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lost, forever! Lost, forever!
+Oh, how sad!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Where is thy refuge, sinner?
+Look where your pathway will end;
+Repent, or you’ll perish forever,
+Awful destruction’s at hand;
+Heaven or hell you are choosing,
+Fixing and sealing your fate,
+God and His mercy refusing,
+Lost! Too late!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>What can you plead, poor sinner,
+In the great judgment day?
+Heaven now offers you favor,
+Oh, do not cast it away;
+Slighted the warnings repeated,
+Leave you in Satan’s control;
+And with all heaven rejected,
+Lost, your soul.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Where will you go, poor sinner?
+How will your soul escape?
+Think of thy lot, when, forever,
+Cast in the dark, burning lake;
+If then you’re lost and forgotten,
+Writhing in flames of despair,
+You will remember you’ve chosen
+To be there.</lines>
+    </verse>
+  </lyrics>
+</song>

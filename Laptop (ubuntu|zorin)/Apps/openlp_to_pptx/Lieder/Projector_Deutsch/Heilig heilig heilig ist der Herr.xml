@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heilig, heilig, heilig ist der Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Klaus Heizmann</author>
+      <author type="music">Klaus Heizmann</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heilig, heilig, heilig ist der Herr.
+Heilig, heilig, heilig ist der Herr.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verzehrendes Feuer, ewige Glut,
+Vollkommen gerecht und vollkommen gut;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gewaltige Wasser, endloses Meer,
+unfassbar groß bist du, Herr.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Voll Ehrfurcht stehen wir vor dir,
+aus Gnade dürfen wir uns nah'n,
+Voll Ehrfurcht steh'n wir hier und beten an.</lines>
+    </verse>
+  </lyrics>
+</song>

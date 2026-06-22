@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There's a Light At the River</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a deep silent river flowin' just beyond
+And its waters are deep and wide
+It's as dark as the night but my eyes see a light
+Just down by the riverside</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's a light at the river
+A light at the river a light at the river I can see
+My Lord will stand and hold in his hand
+a light at the river for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To this deep silent river I have come on my knees
+I'm afraid for I know I've sinned
+But the beckoning light leads me on through the night
+To the waters where my soul may be cleansed</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I can hear His voice saying come unto me
+Dip your wings in the misty tide
+Then we'll pass o'er deep and you'll never more weep
+In your home on the other side</lines>
+    </verse>
+  </lyrics>
+</song>

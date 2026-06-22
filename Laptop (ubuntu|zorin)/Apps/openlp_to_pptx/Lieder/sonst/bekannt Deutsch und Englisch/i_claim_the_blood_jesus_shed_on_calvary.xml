@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="May 17, 2020, 11:37:49 AM">
+  <properties>
+    <titles>
+      <title>I Claim the Blood Jesus Shed on Calvary</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>I have a source of strength when I am weak,
+That takes me through
+When life is pressing me,
+I have a source of power from above,
+I'm covered over by a shield of love.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>I claim the blood Jesus shed on Calvary,
+Those precious blood stains
+Were made there just for me,
+For all my sin, my sickness and my pain,
+When I need healing,
+I just claim those precious blood stains</lines>
+    </verse>
+    <verse name="V3">
+      <lines>I do not know how others make it through,
+Who never go to Calvary as I do,
+For there's a healing,
+Cleansing stream that flows,
+With peace that only His redeemed can know.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Turn on the light</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v1 v2 v5 v6 v7 v1 v2 v5 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the light comes
+Darkness runs away,
+And only what lives
+In the light can stay,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When the light comes
+Nothing left to hide
+So /:come out of the darkness
+And turn on the light. :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's a place in my heart
+Only I have seen
+It's filled with my failures
+And broken dreams</lines>
+    </verse>
+    <verse name="v4">
+      <lines>But there's nothing
+That's broken
+That You can't mend
+Let this be the day
+That I let You in</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Turn on the light
+Turn on the light
+Turn on the light
+Turn on the light</lines>
+    </verse>
+    <verse name="v6">
+      <lines>There's a place in Your heart
+Only You have seen
+It's filled with compassion
+For someone like me</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Your love's not afraid
+Of the mess I've been
+Help me open the door
+And let You in</lines>
+    </verse>
+    <verse name="v8">
+      <lines>I throw open the door
+I fall to my knees
+I lay down my pride
+No secrets to keep</lines>
+    </verse>
+    <verse name="v9">
+      <lines>The light of Your love
+Is shining on me
+The goodness of God
+Is setting me free</lines>
+    </verse>
+  </lyrics>
+</song>

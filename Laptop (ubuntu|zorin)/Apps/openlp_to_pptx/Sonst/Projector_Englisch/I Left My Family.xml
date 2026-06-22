@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Left My Family</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I left my family, the love that I had known.
+I couldnt believe how calloused I'd grown.
+Then I woke up one morning, in cold freezing rain,
+And said I'll go back where I'd caused so much pain.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, just in sight of the place where the lane meets the road,
+The Father was waiting to carry my load,
+His big arms were open
+To draw me to Him,
+Forgiven, forgiven, forgiven again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If you've broken the trust
+And betrayed your best friend,
+If you're lost and confused
+Wondering where it will end.
+There's a way you can know that
+Wherever you've been,
+You can make your way home
+And be forgiven again.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, just in sight of the place where the lane meets the road
+The Father is waiting to carry your load.
+His big arms are longing to draw you to Him,
+Forgiven, forgiven, forgiven again.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>His big arms are longing to draw you to Him,
+I'm forgiven, I'm forgiven,
+Forgiven again.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Just insight of the place where the lane meets the road
+The Father is waiting to carry your load.
+His big arms are longing to draw you to Him.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Forgiven, I'm forgiven,
+Forgiven, I'm forgiven…
+Forgiven again.</lines>
+    </verse>
+  </lyrics>
+</song>

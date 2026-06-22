@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 19, 2020, 9:52:02 PM">
+  <properties>
+    <titles>
+      <title>Der Herr segne dich</title>
+    </titles>
+    <verseOrder>V1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Der Herr segne dich, behüte dich,
+Lasse sein Angesicht leuchten über dir
+Und der Herr sei dir gnädig!
+Er erhebe sein Angesicht über dich
+Und erfülle dein Herz mit seinem Licht,
+Tiefer Friede begleite dich.</lines>
+    </verse>
+  </lyrics>
+</song>

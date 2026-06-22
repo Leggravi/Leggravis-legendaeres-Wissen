@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Eagle Rise</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the Eagles rise, let them shout and sing
+For the Word they've heard, renews within
+For the Lord Himself, came with a shout
+Hear the voice of Life, spread your wings and fly</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's the Rising of the Son
+Spread your Wings, soar to the sky
+They shall mount up with wings as eagles</lines>
+    </verse>
+    <verse name="v3">
+      <lines>They shall rise up with wings as eagles
+They shall run and not weary
+They'll walk and not faint
+They shall mount up with wings as eagles</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Am, Redeemed Bought with a Price</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am redeemed, bought with a price,
+Jesus has changed my whole life.
+If anybody asks you, just who I am,
+tell them I am redeemed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where there was hate, love now abides,
+where there was confusion, peace now reigns.
+I'm a child, child of the King,
+it's all because I am redeemed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'll tell of His favor, I'll tell of His love,
+I'll tell of His goodness to me.
+He purchased my redemption with His own precious blood,
+and from sin I've been set free.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There's no shackles on me, I'm as free as I can be;
+because Jesus changed my life.
+He died up on the cross,
+that's why I can tell the world that I am redeemed.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>If you run across anybody that used to know me,
+tell them I'm doing fine.
+The last time that you saw me,
+I was lifting up holy hands,
+I'll tell them I've been redeemed.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Father We Adore You</title>
+    </titles>
+    <authors>
+      <author type="words">Percy Dearmer</author>
+      <author type="music">Paris</author>
+      <author type="translation">Vater, wir preisen</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father, I adore You,
+Lay my life before You,
+How I love You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, I adore You,
+Lay my life before You,
+How I love You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spirit, I adore You,
+Lay my life before You,
+How I love You</lines>
+    </verse>
+  </lyrics>
+</song>

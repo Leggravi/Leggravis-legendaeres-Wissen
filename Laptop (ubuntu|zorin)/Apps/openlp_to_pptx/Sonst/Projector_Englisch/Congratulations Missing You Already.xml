@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Congratulations (Missing You Already)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Missing you already, but I know that you're at rest
+Smiling through the tears, because you deserve the best
+And I heard that you reached Glory's side today
+So allow me to convey</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Congratulations, you have made it
+To where the angels trod
+A celebration in the presence
+Of Almighty God
+And I sure wish I could be there
+To hear Him say, &quot;Well done&quot;
+Congratulations.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Take your crown and wear it,
+With a robe of purest white
+You are finally there,
+The graduation of your life
+And though I'm left here,
+With feelings bitter-sweet
+'Til we again shall meet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: 'Til we meet,
+'Til we meet,
+'Til we meet at Jesus' Feet. :/</lines>
+    </verse>
+  </lyrics>
+</song>

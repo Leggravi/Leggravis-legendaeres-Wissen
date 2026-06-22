@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Is Risen</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On the resurrection morning
+Jesus rose again
+Triumphed over sin and death appeared
+again to men
+Angels waiting by the tomb told them
+not to fear
+He’s risen from the dead, He’s not here.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He is risen, He Is risen
+He is risen, from the dead x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mary at the tomb was weeping
+Jesus was not there,
+His body had been taken,
+and she longed to know just where
+Jesus stood before her,
+and He spoke her name Master,
+Mary gladly she cried and
+went to proclaim.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Two disciples sadly walked from Jerusalem,
+Talking to a stranger who taught
+many things to them
+When they reached Emmaus,
+and blessing had been made,
+They knew it was Jesus when
+He broke the bread.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus has appeared to us,
+the ten disciples said,
+Thomas doubted how could
+Jesus come back from the dead
+Jesus stood before him showed
+His wounded hands and sides
+Thomas believed, My Lord and
+God he cried.</lines>
+    </verse>
+  </lyrics>
+</song>

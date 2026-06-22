@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I've got my mind made up</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v2 v1 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: I've got my mind made up,
+My heart is fixed to follow Jesus all the way. :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On this journey, there'll be many ups and downs,
+But I know the Lord will see you through.
+There has never been a time when He has let me down,
+That's why I'll follow Jesus all the way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/: All the way,
+All the way;
+I'll follow Jesus all the way. :/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'll follow Jesus,
+I'll follow Jesus,
+I'll follow Jesus all the way.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I've got my mind made up,
+My heart is fixed to follow Jesus all the way</lines>
+    </verse>
+  </lyrics>
+</song>

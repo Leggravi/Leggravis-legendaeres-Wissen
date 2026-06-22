@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist der einzig wahre Gott </title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Kallauch</author>
+      <author type="music">Daniel Kallauch</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist der Hirte, du willst mein Leben leiten
+Du bist der Herr, der mich annimmt jeder Zeit
+Du bist die Zuflucht, wenn Sorgen mich begleiten
+Du bist mein Felsen und meine Sicherheit</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist das Licht, kannst die Dunkelheit erhellen
+Du bist der Retter, befreist von meiner Schuld
+Du bist allwissend, ich brauch mich nicht verstellen
+Du bist mir treu, hast unendlich viel Geduld</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du bist der einzig Wahre und wunderbare Gott,
+Es gibt niemand neben dir,
+Du bist ganz unbeschreiblich und so unendlich groß,
+Alles kommt von dir, du lädst mich zu dir ein,
+Und willst ein Vater für mich sein</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mit offenen Armen stehst du da,
+durch Jesus kamst du mir so nah,
+Du breitest deine Hände aus,
+Du bist die Liebe, führst mich zu dir nach Haus</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Du bist die Wahrheit, erzählst uns keine Lüge,
+Du bist der Schöpfer, hast alles gut gemacht,
+Du bist gerecht und willst mich niemals betrügen,
+Du bist mein Schutz, gibst auf meine Wege acht</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Du bist mein Freund, willst mit mir durchs Leben gehen,
+Du bist die Burg, wenn die Angst mich überfällt,
+Du bist voll Mitleid und kannst mich gut verstehen,
+Du bist der Herrscher, der in der Not mich hält</lines>
+    </verse>
+  </lyrics>
+</song>

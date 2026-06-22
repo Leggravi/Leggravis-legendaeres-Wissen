@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Twelve Men</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus walked along the shore one
+day
+Heavy burdens, love for others,
+On Him lay;
+He was looking for a friend,
+He was searching for twelve men;
+Who would gladly follow all the way.
+Twelve men, chosen men;
+Jesus was looking for twelve men.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>First He called for Andrew, by the
+shore;
+Told his brother, Simon Peter,
+He had a chore;
+And of one He was so fond,
+You recall, his name was John;
+Still He called for Judas,
+And eight more -
+Simon James the Elder, Jude,
+Mathew.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thomas, Philip, James the less,
+Bartholomew.
+These twelve men the world did hate,
+Striving to eliminate;
+This is how they finally met their fate
+Twelve men, chosen men;
+Eleven of them true, but one a
+devil
+Judas sold the Son of God for silver.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Andrew died upon a cross we hear;
+Thomas killed in India, with a
+spear;
+James the less was sawn in two,
+Arrows through the body of Jude,
+Philip died by hanging without
+fear.
+Late in life, by knife, Bartholomew,
+Martyred Simon, James the elder;
+Writer Mathew.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Simon Peter they say was found,
+Crucified there upside down;
+Only John did live his full life through.
+Twelve men, chosen men;
+Eleven of them true,
+but one a devil
+Judas hung himself but lost his silver.</lines>
+    </verse>
+  </lyrics>
+</song>

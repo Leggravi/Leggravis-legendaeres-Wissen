@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God gives Grace</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sometimes problems seem so big
+They hide the light of day
+Sometimes pain cuts so deep
+I can't find the words to pray
+Sometimes heartaches seem to be
+Much more than I can stand
+That's when grace seems
+To take me by the hand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He gives grace in the midst of every storm
+God gives grace that carries the weary and worn
+He's everything we ever need for everything we face
+So remember when it seems you can't go on
+God gives grace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know every pain I feel
+Becomes his very own
+God knows the weakness of my heart
+That I can't make it all alone
+For He knows what I can handle
+And He never gives me more
+When my strength comes to its end
+He has more grace in store</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Grace will help you stand when problems seems at all
+And grace will pick you up every time you fall</lines>
+    </verse>
+  </lyrics>
+</song>

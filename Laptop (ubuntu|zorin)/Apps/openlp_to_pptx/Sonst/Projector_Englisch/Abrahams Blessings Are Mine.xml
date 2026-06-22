@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Abraham's Blessings Are Mine</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Abraham's blessing are mine
+Abraham's blessing are mine
+I'm blessed in the Morning
+I'm blessed in the Evening
+Abraham's blessing are mine</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Joshua's Song</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Remember Joshua led an awesome battle
+Marched around the city seven times
+The walls came down and victory gave him honor
+'Cause he knew all along that God would lead his fight</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Are you tired of fighting, weary soldier?
+Lay your weapon down and rest a while
+I know your tired and weary from your battle
+So lay back in God's arms and rest tonight</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You're beaten by the raging war inside you
+You're stumblin' cause your steps are getting weak
+Your head hangs low though a tiny smile escapes you
+In your eyes surrender's all I see</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Her heart is breaking as she holds him tightly
+This war won't last much longer she can see
+She knows the final surrender won't come easy
+So, she prays for strength, and whispers softly
+&quot;Now you're free&quot;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I know you're tired and weary from your battle,
+So, lay back in God's arms and rest tonight,
+So, lay back in God's arms and rest tonight.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Where We'll Never Grow Old</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have heard of a land on the far away strand,
+‘Tis a beautiful home of the soul;
+Built by Jesus on high, there we never shall die,
+‘Tis a land where we never grow old.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Never grow old, never grow old,
+In a land where we’ll never grow old;
+Never grow old, never grow old,
+In a land where we’ll never grow old.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In that beautiful home where we’ll nevermore roam,
+We shall be in the sweet by and by;
+Happy praise to the King, through eternity sing,
+‘Tis a land where we never shall die.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When our work here is done and the life-crown is won.
+And our troubles and trials are o’er,
+All our sorrow will end, and our voices will blend,
+With the loved ones who’ve gone on before.</lines>
+    </verse>
+  </lyrics>
+</song>

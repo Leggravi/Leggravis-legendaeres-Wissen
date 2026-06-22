@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>That I Could Still Go Free</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lock me up in a prison
+And throw away the key
+Take away the vision
+From these eyes that now, now can see
+Then deprive me of the food I eat
+And even bind my hands and feet
+For as long as I know Jesus
+I can still go free</lines>
+    </verse>
+    <verse name="v2">
+      <lines>That I could still go free
+What kind of man would
+reach down his hand and do this for me
+Unworthy to live and not fit to kill
+Yet a man on the cross put me in His will
+And said that I could still go free</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now I never could quite understand
+why a king would wanna leave His throne
+Take the robe of an earthly man
+and feel the pain of flesh, flesh and bone
+Then to later trod that lonely path
+That lead to Calvary
+But those blood red stains broke all my chains
+So that I could still go free</lines>
+    </verse>
+  </lyrics>
+</song>

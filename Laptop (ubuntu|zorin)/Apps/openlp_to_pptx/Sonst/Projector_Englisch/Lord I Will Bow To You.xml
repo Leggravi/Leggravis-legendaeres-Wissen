@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord I Will Bow To You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, I Will Bow To You
+to No Other God But You Alone
+Lord I Will Worship You
+nothing Hands Have Made
+but You Alone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I Will Lay Down My Idols
+thrones I Have Made
+all That Has Taken My Heart
+Lord, I Will Bow To You
+to No Other God But You Alone</lines>
+    </verse>
+  </lyrics>
+</song>

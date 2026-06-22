@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You are the only One</title>
+    </titles>
+    <authors>
+      <author type="words">David Crowder</author>
+      <author type="music">David Crowder</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One more mother with a broken heart
+One more family is torn apart
+One more orphan out in the cold
+One more fear that takes control
+One more tangled in the same old lies
+One more shackled to the same old highs
+One more scared of what tomorrow brings
+And one more chasing yesterday</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, let Your kingdom come
+Who can right every wrong
+You are the only One
+Who can calm every storm
+You are the only One
+You alone are Father, Savior, Spirit, Healer, Redeemer
+Lord of all
+You are the only One</lines>
+    </verse>
+    <verse name="v3">
+      <lines>One more skeptic to believe
+One more prisoner has been set free
+One more longs to be Your hands and feet
+One more standing for the least of these
+One more praying in the morning light
+One more shining in the darkest night
+One more life worth fighting for
+No greater love worth dying for</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord, let Your kingdom come
+Lord, let Your will be done</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Who can right every wrong
+You are the only One
+Who can calm every storm
+You are the only One
+You alone are Father, Savior, Spirit, Healer, Redeemer
+Lord of all
+You are the only One
+You are the only One</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I want to know You more
+I want to make You known
+I want this world to see
+That You're alive in me
+Jesus, You're the only One</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Who can right every wrong
+You are the only One
+Who can calm every storm
+You are the only One
+You alone are Father, Savior, Spirit, Healer, Redeemer
+Lord of all
+You are the only One (Father, Savior, Spirit)
+You are the only One (Redeemer, Lord of all)
+You are the only One</lines>
+    </verse>
+  </lyrics>
+</song>

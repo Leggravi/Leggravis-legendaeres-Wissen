@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord Have Mercy On Me</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Tuttle</author>
+      <author type="music">Carl Tuttle</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This world has fame this world has
+fortune
+This world has plenty of popularity
+How many a man has lived therein
+Gone through life and died in sin.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh Lord have mercy,
+have mercy on me
+I want to stand in
+Thy righteousness
+Lord hear my cry I’m trusting
+now In Thee
+But for grace It could have
+been me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Many sad things I have heard
+Of children dying in the streets
+No one to care for them
+But the saddest thing I’ve ever
+seen
+Is of a man having lived in sin
+And dying without God.</lines>
+    </verse>
+  </lyrics>
+</song>

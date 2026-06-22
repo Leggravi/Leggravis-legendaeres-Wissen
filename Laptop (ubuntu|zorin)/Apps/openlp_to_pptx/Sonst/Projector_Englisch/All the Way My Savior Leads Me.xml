@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All the Way My Savior Leads Me</title>
+    </titles>
+    <authors>
+      <author type="words">Fanny Crosby</author>
+      <author type="music">Robert Lowry</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All the way my Savior leads me
+What have I to ask beside?
+Can I doubt His tender mercy,
+Who thru life has been my Guide?
+Heav'nly peace, divinest comfort,
+Here by faith in Him to dwell!
+For I know, whate'er befall me,
+Jesus doeth all things well;
+For I know, whate'er befall me,
+Jesus doeth all things well.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All the way my Savior leads me
+Cheers each winding path I tread,
+Gives me grace for ev'ry trial,
+Feeds me with the living bread.
+Tho my weary steps may falter
+And my soul athirst may be,
+Gushing from the Rock before me,
+Lo! a spring of joy I see;
+Gushing from the Rock before me,
+Lo! a spring of joy I see.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All the way my Savior leads me
+Oh the fullness of His love!
+Perfect rest to me is promised
+In my Father's house above.
+When my spirit, clothed immortal,
+Wings its flight to realms of day,
+This my song thru endless ages:
+Jesus led me all the way;
+This my song thru endless ages:
+Jesus led me all the way.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Suchet zuerst Gottes Reich in dieser Welt</title>
+    </titles>
+    <authors>
+      <author type="words">überliefert</author>
+      <author type="music">England</author>
+      <author type="translation">Seek ye first the kingdom of God</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Suchet zuerst Gottes Reich in dieser Welt,
+seine Gerechtigkeit, Amen.
+So wird euch alles von ihm hinzugefügt.
+Halleluja, Halleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Betet, und ihr sollt es nicht vergeblich tun.
+Suchet, und ihr werdet finden.
+Klopft an, und euch wird die Türe aufgetan.
+Halleluja, Halleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lasst Gottes Licht durch euch scheinen in der Welt,
+dass sie den Weg zu ihm findet
+und sie mit euch jeden Tag Gott lobt und preist.
+Halleluja, Halleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ihr seid das Volk, das der Herr sich ausersehn.
+Seid eines Sinnes und Geistes.
+Ihr seid getauft durch den Geist zu einem Leib. Halleluja, Halleluja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So wie die Körner, auf Erden weit verstreut,
+zu einem Brote geworden,
+so führt der Herr die zusammen, die er liebt.
+Halleluja, Halleluja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Freut euch, ihr Christen, verkündigt, was geschehn:
+Gott gibt die Welt nicht verloren,
+er lässt uns nicht in den Finsternissen stehn.
+Christus, der Herr, ist geboren.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Freut euch, ihr Christen, erstanden ist der Herr:
+er lebt, und wir sollen leben.
+Not, Angst und Tod kann uns nicht besiegen mehr:
+Gott hat den Sieg uns gegeben.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Freut euch, ihr Christen, nehmt wahr, was Gott verheißt,
+dass wir im Dunkel nicht treiben:
+Wahrheit und Licht und die Kraft, durch seinen Geist
+in seiner Liebe zu bleiben.</lines>
+    </verse>
+  </lyrics>
+</song>

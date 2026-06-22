@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Need Thee</title>
+    </titles>
+    <authors>
+      <author type="words">Annie Sherwood Hawks</author>
+      <author type="music">Robert Lowry</author>
+      <author type="translation">Ich brauch dich allezeit</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've no need of wealth or fame
+There is nothing I could gain that could pay the debt and wash away my sins
+I have only this one hope
+There's no other friend I know that could set me free and give me life again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I need thee; oh, I need thee every hour
+I need thee
+Oh bless me now my savior
+I come to thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'll not cling to words of man
+There's no peace in my own plans
+I will lay my life in hands that will endure
+And though time shall pass away Earth and sky no more remain
+I know your word stands unchanged your promise sure.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: Oh, make me thine; make me thine indeed
+Oh, be my all; be my everything
+Oh, here's my heart; it is yours my King
+I come :/</lines>
+    </verse>
+  </lyrics>
+</song>

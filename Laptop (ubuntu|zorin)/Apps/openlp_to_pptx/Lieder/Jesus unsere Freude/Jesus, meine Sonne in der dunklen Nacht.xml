@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:23">
+  <properties>
+    <titles>
+      <title>Jesus, meine Sonne in der dunklen Nacht</title>
+    </titles>
+    <authors>
+      <author type="words">Caroline Rhiem (1902)</author>
+      <author type="music">Karl August Groos</author>
+    </authors>
+    <ccliNo>5579356</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesu, meine Sonne in der dunklen Nacht,
+Jesu, meine Wonne, wenn mir Freude lacht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, meine Liebe, du, mein einzig Glück,
+nimmer wend ich wieder von dir weg den Blick.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du hast meine Seele wunderbar erquickt,
+deines Geistes Siegel tief mir eingedrückt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Deinen tiefen Frieden spür ich täglich nun,
+darf in deiner Liebe Stund um Stunde ruhn.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In der Welt Gedränge, in der Sünde Streit
+ist, Herr, deine Hilfe stets für mich bereit.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Du willst für mich kämpfen, ich darf stille sein,
+mich in deine Gnade hüllen fester ein.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Niemand kann mich reißen, Herr, aus deiner Hand,
+bis du mich aus Gnaden bringst ins Heimatland.</lines>
+    </verse>
+  </lyrics>
+</song>

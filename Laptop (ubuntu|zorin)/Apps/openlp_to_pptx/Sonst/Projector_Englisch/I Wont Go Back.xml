@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Won't Go Back</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've been changed healed, freed, delivered
+I've found joy, peace, grace and favor
+I've been changed healed, freed, delivered
+I've found joy, peace, grace and favor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Right now is the moment
+Today is the day
+I've been changed
+I've been changed
+I have waited for this
+Moment to come
+And I won't let it pass me by</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I won't go back, can't go back
+To the way it used to be
+Before Your presence came
+And changed me
+I won't go back, can't go back
+To the way it used to be
+Before Your presence came
+And changed me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All my shame, guilt, sins forgiven
+No more chains, fear
+My past is over</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Right now is the moment
+Today is the day
+I've been changed
+I've been changed
+I have waited for this
+Moment to come
+And I won't let it pass me by</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I won't go back, can't go back
+To the way it used to be
+Before Your presence came
+And changed me
+I won't go back, can't go back
+To the way it used to be
+Before Your presence came
+And changed me</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Never going back
+No, I'm never going back
+Never going back
+To the way it was
+I won't go back, can't go back
+To the way it used to be
+Before Your presence came
+And changed me</lines>
+    </verse>
+  </lyrics>
+</song>

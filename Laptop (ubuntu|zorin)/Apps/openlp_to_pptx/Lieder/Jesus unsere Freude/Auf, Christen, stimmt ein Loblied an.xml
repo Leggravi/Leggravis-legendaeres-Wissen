@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:58">
+  <properties>
+    <titles>
+      <title>Auf, Christen, stimmt ein Loblied an</title>
+    </titles>
+    <authors>
+      <author type="words">Hermann Moritz Görcke (1844)</author>
+      <author type="music">Johann Georg Frech</author>
+    </authors>
+    <ccliNo>4336930</ccliNo>
+    <themes>
+      <theme>Dank</theme>
+      <theme>Lob</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Auf, Brüder/Christen, stimmt ein Loblied an
+Und lasst uns fröhlich sein!
+Der Herr hat viel an uns getan,
+wir wollen Dank Ihm weihn.
+Das Gotteslamm ist's wahrlich wert,
+dass jede Seel es ewig ehrt,
+dass jede Seel es ewig ehrt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wer waren wir? Wir waren fern
+von Gott und Seiner Gnad.
+Wer sind wir nun? Erlöst vom Herrn
+und auf dem ewgen Pfad,
+der uns zu unserm Heiland bringt,
+bei dem man ewig Psalmen singt,
+bei dem man ewig Psalmen singt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hier sieht's uns freilich niemand an,
+was wir einst werden sein;
+armselig sind wir angetan,
+und unter mancher Pein
+gehn wir den schmalen Weg, verschmäht.
+Mit Tränen wird von uns gesät.
+Mit Tränen wird von uns gesät.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Doch wir sind froh, denn Er,
+der Herr, ist stets in unsrer Mitt'.
+Er ist um uns, die Seinen, her
+und hört auf unsre Bitt';
+und droht die ganze Welt mit Krieg,
+so bleibt mit Ihm uns doch der Sieg.
+So bleibt mit Ihm uns doch der Sieg.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gar bald wird's überstanden sein;
+ihr Streiter, frisch voran!
+Dann geht's zur ewgen Freude ein,
+dem Lamm wir singen dann,
+das uns von aller Not befreit,
+von Angesicht in Ewigkeit.
+Von Angesicht in Ewigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

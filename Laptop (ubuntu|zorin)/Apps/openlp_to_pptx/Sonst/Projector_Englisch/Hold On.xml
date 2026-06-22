@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hold On</title>
+    </titles>
+    <authors>
+      <author type="words">Lauren Daigle</author>
+      <author type="music">Lauren Daigle</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've been there a thousand times
+Felt the rain like a thousand knives
+And it hurts, I know it hurts</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've been there like a fighter plane
+Trying to fly my way through a hurricane
+And it's hard, I know it's hard</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Don't be afraid, you'll make it through
+Just call out to me and I'll come running to you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And hold on, hold on
+When the current pulls you under
+And your heart beats like thunder
+Just give me your hand</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And hold on, hold on
+Until the storm is over
+And I'll be fighting for you
+Just give me your hand and hold on</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I give you hope, I give you faith
+And if it's dark I light the way
+For you, for you</lines>
+    </verse>
+    <verse name="v7">
+      <lines>By your side until the end
+Until you're standing tall again
+I'm here, I'll always be here</lines>
+    </verse>
+    <verse name="v8">
+      <lines>And if the tide sweeps you out to sea
+When your strength is gone and it's hard to believe</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Hold on, hold on
+When the current pulls you under
+And your heart beats like thunder
+Just give me your hand</lines>
+    </verse>
+    <verse name="v10">
+      <lines>And hold on, hold on
+Until the storm is over
+And I'll be fighting for you
+Just give me your hand
+Hold on</lines>
+    </verse>
+    <verse name="v11">
+      <lines>So hold on, hold on
+When the current pulls you under
+And your heart beats like thunder
+Just give me your hand</lines>
+    </verse>
+  </lyrics>
+</song>

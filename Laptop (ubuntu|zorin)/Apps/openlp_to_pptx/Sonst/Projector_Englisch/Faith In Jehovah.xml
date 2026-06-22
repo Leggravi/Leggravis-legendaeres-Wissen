@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Faith In Jehovah</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Faith in the Father,
+And faith in the Son,
+Faith in the Holy Ghost,
+These three are One;
+Demons will tremble,
+And sinners awake;
+Faith in Jehovah
+Can anything shake.</lines>
+    </verse>
+  </lyrics>
+</song>

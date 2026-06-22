@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Will Change Your Name</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will change your name
+You shall no longer be called
+Wounded, outcast, lonely or afraid
+I will change your name
+Your new name shall be
+Confidence, joyfulness, overcoming one
+Faithfulness, friend of God
+One who seeks My face</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Confidence, joyfulness, overcoming one
+Faithfulness, friend of God
+One who seeks My face</lines>
+    </verse>
+  </lyrics>
+</song>

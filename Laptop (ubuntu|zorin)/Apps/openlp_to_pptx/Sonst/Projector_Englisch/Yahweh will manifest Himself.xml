@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Yahweh will manifest Himself</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your glory is tangible
+in this place,
+Lord, your doing
+something great
+Awaken supernatural faith.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yahweh, Rafa, 
+Elohim, Shaddai,
+Jireh, Adonai,
+Will manifest Himself.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If you worship, 
+He will manifest,
+If you call Him,
+He will manifest,
+If you seek Him,
+He will manifest.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yahweh will manifest Himself,
+Jireh will manifest Himself,
+Rapha will manifest Himself,
+Will manifest Himself.</lines>
+    </verse>
+  </lyrics>
+</song>

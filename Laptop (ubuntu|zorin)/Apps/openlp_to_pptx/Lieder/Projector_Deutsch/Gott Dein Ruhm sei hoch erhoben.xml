@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gott, Dein Ruhm sei hoch erhoben</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Johann Schop</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott, Dein Ruhm sei hoch erhoben,
+Deine Weisheit, Lieb und Macht!
+Nimmer kann ich g'nug Dich loben,
+dass Du so an mich gedacht.
+Meine Sünden sind vergeben,
+Jesus starb für meine Schuld,
+o welch göttlich große Huld!
+In dem Sohn hab ich das Leben.
+Liebe, ach, wie liebst Du mich!
+Lehr mich ganz erkennen Dich!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du hast mir den Geist gegeben,
+nicht steh ich verwaiset hier,
+darf als Kind den Blick erheben,
+Gott, mein Vater, stets zu Dir.
+Du erhörest gern mein Flehen,
+stehst in jeder Not mir bei,
+sorgst so väterlich, so treu,
+lässt nichts Böses mir geschehen.
+Liebe, ach, wie liebst Du mich!
+Lehr mich ganz erkennen Dich!</lines>
+    </verse>
+  </lyrics>
+</song>

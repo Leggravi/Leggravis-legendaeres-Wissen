@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I never Lost my Praise</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've lost some good friends along life's way
+Some loved ones departed in Heaven to stay
+But thank God I didn't lose everything
+I've lost faith in people who said they cared
+But in time of my crisis they were never there
+But in my disappointment, in my season of pain
+One thing never wavered, one thing never changed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I never lost my hope
+I never lost my joy
+I never lost my faith
+But most of all, I never lost my praise</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My praise still here
+My praise still here</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I've let some blessings slip away
+When I lost my focus and went astray
+But thank God I didn't lose everything
+I lost possessions that were so dear
+I lost some battles by walking in fear
+But in the midst of my struggles, in my season of pain
+One thing never wavered, one thing never changed</lines>
+    </verse>
+  </lyrics>
+</song>

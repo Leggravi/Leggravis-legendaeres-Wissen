@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All of My Days</title>
+    </titles>
+    <authors>
+      <author type="words">Michael Farren</author>
+      <author type="music">Michael Farren</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing to the Lord with all your heart,
+Come, sing your praises to Him
+Jesus my God, here by my side,
+We're gonna celebrate with Him.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dwelling in the presence of God,
+In the power of Your Name,
+Lord I know I'll find my way with You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/: All of my days, I want to praise
+Jesus my Lord and say
+Lord I believe You'll come and stay
+Here in my heart today. :/
+All of my days, I want to praise.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In my life I feel so right,
+Praising the Name of the Lord,
+Lord be my guide in all my life,
+I feel so safe within Your love.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>All of my days, I want to praise.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Dec 9, 2024, 6:36:53 AM">
+  <properties>
+    <titles>
+      <title>I Feel the Pull</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>At night I lay in bed
+and I begin to cry,
+And my mind just fails to know
+exactly why;
+I can't explain with tongue or pen
+The Spirit's groanings deep within,
+It must be God here in my soul,
+'Cause I feel the pull.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>I feel the pull, I hear the call,
+And I know His Spirit's moving me,
+To give my all;
+He speaks to me, and I agree,
+Lord, please come and take control,
+I feel the pull.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>I went to hear the Word
+And with each line and phrase,
+He was drawing me
+to give a higher praise;
+There's a deep call to the deep
+Like a great magnet pulling me,
+I know for sure
+that I'll reach the goal
+'Cause I feel the pull.</lines>
+    </verse>
+  </lyrics>
+</song>

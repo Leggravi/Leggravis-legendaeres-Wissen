@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Offering Song</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I don't need riches, I don't seek fame
+All I need is to believe in Your name
+I don't seek treasures that soon will be gone
+But You died for me once and I know this is true
+So with all of my life, I'm living for You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, here's my offering
+It's more than just this song I sing
+It's my life
+And when I think upon the day
+You saved me'cause of grace
+Oh, Lord, here's my offering</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I lay it down and You raise me up
+With Your life and peace and hope that won't give up
+All my tomorrows are safe in Your hands
+But You died for me once and I know this is true
+So with all of my life, I'm living for You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You gave Your everything
+There at the cross
+Now this is my life I bring
+Forever I'm Yours
+You died for me once and I know this is true
+So with all of my life, I'm living for You</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Two Becoming One</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here's my hand, its yours to hold
+I give my self to you
+Here's my heart, please make it yours
+I give my love to you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are two becoming one
+Here I am, here's all of me
+You have all that once was mine
+And here's my promise
+I'm yours to hold
+I'll stay here by your side</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We are two becoming one
+We are two becoming one
+May what he's joined be not undone
+May our love put Christ on display</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When we're weak and when we're strong
+When its hard to carry on
+Oh, God we want your love on display
+We are two becoming one</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Here's my life, I lay it down
+I give up myself for you
+And here's my will I submit to you
+I Will follow where you lead</lines>
+    </verse>
+    <verse name="v6">
+      <lines>We are two becoming one
+Sure we are two becoming one
+May what he's joined be not undone
+May your love put Christ on display</lines>
+    </verse>
+    <verse name="v7">
+      <lines>When we're weak and when we're strong
+When it's hard to carry on
+Oh God we want your love on display
+Oh God we want your love in display</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Here we are, we're yours and yours alone God, here we are
+May what you joined be not undone
+We want the world to see your love through us.
+We want more of you</lines>
+    </verse>
+    <verse name="v9">
+      <lines>We are two becoming one
+May what he's joined be not undone
+May our love put Christ on display
+When we're weak and when we're strong
+When it's hard to carry on
+Oh, God we want your love on display
+Oh, God we want your love on display
+Oh, God we want your love on display
+We are two becoming one</lines>
+    </verse>
+  </lyrics>
+</song>

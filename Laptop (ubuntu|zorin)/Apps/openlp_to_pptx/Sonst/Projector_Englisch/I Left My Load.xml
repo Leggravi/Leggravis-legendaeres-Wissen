@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Left My Load</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I left my load at Calvary,
+Where Jesus died for you and me,
+And then there came a peace so sweet,
+When I left my load of sin at Jesus' feet.</lines>
+    </verse>
+  </lyrics>
+</song>

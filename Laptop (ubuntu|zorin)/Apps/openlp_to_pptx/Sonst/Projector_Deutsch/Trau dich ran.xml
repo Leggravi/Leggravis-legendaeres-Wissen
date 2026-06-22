@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Trau dich ran</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hast du schon mal ein Haus gebaut
+aus Rinde und aus Moos?
+Du fängst bei einem Baumstamm an
+mit ein paar starken Wurzeln dran,
+und dann baust du drauf los,
+und dann baust du drauf los.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Trau dich ran, fang einfach an,
+dann wirst du sehen, was man alles so kann.
+Trau dich ran, fang einfach an,
+dann wirst du sehen, was man alles so kann.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hast du schon mal ein Lied erdacht
+mit eigner Melodie?
+Du fängst mit ein paar Tönen an,
+so laut, dass man es hören kann,
+das klingt schon irgendwie,
+das klingt schon irgendwie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hast du schon mal zu Gott gesagt:
+&quot;Hallo, ich find es toll,
+dass du uns Kinder so sehr magst
+und du uns nette Sachen sagst,
+ich fühl mich bei dir wohl,
+ich fühl mich bei dir wohl&quot;.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ob du schon jemand trösten kannst,
+wenn einer schreit und weint?
+Du gehst ganz einfach hin zu ihm,
+legst dann deinen Arm um ihn
+und sagst: &quot;Ich bin dein Freund&quot;,
+und sagst: &quot;Ich bin dein Freund&quot;.</lines>
+    </verse>
+  </lyrics>
+</song>

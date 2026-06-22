@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Such Joy</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v1 v2 v1 v2 v1 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Such joy such unspeakable joy
+Such peace and everlasting peace
+Such love pure and holy love
+Spirit have Your way in me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's a peace that floods my soul
+When the Spirit of the Lord is in control
+And there's a joy, no bounds can hold
+When the Spirit blows a fresh wind through my soul
+Holy Spirit flow through me
+Touch my heart and there will, there will be</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Such joy such unspeakable joy
+Such peace and everlasting peace
+Such love pure and holy love
+Spirit have Your way in me
+Spirit have Your way in me</lines>
+    </verse>
+  </lyrics>
+</song>

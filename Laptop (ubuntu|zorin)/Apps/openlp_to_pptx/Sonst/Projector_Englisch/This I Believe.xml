@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This I Believe</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Crocker</author>
+      <author type="music">Matt Crocker</author>
+      <author type="translation">Das glaube ich (Ich glaube an den Vater)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v2 v5 v6 v2 v2 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our Father everlasting
+The all creating One
+God Almighty
+Through Your Holy Spirit
+Conceiving Christ the Son
+Jesus our Savior</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I believe in God our Father
+I believe in Christ the Son
+I believe in the Holy Spirit
+Our God is three in one
+I believe in the resurrection
+That we will rise again
+For I believe in the name of Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Our Judge and our Defender
+Suffered and crucified
+Forgiveness is in You
+Descended into darkness
+You rose in glorious life
+Forever seated high</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I believe in You
+I believe You rose again
+I believe that Jesus Christ is Lord
+I believe
+And I believe in You
+I believe You rose again
+I believe that Jesus Christ is Lord</lines>
+    </verse>
+    <verse name="v5">
+      <lines>For I believe in the name of Jesus
+For I believe in the name of Jesus</lines>
+    </verse>
+    <verse name="v6">
+      <lines>We believe in love, Jesus
+I believe in life eternal
+I believe in the virgin birth
+I believe in the saints' communion
+And in Your holy Church
+I believe in the resurrection
+When Jesus comes again
+For I believe, in the name of Jesus
+Come on!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>For I believe in the name of Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

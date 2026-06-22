@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, Quelle unsrer Freuden</title>
+    </titles>
+    <authors>
+      <author type="words">Julius Anton von Poseck</author>
+      <author type="music">Wilhelm Brockhaus</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesu, Quelle unsrer Freuden,
+Unser Trost in allem Leid!
+Der Du selber gingst durch Leiden
+Ein zu Deiner Herrlichkeit.
+Hier von unserm Pilgerlauf
+Schauen wir zu Dir hinauf.
+Steh uns bei,
+Halt uns treu,
+|: Stärke uns im Glaubensstreit. :|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du, das Haupt all Deiner Glieder,
+Bist zum Segnen stets bereit,
+Huldreich blickst Du auf uns nieder
+Dort aus Deiner Herrlichkeit.
+Sendest Trost ins bange Herz
+Bei Verfolgung, Kampf und Schmerz.
+Jeden Schlag,
+Spott und Schmach
+|: Fühlst Du als Dein eignes Leid. :|</lines>
+    </verse>
+  </lyrics>
+</song>

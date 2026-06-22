@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nun sich der Tag geendet</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Tersteegen</author>
+      <author type="music">Nun ruhen alle Wälder</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nun sich der Tag geendet,
+mein Herz zu dir sich wendet
+und danket inniglich;
+dein holdes Angesichte
+zum Segen auf mich richte,
+erleuchte und entzünde mich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich schließe mich aufs Neue
+in deine Vatertreue
+und Schutz und Herze ein;
+die irdischen Geschäfte
+und alle finstern Kräfte
+vertreibe durch dein Nahesein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dass du mich stets umgibest,
+dass du mich herzlich liebest
+und rufst zu dir hinein,
+dass du vergnügst alleine
+so wesentlich, so reine,
+lass früh und spät mir wichtig sein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ein Tag, der sagt dem andern,
+mein Leben sei ein Wandern
+zur großen Ewigkeit. O Ewigkeit, so schöne,
+mein Herz an dich gewöhne,
+mein Heim ist nicht in dieser Zeit.</lines>
+    </verse>
+  </lyrics>
+</song>

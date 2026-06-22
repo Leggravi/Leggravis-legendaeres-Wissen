@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wohl dem, der nicht wandelt</title>
+    </titles>
+    <authors>
+      <author type="words">Adolf Patze</author>
+      <author type="music">Karl Gross</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wohl dem, der nicht wandelt, wohl dem, der nicht wandelt im Rat der Gottlosen.
+Wohl dem, der nicht wandelt, wohl dem, der nicht wandelt im Rat der Gottlosen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Der ist wie ein Baum, gepflanzt an den Wasserbächen,
+der ist wie ein Baum, gepflanzt an den Wasserbächen,
+der seine Frucht bringt zu seiner Zeit, und seine Blätter verwelken nicht.
+Der seine Frucht bringt zu seiner Zeit, und seine Blätter verwelken nicht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wohl dem, der da Lust hat, wohl dem der da Lust hat an dem Gesetz des Herrn.
+Wohl dem, der da Lust hat, wohl dem der da Lust hat an dem Gesetz des Herrn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Der ist wie ein Baum, gepflanzt an den Wasserbächen,
+der ist wie ein Baum, gepflanzt an den Wasserbächen,
+der seine Frucht bringt zu seiner Zeit, und seine Blätter verwelken nicht.
+Der seine Frucht bringt zu seiner Zeit, und seine Blätter verwelken nicht.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sonne der Gerechtigkeit</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Christian Nehring</author>
+      <author type="music">Böhmen</author>
+      <author type="translation">Sun of righteousness arise</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sonne der Gerechtigkeit,
+gehe auf zu unsrer Zeit;
+brich in deiner Kirche an,
+dass die Welt es sehen kann.
+Erbarm dich Herr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Weck die tote Christenheit
+aus dem Schlaf der Sicherheit;
+dass sie deine Stimme hört,
+sich zu deinem Wort bekehrt.
+Erbarm dich, Herr.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Schaue die Zertrennung an,
+der sonst niemand wehren kann;
+sammle, großer Menschenhirt,
+alles, was sich hat verirrt.
+Erbarm dich, Herr.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tu der Völker Türen auf;
+deines Himmelreiches Lauf
+hemme keine List noch Macht.
+Schaffe Licht in dunkler Nacht.
+Erbarm dich, Herr.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gib den Boten Kraft und Mut,
+Glauben, Hoffnung, Liebesglut,
+und das reiche Frucht auf geh,
+wo sie unter Tränen sä'n.
+Erbarm dich, Herr.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Lass uns deine Herrlichkeit
+ferner sehn in dieser Zeit
+und mit unsrer kleinen Kraft
+suchen was den Frieden schafft.
+Erbarm dich, Herr.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Have a Home Beyond the River</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh the blessed contemplation
+When with trouble here I sigh
+I have a home beyond the river;
+That I’ll enter by and by.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have a home beyond the river
+I have a mansion bright and fair
+I have a home beyond the river;
+I will dwell with Jesus there</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh how sweet ‘twill be to
+meet there,
+All the ransomed hosts above;
+Sweeter still to see the Saviour,
+Praise Him for redeeming love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tho’ the world is filled with sorrows,
+And the teardrops often fall;
+There will be but joy and gladness,
+Safe inside the jasper wall.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tho’ the hills are rough and stormy
+And the valleys dark and cold;
+I must walk the path before me;
+It will some day turn to gold.</lines>
+    </verse>
+  </lyrics>
+</song>

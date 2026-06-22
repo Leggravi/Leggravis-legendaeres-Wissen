@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I glory in my Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I glory in my Jesus; I delight to sing His praise
+I glory in His goodness; I glory in His grace
+Help and refuge in my weakness
+Hope and healing when I fall
+I glory in my Jesus,
+Who redeems my soul from hell</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Born of Mary; born of mercy;
+Born of love for all mankind
+Born to carry all our sorrow;
+Born to suffer; born to die
+Come to fit us for His kingdom
+Come to save my soul from sin
+I glory in my Jesus,
+and forever trust in Him</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I glory in my Jesus;
+God of power, God of might
+Guide and guardian through the darkness;
+God of everlasting light
+Swift to seek me though I wander
+Swift to comfort and forgive
+I glory in my Jesus,
+and in Him my soul shall live</lines>
+    </verse>
+  </lyrics>
+</song>

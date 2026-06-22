@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Freut euch, ihr lieben Christen all</title>
+    </titles>
+    <authors>
+      <author type="words">Prag</author>
+      <author type="music">Bartholomäus Gesius</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1) Freut euch, ihr lieben Christen all,
+lobsinget Gott mit hellem Schall,
+ja singt und spielt aus Dankbarkeit
+dem Herrn im Herzen allezeit,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2) dass er uns seinen liebsten Sohn
+herab gesandt vons Himmels Thron,
+zu helfen uns aus aller Not,
+zu tilgen Teufel, Sünd und Tod.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3) Du mein herzliebstes Jesulein
+wollst unser Herz und Sinn allein
+dabei erhalten stet und fest,
+dass du der recht Nothelfer bist;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4) wollst uns auch dies angehend Jahr
+vor Leid behüten und Gefahr,
+auch Krankheit, Tod und Kriegesnot
+abwenden als ein gnäd'ger Gott,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5) auf dass dein Wort in diesem Land
+zunehm und wachs ohn Widerstand,
+auch Friede, Treu, Gerechtigkeit
+befördert werd zu aller Zeit.</lines>
+    </verse>
+  </lyrics>
+</song>

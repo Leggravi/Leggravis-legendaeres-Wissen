@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let Your Word Be Born</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There was a tiny, simple stable,
+Old, beaten, and worn;
+Hardly a place
+For a King to be born;
+He didn't choose
+Some place special,
+To reveal His Majesty;
+So I know if I'll give Him control,
+He'll be born in me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let Your Word be born
+In the manger of my heart,
+Let It live in me, let It start;
+Live inside this house of clay,
+And mold me everyday;
+Let Your Word be born
+In the manger of my heart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Well, outwardly I'm nothing,
+Not much to behold,
+Unlikely the place
+for His Word to unfold;
+But if I'll just yield this vessel,
+And let Him have His way;
+From glory unto glory,
+He'll change me day by day.</lines>
+    </verse>
+  </lyrics>
+</song>

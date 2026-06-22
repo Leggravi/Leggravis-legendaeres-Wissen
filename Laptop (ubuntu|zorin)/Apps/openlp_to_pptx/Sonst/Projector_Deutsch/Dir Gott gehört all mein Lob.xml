@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dir, Gott gehört all mein Lob</title>
+    </titles>
+    <authors>
+      <author type="words">Kai Peters</author>
+      <author type="music">Matt Redman</author>
+      <author type="translation">Blessed Be Your Name</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aus Asche erhoben, durch deine Liebe, aus der Dunkelheit
+Hinein in dein Licht.
+Du siehst uns're Sorgen, trägst uns'ren Trübsal
+Heilst unser Herz</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dir, Gott gehört unser Lob
+Dir, Gott gehört unser Lied
+Dir, Gott gehört unser Lob
+Wir singen Hallelujah</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ketten zerbrochen, Augen sind offen
+Ein Heer trock'ner Knochen vom Grabe befreit
+über Tod triumphierend, schreiten wir siegreich
+Bis in Ewigkeit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bir beten an von Herrlichkeit
+Zu Herrlichkeit in Ewigkeit.
+Denn er regiert von
+Herrlichkeit zu Herrlichkeit
+In Ewigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

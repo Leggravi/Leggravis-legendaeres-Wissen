@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There Is Power in Blood</title>
+    </titles>
+    <authors>
+      <author type="words">Lewis Ellis Jones</author>
+      <author type="music">Lewis Ellis Jones</author>
+      <author type="translation">Möchtest du los sein vom Banne der Sünd (Es ist Kraft, Kraft, wunderbare Kraft)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Would you be free from your burden of sin?
+There’s power in the blood, power in the blood;
+Would you o’er evil a victory win?
+There’s wonderful power in the blood.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is power, power, wonder-working power
+In the blood of the Lamb,
+There is power, power, wonder-working power,
+In the precious blood of the Lamb.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Would you be free from your passion and pride?
+There’s power in the blood, power in the blood;
+Come for a cleansing to Calvary’s tide,
+There’s wonderful power in the blood.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Would you be whiter, much whiter than snow?
+There’s power in the blood, power in the blood;
+Sin’s stains are lost in its life-giving flow,
+There’s wonderful power in the blood.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Would you do service for Jesus your King?
+There’s power in the blood, power in the blood;
+Would you live daily, His praises to sing?
+There’s wonderful power in the blood.</lines>
+    </verse>
+  </lyrics>
+</song>

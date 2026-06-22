@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:35">
+  <properties>
+    <titles>
+      <title>Mit dir, o Herr, verbunden</title>
+    </titles>
+    <authors>
+      <author type="words">Johanna Meyer (1891)</author>
+      <author type="music">Joseph Haydn</author>
+    </authors>
+    <ccliNo>5578955</ccliNo>
+    <themes>
+      <theme>Leid</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mit Dir, o Herr, verbunden,
+weiß ich mich nie allein;
+mir bleibt zu allen Stunden
+Dein tröstlich Nahe sein.
+Du hast Dich mir gegeben.
+Dein Leben ist nun mein.
+Nur Dir gehört mein Leben.
+Auf ewig bin ich Dein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Doch wenn die Wunden brennen,
+der Weg voll Dornen ist,
+dann lern ich recht erkennen,
+wie stark und treu Du bist.
+Du kannst den Schmerz verstehen,
+den keiner sonst versteht,
+Du kannst die Wunde sehen,
+die jedem Blick entgeht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn andrer Wohl und Wehe
+mir tief zu Herzen geht,
+wenn ich Gefahren sehe,
+wenn man mich missversteht,
+dann darf ich vor Dich treten,
+und niemand weiß davon;
+Du hörst das stille Beten,
+das leise Seufzen schon.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wenn mir die Worte fehlen,
+Du siehst den Glaubensblick,
+Du kennst den Grund der Seelen
+und ordnest mein Geschick.
+Und wenn ich gar nicht sehe,
+wie alles werden soll:
+Ich bleib in Deiner Nähe
+und harre glaubensvoll.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wie könnt ich einsam werden?
+Herr, Du bleibst immer treu;
+im Glück und in Beschwerden
+bist Du, o Herr, dabei.
+Was Dir ich nicht kann sagen,
+da will ich nichts davon,
+denn alles will ich tragen,
+o Herr, vor Deinen Thron.</lines>
+    </verse>
+  </lyrics>
+</song>

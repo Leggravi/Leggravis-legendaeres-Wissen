@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hallelujah for the cross</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Richley</author>
+      <author type="music">Matt Richley</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Up to the hill of Calvary
+My Savior went courageously
+And there he bled and died for me
+Hallelujah for the cross</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And on that day the world was changed
+A final, perfect lamb was slain
+Let earth and heaven now proclaim
+Hallelujah for the cross</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelujah for the war He fought
+Love has won, death has lost
+Hallelujah for the souls He bought
+Hallelujah for the cross</lines>
+    </verse>
+    <verse name="v4">
+      <lines>What good I've done could never save
+My debt too great for deeds to pay
+But God, my Savior, made a way
+Hallelujah for the cross</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A slave to sin, my life was bound
+But all my chains fell to the ground
+When Jesus' blood came flowing down
+Hallelujah for the cross</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And when I breathe my final breath
+I’ll have no need to fear that rest
+This hope will guide me into death
+Hallelujah for the Cross (O-oh)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hallelujah for the war He fought
+Love has won, death has lost (O-oh)
+Hallelujah for the souls He bought
+Hallelujah for the Cross
+Hallelujah for the war He fought
+Love has won, death has lost
+Hallelujah for the souls He bought
+Hallelujah for the Cross</lines>
+    </verse>
+    <verse name="v8">
+      <lines>(Hallelujah) Hallelujah for the Cross
+(Hallelujah) Hallelujah for the Cross</lines>
+    </verse>
+  </lyrics>
+</song>

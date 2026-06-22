@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All hail the pow’r of Jesus’ Name</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All hail the pow’r of Jesus’ Name!
+Let angels prostrate fall;
+Bring forth the royal diadem,
+And crown Him Lord of all!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ye chosen seed of Israel’s race,
+Ye ransomed from the fall,
+Hail Him Who saves you by His grace,
+And crown Him Lord of all!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let every kindred, every tribe,
+On this terrestrial ball,
+To Him all majesty ascribe,
+And crown Him Lord of all!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, that with yonder sacred throng
+We at His feet may fall!
+We’ll join the everlasting song,
+And crown Him Lord of all!</lines>
+    </verse>
+  </lyrics>
+</song>

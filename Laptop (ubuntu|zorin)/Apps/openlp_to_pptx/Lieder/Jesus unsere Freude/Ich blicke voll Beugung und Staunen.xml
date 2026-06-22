@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:14">
+  <properties>
+    <titles>
+      <title>Ich blicke voll Beugung und Staunen</title>
+    </titles>
+    <authors>
+      <author type="words">Dora Rappard (1875)</author>
+      <author type="music">William Gustavus Fisher</author>
+    </authors>
+    <ccliNo>5210024</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich blicke voll Beugung und Staunen
+hinein in das Meer seiner Gnad
+und lausche der Botschaft des Friedens,
+die er mir verkündiget hat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wie lang hab ich mühvoll gerungen,
+geseufzt unter Sünde und Schmerz!
+Doch als ich mich ihm überlassen,
+da strömte sein Fried in mein Herz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sanft hat seine Hand mich berühret;
+er sprach: O mein Kind, du bist heil!
+Ich fasste den Saum seines Kleides,
+da ward seine Kraft mir zuteil.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Der Fürst meines Friedens ist nahe;
+sein Antlitz ruht strahlend auf mir.
+O horcht seiner Stimme, sie rufet:
+Den Frieden verleihe ich dir</lines>
+    </verse>
+  </lyrics>
+</song>

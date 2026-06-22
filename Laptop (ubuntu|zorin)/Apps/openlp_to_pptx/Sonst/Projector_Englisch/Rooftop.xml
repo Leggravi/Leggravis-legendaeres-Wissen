@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Rooftop</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here I am before You, falling in love and seeking Your truth
+Knowing that Your perfect grace has brought me to this place
+Because of You I freely live, my life to You, oh God, I give
+So I stand before You, God
+I lift my voice cause You set me free</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So I shout out Your name, from the rooftops I proclaim
+That I am Yours, I am Yours</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All the good You've done for me,
+I lift up my hands for all to see
+You're the only one
+Who brings me to my knees
+To share this love across the earth,
+The beauty of Your holy worth
+So I kneel before You, God
+I lift my hands cause You set me free</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So I shout out Your name, from the rooftops I proclaim
+That I am Yours, I am Yours
+All that I am, I place into Your loving hands
+And I am Yours, I am Yours</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/: Here I am, I stand, with arms wide open
+To the One, the Son, the everlasting God :/</lines>
+    </verse>
+  </lyrics>
+</song>

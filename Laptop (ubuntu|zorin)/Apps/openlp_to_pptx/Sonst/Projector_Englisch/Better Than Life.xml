@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Better Than Life</title>
+    </titles>
+    <authors>
+      <author type="words">Marty Sampson</author>
+      <author type="music">Marty Sampson</author>
+      <author type="translation">Besser als</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your love is everlasting,
+it's an everlasting love.
+Your mercy is as new
+as every rising of the sun.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And Your loving kindness,
+loving kindness
+is better than life!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your Grace is all sufficient,
+it's an all sufficient Grace.
+Your Power and Your Glory
+are forever on display.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For Your loving kindness,
+loving kindness
+is better than life!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, oh, oh… it's better.
+Oh, oh, oh… it's better than life.
+Oh, oh, oh, so much better.
+Oh, oh, oh, Jesus, your loving kindness,
+is better than life.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You are there ten thousand
+of ten thousand you are there.
+Nothing in this world could
+ever measure or compare.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>To Your loving kindness,
+loving kindness
+is better than life!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>All Your ways are just, Oh Lord,
+You're just in all Your Ways.
+I will lift my hands, Oh Lord,
+in Gratitude and Praise.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Oh, oh, oh… it's better.
+Oh, oh, oh… it's better than life.
+Oh, oh, oh, so much better.
+Oh, oh, oh, Jesus, your loving kindness,
+Oh, oh, oh… it's better.
+Oh, oh, oh… it's better than life.
+Oh, oh, oh, so much better.
+Oh, oh, oh, Jesus, your loving kindness,
+Oh, oh, oh, Jesus, your loving kindness,
+Oh, oh, oh, Jesus, your loving kindness,
+is better than life!</lines>
+    </verse>
+  </lyrics>
+</song>

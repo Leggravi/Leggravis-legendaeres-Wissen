@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:42">
+  <properties>
+    <titles>
+      <title>Jesu, meines Lebens Leben</title>
+    </titles>
+    <authors>
+      <author type="words">Ernst Christoph Homburg (1659)</author>
+      <author type="music">Wolfgang Weßnitzer</author>
+    </authors>
+    <ccliNo>5222964</ccliNo>
+    <themes>
+      <theme>Passion</theme>
+      <theme>Leid</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesu, meines Lebens Leben,
+Jesu, meines Todes Tod,
+der du dich für mich gegeben
+in die tiefste Seelennot,
+in das äußerste Verderben,
+nur dass ich nicht möchte sterben:
+Tausend-, tausendmal sei dir,
+liebster Jesu, Dank dafür.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du, ach du hast ausgestanden
+Lästerreden, Spott und Hohn,
+Speichel, Schläge, Strick und Banden,
+du gerechter Gottessohn,
+nur mich Armen zu erretten
+von des Teufels Sündenketten.
+Tausend-, tausendmal sei dir,
+liebster Jesu, Dank dafür.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du hast lassen Wunden schlagen,
+dich erbärmlich richten zu,
+um zu heilen meine Plagen,
+um zu setzen mich in Ruh;
+ach du hast zu meinen Segen
+lassen dich mit Fluch belegen.
+Tausend-, tausendmal sei dir,
+liebster Jesu, Dank dafür.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Man hat dich sehr hart verhöhnet,
+dich mit großem Schimpf belegt,
+gar mit Dornen dich gekrönet:
+was hat dich dazu bewegt?
+Dass du möchtest mich ergötzen,
+mir die Ehrenkron aufsetzen.
+Tausend-, tausendmal sei dir,
+liebster Jesu, Dank dafür.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Du hast wollen sein geschlagen,
+zu befreien mich von Pein,
+fälschlich lassen dich anklagen,
+dass ich könnte sicher sein;
+dass ich möge Trost erlangen,
+hast du ohne Trost gehangen.
+Tausend-, tausendmal sei dir,
+liebster Jesu, Dank dafür.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Du hast dich in Not gestecket,
+hast gelitten mit Geduld,
+gar den herben Tod geschmecket,
+um zu büßen meine Schuld;
+dass ich würde losgezählet,
+hast du wollen sein gequälet.
+Tausend-, tausendmal sei dir,
+liebster Jesu, Dank dafür.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Deine Demut hat gebüßet
+meinen Stolz und Übermut,
+dein Tod meinen Tod versüßet;
+es kommt alles mir zugut.
+Dein Verspotten, dein Verspeien
+muss zu Ehren mir gedeihen.
+Tausend-, tausendmal sei dir,
+liebster Jesu, Dank dafür.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Nun, ich danke dir von Herzen,
+Herr, für die gesamte Not:
+für die Wunden, für die Schmerzen,
+für den herben, bittern Tod;
+für dein Zittern, für dein Zagen,
+für dein tausendfaches Plagen,
+für dein Angst und tiefe Pein
+will ich ewig dankbar sein.</lines>
+    </verse>
+  </lyrics>
+</song>

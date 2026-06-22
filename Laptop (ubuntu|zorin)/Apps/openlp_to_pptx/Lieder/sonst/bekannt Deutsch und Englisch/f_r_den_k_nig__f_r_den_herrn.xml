@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 20, 2020, 12:39:59 PM">
+  <properties>
+    <titles>
+      <title>Für den König, für den Herrn</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4 V5 V6 V7 V8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Für den König, für den Herrn. 
+Für ihn geben wir uns hin. 
+Seine Ehre unser Ziel, 
+nichts bedeutet uns jemals so viel</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Für den König, für sein Reich. 
+Alle Menschen sind hier gleich
+Lamm und Löwe sind vereint
+und das Licht der Gerechtigkeit scheint.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Alle Ehre König Jesus!
+Unsere Herzen, sie fliegen dir zu.
+Wir erheben deinen Namen!
+Der allein wahre König bist du!</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Für den König, für sein Schwert
+was den Feind das Fürchten lehrt
+unsre Freiheit garantiert
+uns zum Schutz unsre Grenze markiert.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Für den König für sein Volk
+für die Heerschar, die ihm folgt.
+Ihm der uns sein Leben gibt
+lasst uns dienen so wie uns er uns liebt!</lines>
+    </verse>
+    <verse name="V6">
+      <lines>Alle Ehre König Jesus!
+Unsere Herzen, sie fliegen dir zu.
+Wir erheben deinen Namen!
+Der allein wahre König bist du!</lines>
+    </verse>
+    <verse name="V7">
+      <lines>Alle Ehre König Jesus!
+Unsere Herzen, sie fliegen dir zu.
+Wir erheben deinen Namen!
+Der allein wahre König bist du!</lines>
+    </verse>
+    <verse name="V8">
+      <lines>Für den König, für den Herrn!</lines>
+    </verse>
+  </lyrics>
+</song>

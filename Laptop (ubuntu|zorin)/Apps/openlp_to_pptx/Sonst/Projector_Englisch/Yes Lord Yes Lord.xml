@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Yes Lord Yes Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yes Lord, yes Lord,
+From the bottom of my heart,
+To the depths of my soul;
+Yes Lord, completely yes,
+My soul say yes.</lines>
+    </verse>
+  </lyrics>
+</song>

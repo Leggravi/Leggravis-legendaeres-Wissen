@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Is Calling</title>
+    </titles>
+    <authors>
+      <author type="words">Graham Maule</author>
+      <author type="music">David Iliff</author>
+      <author type="translation">Jesus Christus wartet</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus is tenderly calling thee home
+Calling today, calling today;
+Why from the sunshine
+Of love wilt thou roam
+Farther and farther away?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Calling today,
+Calling today,
+Jesus is calling,
+Is tenderly calling today.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus is calling the weary to rest
+Calling today, calling today;
+Bring Him thy burden
+And thou shalt be blest;
+He will not turn thee away.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus is waiting;
+Oh come to Him now
+Waiting today, waiting today;
+Come with thy sins;
+At His feet lowly bow;
+Come, and no longer delay.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus is pleading;
+Oh list to His voice:
+Hear Him today,
+Hear Him today;
+They who believe
+On His name shall rejoice;
+Quickly arise and away.</lines>
+    </verse>
+  </lyrics>
+</song>

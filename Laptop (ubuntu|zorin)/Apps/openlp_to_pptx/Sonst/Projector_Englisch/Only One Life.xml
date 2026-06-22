@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Only One Life</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Whether so little
+Or how much you may own,
+The places you've been to
+and the people you've known,
+For it all comes to nothing
+when placed at His feet
+It's nothing to Jesus,
+just memories to keep.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You may take all the treasures
+from far away lands,
+And take all the riches
+you can hold in your hands,
+and take all the pleasures
+that riches can buy,
+But what will you have
+When it's your time to die?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Only one life so soon it will pass.
+Only what's done for Christ will last.
+Only one chance to do His will,
+So give to Jesus all your days,
+It's the only life that pays,
+When you recall you have but one life.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The days pass so quickly,
+The months come and go.
+The years melt away
+like the new fallen snow,
+The spring turns to summer,
+Summer to fall.
+Autumn brings winter,
+Then death comes to call.</lines>
+    </verse>
+  </lyrics>
+</song>

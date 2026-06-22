@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nichts will ich mehr</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es ist so gut, wieder vor dir zu stehen
+und mit den Augen des Herzens zu sehen,
+Vater, zieh mich zu dir.
+Es tut so gut mich in dir zu verlieren,
+dort wo sich Erde und Himmel berühren,
+Vater, zieh mich zu dir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nimm das Lied meines Herzens,
+nimm das Lob meines Lebens.
+Alles bringe ich dir, Herr,
+als ein kindliches Geschenk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nichts will ich mehr,
+als dir Freude zu machen,
+mit dir zu lachen.
+Nichts will ich mehr,
+als dich zu lieben.
+Nichts will ich mehr,
+als dir Ehre zu geben,
+aus dir zu leben.
+Nichts will ich mehr,
+als dir zu dienen.</lines>
+    </verse>
+  </lyrics>
+</song>

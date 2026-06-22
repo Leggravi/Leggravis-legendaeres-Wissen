@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>So spürbar nah</title>
+    </titles>
+    <authors>
+      <author type="words">Tobi Wörner</author>
+      <author type="music">Tobi Wörner</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir nehmen vom Brot, das du brichst.
+Du hast dich für uns gegeben.
+Wir schmecken, wie freundlich du bist.
+Du schenkst uns mit dir neues Leben.
+-
+An deinem Tisch willst du uns segnen.
+In diesem Mahl willst du uns begegnen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So spürbar nah, so heilig belebend,
+erfahrbar da in Brot und Wein.
+So spürbar nah, so gnädig vergebend.
+An deinem Tisch lädst du uns ein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir trinken vom Becher des Heils.
+Dein Blut ist für uns geflossen.
+Der neue Bund gilt, wir sind eins.
+Der Frieden ist durch dich geschlossen.
+-
+An deinem Tisch willst du uns segnen.
+In diesem Mahl willst du uns begegnen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Die ganze Erde erinnert sich
+an das Zeichen, das du uns gibst.
+Unsere Seele wird satt durch dich.
+Wir feiern, dass du uns liebst. (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

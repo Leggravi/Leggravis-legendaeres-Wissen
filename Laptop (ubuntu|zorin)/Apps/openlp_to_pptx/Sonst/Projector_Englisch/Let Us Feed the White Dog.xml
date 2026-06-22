@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let Us Feed the White Dog</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let us feed the white dog
+Defeating the black dog
+As we fight the battle in our mind
+For He promised victory
+And in Him there's no defeat
+This end-time bride will overcome</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We all have a sin that easily besets us
+When you want to do the right
+Evil is so near
+Satan has a right to that one punch
+Keep that area guarded with patience run the race</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We will fight, the battle in our minds
+We will fight, we must prove we're not like Eve
+We will fight, we were born to overcome
+Let us put on the whole armour of God</lines>
+    </verse>
+  </lyrics>
+</song>

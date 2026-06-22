@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Nov 15, 2020, 6:32:17 PM">
+  <properties>
+    <titles>
+      <title>Beyond The Curtain of Time</title>
+    </titles>
+    <verseOrder>V1 V2 C3 V4 C3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>One day I'm thinking of your word
+Of what the prophet has been told
+Just beyond this road
+There is a better world
+Where I can live with you My Lord</lines>
+    </verse>
+    <verse name="V2">
+      <lines>As I began to understand
+The great redemption and your plan
+As I look beyond there is a better land
+Where you will hold my hand as we stand.</lines>
+    </verse>
+    <verse name="C3">
+      <lines>King and Queen that's wo we are,
+In a world that's not so far.
+Beyond the curtain of time
+Our joys will be beyond sublime
+We will bid this world goodbye
+No more sickness,
+No more cry
+There will never more die
+No more tears will dim our eyes.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>And we shall see Him face to face
+While enjoying all His grace
+Just beyond this race
+I saw a better place
+Till all the wrong will cease
+all will be peace…</lines>
+    </verse>
+  </lyrics>
+</song>

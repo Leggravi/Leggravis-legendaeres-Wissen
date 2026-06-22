@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, du kamst hernieder</title>
+    </titles>
+    <authors>
+      <author type="words">Julius Anton von Poseck</author>
+      <author type="music">César Malan</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, Du kamst hernieder,
+Hast uns versöhnt.
+Gingst zum Vater wieder,
+Wardst am Thron gekrönt.
+Dein Eigentum
+Sind wir, Gott zum Ruhm,
+Sind durch Dich vertreten dort im Heiligtum.
+Ewige Gnade! Wer liebt wie Du!
+O welch hohe Gabe, welch sel'ge Ruh'!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jetzt die Deinen beten
+Freimütiglich,
+Weil Du sie vertreten
+Hohenpriesterlich.
+Dein Angesicht
+Ist auch jetzt gericht't
+Auf die Deinen alle. O Du lässt sie nicht!
+Dein treues Lieben, Dein Opfertod
+Brachte uns den Frieden in Sündennot.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Stehe auf vom Throne,
+Du Gotteslamm!
+Nimm die Braut zum Lohne,
+Teurer Bräutigam!
+Sie ist ja Dein,
+Rufe bald sie heim,
+In des Vaters Wohnung führ' sie mit Dir ein.
+An Deiner Rechten trifft sie kein Leid,
+Nahen keine Schmerzen in Ewigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

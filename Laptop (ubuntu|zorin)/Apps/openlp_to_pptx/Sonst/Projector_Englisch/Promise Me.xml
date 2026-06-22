@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Promise Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's hard to imagine that
+I've been there too
+I've felt the passion burning in you
+Every temptation, oh, I understand
+Your savior knows what it is to be a man</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Promise me… promise me…
+Before the passion turns to flame
+Promise me you'll call my name
+Promise me… promise me…
+You'll remember these scars of grace
+And remember I took your place
+Promise me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know what it's like when the
+Nightmare comes true
+Someone left a cross for me
+Like they left for you
+Trust me when I say… I've been
+Where you are
+The strength to live again my child is
+Hidden in the scars</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For those who stand, for those who fall
+Strength is found in one place
+Beneath my cross crying out for grace.</lines>
+    </verse>
+  </lyrics>
+</song>

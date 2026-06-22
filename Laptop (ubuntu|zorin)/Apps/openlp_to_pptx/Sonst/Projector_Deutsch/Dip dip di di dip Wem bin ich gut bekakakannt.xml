@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dip dip di di dip (Wem bin ich gut bekakakannt)</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Jakobi</author>
+      <author type="music">überliefert</author>
+      <author type="translation">Dip dip di di dip</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dip dip di di dip dip di di dip dip di di di - yeah!
+Wem bin ich gut be ka ka kannt, wer hält mich in der Ha ha hand?
+Wer ist es der mich li li liebt und mir die Schuld vergi gi gibt?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich kenn ihn schon: Jesus mein Freund und Gottes Sohn,
+Er liebt mich so sehr, gab sein Leben für mich her. Woooooh!
+Dip dip di di dip dip di di dip dip di di di - yeah!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich weiß, dass er mich ma ma mag, bei mir ist jeden Ta Ta Tag.
+Ich find das wirklich co co cool, das haut mich echt vom Stu hu huhl.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich kenn ihn schon: Jesus mein Freund und Gottes Sohn,
+Er liebt mich so sehr, gab sein Leben für mich her. Woooooh!
+Dip dip di di dip dip di di dip dip di di di - yeah!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wer macht aus klarem Wasser Wein? Wer kümmert sich um groß und klein?
+Wer sorgt dafür, dass Blinde sehn? Wer sagt ein Wort und Lahme gehn?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ich kenn ihn schon: Jesus mein Freund und Gottes Sohn,
+Er liebt mich so sehr, gab sein Leben für mich her. Woooooh!
+Dip dip di di dip dip di di dip dip di di di - yeah!</lines>
+    </verse>
+  </lyrics>
+</song>

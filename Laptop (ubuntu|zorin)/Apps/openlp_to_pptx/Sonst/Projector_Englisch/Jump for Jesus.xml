@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jump for Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v2 v6 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ah yeah
+Ah, the sound of heaven, ha ha ha
+Are you ready to jump for Jesus
+Come on now, we're gonna jump, we're gonna jump
+We're gonna jump, we're gonna jump, we're gonna jump
+We're gonna jump, we're gonna jump for Jesus, come on</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, You are my sole desire
+You light my soul on fire
+You lift my spirit higher
+Jump, jump, jump, jump for Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are my sole desire
+You light my soul on fire
+You lift my spirit higher
+Jump, jump, jump, jump for Jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are my Friend and my Brother
+Above You there is no other
+You give us love for each other
+Jump, jump, jump, jump</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Aw yeah, come on now
+Mmm, oh yeah
+We're gonna jump, we're gonna jump, we're gonna jump
+We're gonna jump, we're gonna jump, we're gonna jump
+Come on now, jump, jump, jump, jump, jump for Jesus</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You are my sole desire
+You light my soul on fire
+You lift my spirit higher, come on now
+Jump, jump, jump, jump, jump, jump, jump, jump, jump, jump</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jesus, You are my sole desire
+You light my soul on fire
+You lift my spirit higher
+Jump, jump, jump, jump, jump, jump, jump, jump, jump, jump
+For Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

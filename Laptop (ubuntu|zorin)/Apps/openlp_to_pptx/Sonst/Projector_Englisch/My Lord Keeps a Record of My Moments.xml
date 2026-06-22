@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Lord Keeps a Record of My Moments</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What a wonderful beautiful
+picture I have
+Of a place without sorrow or fear
+And I am going to live in a city
+somewhere
+Cause my days are all numbered
+down here.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My Lord keeps a record of
+the moment.
+I am living down here
+He knows all about me
+All my troubles, my sorrows my fears
+I am living every moment
+Through the mercies of
+God’s loving grace
+Some day He will call me
+To that wonderful beautiful place.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I want to be doing the will of my Lord
+As I travel this wearisome land
+So I’ll not be ashamed
+of my record up there,
+As I stand at my Saviour’s right hand.</lines>
+    </verse>
+  </lyrics>
+</song>

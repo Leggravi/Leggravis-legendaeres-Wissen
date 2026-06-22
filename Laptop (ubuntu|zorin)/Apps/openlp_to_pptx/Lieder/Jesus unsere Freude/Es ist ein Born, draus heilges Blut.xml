@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:09">
+  <properties>
+    <titles>
+      <title>Es ist ein Born, draus heilges Blut</title>
+    </titles>
+    <authors>
+      <author type="words">Ernst Heinrich Gebhardt (1875)</author>
+      <author type="music">Alexander Robert Reinagle</author>
+    </authors>
+    <ccliNo>4902216</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es ist ein Born, draus heil'ges Blut
+für arme Sünder quillt,
+ein Born, der lauter Wunder tut
+und jeden Kummer stillt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Der Schächer fand den Wunderquell,
+den Jesu Gnad ihm wies,
+und dadurch ging er rein und hell
+mit ihm ins Paradies.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Gotteslamm, dein teures Blut
+hat noch die gleiche Kraft!
+Gieß aus des Geistes Feuerglut,
+die neue Menschen schafft.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Auch ich war einst in Sündennot,
+da half mir Jesu Blut;
+drum jauchz ich auch bis in den Tod
+ob dieser Gnadenflut.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dies Blut sei all mein Leben lang
+die Quelle meiner Lust!
+Das bleib mein ew'ger Lobgesang
+an meines Heilands Brust.</lines>
+    </verse>
+  </lyrics>
+</song>

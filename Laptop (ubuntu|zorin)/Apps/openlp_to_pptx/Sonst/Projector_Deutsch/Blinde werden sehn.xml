@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Blinde werden sehn</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blinde werden sehn,
+Lahme werden gehn,
+wenn die Herrlichkeit des Herrn erscheint.
+Keiner ist mehr stumm,
+keiner taub und dumm,
+wenn die Herrlichkeit des Herrn erscheint.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Denn die Wüste wird blühn,
+und die Steppe wird grün,
+wenn die Herrlichkeit des Herrn erscheint.
+Und wir werden uns freun,
+dann bei Jesus zu sein,
+wenn die Herrlichkeit des Herrn erscheint.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Brunnen werden stehn,
+Ströme wird man sehn,
+wenn die Herrlichkeit des Herrn erscheint.
+Dann ist Sicherheit,
+nie mehr Schmerz und Leid,
+wenn die Herrlichkeit des Herrn erscheint.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Seid nicht mehr verzagt,
+bringt Gott, was euch plagt,
+seht doch, seine Herrlichkeit erscheint.
+Fürchtet euch nur nicht,
+bald scheint Gottes Licht,
+wenn die Herrlichkeit des Herrn erscheint.</lines>
+    </verse>
+  </lyrics>
+</song>

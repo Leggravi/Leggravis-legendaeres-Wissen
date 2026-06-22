@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wie freundlich ladet Jesus ein</title>
+    </titles>
+    <authors>
+      <author type="words">Andreas Stoll</author>
+      <author type="music">Alexander Robert Reinagle</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wie freundlich ladet Jesus ein:
+&quot;O komme zu mir her!
+Du wirst bei mir so glücklich sein,
+mein Joch ist gar nicht schwer.&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Noch tönt der Ruf: O komme doch
+zu dem Erlöser heut;
+jetzt ist der Tag des Heiles noch,
+die angenehme Zeit!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bald, bald kommt Jesus, Gottes Sohn,
+der ganzen Schöpfung Haupt;
+dann steht verklärt vor Seinem Thron,
+wer hier an Ihn geglaubt.</lines>
+    </verse>
+  </lyrics>
+</song>

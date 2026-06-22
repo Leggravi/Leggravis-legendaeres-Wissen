@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Till I Get to That Place</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sometimes you may feel like
+you’re going under
+And there seems to be no way out
+People may say that your God
+has left you
+Why do you still keep holding on</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But there’s a course that is set
+before me
+I’m not giving up, I’m looking ahead
+And I know I must keep on fighting
+I’ve come too far to turn back now</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I’ll keep on pressing till I get to
+that place
+To the mark of the high calling
+In Christ Jesus we’ll stand still
+The road is narrow but I will still
+run for my Prize</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Just to sit one day at His side
+When I get to that place
+He never said that it would be easy
+But He gave me something to stand</lines>
+    </verse>
+    <verse name="v5">
+      <lines>His Word still keeps holding me
+While living in this evil land
+And though the whole world is
+crumbling around me
+My eyes are fixed on the Prize</lines>
+    </verse>
+    <verse name="v6">
+      <lines>So Lord take me and completely
+fill me
+Get me ready to take that flight</lines>
+    </verse>
+  </lyrics>
+</song>

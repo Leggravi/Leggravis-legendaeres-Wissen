@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When Stephen Was Accused</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When Stephen was accused,
+lonely and bewildered,
+No-one that day,
+would stand by his side,
+He looked in the heavens
+and saw the face of Jesus
+And He rolled him over the tide.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’ve never had a prayer,
+He couldn’t answer
+I’ve never shed a tear,
+He could not dry
+And when the waves of life.
+are so hard you can’t mount them
+He will roll you over the tide.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the world is chasing me,
+and my life becomes a burden
+I want to run, but there’s
+no place to hide,
+I’ll just look up like old Stephen
+to the right hand of the Father
+And He'll roll me over the tide.</lines>
+    </verse>
+  </lyrics>
+</song>

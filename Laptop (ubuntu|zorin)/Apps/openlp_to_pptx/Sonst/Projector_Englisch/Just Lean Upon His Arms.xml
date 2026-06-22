@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Just Lean Upon His Arms</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Just lean upon the arms of Jesus
+He'll keep you along, keep you along,
+If you will trust His love unfailing,
+He'll fill your heart with joy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lean on His arms, trusting In His love,
+Lean on His arms, all His mercies prove,
+Lean on His arms ever looking home
+above,
+Just lean on the Saviour’s arms.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Just lean upon the arms of Jesus
+He’ll brighten the way,
+brighten the way
+Just follow gladly where He leadeth,
+His gentle voice obey.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Just lean upon the arms of Jesus
+Oh bring every care, bring every care,
+The burden that has seemed so
+heavy
+Take to the Lord in prayer.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Just lean upon the arms of Jesus
+Then leave all to Him, leave all to
+Him,
+His heart is full of love and mercy
+His eyes are never dim.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Just lean upon the arms of Jesus
+He meets every need, meets every
+need
+To all who take Him as a Saviour,
+He is a friend indeed.</lines>
+    </verse>
+  </lyrics>
+</song>

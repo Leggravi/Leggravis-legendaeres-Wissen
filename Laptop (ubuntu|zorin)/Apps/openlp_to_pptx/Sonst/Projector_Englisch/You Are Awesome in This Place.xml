@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Are Awesome in This Place</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As I come into your presence
+Past the gates of praise
+Into your sanctuary
+Till we’re standing face to face
+As I look upon your countenance
+I see the fullness of your grace
+I can only bow down and say</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are awesome in this place Mighty God,
+You are awesome in this place Abba Father,
+You are worthy of all praise
+To you our lives we raise,
+You are awesome in this place Mighty God.</lines>
+    </verse>
+  </lyrics>
+</song>

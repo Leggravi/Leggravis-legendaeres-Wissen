@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come, Jesus, Come</title>
+    </titles>
+    <authors>
+      <author type="words">Nathan Jess</author>
+      <author type="music">Nathan Jess</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sometimes I fall
+To my knees and pray,
+Come, Jesus, come,
+Let today be the day,
+Sometimes I feel
+Like I'm gonna break,
+But I'm holding on
+To a hope that won't fade.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come, Jesus, come,
+We've been waiting so long,
+For the day You return
+To heal every hurt,
+And right every wrong,
+We need You right now,
+Come and turn this around,
+Deep down I know,
+This world isn't home,
+Come, Jesus, come.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There'll be no war,
+And there'll be no chains,
+When Jesus comes,
+Let today be the day,
+He'll come for the weak,
+And the strong just the same,
+And all will believe,
+In the power of His name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come, Jesus, come,
+We've been waiting so long,
+For the day You return,
+To heal every hurt,
+And right every wrong,
+We need You right now,
+Come and turn this around (turn this around),
+Deep down I know,
+This world isn't home,
+Come, Jesus, come,
+Come, Jesus, come.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>One day He'll come,
+And we'll stand face to face,
+Come and lay it all down,
+'Cause it might be today,
+The time is right now,
+There's no need to wait,
+Your past will be washed,
+By rivers of grace.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Come, Jesus, come,
+We've been waiting so long,
+For the day You return,
+To heal every hurt,
+And right every wrong,
+We need You right now,
+Come and turn this around (turn this around)
+Deep down I know,
+This world isn't home,
+Come, Jesus, come,
+Come, Jesus, come,
+Come, Jesus, come.</lines>
+    </verse>
+  </lyrics>
+</song>

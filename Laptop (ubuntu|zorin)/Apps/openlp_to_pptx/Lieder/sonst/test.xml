@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Mar 11, 2022, 9:16:17 AM">
+  <properties>
+    <titles>
+      <title text="Wer weiß wohin"/>
+    </titles>
+    <verseOrder>0,1,2,3,2,2,4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Wer kann mir sagen, wohin die Reise geht?
+Wo der Baum der Erkenntnis oder des Lebens steht?
+Wer weiß, wo die Wahrheit,
+die Wahrheit zu finden ist?
+Und wer kennt die Freiheit,
+die leicht macht und mich erlöst?</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Man sagt es gibt eine Straße,
+die uns zum Leben führt.
+Und ein Weg der Verdammnis,
+der uns ins Unglück stürzt.
+Es gibt tausend Etappen
+auf der Route ins unbekannte Land.
+Wer kennt die Gefahren,
+Wer hat sich schon auf dem Weg verrannt?</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Wer weiß wohin diese Reise geht?
+Wer kann mir sagen wohin?
+Wer weiß wohin dieses Leben führt?
+Wer weiß, was Wahrheit ist,
+Was macht den Unterschied?</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Was kommt nach dem Sterben,
+zerfällt der Körper nur zu Staub?
+Ist das ewige Leben,
+nur eine Masche, die man uns verkauft?
+Sind wir nicht alle Materie?
+Macht nicht die Seele den Unterschied?
+Stehen Verstand und Gewissen
+nicht pausenlos im Krieg?</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Wer kann mir sagen,
+wohin die Reise geht?</lines>
+    </verse>
+  </lyrics>
+</song>

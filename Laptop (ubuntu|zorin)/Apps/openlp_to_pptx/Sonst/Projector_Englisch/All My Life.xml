@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All My Life</title>
+    </titles>
+    <authors>
+      <author type="words">Andy Silver</author>
+      <author type="music">Andy Silver</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All my Life
+The Lord's been good to me
+All my Life
+The Lord's been good to me
+All my Life
+The Lord's been good to me
+The Lord's been good to me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He gave me the victory
+The Lord's been good to me
+He gave me the victory
+The Lord's been good to me
+He gave me the victory
+The Lord's been good to me
+The Lord's been good to me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He gave me the Holy Ghost
+The Lord's been good to me
+He gave me the Holy Ghost
+The Lord's been good to me
+He gave me the Holy Ghost
+The Lord's been good to me
+The Lord's been good to me</lines>
+    </verse>
+  </lyrics>
+</song>

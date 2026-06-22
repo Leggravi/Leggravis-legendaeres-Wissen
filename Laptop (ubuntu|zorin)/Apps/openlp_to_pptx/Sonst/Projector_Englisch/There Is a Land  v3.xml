@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There Is a Land – v3</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have seen some pretty times,
+Guess you could say
+that I've been around;
+I've Found no place to settle down,
+There is a Land.
+Oh, I am just a pilgrim here,
+Toiling through a world of fear,
+My time to leave is drawing near,
+I'm going to that Land.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is a Land I'm homesick for,
+Though I've never seen it before,
+I've got loved ones waiting on that shore,
+There is a Land.
+And it's not a million miles away,
+Or on some far off distant strand;
+I'll speed up and then slow down,
+There is a Land.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What am I so homesick, for
+Just not myself here anymore,
+I'm longing for that open door,
+That leads to that Land.
+So I'll dry my weeping eyes,
+Lift my head toward the sky,
+Farewell to this world goodbye,
+I'm going to that Land.</lines>
+    </verse>
+  </lyrics>
+</song>

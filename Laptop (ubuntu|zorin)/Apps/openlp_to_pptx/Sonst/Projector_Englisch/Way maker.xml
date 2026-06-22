@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Way maker</title>
+    </titles>
+    <authors>
+      <author type="words">Osinachi Kalu Okoro Egbu</author>
+      <author type="music">Osinachi Kalu Okoro Egbu</author>
+      <author type="translation">Wegebner</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are here moving in our midst;
+I worship You, I worship You.
+You are here working in this place;
+I worship You, I worship You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Way maker, Miracle worker,
+Promise keeper, Light in the darkness,
+My God, That is who You are.
+Way maker, Miracle worker,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Promise keeper, Light in the darkness,
+My God, That is who You are.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are here touching every heart;
+I worship You, I worship You.
+You are here healing every heart;
+I worship You, I worship You.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You are here mending every heart;
+I worship You, I worship You.
+You are here turning lives around;
+I worship You, I worship You.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Way maker, Miracle worker,
+Promise keeper, Light in the darkness,
+My God, That is who You are.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>(That is who You are)
+That is who You are. [4x]</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Way maker, Miracle worker,
+Promise keeper, Light in the darkness,
+My God, That is who You are.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>(That is who You are)
+That is who You are. [4x]</lines>
+    </verse>
+    <verse name="v10">
+      <lines>(Heal us who You are)
+That is who You are. [4x]</lines>
+    </verse>
+    <verse name="v11">
+      <lines>(Way Maker's who You are)
+That is who You are. [4x]</lines>
+    </verse>
+    <verse name="v12">
+      <lines>(That is who You are)
+That is who You are.</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Way maker, Miracle worker [4x]</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Even when I don't see it, You're working.
+Even when I don't feel it, You're working.
+You never stop, You never stop working. [2x]</lines>
+    </verse>
+  </lyrics>
+</song>

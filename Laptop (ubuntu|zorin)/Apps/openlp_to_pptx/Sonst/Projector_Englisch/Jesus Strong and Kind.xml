@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, Strong and Kind</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus said that if I thirst
+I should come to him
+No one else can satisfy
+I should come to him</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus said if I am weak
+I should come to him
+No one else can be my strength
+I should come to him</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For the Lord is good and faithful
+He will keep us day and night
+We can always run to Jesus
+Jesus, strong and kind</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus said that if I fear
+I should come to him
+No one else can be my shield
+I should come to him</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus said if I am lost
+He will come to me
+And he showed me on that cross
+He will come to me</lines>
+    </verse>
+  </lyrics>
+</song>

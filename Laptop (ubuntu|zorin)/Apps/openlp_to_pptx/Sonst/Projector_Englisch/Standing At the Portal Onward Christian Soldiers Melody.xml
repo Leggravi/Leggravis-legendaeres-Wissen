@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Standing At the Portal (Onward Christian Soldier's Melody)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Standing at the portal
+Of the op’ning year,
+Words of comfort meet us,
+Hushing ev’ry fear.
+Spoken through the silence
+By our Father’s voice,
+Tender, strong, and faithful,
+Making us rejoice.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Onward, then, and fear not,
+Children of the day!
+For His Word shall never,
+Never pass away!
+I, the Lord, am with thee,
+Be thou not afraid!
+I will help and strengthen,
+Be thou not dismayed!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yea, I will uphold thee
+With My own right hand;
+Thou art called and chosen
+In My sight to stand.
+Onward, then, and fear not,
+Children of the day!
+For His Word shall never,
+Never pass away!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For the year before us,
+O what rich supplies!
+For the poor and needy
+Living streams shall rise;
+For the sad and sinful
+Shall His grace abound,
+For the faint and feeble
+Perfect strength be found.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Onward, then, and fear not,
+Children of the day!
+For His Word shall never,
+Never pass away!
+He will never fail us,
+He will not forsake;
+His eternal covenant
+He will never break!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Resting on His promise,
+What have we to fear?
+God is all-sufficient
+For the coming year.
+Onward, then, and fear not,
+Children of the day!
+For His Word shall never,
+Never pass away!</lines>
+    </verse>
+  </lyrics>
+</song>

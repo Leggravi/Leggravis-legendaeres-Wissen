@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Old Fashioned Way</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>They call me old-fashioned because I believe,
+That the Bible is God’s holy Word,
+That Jesus, who lived among men long ago,
+Is divine, and the Christ of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My sin was old-fashioned,
+My guilt was old-fashioned,
+God’s love was old-fashioned, I know;
+And the way I was saved was the old-fashioned way,
+Through the blood that makes whiter than snow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Old-fashioned, because I believe and accept
+Only what has been spoken from Heav’n;
+Old-fashioned because at the cross I was saved,
+At the cross had my sins forgiv’n.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Old-fashioned, because I am bound to do right,
+To walk in the straight narrow way;
+Because I have given my whole life to God,
+Old-fashioned because I pray.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Old-fashioned, because I am looking above
+To Jesus, my glorified Lord;
+Because I believe He is coming again,
+Fulfilling His holy Word.</lines>
+    </verse>
+  </lyrics>
+</song>

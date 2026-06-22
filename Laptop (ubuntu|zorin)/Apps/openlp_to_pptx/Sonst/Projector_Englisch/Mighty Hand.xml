@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mighty Hand</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your Blood speaks a better word
+Your Love speaks a better word</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is therefore now no condemnation
+For those who are in Christ Jesus
+Where are Your accusers now?
+Where are Your accusers now?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>With the mighty hand and an outstretch arms
+You are the God who saves, deliverer Your Name</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You put the ring upon my finger
+You put the robe upon my back
+You throw Your arms around me and say,
+&quot;You are my son, my daughter, don't forget&quot;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Salvation belongs to the Lord
+Salvation belongs to the Lord
+(4x)</lines>
+    </verse>
+  </lyrics>
+</song>

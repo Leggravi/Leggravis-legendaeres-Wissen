@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Schaffe in mir</title>
+    </titles>
+    <authors>
+      <author type="words">Mike Flannagan</author>
+      <author type="music">Mike Flannagan</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Schaffe in mir ein reines Herz, oh Gott
+Und erneuere einen richtigen Geist in mir</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wirf mich nicht von Deiner Gegenwart ab, o Herr
+Stelle mir die Freude Deiner Erlösung wieder her
+Und erneuere einen richtigen Geist in mir</lines>
+    </verse>
+  </lyrics>
+</song>

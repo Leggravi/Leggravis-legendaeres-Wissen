@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Tell It to Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Are you weary,
+Are you heavy-hearted?
+Tell it to Jesus, Tell it to Jesus;
+Are you grieving
+Over joys departed?
+Tell it to Jesus alone.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tell it to Jesus, Tell it to Jesus,
+He is a friend that's well-known;
+You've no other such
+A friend or brother,
+Tell it to Jesus alone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Do the tears flow down
+Your cheeks unbidden?
+Tell it to Jesus, Tell it to Jesus;
+Have you sins that to men's
+Eyes are hidden?
+Tell it to Jesus alone.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Do you fear the gath'ring
+Clouds of sorrow?
+Tell it to Jesus, Tell it to Jesus;
+Are you anxious what
+Shall be tomorrow?
+Tell it to Jesus alone.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Are you troubled at
+The thought of dying?
+Tell it to Jesus, Tell it to Jesus;
+For Christ's coming Kingdom
+Are you sighing?
+Tell it to Jesus alone.</lines>
+    </verse>
+  </lyrics>
+</song>

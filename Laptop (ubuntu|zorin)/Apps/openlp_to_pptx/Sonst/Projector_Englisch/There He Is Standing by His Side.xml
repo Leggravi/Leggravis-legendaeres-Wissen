@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There He Is (Standing by His Side)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Take a look down through the ages
+Through the corridors of time,
+And as I look,
+I see my God standing by His Bride;
+Through torture, death, good times and bad,
+He was there right in the midst;
+And with every trial you're going through
+You can conquer, because right beside you
+There He is.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There He is standing right beside His little Bride,
+Meeting all Her needs She has inside;
+And when this world
+and all Her friends reject Her,
+He will still be there,
+Faithful to His Word She has to bear.
+And whatever She may do through all Her trials,
+He will see Her through.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I always love to see how a husband treat His wife,
+How He cares for Her and treats Her well
+No matter what the price;
+Oh, but going far beyond that love,
+God cares for His Own.
+So if you think you're all by yourself,
+Just remember you're not standing all alone.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And whatever that Bride may do,
+Through all Her trials He will see Her through,
+And whatever She may do, through all Her trials,
+He will see Her through.</lines>
+    </verse>
+  </lyrics>
+</song>

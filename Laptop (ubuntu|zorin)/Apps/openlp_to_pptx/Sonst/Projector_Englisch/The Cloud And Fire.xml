@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Cloud And Fire</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As of old, when the hosts
+ of Israel
+Were compelled in
+the wilderness to dwell.
+Trusting in their God to lead
+ the way
+To the light of the perfect day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So the sign of the fire by night,
+And the sign of the cloud by day,
+Hovering o'er, just before,
+As the journey on their way.
+Shall a guide and leader be,
+Till the wilderness be past.
+For the Lord, our God,
+in His own good time
+Shall lead to the light at last.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To and fro, as ship without
+ a sail.
+Not a compass to guide them
+ through the vale,
+But the sign of their God was
+ ever near,
+Thus their fainting hearts
+ to cheer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All the days of their wand'rings
+ they were fed,
+To land of the promise they
+ were led:
+By the hand of the Lord
+in guidance sure.
+They were brought to
+ Canaan's shore.</lines>
+    </verse>
+  </lyrics>
+</song>

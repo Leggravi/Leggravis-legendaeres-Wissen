@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hab Mut, sei stark</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hab Mut, sei stark, denn der Herr
+Dein Gott ist mit dir!:|
+Ich hab keine Angst und ich fürchte mich nicht,
+denn ich geh im Glauben und im Sieg!
+Komm mit und geh im Glauben und im Sieg;
+denn der Herr, dein Gott, ist mit dir!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Vater, lass unsre Augen sehn Jesus allein</title>
+    </titles>
+    <authors>
+      <author type="words">FCJG Lüdenscheid</author>
+      <author type="music">Brian Doerksen</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vater, laß unsre Augen sehn Jesus allein. 
+Geist Gottes,laß unsre Ohren hörn die Worte Jesu allein.
+
+® Wir haben Menschen zu lang vertraut,
+doch wir kehren um zu Dir!
+Herr, wir schauen fest auf dich,
+Du bist das Haupt der Gemeinde,
+der tragende Fels, der einzige Grundstein!
+Herr, wir schauen fest auf Dich!
+Du bist der mächtige Herrscher,
+König der Welt,Herr der Herrlichkeit!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, keiner ist wie du, voller Gnade und Kraft.
+Jesus keiner ist wie Du voller Weisheit und Macht.
+ ®</lines>
+    </verse>
+    <verse name="v3">
+      <lines>® Wir haben Menschen zu lang vertraut,
+doch wir kehren um zu Dir!
+Herr, wir schauen fest auf dich,
+Du bist das Haupt der Gemeinde,
+der tragende Fels, der einzige Grundstein!
+Herr, wir schauen fest auf Dich!
+Du bist der mächtige Herrscher,
+König der Welt,Herr der Herrlichkeit!</lines>
+    </verse>
+  </lyrics>
+</song>

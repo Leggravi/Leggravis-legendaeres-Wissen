@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Was sichtbar, zeitlich ist auf Erden</title>
+    </titles>
+    <authors>
+      <author type="words">Wilhelm Brockhaus</author>
+      <author type="music">Wilhelm Brockhaus</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Was sichtbar, zeitlich ist auf Erden,
+Verkündet laut Verwesung nur.
+Drum sehnt sich alles, frei zu werden,
+Und ängstlich harrt die Kreatur.
+Wir seufzen mit, flehn voll Verlangen:
+Komm, Herr, und mach uns völlig frei!
+Schon haben wir den Geist empfangen,
+Komm, mache unsern Leib auch neu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Jesu Du, Du hast das Leben
+Und Unvergänglichkeit gebracht,
+Wirst auch den Leib vom Staub erheben
+Durch Deine Auferstehungsmacht.
+Dann sind wir frei von dieser Hütte,
+Dann werden wir Dein Antlitz sehn
+Und werden – Du in unsrer Mitte –
+Vor unserm Gott verherrlicht stehn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nur diese Hoffnung kann uns geben
+Erquickung, Mut und süße Freud',
+Dass wir allzeit den Blick erheben
+Zu Dir, dem Herrn der Herrlichkeit.
+Und ob wir noch im Leibe wallen,
+Sind wir im Geist doch nah' bei Dir.
+Du leitest uns mit Wohlgefallen,
+In Deiner Liebe ruhen wir.</lines>
+    </verse>
+  </lyrics>
+</song>

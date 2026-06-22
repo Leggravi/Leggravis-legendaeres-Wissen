@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Yesterday, Today, Forever</title>
+    </titles>
+    <authors>
+      <author type="words">Albert B. Simpson</author>
+      <author type="music">James H. Burke</author>
+      <author type="translation">Gestern, heute und für immer gleich</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, how sweet the glorious message
+simple faith may claim
+Yesterday, today, forever
+Jesus is the same.
+Still He loves to save the sinful,
+heal the sick and lame
+Cheer the mourner, still the tempest,
+glory to His name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yesterday, today, forever,
+Jesus is the same.
+All may change, but Jesus never!
+Glory to His name!
+Glory to His name!
+Glory to His name!
+All may change, but Jesus never!
+Glory to His name!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He, who was the friend of sinners,
+seeks the lost one now
+Sinner come, and at His footstool
+penitently bow
+He who said I’ll not condemn thee,
+go and sin no more,
+Speaks to thee that word of pardon
+as in days of yore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oft on earth He healed the sufferer
+by His mighty hand
+Still our sicknesses and sorrows
+go at His command
+He who gave His healing virtue
+to a woman’s touch
+To the faith that claims His fullness
+still will give as much.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He who pardoned erring Peter
+never needs thou fear,
+He who came to faithless Thomas
+all thy doubt will clear;
+He who let the loved disciple
+on His bosom rest
+Bids thee still, with love as tender,
+lean upon His breast.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>He who ‘mid the raging billows
+walked upon the sea
+Still can hush our wildest tempest,
+as on Galilee;
+He who wept and prayed
+in anguish in Gethsemane,
+Drinks with us each cup of trembling,
+in our agony.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>As of old He walked to Emmaus,
+with them to abide
+So through all life’s way He walketh
+ever near our side
+Soon again we shall behold Him,
+Hasten Lord the day
+But twill still be this same Jesus
+as He went away.</lines>
+    </verse>
+  </lyrics>
+</song>

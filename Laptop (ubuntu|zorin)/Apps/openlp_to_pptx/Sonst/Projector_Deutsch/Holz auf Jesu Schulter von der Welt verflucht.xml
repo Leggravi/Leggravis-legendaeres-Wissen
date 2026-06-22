@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Holz auf Jesu Schulter, von der Welt verflucht</title>
+    </titles>
+    <authors>
+      <author type="words">Jürgen Henkys</author>
+      <author type="music">Ignace de Sutter</author>
+      <author type="translation">With the tree of life hung</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Holz auf Jesu Schulter, von der Welt verflucht,
+Ward zum Baum des Lebens und bringt gute Frucht.
+Kyrie eleison, sieh wohin wir gehn.
+Ruf uns aus den Toten, lass uns auferstehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Wollen wir Gott bitten, dass auf unsrer Fahrt
+Friede unsre Herzen und die Welt bewahrt.
+Kyrie eleison, sieh, wohin wir gehn.
+Ruf uns aus den Toten, lass uns auferstehn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Denn die Erde klagt uns an bei Tag und Nacht.
+Doch der Himmel sagt uns: Alles ist vollbracht.
+Kyrie eleison, sieh, wohin wir gehn.
+Ruf uns aus den Toten, lass uns auferstehn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Wollen wir Gott loben, leben aus dem Licht.
+Streng ist seine Güte, gnädig sein Gericht.
+Kyrie eleison, sieh, wohin wir gehn.
+Ruf uns aus den Toten, lass uns auferstehn.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Denn die Erde jagt uns auf den Abgrund zu.
+Doch der Himmel fragt uns: Warum zweifelst du?
+Kyrie eleison, sieh, wohin wir gehn.
+Ruf uns aus den Toten, lass uns auferstehn.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6. Hart auf deiner Schulter, lag das Kreuz, o Herr,
+Ward zum Baum des Lebens, ist von Früchten schwer.
+Kyrie eleison, sieh, wohin wir gehn.
+Ruf uns aus den Toten, lass uns auferstehn.</lines>
+    </verse>
+  </lyrics>
+</song>

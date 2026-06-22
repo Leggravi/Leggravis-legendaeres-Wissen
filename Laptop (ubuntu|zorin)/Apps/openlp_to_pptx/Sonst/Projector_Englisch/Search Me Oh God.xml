@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Search Me Oh God</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Search me, Oh God!
+my actions try,
+And let my life appear
+As seen by Thine all-searching eye
+To mine my ways make clear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Search all my sense,
+and know my heart,
+Who only canst' make known,
+And let the deep,
+the hidden part
+To me be fully shown</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Throw light into the darkened cells
+Where passion reigns within;
+Quicken my conscience till it feels
+The loathsomeness of sin.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Search all my thoughts,
+the secret springs,
+The motives that control;
+The chambers where polluted things
+Hold empire o’er the soul.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Search, till Thy fiery glance has cast
+It's holy light through all,
+And I by grace am brought at last
+Before Thy face to fall.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Thus prostrate I shall learn of Thee
+What now I feebly prove,
+That God alone in Christ can be
+Unutterable love!</lines>
+    </verse>
+  </lyrics>
+</song>

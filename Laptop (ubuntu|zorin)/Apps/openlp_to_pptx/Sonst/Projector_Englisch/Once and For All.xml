@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Once and For All</title>
+    </titles>
+    <authors>
+      <author type="words">Lauren Daigle</author>
+      <author type="music">Lauren Daigle</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>An endless stream of pilgrims
+made their way into Jerusalem
+To offer up the goat the lamb and dove
+Atonement for the sin was slain
+but only for a season
+Their empty hearts still cry out
+for a lasting peace and love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Then from Bethlehem He came,
+Emmanuel was His name
+He knew the world would
+need a sacrifice
+And a million lambs
+could never pay the price</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Once and for all He walked
+the road to Calvary
+Carrying the sins of every man
+upon his shoulders
+Once and for all He conquered
+death victoriously
+Tearing down the separating wall
+And the price was paid in full
+once and for all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>An endless stream of mercy falls
+like rain from heaven's holy ground
+To everyone who calls upon His name
+Though we are, we're sinners,
+He love thee all our weaknesses
+And though we were unworthy
+He came to suffer in our place</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And as His blood fell to the ground,
+our hope again was found
+No longer are we guilty and oppressed
+For He has grown our sins, as far as east is to the west</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Forevermore</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Long before the earth
+Before there was light
+Lord You were
+Endless are You God
+No time can contain all you are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's no other God before You
+There is no other one to replace you
+You are forevermore
+And there's no other God I call to
+You are the One I cling to
+You are forevermore</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Faithful are You God
+You never change
+Lord You are
+Only You are God
+Forever You reign above it all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There's no other God before You
+There is no other one to replace You
+You are forevermore
+And there's no other God I call to
+You are the One I cling to
+You are forevermore</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There's no other
+No on Greater
+There is none like You
+There's no other
+No on Geater
+There is none like You</lines>
+    </verse>
+    <verse name="v6">
+      <lines>There's no other God before You
+There is no other one to replace you
+You are forevermore
+And there's no other god I call to
+You are the one I cling to
+You are forevermore</lines>
+    </verse>
+    <verse name="v7">
+      <lines>You are forevermore</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 21, 2019, 11:02:39 AM">
+  <properties>
+    <titles>
+      <title>Break every chain</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4 V5 V6 V7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>There is power in the name of Jesus
+There is power in the name of Jesus
+There is power in the name of Jesus
+To break every chain, break every chain, break every chain
+To break every chain, break every chain, break every chain</lines>
+    </verse>
+    <verse name="V2">
+      <lines>There is power in the name of Jesus
+There is power in the name of Jesus
+There is power in the name of Jesus
+To break every chain, break every chain, break every chain
+Break every chain, break every chain, break every chain</lines>
+    </verse>
+    <verse name="V3">
+      <lines>There's an army rising up
+There's an army rising up
+There's an army rising up
+To break every chain, break every chain, break every chain
+To break every chain, break every chain, break every chain</lines>
+    </verse>
+    <verse name="V4">
+      <lines>There is power in the name of Jesus
+There is power in the name of Jesus
+There is power in the name of Jesus
+To break every chain, break every chain, break every chain
+Break every chain, break every chain, break every chain</lines>
+    </verse>
+    <verse name="V5">
+      <lines>There's an army rising up
+There's an army rising up
+There's an army rising up
+To break every chain, break every chain, break every chain
+To break every chain, break every chain, break every chain</lines>
+    </verse>
+    <verse name="V6">
+      <lines>I hear the chains falling
+I hear the chains falling
+I hear the chains falling
+I hear the chains falling
+I hear the chains falling
+I hear the chains falling
+I hear the chains falling
+I hear the chains falling</lines>
+    </verse>
+    <verse name="V7">
+      <lines>There is power in the name of Jesus
+To break every chain, break every chain, break every chain</lines>
+    </verse>
+  </lyrics>
+</song>

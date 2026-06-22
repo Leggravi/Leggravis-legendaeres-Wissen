@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nah sein</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Frey</author>
+      <author type="music">Albert Frey</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus ich will nah bei dir sein.
+Ich will einfach nah bei dir sein.
+Jesus ich will nah bei dir sein.
+Dir nah sein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr, denn deine Nähe heilt, alle Wunden der Zeit.
+Herr, und deine Güte zeigt, wie Vergebung befreit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr ich komm zu dir so wie ich bin.
+Nimm alles,
+nimm mich hin, reinige mich erfülle mich mit dir.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich will deine Worte hörn, die mich zu dir ziehn.
+Ich will deine Liebe spürn, tief in mir drin.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Herr ich komm zu dir so wie ich bin.
+Nimm alles,
+nimm mich hin, reinige mich erfülle mich mit dir.</lines>
+    </verse>
+  </lyrics>
+</song>

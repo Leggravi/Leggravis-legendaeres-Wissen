@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Are My All in All</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are my strength when I am weak
+You are the treasure that I seek
+You are my all in all
+Seeking You as a precious jewel
+Lord to give up I'd be a fool
+You are my all in all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus Lamb of God worthy is Your name
+Jesus Lamb of God worthy is Your name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Taking my sin my cross my shame
+Rising again I bless your name
+You are my all in all
+When I fall down you pick me up
+When I am dry You fill my cup
+You are my all in all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus Lamb of God worthy is Your name
+Jesus Lamb of God worthy is Your name
+Jesus Lamb of God worthy is Your name
+Jesus Lamb of God worthy is Your name</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus Lamb of God worthy is Your name
+Jesus Lamb of God worthy is Your name
+Worthy is Your name
+Worthy is Your name</lines>
+    </verse>
+  </lyrics>
+</song>

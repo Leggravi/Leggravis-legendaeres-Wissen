@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Bigger Than Any Mountain</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bigger than all my problems,
+Bigger than all my fears,
+God is bigger than any mountain,
+That I can or cannot see,
+Bigger than all my questions,
+Bigger than anything,
+God is bigger than any mountain,
+That I can or cannot see.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bigger than all the shadows
+That fall across my path
+God is bigger than any mountain
+That I can or cannot see
+Bigger than all the confusion
+Bigger than anything
+God is bigger than any mountain
+That I can or cannot see</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bigger than all the giants
+Of fear and unbelief
+God is bigger than any mountain
+That I can or cannot see
+Bigger than all my hangups
+Bigger than anything
+God is bigger than any mountain
+That I can or cannot see</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God is bigger than any mountain
+That I can or cannot see</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Here Again</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Can't go back to the beginning,
+Can't control what tomorrow will bring,
+But I know here in the middle,
+Is the place where You promise to be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm not enough unless You come
+Will You meet me here again
+Cause all I want is all You are
+Will You meet me here again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As I walk now through the valley,
+Let Your love rise above every fear,
+Like the sun shaping the shadow,
+In my weakness Your glory appears.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Not for a minute was I forsaken,
+The Lord is in this place,
+The Lord is in this place,
+Come Holy Spirit,
+Dry bones awaken,
+The Lord is in this place,
+The Lord is in this place.</lines>
+    </verse>
+  </lyrics>
+</song>

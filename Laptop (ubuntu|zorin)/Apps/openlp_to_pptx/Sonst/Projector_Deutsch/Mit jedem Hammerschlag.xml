@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mit jedem Hammerschlag</title>
+    </titles>
+    <authors>
+      <author type="words">Arne Kopfermann</author>
+      <author type="music">Danny Plett</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blutig und zerschunden
+liegt er dort unter Spott und Hohn.
+Auf einem Bett aus Balken,
+sein Kissen ist die Dornenkron.
+Nie wieder gibt es solchen Schmerz,
+solches Unrecht und Verachtung,
+Nie wieder solch ein reines Herz
+Voll liebe und Vergebung.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mit jedem Hammerschlag
+gibt Jesus mehr vom Leben her.
+Mit jedem Hammerschlag
+kommt Gott am Kreuz den Menschen nä´r.
+Und jeder Nagel, der ihn trifft,
+ihn durchbohrt an diesem Tag,
+Er dient nur Gottes Liebesplan
+mit jedem Hammerschlag</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Trotz aller Versuchung:
+Ich folge dem Gekreuzigten!
+Mein alter Mensch, er stirbt dort auch,
+er wird als neuer auferstehen.
+Nie wieder gibt es solchen Schmerz,
+wir Klammern uns ans Leben.
+Doch wahres Leben finden wir,
+wenn wir uns ganz hingeben.</lines>
+    </verse>
+  </lyrics>
+</song>

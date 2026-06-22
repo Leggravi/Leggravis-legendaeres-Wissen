@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It Won’t Be Long Till Jesus Comes</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I believe it won't be long and
+He shall come
+He will come as a thief in the night,
+Tho the world will go on as before,
+But to the gentiles
+He'll close
+heaven’s door.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’m so glad that I saw the light
+And thank God that I made things right;
+I believe it is any time my friend,
+Look at the world, it’s as dark as the night.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh my friends ask Jesus today, to wash
+your sins away
+He'll hear your humble heart’s cry
+Look in God’s word and you'll find
+Him there.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Gott der Liebe! Ohne Hülle</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Johann Balthasar König</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Gott der Liebe! ohne Hülle
+Bist Du im Sohn geoffenbart.
+Schon unermesslich ist die Fülle,
+Die hier der Glaub' in Ihm gewahrt.
+Doch völlig wird das Herz erquickt,
+Wenn Deine Lieb' es ganz erblickt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du gabest einst – o welch Erbarmen!
+Den eignen Sohn für unsre Schuld.
+Jetzt trägst Du uns auf Vaterarmen
+Und leitest uns voll Treu' und Huld.
+Dein Lieben unvergleichlich ist,
+Du liebst uns, weil Du Liebe bist.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und welch ein Trost in allen Lagen,
+Dass Deine Treu' uns nie vergisst!
+Wie könnten jemals wir verzagen,
+Da Du, Gott, unser Vater bist!
+Vergäss' die Mutter selbst ihr Kind,
+Dein Lieben nie ein Ende find't.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Drum gehn wir freudig unsre Pfade
+Und harren aus in jedem Leid.
+Nie wanket Deine Lieb' und Gnade,
+Nie Deines Herzens Freundlichkeit.
+Drum Dank Dir, Vater, ewig Dank!
+Dich preise unser Lobgesang!</lines>
+    </verse>
+  </lyrics>
+</song>

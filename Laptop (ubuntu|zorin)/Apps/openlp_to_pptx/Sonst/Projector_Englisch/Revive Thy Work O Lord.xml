@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Revive Thy Work, O Lord!</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Midlane</author>
+      <author type="music">James McGranahan</author>
+      <author type="translation">Beleb dein Werk, o Herr</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Revive Thy work, O Lord!
+Now to Thy saints appear!
+Oh, speak with power to every soul,
+And let Thy people hear!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Revive Thy work, O Lord!
+While here to Thee we bow;
+Descend, O gracious Lord, descend!
+Oh, come, and bless us now!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Revive Thy work, O Lord!
+And every soul inspire;
+Oh, kindle in each heart, we pray,
+The Pentecostal fire!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Revive Thy work, O Lord!
+Exalt Thy precious name!
+And may Thy love in every heart
+Be kindled to a flame!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Revive Thy work, O Lord!
+And bless to all Thy Word!
+And may its pure and sacred truth
+In living faith be heard!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Revive Thy work, O Lord!
+And make Thy servants bold;
+Convict of sin and work once more
+As in the days of old.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Revive Thy work, O Lord!
+Give Pentecostal showers!
+Be Thine the glory, Thine alone!
+The blessing, Lord, be ours!</lines>
+    </verse>
+  </lyrics>
+</song>

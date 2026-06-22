@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dein Segen umhülle uns</title>
+    </titles>
+    <authors>
+      <author type="words">David Schnitter</author>
+      <author type="music">David Schnitter</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dein Segen umhülle uns.
+Herr, deine Hand zeige uns den Weg.
+Geh du voraus und steh uns bei.
+Dein Segen umhülle uns.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dein Segen bewahre uns.
+Herr, halte du Unglück von uns fern.
+Beschütze uns und stärke uns.
+Dein Segen bewahre uns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dein Segen begleite uns,
+wir woll'n gehorsam deine Wege gehn.
+Herr, stelle deine Engel um uns.
+Dein Segen begleite uns.</lines>
+    </verse>
+  </lyrics>
+</song>

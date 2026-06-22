@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Do You Know My Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Have you a heart that's weary
+Tending a load of care?
+Are you a soul that's seeking
+Rest from the burden you bear?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Do you know (Do you know) my Jesus?
+Do you know (Do you know) my Friend?
+Have you heard He loves you?
+And that He will abide'til the end?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Where is your heart, O, pilgrim,
+What does your light reveal;
+Who hears your call for comfort
+When naught but sorrow you feel?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Who knows your disappointments?
+Who hears each time you cry?
+Who understands your heartaches?
+Who dries the tears from your eyes?</lines>
+    </verse>
+  </lyrics>
+</song>

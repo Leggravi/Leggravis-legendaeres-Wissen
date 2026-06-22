@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come Fill My Heart</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come fill this void and emptiness
+Shine Your light on my darkness
+Satisfy and restore my soul
+I long for You to make me whole</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come quench this thirsting
+Lord, I am ready
+Here I am waiting, come fill my heart
+You are the only One who can fill me
+Here I am waiting, come fill my heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come fill my life, I am incomplete
+Let Your love rain down on me
+I need You more, Lord, I confess
+More of You and nothing less</lines>
+    </verse>
+  </lyrics>
+</song>

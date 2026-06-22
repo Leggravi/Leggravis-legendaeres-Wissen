@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Temple Made of Time</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God took six days, and created earth and moon the stars and sun
+On the seventh day, He rested from the work that He had done
+Then He blessed it, made it holy as a gift for every man
+To remind us where we came from and just how this world began</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy day purified, set apart, sanctified
+Enter in to joy divine, in a temple made of time</lines>
+    </verse>
+    <verse name="v3">
+      <lines>See Him worship on the Sabbath as His weekly custom was
+Feel the fury of the rabbis, for He would not heed their laws
+So they killed Him on a hillside as the sun began to fade
+But He even kept the Sabbath as they laid Him in the grave</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oft forsaken and forgotten, desecrated and profaned
+But the sacred fourth commandment is still valid and unchanged
+Hear the Father gently calling &quot;If you love Me, heed each one,
+Not for merit or salvation, but because you love My Son.&quot;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Holy day purified, set apart, sanctified
+Enter in to joy divine, in a temple made of time
+You will find joy divine, in this temple made of time</lines>
+    </verse>
+  </lyrics>
+</song>

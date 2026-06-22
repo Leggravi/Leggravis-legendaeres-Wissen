@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Asche wird zu Gold</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wenn ich dir mein Leben offenbar'
+Alles was sonst niemand kennt
+Würdest du dich dann fragen
+Ob ich's wert bin, dass du für mich weiter kämpfst?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So oft hab' ich dich enttäuscht
+Noch viel mehr hast du gezeigt
+Dass du mich niemals verlässt
+Dennoch kommen manchmal Zweifel
+Wollen nichts als meinen Ruin
+Wenn sie wüssten was geschieht
+Wenn du mich berührst</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Asche wird zu Gold
+Du machst alles neu
+Asche wird zu purem Gold
+Du machst alles neu
+Asche wird zu Gold</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Meine ganze Welt scheint gegen alles, was ich brauch'
+Immun zu sein
+Wird mich deine Liebe aus den Fängen meiner Ängste
+Je befreien?
+Ich bin frei denn</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Du hilfst mir zu glauben
+Meine Hoffnung
+Mich sehnt es nach deinem Herz
+Nur eine Berührung
+Deine Liebe
+Lässt mich deinen Herzschlag spüren</lines>
+    </verse>
+  </lyrics>
+</song>

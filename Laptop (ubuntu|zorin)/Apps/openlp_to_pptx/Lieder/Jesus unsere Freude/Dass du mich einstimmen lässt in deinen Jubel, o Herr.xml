@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:05">
+  <properties>
+    <titles>
+      <title>Dass du mich einstimmen lässt in deinen Jubel, o Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Kommunität Gnadenthal (1976)</author>
+      <author type="music">Kommunität Gnadenthal</author>
+    </authors>
+    <themes>
+      <theme>Dank</theme>
+      <theme>Kinderlieder</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, Du kennst meinen Weg, und Du ebnest die Bahn,
+und Du führst mich den Weg durch die Wüste.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Und Du reichst mir das Brot, und Du reichst mir den Wein,
+und Du bleibst selbst mein Begleiter.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und Du sendest den Geist, und Du machst mich ganz neu
+und erfüllst mich mit Deinem Frieden.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und nun zeig mir den Weg, und nun führ mich die Bahn,
+deine Liebe zu verkünden.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gib mir selber das Wort, öffne du mir das Herz,
+deine Liebe, Herr, zu schenken.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Und ich dank dir, mein Gott, und ich preise dich, Herr,
+und ich schenke dir mein Leben.</lines>
+    </verse>
+  </lyrics>
+</song>

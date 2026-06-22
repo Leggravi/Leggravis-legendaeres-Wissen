@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Face to Face</title>
+    </titles>
+    <authors>
+      <author type="words">Michael Fatkin</author>
+      <author type="music">Michael Fatkin</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3 v6 v3 v7 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Face to face,
+Brother to brother,
+Face to face,
+One friend to another,
+Growing together
+We're building the Kingdom of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Back to back,
+Shoulder to shoulder,
+Back to back,
+Serving each other,
+Working together
+We're building the Kingdom of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Brother to brother
+We'll strengthen each other
+And stand for the Truth
+Side by side;
+Brother to brother
+We'll honor each other
+And stand on
+The Kingdom on High.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Back to back,
+Warrior to warrior,
+Back to back,
+Defending each other,
+Standing together
+We're building the Kingdom of God;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Face to face,
+Shoulder to shoulder,
+Back to back,
+Younger and older,
+Growing together
+We're building the Kingdom of God.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Back to back,
+Warrior to warrior,
+Back to back,
+Defending each other,
+Growing together
+We're building the Kingdom…</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Working together
+We're building the Kingdom…
+Standing together
+We're building the Kingdom of God.</lines>
+    </verse>
+  </lyrics>
+</song>

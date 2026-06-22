@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Our God reigns</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our God is great and glorious
+We put our trust in your name, Jesus
+Able to save and deliver us
+We put our hope in Your name, Jesus…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your blessing and honor glory and power
+Unto our God forever and ever
+All of the honors, all of the praise is yours
+Yours forever…</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelujah…, hallelujah…
+Our God reigns
+Hallelujah…, hallelujah…
+Our God reigns</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And our God is mighty and marvelous
+We put our trust in Your name, Jesus
+There's nothing to fear You are here with us (oh, Lord)
+We put our hope in Your name, Jesus</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Blessing and honor (blessing and honor)
+Glory and power
+Unto our God
+Forever and ever
+All of the honors, all of the praise is yours
+Yours forever…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Our God is in control, steadfast, immovable
+Nothing is impossible, 'cause our God reigns forever
+Our God is in control, steadfast, immovable
+Nothing is impossible, 'cause our God reigns…</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hallelujah…, hallelujah…
+Our God
+Hallelujah…, hallelujah…
+Our God</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Our God is in control, steadfast, immovable
+Nothing is impossible, our God reigns forever
+Our God is in control, steadfast, immovable
+Nothing is impossible, our God reigns…</lines>
+    </verse>
+  </lyrics>
+</song>

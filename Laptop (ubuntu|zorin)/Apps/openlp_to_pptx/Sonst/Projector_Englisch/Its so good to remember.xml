@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It's so good to remember</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It’s so good to remember
+Your goodness oh God
+It’s so good to remember
+Your goodness oh God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You save my soul 
+And heal my broken body
+You came to die
+Just to set me free
+It’s so good to remember
+Your goodness oh God</lines>
+    </verse>
+  </lyrics>
+</song>

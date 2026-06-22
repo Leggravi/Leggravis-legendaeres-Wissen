@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Revive Us Again</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When You move, hearts awaken
+Broken lives will be redeemed
+Here and now, as in Heaven
+Let revival be released</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hear our cry
+Heal our land
+Oh God, we pray for revival
+What You've done before
+You can do again
+Oh God, we pray for revival</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God of grace, God of salvation
+We are desperate on our knees
+You can save this generation
+Let revival be released</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: Like a river running through the barren land
+Let mercy flow, revive us again
+Move in power, save us by Your mighty hand
+Let mercy flow, revive us again :/
+Revive us again</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hear our cry
+Heal our land
+Oh God, we pray for revival
+What You've done before
+You can do again
+Oh God, we pray for revival
+Oh God, we pray for revival
+Oh God, revive us again</lines>
+    </verse>
+  </lyrics>
+</song>

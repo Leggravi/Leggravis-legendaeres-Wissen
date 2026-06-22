@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:23">
+  <properties>
+    <titles>
+      <title>In Jesus will ich bleiben</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Friedrich Hiller (1767)</author>
+      <author type="music">Valet will ich dir geben</author>
+    </authors>
+    <ccliNo>6222729</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In Jesu will ich bleiben,
+das sei mein fester Sinn;
+von ihm soll mich nichts treiben,
+bis ich im Himmel bin.
+So kann ich freudig stehen
+in seiner Gegenwart,
+wenn wir ihn kommen sehen,
+dass er sich offenbart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So wird man nicht zuschanden
+vor seinem Angesicht;
+denn nur, die ihn nicht kannten,
+die kennt dort Jesus nicht.
+Wenn ich mich seiner Wunden
+Als ein Versöhnter rühm,
+werd ich in ihm erfunden
+und bleibe fest in ihm.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In ihm bin ich erwählet
+schon vorher, eh ich war,
+in ihm bin ich gezählet
+zu der berufnen Schar;
+in ihm, in ihm alleine
+bin ich gerecht geacht't;
+in ihm hoff ich das Eine:
+dass er mich herrlich macht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herr, bleibe du beständig
+mit deiner Kraft in mir,
+so macht mich nichts abwendig,
+ich bleibe stets in dir.
+Nun muss ich mich nicht scheuen,
+wenn du dich offenbarst;
+du wirst mich ganz erneuen,
+weil, du, Herr in mir warst.</lines>
+    </verse>
+  </lyrics>
+</song>

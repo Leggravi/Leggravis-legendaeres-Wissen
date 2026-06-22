@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hab Dank von Herzen Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Mirjana Angelina</author>
+      <author type="music">Henry Smith</author>
+      <author type="translation">Give thanks with a grateful heart</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hab Dank von Herzen Herr, hab Dank du Heiliger,
+hab Dank, denn du gabst Jesus Christus deinen Sohn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In ihm spricht der Schwache „Ich bin stark“
+und der Arme „ich bin reich“
+denn was er am Kreuz getan ist mein.
+In ihm spricht der Schwache „Ich bin stark“
+und der Arme „ich bin reich“
+denn was er am Kreuz getan ist mein. Hab Dank</lines>
+    </verse>
+  </lyrics>
+</song>

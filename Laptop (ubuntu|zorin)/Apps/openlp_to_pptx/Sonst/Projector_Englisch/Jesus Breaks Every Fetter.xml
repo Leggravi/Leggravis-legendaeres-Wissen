@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Breaks Every Fetter</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am now on the altar,
+I am now on the altar,
+I am now on the altar
+Which was made for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus breaks every fetter,
+Jesus breaks every fetter,
+Jesus breaks every fetter,
+For He sets me free!
+(I will ever, ever praise Him…)
+(I will give God the glory…)
+(I will shout Hallelujah…)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will never doubt my Saviour,
+I will never doubt my Saviour,
+I will never doubt my Saviour,
+For He cleanses me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will rest on His promise,
+I will rest on His promise,
+I will rest on His promise,
+Which is given to me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>On the other side of Jordon,
+In the sweet fields of Eden
+Where the Tree of Life is blooming,
+There is rest for me.</lines>
+    </verse>
+  </lyrics>
+</song>

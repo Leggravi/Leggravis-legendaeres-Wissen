@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Gottes Lamm, für Sünder hingeschlachtet</title>
+    </titles>
+    <authors>
+      <author type="words">Julius Anton von Poseck</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Gottes Lamm,
+Für Sünder hingeschlachtet!
+Die Erde, die Du schufst, ach! sie trug Dein Kreuz.
+Wer führte Dich herab,
+In Armut, Elend, Tod und Grab?
+Wir, Herr, die Dir gegeben
+Dein Gott, mit Dir zu leben,
+Mit Dir zu thronen ewiglich.
+O Herr, wir preisen Dich!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Gottes Lamm,
+Du Quelle aller Freuden,
+Bist unser, wir sind Dein, jetzt und ewiglich.
+Hast teuer uns erkauft
+Und uns mit Deinem Geist getauft.
+Die Liebe zog Dich nieder,
+Sie zieht zu Dir uns wieder.
+Was wär' der Himmel ohne Dich,
+Und alle Herrlichkeit?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Komm, Jesu, komm!
+Wir sehnen uns, zu schauen
+Dein Antlitz, teurer Herr, der uns Gott erkauft,
+Und der, des Vaters Bild,
+Sein Herz und Seinen Himmel füllt.
+Wir seufzen Dir entgegen
+Auf fremden Erdenwegen,
+Bis unser Lob Dir voll ertönt,
+O Lamm, das uns versöhnt!</lines>
+    </verse>
+  </lyrics>
+</song>

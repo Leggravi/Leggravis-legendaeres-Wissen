@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 10, 2019, 10:31:19 PM">
+  <properties>
+    <titles>
+      <title>When I Cry</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Makin' a list of all of the good things
+You've done for me
+Lord, I've never been one to complain
+But right now I'm lost
+And I can't find my way
+My world's come apart
+And it's breakin' my heart
+But it helps to know
+Your heart is breakin' too</lines>
+    </verse>
+    <verse name="C2">
+      <lines>When I cry, You cry
+When I hurt, You hurt
+When I've lost someone
+It takes a piece of You, too
+And when I fall on my face
+You fill me with grace
+'Cause nothin' breaks Your heart
+Or tears You apart like when I cry</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Alone in the dark, face in my hands,
+Crying out to You
+Lord, there's never been a time in my life
+There's so much at stake,
+there's so much to lose
+But I trust it to You,
+You'll bring me through
+And it helps me to know
+that I'm not alone</lines>
+    </verse>
+    <verse name="V4">
+      <lines>You're the one
+Who calmed the raging sea
+You're the one
+Who made the blind to see
+You looked through all
+of heaven and eternity
+And through it all you saw me…</lines>
+    </verse>
+  </lyrics>
+</song>

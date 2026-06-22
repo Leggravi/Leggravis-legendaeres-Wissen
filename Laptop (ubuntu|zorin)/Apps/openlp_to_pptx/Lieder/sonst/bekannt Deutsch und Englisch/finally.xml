@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Nov 3, 2019, 7:33:40 PM">
+  <properties>
+    <titles>
+      <title>Finally</title>
+    </titles>
+    <verseOrder>V1 V2 C3 V4 C3 V5 C6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>(Male vocal)
+There’s the bridegroom waiting for His beautiful bride
+And finally she’s coming walking up the aisle
+And the love that’s shining in his eyes
+Cannot be described
+He's filled with joy inside
+As he beholds his lovely bride</lines>
+    </verse>
+    <verse name="V2">
+      <lines>(Female vocal)
+She can hardly take her breath
+With every step she takes to him
+She can hardly believe it’s happening
+She’s uniting with her king
+For a long, long time she’s waited
+For their wedding day to come
+And her joy is overwhelming
+As she comes to meet her love</lines>
+    </verse>
+    <verse name="C3">
+      <lines>Finally, The waiting time is over
+And uniting time has come
+Finally, They’ll no longer be apart
+This is a tie no man can sever
+For before the world began
+They were one in God’s plan</lines>
+    </verse>
+    <verse name="V4">
+      <lines>(Male vocal)
+With his eyes he promises she’ll never regret
+He’ll make sure that she’s happy
+For her he’d give his last breath
+(Female vocal
+And with her smile she’s telling him
+That she will always care
+Through happiness or sorrow
+She’ll always be there</lines>
+    </verse>
+    <verse name="V5">
+      <lines>The crowd disappears
+°They’re lost in their love
+They’re entranced by each other
+And time is no more</lines>
+    </verse>
+    <verse name="C6">
+      <lines>Finally
+The waiting time is over
+And uniting time has come
+Finally
+They’ll no longer be apart
+This is a tie no man can sever
+For before the world began
+Before there was an atom
+They were one in God’s plan
+They were joined by the potter’s hand
+And what God has joined together
+No man can put asunder
+La la la la la la la la la la la la la la</lines>
+    </verse>
+  </lyrics>
+</song>

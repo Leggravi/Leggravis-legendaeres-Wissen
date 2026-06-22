@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Schenk uns Zeit</title>
+    </titles>
+    <authors>
+      <author type="words">Rolf Krenzer</author>
+      <author type="music">Roberto Confucio</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Schenk uns Zeit, schenk uns Zeit, Zeit aus deiner Ewigkeit. Schenk uns Zeit, schenk uns Zeit, Zeit aus deiner Ewigkeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zeit zum Nehmen, Zeit zum Geben, Zeit zum miteinander Leben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Schenk uns Zeit, schenk uns Zeit, Zeit aus deiner Ewigkeit. Schenk uns Zeit, schenk uns Zeit, Zeit aus deiner Ewigkeit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zeit zum Trinken, Zeit zum Essen, Zeit, um keinen zu vergessen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Schenk uns Zeit, schenk uns Zeit, Zeit aus deiner Ewigkeit. Schenk uns Zeit, schenk uns Zeit, Zeit aus deiner Ewigkeit.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Zeit zum Beten, Zeit zum Klagen, Zeit, dir, Gott, auch Dank zu sagen.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Schenk uns Zeit, schenk uns Zeit, Zeit aus deiner Ewigkeit. Schenk uns Zeit, schenk uns Zeit, Zeit aus deiner Ewigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

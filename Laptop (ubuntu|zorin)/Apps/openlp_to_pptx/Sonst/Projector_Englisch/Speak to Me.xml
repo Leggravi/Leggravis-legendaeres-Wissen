@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Speak to Me</title>
+    </titles>
+    <authors>
+      <author type="words">Frances Ridley Havergal</author>
+      <author type="music">Henry Baker</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am your servant
+And I am listening
+Speak to me Lord, speak to me
+I need your wisdom
+And truth and comfort
+Speak to me Lord, speak to me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Speak to me, speak to me
+Through your word, through your spirit
+Speak your words of life
+Speak to me, speak to me
+I am listening, I am waiting
+Speak to me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I am your servant
+And I am listening
+Speak to me Lord, speak to me
+My heart is silent
+My soul is longing</lines>
+    </verse>
+  </lyrics>
+</song>

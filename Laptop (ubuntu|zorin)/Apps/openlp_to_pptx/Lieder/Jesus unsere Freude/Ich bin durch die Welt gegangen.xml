@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:12">
+  <properties>
+    <titles>
+      <title>Ich bin durch die Welt gegangen</title>
+    </titles>
+    <authors>
+      <author type="words">Eleonore zu Stolberg-Wernigerode (1867)</author>
+      <author type="music">Karl Kuhlo</author>
+    </authors>
+    <ccliNo>4353195</ccliNo>
+    <themes>
+      <theme>Lebensweg</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich bin durch die Welt gegangen,
+und die Welt ist schön und groß,
+und doch ziehet mein Verlangen
+mich weit von der Erde los.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich habe die Menschen gesehen,
+und sie suchen spät und früh,
+sie schaffen, sie kommen und gehen,
+und ihr Leben ist Arbeit und Müh.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sie suchen, was sie nicht finden,
+in Liebe und Ehre und Glück,
+und sie kommen belastet mit Sünden
+und unbefriedigt zurück.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Es ist eine Ruh vorhanden
+für das arme müde Herz;
+sagt es laut in allen Landen:
+Hier ist gestillet der Schmerz.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Es ist eine Ruh gefunden
+für alle, fern und nah,
+in des Gotteslammes Wunden,
+am Kreuze auf Golgatha.</lines>
+    </verse>
+  </lyrics>
+</song>

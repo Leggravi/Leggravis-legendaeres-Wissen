@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hier, hier bin ich, Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Birgit Minichmayr</author>
+      <author type="music">Birgit Minichmayr</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hier, hier bin ich, Herr,
+ich bin dein Diener, gehöre dir.
+Hier, hier bin ich, Herr,
+dich zu hören bin ich hier.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Weise mir, Herr deinen Weg,
+dass ich wandle in deiner Wahrheit.
+Erhalte mein Herz bei dem allein,
+dass ich deinen Namen fürchte.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hier, hier bin ich, Herr,
+ich bin dein Diener, gehöre dir.
+Hier, hier bin ich, Herr,
+Ich will Dir folgen, vertraue Dir.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lieben will ich, wer feindlich mir ist,
+bitten für ihn um Gnade.
+Segnen, wer flucht, retten wer sucht,
+und Gutes tun denen, die hassen.</lines>
+    </verse>
+  </lyrics>
+</song>

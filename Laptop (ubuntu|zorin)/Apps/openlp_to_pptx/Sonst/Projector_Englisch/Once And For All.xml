@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Once And For All</title>
+    </titles>
+    <authors>
+      <author type="words">Lauren Daigle</author>
+      <author type="music">Lauren Daigle</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God I give You what I can today
+These scattered ashes that I hid away
+I lay them all at Your feet
+From the corners of my deepest shame</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The empty places where I've worn Your name
+Show me the love I say I believe
+Oh Help me to lay it down
+Oh Lord I lay it down</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh let this be where I die
+My Lord with Thee crucified
+Be lifted high as my kingdom's fall
+Once and for all, once and for all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There is victory in my Saviors loss
+And in the crimson flowing from the cross
+Pour over me, pour over me yes</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh Lord I lay it down
+Oh Lord I lay it down
+Help me to lay it down
+Oh Lord I lay it down</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh let this be where I die
+My Lord with Thee crucified
+Be lifted high as my kingdom's fall
+Once and for all
+Once and for all
+Oh once and for all
+Once and for all</lines>
+    </verse>
+  </lyrics>
+</song>

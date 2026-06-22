@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Bible and I</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My Bible and I
+My Bible and I
+What a wonderful treasure
+God gave without measure
+We are travelling together
+My Bible and I</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My Jesus and I
+My Jesus and I
+What a wonderful Saviour
+God gave without measure
+We are travelling together
+My Jesus and I</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy Spirit and I
+Holy Spirit and I
+What a wonderful comforter
+God gave without measure
+We are travelling together
+Holy Spirit and I</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My Sister and I
+My Sister and I
+What a wonderful treasure
+God gave without measure
+We are travelling together
+My Sister and I.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My Brother and I
+My Brother and I
+What a wonderful treasure
+God gave without measure
+We are travelling together
+My Brother and I.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>My Prophet and I
+My Prophet and I
+What a wonderful treasure
+God gave without measure
+We are travelling together
+My Prophet and I.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>My Pastor and I
+My Pastor and I
+What a wonderful treasure
+God gave without measure
+We are travelling together
+My Pastor and I.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>My Deacon and I
+My Deacon and I
+What a wonderful treasure
+God gave without measure
+We are travelling together
+My Deacon and I.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>My Trustee and I
+My Trustee and I
+What a wonderful treasure
+God gave without measure
+We are travelling together
+My Trustee and I.</lines>
+    </verse>
+  </lyrics>
+</song>

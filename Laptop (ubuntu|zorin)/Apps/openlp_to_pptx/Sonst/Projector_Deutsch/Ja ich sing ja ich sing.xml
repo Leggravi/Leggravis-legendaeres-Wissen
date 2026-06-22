@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ja ich sing; ja ich sing</title>
+    </titles>
+    <authors>
+      <author type="words">Jugend mit einer Mission</author>
+      <author type="music">Max Dyer</author>
+      <author type="translation">I will sing, I will sing</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ja ich sing; ja ich sing ein Lied zu meinem Herrn!
+Ja ich sing; ja ich sing ein Lied zu meinem Herrn!
+Ja ich sing; ja ich sing ein Lied zu meinem Herrn!
+Halleluja, Ehre sei dem Herrn!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Halleluja, Halleluja, Ehre sei dem Herrn!
+Halleluja, Halleluja, Ehre sei dem Herrn!
+Halleluja, Halleluja, Ehre sei dem Herrn!
+Halleluja, Ehre sei dem Herrn!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jedes Knie muss sich beugen, jede Zunge soll bekennen.
+Jedes Knie muss sich beugen, jede Zunge soll bekennen.
+Jedes Knie muss sich beugen, jede Zunge soll bekennen.
+Dass Jesus Christus ist der Herr!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nur sein Name, sein Name bringt uns allen Sieg.
+Nur sein Name, sein Name bringt uns allen Sieg.
+Nur sein Name, sein Name bringt uns allen Sieg.
+Halleluja, Ehre sei dem Herrn!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kommen wir, kommen wir zum Herrn, dann sind wir eins.
+Kommen wir, kommen wir zum Herrn, dann sind wir eins.
+Kommen wir, kommen wir zum Herrn, dann sind wir eins.
+Halleluja, Ehre sei dem Herrn!</lines>
+    </verse>
+  </lyrics>
+</song>

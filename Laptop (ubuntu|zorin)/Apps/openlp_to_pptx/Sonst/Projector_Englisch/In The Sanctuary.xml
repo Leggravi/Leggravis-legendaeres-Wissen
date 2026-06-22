@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In The Sanctuary</title>
+    </titles>
+    <authors>
+      <author type="words">Kurt Carr</author>
+      <author type="music">Kurt Carr</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We have a high priest up in heaven,
+Hallelujah, oh Hallelujah
+He's our Defender before the Father
+In a temple made by God, not man.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Behind the veil in a place Most
+Holy. Hallelujah, oh Hallelujah
+Investigating, He clears the record,
+Of those redeemed by His own blood.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He's blotting out my sin
+In the sanctuary
+He seals my bond with Him
+In the Sanctuary up in heaven
+He makes provision for me
+In the Sanctuary</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He's purifying heaven's temple
+Hallelujah, oh Hallelujah
+In preparation for His returning
+For those who love and follow him</lines>
+    </verse>
+    <verse name="v5">
+      <lines>At the mercy seat, in the Holy of Holies
+In the Holy of Holies we meet</lines>
+    </verse>
+  </lyrics>
+</song>

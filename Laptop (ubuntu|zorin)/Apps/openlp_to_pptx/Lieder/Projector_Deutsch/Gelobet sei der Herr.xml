@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gelobet sei der Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Thomas Blarer</author>
+      <author type="music">Erfurt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1) Gelobet sei der Herr,
+mein Gott, mein Licht, mein Leben,
+mein Schöpfer, der mir hat
+mein Leib und Seel gegeben,
+mein Vater, der mich schützt
+von Mutterleibe an,
+der alle Augenblick
+viel Guts an mir getan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2) Gelobet sei der Herr,
+mein Gott, mein Heil, mein Leben,
+des Vaters liebster Sohn,
+der sich für mich gegeben,
+der mich erlöset hat
+mit seinem teuren Blut,
+der mir im Glauben schenkt
+das allerhöchste Gut.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3) Gelobet sei der Herr,
+mein Gott, mein Trost, mein Leben,
+des Vaters werter Geist,
+den mir der Sohn gegeben,
+der mir mein Herz erquickt,
+der mir gibt neue Kraft,
+der mir in aller Not Rat,
+Trost und Hilfe schafft.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4) Gelobet sei der Herr,
+mein Gott, der ewig lebet,
+den alles lobet, was
+in allen Lüften schwebet;
+gelobet sei der Herr,
+des Name heilig heißt,
+Gott Vater, Gott der Sohn
+und Gott der werte Geist.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5) Dem wir das Heilig jetzt
+mit Freuden lassen klingen
+und mit der Engelschar
+das Heilig, Heilig singen,
+den herzlich lobt und preist
+die ganze Christenheit:
+Gelobet sei mein Gott
+in alle Ewigkeit!</lines>
+    </verse>
+  </lyrics>
+</song>

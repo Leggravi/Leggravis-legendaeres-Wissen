@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All Present and Accounted For</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One by one they join the chorus
+Of the redeemed, the saints of the Lord
+Gather together in one accord
+All present and accounted for</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No one is missing, No one left behind
+Each name is listed in the lambs book of life
+What a great celebration as the Father reports
+All present and accounted for</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh the joy and all the surprises
+The family they claimed now stand by their side
+Finally united forevermore
+He says all present and accounted for</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When the roll is called up yonder,
+When the roll is called up yonder,
+When the roll is called up yonder.</lines>
+    </verse>
+  </lyrics>
+</song>

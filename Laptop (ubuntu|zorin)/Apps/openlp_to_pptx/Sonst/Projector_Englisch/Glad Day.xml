@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Glad Day</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Glad day when I was born again
+Glad day when I was born again
+Glad day when I was born again
+It was a glad day when I was born again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The sins I used to do, I do them no more,
+The sins I used to do, I do them no more,
+The sins I used to do, I do them no more,
+It was glad day when I was born again.</lines>
+    </verse>
+  </lyrics>
+</song>

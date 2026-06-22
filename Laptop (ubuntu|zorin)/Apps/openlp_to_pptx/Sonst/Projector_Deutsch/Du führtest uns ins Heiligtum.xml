@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du führtest uns ins Heiligtum</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Was Gott tut, das ist wohlgetan</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du führtest uns ins Heiligtum,
+Nicht sind wir mehr geschieden,
+Wir singen Deines Namens Ruhm
+Und beten an in Frieden.
+O Liebesglut!
+Du gabst Dein Blut.
+Von Sünd' sind wir gereinigt
+Und sind mit Dir vereinigt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nichts trennt uns mehr. Des Vaters Herz
+Ist uns in Dir geschenket –
+Das Herz, das stets in Leid und Schmerz
+So liebend an uns denket.
+Es hebt und trägt,
+Es sorgt und pflegt,
+Es segnet ohn' Ermüden,
+Versäumet keins hienieden.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wie unaussprechlich ist die Gnad',
+Wie reich die Segensfülle,
+Die stets erhellet unsern Pfad
+Und macht das Herz so stille!
+O gib, dass wir
+Im Glauben hier
+Auf Dich, o Jesu, sehen
+Und Deine Lieb' verstehen!</lines>
+    </verse>
+  </lyrics>
+</song>

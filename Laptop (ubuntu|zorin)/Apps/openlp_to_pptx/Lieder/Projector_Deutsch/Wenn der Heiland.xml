@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wenn der Heiland</title>
+    </titles>
+    <authors>
+      <author type="words">Ernst Heinrich Gebhardt</author>
+      <author type="music">George Frederick Root</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wenn der Heiland, wenn der Heiland
+als König erscheint und die Seinen
+als Erlöste im Himmel vereint.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O dann werden sie glänzen,
+wie Sterne so rein, in des Heilandes Krone
+als Edelgestein!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Er wird sammeln, Er wird sammeln
+zur heiligen Schar all die Seelen,
+die im Blute sich wuschen recht klar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und die Kindlein und die Kindlein
+zieht Er an die Brust, die Ihm kindlich ihre Herzen
+hier schenken voll Lust.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Drum, ihr Großen und ihr Kleinen,
+gebt Jesu das Herz! Er macht selig,
+Er macht herrlich, Er führt himmelwärts.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Till He Comes</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's work to be done lots of victories to be won
+There's joys up the road that have never yet been told
+There's a mansion awaiting me in that land by faith I see
+And I'm a gonna keep on working till he comes</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm gonna keep on a working' till He comes, till He comes
+There's nothing' in this world worth turning around to see
+My eyes are on the prize that's awaiting' me by and by
+And I'm gonna keep on working till He comes, oh yes</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's a message to be preached, there are souls to be reached
+There are hungry to be fed little children to be led
+There's a river flowing' free for the soul who's in need
+And I'm gonna keep on preaching till he comes</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There are songs from above that are filled with joy and love
+There are melodies of His peace that make the turmoil cease
+There are gifts from above that assure me of His love
+And I'm gonna keep on singing till He comes</lines>
+    </verse>
+  </lyrics>
+</song>

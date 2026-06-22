@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Tears are a language God understands</title>
+    </titles>
+    <authors>
+      <author type="words">Gordon Jensen</author>
+      <author type="music">Gordon Jensen</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Often you wonder why
+Tears come into your eyes
+And burdens seem to be much more than you can stand
+But God is standing near
+He sees your falling tears
+Tears are a language God understands</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God sees the tears of a broken hearted soul
+He sees your tears and hears them when they fall
+God weeps along with man and takes Him by the hand
+Tears are a language God understands</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When grief has left you low
+It causes tears to flow
+And things have not turned out the way that you had planned
+But God won't forget you
+His promises are true
+Tears are a language God understands</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, du hast uns erworben</title>
+    </titles>
+    <authors>
+      <author type="words">Jacques Erné</author>
+      <author type="music">O Haupt voll Blut und Wunden</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, Du hast uns erworben,
+Erkauft mit Deinem Blut.
+Du bist für uns gestorben,
+Du machtest alles gut.
+Dein Tod ist unser Leben,
+Du trugst die ganze Schuld,
+Hast selbst Dich uns gegeben.
+Preis Dir für solche Huld!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kein Tod kann uns nun schrecken.
+Wer glaubt, der stirbt nicht mehr,
+Du wirst ihn auferwecken
+Bei Deiner Wiederkehr.
+&quot;Ich leb' - und ihr sollt leben&quot;,
+So hast Du einst gesagt,
+Wirst uns zu Dir erheben,
+Noch eh' der Morgen tagt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dann wird auch das verschlungen,
+Was sterblich jetzt noch ist.
+Du hast den Sieg errungen,
+Der Du das Leben bist.
+Drum komm, lass Dein Erscheinen
+In einem sel'gen Nu
+Uns allesamt vereinen
+Bei Dir in ew'ger Ruh'!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Not By Might</title>
+    </titles>
+    <authors>
+      <author type="words">Robin Mark</author>
+      <author type="music">Robin Mark</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Not by might, nor by power,
+But by my Spirit saith the Lord.
+Not by might, nor by power,
+But by my Spirit saith the Lord.
+This mountain shall be removed
+This mountain shall be removed
+This mountain shall be removed
+By my Spirit saith the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

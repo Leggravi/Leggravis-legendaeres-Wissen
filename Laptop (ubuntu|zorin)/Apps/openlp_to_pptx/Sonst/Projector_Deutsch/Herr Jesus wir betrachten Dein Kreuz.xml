@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr Jesus, wir betrachten Dein Kreuz</title>
+    </titles>
+    <authors>
+      <author type="words">Eduard Kogut</author>
+      <author type="music">William Wheall</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr Jesus, wir betrachten
+Dein Kreuz auf Golgatha,
+wo einst in tiefster Mühsal
+Dein Liebeswerk geschah.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verlassen von den Mengen,
+die Deine Huld geschmeckt,
+geschlagen und gegeißelt,
+mit Schmach und Hohn bedeckt,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>gekrönt zum Spott mit Dornen,
+kein Jünger folgte mehr,
+verraten und verleugnet,
+nur Feinde um Dich her,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>so ginst Du hin zum Kreuze
+als Gottes treuer Knecht,
+durch ew’ge Lieb‘ getrieben,
+gehorsam und gerecht.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dort wurdest Du verlassen
+von Ihm, dem heilgen Gott.
+Wer kann Dein Weh erfassen
+und Deiner Seele Not?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Den lohn, den wir verdienet
+für unsre Missetat,
+den musstest Du empfangen
+nach Gottes ew’gem Rat.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Du hast für uns, die Armen,
+so Herrliches getan.
+Wir rühmen Dein Erbarmen
+und beten dankend an.</lines>
+    </verse>
+  </lyrics>
+</song>

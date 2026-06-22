@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Restoring My Altar</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm searching for salvation once again
+Living in this world
+Full of wickedness and guilt
+My life has ruined by the cares of this world.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I gave myself, my whole life to you
+There's nothing in this life compares with you
+I love you, I want you and I need you
+Your words are your promises I stand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Restoring my heart
+Restoring my altar
+Restoring my faith that lost again
+I give you my heart
+I give you my soul that was broken</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For you are my peace
+You are my hope
+You are the love inside of me
+You are my joy
+You are my everything to me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nothing can separate us from the love of God
+For you are my altar
+My everything to me.</lines>
+    </verse>
+  </lyrics>
+</song>

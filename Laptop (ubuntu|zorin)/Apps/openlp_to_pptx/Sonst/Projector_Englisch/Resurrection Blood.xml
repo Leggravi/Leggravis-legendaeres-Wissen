@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Resurrection Blood</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Maher</author>
+      <author type="music">Matt Maher</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v4 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na, na, na, na, na
+Na, na, na, na, na
+Na, na, na, na, na</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, I was a dead man walking on a dead end road
+Just a soul free falling with no place to go
+I heard Jesus knocking and He called me home
+Now His Spirit's living deep inside these bones</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I've got resurrection blood flowing in my veins
+Flowing in my veins
+I found resurrection life in a hollow grave
+In a hollow grave
+I see resurrection power when I speak Your name
+When I speak Your name
+I've got resurrection blood flowing in my veins
+Flowing in my veins</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, all my chains went falling when He saved my soul
+All my fears went running from the Holy Ghost
+Hallelujah all my sins are white as snow
+Now my freedom's anchored in that crimson's flow</lines>
+    </verse>
+    <verse name="v5">
+      <lines>See that stone rolled away see that conquered empty grave
+Demons flee darkness shakes at the sound of Jesus' name
+No more fear no more shame by His death my debt is paid
+Now I rise now I'm changed I'm alive in Jesus' name</lines>
+    </verse>
+  </lyrics>
+</song>

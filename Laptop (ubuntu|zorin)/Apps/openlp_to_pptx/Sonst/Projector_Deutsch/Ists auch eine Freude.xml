@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ist's auch eine Freude</title>
+    </titles>
+    <authors>
+      <author type="words">Christian Rudolf Flad</author>
+      <author type="music">Hans Georg Nägeli</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ist's auch eine Freude,
+Mensch geboren sein?
+Darf ich mich auch heute
+meines Lebens freun?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wo so viele Tränen,
+so viel Angst und Not,
+so viel banges Sehnen,
+Schmerz und endlich Tod?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja, es wär zum Weinen,
+wenn kein Heiland wär;
+aber Sein Erscheinen
+bracht den Himmel her.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wer zu Ihm kann sagen;
+&quot;Mein Gott und mein Herr!&quot;
+darf ja nimmer klagen,
+stets wird's herrlicher.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ich hab selge Stunden
+oft bei dir, o Herr,
+aus dir Kraft empfunden,
+wenn mein Herz war schwer.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hast mir viel gegeben,
+mir, dem schnöden Kind,
+neue Gnad gegeben mir,
+der schlecht gedient.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ist's nicht so auf Erden
+gut, ein Mensch zu sein?
+Wagt's auch, ihr Gefährten,
+euch dem Herrn zu weihn!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Wüsstens's doch die Leute,
+wie's beim Heiland ist,
+sicher würde heute
+mancher noch ein Christ.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Doch hat bei der Freude
+auch der Christ viel Schmerz;
+aber auch bei Leide
+blickt er himmelwärts.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Und vom Himmel nieder
+blickt sein Herr ihn an,
+dass er fröhlich wieder
+weiter pilgern kann.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Endlich kommt er leise,
+nimmt uns bei der Hand,
+führt uns von der Reise
+heim ins Vaterland.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Dann ist's ausgerungen,
+ach, dann sind wir da,
+wo Ihm wird gesungen
+ein Viktoria!</lines>
+    </verse>
+  </lyrics>
+</song>

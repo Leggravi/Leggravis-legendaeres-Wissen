@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nothing Between – v2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nothing between my soul and the Saviour,
+Naught of this world’s delusive dream:
+I have renounced all sinful pleasure,
+Jesus is mine, there’s nothing between.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nothing between my soul and the Saviour,
+So that His blessed face may be seen;
+Nothing preventing the least of His favor,
+Keep the way clear! Let nothing between.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nothing between like worldly pleasure;
+Habits of life, though harmless they seem,
+Must not my heart from Him ever sever;
+He is my all, there’s nothing between.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nothing between, like pride or station;
+Self or friends shall not intervene;
+Though it may cost me much tribulation,
+I am resolved, there’s nothing between.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nothing between, e’en many hard trials.
+Though the whole world against me convene;
+Watching with prayer and much self-denial,
+I’ll triumph at last, with nothing between.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When I Am Gone</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Will anybody know I've been here when I'm gone
+Will anything that I've done here live on
+Every man's allowed just so much time
+And all you take along is what you leave behind.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Will anybody know I've been here when I'm gone
+When I'm gone, when I'm gone
+Oh, will anybody know I've been here
+When I'm gone?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Will anybody cry just a little bit when I'm gone
+Will anybody cry just a little bit when I'm gone
+Will the things I've tried so hopefully
+All turn to dust alongside of me?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Will anybody know I've been here when I'm gone
+When I'm gone, when I'm gone
+Oh, will anybody know I've been here
+When I'm gone?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Will anybody think about me when I'm gone
+Will anybody ever remember me when I'm gone
+Will they call me failure or success
+Did I really live or just exist?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Will anybody know I've been here when I'm gone
+When I'm gone when I'm gone
+Oh, will anybody know I've been here
+When I'm gone?</lines>
+    </verse>
+  </lyrics>
+</song>

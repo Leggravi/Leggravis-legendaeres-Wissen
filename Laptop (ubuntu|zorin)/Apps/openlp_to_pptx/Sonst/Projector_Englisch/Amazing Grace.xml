@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Amazing Grace</title>
+    </titles>
+    <authors>
+      <author type="words">John Newton</author>
+      <author type="music">Southern Folk Melody</author>
+      <author type="translation">O Gnade Gottes, wunderbar</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I saw the S-U-N go down yesterday
+And in its place darkness appeared
+I saw the grains of wheat
+Awaiting the Sun's return
+Without the promise of the Sun light
+They know they'll surely die.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And after time and time had passed
+I saw a little sunlight at last
+A little more then a little more
+Then a little more sunlight than before.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>But at the breaking of a brand new dawn
+I saw the fullness, the risen Son
+I remember what God had done for me
+When He took my sins to calvary.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thank You for a faithful resurrection
+Oh what a blessed consolation
+When I found nothing of worth in me
+You broke the seals of calvary</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Amazing grace how sweet the song
+I was lost but now am found
+And there is nothing going wrong
+Thank You, Lord, for the rising of the Son.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I saw the S-O-N go down at Nicea Rome
+Before Paul left at Ephesus
+He said there'll appear grievous wolves
+The serpent found a way to break the Son's influence
+He preached his doctrines of lies</lines>
+    </verse>
+    <verse name="v7">
+      <lines>So down and down the gospel went
+He showed a little light in Smyrna
+And many saw Him at Pergamos
+But less light in Thyatira age
+And Luther saw Him in Sardis age.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>It was 1750, a man by the name John Wesley
+He caught a little Son light in Philadelphia
+And many saw It at Laodecia</lines>
+    </verse>
+    <verse name="v9">
+      <lines>But at the breaking of a brand new dawn
+the Son came clothed in a Cloud
+With one foot on sea and one on land
+The fullness of the Son was in the Son of man</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Thanks for Revelation 10: 7
+That man called William Branham
+He took the mystery of the risen Son
+To every kindred and nation</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Amazing grace how sweet the song
+They that were lost then they were found
+He give the blind the eyes to see
+And they were thankful for the rising of the Son.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Amazing grace how sweet the song
+They that were lost then they were found
+He broke the bondage upon our lives
+And present us as the Lamb's wife</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Amazing grace how sweet the song
+They that were lost then they were found
+He broke the seals upon our lives
+And present us as the Lamb's wife</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Amazing grace how sweet the song
+They that were lost then they were found
+He given us the eyes to see
+That we're the Son's beneficiaries.</lines>
+    </verse>
+  </lyrics>
+</song>

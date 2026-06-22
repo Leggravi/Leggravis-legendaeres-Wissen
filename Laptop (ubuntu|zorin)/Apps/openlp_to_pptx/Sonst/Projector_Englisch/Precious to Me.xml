@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Precious to Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v7 v8 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I want You more than my comfort
+I want You more than my needs
+Holy Spirit, You are so precious to me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I want You more than success
+I want You more than my dreams
+Holy Spirit, You are so precious to me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You make Your home here in my heart
+Here in my praises, as I lift You up
+This is my home, here in Your house
+Here in Your presence as I lift You up</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Holy, holy, holy is the Lord
+Be lifted up, be lifted up, exalted over all</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I want You whatever it costs me
+I want You, You're all that I seek
+Holy Spirit, You are so precious to me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Holy, holy, holy is the Lord
+Be lifted up, be lifted up, exalted over all
+Holy, holy, holy is the Lord
+Be lifted up, be lifted up, exalted over all</lines>
+    </verse>
+    <verse name="v7">
+      <lines>We value, we honour Your presence, Your power
+Inhabit the praise of Your people oh Holy One
+We value, we honour Your presence, Your power
+Inhabit the praise of Your people oh Holy One</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Holy, holy, holy is the Lord
+Be lifted up, be lifted up, exalted over all
+Be lifted up, be lifted up, exalted over all
+Be lifted up, be lifted up, exalted over all</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr deine Liebe ist wie Gras und Ufer</title>
+    </titles>
+    <authors>
+      <author type="words">Ernst Hansen</author>
+      <author type="music">Lars Ake Lundberg</author>
+      <author type="translation">The love of God is broad like beach and meadow</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, deine Liebe ist wie Gras und Ufer,
+Wie Wind und Weite und wie ein Zuhaus.
+Frei sind wir, da zu wohnen und zu gehen.
+Frei sind wir, ja zu sagen oder nein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr, deine Liebe ist wie Gras und Ufer,
+Wie Wind und Weite und wie ein Zuhaus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir wollen Freiheit, um uns selbst zu finden,
+Freiheit, aus der man etwas machen kann,
+Freiheit, die auch noch offen ist für Träume,
+Wo Baum und Blume Wurzeln schlagen kann.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herr, deine Liebe ist wie Gras und Ufer,
+Wie Wind und Weite und wie ein Zuhaus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Und dennoch sind da Mauern zwischen Menschen,
+Und nur durch Gitter sehen wir uns an.
+Unser versklavtes Ich ist ein Gefängnis
+Und ist gebaut aus Steinen unsrer Angst.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Herr, deine Liebe ist wie Gras und Ufer,
+Wie Wind und Weite und wie ein Zuhaus.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Herr, du bist Richter! Du nur kannst befreien,
+Wenn du uns freisprichst, dann ist Freiheit da.
+Freiheit, sie gilt für Menschen,Völker, Rassen,
+So weit, wie deine Liebe uns ergreift.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Herr, deine Liebe ist wie Gras und Ufer,
+Wie Wind und Weite und wie ein Zuhaus.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Until the End</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A wreath of thorns
+Became Your crown
+My curse was laid upon Your brow
+Your wounds displayed for all to see
+Your body torn to rescue me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My sins You're faithful to forget
+Because Your love and justice met
+There at the cross upon that hill
+Lord, You fulfilled the Father's will</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My stain of sin, Your blood erased
+My life redeemed, Lord by Your grace
+Healed and restored in Your embrace
+Now all I see is Your lovely face</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Forevermore I will confess
+You are my Lord, my righteousness
+The One who died yet rose again
+My God and King until the end</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hallelujah, hallelujah
+Hallelujah to You, my King
+Hallelujah, hallelujah
+Hallelujah to You, my King</lines>
+    </verse>
+  </lyrics>
+</song>

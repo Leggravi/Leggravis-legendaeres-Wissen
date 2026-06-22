@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Friend</title>
+    </titles>
+    <authors>
+      <author type="words">Michael Gungor</author>
+      <author type="music">Michael Gungor</author>
+      <author type="translation">Du nennst mich deinen Freund</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Even when I'm
+walking through the valley
+of dark shadows,
+Even when
+I'm overwhelmed beneath
+the weight of sorrow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Even when I can't
+outrun my fears,
+And every other
+hope has disappeared,
+I'm not alone,
+I'm not alone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I've still got Jesus,
+Oh I've still got Jesus,
+Closer than a brother
+No matter where I am.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When I need an ally
+in the fight,
+And need to know
+somebody's on my side,
+He always steps in,
+I've always got a friend.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You can take away all
+of thе things down
+here I treasurе,
+You can leave me
+nothing but the breath
+inside my lungs.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Still I know that
+I have everything,
+I can lift my empty
+hands and sing,
+At the end of the day
+With joy I can say:</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I've still got Jesus,
+Oh I've still got Jesus,
+Closer than a brother
+No matter where I am.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>When I need an ally
+in the fight
+And need to know
+somebody's on my side
+He always steps in,
+I've always got a friend.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Who's standing
+at the ready,
+When this life
+gets too heavy,
+He's there (He's there)
+He's there (He's there)
+He's there.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Friend who stood right
+where I'm standing,
+So no matter
+what I'm handed,
+He's there, He's there,
+He's there.</lines>
+    </verse>
+  </lyrics>
+</song>

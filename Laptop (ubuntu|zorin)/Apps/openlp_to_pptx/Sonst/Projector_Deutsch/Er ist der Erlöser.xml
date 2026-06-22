@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Er ist der Erlöser</title>
+    </titles>
+    <authors>
+      <author type="words">Hartmut Sünderwald</author>
+      <author type="music">Melody Green</author>
+      <author type="translation">There is a redeemer</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Er ist der Erlöser, Jesus, Gottes Sohn,
+Gottes Lamm, erwählt zu tragen unserer Sünde Lohn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Danke, lieber Vater, du gabst uns deinen Sohn.
+Dein Geist gibt uns die Kraft zu dienen, bis Jesus wiederkommt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, mein Erlöser, höchster aller Namen,
+Gottes Lamm, erwählt zu tragen meiner Sünde Lohn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Einst werd ich ihn sehen in der Herrlichkeit.
+Meinem König werd ich dienen bis in alle Ewigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

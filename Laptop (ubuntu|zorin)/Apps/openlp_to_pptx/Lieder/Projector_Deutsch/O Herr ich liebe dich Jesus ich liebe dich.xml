@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Herr, ich liebe dich, Jesus, ich liebe dich!</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Jacobi</author>
+      <author type="music">Paul Jannuzzelli</author>
+      <author type="translation">I just love You so much</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Herr, ich liebe dich Jesus ich liebe dich! 
+Meine Sonne bist Du Tag für Tag, ich liebe Dich!
+Du mein Stern in der Nacht, finsterster Nacht,
+Du hast alles für mich wieder gut gemacht!
+Meines Lebens Quell bist Du allein, ich liebe Dich!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Am Nearer Home Than I Was Yesterday</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I walk with God through long years
+Through plains and floods
+Through pain and fear
+I follow Him His voice obeying
+I am nearer home than I was
+yesterday.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am nearer home than I was
+yesterday
+I am closer to God along the
+way
+Each day by day each prayer
+I pray
+I am nearer home than I was
+yesterday.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The bleeding clouds that
+sweeps the sky
+The whispering wind that
+chills the ships
+The night the crisping sun
+all speak and say
+I am nearer home than
+I was yesterday</lines>
+    </verse>
+  </lyrics>
+</song>

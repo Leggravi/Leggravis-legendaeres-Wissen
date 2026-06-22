@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Via Dolorosa</title>
+    </titles>
+    <authors>
+      <author type="words">Hartmut Sünderwald</author>
+      <author type="music">Niles Borop</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Down the Via Dolorosa in Jerusalem that day
+The soldiers tried to clear the narrow street
+But the crowd pressed into see
+The man condemned to die on Calvary.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He was bleeding from a beating -
+there were stripes upon His back
+And He wore a crown upon his head
+And He bore with every step
+The scorn of those who cried out for his death.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Down the Via Dolorosa called the way of suffering
+Like a lamb came the Messiah Christ the King
+But He chose to walk that road
+out of His love for you and me
+Down the Via Dolorosa, all the way to Calvary.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Por la Via Dolorosa, triste dia en Jerusalem
+Las soldaldos le abrian paso a Jesus
+Mas la genta se acercaba,
+Para ver al que llevaba cruz.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Por la Via Dolorosa, que es la via del dolor
+Como oveja vino Cristo, Rey y Senor,
+Y fue El quien it por su amor por ti por mi.
+Por la Via Dolorosa al Calvario y a morir.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>The blood that would cleanse
+The souls of all men
+Made its way through the heart of Jerusalem.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Down the Via Dolorosa called the way of suffering
+Like a lamb came the Messiah, Christ the King
+But He chose to walk that road
+out of his love for you and me
+Down the Via Dolorosa, all the way to Calvary</lines>
+    </verse>
+  </lyrics>
+</song>

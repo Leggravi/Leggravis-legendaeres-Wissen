@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We're Together Again</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When God's people get together,
+We know that very soon,
+Wonderful things are gonna happen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As His Spirit fills the room
+And right now, I am expecting
+Something special, something more
+As we're together again
+We're praising the Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We're together again, praising the Lord,
+We're together again in one accord,
+Something good is gonna happen,
+Something good is in store
+We're together again, praising the Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When God's people got together
+In the Upper Room
+They were waiting on the promise
+Of what Jesus said to do
+Then the Spirit fell from heaven
+Oh what joy did occur
+They were together up there
+They were praising the Lord</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We're gonna tell Goodbye, &quot;Goodbye&quot;!
+When God's people get together
+In heaven by and by
+Oh my, what rejoicing,
+From this time forever more.</lines>
+    </verse>
+  </lyrics>
+</song>

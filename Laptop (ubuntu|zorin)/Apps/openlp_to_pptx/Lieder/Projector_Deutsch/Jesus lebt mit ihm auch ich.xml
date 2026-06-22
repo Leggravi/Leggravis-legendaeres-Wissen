@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus lebt, mit ihm auch ich</title>
+    </titles>
+    <authors>
+      <author type="words">Christian Fürchtegott Gellert</author>
+      <author type="music">Berlin</author>
+      <author type="translation">Jesus lives! The victory’s won</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus lebt, mit Ihm auch ich!
+Tod, wo sind nun deine Schrecken?
+Er, Er lebt und wird auch mich
+Von den Toten auferwecken.
+Er verklärt mich in Sein Licht:
+Dies ist meine Zuversicht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus lebt! Ihm ist das Reich
+Über alle Welt gegeben;
+Mit Ihm werd auch ich zugleich
+Ewig herrschen, ewig leben.
+Gott erfüllt, was Er verspricht:
+Dies ist meine Zuversicht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus lebt! Wer nun verzagt,
+Lästert Ihn und Gottes Ehre,
+Gnade hat Er zugesagt,
+Dass der Sünder sich bekehre.
+Gott verstößt in Christo nicht:
+Dies ist meine Zuversicht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus lebt! Sein Heil ist mein;
+Sein sei auch mein ganzes Leben,
+Reines Herzens will ich sein
+Und den Lüsten widerstreben.
+Er verlässt den Schwachen nicht:
+Dies ist meine Zuversicht.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus lebt! Ich bin gewiss,
+Nichts soll mich von Jesu scheiden,
+Keine Macht der Finsternis,
+Keine Herrlichkeit, kein Leiden.
+Er gibt Kraft zu dieser Pflicht:
+Dies ist meine Zuversicht.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesus lebt! Nun ist der Tod
+Mir der Eingang in das Leben.
+Welchen Trost in Todesnot
+Wird Er meiner Seele geben,
+Wenn sie gläubig zu Ihm spricht:
+Herr, Herr, meine Zuversicht!</lines>
+    </verse>
+  </lyrics>
+</song>

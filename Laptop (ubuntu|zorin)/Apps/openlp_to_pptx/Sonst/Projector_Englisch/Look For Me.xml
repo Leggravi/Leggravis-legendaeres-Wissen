@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Look For Me</title>
+    </titles>
+    <authors>
+      <author type="words">Marty Sampson</author>
+      <author type="music">Marty Sampson</author>
+      <author type="translation">Ich schau auf zu dir</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When you finally make your entrance to the City,
+Of jasper walls and bright golden avenues;
+When you behold all its beauty and its splendor,
+Remember there's just one request I make of you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Look for me, for I will be there, too,
+(I'd like to hear it, too)
+I realize when you arrive there'll be so much to view;
+After you've been there ten thousand years
+A million, maybe two,
+Look for me, for I will be there, too.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As you go down your list of firsts, there's no question,
+You want to see your loved ones waiting there for you;
+And when you feel you've shared your story with the last one,
+Who wants to hear you tell just how you made it through.</lines>
+    </verse>
+  </lyrics>
+</song>

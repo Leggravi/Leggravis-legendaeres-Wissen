@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We shall behold Him</title>
+    </titles>
+    <authors>
+      <author type="words">Dottie Rambo</author>
+      <author type="music">Dottie Rambo</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The sky shall unfold
+Preparing His entrance
+The stars shall applaud Him
+With thunders of praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The sweet light in His eyes,
+Shall enhance those awaiting
+And we shall behold Him,
+Then face to face</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O we shall behold Him, we shall behold Him
+Face to face in all of His glory
+O we shall behold Him, yes we shall behold Him
+Face to face, our Savior and Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The angel will sound, the shout of His coming
+And the sleeping shall rise, from their slumbering place
+And those remaining, shall be changed in a moment
+And we shall behold him, then face to face</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We shall behold Him, o yes we shall behold Him
+Face to face in all of His glory
+We shall behold Him, face to face Our Savior and Lord
+We shall behold Him, our Savior and Lord Savior and Lord!</lines>
+    </verse>
+  </lyrics>
+</song>

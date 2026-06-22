@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It’s Different Now</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Once I was lost in sin,
+I had no peace within
+To save my heavy soul,
+I knew not how,
+But Jesus came to me,
+and by His grace am free
+Now its different oh, so different now.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Its different now, since
+Jesus saved my soul
+Its different now, since
+Jesus made me whole
+Oh Satan was not In rest
+When Jesus made me free
+Now its different,
+oh so different now.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now my hopes are bright,
+I praise day and night
+How He could change me
+so I knew not how
+But praise the Lord its done
+The victory now is mine,
+Now its different
+oh, so different now.</lines>
+    </verse>
+  </lyrics>
+</song>

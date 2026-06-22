@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You're Our God</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Glorious and resplendent God
+Who decorates the stars above
+We lift You Higher for we know who You are
+Sovereign and exalted One
+Beside You there is no none one
+We lift You higher for we know who You are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You’re our God and You reign
+You're our God and we bless Your name
+We are here to boast of who You are
+You’re Our God and You reign
+You’re our God and we bless Your name
+We delight in who You are</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Boundless and unfailing God
+Who wraps us in his arms of love
+We lift You higher for we know who You are
+Creator of all the eyes can see
+The mountains and the raging seas
+We lift You higher for we know who You are</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We honor and adore You
+We reverence You O God
+We bless and give thanks for You
+We joy in who You are</lines>
+    </verse>
+  </lyrics>
+</song>

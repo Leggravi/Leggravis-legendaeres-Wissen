@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>For All You've Done</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh cleanser of the mess I've made
+Upon the hill our places trade
+Stretched on a cross Your body crushed
+By human hands You formed from dust</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How wonderful Your mercy is
+How awesome are Your ways
+I come, I come
+To worship You
+For all You've done</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh cleanser of the mess I've made
+Your boundless love for me portrayed
+With patience for my learning curve
+By holding back what I deserve</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh cleanser of the mess I've made
+With everything at Your feet laid
+I watch as all my cares erode
+And from my soul these words explode</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:23">
+  <properties>
+    <titles>
+      <title>Jesus, die Sonne, das strahlende Licht</title>
+    </titles>
+    <authors>
+      <author type="words">Diakonissenmutterhaus Aidlingen</author>
+      <author type="words">Ursel Aul (1980)</author>
+      <author type="music">Christel Schröder</author>
+    </authors>
+    <ccliNo>4350538</ccliNo>
+    <themes>
+      <theme>Morgenlieder</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Als um mich war ein Gefängnis
+von Angst und Traurigkeit,
+da führte aus der Bedrängnis
+mich Gottes Freundlichkeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Für Gott ist doch nichts unmöglich,
+er will mir Gutes tun.
+Durch ihn allein bin ich glücklich,
+kann bei ihm sicher ruhn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gott lässt meinen Fuß nicht gleiten,
+nie schläft und schlummert er,
+umgibt mich von allen Seiten
+mit seinem Engelheer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Es mögen sich freuen alle
+und rühmen Gottes Gnad
+mit fröhlichem Jubelschalle,
+weil er gesegnet hat.</lines>
+    </verse>
+  </lyrics>
+</song>

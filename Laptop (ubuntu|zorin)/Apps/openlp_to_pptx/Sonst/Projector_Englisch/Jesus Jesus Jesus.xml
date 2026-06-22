@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, Jesus, Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Jesus, Jesus,
+There's just something about that name.
+Master, Saviour, Jesus!
+Like the fragrance after the rain.
+Jesus, Jesus, Jesus!
+Let all heaven and earth proclaim,
+Kings and kingdoms will all pass away,
+But there's something about that name!</lines>
+    </verse>
+  </lyrics>
+</song>

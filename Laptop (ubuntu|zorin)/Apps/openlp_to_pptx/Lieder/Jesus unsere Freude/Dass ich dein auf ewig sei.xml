@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:27">
+  <properties>
+    <titles>
+      <title>Dass ich dein auf ewig sei</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Knapp (1828)</author>
+      <author type="music">Johann Ulich</author>
+    </authors>
+    <ccliNo>6222767</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dass ich dein auf ewig sei,
+sei die größte meiner Sorgen,
+dass ich einst verklärt und frei
+steh am Auferstehungsmorgen;
+diese Bitte, dieser Sinn
+nehme ich, o Jesu, hin!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alle Lebensfreudigkeit
+ruhet nur in einer Frage:
+Ob ich dich in Freud und Leid
+glaubensvoll im Herzen trage.
+Hör ich hier des Geistes, Ja,
+dann ist voll G'nüge da.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alle Sterbensfreudigkeit
+ruhet nur in einer Frage:
+Ob du mich im Ehrenkleid
+finden wirst an jenem Tage.
+Hör ich hier des Geistes Nein,
+dann ist alles lauter Pein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Aller Sorgen eitle Schar,
+ach, wie wird sie schnell verschlungen,
+wenn vom himmlischen Altar
+Funken in das Herz gedrungen,
+wenn hindurch die Sorge bricht:
+Werd ich selig oder nicht?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lass, o Herr, durch deinen Geist
+mir die Antwort niemals fehlen,
+dass, wie es dein Wort verheißt,
+er im Grunde meiner Seelen
+mir bezeuge klar und treu,
+dass ich dein auf ewig sei.</lines>
+    </verse>
+  </lyrics>
+</song>

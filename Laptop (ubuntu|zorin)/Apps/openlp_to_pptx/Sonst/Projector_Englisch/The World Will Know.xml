@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The World Will Know</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Love is more than just a pretty word to say
+When the Father gave
+His Son upon the cross one day.
+And all the finest songs could never take
+The place of a cup
+Of water giving in His name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The world will know the tomb is empty
+When they see our hearts are full
+They will know that He is living
+When He lives in me and you.
+The world will know who holds tomorrow
+When we holds to Him today
+The world will know, the world will know</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We are living bibles read of all men
+And we can show
+The world that He's alive again.
+There's no better way for them
+To see His plan than to see
+Our lives completely in His hands</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Show them, show them
+Show the world You know Him
+Not in just the word you say
+But the way you live</lines>
+    </verse>
+  </lyrics>
+</song>

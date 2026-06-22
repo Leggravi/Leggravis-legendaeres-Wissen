@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Noch ein Weilchen still vertraue</title>
+    </titles>
+    <authors>
+      <author type="words">Rudolf Brockhaus</author>
+      <author type="music">Oskar Schumm</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Noch ein Weilchen still vertraue
+Dem, der deine Pfade lenkt,
+noch ein Weilchen auf Ihn baue,
+der dem Müden Stärke schenkt.
+Sieh, des Vaterhauses Ruh
+|: winkt dem Pilger freundlich zu. : |</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pracht und Schönheit, Glanz und Schimmer,
+alles, was die Welt dir beut,
+stillt des Herzens Sehnen nimmer,
+ist nur Wahn und Eitelkeit.
+Suchst du Ruhe, wahres Glück,
+|: lenke aufwärts deinen Blick!: |</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drücken Leiden dich danieder,
+scheint der Weg dir rau und schwer,
+schau empor zu Jesus wieder,
+Er verscheucht der Sorgen Heer.
+Wirf auf Ihn die ganze Last,
+|: sag Ihm alles, was du hast!: |</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Aufgeschaut! Das Herz nach oben!
+Hier auf Erden such es nicht!
+Wahres Leben, Lieben, Loben
+kennt man droben nur im Licht.
+Dieser Erde eitler Schein
+|: kann die Seele nicht erfreun. : |</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bald ist jeder Kampf beendet,
+bald der letzte Schritt getan;
+bald dein Tagewerk vollendet,
+immer kürzer wird die Bahn.
+Schon erglänzt der Morgenstern,
+|: Jesu Kommen ist nicht fern. : |</lines>
+    </verse>
+  </lyrics>
+</song>

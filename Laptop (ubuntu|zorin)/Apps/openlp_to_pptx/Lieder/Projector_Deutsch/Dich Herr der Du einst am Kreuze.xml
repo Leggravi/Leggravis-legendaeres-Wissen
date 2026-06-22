@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dich, Herr, der Du einst am Kreuze</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Stralsund</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dich, Herr, der Du einst am Kreuze für uns bist gestorben,
+durch Deinen Tod uns hast ewiges Leben erworben,
+preisen wir jetzt, die Du in Freiheit gesetzt
+und für Dich selbst hast erworben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In dieser Stunde sind unsere Herzen gerichtet,
+auf Dich, den Sohn, der das nächtliche Dunkel gelichtet,
+auf Dich allein, der führt ins Heiligtum ein,
+auf Dich, der für uns gerichtet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir sind versammelt in Deinem erhabenen Namen
+Du in der Mitte der Kinder aus göttlichem Samen
+beten Dich an, der Gottes Willen getan
+und Ihn verherrlicht hat. Amen!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ja, wir erheben Dich, Herr, in der Herrlichkeit droben
+zur Rechten Gottes, den Leiden und Schmerzen enthoben;
+kommst bald zurück zu unserm ewigen Glück,
+werden dann schauend Dich loben.</lines>
+    </verse>
+  </lyrics>
+</song>

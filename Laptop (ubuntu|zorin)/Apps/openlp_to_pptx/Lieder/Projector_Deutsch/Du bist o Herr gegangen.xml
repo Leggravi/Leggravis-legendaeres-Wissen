@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist, o Herr, gegangen</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Wilhelm Brockhaus</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist, o Herr, gegangen
+Schon ein ins Heiligtum,
+Du hast von Gott empfangen
+Ein ew'ges Priestertum.
+Der Vorhang ist zerrissen,
+Die Sünd' hinweggetan.
+Befreit ist das Gewissen,
+Anbetend wir jetzt nahn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir nahn dem Thron mit Freuden
+Und mit Freimütigkeit.
+Von Dir kann uns nichts scheiden
+In dieser Prüfungszeit.
+Du hast uns Deine Liebe
+Ins bange Herz gesenkt,
+Wenn hier auch nichts uns bliebe,
+Bist Du uns doch geschenkt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jetzt weilst Du für uns droben,
+Vertrittst uns allezeit,
+Bis wir zu Dir erhoben,
+Zu Deiner Herrlichkeit.
+O seliges Vollenden,
+Bei Dir, dem Herrn, zu sein,
+Wo nie Dein Ruhm wird enden,
+Wo wir nur Lob Dir weihn!</lines>
+    </verse>
+  </lyrics>
+</song>

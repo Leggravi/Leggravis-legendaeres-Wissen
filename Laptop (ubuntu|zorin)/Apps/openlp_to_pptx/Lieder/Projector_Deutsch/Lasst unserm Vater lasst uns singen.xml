@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lasst unserm Vater, lasst uns singen</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lasst unserm Vater, lasst uns singen
+von Herzen gern ein dankbar frohes Lied;
+empor den Geist, empor sich schwingen
+zu unserm Gott, der gnädig auf uns sieht,
+uns hört voll Huld und voller Liebe an,
+kommt, preiset freudig, wer nur preisen kann!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lasst uns Ihm singen! Doch wir haben
+nur schwache Lieder und ein schwaches Herz.
+Er gab die größte aller Gaben,
+den eigenen Sohn, in Leiden, Schmach und Schmerz;
+Er gab Ihn hin für Sünder in den Tod.
+Wer liebt wie Du, o großer Heiland-Gott!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr, wie so gut bist Du! O Seele,
+sink in den Staub, bet Ihn bewundernd an!
+Sing Seiner Liebe und erzähle,
+was Er, der Gnädigste, an uns getan!
+Ihn preis in Herzensfülle unser Dank;
+Ihm schalle freudig unser Lobgesang.</lines>
+    </verse>
+  </lyrics>
+</song>

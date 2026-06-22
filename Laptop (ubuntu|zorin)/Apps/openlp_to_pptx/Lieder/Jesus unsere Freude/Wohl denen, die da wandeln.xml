@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:31">
+  <properties>
+    <titles>
+      <title>Wohl denen, die da wandeln</title>
+    </titles>
+    <authors>
+      <author type="words">Cornelius Becker (1602)</author>
+      <author type="music">Heinrich Schütz</author>
+    </authors>
+    <ccliNo>4834119</ccliNo>
+    <themes>
+      <theme>Bibel</theme>
+      <theme>Heiligung</theme>
+      <theme>Hingabe</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wohl denen, die da wandeln
+vor Gott in Heiligkeit,
+nach seinem Worte handeln
+und leben allezeit;
+die recht von Herzen suchen Gott
+und seine Zeugniss' halten,
+sind stets bei ihm in Gnad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Von Herzensgrund ich spreche:
+dir sei Dank allezeit,
+weil du mich lehrst die Rechte
+deiner Gerechtigkeit.
+Die Gnad auch ferner mir gewähr;
+ich will dein Rechte halten,
+verlass mich nimmermehr.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mein Herz hängt treu und feste
+an dem, was dein Wort lehrt.
+Herr, tu bei mir das Beste,
+sonst ich zuschanden werd.
+Wenn du mich leitest, treuer Gott,
+so kann ich richtig laufen
+den Weg deiner Gebot.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dein Wort, Herr, nicht vergehet,
+es bleibet ewiglich,
+so weit der Himmel gehet,
+der stets beweget sich;
+dein Wahrheit bleibt zu aller Zeit
+gleichwie der Grund der Erden,
+durch deine Hand bereit'.</lines>
+    </verse>
+  </lyrics>
+</song>

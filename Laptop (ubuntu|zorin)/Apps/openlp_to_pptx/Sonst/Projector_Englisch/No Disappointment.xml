@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>No Disappointment</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's no disappointment in heaven,
+No weariness, sorrow or pain;
+No hearts that are bleeding and broken,
+No song with a minor refrain.
+The clouds of our earthly horizon
+Will never appear in the sky,
+For all will be sunshine and gladness,
+With never a sob nor a sigh.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm bound for that beautiful city
+My Lord has prepared for His own;
+Where all the redeemed of all ages
+Sing &quot;Glory!&quot; around the white throne;
+Sometimes I grow homesick for heaven,
+And the glories I there shall behold:
+What a joy that will be when my Saviour
+ I see,
+In that beautiful city of gold!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We'll never pay rent for our mansion,
+The taxes will never come due;
+Our garments will never grow threadbare,
+But always be fadeless and new.
+We'll never be hungry nor thirsty,
+Nor languish in poverty there,
+For all the rich bounties of heaven
+His sanctified children will share.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There'll never be crape on the doorknob,
+No funeral train in the sky;
+No graves on the hillsides of glory,
+For there we shall nevermore die.
+The old will be young there forever,
+Transformed in a moment of time;
+Immortal we'll stand in His likeness,
+The stars and the sun to outshine.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gott der Vater steh uns bei</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Luther</author>
+      <author type="music">Halberstadt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1) Gott der Vater steh uns bei
+und lass uns nicht verderben,
+mach uns aller Sünden frei
+und helf uns selig sterben.
+»Vor dem Teufel uns bewahr,
+halt uns bei festem Glauben
+und auf dich lass uns bauen,
+aus Herzensgrund vertrauen,
+dir uns lassen ganz und gar,
+mit allen rechten Christen
+entfliehen Teufels Listen,
+mit Gottes Kraft uns rüsten. «
+Amen, Amen, das sei wahr,
+so singen wir Halleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2) Jesus Christus steh uns bei
+und lass uns nicht verderben,
+mach uns aller Sünden frei
+und helf uns selig sterben.
+»Vor dem Teufel uns bewahr,
+halt uns bei festem Glauben
+und auf dich lass uns bauen,
+aus Herzensgrund vertrauen,
+dir uns lassen ganz und gar,
+mit allen rechten Christen
+entfliehen Teufels Listen,
+mit Gottes Kraft uns rüsten. «
+Amen, Amen, das sei wahr,
+so singen wir Halleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3) Heilig Geist, der steh uns bei
+und lass uns nicht verderben,
+mach uns aller Sünden frei
+und helf uns selig sterben.
+»Vor dem Teufel uns bewahr,
+halt uns bei festem Glauben
+und auf dich lass uns bauen,
+aus Herzensgrund vertrauen,
+dir uns lassen ganz und gar,
+mit allen rechten Christen
+entfliehen Teufels Listen,
+mit Gottes Kraft uns rüsten. «
+Amen, Amen, das sei wahr,
+so singen wir Halleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

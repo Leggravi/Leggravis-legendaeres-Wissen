@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>That's What This Is All About</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There are times when I get
+a little happy,
+I fill up so much
+I have to let it out;
+Oh if you could only see
+what I'm seein'
+Then you'll understand
+what this is all about.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have come behind the veil
+to see His face,
+Out of all the world
+in a secret place;
+And there's so much glory,
+it makes me want to shout,
+Brother, that's what this is all about.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I am hidden from the world
+and all its chaos,
+Been delivered from the chains
+of fear and doubt;
+They may laugh and criticize
+this little message,
+But I know that's just
+what this is all about.</lines>
+    </verse>
+  </lyrics>
+</song>

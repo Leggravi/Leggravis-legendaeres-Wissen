@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:54">
+  <properties>
+    <titles>
+      <title>All Morgen ist ganz frisch und neu</title>
+    </titles>
+    <authors>
+      <author type="words">Johannes Zwick (1541)</author>
+      <author type="music">Johann Walter</author>
+    </authors>
+    <ccliNo>4897857</ccliNo>
+    <themes>
+      <theme>Morgenlieder</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All Morgen ist ganz frisch und neu
+des Herren Gnad und große Treu;
+sie hat kein End den langen Tag,
+drauf jeder sich verlassen mag.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Drum steht der Himmel Lichter voll,
+dass man zum Leben sehen soll
+und es mög schön geordnet sein,
+zu ehren Gott, den Schöpfer dein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So hat der Leib der Augen Licht,
+dass er dadurch viel Guts ausricht
+und seh auf Gott zu aller Frist
+und merk, wie er so gnädig i</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Gott, du schöner Morgenstern,
+gib uns, was wir von dir begehrn:
+Zünd deine Lichter in uns an,
+lass uns an Gnad kein Mangel han.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Treib aus, o Licht, all Finsternis,
+behüt uns, Herr, vor Ärgernis,
+vor Blindheit und vor aller Schand
+und reich uns Tag und Nacht dein Hand,</lines>
+    </verse>
+    <verse name="v6">
+      <lines>zu wandeln als am lichten Tag,
+damit, was immer sich zutrag,
+wir stehn im Glauben bis ans End
+und bleiben von dir ungetrennt.</lines>
+    </verse>
+  </lyrics>
+</song>

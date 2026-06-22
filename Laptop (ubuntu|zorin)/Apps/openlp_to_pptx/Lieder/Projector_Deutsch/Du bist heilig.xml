@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist heilig</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist heilig, du bist Herr,
+du bist immer noch viel mehr,
+als wir je verstehen, ja:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist nahe, ganz nah.
+Jeder Segen kommt von dir.
+Du beschenkst uns täglich hier,
+mit dem, was die Erde trug,
+mit dem Brot, mit dem Krug.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/: Du bist heilig. Du bist herrlich.
+Du bist nahe. Alle Welten loben dich!
+Hosianna. Hosianna. Hosianna.
+Hosianna unserm Gott! :/</lines>
+    </verse>
+  </lyrics>
+</song>

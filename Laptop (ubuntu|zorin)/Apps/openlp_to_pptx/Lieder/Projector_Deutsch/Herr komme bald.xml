@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, komme bald</title>
+    </titles>
+    <authors>
+      <author type="words">KeyTo</author>
+      <author type="music">Jess Cates</author>
+      <author type="translation">Even so come</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Die ganze Schöpfung, nah oder fern,
+ebne den Weg für den Herrn aller Herrn.
+Jesus kommt bald zurück.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ruft alle Menschen, macht euch bereit,
+er wird erscheinen in Herrlichkeit.
+Jesus kommt bald zurück.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wie die Braut auf ihren Bräutigam
+warten wir hier, wann kommst du an?
+Unser Herz sehnt sich so nach dir und singt:
+Herr, komme bald, Herr Jesus, komm.
+Herr, komme bald, Herr Jesus, komm.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Recht wirst du schaffen, alles wird neu.
+Du bleibst für immer wahrhaftig und treu.
+Jesus kommt bald zurück.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus, dich erwarten wir,
+denn du kommst, ja, du kommst bald.
+Jesus, dich erwarten wir,
+denn du kommst, ja, du kommst bald.</lines>
+    </verse>
+  </lyrics>
+</song>

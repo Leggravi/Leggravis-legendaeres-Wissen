@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let It Be Glory</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We may be troubled,
+There will be trials,
+But we are not alone.
+We may be burdened but we're not broken,
+We're holding to this hope that this will not last forever.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are God over everything,
+In the joy &amp; the suffering,
+There is a reason for every teardrop that we cry,
+Ever moment in our lives shaping our story.
+Let it be glory!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In every weakness,
+Through every season,
+You meet us with Your grace.
+Our hearts are strengthened,
+We will be faithful to ever sing Your praise.
+Cause this will not last forever.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Only to You,
+Let it be blessing,
+Let it be honor,
+Only to You,
+Because You're worthy,
+Let it be glory!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Because You're worthy,
+Let it be glory!
+Let it be glory!</lines>
+    </verse>
+  </lyrics>
+</song>

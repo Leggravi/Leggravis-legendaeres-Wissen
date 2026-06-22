@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Has Risen</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He has risen,
+He has risen,
+He has risen,
+Jesus is alive</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When the life flowed from His body
+Seemed like Jesus' mission failed,
+But His sacrifice accomplished
+Vict'ry over sin and hell</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the grave God did not leave Him
+For His body to decay
+Raised to life - the Great Awakening
+Satan's pow'r He overcame</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If there were no resurrection,
+We ourselves could not be raised;
+But the son of God is living
+So our hope is not in vain</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When the Lord rides out of heaven,
+Mighty angels at His side,
+They will sound the final trumpet
+From the grave we shall arise</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Has given life immortal,
+We shall see Him face to face;
+Through eternity we'll praise Him,
+Christ the champion of our faith.</lines>
+    </verse>
+  </lyrics>
+</song>

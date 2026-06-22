@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come as a Mighty River</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come as a mighty river
+Come by Your hand deliver
+Lord let Your presence
+Wash over me
+Come in Your awesome power
+Come in this final hour
+Lord let Your presence
+Wash over me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is a river
+Flowing from the throne
+It brings healing
+To the nations of the earth
+Everything will live
+Where the river flows
+Living Water
+Quench this thirsting in my soul</lines>
+    </verse>
+  </lyrics>
+</song>

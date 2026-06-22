@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It's Jesus I Really Want to See</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've truly known the good life
+Filled with family and friends
+I've been blessed with more
+than my share
+But in the heart of my heart
+I know there's more for me
+So much more than
+This faded world I'm in.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's Jesus, I really want to see,
+It's Jesus, I really want to see,
+The more I see of this world,
+The less it means to me,
+Yes, it's Jesus, I really want to see.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I've been alot of places
+And I've known the great and small
+I've seen the grand
+and noble works of man,
+Yet with all my good fortune
+My heart is seeking still
+Oh I just can't deny
+The longing there.</lines>
+    </verse>
+  </lyrics>
+</song>

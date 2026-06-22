@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God Delivers Again</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Standing there at the Red Sea
+God's people began to complain,
+that Pharoah and his mighty army
+would take them in bondage again.
+&quot;Stand still and see the Salvation
+of the Lord!&quot;, Moses did cry.
+Then, God parted the waters
+and they crossed to the other side.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God delivers again!
+Yes, God delivers again!
+When it seems that all is lost,
+He reaches out His hand.
+And then all the forces of evil
+have to flee at God's command.
+And just when things look hopeless,
+God delivers again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>&quot;We won't bow to your idols&quot;,
+the Hebrew children proclaimed.
+And so the king commanded
+and they were thrown into the flame!
+Then the king said, &quot;Did we not
+throw three men to the furnace bound?
+But I see four men loose in the fire
+unhurt and walking around!&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

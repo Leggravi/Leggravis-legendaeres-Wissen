@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, Dir bringen Lob und Dank und Ehre</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Herrnhut</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, Dir bringen Lob und Dank und Ehre
+Wir, Dein teures Eigentum,
+Stimmen ein ins Lob der Himmelschöre,
+Zu erhöhen Deinen Ruhm.
+Durch Dein Blut hast Du uns Gott erkaufet,
+Durch den Geist zu einem Leib getaufet,
+Deinen Frieden uns geschenkt,
+Deine Lieb' ins Herz gesenkt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du, der Erstgeborne vieler Brüder,
+Bist uns schon vorangeeilt,
+Ziehst als Haupt Dir nach all Deine Glieder,
+Kehrest wieder unverweilt.
+Bald wirst Du zu unsrer Freud' erscheinen,
+Wirst uns alle dort mit Dir vereinen,
+Wo wir, frei von Kampf und Leid,
+Ruhn in Deiner Herrlichkeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>&quot;Komm, o komm, Herr Jesu, bleib nicht lange!&quot;
+Ruft der Geist und Deine Braut.
+Stille bald das sehnliche Verlangen,
+Dieses Flehn, so brünstig laut.
+Lass uns bald zu Deiner Rechten stehen
+Und in Deiner Herrlichkeit Dich sehen,
+Ewig schaun Dein Angesicht.
+Komm, o Jesu, säume nicht!</lines>
+    </verse>
+  </lyrics>
+</song>

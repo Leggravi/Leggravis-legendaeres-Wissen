@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>No Greater love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Before I knew your name,
+You knew my every breath.
+Before I found my way,
+You knew my every step.
+Before I knew everything that I need,
+You gave it all to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No greater love than this
+That you should lay down your life.
+For someone such as me,
+I'd spend a lifetime wondering why.
+The beauty of heaven is here in my heart,
+And I know there can be
+No greater love than this.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I never understood
+How merciful love could be.
+Until I felt his flame
+Light every part of me.
+And I would give everything that I am,
+Cause I have been saved.
+Yes, I have been saved!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The beauty of heaven is here in my heart,
+And I know there can be
+No greater love than this.</lines>
+    </verse>
+  </lyrics>
+</song>

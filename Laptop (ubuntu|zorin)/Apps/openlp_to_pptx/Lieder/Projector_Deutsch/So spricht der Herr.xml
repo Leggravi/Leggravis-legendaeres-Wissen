@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>So spricht der Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Antonio Caldara</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>So spricht der Herr, ja so spricht der Herr!
+Ist nicht mein Wort wie ein Feuer
+und wie ein Hammer, der Felsen zerschlägt?
+Kann ich nicht tun viel mehr als ihr bittet,
+habe ich den Segen nicht herabgeschüttet
+und die Fenster des Himmels weit aufgetan?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich bin der Herr,
+bei dem nichts unmöglich ist.
+Ich bin der Herr,
+bei dem nichts unmöglich ist.
+Ich bin der Herr,
+bei dem nichts unmöglich ist.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herrlichkeit, Herrlichkeit sei Gott
+Herrlichkeit, Herrlichkeit sei Gott
+Herrlichkeit, Herrlichkeit sei Gott inmitten der Gemeinde!</lines>
+    </verse>
+  </lyrics>
+</song>

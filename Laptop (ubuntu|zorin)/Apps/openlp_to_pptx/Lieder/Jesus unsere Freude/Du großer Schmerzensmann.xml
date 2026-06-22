@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:41">
+  <properties>
+    <titles>
+      <title>Du großer Schmerzensmann</title>
+    </titles>
+    <authors>
+      <author type="words">Adam Thebesius (1652)</author>
+      <author type="music">Martin Jan</author>
+    </authors>
+    <ccliNo>5209499</ccliNo>
+    <themes>
+      <theme>Passion</theme>
+      <theme>Leid</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du großer Schmerzensmann, vom Vater so geschlagen,
+Herr Jesu, dir sei Dank für alle deine Plagen:
+für deine Seelenangst, für deine Band und Not,
+für deine Geißelung, für deinen bittern Tod.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ach das hat unsre Sünd und Missetat verschuldet,
+was du an unsrer Statt, was du für uns erduldet.
+Ach unsre Sünde bringt dich an das Kreuz hinan;
+o unbeflecktes Lamm, was hast du sonst getan?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dein Kampf ist unser Sieg, dein Tod ist unser Leben;
+in deinen Banden ist die Freiheit uns gegeben;
+dein Kreuz ist unser Trost, die Wunden unser Heil,
+dein Blut das Lösegeld, der armen Sünder Teil.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O hilf, dass wir auch uns zum Kampf und Leiden wagen
+und unter unsrer Last des Kreuzes nicht verzagen;
+hilf tragen mit Geduld durch deine Dornenkron,
+wenn's kommen soll mit uns zum Blute, Schmach und Hohn.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dein Angst komm uns zugut, wenn wir in Ängsten liegen;
+durch deinen Todeskampf lass uns im Tode siegen;
+durch deine Bande, Herr, bind uns, wie dirs gefällt;
+hilf, dass wir kreuzigen durch dein Kreuz Fleisch und Welt.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Lass deine Wunden sein die Heilung unsrer Sünden,
+lass uns auf deinen Tod den Trost im Tode gründen.
+O Jesu, lass an uns durch dein Kreuz, Angst und Pein dein Leiden,
+Kreuz und Angst ja nicht verloren sein.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Am a New Creation</title>
+    </titles>
+    <authors>
+      <author type="words">Dave Bilbrough</author>
+      <author type="music">Dave Bilbrough</author>
+      <author type="translation">Ich bin von neu’m geboren</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6 v7 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am a new creation, no more in condemnation
+Here in the grace of God, I stand
+My heart is overflowing, my love just keeps on growing
+Here in the grace of God, I stand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I will praise you, Lord
+Yes I will praise you, Lord
+And I will sing for all that you have done</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A joy that knows no limit,
+A lightness in my spirit,
+Here in the grace of God I stand.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I love to be in Your presence
+With Your people singing praises;
+I love to stand and rejoice,
+Lift my hands and raise my voice.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You set my feet to dancing,
+You fill my heart with song,
+You give me reason to rejoice,
+Rejoice.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I love to be in Your presence
+With Your people singing praises;
+I love to stand and rejoice,
+I Lift my hands and raise my voice.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I Lift my hands,
+I Lift my hands,
+I Lift my hands,
+And raise my voice.</lines>
+    </verse>
+  </lyrics>
+</song>

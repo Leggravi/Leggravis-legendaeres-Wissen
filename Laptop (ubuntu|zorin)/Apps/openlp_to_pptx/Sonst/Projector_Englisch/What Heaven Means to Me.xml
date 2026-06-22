@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What Heaven Means to Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A country where
+no twilight shadows deepen
+Unending day where night
+will never be,
+A city where no clouds
+ever gather,
+Well this is just, what heaven
+means to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What will It be when
+we get over yonder
+And join the throne upon
+the glassy sea,
+To join our loved ones and
+crown Christ forever,
+Now this is just, what heaven
+means to me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A place where there is no
+misunderstanding,
+And from all enemity and strive
+we’re free,
+No unkind words from the heart
+are spoken,
+Now this is just what heaven
+means to me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And when at last we see
+the face of Jesus,
+Before whose image other
+lives are free,
+And when they crown Him
+Lord of all I’ll be there,
+Now this is just,
+what heaven means to me.</lines>
+    </verse>
+  </lyrics>
+</song>

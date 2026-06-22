@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich harr' auf Dich</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Wilhelm Greef</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich harr' auf Dich.
+Du trägst mich mit Erbarmen,
+Mit Lieb' und Huld auf treuen Vaterarmen.
+Du kannst nicht lassen noch versäumen mich.
+Ich harr' auf Dich!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich harr' auf Dich,
+Wenn Not und Mangel nahen,
+Wenn Trübsalswellen drohend mich umfahen.
+Du kannst nicht lassen noch versäumen mich.
+Ich harr' auf Dich!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich harr' auf Dich,
+Wenn keine Hilf' ich sehe,
+Und mich der Feind verfolgt, wohin ich gehe.
+Du kannst nicht lassen noch versäumen mich.
+Ich harr' auf Dich!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich harr' auf Dich,
+Bis hier mein Lauf vollendet.
+Ich geh' getrost, bis jeder Kampf beendet.
+Du kannst nicht lassen noch versäumen mich.
+Ich harr' auf Dich!</lines>
+    </verse>
+  </lyrics>
+</song>

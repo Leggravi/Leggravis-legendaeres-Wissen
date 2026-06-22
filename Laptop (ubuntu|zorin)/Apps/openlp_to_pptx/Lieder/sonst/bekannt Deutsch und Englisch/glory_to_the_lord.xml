@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 10, 2019, 10:15:51 PM">
+  <properties>
+    <titles>
+      <title>Glory To The Lord</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Who holds the heavens
+ in His hands?
+Who made the stars
+By the word of His power,
+Who put the spirit in man,
+And causes all the earth
+ to cry out glory?</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Glory to the Lord,
+Worship Him,
+The God of our salvation.
+Glory to the Lord,
+Honor Him,
+He reigns, He rules the nations
+He is righteous and worthy
+To be worshipped and adored.
+Lift your voices and give
+Glory to the Lord.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Who holds the righteous
+ by the hand?
+Who is the way in this
+ marvelous hour?
+Who stirs the heart of man,
+And causes all the saints
+ to cry out glory?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God Forgave My Sin (Freely Freely)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God forgave my sin in Jesus' name
+I've been born again in Jesus' name
+And in Jesus' name I come to you
+To share His love as He told me to</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He said: 'Freely, freely, you have received
+Freely, freely give
+Go in My name, and because you believe
+Others will know that I live.'</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All power is given in Jesus' name
+In earth and heaven in Jesus' name
+And in Jesus' name I come to you
+To share His power as He told me to.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Refiner</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If the altar's where you meet us
+Take me there, take me there
+What you need is just an offering
+It's right here, my life is here
+And I'll be a living sacrifice for you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're a fire
+The refiner
+I wanna be consumed
+I wanna be tried by fire
+Purified
+You take whatever you desire
+Lord here's my life
+I wanna be tried by fire
+Purifed
+You take whatever you desire
+Lord here's my life</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If your glory wants to come in
+Let it fall, we want it all
+Lord your fire is consuming
+Fill this place, set it ablaze
+I'll be a living sacrifice for you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Clean my hands, purify my heart
+I wanna burn for you, only for You
+Take my life as a sacrifice
+I wanna burn for you, only for You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Burn me beautiful
+Burn me lovely
+Burn me righteous
+Burn me holy</lines>
+    </verse>
+  </lyrics>
+</song>

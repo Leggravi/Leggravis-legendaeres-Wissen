@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Unser Freund heißt Jesus Christ</title>
+    </titles>
+    <authors>
+      <author type="words">Rolf Krenzer</author>
+      <author type="music">Inge Lotz</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Steh`n wir früh am Morgen auf, gehen wir spät zur Ruh,
+beten wir zu unserm Herrn, und er hört uns zu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unser Freund heißt Jesus Christ, weil er immer bei uns ist.
+Montag, Dienstag, Mittwoch, Donnerstag und Freitag, ja.
+Unser Freund heißt Jesus Christ, weil er immer bei uns ist.
+Samstag und dann Sonntag immer ist er da.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn wir einmal traurig sind, drückt uns unser Schuh,
+beten wir zu unserm Herrn, und er hört uns zu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Unser Freund heißt Jesus Christ, weil er immer bei uns ist.
+Montag, Dienstag, Mittwoch, Donnerstag und Freitag, ja.
+Unser Freund heißt Jesus Christ, weil er immer bei uns ist.
+Samstag und dann Sonntag immer ist er da.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>War der Tag voll Sonnenschein, Freude immerzu,
+beten wir zu unserm Herrn, und er hört uns zu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Unser Freund heißt Jesus Christ, weil er immer bei uns ist.
+Montag, Dienstag, Mittwoch, Donnerstag und Freitag, ja.
+Unser Freund heißt Jesus Christ, weil er immer bei uns ist.
+Samstag und dann Sonntag immer ist er da.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Wenn wir alle Freunde sind, fällt es uns nicht schwer;
+Ich helf’ dir und du hilfst mir. So will’s unser Herr.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Unser Freund heißt Jesus Christ, weil er immer bei uns ist.
+Montag, Dienstag, Mittwoch, Donnerstag und Freitag, ja.
+Unser Freund heißt Jesus Christ, weil er immer bei uns ist.
+Samstag und dann Sonntag immer ist er da.</lines>
+    </verse>
+  </lyrics>
+</song>

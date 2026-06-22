@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It's Not Form, It's Not Fashion</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On the day of Pentecost, there assembled quite a few,
+but the most important thing was soon to come.
+Then from heaven God did send, like the mighty rushing wind.
+Then they found the Holy Ghost so genuine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's not form, and it's not fashion.
+It's salvation sent from God suits me just fine.
+It's old yet it's new, It's powerful, yet it's true,
+I'm so glad this Holy Ghost is genuine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Skeptics always standing by, what does this mean they cried.
+Can't see the way you Pentecostals act.
+Peter preached to them that day, and it hastened them to say.
+We want this Holy Ghost so genuine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If the devil has you bound, and is running you around.
+There's just one way that your soul can be set free.
+Repent and be baptized, in the Name of Jesus Christ.
+Then the Holy Ghost will come so genuine.</lines>
+    </verse>
+  </lyrics>
+</song>

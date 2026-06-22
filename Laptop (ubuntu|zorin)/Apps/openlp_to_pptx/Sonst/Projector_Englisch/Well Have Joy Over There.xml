@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We’ll Have Joy Over There</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a longing here below
+Only God’s people can know
+We’ll be changed in a moment
+In the rapture far away
+We’re looking for a city
+That Abraham did in His day
+I am longing for the bright and
+perfect day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We’ll have joy over there
+In that city bright and fair
+When we gather around and sing
+Amazing grace,
+We’ll shout and dance about
+And we’ll sing Amazing love
+Oh yes we’ll sing Amazing grace
+over there, Over there.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He’ll call my name up there
+Before I climb those golden stairs
+We have loved ones there awaiting
+We’ll meet at the Eastern gate
+Oh my brother lets press on
+Till this battle has been won
+I can hardly wait to see,
+My Saviour’s face.</lines>
+    </verse>
+  </lyrics>
+</song>

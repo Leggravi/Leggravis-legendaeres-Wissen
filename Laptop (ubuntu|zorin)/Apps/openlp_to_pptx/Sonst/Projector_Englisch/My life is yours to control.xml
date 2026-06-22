@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My life is yours to control</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>With my whole heart I humbly seek you
+Now use my life o Lord I pray
+I yield my stubborn will completely
+May your commandments light my way</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My life Lord is yours to control
+I give you my heart and my soul
+I'll seek your will never mine
+Rich treasure to find
+Give wisdom to choices I make
+Along every path that I take
+And when I complete life's race
+Well done, You will say</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your word has promised me the victr'y
+And all I need to do is claim
+Your strength to sour with wings as eagles
+To walk to run and not to faint</lines>
+    </verse>
+  </lyrics>
+</song>

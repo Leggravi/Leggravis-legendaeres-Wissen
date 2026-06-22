@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir alle</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich bin nicht Richter über den Glauben.
+Mir steht kein Urteil über dich zu.
+Ich seh' die Splitter in deinen Augen,
+Doch meine Balken siehst vielleicht du.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vom Nahen Osten kommt nicht nur Schrecken.
+Der Arme Süden ist doch auch reich.
+Ich schätze Weisheit aus allen Völkern.
+Wir sind verschieden und doch so gleich.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Die Sonne scheint über uns allen,
+Der Regen lässt keinen aus,
+Ich wünsche nur jedem, den Retter zu kennen
+Und Gott nicht nur Herr sondern Vater zu nennen.
+Wer glaubt das er steht,
+Sehe das er nicht falle,
+Vergebung und Gnade brauchen wir alle.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Es gab viel Unrecht in Gottes Namen,
+Die Frohe Botschaft wurde verkehrt,
+Und die im Zeichen des Kreuzes kamen,
+Waren im Herzen oft selbst nicht bekehrt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ich könnte weinen das Macht und Missbrauch
+Sich mit der Botschaft der Liebe vermischt,
+Doch Gottes Reich hat andere Grenzen,
+Er sieht die Herzen und nicht was vor Augen ist.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Mensch, sieh hier das Leben</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Gerhardt</author>
+      <author type="music">Heinrich Isaak</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Mensch, sieh hier das Leben
+in bitt'ren Tod gegeben,
+des ew'gen Gottes Sohn!
+Der große Fürst der Ehren
+ließ' willig sich beschweren
+mit Banden, Schlägen, Spott und Hohn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wer hat Dich so geschlagen,
+o Herr, und Dich mit Plagen
+so übel zugericht't!
+Du bist ja nicht ein Sünder
+wie alle Menschenkinder,
+von Missetaten weißt Du nicht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich, ich und meine Sünden,
+die sich wie Körnlein finden
+des Sandes an dem Meer,
+die haben Dir erreget
+das Elend, das Dich schläget,
+und all das große Marterheer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ach, Herr, wer kann es fassen,
+dass Du am Kreuz verlassen
+von Gott für meine Schuld?
+Ja, Herr, als Du gestorben,
+hast du um mich geworben.
+O welche wunderbare Huld!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hab Dank denn für Dein Sterben!
+Ich sollte nicht verderben,
+nicht gehen in die Pein.
+Auf Dein Werk darf ich bauen,
+auf Dein Wort fest vertrauen.
+Ich weiß, so bin ich ewig Dein.</lines>
+    </verse>
+  </lyrics>
+</song>

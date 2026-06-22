@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wonderful Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Haldor Lillenas</author>
+      <author type="music">Haldor Lillenas</author>
+      <author type="translation">Wunder der Gnade Jesu</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wonderful, Wonderful Jesus,
+He is my Friend,
+True to the end.
+He gave Himself to redeem me,
+Jesus, wonderful Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

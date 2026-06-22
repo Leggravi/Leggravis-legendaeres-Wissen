@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Von Gott geliebt</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Von Gott geliebt, mehr als ein Wort.
+Mehr als ein Versprechen.
+Von Gott geliebt auf besondere Art,
+Gott hat uns kompromisslos geliebt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Und wir lieben Dich, Herr,
+und wir kommen, Herr, vor Deinen Thron.
+Geben alles Dir hin, o Herr,
+und vertrauen Deiner Liebe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und wir beten Dich an
+und wir singen Dir zur Ehre.
+Und wir danken Dir, o Herr
+und vertrauen Deiner Liebe.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dancing in the Street</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord I'm not ashamed
+To bless Your holy Name
+Declaring that You reign
+Singing Your glorious praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Am I'll go dancing in the streets
+My friends will see that I am on Your side
+Am I'll go dancing in the streets
+Well I've got this joy I just can't hide
+Dancing in the streets
+Dancing in the streets</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:36">
+  <properties>
+    <titles>
+      <title>Wer kann dich, Herr, verstehen</title>
+    </titles>
+    <authors>
+      <author type="words">Leipzig (1844)</author>
+      <author type="music">Böhmische Brüder</author>
+    </authors>
+    <ccliNo>6222891</ccliNo>
+    <themes>
+      <theme>Leid</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wer kann dich, Herr, verstehen,
+wer deinem Lichte nahn?
+Wer kann den Ausgang sehen
+von deiner Führung Bahn?
+Du lösest, was wir binden,
+du stürzest, was wir bau'n.
+Wir können's nicht ergründen,
+wir können nur vertrau'n.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wie liegt auf unserm Pfade
+oft schweres Hindernis;
+doch leitet deine Gnade
+uns sicher und gewiss.
+Sie lässt dein Heil uns finden
+durch Kampf mit Angst und Grau'n.
+Wir können's nicht ergründen,
+wir können nur vertrau'n.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wer darf, Herr, mit dir rechten
+um seiner Tage Los?
+Du zeigest deinen Knechten
+dich immer gut und groß.
+Selbst durch die Nacht der Sünden
+lässt sich dein Antlitz schau'n.
+Wir können's nicht ergründen,
+wir können nur vertrau'n.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Am letzten unsrer Tage
+umgibt uns noch dein Licht;
+drum keiner fürcht und zage,
+auch wenn das Herz ihm bricht.
+Mag Erdentrost ihm schwinden,
+auf dich nur dar er bau'n.
+Wir wollen's nicht ergründen,
+wir wollen nur vertrau'n.</lines>
+    </verse>
+  </lyrics>
+</song>

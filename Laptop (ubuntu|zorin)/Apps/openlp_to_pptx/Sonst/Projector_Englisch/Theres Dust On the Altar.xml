@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There's Dust On the Altar</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Children are scattered all over the land
+We’ve lost our love for our fellow man
+Fathers and mothers are parted today
+There’s dust on the altar where we used to pray</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let’s seek out the old paths and walk therein
+Our children are crying and dying in sin
+Satan is laughing as God’s people stray
+There’s dust on the altar where we used to pray</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tears that were once shed for a brother in need
+Are now called old fashioned, they’re no longer seen
+Greed and proud hearts have gotten in the way
+There’s dust on the altar where we used to pray</lines>
+    </verse>
+  </lyrics>
+</song>

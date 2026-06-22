@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lead Me Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Samuel Sebastian Wesley</author>
+      <author type="music">Frances Ridley Havergal</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lead me, Lord, lead me in Your arms
+In Your wondrous grace, in Your loving kindness
+Lead me, Lord, in Your dwelling place
+In Your righteousness, I’ll follow Your footstep.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lead me, Lord, fix my eyes on You,
+Mend this earthly thought and fill this empty heart
+Lead me Lord, all that I need, all that I have, all that I am.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lead me, Lord, to forgive and to give
+To lend a helping hand to my sisters and brothers
+Lead me, Lord, to be faithful and meek
+To serve joyfully and be a blessing to others.</lines>
+    </verse>
+  </lyrics>
+</song>

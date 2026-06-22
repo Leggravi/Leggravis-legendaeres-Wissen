@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Servant of All</title>
+    </titles>
+    <authors>
+      <author type="words">Eoghan Heaslip</author>
+      <author type="music">Eoghan Heaslip</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If you wanna be great in God's kingdom,
+Learn to be the servant of all.
+If you wanna be great in God's kingdom,
+Learn to be the servant of all.
+Learn to be the servant of all.
+Learn to be the servant of all.</lines>
+    </verse>
+  </lyrics>
+</song>

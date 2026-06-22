@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All that Really Counts</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Solomon concluded,
+&quot;All is vanity.&quot;
+Now my heart believes
+that it is true;
+Took me all this time
+to find reality,
+All I ever really want is You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All that really counts,
+All that's really true,
+All that really matters Lord, is You;
+Everything to gain,
+Nothing now to lose,
+All I ever really want is You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So take the grandest thing
+you know that life can give,
+Weigh it with eternity's bright side,
+One thing I have learned
+in all this life I live:
+There is truly nothing good but God.</lines>
+    </verse>
+  </lyrics>
+</song>

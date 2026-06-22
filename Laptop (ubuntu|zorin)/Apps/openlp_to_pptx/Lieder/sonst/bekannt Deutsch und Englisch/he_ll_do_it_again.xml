@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Nov 9, 2024, 8:55:15 PM">
+  <properties>
+    <titles>
+      <title>He'll Do It Again</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>You may be down and feel like God
+Has somehow forgotten
+That you are faced with circumstances
+You can't get through
+But now it seems that there's no way out
+And you're going under
+God's proven time and time again
+He'll take care of you</lines>
+    </verse>
+    <verse name="C2">
+      <lines>And He'll do it again
+He'll do it again
+If you'll just take a look
+At where you are now
+And where you've been
+Well hasn't He always
+come through for you
+He's the same now as then
+You may not know how
+You may not know when
+But He'll do it again</lines>
+    </verse>
+    <verse name="V3">
+      <lines>God knows the things
+you're going through
+And He knows how you're hurting
+You see he knows just how you're heart
+Has been broken in two.
+But He's the God of the stars,
+of the sun and the sea
+And He is your Father
+You see He can calm the storm
+And He'll find some way to fix it for you</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Oh He's still God and He will not fail you
+Oh He's still God and He will not change
+Know, Know that He's God
+and He's fighting for you
+Yes, just like Moses, just like Daniel,
+And just like Shadrach
+and Meshach, Abednego.</lines>
+    </verse>
+  </lyrics>
+</song>

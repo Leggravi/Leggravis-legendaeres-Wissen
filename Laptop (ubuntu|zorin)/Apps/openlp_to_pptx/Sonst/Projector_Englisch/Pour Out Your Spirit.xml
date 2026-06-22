@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Pour Out Your Spirit</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pour out your Spirit, pour out your Spirit
+Pour out your Spirit on me
+Pour out your Spirit, pour out your Spirit
+Pour out your Spirit on me</lines>
+    </verse>
+  </lyrics>
+</song>

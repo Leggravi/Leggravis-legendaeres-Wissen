@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Compass</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v4 v2 v5 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You’re not aimless
+In the valley
+There’s adventure in the lines
+And in between
+It’s not just existence
+A simple story
+You dust me off and
+Pull me back up on my feet
+Now I’m walking with
+The God who walks with me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh Spirit be my compass,
+Oh Spirit guide me home
+You know the only way to
+The place where I belong
+Though I’ve been prone to wander
+You’ve never been too far
+So Spirit be my compass
+Back to the Father’s heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though I’ve felt faithless
+I won’t be discouraged
+There’s a purpose
+For what feels like wondering
+And I’m still learnin’
+That one thing’s for certain
+You are greater than my heart’s humanity
+Oh I’m walking with
+The God who walks with me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So show me the way
+Show me the way
+Show me the way
+Back to the Father’s Heart
+Show me the way
+Show me the way
+Show me the way
+Back to the Father’s Heart</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So Spirit be my compass
+Back to the Father’s heart</lines>
+    </verse>
+  </lyrics>
+</song>

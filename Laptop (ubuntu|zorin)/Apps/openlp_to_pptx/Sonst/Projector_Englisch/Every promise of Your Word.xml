@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Every promise of Your Word</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From the breaking of the dawn to the setting of the sun,
+I will stand on ev'ry promise of Your Word.
+Words of power, strong to save, that will never pass away,
+I will stand on ev'ry promise of Your Word.
+For Your covenant is sure,
+And on this I am secure—
+I can stand on ev'ry promise of Your Word.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I stumble and I sin, condemnation pressing in,
+I will stand on ev'ry promise of Your Word.
+You are faithful to forgive that in freedom I might live,
+So I stand on ev'ry promise of Your Word.
+Guilt to innocence restored,
+You remember sins no more—
+So I'll stand on ev'ry promise of Your Word.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I'm faced with anguished choice, I will listen for Your voice,
+And I'll stand on ev'ry promise of Your Word.
+Through this dark and troubled land
+You will guide me with Your hand
+As I stand on ev'ry promise of Your Word.
+And You've promised to complete
+Ev'ry work begun in me—
+So I'll stand on ev'ry promise of Your Word.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hope that lifts me from despair, love that casts out ev'ry fear,
+As I stand on ev'ry promise of Your Word.
+Not forsaken, not alone, for the Comforter has come,
+And I stand on ev'ry promise of Your Word.
+Grace sufficient, grace for me,
+Grace for all who will believe—
+We will stand on ev'ry promise of Your Word.</lines>
+    </verse>
+  </lyrics>
+</song>

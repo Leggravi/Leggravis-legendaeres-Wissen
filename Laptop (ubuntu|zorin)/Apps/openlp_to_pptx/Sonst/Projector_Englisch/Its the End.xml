@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It's the End</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's the end
+It's the end
+It's the end of the journey
+It's the end
+It's the end
+It's the end of all things.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the West, It's the setting sun
+It is reaching the end of the race
+And I see that the time is right there
+It's the time of the setting sun.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And behold the great evening light
+has appeared for me in the West
+And It manifested the son of Man
+I believe it oh, yes I do.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yes pilgrim, it's the end of the race,
+Let us overcome this world and go.
+Oh just watch, what time is it?
+Let us overcome this world and go.</lines>
+    </verse>
+  </lyrics>
+</song>

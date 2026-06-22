@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You're Everywhere</title>
+    </titles>
+    <authors>
+      <author type="words">Graham Kendrick</author>
+      <author type="music">Graham Kendrick</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I heard the wondrous love song
+ It made my heart rejoice
+ Knew it was only a
+ mocking bird sing
+ But I've heard your voice
+ On a quiet twilight evening
+ Gazed at the summer sky
+ One by one
+ Stars are came out
+ But I saw your eyes</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And You're everywhere
+ In everything
+ You're in the new
+ Fallen the winter snow
+ The flowers in spring
+ You're in my heart
+ You're on my mind
+ You're everywhere
+ In everything
+ All the time.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I felt the soft breeze tremble
+ As i wondered down the land
+ And the music it made
+ As it rusted the leaves
+ I've heard you call my name
+ And unexpected shower
+ Came out of the sky so clear
+ I knew it was only
+ The rain on the face
+ But it fell like tears</lines>
+    </verse>
+  </lyrics>
+</song>

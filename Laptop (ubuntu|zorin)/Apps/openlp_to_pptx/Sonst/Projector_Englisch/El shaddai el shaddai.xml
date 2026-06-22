@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>El shaddai, el shaddai</title>
+    </titles>
+    <authors>
+      <author type="words">Andrea Adams-Frey</author>
+      <author type="music">Andrea Adams-Frey</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>El shaddai, el shaddai,
+El-elyon na adonia,
+Age to age you're still the same,
+By the power of the name.
+El shaddai, el shaddai,
+Erkamka na adonai,
+We will praise and lift you high,
+El shaddai.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Through your love and through the ram,
+You saved the son of abraham;
+Through the power of your hand,
+Turned the sea into dry land.
+To the outcast on her knees,
+You were the God who really sees,
+And by your might,
+You set your children free.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Through the years you've made it clear,
+That the time of christ was near,
+Though the people couldn't see
+What messiah ought to be.
+Though your word contained the plan,
+They just could not understand
+Your most awesome work was done
+Through the frailty of your son.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>His Yoke Is Easy</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord is my Shepherd,
+I shall not want,
+He maketh me down to lie
+In pastures green,
+He leadeth me
+The quiet waters by.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His yoke is easy,
+His burden is light,
+I've found it so,
+I've found it so;
+He leadeth me
+By day and by night,
+Where living waters flow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My soul crieth out:
+&quot;Restore me again,
+And give me
+The strength to take
+The narrow path
+  of righteousness,
+E'en for Thine own
+  name's sake.&quot;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yea, though I should walk
+The valley of death,
+Yet what should I fear from ill?
+For Thou art with me and
+Thy rod and staff support me still.</lines>
+    </verse>
+  </lyrics>
+</song>

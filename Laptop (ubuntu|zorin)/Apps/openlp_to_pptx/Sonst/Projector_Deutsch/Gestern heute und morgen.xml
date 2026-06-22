@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gestern, heute und morgen</title>
+    </titles>
+    <authors>
+      <author type="words">Dagmar Heizmann-Leucke</author>
+      <author type="music">Klaus Heizmann</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ob ich gehe oder stehe, ob ich mich im Kreise drehe,
+ob ich liege oder fliege, ob ich mich im Tanze wiege,
+ich bin Dir nicht unbekannt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gestern, heute und morgen, bin ich geborgen in Deiner Hand!
+Gestern, heute und morgen, bin ich geborgen in Deiner Hand!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ob ich fast den Kopf verliere, weil ich Mathe nicht kapiere, 
+ob ich recht die Worte schreibe oder Spitzensport betreibe, 
+ich bin Dir nicht unbekannt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gestern, heute und morgen, bin ich geborgen in Deiner Hand!
+Gestern, heute und morgen, bin ich geborgen in Deiner Hand!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ob ich Hausaufgaben mache oder über Witze lache, 
+ob ich durch den Wald marschier´ oder brülle wie ein Tier
+ich bin Dir nicht unbekannt.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gestern, heute und morgen, bin ich geborgen in Deiner Hand!
+Gestern, heute und morgen, bin ich geborgen in Deiner Hand!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ob ich schaffe und was tue oder ganz gemütlich ruhe, 
+ob ich esse oder trinke, tief in einem Traum versinke,
+ich bin Dir nicht unbekannt.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Gestern, heute und morgen, bin ich geborgen in Deiner Hand!
+Gestern, heute und morgen, bin ich geborgen in Deiner Hand!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Ob ich mit dem Fußball kicke, ob ich durch ein Fernrohr blicke, 
+ob ich mich mit Freunden zicke oder male oder stricke,
+ich bin Dir nicht unbekannt.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Gestern, heute und morgen, bin ich geborgen in Deiner Hand!
+Gestern, heute und morgen, bin ich geborgen in Deiner Hand!</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Ob ich mit der Schere schneide oder auf demPony reite, 
+ob leise bin und schweige oder dir die Zunge zeige,
+ich bin Dir nicht unbekannt.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Gestern, heute und morgen, bin ich geborgen in Deiner Hand!
+Gestern, heute und morgen, bin ich geborgen in Deiner Hand!</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Ob ich Purzelbäume schlage oder über´s Wetter klage, 
+ob ich 1000 Fragen frage oder dir „ich mag dich&quot; sage,
+ich bin Dir nicht unbekannt.</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Gestern, heute und morgen, bin ich geborgen in Deiner Hand!
+Gestern, heute und morgen, bin ich geborgen in Deiner Hand!</lines>
+    </verse>
+  </lyrics>
+</song>

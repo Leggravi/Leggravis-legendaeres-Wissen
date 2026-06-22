@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir beten dich an</title>
+    </titles>
+    <authors>
+      <author type="words">Gemeinschaft Emmanuel</author>
+      <author type="music">Angelique Dankers</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vater wir sind hier
+kommen wie wir sind
+schauen auf zu dir
+staunend wie ein Kind
+alles in uns weiß
+deine gegenwart
+die dein Wort verheißt
+den der auf dich schaut
+In wahrheit und im geist</lines>
+    </verse>
+    <verse name="v2">
+      <lines>wir beten dich an mit ganzem herzen
+wir beten dich an mit aller kraft
+wir beten dich an mit leib und seele
+hier und jetzt
+wir beten dich an mit unserm denken
+wir beten dich an mit unserm tun
+wir beten dich an mit unserem Leben
+hier und jetzt
+in Wahrheit und im Geist</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alles bringen wir
+ehren dich allein
+wollen immer mehr
+wahre beter sein
+denn jetzt ist die zeit
+in der sich erfüllt
+das dein Volk dich preist
+so wie du es willst
+in wahrheit und im geist</lines>
+    </verse>
+  </lyrics>
+</song>

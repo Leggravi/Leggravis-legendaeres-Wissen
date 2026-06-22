@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich möchte singen zu deinem Namen Ehr</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich möchte singen zu deinem Namen Ehr.
+Ich möchte jubeln vor Dir, mein Herr und Gott!
+ich möchte Dich preisen in deiner Herrlichkeit.
+Halleluja, halleluja, halleluja, halleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Denn deine Gnade hat alle Schuld getilgt.
+Und dein Erbarmen hat Leben mir gebracht.
+Und Dein Loblied in mein Mund gelegt.
+Halleluja, halleluja, halleluja, halleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Die ganze Welt sei erfüllt mit Lobgesang!
+Mit Jubelklang und mit Lobpreis jedes Tal.
+Es sollen rühmen die Berge allzumal.
+Halleluja, halleluja, halleluja, halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

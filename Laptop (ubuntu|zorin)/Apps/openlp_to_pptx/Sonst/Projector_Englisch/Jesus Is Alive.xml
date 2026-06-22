@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Is Alive</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">England</author>
+      <author type="translation">Jesus Christus lebt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v4 v9 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For all the earth had trembled
+The sun had hid it's face
+And all the men that walked with Him
+Had turned and run away
+They crucified thy Savior
+And laid Him in a tomb
+The life that once brought love and hope
+Slipped away that afternoon</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Satan gleamed with pleasure
+That day at Calvary
+For he thought he had won
+A mighty victory
+And like him all of the demons
+Of hell began to cheer
+O, but little did they know
+That their end was growing near.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Cause early Sunday morning
+Just like Jesus said
+He broke the curse of sin and death
+And He rose up from the dead
+Now we have a new beginning
+In a kingdom that has no ending
+Hallelujah, Hallelujah.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hallelujah, Jesus is alive,
+Death has lost its victory
+And the grave has been denied
+Jesus lives forever
+He's alive, He's alive.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He's the Alpha and Omega
+The first and last is He
+The curse of sin is broken
+And we have perfect liberty
+The Lamb of God has risen
+He's alive, He's alive</lines>
+    </verse>
+    <verse name="v6">
+      <lines>He's the author and
+The finisher of our faith,
+The stone they threw away
+Is the cornerstone today.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Death has no more vict'ry
+And the grave has no more sting,
+Hallelujah, hallelujah</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Wonderful, Counselor
+A mighty God is He
+The Everlasting Father
+He's the precious Prince of Peace
+He's the Word that lives forever
+He's alive, He's alive</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Hallelujah, Jesus is alive!</lines>
+    </verse>
+  </lyrics>
+</song>

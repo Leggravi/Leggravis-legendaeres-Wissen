@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Lord Knows The Way</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My Lord knows the way
+Through the wilderness;
+All I have to do is follow.
+My Lord knows the way
+Through the wilderness;
+All I have to do is follow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Strength for today is mine all the way,
+And all that I need for tomorrow;
+My Lord knows the way
+Through the wilderness;
+All I have to do is follow.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Was a Beggar</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was a beggar when
+I found this goldmine
+I was a stranger within,
+without a song,
+But now I can sing
+I'm a child of a King
+Just wait till you see my new home</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cause I’m as wealthy
+as a King in a palace
+I have riches that’s never been told,
+With Jesus I’m an heir so
+I’m a millionaire
+For I feel like my pockets
+Are full of diamonds and gold.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I guess I’ll never have a lot of money
+But I’m so rich with Him in my soul
+Yes I’d rather have His peace
+if it means all the tears
+For I feel like my pockets are full
+of diamonds and gold.</lines>
+    </verse>
+  </lyrics>
+</song>

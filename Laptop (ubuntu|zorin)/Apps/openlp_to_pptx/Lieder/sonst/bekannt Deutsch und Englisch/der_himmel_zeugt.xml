@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Nov 24, 2019, 7:47:27 PM">
+  <properties>
+    <titles>
+      <title>Der Himmel zeugt</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Der Himmel zeugt
+Von der Herrlichkeit
+des Herrn der Herrn
+Wer ist Ihm gleich
+dem einzig Auferstandenen</lines>
+    </verse>
+    <verse name="C2">
+      <lines>In Ewigkeit bist Du
+Das Lamm auf Gottes Thron
+Ich beuge meine Knie
+Und bete an den Sohn</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Verkündigt laut die Herrlichkeit
+des Herrn der Herrn
+Der geopfert ward
+Die Menschheit zu erlösen</lines>
+    </verse>
+  </lyrics>
+</song>

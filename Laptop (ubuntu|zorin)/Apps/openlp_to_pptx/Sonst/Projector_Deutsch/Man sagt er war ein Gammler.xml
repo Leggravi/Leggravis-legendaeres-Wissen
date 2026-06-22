@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Man sagt, er war ein Gammler</title>
+    </titles>
+    <authors>
+      <author type="words">Andreas Malessa</author>
+      <author type="music">Larry Norman</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Man sagt, er war ein Gammler,
+er zog durch das ganze Land,
+rauhe Männer im Gefolge,
+die er auf der Straße fand.
+Niemand wußte, wo er herkam,
+was er wollte, was er tat.
+Doch man sagte:
+Wer so redet, ist gefährlich für den Staat!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Man sagt, er war ein Dichter,
+seine Worte hatten Stil.
+Wer ihn hörte, schwieg betroffen,
+und ein Sturm war plötzlich still.
+Seine Bilder und Vergleiche
+waren schwierig zu verstehn,
+doch die Leute saßen stundenlang,
+ihn zu hören und zu sehn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Man sagt, er war ein Zauberer,
+an Wundern fehlt' es nicht.
+Er ging zu Fuß auf einem See
+und gab den Blinden Augenlicht.
+Machte Wein aus klarem Wasser,
+kannte Tricks mit Fisch und Brot,
+und er sprach von einer Neugeburt,
+weckte Menschen auf vom Tod.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Man sagt, er war Politiker, der rief:
+Ich mach euch frei!
+Und die Masse wollte gern,
+daß er ihr neuer König sei.
+Er sprach laut von Korruption
+und wies auf Unrecht offen hin,
+doch man haßte seinen Einfluß
+- und so kreuzigten sie ihn.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Er ist der Sohn des Höchsten,
+doch er kam, um Mensch zu sein;
+offenbarte Gottes Art,
+um uns aus Sünde zu befrein.
+So hab ich ihn erfahren,
+ich begann, ihn so zu sehn.
+Und ich meine, es wird Zeit,
+wir sollten ihm entgegen gehn.</lines>
+    </verse>
+  </lyrics>
+</song>

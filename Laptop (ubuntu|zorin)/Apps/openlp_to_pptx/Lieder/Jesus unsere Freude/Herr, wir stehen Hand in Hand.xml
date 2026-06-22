@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:50">
+  <properties>
+    <titles>
+      <title>Herr, wir stehen Hand in Hand</title>
+    </titles>
+    <authors>
+      <author type="words">Otto Riethmüller (1932)</author>
+      <author type="music">Himmel, Erde, Luft und Meer</author>
+    </authors>
+    <ccliNo>6204187</ccliNo>
+    <themes>
+      <theme>Lebensweg</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, wir stehen Hand in Hand,
+die dein Hand und Ruf verband,
+stehn in deinem großen Heer
+aller Himmel, Erd und Meer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wetter leuchten allerwärts,
+schenke uns das feste Herz!
+Deine Fahnen ziehn voran,
+führ auch uns nach deinem Plan!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Welten stehn um dich im Krieg,
+gib uns teil an deinem Sieg!
+Mitten in der Höllen Nacht
+hast du ihn am Kreuz vollbracht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In die Wirrnis dieser Zeit
+fahre, Strahl der Ewigkeit!
+Zeig den Kämpfern Platz und Pfad
+und das Ziel der Gottesstadt!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mach in unsrer kleinen Schar
+Herzen rein und Augen klar,
+Wort zur Tat und Waffen blank,
+Tag und Weg voll Trost und Dank!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Herr, wir gehen Hand in Hand,
+Wandrer nach dem Vaterland;
+lass dein Antlitz mit uns gehn,
+bis wir ganz im Lichte stehn.</lines>
+    </verse>
+  </lyrics>
+</song>

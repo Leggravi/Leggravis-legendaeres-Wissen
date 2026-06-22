@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gottes Sohn ist kommen Uns allen zu frommen H</title>
+    </titles>
+    <authors>
+      <author type="words">Böhmische Brüder</author>
+      <author type="music">Erich Gruber</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Gottes Sohn ist kommen
+Uns allen zu frommen
+Hie auf diese Erden
+In armen Gebärden,
+Dass er uns von Sünde
+Freiet und entbinde.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Er kommt auch noch heute
+Und lehret die Leute,
+Wie sie sich von Sünden
+Zur Buß sollen wenden,
+Von Irrtum und Torheit
+Treten zu der Wahrheit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Die sich sein nicht schämen
+und sein' Dienst annehmen
+Durch ein' rechten Glauben
+Mit ganzem Vertrauen,
+Denen wird er eben
+Ihre Sünd vergeben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Denn er tut ihn' schenken
+In den Sakramenten
+Sich selber zur Speisen,
+Sein Lieb zu beweisen,
+Dass sie sein genießen
+In ihrem Gewissen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Die also fest gläuben
+Und beständig bleiben,
+Dem Herren in allem
+Trachten zu gefallen,
+Die werden mit Freuden
+Auch von hinnen scheiden.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6. Denn bald und behende
+Kommt ihr letztes Ende;
+Da wird er vom Bösen
+Ihre Seel erlösen
+Und sie mit sich führen
+Zu der Engel Chören.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>7. Wird von dannen kommen,
+Wie dann wird vernommen,
+Wenn die Toten werden
+Erstehn von der Erden
+Und zu seinen Füßen
+Sich darstellen müssen.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>8. Da wird er sie scheiden:
+Seines Reiches Freuden
+Erben dann die Frommen,
+Doch die Bösen kommen
+Dahin, wo sie müssen
+Ihre Untugend büßen.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>9. Ei nun, Herre Jesu,
+Richt unsre Herzen zu,
+Dass wir, alle Stunden
+Recht gläubig erfunden,
+Darinnen verscheiden
+Zur ewigen Freuden.</lines>
+    </verse>
+  </lyrics>
+</song>

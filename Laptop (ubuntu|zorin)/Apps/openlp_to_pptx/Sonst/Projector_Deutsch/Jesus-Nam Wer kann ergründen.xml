@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus-Nam'! Wer kann ergründen</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Wittenberg</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>&quot;Jesus-Nam'!&quot; Wer kann ergründen
+Deine Tiefe, Deine Höh'!
+Wer die Gnad' und Lieb' verkünden,
+Deren End' ich nirgend seh'!
+Unausforschlich bleibet hier
+Deines Namens Fülle mir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>&quot;Jesus-Name&quot;! Ew'ge Quelle
+Alles Heils und aller Macht,
+Bist der Ruhort meiner Seele,
+Bist mein Licht in dunkler Nacht.
+Deine Liebe, Treu' und Gnad'
+Leiten mich auf ödem Pfad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>&quot;Jesus-Nam'&quot;! In Dir geborgen
+Geh' ich durch die Wüste hier,
+Wandle frei von Angst und Sorgen,
+Da selbst Satan weicht vor Dir.
+Bleibt mein Aug' auf Dich gericht't,
+Wanke und verzag' ich nicht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>&quot;Jesus-Name&quot;! Kraft der Schwachen,
+Ruh' der Müden, Trost im Schmerz,
+Bist im Sturm ein sichrer Nachen,
+Heilung für ein wundes Herz,
+Manna, das die Seele nährt,
+Zuflucht, wenn Versuchung währt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>&quot;Jesus-Name&quot;! Seelenweide,
+Hoffnung, die das Herz erquickt,
+Morgenstern, der allem Leide,
+Allem Elend mich entrückt.
+Droben werd' ich ganz verstehn,
+Was ich glaubend hier gesehn.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>&quot;Jesus-Name&quot;! Lebenssonne,
+Du, des Vaters ew'ge Freud',
+Bist auch meine Lust und Wonne,
+Jetzt und bis in Ewigkeit.
+Deine Strahlen, voll und frei,
+Machen auch die Schöpfung neu.</lines>
+    </verse>
+  </lyrics>
+</song>

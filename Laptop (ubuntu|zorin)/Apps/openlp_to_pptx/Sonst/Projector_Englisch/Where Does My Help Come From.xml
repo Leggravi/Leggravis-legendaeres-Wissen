@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Where Does My Help Come From</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lift up my eyes to the hills
+Where does my help come from
+My help comes from the Lord
+Maker of Heaven and earth
+O Maker of Heaven and earth</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your foot shall never be moved
+You'll never stumble
+Or slip no never
+He who watches Israel
+He never slumbers or sleeps
+No He never slumbers or sleeps</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Lord will keep you from harm
+He watches over your soul
+He will watch you come and go
+Now and forevermore forever
+Now and forevermore</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lift up my eyes to the hills
+Where does my help come from
+My help comes from the Lord
+Maker of Heaven and earth
+O Maker of Heaven and earth
+O Maker of Heaven and earth
+O Maker of Heaven and earth</lines>
+    </verse>
+  </lyrics>
+</song>

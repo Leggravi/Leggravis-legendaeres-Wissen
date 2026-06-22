@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Promise You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You've changed my life
+Now I want to be forever faithful
+I have decided I'll be the man God wants me to be
+I'll stand by you
+Through good and bad
+I'll be right here
+To hold your hand
+His love is the reason I say</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I promise you
+As sure as oceans are blue
+I am gonna love you forever
+I promise you
+No matter what you go through
+We are gonna make it together
+I promise you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I see you cry
+And I want you to know that I'm crying with you
+I won't say good-bye
+Nothing's gonna keep me away
+I know it's hard to trust sometimes
+I know there are questions on your mind
+Please let me tell you again</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Even when your dreams begin to fade
+You can have faith
+I will be true to the promise I made
+You can believe in me</lines>
+    </verse>
+  </lyrics>
+</song>

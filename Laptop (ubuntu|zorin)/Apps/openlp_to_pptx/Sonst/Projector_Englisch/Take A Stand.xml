@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Take A Stand</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Take a stand.
+Take a stand.
+Take a stand.
+If I'll never ever see you anymore,
+Take a stand.
+Take a stand.
+Take a stand.
+I'll see you in Canaan's shore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Preach the word.
+Preach the word.
+Preach the word.
+If I'll never ever see you anymore,
+Preach the word.
+Preach the word.
+Preach the word.
+I'll see you in Canaan's shore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Shake a hand.
+Shake a hand.
+Shake a hand.
+If I'll never ever see you anymore
+Shake a hand.
+Shake a hand.
+Shake a hand.
+I'll see you in Canaan's shore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Love the truth.
+Love the truth.
+Love the truth.
+If I'll never ever see you anymore,
+Love the truth.
+Love the truth.
+Love the truth.
+I'll see you in Canaan's shore.</lines>
+    </verse>
+  </lyrics>
+</song>

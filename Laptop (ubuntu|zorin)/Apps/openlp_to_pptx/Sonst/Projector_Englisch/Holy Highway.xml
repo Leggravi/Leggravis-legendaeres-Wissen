@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Holy Highway</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a road called the holy highway, that once was a desert land,
+Very soon you'll hear the sound of a holy marching band,
+Everlasting joy upon them, there's a remnant strong and true,
+We bring the song back to Zion; we bring the praise back to you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We exalt You, God Almighty, You are worthy to be praised,
+Let all nations bow before You, Holy Ancient of all days.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's a road called the holy highway, where the people dance and shout
+For the enemy is running with confusion all about.
+Raise our banners in the victory; raise them high His word is true
+We bring our song back to Zion, we bring the praise back to you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We exalt You, God Almighty, You are worthy to be praised
+Let all nations bow before You, Holy Ancient of all days.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Holy, holy, holy, Lord God Almighty,
+Holy, holy holy is the Lord,
+Hallelujah, hallelujah, hallelujah.
+Hallelujah, hallelujah, hallelujah.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>There's a road called the holy highway that once was a desert land
+Very soon you'll hear the sound of a holy marching band and
+Everlasting joy upon them, there's a remnant strong and true
+We bring the song back to Zion; we bring the praise back to you
+We bring the praise back to you.</lines>
+    </verse>
+  </lyrics>
+</song>

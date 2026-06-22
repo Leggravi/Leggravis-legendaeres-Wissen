@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Afflicted saint, to Christ draw near</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Afflicted saint, to Christ draw near,
+Your Savior’s gracious promise hear;
+His faithful Word you can believe:
+That as your days your strength shall be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So, sing with joy, afflicted one;
+The battle’s fierce, but the victory’s won!
+God shall supply all that you need;
+Yes, as your days your strength shall be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your faith is weak, your foes are strong,
+And if the conflict should be long,
+The Lord will make the tempter flee
+That as your days your strength shall be.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Should persecution rage and flame,
+Still trust in your Redeemer’s name.
+In fiery trials you shall see
+That as your days your strength shall be.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When called to bear your weighty cross
+Or sore affliction, pain, or loss,
+Or deep distress or poverty,
+Still as your days your strength shall be.</lines>
+    </verse>
+  </lyrics>
+</song>

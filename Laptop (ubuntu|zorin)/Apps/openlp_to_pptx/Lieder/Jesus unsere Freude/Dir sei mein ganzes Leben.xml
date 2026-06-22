@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:12">
+  <properties>
+    <titles>
+      <title>Dir sei mein ganzes Leben</title>
+    </titles>
+    <authors>
+      <author type="words">Wilhelm Griesinger (1910)</author>
+      <author type="music">Wilhelm Griesinger</author>
+    </authors>
+    <ccliNo>6222554</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dir sei mein ganzes Leben,
+o Jesus, nun geweiht;
+dir sei es übergeben in alle Ewigkeit!
+Nichts soll mich von dir scheiden,
+nicht Leben, nicht der Tod.
+Ich huldige mit Freuden dir,
+meinem Herrn und Gott.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du hast an mich aus Gnaden
+dein teures Blut gewandt,
+willst heilen meinen Schaden,
+hältst mich bei meiner Hand.
+Und wenn zu manchen Zeiten
+der Feind mir setzet zu,
+so willst du für mich streiten:
+Wo ist ein Gott wie du?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wohlan denn ich verschreibe
+dir nun mein ganzes Ich:
+Geist, Seele samt dem Leibe,
+ganz sollst du haben mich.
+Nimm mich in deine Pflege;
+präg aus dein Bild in mir;
+tu kund mir deine Wege!
+Herr, mich verlangt nach dir.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Man I’m Looking For</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If you see a man in sandals,
+please send Him down my way
+It might be my Master,
+He’s coming back some day,
+If you see a man in white,
+that’s like no one you’ve seen before
+Won’t you let me know,
+that’s the man I’m looking for.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And if you can remember,
+Ask Him what’s His name,
+And if He tells you Jesus,
+Say we’re glad you came
+Tell Him you know
+someoneThat still calls
+Him Lord
+Then send Him on to me,
+That’s the man I’m looking for.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If you see a man that shines with
+a love flow on His face;
+Turn Him down my street,
+so He can find my place,
+And if His hands are scarred,
+please don’t shut the door
+Just send Him on to me,
+that’s the man I’m looking for.</lines>
+    </verse>
+  </lyrics>
+</song>

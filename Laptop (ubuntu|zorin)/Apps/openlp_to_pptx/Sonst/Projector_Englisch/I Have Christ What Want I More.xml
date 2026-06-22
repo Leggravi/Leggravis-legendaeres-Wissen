@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Have Christ What Want I More?</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the heart of London city,
+Mid the dwellings of the poor,
+These bright golden words
+were uttered:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have Christ! What want I more?
+I have Christ! What want I
+more?
+I have Christ! What want I
+more?
+I have Christ! What want I
+more?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spoken by a lonely woman,
+Dying on a garret floor;
+Having not one earthly comfort:
+I have Christ! What want I more?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, her words will live forever;
+I repeat them o’er and o’er;
+God delights to hear me saying,
+I have Christ! What want I more?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, my dear, my fellow sinners,
+High and low, and rich and poor;
+Can you say, with deep
+thanksgiving,
+I have Christ! What want I more?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Look away from earth’s attractions,
+All it's joys will soon be o’er;
+Trust Him now, and say with
+gladness:
+I have Christ! What want I more?</lines>
+    </verse>
+  </lyrics>
+</song>

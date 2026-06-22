@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Love Covers All</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who am I to stand in judgement
+As if I had never seen
+For if I had to list my failures
+I wouldn't know where to begin</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who am I to not forgive you
+The way that gods forgiven me
+If it wasn't for compassion
+I don't know where I would be</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Love covers all
+Love covers all
+We all fail, we all fall
+But love covers all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Who are we to still remember
+Things that one cause such regret
+Knowing what he has forgiven
+He has chosen to forget</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There is no more condemnation
+For the ones who dwell in him
+And his grace is still sufficient
+To reminds us once again</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Love covers all
+Love covers all</lines>
+    </verse>
+  </lyrics>
+</song>

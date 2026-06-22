@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Take Over</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm a sinful man struggling for Your mercy.
+Like the prodigal son, I went out on my own
+I squandered my grace and the devil put me down,
+but I know… who I am
+I felt the touch of Jesus on my soul
+I know the love and fellowship of brothers
+I am coming back home Lord I surrender,
+take me back to the fold.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take over, Lord take over
+I'll let go of the reins so You can lead
+I'll move over, You'll take over
+I realise I'm going wrong again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm a loyal servant faithful in my zeal
+Lord You've given me the chance to serve the Kingdom
+Like Peter by faith I'm walking on the sea
+But my pride keeps getting in the way
+And looking back I realise that I'm sinking
+I can't do this alone, the waves are getting strong
+I'm holding out my hand and praying for Your Grace
+Won't You take it Lord, and help me walk again.</lines>
+    </verse>
+  </lyrics>
+</song>

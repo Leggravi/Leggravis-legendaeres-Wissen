@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord of all</title>
+    </titles>
+    <authors>
+      <author type="words">Joe King</author>
+      <author type="music">Joe King</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I surrender
+I will yield
+I will bow down
+I will live
+I will seek You
+All my days
+I will follow
+All Your ways</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Cause You are my only One
+You are my only One</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I want to live for You
+Be glorified forever
+My life will declare
+You alone are Lord
+Everything of me
+Use it for Your glory
+That everyone will see
+Will hear, will know
+You are Lord of all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will worship
+I will praise
+I will lift up
+Your Holy Name
+I will give You
+All the glory
+All the honor
+Due Your Name</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Here I am, Lord, mold me
+Here I am, Lord, use me
+Here I am, Lord, send me
+For Your glory</lines>
+    </verse>
+  </lyrics>
+</song>

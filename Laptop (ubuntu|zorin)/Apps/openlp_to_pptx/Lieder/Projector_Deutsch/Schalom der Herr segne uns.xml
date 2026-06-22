@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Schalom, der Herr segne uns</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Schnitter</author>
+      <author type="music">Gerhard Schnitter</author>
+      <author type="translation">Shalom, Shalom! His peace upon us</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Schalom, Schalom, der Herr segne uns.
+Schalom, Schalom, der Herr segne uns.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Der Herr sei vor dir,
+um dir den rechten Weg zu zeigen.
+Er sei neben dir,
+dass sein Arm dich beschütze.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Der Herr sei hinter dir,
+un dich vor Feinden zu bewahren.
+Er sei unter dir.
+Er hält dich wenn du fällst.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Der Herr sei in dir,
+um dich in Traurigkeit zu trösten.
+Er sei un dich her,
+den Bösen abzuwehren.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Der Herr sei über dir,
+um seinen Reichtum dir zu geben.
+So umgebe dich
+der Herr von allen Seiten.</lines>
+    </verse>
+  </lyrics>
+</song>

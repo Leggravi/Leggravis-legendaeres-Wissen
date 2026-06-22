@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When I Reach That City</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On the top of Mount Zion is a city
+And the earth with glory it doth fill;
+I shall look on its beauty in the morning
+When I reach that city on the hill.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, that city on Mount Zion,
+Tho’ a pilgrim, yet I love thee still;
+I’ll not leave thee, through the ages,
+When I reach that city on the hill.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I’m invited to come home to that city,
+For the Word says, “Whosoever will,”
+And I’ll find there a mansion for me waiting
+When I reach that city on the hill.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Death will never molest me in that city,
+Never leave me lying cold and chill;
+And I’ll enter to live up there forever
+When I reach that city on the hill.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So I’ll stay here until my Saviour calls me,
+Trying daily to perform his will,
+Then He’ll say unto me, “Well done,” up yonder,
+When I reach that city on the hill.</lines>
+    </verse>
+  </lyrics>
+</song>

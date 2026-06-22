@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:50">
+  <properties>
+    <titles>
+      <title>Gesegnet sei das Band</title>
+    </titles>
+    <authors>
+      <author type="words">Julius Carl Grimmell (1885)</author>
+      <author type="music">Hans Georg Nägeli</author>
+    </authors>
+    <ccliNo>4343325</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gesegnet sei das Band, das uns im Herrn vereint!
+Geknüpft von Christi Liebeshand, bleibts fest, bis er erscheint.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vor unsers Vaters Thron steigt ernstlich unser Flehn,
+in Leid und Freud ein Herz, ein Geist, so klingts dem Vater schön.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir tragen jede Last mit Schwergeprüften gern;
+des Mitleids Tränen fließen oft vereint vor unserm Herrn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und scheiden wir allhier, so gibt's uns tiefen Schmerz,
+doch bleiben wir im Geist vereint und pilgern himmelwärts.</lines>
+    </verse>
+  </lyrics>
+</song>

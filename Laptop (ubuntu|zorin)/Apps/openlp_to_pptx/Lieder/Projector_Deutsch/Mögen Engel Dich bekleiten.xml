@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mögen Engel Dich bekleiten</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mögen Engel dich bekleiten auf dem Weg, der vor dir liegt. Mögen sie dir immer zeigen, dass dich Gott unendlich liebt. Mögen Engel dich bekleiten auf dem Weg, der vor dir liegt. Mögen sie dir immer zeigen, dass dich Gott unendlich liebt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. Ihre Worte woll'n erhellen deinen Tag und deine Nacht. Das sie hinter dich sich stellen, lässt dich spüren Gottes Macht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Ihre Hände werden halten, wenn ins stolpern du gerätst. Manchmal werden sie sie falten, wo du in Gefahren schwebst.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Ihre Füße wirst du sehen, in den Spuren neben dir. Sei getrost auf deinen Wegen, öffne deine Herzenstür.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4. Flügel müssen sie nicht haben, nur ein freundliches Gesicht, dass du weißt, du bist getragen, in die Irre gehst du nicht.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>5. Du sollst nicht alleine gehen, wir sind alle für dich da. Wollen als Engel zu dir stehen, sagen zu dir alle: Ja</lines>
+    </verse>
+  </lyrics>
+</song>

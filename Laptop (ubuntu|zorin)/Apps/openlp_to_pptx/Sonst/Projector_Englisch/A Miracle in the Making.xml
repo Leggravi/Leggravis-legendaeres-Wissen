@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>A Miracle in the Making</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The crowd was great but she knew she had to reach Him,
+For it was her last hope of ever being healed;
+So she pressed through the crowd until she touched His garment,
+And right there and then, her miracle was fulfilled.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's a miracle in the making, one just for you,
+Your Father is working it right now;
+Your prayers have been heard
+And the answer's on the way.
+There's a miracle in the making for you today.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Have you prayed and prayed but still you heard no answer,
+Has your faith grown weak and you feel you're walking all alone?
+Don't give up for the God you serve won't leave you,
+There's a miracle just for you, you've got to keep holding on.</lines>
+    </verse>
+  </lyrics>
+</song>

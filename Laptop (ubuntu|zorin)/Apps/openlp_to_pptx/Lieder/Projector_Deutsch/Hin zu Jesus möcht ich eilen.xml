@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hin zu Jesus möcht' ich eilen</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hin zu Jesus möcht' ich eilen,
+Heim zu meinem teuren Herrn!
+Ewig, ewig bei Ihm weilen,
+Dort, wo Sünd' und Kummer fern.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Möchte dieser Welt entfliehen,
+Dieser Zeiten Eitelkeit,
+Heimwärts, heimwärts möcht' ich ziehen
+In des Lammes Herrlichkeit!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O mein Jesus, welch Entzücken
+Wird's für meine Seele sein,
+Dich verherrlicht zu erblicken,
+Ewig Dir mein Lob zu weihn!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Komm, Herr Jesus, hör' das Flehen,
+Führ die Braut zur Hochzeit ein!
+Heut' noch möcht' ich zu Dir gehen,
+Ewig, ewig bei Dir sein!</lines>
+    </verse>
+  </lyrics>
+</song>

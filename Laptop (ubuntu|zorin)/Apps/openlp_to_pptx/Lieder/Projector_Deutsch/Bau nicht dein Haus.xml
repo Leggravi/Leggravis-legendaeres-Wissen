@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Bau nicht dein Haus</title>
+    </titles>
+    <authors>
+      <author type="words">Günter Balders</author>
+      <author type="music">Karen Lafferty</author>
+      <author type="translation">Don't Build Your House on the Sandyland</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bau nicht dein Haus auf den losen Sand
+Bau nicht zu nah am Strand
+Sieht's vielleicht auch ganz schick aus musst du doch bald wieder raus
+Denn dein Haus hält nie und nimmer stand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Doch besser bau dein Haus auf einen Fels
+Leg ein Fundament auf einen festen Grund
+Wenn dann Stürme kommen und gehn'
+Wird dein Haus noch immer felsenfest stehn'</lines>
+    </verse>
+  </lyrics>
+</song>

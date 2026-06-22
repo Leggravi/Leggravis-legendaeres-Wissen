@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I've Decided</title>
+    </titles>
+    <authors>
+      <author type="words">Jonathon Douglass</author>
+      <author type="music">Jonathon Douglass</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have decided, Am gonna live
+like a believer,
+Turn my back on the deciever,
+Am gonna live what I Believe.
+I have decided, being good is
+just a fable,
+I just can't cause am not able
+Am gonna leave it to the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is a wealth of good that
+I professed
+I said that I believed
+But deep inside I never changed,
+I guess I had been deceived ‘
+Cause the voice inside kept
+telling me
+I'll change by and by
+But the Spirit made it clear to me,
+That kind of life is lie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So forget the game of being good,
+And your self righteousness
+Cause the only good inside
+of your heart
+Is the good that Jesus brings
+When the world begins to see
+you changed
+Don’t expect them to applaud
+Just put your eyes on Him and say,
+I’ve become the work of God</lines>
+    </verse>
+  </lyrics>
+</song>

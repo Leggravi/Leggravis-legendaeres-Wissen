@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>One Day Jesus Will Call My Name</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Some days drag and some days fly
+And some days I think of the day I'll die
+Some days fill me and some days drain
+And one day Jesus will call my name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>One day Jesus will call my name
+As days go by, 'hope I don't stay the same.
+I wanna get so close to Him that it's no big change,
+On that day that Jesus calls my name!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Most days I pray, but some days I curse.
+A said number of days I put myself first.
+But it's not what I do, the cross made that plain.
+And one day Jesus will call my name!</lines>
+    </verse>
+  </lyrics>
+</song>

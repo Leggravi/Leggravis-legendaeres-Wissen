@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Love Him Too Much to Fail Him</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I love Him too much to fail Him now
+I love too much to break my vow
+For I promised the Lord that
+I will make it somehow
+For I love Him too much to fail Him</lines>
+    </verse>
+  </lyrics>
+</song>

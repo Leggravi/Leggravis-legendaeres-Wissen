@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jun 10, 2021, 12:15:58 PM">
+  <properties>
+    <titles>
+      <title>Vater im Himmel</title>
+    </titles>
+    <verseOrder>V1 V2 C3 V4 V2 C3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Aus der Tiefe meines Herzens
+steigt ein Loblied auf zu dir,
+zu dem Schöpfer aller Himmel
+zu dem Gott, der wohnt in mir
+Du hast mich erdacht, geschaffen
+und geformt nach deinem Bild,
+durch die schwere Zeit getragen
+und mit deinem Geist erfüllt.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Du bist die Quelle
+das Leben in Fülle</lines>
+    </verse>
+    <verse name="C3">
+      <lines>Vater im Himmel, du bist mir heilig.
+Vater, für immer ehre ich dich.
+Vater, dein Name werde geheiligt
+und dein Licht scheine durch mich.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Du hast mir genug gegeben,
+an deinen Tisch lädst du mich ein.
+Lehre mich, bewusst zu leben,
+in deiner Gegenwart zu sein.
+Du hast mich so reich gesegnet,
+ich darf an deinem Herzen ruhn.
+Und was immer mir begegnet
+hat mit dir etwas zu tun.</lines>
+    </verse>
+  </lyrics>
+</song>

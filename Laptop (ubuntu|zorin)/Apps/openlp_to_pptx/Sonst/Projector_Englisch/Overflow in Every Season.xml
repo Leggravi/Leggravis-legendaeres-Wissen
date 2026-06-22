@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Overflow (in Every Season)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v2 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In every season
+You give me life,
+You shine through the darkness
+You are my light
+My death you defeated
+You gave me new life
+You've taken my sorrow
+My joy is in Christ.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Cause when I'm with You
+I come alive
+My day's full of color
+I dance through the night
+When I see You move
+I follow Your lead
+My eyes are on You
+And Yours are on me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You give me joy,
+You give me joy,
+You give me joy,
+You give me joy.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My sin beyond measure,
+Your grace was the cure,
+In You I'm victorious,
+My future is secure.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Overflowing,
+Your joy is overflowing in me.</lines>
+    </verse>
+  </lyrics>
+</song>

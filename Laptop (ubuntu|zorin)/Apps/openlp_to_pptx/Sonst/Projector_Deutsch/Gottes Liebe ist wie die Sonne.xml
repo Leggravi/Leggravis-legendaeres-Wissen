@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gottes Liebe ist wie die Sonne</title>
+    </titles>
+    <authors>
+      <author type="words">Gert Fuster</author>
+      <author type="music">Gert Fuster</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gottes Liebe ist wie die Sonne, sie ist immer und überall da. 2x</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Streck dich ihr entgegen, nimm so viel du brauchst.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sie kann auch dich verändern, macht das Leben neu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mag auch manche Wolke, zwischen dir und Gottes Liebe stehn.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gib diese Liebe weiter, auch an den der dich nicht lieben kann.</lines>
+    </verse>
+  </lyrics>
+</song>

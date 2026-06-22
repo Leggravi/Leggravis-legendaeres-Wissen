@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Amazing Grace – v3</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amazing grace! what a sweet sound,
+Which Saved a vile man like me!
+I was lost, I am found,
+Blind, now I see.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This grace has taught me fear,
+And she took away my fears;
+How precious this grace seemed
+The moment I believed!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In dangers, sorrows and snares,
+What I have been through;
+This grace that kept me safe and sound
+Will lead me to Heaven.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The Lord has promised me good,
+His Word sustains me,
+He will be my Shelter, my Part
+As long as I have life.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>After ten thousand years spent there,
+Shining like the sun,
+We will have more time than before
+To praise our God.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>When this robe of flesh falls,
+My mortal life will cease;
+I will possess in the hereafter
+A life of joy and peace.</lines>
+    </verse>
+  </lyrics>
+</song>

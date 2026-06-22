@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gemacht für diese Zeit</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v2 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich seh' ein Land vor mir
+Und ich spür' die Freiheit
+Ich lobe deinen Namen
+Noch bevor sich das Meer teilt
+Es gibt keinen Weg vorbei
+Es führt kein Weg zurück
+Ich richt' meinen Blick nach oben
+Ich wag' den nächsten Schritt</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich bin gemacht für diese Zeit
+Gemacht für diesen Ort
+Geformt von deiner Hand
+Gebor'n für diesen Kampf
+Ich kämpf' mein ganzes Leben
+Dem Siegeskranz entgegen
+Ich hör' dein Ja und Amen
+Laut über meinem Namen</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn Riesen sich erheben
+Ich weiß es kommt die Zeit
+Dann halte ich fünf Steine
+In meiner Hand bereit
+Soll's nur einer wagen
+Es soll nur einer komm'n
+Der Sieger steht schon fest
+Der Krieger hat verlor'n</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Solange du mir Atem schenkst
+Will ich deinen Namen sing'n
+Ich will deinen Namen loben
+Mauern fall'n zu Boden
+Ich weiß, dass ich siegreich bin
+Von dir gemacht um zu gewinn'n
+Ich will deinen Namen loben</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Solange du mir Atem schenkst
+Will ich deinen Namen sing'n
+Ich will deinen Namen loben
+Und Ketten fall'n zu Boden
+Ich weiß, dass ich siegreich bin
+Von dir gemacht um zu gewinn'n
+Ich will deinen Namen loben
+Ich bin gemacht für diese Zeit</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ich gebor'n für ein Leben
+An deiner Seite, Herr
+Eins kann mir keiner nehmen:
+Die Ewigkeit mit dir!</lines>
+    </verse>
+  </lyrics>
+</song>

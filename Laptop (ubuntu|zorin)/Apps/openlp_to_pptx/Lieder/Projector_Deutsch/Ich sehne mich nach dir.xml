@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich sehne mich nach dir</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Wilhelm Brockhaus</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich sehne mich nach Dir.
+Mein Heiland, Dich hat Gott erhoben,
+Du sitzt zu Seiner Rechten droben.
+Ich aber wandle hier
+Und sehne mich nach Dir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich sehne mich nach Dir.
+Hier auf des Lebens Pilgergange
+Sucht Dich mein Blick – o bleib nicht lange!
+Ich bin beschweret hier.
+Ich sehne mich nach Dir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich sehne mich nach Dir.
+Wie sollt' vor Not und Tod mir grauen?
+Du führst aus Glauben mich zum Schauen.
+Dir leb' und sterb' ich hier.
+Ich sehne mich nach Dir.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich sehne mich nach Dir.
+Du kennest meines Herzens Sehnen,
+Du siehst und trocknest meine Tränen.
+Nie bist Du ferne mir.
+Ich sehne mich nach Dir.</lines>
+    </verse>
+  </lyrics>
+</song>

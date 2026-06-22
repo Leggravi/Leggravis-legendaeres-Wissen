@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Family that Prays Together</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh God Almighty, I need you to guide me
+In leading my family
+I want to be like You
+In everything that I do
+Make me able to make it through</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh Lord strengthen me, to be the light of this family
+And submit myself to him
+To help and support him, respect and honor him
+As we both raise our loving children</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You and me and our God
+We can make a perfect harmony because</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The family that prays together, stays together
+Hand in hand we trust the Lord to stand through the test of time
+The family that “praise together”, sings together
+We will lift our voices with the sweetest melody to our God
+Together we pray, together we build our family</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I’m just a girl, learning about this whole world 
+I’ve been blessed my mom is always there
+She's teaching me how to love the Lord,
+To trust and know Him more
+I can feel the love how she cares</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I’m just a boy, I just love to play with my toys  
+But daddy taught me better things to do
+I will honor my mother and my father 
+For this is what the bible says</lines>
+    </verse>
+    <verse name="v7">
+      <lines>You and me and our God
+We can make a perfect harmony because</lines>
+    </verse>
+    <verse name="v8">
+      <lines>The family that prays together, stays together
+Hand in hand we trust the Lord to stand through the test of time
+The family that “praise together”, sings together
+We will lift our voices with the sweetest melody to our God
+Together we pray, together we build our family</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Together we pray, together we build
+Together we stay as a family</lines>
+    </verse>
+  </lyrics>
+</song>

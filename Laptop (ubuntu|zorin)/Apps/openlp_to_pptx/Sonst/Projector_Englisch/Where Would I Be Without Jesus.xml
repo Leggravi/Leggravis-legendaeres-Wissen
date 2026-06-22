@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Where Would I Be Without Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Jason Ingram</author>
+      <author type="music">Jason Ingram</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When my burdens get heavy,
+I just kneel on my knees and pray,
+I ask the Lord to work them out,
+Not mine,
+but His own way
+Faith in His own sorrows relief
+Oh Without Jesus,.
+where would I be?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where would I be without
+Jesus,
+Where would I spend eternity?
+Lost in a world full of sorrows,
+Oh, without Jesus where
+would I be?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In Chapter 14, of John verse
+two and three
+He said He is preparing a
+place for you and me,
+With Him on my side,
+that’s all I'll ever need,
+For without Jesus where
+would I be?</lines>
+    </verse>
+  </lyrics>
+</song>

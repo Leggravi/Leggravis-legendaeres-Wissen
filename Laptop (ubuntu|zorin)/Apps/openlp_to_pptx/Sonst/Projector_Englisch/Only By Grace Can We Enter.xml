@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Only By Grace Can We Enter</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Only by grace can we enter
+Only by grace can we stand
+Not by our human endeavor
+But by the Blood of the Lamb
+Into Your presence You call us
+You call us to come
+Into Your presence You draw us
+And now by Your grace we come
+Now by Your grace we come</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord if You mark our transgressions
+Who will stand
+Thanks to Your grace
+We are cleansed by the Blood
+ of the Lamb, Precious Lamb
+Lord if You mark our transgressions
+Who will stand
+Father, thanks to Your grace
+We are cleansed by the Blood
+ of the Lamb</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Will there be any stars in my crown?</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am thinking today of that beautiful land
+I shall reach when the sun goeth down
+When thro wonderful grace by my savior I stand
+Will there be any stars in my crown?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Will there be any stars, any stars in my crown
+When at evening the sun goeth down
+When I wake with the blest in the mansions of rest
+Will there be any stars in my crown</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the strength of the Lord let me labor and pray
+Let me watch as a winner of souls
+That bright stars may be mine in the glorious day
+When His praise like the sea billows roll</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh what joy it will be when His face I behold
+Living gems at his feet to lay down
+If would sweeter my bliss in the city of gold
+Should there be any stars in my crown</lines>
+    </verse>
+  </lyrics>
+</song>

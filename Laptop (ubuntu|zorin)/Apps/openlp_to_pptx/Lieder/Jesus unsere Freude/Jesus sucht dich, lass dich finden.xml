@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:10">
+  <properties>
+    <titles>
+      <title>Jesus sucht dich, lass dich finden</title>
+    </titles>
+    <authors>
+      <author type="words">Hedwig von Redern (1927)</author>
+      <author type="music">Herz und Herz vereint zusammen</author>
+    </authors>
+    <ccliNo>6146197</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus sucht dich, lass dich finden,
+lass dich retten, komm herzu!
+Lass dich heilen und verbinden,
+komm, beim Heiland da ist Ruh!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus sucht dich!
+Voll Erbarmen, voller Liebe ist sein Herz,
+und er steht mit offnen Armen;
+dass du zögerst, macht ihm Schmerz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Denn du fehlst ihm! Sein Verlangen
+steht nach dir und deinem Glück;
+flieh die Mächte, die dich zwangen,
+kehr zu deinem Herrn zurück!</lines>
+    </verse>
+  </lyrics>
+</song>

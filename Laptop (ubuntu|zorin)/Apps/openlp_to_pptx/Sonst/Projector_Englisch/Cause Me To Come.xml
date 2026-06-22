@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Cause Me To Come</title>
+    </titles>
+    <authors>
+      <author type="words">Robert Edward Miller</author>
+      <author type="music">Robert Edward Miller</author>
+      <author type="translation">Komm zu der Quelle</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cause me to come
+to Thy river, Oh Lord;
+(3x)
+Cause me to come,
+cause me to drink,
+cause me to live.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cause me to drink
+at Thy river, Oh Lord;
+(3x)
+Cause me to come,
+cause me to drink,
+cause me to live.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cause me to live
+in Thy presence, Oh Lord;
+(3x)
+Cause me to come,
+cause me to drink,
+cause me to live.</lines>
+    </verse>
+  </lyrics>
+</song>

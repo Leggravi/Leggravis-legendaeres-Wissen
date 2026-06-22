@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Battle Is Yours</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From the struggle there will come triumph,
+You are strong in my weakness,
+Out of pain, I see rejoicing,
+For You rise out of brokenness,
+For You rise out of brokenness.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will dance in the midst of the fire,
+I will sing in the eye of the storm,
+I will shout: You are faithful forever!
+The victory's mine 'cause the battle is Yours!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From the valley there will come breakthrough,
+Hope will rise with our praises,
+Out of trials, You bring redemption,
+You give beauty for ashes.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Give thanks to the Lord,
+He is good, He is good,
+Hodu L'Adonai Ki Tov</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I will dance in the midst of the fire,
+I will sing in the eye of the storm,
+I will shout: You are faithful forever!
+The victory's mine 'cause the battle is Yours!
+The victory's mine 'cause the battle is Yours!
+The victory's mine 'cause the battle is Yours!</lines>
+    </verse>
+  </lyrics>
+</song>

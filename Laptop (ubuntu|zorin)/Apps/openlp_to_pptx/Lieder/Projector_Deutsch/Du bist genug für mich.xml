@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist genug für mich</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christus ist mein Lohn. Ich bin ihm ganz ergeben.
+Es gibt nichts in dieser Welt, das mich so erfüllt wie er.
+Egal, was kommt, ich sing zu dir.
+Niemals zurück - ich bin befreit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist genug für mich. Du bist genug für mich.
+Alles, was ich brauch', ist in dir, alles, was ich brauch'.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alles bist du mir, die Freude, meine Rettung.
+Diese Hoffnung bleibt besteh'n: Wir gehör'n zu dir.
+In jedem Sturm sing' ich zu dir:
+Jesus ist hier. Dir sei alle Ehre!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: Du bist genug für mich. Du bist genug für mich.
+Alles, was ich brauch', ist in dir, alles, was ich brauch'. :/</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/: Ich bin entschieden, Jesus zu folgen.
+Niemals zurück, niemals zurück! :/
+/: Die Welt liegt hinter mir. Das Kreuz steht vor mir.
+Niemals zurück, niemals zurück! :/</lines>
+    </verse>
+    <verse name="v6">
+      <lines>/: Du bist genug für mich. Du bist genug für mich.
+Alles, was ich brauch', ist in dir, alles, was ich brauch'. :/</lines>
+    </verse>
+  </lyrics>
+</song>

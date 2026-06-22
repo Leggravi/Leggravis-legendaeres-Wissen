@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Victory Is Mine (When I Woke up This Morning)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I woke up this morning
+I did have no doubt
+I knew that the Lord
+Would bring me out
+So I got down on my knees
+I said, &quot;Lord, help me please.&quot;
+And now I sing and shout the victory</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Victory is mine, victory is mine,
+Victory today is mine.
+I told Satan,
+&quot;Get Ye behind,&quot;
+Victory today is mine.</lines>
+    </verse>
+  </lyrics>
+</song>

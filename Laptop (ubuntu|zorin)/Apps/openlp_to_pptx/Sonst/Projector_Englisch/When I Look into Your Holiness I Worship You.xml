@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When I Look into Your Holiness (I Worship You)</title>
+    </titles>
+    <authors>
+      <author type="words">Wayne Perrin</author>
+      <author type="music">Wayne Perrin</author>
+      <author type="translation">Wenn ich deine Herrlichkeit bestaune</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I look into Your holiness,
+When I gaze into Your loveliness,
+When all things that surround,
+Become shadows in the light of You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I found the joy of reaching Your heart,
+When my will becomes enthroned in Your love,
+When all things that surround become shadows in the light of You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I worship You, I worship You!
+The reason I live is to worship You.
+I worship You, I worship You!
+The reason I live is to worship You.</lines>
+    </verse>
+  </lyrics>
+</song>

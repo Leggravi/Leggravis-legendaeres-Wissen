@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Not What I Wish To Be</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Not what I wish to be,
+Nor where I wish to go,
+For who am I
+That I should choose my way?
+The Lord shall choose for me;
+'Tis better far I know.
+So let Him bid me go or stay.</lines>
+    </verse>
+  </lyrics>
+</song>

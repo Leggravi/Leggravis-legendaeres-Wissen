@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Stille Nacht, heilige Nacht</title>
+    </titles>
+    <authors>
+      <author type="words">Joseph Mohr</author>
+      <author type="music">Franz Xaver Gruber</author>
+      <author type="translation">Silent Night</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stille Nacht, heilige Nacht
+Alles schläft, einsam wacht
+nur das traute hochheilige Paar
+Holder Knabe im lockigen Haar
+Schlaf in himmlischer Ruh'
+Schlaf in himmlischer Ruh'</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Stille Nacht, heilige Nacht
+Hirten erst kund gemacht
+Durch der Engel Halleluja
+tönt es laut von fern und nah
+Christ der Retter ist da
+Christ der Retter ist da</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Stille Nacht, heilige Nacht
+Gottes Sohn, o wie lacht
+lieb aus Deinem Göttlichen Mund
+Da uns schlägt die rettende Stund'
+Christ in Deiner Geburt
+Christ in Deiner Geburt</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Give You my Heart</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Williams</author>
+      <author type="music">Chris Williams</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is my desire
+To honor You;
+Lord, with all my heart
+I worship You.
+With all I have within me
+I give You praise,
+All that I adore is in You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, I give You my heart,
+I give You my soul,
+I live for You alone;
+Every breath that I take,
+Every moment I'm awake,
+Lord, have Your way in me.</lines>
+    </verse>
+  </lyrics>
+</song>

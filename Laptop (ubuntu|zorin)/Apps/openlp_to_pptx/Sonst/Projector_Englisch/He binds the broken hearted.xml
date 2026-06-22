@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He binds the broken hearted</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You bind the broken hearted
+You heal the wounded soul
+Father of all heaven
+We give you full control
+Come have your way on us, O Lord
+Come set our spirit free
+O Father send revival
+And start the work in me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, I hunger, thirst for your righteousness
+Father come and fill me once again
+Lord, I hunger, thirst for your righteousness
+Fill me with your oil and Your wine</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fill me with your Spirit
+I want to see Your face
+To live in Your presence
+Know Your glory and Your grace
+It's not my will but Yours I choose
+To follow to the end
+So mould me, yes, and make me
+Let a new day begin</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come and fill me with Your oil and your wine
+Overflow, overflowing
+Fill us with Your oil and Your wine</lines>
+    </verse>
+  </lyrics>
+</song>

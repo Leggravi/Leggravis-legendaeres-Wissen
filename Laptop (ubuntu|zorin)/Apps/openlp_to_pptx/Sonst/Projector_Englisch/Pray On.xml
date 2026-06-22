@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Pray On</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The army of Juda was paralyzed by fear
+When they heard a mighty multitude was quickly drawing near,
+But as they prayed for deliverance
+The victory would begin
+For when we call upon the Lord, we summon all of Heaven</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pray on
+For you are who the Lord is looking for,
+Pray on
+For this will tear those mighty strongholds down,
+Stay on your knees for this is where the battle is won
+Very soon you'll win the victory, pray on</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When Daniel faced the lions for worshipping the Lord
+It seemed there was no hope at all for what would be in store,
+But when we stand on holy ground our smallest prayer is heard,
+Instead of on our circumstance our eyes are on the Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When your questions go unanswered
+And your prayers may seem in vain
+They don't seem to make a difference
+They don't seem to make a change
+Just rest assured God knows your needs
+And He hears each time you pray,
+Your prayers are reaching Heaven and the answers on the way.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pray on
+For you are who the Lord is looking for,
+Pray on
+Tear them mighty strongholds down,
+Stay on your knees for this is where the battle is won,
+There's no better place for you to be,
+Then seeking the Father prayfully
+Very soon you'll win the victory, pray on,</lines>
+    </verse>
+  </lyrics>
+</song>

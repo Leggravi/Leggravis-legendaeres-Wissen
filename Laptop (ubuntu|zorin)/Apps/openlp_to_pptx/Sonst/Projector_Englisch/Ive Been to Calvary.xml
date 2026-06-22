@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I’ve Been to Calvary</title>
+    </titles>
+    <authors>
+      <author type="words">William J. Gaither</author>
+      <author type="music">William J. Gaither</author>
+      <author type="translation">Ich bin gefahren durch die weite Welt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’ve never travelled far around
+the world,
+I’ve never seen so many things
+And thrills afar
+But I have taken a journey of
+journeys for me;
+Up calvary’s mountain
+There my saviour to see.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’ve been to calvary,
+I can say I’ve seen the Lord
+I’ve been to calvary,
+Through the witness of
+His Word,
+Each day at calvary,
+What a thrill of joy divine
+Just to know, that the
+Saviour Is mine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I walked up calvary’s road,
+Where Jesus trod;
+I saw Him hanging there,
+The Son of God,
+With tear strained eyes
+I knelt and prayed
+‘Jesus save my soul
+Oh praise the Lord,
+I’m glad I’ve been to calvary.</lines>
+    </verse>
+  </lyrics>
+</song>

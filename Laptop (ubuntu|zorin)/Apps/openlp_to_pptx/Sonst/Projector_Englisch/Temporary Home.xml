@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Temporary Home</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I got to remember I'm not here to say
+I'm looking forward to a brighter day
+I got to remember I'm not here for long
+I'm just livin' in my temporary home</lines>
+    </verse>
+  </lyrics>
+</song>

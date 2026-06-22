@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All Hail Jesus’ Name</title>
+    </titles>
+    <authors>
+      <author type="words">Edward Perronet</author>
+      <author type="music">Oliver Holden</author>
+      <author type="translation">Singt unserm Herren, alle Welt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All hail the pow’r of Jesus’ name!
+Let angels prostrate fall;
+Bring forth the royal diadem,
+And crown Him Lord of all;
+Bring forth the royal diadem,
+And crown Him Lord of all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ye seed of Israel’s chosen race,
+Ye ransomed from the fall;
+Hail Him, who saves you by His grace,
+And crown Him Lord of all;
+Hail Him, who saves you by his grace,
+And crown Him Lord of all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sinners, whose love can ne’er forget
+The wormwood and the gall, Go,
+spread your trophies at His feet, And
+crown Him Lord of all; Go, spread
+your trophies at His feet, And crown
+Him Lord of all.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let every kindred, every tribe,
+On this terrestrial ball,
+To Him all majesty ascribe,
+And crown Him Lord of all;
+To Him all majesty ascribe,
+And crown Him Lord of all.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O that with yonder sacred throng
+We at His feet may fall;
+We’ll join the everlasting song,
+And crown Him Lord of all;
+We’ll join the everlasting song,
+And crown him Lord of all.</lines>
+    </verse>
+  </lyrics>
+</song>

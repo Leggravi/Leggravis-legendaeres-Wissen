@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Going Home</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is the day the bride has waiting for
+Going to the Father's promised land
+This earthly place is not our home
+Let go of everything and let God in</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here He comes, Be ready for the coming of the Lord
+Be prepared we're going home
+And I can't hide away this joy that I kept feelin inside' me
+Be ready for He's coming soon</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Arise above the storms
+In every trials comes our way
+You light up our life
+And gave us reason to stay</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Arise above the storms
+In every trials comes our way
+I'll be leavin this world forever with you
+I will stay</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Arise Today,
+Be ready for the coming of the Lord
+Be prepared we're going home
+And I can't hide away this joy that I kept feelin inside' me
+Be ready for He's coming soon (2×)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And I'm ready to go owoah oh oh
+Ready for the coming of the Lord
+Im ready to go
+Ready for the coming of the Lord
+Soon will be going home
+Yes I will be going home</lines>
+    </verse>
+  </lyrics>
+</song>

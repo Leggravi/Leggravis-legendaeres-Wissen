@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Bis unser Lauf zu Ende</title>
+    </titles>
+    <authors>
+      <author type="words">Julius Anton von Poseck</author>
+      <author type="music">Melchior Vulpius</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bis unser Lauf zu Ende,
+Hebst Du, Herr Jesus Christ,
+Für uns die Segenshände
+Zum Vater, wo Du bist.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lässt je ein Haupt die Glieder,
+Ein Hirte wohl sein Lamm?
+Ein Bruder seine Brüder?
+Die Braut der Bräutigam?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und Du, Du solltest lassen,
+Was zu Dir seufzet hier?
+Nein, nie sind wir verlassen,
+Drum folgen freudig wir.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Know the Answer Man</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I don’t know all the answers,
+But I know the Answer Man,
+I can’t solve all my problems,
+But I know the one who can.
+I have a direct wire right to the
+Lord above,
+He has promised to answer
+every prayer,
+Oh, He’s the Man with
+the answers,
+I’m glad I know the Answer Man.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I don’t fret stray or worry,
+For my life is in His hands
+Troubles run in a hurry
+They all flee at His command,
+Put your trust in Him
+He’ll lead you constantly.
+For He loves you the same as
+He loves me
+And then you tell everybody,
+I’m glad I know the Answer Man.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yesterday and tomorrow
+Only meet with us today
+And today we can’t borrow
+What the two can never pay
+The Answer Man alone
+Knows all our future plans
+I am so happy my life
+is in His hands
+So today, I’ve no sorrows,
+Because I know the Answer Man.</lines>
+    </verse>
+  </lyrics>
+</song>

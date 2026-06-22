@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Feb 9, 2025, 9:55:14 AM">
+  <properties>
+    <titles>
+      <title>Great Is Thy Faithfulness</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Great is Thy faithfulness, O God my Father,
+There is no shadow of turning with Thee;
+Thou changest not, Thy compassions, they fail not
+As Thou hast been Thou forever wilt be.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>“Great is Thy faithfulness!” “Great is Thy faithfulness!”
+Morning by morning new mercies I see;
+All I have needed Thy hand hath provided
+“Great is Thy faithfulness,” Lord, unto me!</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Summer and winter, and springtime and harvest,
+Sun, moon and stars in their courses above,
+Join with all nature in manifold witness
+To Thy great faithfulness, mercy and love.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Pardon for sin and a peace that endureth,
+Thine own dear presence to cheer and to guide;
+Strength for today and bright hope for tomorrow,
+Blessings all mine, with ten thousand beside!</lines>
+    </verse>
+  </lyrics>
+</song>

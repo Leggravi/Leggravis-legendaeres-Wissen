@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hills of Home</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The holy hills of heaven call me
+to mansions bright across the sea,
+Where loved ones wait
+and crowns are given,
+When the hills of home keep calling me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This house of flesh is but a prison,
+Bars of bones hold my soul,
+But the doors of clay,
+are gonna burst wide open,
+When the angels set my spirit free.
+I'll take my flight
+ like a mighty eagle,
+When the hills of home start calling me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I see loved ones over yonder,
+The tears are gone
+and hearts are free,
+And from the throne
+king Jesus beckons,
+Oh the hills of home are calling me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When the hills of home God's calling me</lines>
+    </verse>
+  </lyrics>
+</song>

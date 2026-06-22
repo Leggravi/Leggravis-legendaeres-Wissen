@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Shall Reign Where’er the Sun</title>
+    </titles>
+    <authors>
+      <author type="words">Isaac Watts</author>
+      <author type="music">London</author>
+      <author type="translation">Jesus hat seine Herrschaft bestellt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus shall reign where’er the
+sun doth his successive
+journeys run:
+His kingdom stretch from
+shore to Shore
+Till moons shall wax and
+wane no more</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For Him shall endless prayer
+be made,
+And princes throng to crown
+His head:
+His name sweet perfume
+shall rise
+With every morning sacrifice.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>People and realms of every
+tongue
+Dwell on His love with sweetest
+song,
+And infant voices shall proclaim
+Their early blessings on
+His Name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Blessings abound where’er
+He reigns;
+The prisoner leaps to lose
+his chains,
+The weary find eternal rest,
+And all the Sons of want
+are blest.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let every creature rise
+and bring
+Peculiar honours to our King:
+Angels, descend with songs again
+And, earth, repeat the loud
+Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

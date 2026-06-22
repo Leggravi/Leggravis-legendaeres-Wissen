@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Perfect love (Perfect, spent my whole..)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Perfect, spent my whole
+life chasing perfect,
+Fall down, beat myself
+up, repeat, fall down,
+Beat myself up, repeat</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Head bowed
+Guilty whispers in my ear now
+Messed up is all
+You're ever gonna be
+Fall down, beat myself up, repeat</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Something happened when You
+Called my name, called my name
+Lifted up my head and
+All my shame washed away</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When a perfect love,
+Found a wounded heart
+Said, &quot;Get back up, let
+me show you who you are</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There's no such thing,
+As good enough&quot;
+I may be far from perfect
+But I'm loved by Your perfect,
+Loved by Your perfect love</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mercy, mo more perfect,
+There's just mercy
+The more I live
+the less I understand
+How I'm the reason for
+Your nail scarred hands</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Freedom, oh, Your scars
+they are my freedom
+I'll never know why
+You paid my price
+All I know is that
+You changed my life</lines>
+    </verse>
+  </lyrics>
+</song>

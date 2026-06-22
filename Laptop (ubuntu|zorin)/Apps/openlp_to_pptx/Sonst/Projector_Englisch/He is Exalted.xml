@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He is Exalted</title>
+    </titles>
+    <authors>
+      <author type="words">Alan Rose</author>
+      <author type="music">Alan Rose</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He is exalted the King is exalted on High,
+I will praise Him,
+He is exalted forever exalted,
+And I will praise His name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He is the Lord,
+Forever His truth shall reign,
+Heaven and Earth,
+Rejoice in His holy name,
+He is exalted the King,
+is exalted on high.</lines>
+    </verse>
+  </lyrics>
+</song>

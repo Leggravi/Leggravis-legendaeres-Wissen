@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Are You Ready Now to Face Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Someday we will meet in heaven
+Standing at the presence of the Lord
+He will reward those who obey Him
+Accept those who received Him in their hearts</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Are you ready now to face Jesus?
+Are you doing now His will?
+Are you keeping all the commandments that He gave?
+Are you ready now to face the Lord?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Don't waste the time that He has given
+Spend each day with Jesus in your heart
+Always praying in the Spirit and
+always give Him glory to His name</lines>
+    </verse>
+  </lyrics>
+</song>

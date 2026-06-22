@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Höre, Israel, der Herr ist ein einiger Gott</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Helga Poppe</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Höre, Israel, der Herr ist ein einiger Gott,
+und du sollst den Herrn, deinen Gott,
+lieb haben von ganzem Herzen,
+mit ganzer Seele, mit allen deinen Kräften
+und deinen Nächsten so wie dich selbst.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Diese Worte, die ich dir gebiete,
+sollst du dir zu Herzen nehmen.
+Diese Worte, die ich dir gebiete,
+sollst du deine Kinder lehren.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn du im Haus sitzt oder auf dem Weg gehst,
+sollst du davon reden.
+Wenn du dich hinlegst oder wenn du aufstehst,
+sollst du davon reden.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bind sie zum Zeichen an deine Hände,
+dass sie dir vor Augen stehen.
+Schreib sie an deine Pfosten des Hauses,
+dass sie dir vor Augen stehen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Trag sie zum Schmucke an deiner Stirne,
+dass es alle Leute sehen.
+Leb sie im Alltag vor allen andern,
+dass es alle Leute sehen.</lines>
+    </verse>
+  </lyrics>
+</song>

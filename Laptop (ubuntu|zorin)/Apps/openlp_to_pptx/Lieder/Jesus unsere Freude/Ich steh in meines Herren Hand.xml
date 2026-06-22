@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:34">
+  <properties>
+    <titles>
+      <title>Ich steh in meines Herren Hand</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Spitta (1833)</author>
+      <author type="music">Wo Gott der Herr nicht bei uns hält</author>
+    </authors>
+    <ccliNo>4945039</ccliNo>
+    <themes>
+      <theme>Trost</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich steh in meines Herren Hand
+und will drin stehen bleiben;
+nicht Erdennot, nicht Erdentand
+soll mich daraus vertreiben.
+Und wenn zerfällt die ganze Welt,
+wer sich an ihn und wen er hält,
+wird wohlbehalten bleiben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er ist ein Fels, ein sichrer Hort,
+und Wunder sollen schauen,
+die sich auf sein wahrhaftig Wort
+verlassen und ihm trauen.
+Er hat's gesagt, und darauf wagt
+mein Herz es froh und unverzagt
+und lässt sich gar nicht grauen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und was er mit mir machen will,
+ist alles mir gelegen;
+ich halte ihm im Glauben still
+und hoff auf seinen Segen;
+denn was er tut, ist immer gut,
+und wer von ihm behütet ruht,
+ist sicher allerwegen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ja, wenn's am schlimmsten mit mir steht,
+freu ich mich seiner Pflege;
+ich weiß, die Wege, die er geht,
+sind lauter Wunderwege.
+Was böse scheint, ist gut gemeint;
+er ist doch nimmermehr mein Feind
+und gibt nur Liebesschläge.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Und meines Glaubens Unterpfand
+ist, was er selbst verheißen:
+dass nichts mich seiner starken Hand
+soll je und je entreißen.
+Was er verspricht, das bricht er nicht;
+er bleibet meine Zuversicht.
+Ich will ihn ewig preisen.</lines>
+    </verse>
+  </lyrics>
+</song>

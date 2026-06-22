@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God Is</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We find joy in every moment,
+not because God is always good
+But because God has been so good to us</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God is greater, God is good
+Awesome in everything He do,
+God is faithful, God is love,
+lives in me and He lives in you…</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You're my strength, You're my hope
+You're my one desire
+We surrender all to you</lines>
+    </verse>
+  </lyrics>
+</song>

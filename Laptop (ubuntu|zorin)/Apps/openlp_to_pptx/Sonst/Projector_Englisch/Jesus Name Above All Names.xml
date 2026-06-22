@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Name Above All Names</title>
+    </titles>
+    <authors>
+      <author type="words">Naida Hearn</author>
+      <author type="music">Naida Hearn</author>
+      <author type="translation">Jesus, höchster Name</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus name above all names,
+Beautiful Savior, glorious Lord.
+Emmanuel, God is with us,
+Blessed Redeemer, Living Word.</lines>
+    </verse>
+  </lyrics>
+</song>

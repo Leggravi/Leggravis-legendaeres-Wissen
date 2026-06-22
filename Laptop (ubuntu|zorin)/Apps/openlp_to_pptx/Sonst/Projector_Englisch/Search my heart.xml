@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Search my heart</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Crocker</author>
+      <author type="music">Matt Crocker</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v2 v1 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Search my heart, search my soul
+Take my shame, take it deep within
+Search my heart, search my soul
+Take my sin, lead me back to You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>By Your precious blood, I will dwell in You
+By Your righteousness, I will walk
+By Your gracious love, I will seek Your name
+By Your righteousness I will walk, I will walk with You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Search my heart, search my soul
+In this wilderness, I'm lost deep within
+Search my heart, search my soul
+Lead my path, lead me back to You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Search my heart, search my soul
+Take my sin, lead me back to You</lines>
+    </verse>
+  </lyrics>
+</song>

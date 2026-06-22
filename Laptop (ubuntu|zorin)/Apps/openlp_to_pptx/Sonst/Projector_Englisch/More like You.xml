@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>More like You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>More like You
+Jesus, more like You
+Fill my heart with your desire
+To make me more like You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>More like You
+Jesus, more like You
+More like You
+Jesus, more like You
+Touch my lips with holy fire
+And make me more like You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, You are my mercy
+Lord, you are my grace
+All my deepest sins
+Have forever been erased</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Draw me in your presence
+Lead me in Your ways
+I long to bring you glory
+In righteousness and praise</lines>
+    </verse>
+  </lyrics>
+</song>

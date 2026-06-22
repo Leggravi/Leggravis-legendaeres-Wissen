@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Lives, He Lives (I Serve a Risen Savior)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I serve a risen Saviour, He's in the world today
+I know that He is living, whatever men may say
+I see His hand of mercy, I hear His voice of cheer
+And just the time I need Him He's always near</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He lives, He lives, Christ Jesus lives today
+He walks with me and talks with me
+Along life's narrow way
+He lives, He lives, Salvation to impart
+You ask me how I know He lives?
+He lives within my heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In all the world around me I see His loving care
+And though my heart grows weary I never will despair
+I know that He is leading, through all the stormy blast
+The day of His appearing will come at last</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Rejoice, rejoice, O Christian Lift up your voice and sing
+Eternal hallelujahs to Jesus Christ, the King
+The Hope of all who seek Him, the help of all who find
+None other is so loving, so good and kind</lines>
+    </verse>
+  </lyrics>
+</song>

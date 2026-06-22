@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Not Finished</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v2 v3 v4 v6 v7 v8 v7 v3 v3 v8 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I feel walled in by my unbelief
+And miracles seem forever out of reach,
+I'll stand upon the words you've given me,
+'Cause you wont relent till it's complete.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Every word you've spoken
+Will surely come to pass,
+I believe you're moving
+And you're not finished yet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Creator, healer,
+Wonder working miracle God,
+You can do anything,
+I know you're moving,
+I know you're working it out,
+So I will believe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You're not finished yet,
+You're not finished yet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I will be confident in you, oh Lord,
+I wont be swayed,
+By what I see right now,
+A glimmer of hope,
+Is breaking through the clouds,
+I know you'll see me through somehow.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>When God opens a door
+No one can shut it
+No one can shut it
+No devil from hell can stop
+What God has started</lines>
+    </verse>
+    <verse name="v7">
+      <lines>When God gives you a word,
+It's ever settled,
+It's ever settled,
+No devil from hell,
+Can block what God has promised.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>When God opens a door,
+No one can shut it,
+No one can shut it,
+No devil from hell,
+Can stop what God has started.</lines>
+    </verse>
+  </lyrics>
+</song>

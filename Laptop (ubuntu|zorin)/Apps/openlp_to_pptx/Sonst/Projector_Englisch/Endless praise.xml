@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Endless praise</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are God, and we lift You up
+We keep singing, We keep praising
+We wont stop, Giving all we got
+Cause Your worthy, Of all glory</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, There is no other,
+You are forever Lord over all
+There's nobody like You, No one beside You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To You let endless praise resound
+Every night and day, and with no delay
+Let endless praise resound</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Boundless Love, light before the sun
+Your glory, eternal
+Never stops, giving all you got
+Creation, keeps singing</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We lift You up up up
+We are giving You our love love love
+For everything You've done done done
+We give you all the praise</lines>
+    </verse>
+  </lyrics>
+</song>

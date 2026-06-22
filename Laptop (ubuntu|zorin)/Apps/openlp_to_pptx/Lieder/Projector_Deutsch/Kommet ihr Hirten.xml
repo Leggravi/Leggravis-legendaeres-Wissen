@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Kommet ihr Hirten</title>
+    </titles>
+    <authors>
+      <author type="words">Rolf Krenzer</author>
+      <author type="music">Gertrud Lorenz</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kommet, ihr Hirten, ihr Männer und Fraun,
+kommet, das liebliche Kindlein zu schaun,
+Christus, der Herr, ist heute geboren,
+den Gott zum Heiland euch hat erkoren.
+Fürchtet euch nicht!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lasset uns sehen in Bethlehems Stall,
+was uns verheißen der himmlische Schall;
+was wir dort finden, lasset uns künden,
+lasset uns preisen in frommen Weisen.
+Halleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wahrlich, die Engel verkündigen heut
+Bethlehems Hirtenvolk gar große Freud:
+Nun soll es werden Friede auf Erden,
+den Menschen allen ein Wohlgefallen.
+Ehre sei Gott!</lines>
+    </verse>
+  </lyrics>
+</song>

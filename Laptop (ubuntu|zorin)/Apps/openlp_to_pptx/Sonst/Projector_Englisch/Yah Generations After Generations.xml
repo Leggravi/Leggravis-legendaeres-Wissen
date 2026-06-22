@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Yah (Generations After Generations)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Generations after generations
+Keep praising You, yet no word sums You up
+Then I ask the Lord, what name fits You?
+And He said &quot;Yah&quot;
+Generations after generations
+Keep praising You, yet no word sums You up
+Then I ask the Lord, what name fits You?
+And He said &quot;Yah&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yah, the hallowed one
+Yah, the holy one
+Yahweh, the King of Zion
+Yah, the hallowed one
+Yah, the holy one
+Yahweh, the King of Zion</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Then I ask the Lord, what name fits You?
+And He said &quot;Yah&quot;
+Then I ask the Lord, what name fits You?
+And He said &quot;Yah&quot;
+Then I ask the Lord, what name fits You?
+And He said &quot;Yah&quot;
+Then I ask the Lord, what name fits You?
+And He said &quot;Yah&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

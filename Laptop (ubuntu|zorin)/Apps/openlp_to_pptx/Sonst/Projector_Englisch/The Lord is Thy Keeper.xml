@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Lord is Thy Keeper</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will lift up mine eyes to the hills
+From whence cometh my help.
+My help cometh from the Lord,
+The Lord which made
+heaven and earth.
+He said He will not suffer thy foot,
+Thy foot to be moved;
+The Lord which keepeth thee,
+He will not slumber nor sleep.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For the Lord is thy keeper,
+The Lord is thy shade
+upon thy right hand,
+Upon thy right hand.
+Nor the sun shall not
+smite thee by day,
+Nor the moon by night.
+He shall preserve thy soul
+Even forevermore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My help, my help, my help,
+All of my help
+cometh from the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

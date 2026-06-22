@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Then I Found the Lily of the Valley</title>
+    </titles>
+    <authors>
+      <author type="words">Charles W. Fry</author>
+      <author type="music">William Shakespeare Hays</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I thought I had a bed of Roses
+Everything I did was on my own
+I thought the world was mine
+And everything was fine
+But I saw my roses wilt
+and fade away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Then I found the Lily
+of the Valley
+In the shadow of the cross
+I saw Him bloom
+He took away my fears
+And wiped away my tears
+For the Lily of the Valley is my Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I saw the Lily of the Valley
+From a world of sin I tried to flee
+Oh everything went wrong
+It seemed that hope was gone
+Then the Lily of the Valley
+rescued me.</lines>
+    </verse>
+  </lyrics>
+</song>

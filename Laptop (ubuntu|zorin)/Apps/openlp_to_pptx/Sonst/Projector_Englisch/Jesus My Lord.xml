@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus My Lord</title>
+    </titles>
+    <authors>
+      <author type="words">John W. Fischer</author>
+      <author type="music">John W. Fischer</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was all alone, in the darkest of night
+You reached for me
+Pulled me into Your light
+There's nowhere to hide
+When there was no one else
+You whispered in my ear
+“Draw close to me, for I’m always near
+There's no need to fear”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus there is none beside You
+Jesus there is no one like You
+All my life, All I want is
+To know You more
+Jesus there is none beside You
+Jesus there is no one like You
+All my life, All I want is
+To know You more
+(Jesus my Lord)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So I stand before You
+Give my whole life to You
+Jesus You are all I seek
+In You I find my perfect peace
+So I stand before You
+Give my whole life to You
+Jesus You are all I need
+Lord Your love has set me free</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich stehe vor dem Gnadenthron</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Pepper</author>
+      <author type="music">Martin Pepper</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich stehe vor dem Gnadenthron und bete an.
+Ich seh den Vater und den Sohn, das Opferlamm.
+Und ich bete an. Ja, ich bete an.
+Ich erhebe meine Hände in Anbetung, ich bete Dich an.
+Ja, ich bete an. Herr, ich bete an.
+Ich erhebe meine Hände in Anbetung , ich bete Dich an.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:03">
+  <properties>
+    <titles>
+      <title>Nun jauchzt dem Herren, alle Welt</title>
+    </titles>
+    <authors>
+      <author type="words">Cornelius Becker (1602)</author>
+      <author type="words">David Denicke (1646)</author>
+      <author type="music">Ulm</author>
+    </authors>
+    <ccliNo>4822640</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nun jauchzt dem Herren alle Welt!
+Kommt her, zu seinem Dienst euch stellt,
+kommt mit Frohlocken, säumet nicht,
+kommt vor sein heilig Angesicht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Erkennt, dass Gott ist unser Herr,
+der uns erschaffen ihm zur Ehr,
+und nicht wir selbst: durch Gottes Gnad
+ein jeder Mensch sein Leben hat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wie reich hat uns der Herr bedacht,
+der uns zu seinem Volk gemacht;
+als guter Hirt ist er bereit,
+zu führen uns auf seine Weid.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Die ihr nun wollet bei ihm sein,
+kommt, geht zu seinen Toren ein
+mit Loben durch der Psalmen Klang,
+zu seinem Vorhof mit Gesang.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dankt unserm Gott, lobsinget ihm,
+rühmt seinen Namen mit lauter Stimm;
+lobsingt und danket allesamt.
+Gott loben, das ist unser Amt.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Er ist voll Güt und Freundlichkeit,
+voll Lieb und Treu zu jeder Zeit.
+Sein Gnad währt immer dort und hier
+und seine Wahrheit für und für.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Gott Vater in dem höchsten Thron
+und Jesus Christus, seinen Sohn,
+den Tröster auch, den Heilgen Geist,
+im Himmel und auf Erden preist.</lines>
+    </verse>
+  </lyrics>
+</song>

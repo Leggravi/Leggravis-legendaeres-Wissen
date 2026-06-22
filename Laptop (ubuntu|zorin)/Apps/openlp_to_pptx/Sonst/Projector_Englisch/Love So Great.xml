@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Love So Great</title>
+    </titles>
+    <authors>
+      <author type="words">Joshua Grimmett</author>
+      <author type="music">Joshua Grimmett</author>
+      <author type="translation">Liebe, so groß (Du bist mein Gott allmächtig)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your love so great Jesus in all things
+I’ve seen a glimpse of Your heart
+A billion years still I’ll be singing
+How can I praise You enough?
+How can I praise You enough?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are the Lord Almighty
+Outshining all the stars in glory
+Your love is like the wildest ocean
+Oh nothing else compares</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Creation calls all to the Savior
+We are alive for Your praise
+In earth and sky no one is higher
+Our God of wonders You reign
+Our God of wonders You reign</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Not to us but to Your Name
+We lift up all praise (x2)
+Not to us but to Your Name
+We lift up all praise (x2)</lines>
+    </verse>
+  </lyrics>
+</song>

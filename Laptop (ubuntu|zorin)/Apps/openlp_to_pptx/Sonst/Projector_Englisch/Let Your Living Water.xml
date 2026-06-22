@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let Your Living Water</title>
+    </titles>
+    <authors>
+      <author type="words">Brian Doerksen</author>
+      <author type="music">Albert Frey</author>
+      <author type="translation">O Herr, gieße Ströme (Ströme lebendigen Wassers)</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let your living water
+Flow over my soul,
+Let your Holy Spirit
+Come and take control
+In every situation
+That has troubled my mind
+All my cares and burdens
+Unto you, I roll.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Father, Father, Father. (x2)
+Jesus, Jesus, Jesus. (x2)
+Spirit, Spirit, Spirit, (x2)
+Master, Master, Master, (x2)
+Healer, Healer, Healer. (x2)
+Believer, Believer, Believer. (x2)</lines>
+    </verse>
+  </lyrics>
+</song>

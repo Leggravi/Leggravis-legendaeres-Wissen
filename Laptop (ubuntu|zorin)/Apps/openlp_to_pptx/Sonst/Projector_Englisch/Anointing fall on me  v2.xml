@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Anointing fall on me – v2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Anointing fall on me
+Anointing fall on me
+Let the power
+Of the Holy Ghost
+Fall on me
+Anointing fall on me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Touch my hands, my mouth and my heart
+Fill my life Lord every part
+Let the power of the Holy Ghost
+Fall on me anointing fall on me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On me let the power
+Of the Holy Ghost fall on me
+Anointing fall on me anointing fall on me</lines>
+    </verse>
+  </lyrics>
+</song>

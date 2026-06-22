@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir schauen auf Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Arne Kopfermann</author>
+      <author type="music">Gaetan Roy</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Im Glauben hoffen wir,
+Auf das was wir nicht sehen
+Und bringen unser Lobpreisopfer dar!
+Durch Glauben weicht die Angst
+Wer schwach ist wird nun Stark
+Die Hoffnung in uns wächst
+Wenn wir ihn sehn, Unsern König!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir schauen auf Jesus
+Wir schauen auf unsern besten Freund
+Er erduldete das Kreuz,
+Das Tod ist besiegt!
+Wir schauen auf Jesus
+Wir schauen auf ihn als Glaubens Ziel
+Mutig gehen wir voran ermüden nicht!</lines>
+    </verse>
+  </lyrics>
+</song>

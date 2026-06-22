@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Highway to Heaven</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It’s a highway to Heaven,
+none can walk up there
+but the pure in heart.
+It’s a highway to Heaven,
+walkin’ up the King’s highway.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If you’re not walkin’
+start while I’m talkin’,
+walkin’ up the King’s highway.
+Christ walks beside you,
+angels will guide you
+when you’re walkin’
+up the King’s highway.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And it’s a highway to Heaven,
+none can walk up there
+but the pure in heart.
+It’s a highway to Heaven,
+walkin’ up the King’s highway.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My way gets brighter,
+my load gets lighter
+walkin’ up the King’s highway.
+And you’ll be confessing that there
+is a blessing when you’re
+walkin’ up the King’s highway.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>It’s a highway to Heaven,
+none can walk up there
+but the pure in heart.
+It’s a highway to Heaven,
+walkin’ up the King’s highway.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>It’s a highway, it’s a highway,
+it’s a highway up to Heaven,
+None can walk up there
+but the pure in heart.
+It’s a highway, it’s a highway,
+It’s a highway up to Heaven.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I’m walkin’ up the King’s,
+walkin’ up the King’s highway!</lines>
+    </verse>
+  </lyrics>
+</song>

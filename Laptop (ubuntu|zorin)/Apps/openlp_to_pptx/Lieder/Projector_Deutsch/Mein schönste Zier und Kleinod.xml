@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mein schönste Zier und Kleinod</title>
+    </titles>
+    <authors>
+      <author type="words">Johannes Eccard</author>
+      <author type="music">Leipzig</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mein schönste Zier und Kleinod bist
+auf Erden Du, Herr Jesu Christ;
+Dich will ich lassen walten
+und allezeit in Lieb und Leid
+in meinem Herzen halten.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dein Wort ist wahr und trüget nicht
+und hält gewiss, was es verspricht,
+im Tod und auch im Leben.
+Du bist nun mein und ich bin Dein,
+Dir hab ich mich ergeben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dein Lieb und Treu vor allem geht,
+kein Ding auf Erd' so fest besteht;
+solchs muss man frei bekennen.
+Drum soll nicht Tod, nicht Angst, nicht Not
+von Deiner Lieb mich trennen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Der Tag nimmt ab. Ach schönste Zier,
+Herr Jesu Christ, bleib Du bei mir,
+es will nun Abend werden.
+Lass doch Dein Licht auslöschen nicht
+bei uns allhier auf Erden.</lines>
+    </verse>
+  </lyrics>
+</song>

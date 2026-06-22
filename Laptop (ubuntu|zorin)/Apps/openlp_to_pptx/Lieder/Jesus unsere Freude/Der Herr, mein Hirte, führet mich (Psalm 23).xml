@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:20">
+  <properties>
+    <titles>
+      <title>Der Herr, mein Hirte, führet mich (Psalm 23)</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="words">Charlotte Sauer (1954)</author>
+      <author type="music">Jessie Seymour Irvine</author>
+    </authors>
+    <ccliNo>4351881</ccliNo>
+    <themes>
+      <theme>Vertrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Der Herr, mein Hirte, führet mich.
+Fürwahr, nichts mangelt mir.
+Er lagert mich auf grünen Au'n
+bei frischem Wasser hier.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Erquickung schenkt er meiner Seel'
+und führet gnädiglich
+um seines hohen Namens Ehr
+auf rechter Straße mich.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Geh ich durch's dunkle Todestal,
+ich fürcht' kein Unglück dort.
+Denn du bist da, dein Stecken und Stab
+sind Tröstung mir und Hort.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Den Tisch bereitest du vor mir,
+selbst vor der Feinde Schar.
+Mein Haupt salbst du mit deinem Öl,
+mein Kelch fließt über gar.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ja, deine Güte folget mir
+mein ganzes Leben lang,
+und immerdar im Haus des Herrn
+ertönt mein Lobgesang.</lines>
+    </verse>
+  </lyrics>
+</song>

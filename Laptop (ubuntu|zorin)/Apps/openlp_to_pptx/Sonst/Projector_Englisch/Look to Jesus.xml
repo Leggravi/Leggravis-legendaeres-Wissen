@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Look to Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Aaron Keyes</author>
+      <author type="music">Aaron Keyes</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v2 v4 v4 v2 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Death is like an empty grave
+Fear looks like a giant slain
+Trials look like gifts of grace
+When I look to Jesus
+Failures bow to victory
+Sin has lost its hold on me
+Endless love is all I see
+When I look to Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How my heart leaps
+How my soul sings
+For I know where my help comes from
+Jesus sought me
+Jesus saved me
+Hallelujah for all He's done</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Every wall comes crashing down
+Chains are broken on the ground
+What can stand against us now
+When we look to Jesus? Yeah</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will keep my eyes on You
+We'll dance upon the crashing waves
+I will keep my eyes on You
+For only You can make a way</lines>
+    </verse>
+    <verse name="v5">
+      <lines>For all He's done
+Sing hallelujah for all He's done
+We sing hallelujah
+Hallelujah for all He's done</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, deine Güte reicht so weit</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Eduard Grell</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, deine Güte reicht so weit,
+deine Treue ist so groß,
+deine Gnade geht für uns nie zu Ende!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ehre und Stärke, Anbetung dir, o Gott,
+Segen und Freude und Freiheit
+dem, der dir vertraut.</lines>
+    </verse>
+  </lyrics>
+</song>

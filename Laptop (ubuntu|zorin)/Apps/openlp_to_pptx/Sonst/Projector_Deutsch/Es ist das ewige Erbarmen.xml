@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Es ist das ewige Erbarmen</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Andreas Rothe</author>
+      <author type="music">Johann Ludwig Friedrich Hainlin</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es ist das ewige Erbarmen,
+Das alles Denken übersteigt,
+Dess', der mit offnen Liebesarmen
+Sich nieder zu den Sündern neigt;
+Der uns von Fluch und Tod befreit,
+Uns führt zu Jesu Herrlichkeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir sollten nicht verloren werden,
+Gott will, uns soll geholfen sein;
+Deswegen kam der Sohn auf Erden
+Und nahm hernach den Himmel ein.
+So kommet nun vom Gnadenthron
+Der Gnade Fülle durch den Sohn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Gnade, welche alle Sünden
+Durch Christi Blut jetzt tilgen kann,
+Und lässt nun allerorts verkünden
+Vergebung, Frieden jedermann.
+Das ew'ge Heil ist jetzt bereit,
+O wunderbare Gnadenzeit!</lines>
+    </verse>
+  </lyrics>
+</song>

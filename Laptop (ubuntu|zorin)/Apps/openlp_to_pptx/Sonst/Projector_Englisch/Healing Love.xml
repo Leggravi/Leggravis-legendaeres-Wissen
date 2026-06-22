@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Healing Love</title>
+    </titles>
+    <authors>
+      <author type="words">Dave Bilbrough</author>
+      <author type="music">Dave Bilbrough</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Right now you're filled with sorrow
+the latter sting of pain
+And the tears of brokenness are falling again
+They may be tears of betrayal
+They may be tears of remorse
+your heart needs a healing
+And Jesus is the source</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His healing Love breaks the yoke of sin
+His healing Love makes us clean again
+What every heart's in need of
+He can provide with just one touch
+Oh, we need a touch of healing Love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He reaches with compassion to those bowed down with pain
+His heart is pierced as was His side
+The day He bore our shame
+He has known betrayal from men with no remorse
+But a heart filled with humility
+He willingly restores</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Send down your touch
+Send down your touch of healing Love
+Send down your touch
+We need your touch of healing Love</lines>
+    </verse>
+  </lyrics>
+</song>

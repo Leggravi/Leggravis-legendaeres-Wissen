@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Alle Ehre sei Dir allein</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, Du bist mein wahres Leben,
+ich gehör‘ alleine Dir.
+Alles will ich Dir hingeben,
+regiere Du, Herr Jesus, in mir.
+In Ehrfurcht will ich Dir dienen, Herr.
+Dich mein Vater anschau‘n und tun, was Du tust.
+Ich will Dich loben und preisen,
+mehr und mehr mit Danken in Dir ruh’n.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alle Ehre sei Dir allein,
+Alle Macht und Herrlichkeit.
+Immer sollst Du gepriesen sein.
+Ich will mich in Dir freu‘n.
+Alle Ehre sei Dir allein,
+alle Macht und Herrlichkeit.
+Wie in Freude so auch im Leid,
+Dir sei Dank in Ewigkeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr Du bist das wahre Leben,
+wir gehör’n alleine Dir.
+Alles woll’n wir Dir hingeben,
+regiere Du, Herr Jesus uns hier.
+In Ehrfurcht woll’n wir Dir dienen, Herr
+Dich, oh Vater anschau‘n und tun, was Du tust.
+Wir wollen Dich loben und preisen,
+mehr und mehr mit Danken in Dir ruh’n.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alle Ehre sei Dir allein,
+Alle Macht und Herrlichkeit.
+Immer sollst Du gepriesen sein.
+Wir woll’n uns in Dir freu’n
+Alle Ehre sei Dir allein,
+Alle Macht und Herrlichkeit.
+Wie in Freude so auch im Leid,
+Dir sei Dank in Ewigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

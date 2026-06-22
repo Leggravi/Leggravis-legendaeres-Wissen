@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dreams We Hold</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v2 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Every step we take, a story unfolds,
+The strength inside us, brave and bold.
+Through all the trials, we've reached the gold,
+Our dreams are the treasures we proudly hold.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This is our time, our moment to shine,
+The future is bright, the world is divine.
+Together we stand, in this grand design,
+The dreams we hold will always align.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The lessons we've learned, the bonds we’ve made,
+The love and guidance that never fade.
+With every challenge, we’re unafraid,
+For in our hearts, the foundation’s laid.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Through every storm, through every fight,
+We’ve found our way, we’ve seen the light.
+Now we are ready to take new flight,
+With hearts on fire, burning bright.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>This is the start, the beginning we see,
+The path ahead calls for you and me.
+With every dream, we will always agree,
+Our journey unfolds, as we set ourselves free.</lines>
+    </verse>
+  </lyrics>
+</song>

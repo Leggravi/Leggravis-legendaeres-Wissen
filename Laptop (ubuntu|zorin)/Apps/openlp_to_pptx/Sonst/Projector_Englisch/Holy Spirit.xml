@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Holy Spirit</title>
+    </titles>
+    <authors>
+      <author type="words">Mark Beswick</author>
+      <author type="music">Mark Beswick</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy Spirit rain down, rain down.
+Oh Comforter and Friend,
+How we need Your touch again.
+Holy Spirit rain down, rain down.
+Let Your power fall,
+Let Your voice be heard.
+Come and change our hearts,
+As we stand on Your Word.
+Holy Spirit, rain down, rain down.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No eye has seen, nor ear has heard,
+No mind can know what God has in store.
+So open up heaven, open it wide,
+Over Your church, and into our lives.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy Spirit rain down, rain down.
+Oh Comforter and Friend,
+How we need Your touch again.
+Holy Spirit rain down, rain down.
+Let Your power fall, let Your voice be heard.
+Come and change our hearts,
+As we stand on Your Word.
+Holy Spirit, rain down.</lines>
+    </verse>
+  </lyrics>
+</song>

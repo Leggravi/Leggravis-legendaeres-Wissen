@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm His Child</title>
+    </titles>
+    <authors>
+      <author type="words">Moses Hogan</author>
+      <author type="music">Moses Hogan</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I may not be the best at anything
+Or have the best of anything
+Sometimes I feel like I'm the least of all
+But I know someone who has everything
+And He's my everything
+And I'm happy just to know that I'm his child.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His name is Jesus
+The righteous son of God
+He's the Lily of Valley
+The Bright and Morning Star
+His name is Jesus
+He's my everything
+And I'm happy just to know that I'm his child</lines>
+    </verse>
+  </lyrics>
+</song>

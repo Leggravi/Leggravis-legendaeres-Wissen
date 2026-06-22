@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Die Herrlichkeit des Herrn bleibe ewiglich</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Keith Chrysler</author>
+      <author type="translation">Let the glory of the Lord endure forever</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Die Herrlichkeit des Herrn bleibe ewiglich,
+der Herr freue sich seiner Werke.
+Ich will singen dem Herrn mein Leben lang,
+ich will loben meinen Gott so lang ich bin.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord, Listen to Your People</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, listen to your children
+pray Lord,
+send your spirit In this place Lord,
+listen to your children pray
+Send us love,
+send us power, Send us grace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Something is gonna happen that the world
+has never known
+When the people of the Lord come
+down to pray
+The door is gonna swing open
+And the walls all come a tumbling down,
+When the people of the Lord
+come down to pray
+Saying chorus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the people of the Lord,
+yes the people of the Lord
+When the people of the Lord come
+down to pray
+The door is gonna swing open
+And the walls all come a tumbling down,
+When the people of the Lord
+come down to pray
+Saying chorus</lines>
+    </verse>
+  </lyrics>
+</song>

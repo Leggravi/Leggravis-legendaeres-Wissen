@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Made for Worship</title>
+    </titles>
+    <authors>
+      <author type="words">Ed Cash</author>
+      <author type="music">Ed Cash</author>
+      <author type="translation">Wir sind hier, um anzubeten</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I abandon, every distraction
+My attention is set on you
+My devotion, Jesus my portion
+My affection is set on you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I was made to worship
+I was made for Your embrace
+I was made to worship
+I was made to bless Your Name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will bless the Lord at all times
+I will bless the Lord at all times
+I was made to worship
+I was made to bless Your Name
+I will shout Your praise forever
+I will shout Your praise forever
+I was made to worship
+I was made to bless Your Name</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Captivated by Your goodness
+Overwhelmed by Your majesty
+Swept away in Your Holy presence
+Giving over all of me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/: My heart and flesh cries out
+For You to fill me up
+You satisfy me
+Fill me with power and truth
+Fill me with love from you
+You satisfy me :/</lines>
+    </verse>
+  </lyrics>
+</song>

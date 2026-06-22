@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 18, 2020, 11:14:36 AM">
+  <properties>
+    <titles>
+      <title>Jesus, Herr, ich denke an dein Opfer</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Jesus, Herr, ich denke an dein Opfer;
+Du gabst dich ganz hin in den Tod;
+Du hast mich mit neuem Leben reich beschenkt und
+nun steh ich staunend vor dir,
+nun steh ich staunend vor dir,</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Und wieder schau ich hin zum Kreuz,
+wo du für mich starbst.
+Ergriffen von der Gnade und zerbrochen im Geist.
+Wieder dank ich dir, Herr,
+wieder geb ich mein Leben hin.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Nun bist Du erhöht bis an den höchsten Ort,
+König der Himmel, dort werde ich knien.
+Wenn ich an die Gnade meiner Rettung denk,
+werd' ich mit Lobpreis erfüllt,
+werd' ich mit Lobpreis erfüllt.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Danke für das Kreuz, danke für das Kreuz
+danke für das Kreuz, mein Freund.
+Danke für das Kreuz, danke für das Kreuz
+danke für das Kreuz, mein Freund.</lines>
+    </verse>
+  </lyrics>
+</song>

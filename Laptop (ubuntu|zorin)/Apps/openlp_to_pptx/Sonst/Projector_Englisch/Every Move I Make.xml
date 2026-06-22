@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Every Move I Make</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Every move I make
+I make in You
+You make me move Jesus
+Every breath I take
+I breathe in You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Every step I take
+I take in You
+You are my way Jesus
+Every breath I take
+I breathe in You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na na na na na
+Na na na na na
+Na na na na na
+Na na na na na</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Every move I make
+I make in You
+You make me move Jesus
+Every breath I take
+I breathe in You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Every step I take
+I take in You
+You are my way Jesus
+Every breath I take
+I breathe in You</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Waves of mercy
+Waves of grace
+Everywhere I look
+I see Your face
+Your love has captured me
+Oh my God, this love
+How can it be?</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Na na na na na
+Na na na na na
+Na na na na na
+Na na na na na</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Weil Jesus bald Geburtstag hat</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Schnitter</author>
+      <author type="music">Gerhard Schnitter</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Weil Jesus bald Geburtstag hat, freut sich das ganze Land.
+Weil Jesus bald Geburtstag hat, sind wir schon sehr gespannt.
+Wir kaufen die Geschenke und basteln allerlei.
+So warten wir auf Weihnachten und haben Spaß dabei.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Weil Jesus bald Geburtstag hat, ist überall was los.
+Weil Jesus bald Geburtstag hat, ist unsre Freude groß.
+Wir hören die Geschichte, dass niemand sie vergisst,
+von Jesus, der in Bethlehem im Stall geboren ist.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Weil Jesus bald Geburtstag hat, gehen viele Lichter an,
+Weil Jesus bald Geburtstag hat, erinnern wir uns dran:
+Bald kommt er als Erlöser, auf unsre Welt zurück.
+Wir freun uns, dass er kam – und dass er kommt ist unser Glück.</lines>
+    </verse>
+  </lyrics>
+</song>

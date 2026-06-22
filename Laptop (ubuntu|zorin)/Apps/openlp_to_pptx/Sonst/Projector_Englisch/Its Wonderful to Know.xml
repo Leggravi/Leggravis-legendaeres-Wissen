@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It’s Wonderful to Know</title>
+    </titles>
+    <authors>
+      <author type="words">Ian Smale</author>
+      <author type="music">Ian Smale</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It’s so wonderful to know
+there’s a place where
+you can go
+When you are all burdened down
+With the cares of this world,
+When it seems there’s nothing real,
+That’s the time when you should
+kneel
+Pray to God up in heaven,
+and tell Him how you feel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It’s so wonderful to know that
+He Is real
+Living in my soul His love I can feel
+With each step that I take
+I know am nearer home
+I know my trials will be over after a while.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the trumpet of God shall sound
+oh where will you be found?
+Will your anchor be in Jesus
+And will your heart be free from sin?
+On that bright and cloudless morning
+With the saints I want to rise
+When the roll is called up yonder,
+I’ll meet Him in the air.</lines>
+    </verse>
+  </lyrics>
+</song>

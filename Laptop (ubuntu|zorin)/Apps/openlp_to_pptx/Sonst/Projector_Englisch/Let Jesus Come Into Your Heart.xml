@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let Jesus Come Into Your Heart</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If you are tired of
+The load of your sin,
+Let Jesus come into your heart;
+If you desire a new life to begin,
+Let Jesus come into your heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Just now, your doubtings give o'er;
+Just now, reject Him no more;
+Just now, throw open the door;
+Let Jesus come into your heart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If'tis for purity now that you sigh,
+Let Jesus come into your heart;
+Fountains for cleansing
+Are flowing near by,
+Let Jesus come into your heart.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If there's a tempest
+Your voice cannot still,
+Let Jesus come into your heart;
+If there's a void
+This world never can fill,
+Let Jesus come into your heart.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>If you would join
+The glad songs of the blest,
+Let Jesus come into your heart;
+If you would enter
+The mansions of rest,
+Let Jesus come into your heart.</lines>
+    </verse>
+  </lyrics>
+</song>

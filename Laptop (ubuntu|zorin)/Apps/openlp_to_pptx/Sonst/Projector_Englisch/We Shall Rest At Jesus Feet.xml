@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Shall Rest At Jesus Feet</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All the troubles and heartaches
+we’ve known here below
+As we travel this wearisome land,
+We’re pilgrims and strangers looking
+for a home,
+Till the day when we'll lay our burdens
+down.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>One day we shall rest at Jesus feet
+When the troubles of this life will be o’er
+Where death cannot enter there’ll be
+no more night
+In that city where the Lamb Is the light.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh the river of life, in that city of gold
+Is prepared for His loving bride
+Just think of the mansion no man
+could describe
+And it's glory that our eyes shall behold.</lines>
+    </verse>
+  </lyrics>
+</song>

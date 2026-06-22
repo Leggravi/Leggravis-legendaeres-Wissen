@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Perfect peace</title>
+    </titles>
+    <authors>
+      <author type="words">Joe Zichterman</author>
+      <author type="music">Joe Zichterman</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When my life's burdens get so heavy
+And it seems I'm all alone
+I cast my care on Jesus
+And come boldly to His throne
+I find His grace sufficient
+When His promises I heed
+For His very life He sacrificed
+And He lives to intercede</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He is the Lord of Lords
+And when He speaks
+Winds and waves obey
+When Jesus whispers &quot;Peace be still&quot;
+Then darkness turns to day
+And as I'm trusting in my saviors word
+Doubts and fears all cease
+And beneath the shelter of His wings
+I'm at rest in perfect peace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will seek for souls in darkness
+Calvary's love with them to share
+Empowered by His spirit
+I will follow anywhere
+For I know what I've befall me
+My Lord is in control
+And as my mind is stayed on Him
+Perfect peace He gives my soul</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jauchzet, ihr Himmel</title>
+    </titles>
+    <authors>
+      <author type="words">Michael Schirmer</author>
+      <author type="music">Eisleben</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jauchzet, ihr Himmel, frohlocket, ihr Engel in Chören,
+singet dem Herren, dem Heiland der Menschen, zu Ehren!
+Sehet doch da: Gott will so freundlich und nah zu den Verlornen sich kehren.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jauchzet, ihr Himmel, frohlocket, ihr Enden der Erden!
+Gott und der Sünder, die sollen zu Freunden nun werden.
+Friede und Freud wird uns verkündiget heut; freuet euch, Hirten und Herden!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sehet dies Wunder, wie tief sich der Höchste hier beuget;
+sehet die Liebe, die endlich als Liebe sich zeiget!
+Gott wird ein Kind, träget und hebet die Sünd; alles anbetet und schweiget.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gott ist im Fleische: wer kann dies Geheimnis verstehen?
+Hier ist die Pforte des Lebens nun offen zu sehen.
+Gehet hinein, eins mit dem Kinde zu sein, die ihr zum Vater wollt gehen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hast du denn, Höchster, auch meiner noch wollen gedenken?
+Du willst dich selber, dein Herze der Liebe, mir schenken.
+Sollt nicht mein Sinn innigst sich freuen darin und sich in Demut versenken?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>König der Ehren, aus Liebe geworden zum Kinde,
+dem ich auch wieder mein Herze in Liebe verbinde:
+du sollst es sein, den ich erwähle allein; ewig entsag ich der Sünde.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Treuer Immanuel, werd auch in mir nun geboren,
+komm doch, mein Heiland, denn ohne dich bin ich verloren!
+Wohne in mir, mache ganz eins mich mit dir, der du mich liebend erkoren.</lines>
+    </verse>
+  </lyrics>
+</song>

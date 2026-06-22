@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Passion In Life</title>
+    </titles>
+    <authors>
+      <author type="words">Andy Bromley</author>
+      <author type="music">Andy Bromley</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus my pasion in life is to know you
+That you're all that goes bowed down to
+this journey of loving you more
+Jesus you showered your goodness on me
+Given your gift so frely
+there's one thing I'd long for
+Hear my hearts call
+And my prayer for this life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Above all else
+Above all else
+Above all else
+Give me yourself</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus my pasion in life is to know you
+That you're all that goes bowed down to
+this journey of loving you more
+Jesus you showered your goodness on me
+Given your gift so frely
+there's one thing I long for
+Hear my hearts call
+And my prayer for this life</lines>
+    </verse>
+  </lyrics>
+</song>

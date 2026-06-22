@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You can have a melody down in your heart</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You can have a melody down in your heart,
+When it's aching, almost breaking.
+Even tho' the sorrow makes the teardrop start,
+You can have a melody down in your heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You can have a song in your heart in the night
+After every trial, after every mile.
+Anyone can sing when the sun is shining bright,
+But you need a song in your heart at the night.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Do not let your worries drive your song away,
+Though tomorrow brings its sorrow,
+Just remember after night time comes the day.
+Do not let your worries drive your song away.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Soon the night will pass and morning brings the day;
+I am longing for its dawning,
+until then we'll labor here and watch and pray,
+Soon the night will pass and morning bring the day.</lines>
+    </verse>
+  </lyrics>
+</song>

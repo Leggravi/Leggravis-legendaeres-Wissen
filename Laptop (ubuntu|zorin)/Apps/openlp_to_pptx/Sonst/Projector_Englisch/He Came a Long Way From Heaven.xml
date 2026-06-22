@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Came a Long Way From Heaven</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I owed a debt I could not pay
+And it was growing every day
+But Jesus, paid it all for me;
+At the cross of calvary,
+He died for men like you and me,
+What a Saviour, I love Him, yes I do.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He came a long,
+long way from heaven,
+To take away our sin and strife
+He came along,
+long way from heaven,
+To give to us eternal life.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>They crucified the Holy King,
+But He was not the one
+to blame, 0 Father, forgive these men,
+He prayed (said)
+And to the thief there at His side;
+He said to him before He died;
+This day…
+you'll be with me in paradise. .</lines>
+    </verse>
+  </lyrics>
+</song>

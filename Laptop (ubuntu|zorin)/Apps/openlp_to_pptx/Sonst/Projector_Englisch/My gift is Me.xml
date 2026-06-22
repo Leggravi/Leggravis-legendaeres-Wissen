@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My gift is Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What I have to give to You
+Cannot be bought or sold
+It can't be wrapped up in a box
+Or tied with strings of gold
+It isn't perfect and You'll see
+It isn't even new
+But Jesus, it's the only treasure
+I can give to You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Me, My gift is Me
+All I am and all I'll ever be
+I'm not ashamed for the world to see
+That it's Me, My gift is Me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus You're the greatest gift
+The world will ever know
+Coming down from heaven
+Just to live Your Love below
+With all that You have done for Me
+The least that I can do
+Is give all that I know of Me
+To all I know of You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Of all the gifts man could give
+It's nice to know
+That I can give His favorite gift
+The one that thrills Him so</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Me, My gift is Me
+All I am and all I'll ever be
+I'm not ashamed for the world to see
+That it's Me, My gift is Me
+Me, My gift is Me</lines>
+    </verse>
+  </lyrics>
+</song>

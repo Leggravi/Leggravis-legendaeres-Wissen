@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Are Forever</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tens of thousands years from now
+You will always be the same
+The infinite God yes you are
+Ruler of everything</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I lift my spirit to glorify your everlasting holiness
+On my knees I bow down, you are forever</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are forever, all praises belongs to you, forever
+You are forever, adoration belongs to you, forever
+All the glory and honor, the heart of worship, you are forever.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The sunsets and the moon fades
+Yet you'll always remain
+Shining all through night and day
+Wisdom of everything</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I lift my heart to glorify your everlasting holiness
+On my knees I bow down, you are forever.</lines>
+    </verse>
+  </lyrics>
+</song>

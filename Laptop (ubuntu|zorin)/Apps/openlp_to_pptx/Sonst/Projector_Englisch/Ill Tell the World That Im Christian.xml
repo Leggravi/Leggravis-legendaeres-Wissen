@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'll Tell the World That I'm Christian</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'll tell the world, that I'm a christian
+I'm not ashamed, his name to bear
+I'll tell the world, that I'm a christian
+I'll take him with me, anywhere</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'll tell the world, how Jesus saved me
+and how he gave me, a life brand new</lines>
+    </verse>
+  </lyrics>
+</song>

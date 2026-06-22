@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You’ll Always Be My Hero</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who's always there when I need you
+Saving every day
+Who always comes to my rescue
+Whenever I'm afraid
+Who's the one that truly loves me
+Like no one else in the world
+You'll always be my hero
+Forever I'll be yours</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Maybe I'm your weakness
+Maybe I'm your strength
+Nobody's supposed to be perfect
+But you're perfect all the same
+The way you hold us together
+Keep us safe, safe and secure
+You'll always be my hero, forever I'll be yours</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'll hide behind your cape, and then we'll fly away
+If trouble ever comes knocking
+The one I look up to, how could I fill your shoes
+Fallin' in the footsteps you walk in</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Someday when I get older, you'll walk me down that aisle
+There might be a ring on my finger
+But I'll still be wearing your smile
+Not a soul could ever replace you
+That's the one thing I know for sure
+You'll always be my hero, forever I'll be yours
+You'll always be my hero, forever I'll be yours</lines>
+    </verse>
+  </lyrics>
+</song>

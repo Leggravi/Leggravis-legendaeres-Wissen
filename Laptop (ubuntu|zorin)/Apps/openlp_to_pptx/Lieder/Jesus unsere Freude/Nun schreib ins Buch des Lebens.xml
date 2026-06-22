@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:54">
+  <properties>
+    <titles>
+      <title>Nun schreib ins Buch des Lebens</title>
+    </titles>
+    <authors>
+      <author type="words">Straßburg (1850)</author>
+      <author type="music">Melchior Vulpius</author>
+    </authors>
+    <ccliNo>5211061</ccliNo>
+    <themes>
+      <theme>Taufe</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nun schreib ins Buch des Lebens,
+Herr, ihre Namen ein,
+und lass sie nicht vergebens
+dir zugeführet sein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ach präge jedem Kinde
+dein Wort recht tief ins Herz,
+dass es, bewahrt vor Sünde,
+dir dien' in Freud und Schmerz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du, der du selbst das Leben,
+der Weg, die Wahrheit bist,
+uns allen wollst du geben
+dein Heil, Herr Jesu Christ.</lines>
+    </verse>
+  </lyrics>
+</song>

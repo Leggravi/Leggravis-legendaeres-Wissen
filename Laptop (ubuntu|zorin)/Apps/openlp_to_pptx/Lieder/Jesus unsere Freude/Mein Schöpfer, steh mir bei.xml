@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:03">
+  <properties>
+    <titles>
+      <title>Mein Schöpfer, steh mir bei</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Jakob Rambach (1729)</author>
+      <author type="music">Franz Heinrich Christoph Meyer</author>
+    </authors>
+    <ccliNo>6223089</ccliNo>
+    <themes>
+      <theme>Taufe</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mein Schöpfer, steh mir bei,
+sei meines Lebens Licht;
+dein Auge leite mich,
+bis mir mein Auge bricht.
+Hier leg ich Herz und Glieder
+vor dir zum Opfer nieder
+und widme meine Kräfte
+für dich und dein Geschäfte.
+Du willst, dass ich der Deine sei:
+mein Schöpfer, steh mir bei!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mein Heiland, wasche mich
+mit deinem reinen Blut,
+das alle Flecken tilgt und
+lauter Wunder tut.
+Schließ mich verirrten Armen
+ganz ein in dein Erbarmen,
+dass ich von Zorn und Sünde
+hier wahre Freiheit finde.
+Ich bin voll Sünden ohne dich,
+mein Heiland, wasche mich.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mein Tröster, gib mir Kraft,
+wenn sich Versuchung zeigt;
+regiere meinen Geist,
+wenn er zur Welt sich neigt.
+Lehr mich den Sohn erkennen,
+ihn meinen Herren nennen,
+sein Gnadenwort verstehen,
+auf seinen Wegen gehen.
+Du bist, der alles Gute schafft:
+mein Tröster, gib mir Kraft!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gott Vater, Sohn und Geist,
+dir bin ich, was ich bin.
+Ach, drücke selbst dein Bild
+recht tief in meinen Sinn;
+erwähle mein Gemüte
+zum Tempel deiner Güte,
+verkläre an mir Armen
+dein gnadenreich Erbarmen.
+Wohl mir, wenn du der Meine heiß'st,
+Gott Vater, Sohn und Geist!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Don’t Give Up On Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus I know, I’ve neglected
+to do
+The little things or big things
+You’ve wanted me to do
+I’ve let you down Jesus,
+That's not hard to see
+Jesus, Oh Jesus,
+don’t give up on me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Stand by me Jesus
+forgive me somehow
+If there’s any hope left
+don’t leave me now
+I might be worth saving
+I’m trying to be Jesus
+Oh Jesus, don’t give up on me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It's late I know, and I’ve made
+you wait
+But don’t turn the light out
+Don't close the door
+Forgiveness, and patience,
+that’s all I need
+Jesus, Oh Jesus,
+don’t give up on me.</lines>
+    </verse>
+  </lyrics>
+</song>

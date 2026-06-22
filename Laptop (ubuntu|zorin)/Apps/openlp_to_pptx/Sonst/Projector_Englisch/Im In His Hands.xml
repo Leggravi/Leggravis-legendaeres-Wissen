@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm In His Hands</title>
+    </titles>
+    <authors>
+      <author type="words">Tim Hughes</author>
+      <author type="music">Tim Hughes</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Why should I fear tho darkened
+clouds may gather round me,
+The God I serve is one who
+cares and understands,
+Although the storms of life may
+threaten to confound me,
+All this I'm confident
+I'm in His Hands.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>chorus
+I'm in His Hands (x2)
+Whatever the future holds,
+I'm in His Hands
+The days I cannot see,
+Have all been planned for me
+His way is best you see,
+I'm in His Hands.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In days gone by my Lord
+has always proved sufficient,
+When I have yielded to the
+law His love demands
+Why should I doubt that
+He will evermore be faithful
+To make His will my own
+While I'm in His Hands?</lines>
+    </verse>
+  </lyrics>
+</song>

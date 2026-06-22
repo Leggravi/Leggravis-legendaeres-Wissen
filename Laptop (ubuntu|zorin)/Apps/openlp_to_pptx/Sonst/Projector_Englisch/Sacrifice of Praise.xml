@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sacrifice of Praise</title>
+    </titles>
+    <authors>
+      <author type="words">Kirk Dearman</author>
+      <author type="music">Kirk Dearman</author>
+      <author type="translation">Lobpreisopfer bringen wir</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, we come into Your house
+And we gather in Your name,
+It's a privilege to be here,
+We're so very glad we came;
+We can sense Your Holy Presence
+And the warmth of Your embrace,
+As we lift our hearts in worship
+We bring the sacrifice of praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We bring the sacrifice of praise,
+into the house of the Lord.
+We bring the sacrifice of praise,
+into the house of the Lord.
+And we offer up to You
+the sacrifices of thanksgiving.
+And we offer up to You
+the sacrifices of joy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, You taught us in Your Word
+To give thanks in everything
+You provide a place of refuge
+Beneath the shadow of Your wings
+So we purpose to obey You
+And to walk in all your ways
+Lord in every situation
+We bring the sacrifice of praise.</lines>
+    </verse>
+  </lyrics>
+</song>

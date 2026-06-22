@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Around the Walls of Jericho</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Around the walls of Jericho
+Around the walls of Jericho
+Around the walls of Jericho
+The army went.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Seven times without a stop
+Seven times without a stop
+Seven times without a stop
+The army went.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the people gave a SHOUT
+When the people gave a SHOUT
+When the people gave a SHOUT!!!
+The walls fell down.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So, into Jericho at last
+Into Jericho at last
+Into Jericho at last
+The army went.</lines>
+    </verse>
+  </lyrics>
+</song>

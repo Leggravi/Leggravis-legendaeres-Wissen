@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Signs</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You're weighed down with regret,
+You can't see the road ahead,
+Or the burden on your back,
+It seems the trek will never end,
+The winding paths that still descend,
+And up above a sky washed black,
+You just can't bear to look at that.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Follow the signs Open your eyes.
+Read between the lines of what you see.
+Look into the soul of reality.
+Open your mind, Look at the signs.
+Never look back at yesterday.
+Keep your gaze steady on the narrow way/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now you've found the sacred tree
+You kneel upon the broken wheat
+You watch your burden fall away
+And all the things that you once sought
+Now are counted less than lost
+For now you see the light of day
+The signs were pointing all the way</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Follow the signs, Open your eyes,
+Read between the lines of what you see,
+Look into the soul of reality,
+Open your mind, Look at the signs,
+Never look back at yesterday,
+Keep your gaze steady on the narrow way,
+The Follow The Signs.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Follow the signs.
+Open your eyes.
+Look at the signs.
+Open your mind.
+Follow the signs/</lines>
+    </verse>
+  </lyrics>
+</song>

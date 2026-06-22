@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Break Every Chain (New Form)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: There is power
+In the name
+of Jesus! :/ 3x</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: To break every chain,
+Break every chain,
+Break every chain. :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/: There's an army
+rising up :/3x</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: To break every chain,
+Break every chain,
+Break every chain. :/</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/: I hear the
+chains falling! :/</lines>
+    </verse>
+    <verse name="v6">
+      <lines>There is power
+In the name of Jesus!
+To break every chain,
+Break every chain,
+Break every chain.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Cleanse Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Search me, Oh God, and know my heart today;
+Try me, Oh Saviour, know my thoughts, I pray;
+See if there be some wicked way in me,
+Cleanse me from every sin, and set me free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I praise Thee, Lord, for cleansing me from sin;
+Fulfill Thy Word, and make me pure within;
+Fill me with fire, where once I burned with shame;
+Grant my desire to magnify Thy Name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, take my life, and make it wholly Thine;
+Fill my poor heart with Thy great love divine;
+Take all my will, my passion, self and pride;
+I now surrender; Lord, in me abide.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh Holy Ghost, revival comes from Thee;
+Send a revival, start the work in me;
+Thy Word declares Thou wilt supply our need;
+For blessing now, Oh Lord, I humbly plead.</lines>
+    </verse>
+  </lyrics>
+</song>

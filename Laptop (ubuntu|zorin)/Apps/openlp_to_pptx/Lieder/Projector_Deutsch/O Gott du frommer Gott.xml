@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Gott, du frommer Gott</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Heermann</author>
+      <author type="music">Adam Krieger</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Gott, du frommer Gott, du Brunnquell guter Gaben,
+ohn den nichts ist, was ist, von dem wir alles haben:
+Gesunden Leib gib mir und dass in solchem Leib
+ein unverletzte Seel und rein Gewissen bleib.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gib, dass ich tu mit Fleiß, was mir zu tun gebühret,
+wozu mich dein Befehl in meinem Stande führet.
+Gib, dass ich's tue bald, zu der Zeit, da ich soll,
+und wenn ich's tu, so gib, dass es gerate wohl.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hilf, dass ich rede stets, womit ich kann bestehen;
+lass kein unnützlich Wort aus meinem Munde gehen;
+und wenn in meinem Amt ich reden soll und muss,
+so gib den Worten Kraft und Nachdruck ohn Verdruss.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Findt sich Gefährlichkeit, so lass mich nicht verzagen,
+gib einen Heldenmut, das Kreuz hilf selber tragen.
+Gib, dass ich meinen Feind mit Sanftmut überwind
+und, wenn ich Rat bedarf, auch guten Rat erfind.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lass mich mit jedermann in Fried und Freundschaft leben,
+soweit es christlich ist. Willst du mir etwas geben
+an Reichtum, Gut und Geld, so gib auch dies dabei,
+dass von unrechtem Gut nichts untermenget sei.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Soll ich auf dieser Welt mein Leben höher bringen,
+durch manchen sauren Tritt hindurch ins Alter dringen,
+so gib Geduld; vor Sünd und Schaden mich bewahr,
+auf dass ich tragen mag mit Ehren graues Haar.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Lass mich an meinem End auf Christi Tod abscheiden;
+die Seele nimm zu dir hinauf zu deinen Freuden;
+dem Leib ein Räumlein gönn bei seiner Eltern Grab,
+auf dass er seine Ruh an ihrer Seite hab.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Wenn du die Toten wirst an jenem Tag erwecken,
+so tu auch deine Hand zu meinem Grab ausstrecken,
+lass hören deine Stimm und meinen Leib weck auf
+und führ ihn schön verklärt zum auserwählten Hauf.</lines>
+    </verse>
+  </lyrics>
+</song>

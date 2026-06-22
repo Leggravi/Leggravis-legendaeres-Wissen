@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Great Magnet From Above</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am getting weary of this
+lonesome road I tread,
+And everyday I’m longing more
+to be with God
+Just to leave this world of sin
+and all it's strife
+And to walk into the heaven realm of
+life.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There’a a great magnet
+flying from above
+And there’s nothing to hold me
+here below,
+I'll rise to meet Him in the air
+When the final call comes for
+me to go.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As I gaze into the starry skies above
+How l marvel at the Mighty
+Word of God
+Just to know He is living in my soul
+is the greatest gift any man
+could own.</lines>
+    </verse>
+  </lyrics>
+</song>

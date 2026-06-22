@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Anytime, Anyplace, Anywhere</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know a man who can walk on water anytime, any place, anywhere
+And I know a man who can calm a storm anytime, any place, anywhere</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He'll do it in a storm.
+He'll meet you there anytime, any place, anywhere
+Rain or shine He's on time anytime. On time any place, anywhere</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know a man who can raise the dead anytime, any place, anywhere
+And I know a man who can open blind eyes anytime, anyplace, anywhere</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I know a man who can feed five thousand anytime, any place, anywhere
+Just five loaves and two little fish anytime, any place, anywhere</lines>
+    </verse>
+    <verse name="v5">
+      <lines>God will meet you in a storm.
+He'll meet you there anytime, any place, anywhere
+Rain or shine He's on time anytime. On time any place, anywhere</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I know a man who can save anybody anytime, any place, anywhere
+I know a man who can meet your needs anytime, anyplace, anywhere</lines>
+    </verse>
+    <verse name="v7">
+      <lines>In a storm
+He'll meet you there anytime, anyplace, anywhere
+Rain or shine He's on time. On time anyplace, anywhere…</lines>
+    </verse>
+  </lyrics>
+</song>

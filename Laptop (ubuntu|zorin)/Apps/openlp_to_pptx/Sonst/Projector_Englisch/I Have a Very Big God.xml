@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Have a Very Big God</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have a very big God
+A very big God, oh
+He no dey fall my hand oh
+He's always on my side oh
+A very big God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>See my life
+Na so, so wonder
+If you know my God
+He's a miracle worker
+He dey come through on a regular
+Everything na Jaburata
+Him blessings no need formula
+This my God
+He's a very big God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ah ah eeh, aah ah, ah eeh
+Ah ah eeh, aah ah, ah eeh
+Ah ah eeh, aah ah, ah eeh
+This my God
+He's a very Big God</lines>
+    </verse>
+  </lyrics>
+</song>

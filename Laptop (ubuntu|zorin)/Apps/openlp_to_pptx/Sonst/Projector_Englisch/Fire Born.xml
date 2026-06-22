@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Fire Born</title>
+    </titles>
+    <authors>
+      <author type="words">Stuart Garrard</author>
+      <author type="music">Stuart Garrard</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Don't wanna go back, Lord
+To the way I used to be
+The way I used to live
+I won’t go back, Lord
+To the way I used to be
+Before you rescued me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will not stop
+'til every tribe and nation
+Bows before You
+I will not stop
+'til they all see your glory
+See your glory</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your fire burns within me
+Burn within me with Your fire</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lift up your eyes to see
+The glory of the Lord is on the earth</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Arise, arise
+Bridge
+Arise, generation
+No longer forsaken
+Arisе, arise, arise</lines>
+    </verse>
+  </lyrics>
+</song>

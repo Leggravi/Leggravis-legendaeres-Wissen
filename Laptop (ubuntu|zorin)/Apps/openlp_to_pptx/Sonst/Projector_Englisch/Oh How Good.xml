@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh How Good</title>
+    </titles>
+    <authors>
+      <author type="words">Keith Getty</author>
+      <author type="music">Keith Getty</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh how good, oh how pleasant it is
+For brothers to live together in unity.
+Oh how good is the blessing God gives
+When we worship Him together in unity.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Only one body, only one spirit
+Only one Father above.
+For we are all brothers
+For we are His children
+One with another with the bond of love.</lines>
+    </verse>
+  </lyrics>
+</song>

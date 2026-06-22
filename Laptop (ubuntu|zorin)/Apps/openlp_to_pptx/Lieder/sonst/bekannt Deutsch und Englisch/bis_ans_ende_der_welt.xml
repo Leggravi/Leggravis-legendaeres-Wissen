@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 14, 2020, 7:38:33 AM">
+  <properties>
+    <titles>
+      <title>Bis ans Ende der Welt</title>
+    </titles>
+    <verseOrder>V1 V2 V3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Bis ans Ende der Welt, bis ans Ende der Zeit.
+Deine Liebe hält bis in Ewigkeit.
+Sie wird niemals vergehn. Sie steht fest und sie bleibt.
+Wenn der Vorhang fällt und der Tag sich neigt.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Niemand und nichts kann uns trennen von dir,
+Deine Liebe ist stark wie der Tod.
+Wenn du für uns bist, wer kann gegen uns sein,
+Denn auf ewig bist du unser Gott.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Bis ans Ende der Welt, bis ans Ende der Zeit.
+Deine Liebe hält bis in Ewigkeit.
+Sie wird niemals vergehn. Sie steht fest und sie bleibt.
+Wenn der Vorhang fällt, deine Liebe reicht
+Bis ans Ende der Welt.</lines>
+    </verse>
+  </lyrics>
+</song>

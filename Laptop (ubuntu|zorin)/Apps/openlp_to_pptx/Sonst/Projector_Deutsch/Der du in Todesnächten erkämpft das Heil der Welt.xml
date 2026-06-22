@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Der du in Todesnächten erkämpft das Heil der Welt</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Knapp</author>
+      <author type="music">Valet will ich dir geben</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Der du in Todesnächten
+erkämpft das Heil der Welt
+und dich als den Gerechten
+zum Bürgen dargestellt,
+der du den Feind bezwungen,
+den Himmel aufgetan:
+Dir stimmen unsre Zungen
+ein Halleluja an.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Im Himmel und auf Erden
+ist alle Macht nun dein,
+bis alle Völker werden
+zu deinen Füßen sein,
+bis die von Süd und Norden,
+bis die von Ost und West
+sind deine Gäste worden
+bei deinem Hochzeitsfest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Noch werden sie geladen,
+noch gehn die Boten aus,
+um mit dem Ruf der Gnaden
+zu füllen dir dein Haus.
+Es ist kein Preis zu teuer,
+es ist kein Weg zu schwer,
+hinauszustreun dein Feuer
+ins weite Völkermeer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O sammle deine Herden
+dir aus der Völker Zahl,
+dass viele selig werden
+und ziehn zum Abendmahl.
+Schließ auf die hohen Pforten,
+es strömt dein Volk heran;
+wo noch nicht Tag geworden,
+da zünd dein Feuer an!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Drum kann nicht Friede werden
+bis deine Liebe siegt,
+bis dieser Kreis der Erden
+zu deinen Füßen liegt,
+bist du im neuen Leben
+die ausgesöhnte Welt
+dem, der sie dir gegeben,
+vors Angesicht gestellt.</lines>
+    </verse>
+  </lyrics>
+</song>

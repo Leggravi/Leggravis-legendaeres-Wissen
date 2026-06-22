@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Großer Heiland der Verlornen</title>
+    </titles>
+    <authors>
+      <author type="words">Rudolf Brockhaus</author>
+      <author type="music">Herrnhut</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Großer Heiland der Verlornen,
+Gottes heil'ges Opferlamm,
+Dorngekrönt, mit Fluch beladen,
+Hingst Du an des Kreuzes Stamm!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dich, den Herrn, den Fürst des Lebens,
+Traf der Menschen Spott und Hohn,
+Dir, dem Reinen, Fleckenlosen,
+Ward der Sünde bittrer Lohn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rings von Todesnacht umgeben,
+Hast Du unsre Schuld gesühnt,
+Still und stumm, von Gott verlassen,
+Trugest Du was wir verdient.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Aus den Toten auferstanden,
+Thronst Du als des Menschen Sohn
+Jetzt zur Rechten Gottes droben –
+Sünder gab Er Dir zum Lohn!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Großer Heiland der Verlornen!
+Wer jetzt gläubig Dir vertraut,
+Der wird nimmermehr zuschanden,
+Hat auf Felsengrund gebaut.</lines>
+    </verse>
+  </lyrics>
+</song>

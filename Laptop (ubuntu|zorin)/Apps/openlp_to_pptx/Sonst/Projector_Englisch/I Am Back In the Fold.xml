@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Am Back In the Fold</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was straying in the
+valley of the shadows of death
+I was lost and the light
+was so dim,
+But the good Shepherd
+loved me, and He sought me
+Till He found me.
+Now I am back in the fold again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am back in the fold,
+I’m sheltered from the cold,
+And I know I’ll forever
+have a friend,
+For the good Shepherd loved us
+And He sought me till He found me,
+Now I’m back in the fold again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I was bending neath my burdens
+And my footsteps were sore,
+I was bound by the great chain of
+sin,
+Then the good Shepherd found me
+Took me up and unbound me,
+Now I’m back in the fold again.</lines>
+    </verse>
+  </lyrics>
+</song>

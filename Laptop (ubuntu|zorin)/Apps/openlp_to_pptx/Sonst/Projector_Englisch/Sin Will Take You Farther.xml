@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sin Will Take You Farther</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As a child I so foolishly turned away
+Not knowing the heartache
+a sinner must face
+But my Father in His goodness
+has made me return
+To share with His children
+this lesson I’ve learnt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sin will take you farther
+than you want to go
+Slowly and wholly taking control
+Sin will keep you longer
+than you want to stay
+Sin will cost you far more
+than you want to pay.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So with pleasures and promises
+sin took control,
+Leaving me dying with
+nothing to show
+Gone were my loved ones
+and my dearest friends
+Only a Saviour, could love
+me again.</lines>
+    </verse>
+  </lyrics>
+</song>

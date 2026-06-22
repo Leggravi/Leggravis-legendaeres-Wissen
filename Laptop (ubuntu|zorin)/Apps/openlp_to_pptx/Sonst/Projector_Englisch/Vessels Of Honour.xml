@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Vessels Of Honour</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are troubled on every side
+Yet not distressed,
+Perplexed but not in despair;
+Persecuted but not forsaken,
+Even in trials we are not forgotten.
+That’s why in all these things,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are more than conquerors
+Pressing the upward way;
+And we bear in our bodies
+The dying of our Lord everyday, everyday.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>’Cause we are vessels of honour
+Set aside unto the Master’s use,
+And they whom He foreknew,
+Them He did choose.
+Our Lord was tempted on every side,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yet without sin,
+That we could reign with Him;
+Proven to be the true Saviour,
+Lord and King and Blessed Redeemer.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Now we are given a sacred trust
+To fulfil His word
+In this hour of destruction.
+Surely goodness and mercy
+Will be with us despite the condition.</lines>
+    </verse>
+  </lyrics>
+</song>

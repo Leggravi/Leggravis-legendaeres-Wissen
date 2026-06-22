@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Komm mit Macht</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Komm mit Macht, komm mit Herrlichkeit, o Herr Jesus, wir sagen:&quot;Komm&quot;!
+Heil'ger Geist, wirke an uns, wohne in uns, regiere Du!
+Mächt'ger Vater, ruf deine Kinder heraus aus Sünde und Finsternis,
+nach dem Wort und der Verheissung!
+Dein Reich komme in unser Land!</lines>
+    </verse>
+  </lyrics>
+</song>

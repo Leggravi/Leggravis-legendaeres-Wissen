@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Keep Your Eyes On Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Struggling through this world
+Of sin and sorrow
+We’re trusting in Jesus every day
+Waiting for a happy bright tomorrow
+When Jesus comes to take
+His bride away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Keep your eyes on Jesus
+When the tides and waves of
+troubles round you roll
+He will calm the toils of life
+That toss your soul.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the life you live is not
+worthy living,
+know one who cares and
+understands,
+He will cleanse your heart and
+make you happy
+And lead you to that home not
+made with hands.</lines>
+    </verse>
+  </lyrics>
+</song>

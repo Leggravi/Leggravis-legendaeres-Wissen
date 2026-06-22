@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>More Than Ever Before</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>More Than ever before, Lord I Love you
+More Than ever before, Lord I need you
+More Than ever before, I've got to tell you
+I need you now more than ever before</lines>
+    </verse>
+  </lyrics>
+</song>

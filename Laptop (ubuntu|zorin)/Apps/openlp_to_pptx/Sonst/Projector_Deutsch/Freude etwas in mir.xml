@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Freude etwas in mir</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Frey</author>
+      <author type="music">Albert Frey</author>
+      <author type="translation">Joy (Something inside)</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Etwas in mir, zeigt mir dass es Dich wirklich gibt.
+Ich bin gewiss, dass Du lebst, mich kennst und mich liebst.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bringst mich zum Lachen, machst, dass mein Herz singt.
+Du bringst mich zum Tanzen, meine Seele schwingt.
+Ich atme auf in Deiner Gegenwart.
+Herr, Du allein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gibst mir Freude, die von innen kommt.
+Freude, die mir niemand nimmt.
+Herr, Du machst mein Leben hell, mit dem Licht Deiner Liebe.</lines>
+    </verse>
+  </lyrics>
+</song>

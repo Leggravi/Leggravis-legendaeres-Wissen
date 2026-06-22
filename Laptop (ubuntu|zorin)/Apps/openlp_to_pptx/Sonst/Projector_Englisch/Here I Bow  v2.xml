@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Here I Bow – v2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Where would I run
+But to the throne of mercy
+Where would I kneel
+But at this cross of grace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How great the love
+How strong the hand that holds us
+Beautiful so beautiful</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So here I bow
+To lift You high
+Jesus be glorified
+In all things for all my life
+I am Yours forever Yours</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There is a King
+Who bore the scars of healing
+There is a Son
+Who came in grace and truth
+How great the love
+That carries us to kindness
+Wonderful You’re wonderful</lines>
+    </verse>
+    <verse name="v5">
+      <lines>God here and now be lifted high
+Right here and now be glorified
+God of Heaven and Earth
+God who brought me back to life
+I am Yours forever Yours</lines>
+    </verse>
+  </lyrics>
+</song>

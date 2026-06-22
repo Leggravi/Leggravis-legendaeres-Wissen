@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In deinem Licht</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Pepper</author>
+      <author type="music">Martin Pepper</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In Deinem Licht
+Siehst Du mich
+Hast mich erkannt
+Bei meinem Namen genannt
+Du kennst mein Herz
+Dank und Schmerz
+Es liegt vor Dir offen, Herr</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mein ganzes Sein
+Tagaus, tagein
+Ergibt nur Sinn
+Wenn ich nicht jemand anderes bin
+Wie Du mich siehst
+Und was Du in mir liebst
+Das will ich sein
+Und nur das allein</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Darum geb ich hin
+Was ich will und bin
+Lasse los und bete an
+Denn Dein Ja zu mir
+Macht mich frei vor Dir
+Einfach nur ich selbst zu sein</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 2, 2025, 10:59:11 AM">
+  <properties>
+    <titles>
+      <title>What a Beautiful Day</title>
+    </titles>
+    <verseOrder>V1 V2 C3 C4 V5 V6 C3 C4 V7 C3 C4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>1. We've read it in the scripture
+We're living out each line
+Walking through
+the last days the end time</lines>
+    </verse>
+    <verse name="V2">
+      <lines>We see the times are perilous
+Evil grows each day
+In these closing moments
+All there really is to say</lines>
+    </verse>
+    <verse name="C3">
+      <lines>What a beautiful day,
+What a beautiful sometime,
+What a wonderful age
+It is to walk with Him,
+What a wonderful life</lines>
+    </verse>
+    <verse name="C4">
+      <lines>What an excellent place
+To share the saving grace
+To live the gospel way
+What a beautiful day</lines>
+    </verse>
+    <verse name="V5">
+      <lines>2. What an awesome honor,
+What a joy to know
+We're the called by God
+The ones He chose</lines>
+    </verse>
+    <verse name="V6">
+      <lines>He's given us the power
+Heaven's light divine
+In the darkest hour
+And it's time for us to shine</lines>
+    </verse>
+    <verse name="V7">
+      <lines>3. What a beautiful revelation
+To find the culmination of this life
+A celebration for the Saints
+The elevation of the Bride!</lines>
+    </verse>
+  </lyrics>
+</song>

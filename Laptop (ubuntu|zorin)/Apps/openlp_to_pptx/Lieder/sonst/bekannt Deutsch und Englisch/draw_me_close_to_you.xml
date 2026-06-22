@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Mar 30, 2020, 5:05:25 PM">
+  <properties>
+    <titles>
+      <title>Draw me close to you</title>
+    </titles>
+    <verseOrder>V1 C2 V1 C2 C2 V3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Draw me close to you
+Never let me go
+I lay it all down again
+To hear you say that I'm your friend.
+You are my desire
+No one else will do
+Cause nothing else can take your place
+To feel the warmth of your embrace
+Help me find the way
+Bring me back to you</lines>
+    </verse>
+    <verse name="C2">
+      <lines>You're all I want
+You're all I've ever needed
+You're all I want
+Help me know you are near</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Help me know you are near
+Help me know you are near</lines>
+    </verse>
+  </lyrics>
+</song>

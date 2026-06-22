@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Are Your People</title>
+    </titles>
+    <authors>
+      <author type="words">David Fellingham</author>
+      <author type="music">David Fellingham</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh Lord, we are Your people
+Chosen by Your grace
+You took us from the heathen
+To be a super race
+And as children of the great
+King of kings
+We have all reason to shout and sing
+You've given us joy, joy, joy
+You've given us joy, joy, joy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If You should mark iniquity
+Which of us could stand?
+How could we get through this life
+Wihtout Your guiding hand?
+So Lord, we ask You,
+Forgive our failures
+And deliver us from all temptations
+Amd make us strong, strong, strong
+Amd make us strong, strong, strong</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We know we're not deserving
+Of all Your graciousness
+We know we fail You daily
+And sometimes misbehave
+But Lord, we love You.
+We want to serve You
+Yes Lord, we need You and we believe
+You will help us overcome
+You will help us overcome</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh yes, You have redeemed us
+By Your precious blood
+Your power brought deliverance
+When Satan came in like a flood
+And Lord, we see You strong in battle
+Yes Lord, we see You
+Breaking the shackles
+And giving us joy, joy, joy
+And giving us joy, joy, joy</lines>
+    </verse>
+  </lyrics>
+</song>

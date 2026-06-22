@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sound of freedom</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I hear the sound of freedom,
+Jubilee
+Seven thunders speaking my liberty
+And I’ve climbed the mountain
+Seen the risen Son
+It’s Jubilee, my Jubilee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Supreme Judge appeared in
+1963
+Then the Lamb took the Book
+and opened the Seals
+We’ve heard the preaching of the acceptable year
+We’ve heard the trumpet sound
+Every man can go free</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now here we are
+After fifty years
+We’ve seen the end of time
+rapidly drawing near
+No matter what you’ve done, you can now go free
+Yes all your debts are paid
+If you will just see grace</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We are free
+My chains have been broken
+I’m no longer a slave
+The prison doors are opened
+I’m no longer in bondage
+My pardon was signed
+It was done on Calvary
+At the appearing of the Cloud
+We can claim our redemption
+Who the Son of Man has set free
+Is free indeed</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Halleluja! Lobet Gott in Seinem Heiligtum</title>
+    </titles>
+    <authors>
+      <author type="words">Dorothea Mülnikel</author>
+      <author type="music">Hans Nyberg</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Halleluja! Lobet Gott in seinem Heiligtum!
+Lobet ihn in der Feste seiner Macht!
+Lobet Ihn für seine Taten, lobet Ihn!
+Lobet Ihn in seiner großen Herrlichkeit!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alles was Odem hat, lobe den Herrn! Halleluja!
+Alles was Odem hat, lobe den Herrn! Halleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lobet Ihn mit den Posaunen, lobet Ihn.
+Lobet Ihn mit Psaltern und mit Harfen!
+Lobet Ihn mit Pauken und mit Reigen!
+Lobet Ihn mit Saiten und mit Pfeifen!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lobet Ihn mit hellen Zimbeln, lobet Ihn.
+Lobet Ihn mit wohlklingenden Zimbeln!
+Lobet Ihn für seine Taten, lobet Ihn!
+Lobet Ihn in seiner großen Herrlichkeit!</lines>
+    </verse>
+  </lyrics>
+</song>

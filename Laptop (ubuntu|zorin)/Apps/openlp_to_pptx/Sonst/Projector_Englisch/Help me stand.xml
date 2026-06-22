@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Help me stand</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It’s so easy, Lord, to stumble
+In this old world we’re living in
+While old Satan goes to and fro
+There’s so many that are falling
+Yes, they are falling everyday
+So help me stand Lord
+The way You stood long ago</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Help me stand by Your grace
+And look the whole world in the face
+And sing Your Word wherever I go
+When the tempter comes around
+Lord give me strength to turn him down
+So help me stand Lord
+The way You stood long ago</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When on the earth you were confronted
+By the tempter you did not bow
+You overcame all temptations, yes, every one
+You defied him, Your precious Blood flowed
+To cleanse and give me strength to stand
+So now I pray Lord, by that same Blood I’ll overcome</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I know believers who lived in the ages gone by
+They faced temptations, yet they stood true
+But I’m living in the most evil of all ages that ever was
+So precious Jesus now help me stand and honour You</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God Likes to Work</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You've been to the doctor and he just shook his head.
+So many nights you've suffered lying in bed.
+But you can't seem to make it.
+Your body is ill.
+Friend God likes to work when nothing else will.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God likes to work
+When your back's to the wall
+When faith's in the balance
+And you're just about to fall.
+So there'll be no mistaking when He blesses and heals
+Oh God likes to work when nothing else will.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You've met with the banker.
+He said no with regret.
+You've tried everyway just to get ahead.
+But you're hoping and praying for a miracle still.
+Oh God likes to work when nothing else will.</lines>
+    </verse>
+  </lyrics>
+</song>

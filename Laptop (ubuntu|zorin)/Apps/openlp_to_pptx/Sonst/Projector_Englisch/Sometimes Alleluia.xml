@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sometimes Alleluia</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sometimes alleluia,
+Sometimes praise the Lord
+Sometimes gently singing,
+Our hearts in one accord
+(Alleluia! Alleluia!)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh let us lift our voices,
+Look toward the sky and start to sing
+Oh let us now return His love,
+Just let our voices ring
+Oh let us feel His presence,
+Let the sound of praises fill the air
+Oh let us sing the song of Jesus' love,
+To people everywhere.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh let our joy be unconfined,
+Let us sing with freedom unrestrained
+Let's take this feeling that we're feeling now,
+Outside these walls and let it rain.
+Oh let the Spirit overflow,
+As we are filled from head to toe.
+We love you Father, Son and Holy Ghost,
+And we want this world to know.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You can sing if you want to, Alleluia
+The angels are singing, alleluia
+Heaven is rejoicing, alleluia</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You can sing a little louder, alleluia
+The angels are singing, alleluia
+Heaven is rejoicing, alleluia
+Alleluia! Alleluia!
+Thank You, Jesus,
+Alleluia! Alleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

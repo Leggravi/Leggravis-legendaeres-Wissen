@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sweet Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Spiritual</author>
+      <author type="music">Spiritual</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sweet Jesus my Savior you are my faithful friend
+You made me
+you know me
+you’ve seen my every sin</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My soul is amazed
+By the gift of your grace
+And the arms that take me
+Sweet Jesus my Savior you are my faithful friend</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sweet Jesus my shelter you are my faithful friend
+The refuge I run to when the world comes closing in</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Why should I be afraid
+When I know I am saved
+By the arms that take me in
+Sweet Jesus my shelter you are my faithful friend</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sweet Jesus my shepherd you are my faithful friend
+You hold me you lead me I’ll follow to the end</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And once more I will say
+On that beautiful day
+When your arms take me in
+Sweet Jesus my shepherd you are my faithful friend
+Sweet Jesus my Savior you are my faithful friend</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 30, 2021, 1:27:26 PM">
+  <properties>
+    <titles>
+      <title>Bewahre uns, Gott, behüte uns, Gott</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Bewahre uns, Gott, behüte uns, Gott,
+sei mit uns auf unsern Wegen.
+Sei Quelle und Brot in Wüstennot,
+sei um uns mit deinem Segen.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Bewahre uns, Gott, behüte uns, Gott,
+sei mit uns in allem Leiden.
+Voll Wärme und Licht im Angesicht,
+sei nahe in schweren Zeiten.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Bewahre uns, Gott, behüte uns, Gott,
+sei mit uns vor allem Bösen.
+Sei Hilfe, sei Kraft, die Frieden schafft,
+sei in uns, uns zu erlösen.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Bewahre uns, Gott, behüte uns, Gott,
+sei mit uns durch deinen Segen.
+Dein Heiliger Geist, der Leben verheißt,
+sei um uns auf unsern Wegen.</lines>
+    </verse>
+  </lyrics>
+</song>

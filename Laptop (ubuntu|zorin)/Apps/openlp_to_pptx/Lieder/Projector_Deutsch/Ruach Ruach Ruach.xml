@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ruach, Ruach, Ruach</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Jugend mit einer Mission</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ruach, Ruach, Ruach.
+Nicht durch Heer oder Kraft,
+sondern durch meinen Geist!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Aug 20, 2018, 1:04:37 PM">
+  <properties>
+    <titles>
+      <title>Herr, Du bist mächtig</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Herr, Du bist mächtig
+Bist hoch erhöht
+Herr, Du bist prächtig
+Und was durch Dich geschieht
+Herr, Deine Weisheit erstrahlt in Ewigkeit
+Denn Du warst der Herr vor aller Zeit</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Herr, Du bist König
+Auf Deinem Thron
+Herr, Du bist Schöpfer
+Und schenkst uns Deinen Sohn
+Herr, Deine Schönheit ist unermesslich groß
+Deine Liebe lässt mich nicht mehr los</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Grosser Gott
+Du hast Dich klein gemacht
+Du starbst für mich
+Und riefst:
+Es ist vollbracht
+Wie ein Lamm
+Nahmst Du es auf Dich
+All meine Schuld
+Und rettest mich
+Mächtiger Herr</lines>
+    </verse>
+  </lyrics>
+</song>

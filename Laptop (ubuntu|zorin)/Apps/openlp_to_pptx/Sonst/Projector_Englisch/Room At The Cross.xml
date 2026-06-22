@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Room At The Cross</title>
+    </titles>
+    <authors>
+      <author type="words">Ira Forest Stanphill</author>
+      <author type="music">Ira Forest Stanphill</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The cross upon which Jesus died
+Is a shelter in which we can hide,
+And its grace so free is sufficient for me,
+And deep is its fountain;
+ as wide as the sea.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's room at the cross for you,
+There's room at the cross for you,
+Though millions have come,
+there's still room for one,
+Yes, there's room at the cross for you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though millions have found Him a friend
+And have turned from the sins
+ they have sinned,
+The Saviour still waits to open the gates,
+And welcome a sinner before it's too late.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The hand of my Saviour is strong
+And the love of my Saviour is long,
+Through sunshine or rain, through
+ loss or in gain
+The blood flows from Calv'ry to cleanse
+ every stain.</lines>
+    </verse>
+  </lyrics>
+</song>

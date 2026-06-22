@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Immer mehr von dir</title>
+    </titles>
+    <authors>
+      <author type="words">Lothar Kosse</author>
+      <author type="music">Lothar Kosse</author>
+      <author type="translation">So much more</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Immer mehr von dir, immer mehr!
+Immer mehr sein wie du, immer mehr!
+Immer mehr deine Worte verstehn,
+deine Werke tun,
+o Herr, immer mehr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist ein Gott, der seine Kinder Liebt,
+der als ein Vater ihr Verlangen sieht.
+Niemand und nichts kommt dir jemahls gleich, o Herr.
+Du zeigst dich uns als ewig, treuer Freund
+und weißt genau wie unser Herz es meint.
+Gib uns mehr von dir, immer mehr!</lines>
+    </verse>
+  </lyrics>
+</song>

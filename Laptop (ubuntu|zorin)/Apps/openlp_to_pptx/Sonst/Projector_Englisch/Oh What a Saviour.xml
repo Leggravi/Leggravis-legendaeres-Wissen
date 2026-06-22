@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh What a Saviour</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Davenport</author>
+      <author type="music">Chris Davenport</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Once I was straying
+In sin's dark valley,
+No hope within could I see;
+They searched through Heaven
+And found a Savior
+To save a poor lost soul like me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh what a Savior, oh hallelujah,
+His heart was broken on Calvary;
+His hands were nail-scarred
+His side was riven,
+He gave His life blood for even me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He left the Father, with all His riches,
+With calmness sweet and serene,
+Came down from Heaven
+And gave His life blood,
+To make the vilest sinner clean.</lines>
+    </verse>
+  </lyrics>
+</song>

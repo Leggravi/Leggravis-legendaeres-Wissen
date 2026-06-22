@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Calm Within the Storm</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The battle rages on
+Seems my strength is almost gone
+The trials overwhelm me
+'Til I feel I can't go on
+But deep within this heart of mine
+is a peace that gives me rest
+Knowing You're in full control,
+I can overcome this test</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I know You're
+the calm within the storm
+You're the only peace we have
+when it seems our life is torn
+and though our hope may seem lost
+laying weary hearts beneath the cross
+Dear Lord, it's good to know
+deep within this soul
+You're the calm within the storm
+You are the calm within the storm</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Discouragement hits hard
+The devil tries to drop my guard
+Constantly we worry with the
+battles on the mind
+But when with softly-whispered prayer,
+I claim the victory
+knowing in Your tender arms
+the devil has no claim on me</lines>
+    </verse>
+  </lyrics>
+</song>

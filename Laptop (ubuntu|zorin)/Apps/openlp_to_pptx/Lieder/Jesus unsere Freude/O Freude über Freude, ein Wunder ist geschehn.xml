@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:39">
+  <properties>
+    <titles>
+      <title>O Freude über Freude, ein Wunder ist geschehn</title>
+    </titles>
+    <authors>
+      <author type="words">Thomas Eger (1977)</author>
+      <author type="music">Thomas Eger</author>
+    </authors>
+    <themes>
+      <theme>Weihnachten</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Freude über Freude, ein Wunder ist geschehn!
+Gott kommt heute zu uns Menschen, im Stall zu Bethlehem.
+Er kommt zu uns als Kindlein, ganz hilflos, arm und klein.
+Doch wer sich vor ihm beuget, bei dem kehrt Freude ein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Freude über Freude, die Trennung ist vorbei!
+Gott selbst durchbricht die Mauer, nun sind wir endlich frei.
+Nun kann uns nichts mehr hindern mit Gott vereint zu sein.
+Wer sich vor Jesus beuget, dar Gottes Kind jetzt sein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Freude über Freude, die Gnadenzeit bricht an!
+Nicht eigenes Tun ist nötig, um sich zu Gott zu nahn.
+Er selbst ist ja gekommen, in Jesus, seinem Sohn.
+Wer sich vor Jesus beuget, hat Gottes Ja zum Lohn.</lines>
+    </verse>
+  </lyrics>
+</song>

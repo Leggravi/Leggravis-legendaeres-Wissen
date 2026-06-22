@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:49">
+  <properties>
+    <titles>
+      <title>Gelobet sei der Herr, mein Gott, mein Licht, mein Leben</title>
+    </titles>
+    <authors>
+      <author type="words">Johannes Olearius (1665)</author>
+      <author type="music">Nun danket alle Gott</author>
+    </authors>
+    <ccliNo>4817569</ccliNo>
+    <themes>
+      <theme>Dreieinigkeit</theme>
+      <theme>Trinitatis</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gelobet sei der Herr,
+mein Gott, mein Licht, mein Leben,
+mein Schöpfer, der
+mir hat mein Leib und Seel gegeben,
+mein Vater, der mich schützt
+von Mutterleibe an,
+der alle Augenblick
+viel Guts an mir getan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gelobet sei der Herr,
+mein Gott, mein Heil, mein Leben,
+des Vaters liebster Sohn,
+der sich für mich gegeben,
+der mich erlöset hat
+mit seinem teuren Blut,
+der mir im Glauben schenkt
+das allerhöchste Gut.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gelobet sei der Herr,
+mein Gott, mein Trost, mein Leben,
+des Vaters werter Geist,
+den mir der Sohn gegeben,
+der mir mein Herz erquickt,
+der mir gibt neue Kraft,
+der mir in aller Not Rat,
+Trost und Hilfe schafft.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gelobet sei der Herr,
+mein Gott, der ewig lebet,
+den alles lobet, was
+in allen Lüften schwebet.
+Gelobet sei der Herr,
+des Name heilig heißt,
+Gott Vater, Gott der Sohn
+und Gott der werte Geist,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dem wir das Heilig jetzt
+mit Freuden lassen klingen
+und mit der Engelschar
+das Heilig, Heilig singen,
+den herzlich lobt und preist
+die ganze Christenheit:
+Gelobet sei mein Gott
+in alle Ewigkeit!</lines>
+    </verse>
+  </lyrics>
+</song>

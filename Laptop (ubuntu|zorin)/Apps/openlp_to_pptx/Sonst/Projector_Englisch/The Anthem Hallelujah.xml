@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Anthem (Hallelujah)</title>
+    </titles>
+    <authors>
+      <author type="words">Joth Hunt</author>
+      <author type="music">Joth Hunt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>By His stripes we are healed
+By His nail pierced hands we’re free
+By His blood, we’re washed clean
+Now we have the victory.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The power of sin is broken,
+Jesus overcame it all,
+He has won our freedom,
+Jesus has won it all,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelujah
+You have won the victory
+Hallelujah
+You have won it all for me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Death could not hold you down
+You are the risen king
+Seated in majesty
+You are the risen king</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Our God is risen, he is alive
+he won the victory, he reigns on high</lines>
+    </verse>
+  </lyrics>
+</song>

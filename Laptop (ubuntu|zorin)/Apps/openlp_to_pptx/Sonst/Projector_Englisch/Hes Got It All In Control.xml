@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He's Got It All In Control</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's got it all in control,
+He's got it all in control;
+He put that reassurance
+Way down in my soul,
+He's got it all in control.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I put my life in His hands,
+I put my life in His hands;
+The weary road I walk down
+I'm sure is in His plan,
+I put my life in His hands.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I put my life in His hands
+I put my life in His hands
+So every road I walk down
+I'm sure is in His plan
+I put my life in his hands.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He's got the Bride in control
+He's got the Bride in control
+He has put that Holy Ghost
+Way down in Her soul
+He's got the Bride in control.</lines>
+    </verse>
+  </lyrics>
+</song>

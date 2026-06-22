@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Shall Love the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Dez D. Dickerson</author>
+      <author type="music">Dez D. Dickerson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: You shall love the Lord with all your heart
+You shall love the Lord with all your soul
+You shall love the Lord with all your mind
+With all your heart, with all your soul, with all your mind :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh Lord, I love You, for all the things You are
+Oh Lord, I love You, for all the things You do
+Oh Lord, I love You, help me love You more
+With all my heart, with all my soul, with all my mind</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/: I will love the Lord with all my heart
+I will love the Lord with all my soul
+I will love the Lord with all my mind
+With all my heart, with all my soul, with all my mind :/</lines>
+    </verse>
+  </lyrics>
+</song>

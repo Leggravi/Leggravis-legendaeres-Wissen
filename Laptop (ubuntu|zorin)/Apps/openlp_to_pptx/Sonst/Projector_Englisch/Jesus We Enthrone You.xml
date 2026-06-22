@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus We Enthrone You</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Kyle</author>
+      <author type="music">Paul Kyle</author>
+      <author type="translation">Jesus, wir erheben dich</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, we enthrone You
+We proclaim You are king
+Standing here, in the midst of us
+We raise You with our praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And as we worship build the throne
+And as we worship build the throne
+And as we worship build the throne
+Come Lord Jesus and take Your place.</lines>
+    </verse>
+  </lyrics>
+</song>

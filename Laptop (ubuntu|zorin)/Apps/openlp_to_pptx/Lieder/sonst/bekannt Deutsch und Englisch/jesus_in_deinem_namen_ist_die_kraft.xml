@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Mar 30, 2021, 11:15:37 PM">
+  <properties>
+    <titles>
+      <title>Jesus in deinem namen ist die Kraft</title>
+    </titles>
+    <verseOrder>V1 V2 V3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Jesus, in deinem namen ist die Kraft,
+Jesus, die selbst die Blinden sehend macht.
+Der Name Jesus ist erfüllt von Herrlichkeit.
+Jesus, Gott von Ewigkeit!</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Jesus, in deinem Namen liegt das Heil.
+Jesus, mein Lob wird dir allein zuteil.
+O Jesus du bist die Gerechtigkeit,
+Leben in alle Ewigkeit!</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Jesus, mein König, der bald wiederkehrt,
+Jesus, mein Herz nur dich allein begehrt.
+Dem Namen Jesus singen wir für alle Zeit.
+Jesus, Herr der Herrlichkeit!</lines>
+    </verse>
+  </lyrics>
+</song>

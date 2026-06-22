@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Stricken, Smitten, and Afflicted</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stricken, smitten, and afflicted, see him dying on the tree!
+'Tis the Christ by man rejected; yes, my soul, 'tis he, 'tis he!
+'Tis the long-expected Prophet, David's Son, yet David's Lord;
+By his Son God now has spoken: 'tis the true and faithful Word.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tell me, ye who hear him groaning, was there ever grief like his?
+Friends thro' fear his cause disowning, foes insulting his distress;
+Many hands were raised to wound him, none would interpose to save;
+But the deepest stroke that pierced him was the stroke that Justice gave.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ye who think of sin but lightly nor suppose the evil great
+Here may view its nature rightly, here its guilt may estimate.
+Mark the sacrifice appointed, see who bears the awful load;
+'tis the Word, the Lord's Anointed, Son of Man and Son of God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Here we have a firm foundation, here the refuge of the lost;
+Christ's the Rock of our salvation, his the name of which we boast.
+Lamb of God, for sinners wounded, sacrifice to cancel guilt!
+None shall ever be confounded who on him their hope have built.</lines>
+    </verse>
+  </lyrics>
+</song>

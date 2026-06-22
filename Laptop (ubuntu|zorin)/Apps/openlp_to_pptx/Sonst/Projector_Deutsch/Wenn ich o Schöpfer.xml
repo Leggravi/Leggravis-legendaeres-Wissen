@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wenn ich, o Schöpfer!</title>
+    </titles>
+    <authors>
+      <author type="words">Christian Fürchtegott Gellert</author>
+      <author type="music">Bis hierher hat mich Gott gebracht</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wenn ich, o Schöpfer! Deine Macht,
+Die Weisheit deiner Wege,
+Die Liebe, die für alle wacht,
+Anbetend überlege:
+So weiß ich, von bewumd’rung voll,
+Nicht wie ich dich erheben soll,
+Mein Gott, mein Herr und Vater!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mein Auge sieht, wohin es blickt,
+Die Wunder deiner Werke.
+Der Himmel, prächtig ausgeschmückt,
+Preis’t dich, du Gott der Stärke!
+Wer hat die Sonn’ an ihm erhöht?
+Wer kleidet sie mit Majestät?
+Wer ruft dem Heer der Sterne?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wer mißt dem Winde seinen Lauf?
+Wer heißt die Himmel regnen?
+Wer schließt den Schoss der Erde auf,
+Mit vorrath uns zu segnen?
+O, Gott der Macht und Herrlichkeit!
+Gott, deine Güte reicht so weit,
+So weit die Wolken reichen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dich predigt Sonnenschein und Sturm!
+Dich preis’t der Sand am Meere.
+Bringt, ruft auch der geringste Wurm,
+Bringt meinem Schöpfer ehre!
+Mich, ruft der Baum in seiner pracht,
+Mich, ruft die Saat, hat Gott gemacht:
+Bringt unserm Schöpfer ehre!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Der Mensch, ein Leid, den deine Hand
+So wunderbar bereitet;
+Der Mensch, ein Geist, den sein Verstand,
+Dich zu erkennen, leitet:
+Der Mensch, der Schöpfung ruhm und preis,
+Ist sich ein täglicher Beweis
+Von deiner güt’ und größe.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Erheb’ ihn ewig, o mein Geist,
+Erhebe seinen Namen!
+Gott, unser Vater, sei gepreis’t,
+Und alle Welt sag’ Amen!
+Und alle Welt fürcht’ ihren Herrn,
+Und hoff’ auf ihn und dien’ ihm gern!
+Wer wollte Gott nicht dienen!</lines>
+    </verse>
+  </lyrics>
+</song>

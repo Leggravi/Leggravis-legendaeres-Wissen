@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:41">
+  <properties>
+    <titles>
+      <title>Wer ausharrt bis ans Ende, wird endlich selig sein</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Friedrich Hiller (1767)</author>
+      <author type="music">Valet will ich dir geben</author>
+    </authors>
+    <ccliNo>6222925</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wer ausharrt bis ans Ende, wird endlich selig sein;
+doch treffen harte Stände noch bis zum Ende ein.
+Viel Feinde sind zu dämpfen, viel Proben durchzugehn;
+der Glaube muss im Kämpfen bis an sein Ende stehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nur etlich Gänge wagen und dann im härtsten Streit
+erst noch am Sieg verzagen ist nicht die rechte Zeit;
+da wird man erst zuschanden. Hingegen wer getreu,
+dem steht, der beigestanden, auch bis zum Ende bei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Das frischt uns an, ihr Brüder; verliert nur nicht den Mut,
+legt nicht die Waffen nieder und fechtet bis aufs Blut!
+Wenn wir nur nicht erliegen in seiner Gegenwart,
+so werden wir doch siegen, wenn uns die Hand erstarrt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herr, du kennst meine Schwäche; nur deiner harre ich.
+Nicht das, was ich verspreche, - was du sprichst, tröstet mich.
+Richt auf die lassen Hände und stärk die müden Knie,
+und sage mir am Ende: Die Seligkeit ist hier!</lines>
+    </verse>
+  </lyrics>
+</song>

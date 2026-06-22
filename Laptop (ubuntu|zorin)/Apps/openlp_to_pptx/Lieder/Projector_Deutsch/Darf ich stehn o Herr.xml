@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Darf ich stehn, o Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Jack W. Hayford</author>
+      <author type="music">Jack W. Hayford</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Darf ich stehn, o Herr in dem heil'gen Raum,
+darf anbeten Dich und Dein Antlitz schaun?
+Herr, verwandle mich, durch Deinen Geist und Wort,
+daß ich sehe den Tag Deiner Macht!</lines>
+    </verse>
+  </lyrics>
+</song>

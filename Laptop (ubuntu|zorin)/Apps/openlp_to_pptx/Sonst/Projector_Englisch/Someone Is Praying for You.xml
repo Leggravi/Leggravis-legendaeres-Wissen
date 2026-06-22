@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Someone Is Praying for You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Someone is praying for you
+Someone is praying for you
+So when it seems you're all alone
+And your heart will break in two
+Remember someone is praying for you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Have the crowds 'round you gathered in the midst of the storm?
+Is your ship tossed and battered, are you weary and worn?
+Don't lose hope, someone's praying for you this very day
+And peace be still is already on the way</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When it seems that you've prayed 'til your strength is all gone
+And your tears fall like raindrops all the day long
+He cares and He knows just how much you can bear
+He'll speak your name to someone in prayer</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Someone is praying for you
+Someone is praying for you
+So when it seems you're all alone
+And your heart will break in two
+Remember someone is praying for you
+Remember someone is praying for you</lines>
+    </verse>
+  </lyrics>
+</song>

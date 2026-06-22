@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh - der Himmel erfüllt mein Herz</title>
+    </titles>
+    <authors>
+      <author type="words">Thomas van Dooren</author>
+      <author type="music">Graham Kendrick</author>
+      <author type="translation">Heaven is in my heart</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>|:Oh - der Himmel erfüllt mein Herz :|
+
+Das Reich des Herrn ist unter uns ,                 der Himmel erfüllt mein Herz,
+der Glanz von seiner Majestät,                         der Himmel erfüllt mein Herz,
+die Freude seiner Gegenwart,                          der Himmel erfüllt mein Herz,
+die Heiligkeit, die von ihm strahlt,                     der Himmel erfüllt mein Herz,
+|:Oh - der Himmel erfüllt mein Herz :|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sein Leben gab er für mich hin ,                     der Himmel erfüllt mein Herz,
+damit ich ewig leben kann .. .
+Ja Jesus gibt mir Zuversicht ...
+sein Wort steht fest und gilt für mich!... 
+|: Oh - der Himmel erfüllt mein Herz :|</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir sind der Tempel seines Throns...
+und Jesus ist das Fundament...
+er kehrt zu rück und holt uns heim...
+der Geist, die Braut, sie sprechen: Komm! ...
+|: Oh - der Himmel erfüllt mein Herz :|</lines>
+    </verse>
+  </lyrics>
+</song>

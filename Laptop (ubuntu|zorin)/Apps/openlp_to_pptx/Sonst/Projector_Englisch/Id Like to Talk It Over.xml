@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'd Like to Talk It Over</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Some morning when I stand in
+God's wonderful city
+Where the light of Heaven's glory
+Will never grow dim
+And I shake hands with the Savior
+Who gave me life eternal
+I'd like to talk it over with Him</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'd like to kneel down
+And talk it all over with Him
+I'd like to say, &quot;Lord, You loved me
+when my path was so dim.&quot;
+I cannot repay Him when I meet Him
+ in that city above
+But I'd like to talk it over
+And thank Him for His wonderful love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We'll be singing hallelujahs forever and ever
+For we're told the cup of gladness
+He'll fill to the brim
+But I know that I have brought Him
+Some deep tears of sorrow
+And I'd like to talk it over with Him</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I’m a Somebody</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I don’t believe that God
+Would ever do ajob half done
+And I don’t believe
+He would waste His time
+Making nobodies just for fun.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’m a somebody who’s built by
+God
+And my ship just can’t be sunk
+I’m a somebody
+And I know its true Because God
+don’t make no junk
+I’m a somebody
+I’m a somebody.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There’s never been
+Another person made
+just like me
+And there’s never been
+Another you
+You’re a somebody
+Don’t you see.</lines>
+    </verse>
+  </lyrics>
+</song>

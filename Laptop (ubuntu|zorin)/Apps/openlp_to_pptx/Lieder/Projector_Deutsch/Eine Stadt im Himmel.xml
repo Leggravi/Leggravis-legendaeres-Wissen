@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Eine Stadt im Himmel</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eine Stadt im Himmel, von Gottes Glanz umgeben,
+die kein Leid und Trübsal kennt in ihrem Leben,
+wo die Heil’gen wohnen, Harfen fröhlich klingen,
+und sie Jesus preisen, Lob und Ehr Ihm bringen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du ewiges Licht, des Heils Zuversicht, Jerusalem,
+wo Jesus nur scheint, und niemand mehr weint, Jerusalem.
+Du goldene Stadt voll Liebe und Gnad, Jerusalem!
+In dir möcht ich sein, den Heiland dort sehn, Jerusalem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, Jerusalem, du Stadt der goldnen Gassen,
+wo man ewig glücklich, Herr, ich kann’s nicht fassen!
+Lehre Du mich wandeln Dir zu Ehr hienieden,
+dass die Seele droben Ruhe find't und Frieden.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, welch eine Freude, bald kommt Jesus wieder
+und wir werden preisen Ihn mit frohen Liedern!
+Lasst uns Ihn gemeinsam loben hier auf Erden,
+dass wir in Jerusalem Bürger können werden!</lines>
+    </verse>
+  </lyrics>
+</song>

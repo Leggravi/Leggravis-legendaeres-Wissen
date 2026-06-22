@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dear Lord, Remember Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I won't care though dark and drear my way may be
+I won't mind the cross to bear
+For I know in God's own time He'll set me free
+But this I pray, dear Lord, remember me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Remember me when tears are falling down
+Remember me when trouble's all around
+And look down at the river of Jordan
+In calling the roll, oh Lord, remember me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I won't mind although some bitter lots be mine
+To bear uncomlainingly
+I've decided come what may I'll follow Thee
+But this I pray, dear Lord, remember me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I won't mind though I may go through waters deep
+Still his song my prayer shall be
+If I'm right I know I'll gain the victory
+But this I pray, dear Lord, remember me</lines>
+    </verse>
+  </lyrics>
+</song>

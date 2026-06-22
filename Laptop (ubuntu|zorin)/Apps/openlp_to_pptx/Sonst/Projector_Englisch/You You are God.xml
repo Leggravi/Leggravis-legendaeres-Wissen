@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You, You are God</title>
+    </titles>
+    <authors>
+      <author type="words">Walker Beach</author>
+      <author type="music">Walker Beach</author>
+      <author type="translation">Du, du bist Gott</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here I am, I've come to find You
+Here I am, to see Your grace
+To bring to You an offering, I have to ask myself one thing
+How can I do anything but praise, I praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You, You are God, You are Lord
+You are all I'm living for
+You are King of everything
+I want my life to praise You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Here I am, I've come to thank You
+Here I am, a life You've changed
+Because You gave Your life for me,
+You crucified Your Son for me
+Now how can I do anything but praise, I praise</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are God, You are Lord
+You are all I'm living for
+You are King of everything
+I want my life to praise You</lines>
+    </verse>
+  </lyrics>
+</song>

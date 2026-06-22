@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come Holy Spirit, I need you</title>
+    </titles>
+    <authors>
+      <author type="words">Joachim Dierks</author>
+      <author type="music">Joachim Dierks</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come Holy Spirit, I need you;
+Come sweet Spirit, I pray
+Come in your strength and your power.
+Come in your own gentle way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come as a rest to the weary
+Come as a balm to the sore
+Come Lord as strength to my weakness
+Fill me with joy evermore</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come like a spring in the desert
+Come to the withered of soul
+Lord let your sweet healing power,
+Touch me and make me whole</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come Holy Spirit, I need you;
+Come sweet Spirit, I pray
+Come in your strength and your power.
+Come in your own gentle way.
+Come in your own gentle way.</lines>
+    </verse>
+  </lyrics>
+</song>

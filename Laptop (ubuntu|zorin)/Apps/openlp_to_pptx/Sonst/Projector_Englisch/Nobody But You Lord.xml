@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nobody But You, Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nobody but you, Lord, nobody but you,
+Can keep me happy, can keep me true.
+All through life's journey
+You'll carry me through,
+Nobody but you, Lord, nobody but you.</lines>
+    </verse>
+  </lyrics>
+</song>

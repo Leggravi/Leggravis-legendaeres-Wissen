@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Mensch, bewein dein Sünde groß</title>
+    </titles>
+    <authors>
+      <author type="words">Sebald Heyden</author>
+      <author type="music">Es sind doch selig alle, die</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Mensch, bewein dein Sünde groß,
+darum Christus seins Vaters Schoß
+äußert’ und kam auf Erden;
+von einer Jungfrau rein und zart
+für uns er hier geboren ward,
+er wollt der Mittler werden.
+Den Toten er das Leben gab
+und tat dabei all Krankheit ab,
+bis sich die Zeit herdrange,
+dass er für uns geopfert würd,
+trüg unsrer Sünden schwere Bürd
+wohl an dem Kreuze lange.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So lasst uns nun ihm dankbar sein,
+dass er für uns litt solche Pein,
+nach seinem Willen leben.
+Auch lasst uns sein der Sünde feind,
+weil uns Gotts Wort so helle scheint,
+Tag, Nacht danach tun streben,
+die Lieb erzeigen jedermann,
+die Christus hat an uns getan
+mit seinem Leiden, Sterben.
+O Menschenkind, betracht das recht,
+wie Gottes Zorn die Sünde schlägt,
+tu dich davor bewahren!</lines>
+    </verse>
+  </lyrics>
+</song>

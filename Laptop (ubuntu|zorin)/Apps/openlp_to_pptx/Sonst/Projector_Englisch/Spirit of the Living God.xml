@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Spirit of the Living God</title>
+    </titles>
+    <authors>
+      <author type="words">Elisabeth Aebi</author>
+      <author type="music">Unbekannt</author>
+      <author type="translation">Komm, du heilger Gottesgeist</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spirit of the living God,
+Fall fresh on me;
+Spirit of the living God,
+Fall fresh on me;
+Melt me!
+Mold me! Fill me!
+Use me!
+Spirit of the living God,
+Fall fresh on me.</lines>
+    </verse>
+  </lyrics>
+</song>

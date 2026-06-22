@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Macht hoch die Tür, die Tor macht weit</title>
+    </titles>
+    <authors>
+      <author type="words">Georg Weissel</author>
+      <author type="music">Halle</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Macht hoch die Tür, die Tor macht weit;
+Es kommt der Herr der Herrlichkeit,
+Ein König aller Königreich,
+Ein Heiland aller Welt zugleich,
+Der Heil und Leben mit sich bringt;
+Derhalben jauchzt, mit Freuden singt:
+Gelobet sei mein Gott,
+Mein Schöpfer reich von Rat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er ist gerecht, ein Helfer wert;
+Sanftmütigkeit ist sein Gefährt,
+Sein Königskron ist Heiligkeit,
+Sein Zepter ist Barmherzigkeit;
+All unsre Not zum End er bringt,
+Derhalben jauchzt, mit Freuden singt:
+Gelobet sei mein Gott,
+Mein Heiland groß von Tat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O wohl dem Land, o wohl der Stadt,
+So diesen König bei sich hat.
+Wohl allen Herzen insgemein,
+Da dieser König ziehet ein.
+Er ist die rechte Freudensonn,
+Bringt mit sich lauter Freud und Wonn.
+Gelobet sei mein Gott,
+Mein Tröster früh und spat.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Macht hoch die Tür, die Tor macht weit,
+Eu'r Herz zum Tempel zubereit'.
+Die Zweiglein der Gottseligkeit
+Steckt auf mit Andacht, Lust und Freud;
+So kommt der König auch zu euch,
+Ja, Heil und Leben mit zugleich.
+Gelobet sei mein Gott,
+Voll Rat, voll Tat, voll Gnad.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Komm, o mein Heiland Jesu Christ,
+Meins Herzens Tür dir offen ist.
+Ach zieh mit deiner Gnade ein;
+Dein Freundlichkeit auch uns erschein.
+Dein Heilger Geist uns führ und leit
+Den Weg zur ewgen Seligkeit.
+Dem Namen dein, o Herr,
+Sei ewig Preis und Ehr.</lines>
+    </verse>
+  </lyrics>
+</song>

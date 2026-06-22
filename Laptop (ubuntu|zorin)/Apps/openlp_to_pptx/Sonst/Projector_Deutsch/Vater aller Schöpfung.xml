@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Vater aller Schöpfung</title>
+    </titles>
+    <authors>
+      <author type="words">Wolfgang Peuster</author>
+      <author type="music">David Ruis</author>
+      <author type="translation">Father of creation (Let Your glory fall)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vater aller Schöpfung
+Zeig Deinen göttlichen Plan
+Dein Volk, das Du Dir erwählt hast
+Lass es aufstehen im Land</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Die ganze Schöpfung sehnst sich
+Das Du Dich zeigst in Deiner Macht
+Gieß Deine Salbung auf uns
+Lass dies die Stunde sein</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lass uns Deine Herrlichkeit sehen
+Lass sie weiter gehen zu den Völkern
+Deine Nähe füllt diesen Raum
+Denn wir suchen Dein Angesicht</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herrscher aller Völker
+Lass die Welt endlich sehen
+Die Fülle Deiner Verheissung
+Deine Gemeinde im Sieg</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Komm zu uns und berühr uns
+Rüst uns aus, mach uns stark
+Übernimm unsere Schwachheit
+Damit wir aufstehen zum Kampf</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dein Reich komme, Herr
+Dein Wille gescheh
+Lass uns auf Erden sehn
+Jesus in Herrlichkeit</lines>
+    </verse>
+  </lyrics>
+</song>

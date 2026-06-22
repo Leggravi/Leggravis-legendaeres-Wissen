@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Praise You in This Storm</title>
+    </titles>
+    <authors>
+      <author type="words">Mark Hall</author>
+      <author type="music">Mark Hall</author>
+      <author type="translation">Im Sturm sing ich zu dir</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v3 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was sure by now
+God You would have reached down
+And wiped our tears away
+Stepped in and saved the day
+But once again, I say Amen,
+And it's still raining</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As the thunder rolls
+I barely hear Your whisper through the rain
+I'm with you
+And as Your mercy falls
+I raise my hands and praise the God who gives
+And takes away</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I'll praise You in this storm
+And I will lift my hands
+For You are who You are
+No matter where I am
+And every tear I've cried
+You hold in Your hand
+You never left my side
+And though my heart is torn
+I will praise You in this storm</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And I remember when
+I stumbled in the wind
+You heard my cry to you
+And you raised me up again
+My strength is almost gone
+How can I carry on
+If I can't find You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>But as the thunder rolls
+I barely hear You whisper through the rain
+I'm with you
+And as Your mercy falls
+I raise my hands and praise the God who gives
+And takes away</lines>
+    </verse>
+    <verse name="v6">
+      <lines>/: I lift my eyes unto the hills
+Where does my help come from?
+My help comes from the Lord
+The Maker of Heaven and Earth :/</lines>
+    </verse>
+    <verse name="v7">
+      <lines>And though my heart is torn
+I will praise You in this storm</lines>
+    </verse>
+  </lyrics>
+</song>

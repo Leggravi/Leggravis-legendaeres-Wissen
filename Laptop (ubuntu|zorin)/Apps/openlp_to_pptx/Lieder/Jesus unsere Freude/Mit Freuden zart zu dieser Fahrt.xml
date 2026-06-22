@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:46">
+  <properties>
+    <titles>
+      <title>Mit Freuden zart zu dieser Fahrt</title>
+    </titles>
+    <authors>
+      <author type="words">Georg Vetter (1566)</author>
+      <author type="music">Paris</author>
+    </authors>
+    <ccliNo>5223798</ccliNo>
+    <themes>
+      <theme>Ostern</theme>
+      <theme>Auferstehung</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mit Freuden zart
+zu dieser Fahrt
+lasst uns zugleich fröhlich singen,
+beid, groß und klein,
+von Herzen rein
+mit hellem Ton frei erklingen.
+Das ewig Heil
+wird uns zuteil,
+denn Jesus Christ
+erstanden ist,
+welchs er lässt reichlich verkünden.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er ist der Erst,
+der stark und fest
+all unsre Feind hat bezwungen
+und durch den Tod
+als wahrer Gott
+zum neuen Leben gedrungen,
+auch seiner Schar
+verheißen klar
+durch sein rein Wort,
+zur Himmelspfort
+desgleichen Sieg zu erlangen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Singt Lob und Dank
+mit freiem Klang
+unserm Herrn zu allen Zeiten
+und tut sein Ehr
+je mehr und mehr
+mit Wort und Tat weit ausbreiten:
+So wird er uns
+aus Lieb und Gunst
+nach unserm Tod,
+frei aller Not
+zur ewigen Freud geleiten.</lines>
+    </verse>
+  </lyrics>
+</song>

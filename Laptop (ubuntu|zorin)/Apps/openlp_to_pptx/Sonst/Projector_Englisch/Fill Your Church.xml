@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Fill Your Church</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am standing here Lord
+in prayer on Your Word
+And I know, when You see faith,
+You will hear Your children’s prayer</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fill Your vessels with Your power, God
+And let devils flee from whence they came
+For You are God delivering Your people
+Giving us the victory
+As we stand Lord, prayerfully</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We believe Lord, by faith,
+in a finished work
+That You’ve made through Your blood, Lord
+and Your death on Calvary</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: Fill Your church God, with Your power
+And let devils flee when we pray
+For You are God healing Your people
+Giving us the victory
+As we make ready for eternity :/</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You are God delivering Your people
+You are God healing Your people
+You are God with Your people</lines>
+    </verse>
+  </lyrics>
+</song>

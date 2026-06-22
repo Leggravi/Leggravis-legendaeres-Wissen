@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm Free From the Fear of Tomorrow (2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>So long I searched for life's meaning
+Enslaved by the world and my greed
+Then the door of my prison was opened by love
+For the ransom was paid, I was free</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm free from the fear of tomorrow
+I'm free from the guilt of my past ooh!
+Oh, I traded my shackles for a glorious song
+I'm free,
+Praise the Lord, free at last!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I am free from the guilt that I carried
+From the dull empty life I set free
+For when I met Jesus, He made me complete
+He forgot the foolish child I used to be</lines>
+    </verse>
+  </lyrics>
+</song>

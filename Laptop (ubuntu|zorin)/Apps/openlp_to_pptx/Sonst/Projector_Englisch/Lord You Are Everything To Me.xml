@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord You Are Everything To Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, without You,
+I couldn't face each morning
+And without You
+I couldn't sleep in peace each night
+Lord, without You,
+I couldn't go another moment
+There's no use going on
+Without You by my side.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Cause Lord You are everything to me
+Yes, Lord, You are everything to me
+I love You more than anything
+'Cause You are everything to me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Like a desert in need of water
+Like a sailor who longs for the sea
+Like a story in need of an author
+Lord I, I need You always with me.</lines>
+    </verse>
+  </lyrics>
+</song>

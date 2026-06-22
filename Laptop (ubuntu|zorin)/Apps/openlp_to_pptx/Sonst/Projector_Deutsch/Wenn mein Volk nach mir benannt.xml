@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wenn mein Volk, nach mir benannt</title>
+    </titles>
+    <authors>
+      <author type="words">Thomas van Dooren</author>
+      <author type="music">Graham Kendrick</author>
+      <author type="translation">If My people, who bear My name</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wenn mein Volk, nach mir benannt,
+sich demütigt im Gebet,
+wenn es sich mir naht und mich sucht
+und sich abkehrt vom bösen Tun,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>dann will ich hören, vom Himmel her
+hören und will ihre Sünden vergeben.
+Ich will vergeben, ihr Land will ich
+ihn heilen, ja ihr Land will ich heilen!</lines>
+    </verse>
+  </lyrics>
+</song>

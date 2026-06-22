@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Never Too Broken to Belong</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The door is open come on in as you are
+All you need to bring is what remains of your heart
+I see the years of fear and pain on your face
+but take a step, enter in you’re safe in this place</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You’re never too broken to belong
+Never too wounded, never too far gone
+Here you find Jesus and find your home
+You’re never too broken to belong</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come find the perfect love that no one deserves
+A piece of sweet that can’t be put into words
+And grace that’s greater than the darkest of sin
+Taste and see, take his hand and let the healing begin</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Each of who’ve wounded and defeated so we know how you feel
+But by the wounds of our redeemer we believe, we were healed</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Reinige mein Herz -</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Frey</author>
+      <author type="music">Brian Doerksen</author>
+      <author type="translation">Purify my heart (Refiner's Fire)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Reinige mein Herz - laß mich sein wie Gold und feines Silber.
+Reinige mein Herz, laß mich sein wie Gold, reines Gold.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>® Mit heil’ger Glut schmelz aus, was Unrecht tut!
+Herr, mach mich rein, heilig, ausgewählt Dir zum Dienst, Herr !
+So will ich sein: heilig, fähig zu Deinem Dienst, mein Meister,
+rein gemacht, heil und gut.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Reinige mein Herz, räume alles aus und mach mich heilig!
+Reinige mein Herz, tilg durch deine Huld alle Schuld ®</lines>
+    </verse>
+  </lyrics>
+</song>

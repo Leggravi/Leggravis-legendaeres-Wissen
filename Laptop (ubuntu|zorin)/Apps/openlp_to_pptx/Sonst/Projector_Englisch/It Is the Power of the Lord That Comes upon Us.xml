@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It Is the Power of the Lord That Comes upon Us</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It is the power of the Lord that comes upon us
+it is the hand of the Lord that rests on us
+it is the power of the Most High that overshadows us.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Spirit of the Lord there is no fear;
+The Spirit of the Lord there is freedom!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Clap your hands and shout, King is our god.
+Clap your hands and shout, King is our god.
+because he sits on the throne and rules,
+because he sits on the throne and rules.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He has disarmed the prince of this world
+And triumphed over the powers.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Honor, power and glory belong to him alone. Hallelujah!</lines>
+    </verse>
+  </lyrics>
+</song>

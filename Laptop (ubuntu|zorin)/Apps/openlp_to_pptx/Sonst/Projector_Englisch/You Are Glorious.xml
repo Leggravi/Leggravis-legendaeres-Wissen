@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Are Glorious</title>
+    </titles>
+    <authors>
+      <author type="words">Mike Massa</author>
+      <author type="music">Mike Massa</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v2 v4 v2 v5 v2 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Glory, Glory, Glory to the Lamb,
+Glory, Glory, Glory to the Lamb,
+For You are glorious.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And you're worthy to be praised,
+You're the lamb upon the throne,
+And unto You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To You we lift our hands in praise
+You're the lamb upon the throne</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Do we lift our hands in praise
+You're the lamb upon this throne
+Glory, oh Glory (Jesus), Glory to the Lamb
+Glory, Glory, Glory to the Lamb
+For You are glorious</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Do we lift our hands in praise
+You're the lamb upon the throne
+For You are glorious</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Do we lift our hands in praise
+You're the lamb upon the throne
+Yes, You're the lamb upon this throne
+You're the lamb upon this throne
+Jesus…</lines>
+    </verse>
+    <verse name="v7">
+      <lines>We thank you God,
+We praise you Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

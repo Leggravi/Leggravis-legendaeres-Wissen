@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir wolln uns gerne wagen</title>
+    </titles>
+    <authors>
+      <author type="words">Nikolaus Ludwig Graf von Zinzendorf</author>
+      <author type="music">Gustav Pezold</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir woll'n uns gerne wagen,
+in unsern Tagen der Ruhe abzusagen,
+die's Tun vergisst.
+Wir woll'n nach Arbeit fragen,
+wo welche ist,
+nicht an dem Amt verzagen,
+uns fröhlich plagen
+und unsre Steine tragen aufs Baugerüst.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Die Liebe wird uns leiten,
+den Weg bereiten
+und mit den Augen deuten
+auf mancherlei,
+ob etwa Zeit zu streiten,
+ob Rasttag sei.
+Sie wird in diesen Zeiten
+uns zubereiten
+für unsre Seligkeiten:
+nur treu, nur treu!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir sind nicht einsam blieben,
+wir woll'n uns üben
+mit größern Gnadentrieben
+als eins allein.
+Wir sind am Stamm geblieben
+der Kreuzgemein.
+drum gilt's gemeinsam lieben,
+sich mit betrüben
+und unsre Lasten schieben,
+die Christi sein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wir sind in ihm zufrieden;
+was uns hienieden
+als Last von ihm beschieden,
+hat sein Gewicht;
+doch ist das Joch für jeden
+drauf eingericht'.
+Drum mag der Leib ermüden:
+Wir gehen im Frieden,
+von Jesus ungeschieden,
+und sterben nicht.</lines>
+    </verse>
+  </lyrics>
+</song>

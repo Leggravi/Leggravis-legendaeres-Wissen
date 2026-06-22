@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Remembrance</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Davenport</author>
+      <author type="music">Chris Davenport</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I take the bread of life
+Broken for all my sin
+Your body crucified
+To make me whole again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will recall the cup
+Poured out in sacrifice
+To trade this sinner's end
+For Your new covenant</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelujah
+I'll live my life in remembrance
+Hallelujah Your promise I won't forget</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'll walk salvation's road
+With fear and trembling
+Your way borne as my own
+As Christ is formed in me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hallelujah
+I'll live my life in remembrance
+Hallelujah
+Your promise I won't forget</lines>
+    </verse>
+    <verse name="v6">
+      <lines>If ever I should lose my way
+If ever I deny Your grace
+Remind me of the price You paid
+Hallelujah
+I'll live in remembrance</lines>
+    </verse>
+    <verse name="v7">
+      <lines>/: You've been so so good to me
+You've been so so good to me
+Oh to think where I would be
+If not for You
+If not for You :/</lines>
+    </verse>
+    <verse name="v8">
+      <lines>As far as heights reach from the depths
+As far as east is from the west
+So far Your grace has carried me</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Until I see You face to face
+Until at last I've won my race
+Remind me Youʼre not finished yet</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Hallelujah
+Hallelujah
+Hallelujah
+I'll live in remembrance</lines>
+    </verse>
+  </lyrics>
+</song>

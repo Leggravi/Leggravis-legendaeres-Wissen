@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Da, wo man ohne Hoffnung lebt</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Da, wo man ohne Hoffnung lebt
+und keine Hilfe sieht
+und wo man nach der Freiheit strebt,
+sich doch vergebens müht.
+Da, wo die Augen hungrig sind,
+Herzen nach Liebe schrein:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Da sende deine Jünger hin,
+zum Helfen und Befrein.
+Da sende deine Jünger hin!
+Da lass uns Zeugen sein!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Da, wo das Sterben Alltag ist,
+und wo der Hunger quält:
+und wo man Kinder nicht vermisst,
+ein Leben nicht viel zählt.
+Da, wo die Erde ausgebrannt,
+die Hände leer und klein:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Da, wo das Elend sich verstellt,
+wo es zu glänzen scheint.
+Wo man die Not verborgen hält
+und man nur heimlich weint.
+Gerade hier, vor unsrer Tür,
+sind viele so allein:</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Denn jede Nacht und jeden Tag
+willst du, Herr, bei uns sein.
+Was immer uns begegnen mag,
+nie sind wir hier allein.
+Bis an das Ende dieser Welt,
+lädst du die Menschen ein:</lines>
+    </verse>
+  </lyrics>
+</song>

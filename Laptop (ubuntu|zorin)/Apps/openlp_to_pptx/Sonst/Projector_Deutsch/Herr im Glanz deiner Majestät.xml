@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, im Glanz deiner Majestät</title>
+    </titles>
+    <authors>
+      <author type="words">Uwe Peters</author>
+      <author type="music">Uwe Peters</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: Herr, im Glanz deiner Majestät,
+auf den Stufen von deinem Thron
+stehen wir in deinem Licht
+und singen dir Lieder. :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: Du, o Herr,
+bist die Quelle des Lebens,
+und von dir leben wir. :/</lines>
+    </verse>
+  </lyrics>
+</song>

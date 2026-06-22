@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Snow White Dove</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On the wings of a snow white dove
+God sends His pure sweet love
+On the wings of a snow white dove
+To take His eagles home</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I lived in a world of sin and shame,
+That caused me grief and pain
+I tried so hard to be free,
+Searching for my true identity
+Didn't know I came from eternity,
+Until God came and revealed it to me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I knew somehow, I was born to fly;
+Way up in the sky
+But somehow I couldn't set, my wings free
+But since that day I heard His Voice
+And made Him my Heavenly Choice
+By His Grace I can say I've been set free</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now behold what manner of love
+The father has bestowed upon us
+That we might be called the sons of God
+Wherever He bids us we will go
+Wherever He leads we will follow
+For whom the son sets free is free indeed</lines>
+    </verse>
+  </lyrics>
+</song>

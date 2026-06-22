@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Liebe ist was du schenkst</title>
+    </titles>
+    <authors>
+      <author type="words">Kommunität Gnadenthal</author>
+      <author type="music">Kommunität Gnadenthal</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Liebe ist was du schenkst, Liebe nur, was Du denkst.
+Liebe, o Jesus, ist Deine Wesen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gnade hast Du gebracht in meine Herzensnacht.
+Gnade erhellt nun meine Seele.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Schönheit ist nur in Dir, Reinheit Dein Atem hier.
+Jesus, Du bist der Allerschönste.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Strahlend hell ist Deine Kleid, Jesus, in Herrlichkeit.
+Jesus, Du Licht vom Lichtenwalde geboren.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Heller als alles Licht strahlt Jesu Angesicht.
+Jesus, Du bist die Lebenssonne.</lines>
+    </verse>
+  </lyrics>
+</song>

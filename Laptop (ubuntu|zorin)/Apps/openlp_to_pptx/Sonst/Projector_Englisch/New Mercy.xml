@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>New Mercy</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I thought that I had crossed the line
+Walked away from love one time
+Too many
+I thought I'd used up all the grace
+Set aside for my mistakes
+So many</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On my knees I found to my surprise
+That your mercy renewed with the sunrise</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord make Your mercy new every day
+You change my life in so many ways
+You cradle me in Your sweet grace
+You fill me
+Yesterday, today, forever more
+There's one thing I know for sure
+Fresh as the morning dew
+You make Your mercy new
+Every morning</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh the wasted times that I have known
+A prodigal away from home
+Not knowing
+Every day Your grace was multiplied
+With forgiveness waiting to provide</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You make Your mercy new every day
+You change my life in so many ways
+You cradle me in Your sweet grace
+You fill me
+Yesterday, today, forever more
+There's one thing I know for sure
+Fresh as the morning dew
+You make Your mercy new
+Every morning</lines>
+    </verse>
+    <verse name="v6">
+      <lines>To save the entire world
+How much grace would it take
+When the sun comes up
+There will be enough</lines>
+    </verse>
+  </lyrics>
+</song>

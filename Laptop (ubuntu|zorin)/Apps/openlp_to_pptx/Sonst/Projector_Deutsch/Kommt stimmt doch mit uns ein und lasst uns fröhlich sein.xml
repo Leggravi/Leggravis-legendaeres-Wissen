@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Kommt, stimmt doch mit uns ein, und lasst uns fröhlich sein</title>
+    </titles>
+    <authors>
+      <author type="words">Werner Arthur Hoffmann</author>
+      <author type="music">Werner Arthur Hoffmann</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kommt, stimmt doch mit uns ein,und lasst uns fröhlich sein,
+denn Gott der Herr hat uns befreit.
+Er gab uns seine Kraft,die neues Leben schafft,
+preist ihn in alle Ewigkeit.   (2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er ist allein der Herrund ist sonst keiner mehr.
+Die Ehre gebt nur ihm allein.
+Bedenkt was er getan,betet ihn dafür an,
+kommt lasst uns seine Zeugen sein.   (2x)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Singt, lobt und jubelt laut!
+Wer auf den Herrn vertraut,der baut sein Leben nicht auf Sand.
+Er, der die Welt regiert und seine Kinder führt,
+er hält sie fest an seiner Hand.   (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

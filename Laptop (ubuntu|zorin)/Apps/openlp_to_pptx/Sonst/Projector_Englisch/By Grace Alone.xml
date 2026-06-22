@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>By Grace Alone</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Every promise we can make,
+Every prayer and step of faith,
+Every difference we will make
+Is only by His grace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Every mountain we will climb,
+Every ray of hope we shine,
+Every blessing left behind
+Is only by His grace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Grace alone which God supplies,
+strength unknown He will provide,
+Christ in us, our Cornerstone,
+we will go forth in grace alone.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Every soul we long to reach,
+Every heart we hope to teach,
+Everywhere we share His peace
+Is only by His grace.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Every loving word we say,
+Every tear we wipe away,
+Every sorrow turned to praise
+Is only by His grace.</lines>
+    </verse>
+  </lyrics>
+</song>

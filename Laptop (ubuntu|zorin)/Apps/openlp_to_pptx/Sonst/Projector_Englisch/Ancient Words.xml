@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ancient Words</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy words long preserved
+For our walk in this world
+They resound with God's own heart
+Oh, let the words of God impart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Words of Life, words of Hope
+Give us strength, help us cope
+In this world, where e'er we roam
+The word of God will guide us home</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Words of God ever true
+Changing me and changing you
+We have come with open hearts
+Oh, let the Words of God impart</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Holy words of our Faith
+Handed down to this age
+Came to us through sacrifice
+Oh heed the faithful words of Christ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Holy words long preserved
+For our walk in this world
+They resound with God's own heart
+Oh let the ancient words impart</lines>
+    </verse>
+  </lyrics>
+</song>

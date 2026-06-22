@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>How Majestic Is Your Name in All the Earth</title>
+    </titles>
+    <authors>
+      <author type="words">Michael W. Smith</author>
+      <author type="music">Michael W. Smith</author>
+      <author type="translation">O Herr, unser Gott, wie herrlich ist Dein Name in aller Welt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, Lord, our Lord
+How majestic is Your name in all the earth
+O, Lord, our Lord
+How majestic is Your name in all the earth</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Lord, we praise Your name
+O Lord, we magnify Your name
+Prince of peace, mighty God
+O Lord, God Almighty</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Lord, we praise Your name
+O Lord, we magnify Your name
+Prince of peace, mighty God
+O Lord, God Almighty, Almighty</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O, Lord, our Lord
+How majestic is Your name in all the earth</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O Lord, we praise Your name
+O Lord, we magnify Your name
+O Lord, we praise Your name
+O Lord, we magnify Your name</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Prince of peace, mighty God
+O Lord, God Almighty
+Prince of peace, mighty God
+O Lord, God Almighty
+We magnify Your name</lines>
+    </verse>
+  </lyrics>
+</song>

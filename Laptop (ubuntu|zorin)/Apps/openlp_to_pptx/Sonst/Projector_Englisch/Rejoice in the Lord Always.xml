@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Rejoice in the Lord Always</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Evelyn Tarner</author>
+      <author type="translation">Freut euch in dem Herrn allezeit</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rejoice in the Lord always and again I say, rejoice.
+Rejoice in the Lord always and again I say, rejoice.
+Rejoice, rejoice, and again I say, rejoice.
+Rejoice, rejoice, and again I say, rejoice.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Spirit Move</title>
+    </titles>
+    <authors>
+      <author type="words">Amanda Cook</author>
+      <author type="music">Amanda Cook</author>
+      <author type="translation">Bewege uns neu</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spirit move in Your temple
+Spirit move in my life
+Spirit move, I am calling
+Spirit move, I am here</lines>
+    </verse>
+  </lyrics>
+</song>

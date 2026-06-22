@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Halleluja, halleluja, halleluja der Herr regiert</title>
+    </titles>
+    <authors>
+      <author type="words">Stephan Bärnreuther</author>
+      <author type="music">Stephan Bärnreuther</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Halleluja, Halleluja, Halleluja, der Herr regiert!
+Halleluja, Halleluja, Halleluja, der Allmächtige regiert!
+Er hat seine Macht erwiesen, er hat mächtig triumphiert.
+Er ist Sieger über Finsternis und Tod.
+Er hat die Ketten zerbrochen, die Gefangenen befreit,
+durch seine Gnade sind wir erlöst.
+® Halleluja, Halleluja, Halleluja</lines>
+    </verse>
+  </lyrics>
+</song>

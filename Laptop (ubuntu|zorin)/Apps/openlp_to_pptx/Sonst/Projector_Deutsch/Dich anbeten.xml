@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dich anbeten</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dich anbeten/ Dich anbeten
+Mit all meinem Sein/ mit an meinem Sein
+Dich nur preisen/ Dich nur preisen
+Will ich allein/ will ich allein
+Dich nur suchen/ Dich nur suchen
+An jedem Tag neu/ an jedem Tag neu
+Dir nur folgen/ Dir nur folgen
+Auf jedem Weg treu/ jeden Weg treu</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dich o Herr will ich anbeten
+All mein Lob geb ich Dir allein
+Denn nur Dich will ich anbeten
+Alles Lob gebührt nur Dir allein</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich preis Dich
+Würdig bist Du o Herr, mein Gott
+Du sollst mein König sein</lines>
+    </verse>
+  </lyrics>
+</song>

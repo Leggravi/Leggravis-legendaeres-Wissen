@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Look and Live</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've a message from the Lord, hallelujah!
+This message unto you I'll give,
+'Tis recorded in His word, hallelujah!
+It is only that you &quot;look and live.&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>&quot;Look and live,&quot; my brother, live,
+Look to Jesus now, and live;
+'Tis recorded in His word, hallelujah!
+It is only that you &quot;look and live.&quot;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I've a message full of love, hallelujah!
+A message, O my friend, for you,
+'Tis a message from above, hallelujah!
+Jesus said it, and I know'tis true.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Life is offered unto you, hallelujah!
+Eternal life thy soul shall have,
+If you'll only look to Him, hallelujah!
+Look to Jesus who alone can save.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I will tell you how I came, hallelujah!
+To Jesus when He made me whole-
+'Twas believing on His name, hallelujah!
+I trusted and He saved my soul.</lines>
+    </verse>
+  </lyrics>
+</song>

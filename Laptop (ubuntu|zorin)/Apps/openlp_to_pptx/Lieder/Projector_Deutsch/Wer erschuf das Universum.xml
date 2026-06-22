@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wer erschuf das Universum</title>
+    </titles>
+    <authors>
+      <author type="words">Lars Brockmann</author>
+      <author type="music">Dean Salyn</author>
+      <author type="translation">He Is Yahweh (Who Is Moving On The Waters)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wer erschuf das Universum,
+wer das Leben in der Welt?
+Wer gab Sonne, Mond und Sterne
+ihren Platz am Himmelszelt?
+Wer ist oben auf den Bergen,
+wer ist in dem tiefen Tal?
+Wer ist größer als der Himmel,
+und wer kennt der Sterne Zahl?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Der Schöpfer Gott: Er heißt Jahwe!
+Der Herr der Herrn: Er heißt Jahwe!
+Der Friedefürst: Er heißt Jahwe!
+Dreieinigkeit: Er heißt Jahwe!
+Gerechter Sohn: Er heißt Jahwe!
+Der Herr, mein Fels: Er heißt Jahwe!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wer ist er, dass er mir Glück bringt,
+wer ist er, der Frieden gibt?
+Wer ist er, der für mich da ist,
+der mich so unendlich liebt?
+Wer bewegt meine Gefühle,
+und wer füllt mein Leben aus?
+Wer stillt meine große Sehnsucht
+mit allem, was ich brauch'?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du bist heilig und allmächtig,
+jedes Knie beugt sich vor dir!
+Du bist der Herr der ganzen
+Schöpfung und doch bist du ganz nah bei mir.
+Engel singen dir zur Ehre,
+preisen Dich vor deinem Thron.
+Und wir singen hier zusammen,
+loben Jesus, deinen Sohn.</lines>
+    </verse>
+  </lyrics>
+</song>

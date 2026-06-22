@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Battle Belongs to the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Jamie Owens-Collins</author>
+      <author type="music">Jamie Owens-Collins</author>
+      <author type="translation">Mit der göttlichen Kraft nehmen wir ein das Land (Dir sei Ehre, alle Macht)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In heavenly armour we'll enter the land
+The battle belongs to the Lord
+No weapon that's fashioned against us shall stand
+The battle belongs to the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: We sing glory and honor
+Power and strength to the Lord. :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The power of darkness comes in like a flood
+The battle belongs to the Lord
+He's raised up a standard, the power of His blood
+The battle belongs to the Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When your enemy presses in hard do not fear
+The battle belongs to the Lord
+Take courage my friend, your redemption is near
+The battle belongs to the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Isn't the Love of Jesus Something Wonderful</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v5 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There will never be a sweeter story,
+Story of the Savior's Love Divine,
+Love that brought Him from the realms of glory,
+Just to save a sinful soul like mine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isn't the love of Jesus something wonderful?
+Wonderful, wonderful!
+Oh, isn't the love of Jesus something wonderful?
+Wonderful it is to me!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Boundless as the universe around me,
+Reaching to the farthest soul away,
+Saving keeping love it was that found me,
+That is why my heart can truly say.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Love beyond our human comprehending
+Love of God in Christ, how can it be?
+This will be my theme and never ending,
+Great redeeming love of Calvary.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Isn't the love of Jesus something wonderful?
+(Oh, how marvelous, oh, how wonderful)
+Wonderful, wonderful (my soul shall never fear)
+Oh, isn't the love of Jesus something wonderful?
+(Oh, how marvelous, oh, how wonderful)
+Wonderful it is to me.</lines>
+    </verse>
+  </lyrics>
+</song>

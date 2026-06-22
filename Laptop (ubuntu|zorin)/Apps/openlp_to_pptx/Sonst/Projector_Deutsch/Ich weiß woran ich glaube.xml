@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich weiß, woran ich glaube</title>
+    </titles>
+    <authors>
+      <author type="words">Ernst Moritz Arndt</author>
+      <author type="music">Heinrich Schütz</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich weiß, woran ich glaube, ich weiß, was fest besteht,
+wenn alles hier im Staube wie Sand und Staub verweht;
+ich weiß, was ewig bleibet, wo alles wankt und fällt,
+wo Wahn die Weisen treibet und Trug die Klugen prellt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich weiß, was ewig dauert, ich weiß, was nimmer lässt;
+auf ewgen Grund gemauert steht diese Schutzwehr fest.
+Es sind des Heilands Worte, die Worte fest und klar;
+an diesem Felsenhorte halt ich unwandelbar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Auch kenn ich wohl den Meister, der mir die Feste baut;
+er heißt der Fürst der Geister, auf den der Himmel schaut,
+vor dem die Seraphinen anbetend niederknien,
+um den die Engel dienen: ich weiß und kenne ihn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Das ist das Licht der Höhe, das ist der Jesus Christ,
+der Fels, auf dem ich stehe, der diamanten ist,
+der nimmermehr kann wanken, der Heiland und der Hort,
+die Leuchte der Gedanken, die leuchtet hier und dort.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So weiß ich, was ich glaube, ich weiß, was fest besteht
+und in dem Erdenstaube nicht mit als Staub verweht;
+ich weiß, was in dem Grauen des Todes ewig bleibt
+und selbst auf Erdenauen schon Himmelsblumen treibt.</lines>
+    </verse>
+  </lyrics>
+</song>

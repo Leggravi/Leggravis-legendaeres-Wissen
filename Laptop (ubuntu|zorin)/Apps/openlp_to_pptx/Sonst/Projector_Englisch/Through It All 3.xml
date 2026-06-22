@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Through It All (3)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've had many tears and sorrows
+Had questions for tomorrow,
+There've been times I didn't know right from wrong
+But in every situation
+God gave blessed consolation
+That my trials come to only make me strong</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've been a lot of places
+And I've seen a lot of faces
+There've been times I felt so all alone,
+But in my lonely hours,
+Yes those precious lonely hours
+Jesus let me know I was his own</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Through it all,
+Through it all,
+Oh I've learned to trust in Jesus,
+I've learned to trust in God
+Through it all,
+Through it all
+Oh I've learned to depend upon his word.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I thank god for the mountains
+And I thank him for the valleys,
+I thank him for the storms he's brought me through
+For if I'd never had a problem
+I wouldn't know that he could solve them
+I'd never know what faith in god could do
+So I'm singing</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yes I've learned to depend upon his word
+I've learned to depend upon his word</lines>
+    </verse>
+  </lyrics>
+</song>

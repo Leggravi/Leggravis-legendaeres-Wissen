@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I've got the Holy Ghost</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v2 v4 v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've got the Holy Ghost down in my soul,
+just like the Bible says.
+I've got the Holy Ghost down in my soul,
+just like the Bible says.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Well I've been to the water and I've been baptized.
+My soul got happy and I'm satisfied,
+That I wouldn't take nothing for my journey now.
+Just like the Bible
+Just like the Bible
+Just like the holy Bible says.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On the day of Pentecost they have one thing on their mind.
+For the promise of the father would bring power from own high
+Prophet had foretellen said the spirit would be pour out.
+When it finally happened they begin to sing and shout:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Some folks they don't believe in they say the promise come and go,
+But they've come to little town and the person their wrong
+Let me share my testimony, when I repented all my sins,
+I been baptized in Jesus name, and the Holy Ghost came in.</lines>
+    </verse>
+  </lyrics>
+</song>

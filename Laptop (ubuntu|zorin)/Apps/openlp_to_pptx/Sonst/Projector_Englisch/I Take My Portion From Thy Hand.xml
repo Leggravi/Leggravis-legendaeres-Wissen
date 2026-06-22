@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Take My Portion From Thy Hand</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I Take My Portion from Thy
+hand,
+And do not seek to understand;
+For I am Blind, While Thou dost see,
+Thy will is mine whate'er it be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Whate'er it be, whate'er it be
+I do not fear, whate'er it be
+Thy Love divine sustaineth me
+Thy will is mine whate'er it be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When darkness doth Thy face
+Obscure,
+And many sorrows I endure,
+I think of Christ's Gethsemane;
+Thy will is mine, whate'er it be</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When Tender Joys to me are known
+I render thanks to Thee alone
+I Know my cup is filled by Thee
+Thy will is mine, whate'er it be</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Thus calmly do I face my lot,
+Accept it, Lord, and doubt Thee not
+Lo! all things work for good to me
+Thy will is mine, whate'er it be</lines>
+    </verse>
+  </lyrics>
+</song>

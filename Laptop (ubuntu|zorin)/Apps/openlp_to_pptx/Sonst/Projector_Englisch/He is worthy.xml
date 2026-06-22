@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He is worthy</title>
+    </titles>
+    <authors>
+      <author type="words">Andrew Peterson</author>
+      <author type="music">Andrew Peterson</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come and see the beauty of the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come and know the wonder of His grace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come and see how much He cares for you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gaze at the compassion in His face</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Come and touch the nail prints in His hands</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Find the friend who truly understands</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Come and stand beneath the blood-stained cross</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Proof of His unchanging love for us</lines>
+    </verse>
+    <verse name="v9">
+      <lines>He is worthy, worthy of our praise</lines>
+    </verse>
+    <verse name="v10">
+      <lines>He is worthy, worthy of our praise</lines>
+    </verse>
+    <verse name="v11">
+      <lines>He is glorious, He is wonderful</lines>
+    </verse>
+    <verse name="v12">
+      <lines>He is everthing to me</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Come and see the stone’s been rolled away</lines>
+    </verse>
+    <verse name="v14">
+      <lines>The tomb is empty where His body lay</lines>
+    </verse>
+    <verse name="v15">
+      <lines>Why seek the Living One among the dead</lines>
+    </verse>
+    <verse name="v16">
+      <lines>You won’t find Jesus there because He lives</lines>
+    </verse>
+  </lyrics>
+</song>

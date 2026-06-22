@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:56">
+  <properties>
+    <titles>
+      <title>Mein erst Gefühl sei Preis und Dank</title>
+    </titles>
+    <authors>
+      <author type="words">Christian Fürchtegott Gellert (1757)</author>
+      <author type="music">Justin Heinrich Knecht</author>
+    </authors>
+    <ccliNo>4353542</ccliNo>
+    <themes>
+      <theme>Morgenlieder</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mein erst Gefühl sei Preis und Dank;
+erheb ihn, meine Seele!
+Der Herr hört deinen Lobgesang;
+lobsing ihm, meine Seele!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mich selbst zu schützen ohne Macht,
+lag ich und schlief im Frieden.
+Wer schafft die Sicherheit der Nacht
+und Ruhe für die Müden?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du bist es, Herr und Gott der Welt,
+und dein ist unser Leben;
+du bist es, der es uns erhält
+und mir’s jetzt neu gegeben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gelobet seist du, Gott der Macht,
+gelobt sei deine Treue,
+dass ich nach einer sanften Nacht
+mich dieses Tags erfreue.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lass deinen Segen auf mir ruhn,
+mich deine Wege wallen,
+und lehre du mich selber tun
+nach deinem Wohlgefallen.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nimm meines Lebens gnädig wahr,
+auf dich hofft meine Seele;
+sei mir ein Retter in Gefahr,
+ein Vater, wenn ich fehle.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Gib mir ein Herz voll Zuversicht,
+erfüllt mit Lieb und Ruhe,
+ein weises Herz, das seine Pflicht
+erkenn und willig tue:</lines>
+    </verse>
+    <verse name="v8">
+      <lines>dass ich als ein getreuer Knecht
+nach deinem Reiche strebe,
+gottselig, züchtig und gerecht
+durch deine Gnade lebe;</lines>
+    </verse>
+    <verse name="v9">
+      <lines>dass ich, dem Nächsten beizustehn,
+nie Fleiß und Arbeit scheue,
+mich gern an andrer Wohlergehn
+und ihrer Tugend freue;</lines>
+    </verse>
+    <verse name="v10">
+      <lines>dass ich das Glück der Lebenszeit
+in deiner Furcht genieße
+und meinen Lauf mit Freudigkeit,
+wenn du gebietst, beschließe.</lines>
+    </verse>
+  </lyrics>
+</song>

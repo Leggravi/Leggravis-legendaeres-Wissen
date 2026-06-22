@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>More of You</title>
+    </titles>
+    <authors>
+      <author type="words">Jody Jason Peterson</author>
+      <author type="music">Jody Jason Peterson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your Love wakes me up
+And gives me life
+You are the air that I'm breathing in
+You are always there
+For me oh God
+There's nothing that I could ask for</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I want more of You
+And less of me
+In my life
+I want more of You
+And less of me
+In my life</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You love me Lord,
+More than I could ask for
+And that's why I long for You
+You embrace me Lord
+Embrace me with Your mercy
+Oh I am in love with You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You touch my heart
+And changed my life
+In Your mercy I found my peace
+You died for me
+And set me free
+In Your suffering you give me life</lines>
+    </verse>
+  </lyrics>
+</song>

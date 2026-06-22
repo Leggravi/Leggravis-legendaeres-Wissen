@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 11, 2024, 8:13:06 PM">
+  <properties>
+    <titles>
+      <title>Majesty</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Majesty, worship His majesty
+Unto Jesus be all glory
+Honor and praise.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Majesty, kingdom, authority
+Flow from His throne
+Unto His own His anthem raise.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>So exalt lift up on high
+The name of Jesus
+Magnify come glorify
+Christ Jesus the King.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Majesty worship His majesty
+Jesus who died now glorified
+King of all kings.</lines>
+    </verse>
+  </lyrics>
+</song>

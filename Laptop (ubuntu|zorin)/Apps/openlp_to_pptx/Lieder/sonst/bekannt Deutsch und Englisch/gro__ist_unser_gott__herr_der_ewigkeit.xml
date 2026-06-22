@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Apr 9, 2019, 3:38:42 PM">
+  <properties>
+    <titles>
+      <title>Groß ist unser Gott, Herr der Ewigkeit</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Groß ist unser Gott, Herr der Ewigkeit.
+Er allein regiert, über Raum und Zeit.
+Souverän herrscht er, Schöpfer dieser Welt,
+der in seiner Hand unser Schicksal hält.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Sein Wort gilt für alle Zeit.
+Sein Reich kommt in Herrlichkeit.
+Wir steh'n staunend Gott vor dir,
+Unser Vater</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Sein Wort gilt für alle Zeit
+Sein Reich kommt in Herrlichkeit</lines>
+    </verse>
+  </lyrics>
+</song>

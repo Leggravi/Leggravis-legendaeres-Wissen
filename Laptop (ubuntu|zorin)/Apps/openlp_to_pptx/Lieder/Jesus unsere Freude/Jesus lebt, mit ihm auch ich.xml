@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:45">
+  <properties>
+    <titles>
+      <title>Jesus lebt, mit ihm auch ich</title>
+    </titles>
+    <authors>
+      <author type="words">Christian Fürchtegott Gellert (1757)</author>
+      <author type="music">Berlin</author>
+    </authors>
+    <ccliNo>4937360</ccliNo>
+    <themes>
+      <theme>Ostern</theme>
+      <theme>Auferstehung</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus lebt, mit ihm auch ich!
+Tod, wo sind nun deine Schrecken?
+Er, er lebt und wird auch mich
+von den Toten auferwecken.
+Er verklärt mich in sein Licht,
+dies ist meine Zuversicht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus lebt! Ihm ist das Reich
+über alle Welt gegeben;
+mit ihm werd auch ich zugleich
+ewig herrschen, ewig leben.
+Gott erfüllt, was er verspricht;
+dies ist meine Zuversicht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus lebt! Wer nun verzagt,
+lästert ihn und Gottes Ehre.
+Gnade hat er zugesagt,
+dass der Sünder sich bekehre.
+Gott verstößt in Christo nicht;
+dies ist meine Zuversicht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus lebt! Sein Heil ist mein,
+sein sei auch mein ganzes Leben;
+reines Herzens will ich sein
+und den Lüsten widerstreben.
+Er verlässt die Schwachen nicht;
+dies ist meine Zuversicht.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus lebt! Ich bin gewiss,
+nichts soll mich von Jesu scheiden,
+keine Macht der Finsternis,
+keine Herrlichkeit, kein Leiden.
+Er gibt Kraft zu dieser Pflicht;
+dies ist meine Zuversicht.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesus lebt! Nun ist der Tod
+mir der Eingang in das Leben.
+Welchen Trost in Todesnot
+wird er meiner Seele geben,
+wenn sie gläubig zu ihm spricht:
+Herr, Herr, meine Zuversicht!</lines>
+    </verse>
+  </lyrics>
+</song>

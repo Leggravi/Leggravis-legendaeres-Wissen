@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He's Been There for Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>THROUGH VALLEYS SO WIDE AND DEEP
+I COULD HAVE LOST MY WAY
+UP RUGGED MOUNTAINS SO STEEP
+THEY TOOK MY STRENGTH AWAY
+AND THROUGH THE TIMES
+I COULD HAVE BEEN A CASUALTY
+PRAISE GOD, BY FAITH
+HE'S BEEN THERE FOR ME</lines>
+    </verse>
+    <verse name="v2">
+      <lines>OH WHAT A FRIEND, OH WHAT A FRIEND
+JESUS HAS NEVER FAILED
+HE'S BEEN THERE FOR ME
+AND HE HAS TURNED MY HOPE
+INTO REALITY
+PRAISE GOD BY FAITH
+HE'S BEEN THERE FOR ME</lines>
+    </verse>
+    <verse name="v3">
+      <lines>THERE'S HOPE IN THIS WORLD THRO HIM
+WHEN FRIEND'S HAVE TURNED AWAY
+AND WHEN THE MEANS HAVE GROWN SLIM
+THAT GIVES US STRENGTH EACH DAY
+I'LL WALK ALONE BY FAITH
+IN GOD'S SUFFICIENCY
+PRAISE GOD BY FAITH
+HE'S BEEN THERE FOR ME</lines>
+    </verse>
+  </lyrics>
+</song>

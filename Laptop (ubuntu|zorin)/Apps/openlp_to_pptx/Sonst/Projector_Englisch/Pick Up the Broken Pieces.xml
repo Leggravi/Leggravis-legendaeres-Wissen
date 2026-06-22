@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Pick Up the Broken Pieces</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pick up the broken pieces
+And bring them to the Lord
+Pick up the broken pieces
+Trust in His Holy Word
+He will put them back together;
+And make your life complete
+Just place the broken pieces
+At the Saviour’s feet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Have you failed in life’s battle
+To accomplish your plans,
+Is your heart heavy laden
+Do you fear the Lord’s command?
+Do you feel that no ones loves you
+And there’s no use to try
+Take up your case to Jesus
+Your soul He’ll satisfy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Do you feel that there is no hope
+Broken hearts cannot mend,
+Christ can take the broken pieces
+And make you whole again
+Storms of doubt blow from
+all directions
+But don’t you be afraid
+God can make all correction
+He made your body out of clay.</lines>
+    </verse>
+  </lyrics>
+</song>

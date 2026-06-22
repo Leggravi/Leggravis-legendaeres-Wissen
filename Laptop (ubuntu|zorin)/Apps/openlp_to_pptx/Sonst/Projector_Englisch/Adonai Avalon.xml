@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Adonai Avalon</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One single drop of rain
+Your salty tear became blue ocean
+One tiny grain of sand turning in your hand
+A world in motion
+You're out beyond the furthest Morning Star
+Close enough to hold me in Your arms</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Adonai, I lift up my heart and I cry
+My Adonai
+You're Maker of each moment
+Father of my hope and freedom
+Oh, my Adonai</lines>
+    </verse>
+    <verse name="v3">
+      <lines>One timid faithful knock
+Resounds upon the Rock of Ages
+One trembling heart and soul
+Becomes a servant bold and courageous
+You call across the mountains and the seas
+I answer from the deepest part of me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Adonai (Adonai), I lift up my heart and I cry
+My Adonai
+You are Maker of each moment
+Father of my hope and freedom
+Oh, my Adonai</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, From age to age you reign in Majesty
+And today You're making miracles in me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Adonai, I lift up my heart and I cry
+My Adonai,
+You're Maker of each moment
+Oh, Father of my hope and freedom
+Oh, my Adonai</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wahrlich, er lebt!</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">John Watson</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wahrlich, er lebt! Christus ist auferstanden.
+Er zerbrach des Todes Ketten! Er stand auf, von den Toten auf !</lines>
+    </verse>
+  </lyrics>
+</song>

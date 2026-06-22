@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, entfache das Feuer der Liebe zu Dir</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, entfache das Feuer der Liebe zu Dir,
+wie einst die erste Liebe, die brannte in mir.
+Prüfe, durchleuchte, reinige dein Kind.
+Ich schenk mein Leben Dir, mein Vater und mein Herr.</lines>
+    </verse>
+  </lyrics>
+</song>

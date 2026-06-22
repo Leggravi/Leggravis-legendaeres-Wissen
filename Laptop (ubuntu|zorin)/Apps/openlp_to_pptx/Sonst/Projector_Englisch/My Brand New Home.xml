@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Brand New Home</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If you're awed by the world and all its beauty,
+Many stately mansions daily you may see,
+But without great wealth I know I'll never own one,
+And you will neither if you’re no more rich than me.
+But if your soul will look beyond what man is building,
+You can see what earthlymortals cannot see.
+Far on the other side of Jordan there’s construction,
+On a mansion being built just for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And when you see, my brand new home.
+When you see it’s beauty rare
+nothing down here can compare.
+Just when you see my brand
+new home.
+My heavenly Father’s building me,
+And am gonna occupy for Free,
+Just wait’ll you see,
+my brand new home.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My new home will not sit upon foundations
+That are man-made and will some day pass away
+It won' be built, where the storms of life can batter
+Or where the rain clouds, often hide the light of day
+Over there the Promised Son of God is my foundation
+The root of David Christ the Lord my coming King
+Oh what a welcome and homecoming there awaits me
+And I'm expecting any day to move right in.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Wanna Be Home/Praise The Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm so homesick for heaven
+I'm so excited to be with You
+I want to see the day
+When You'll wipe away my tears
+My cry, Oh Lord
+I wanna be home</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I wanna be home
+I wanna be home
+When all the trials are over
+And all the storms had passed
+I wanna be home
+I wanna be home
+Back to You, Oh Lord
+I wanna be home</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's full of pleasure in this world
+Satan is pulling me just to stay here
+But deep within my heart
+I'm not happy anymore
+There's a place that I will be
+And I call it home</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For this world is not my home
+I'm just a pilgrim and a stranger here
+I know that someday soon
+And it's very soon
+The Lord will take me home</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Praise the Lord
+Praise the Lord
+let all God's people praise the Lord
+shake off those heavy bands
+lift up those holy hands
+let all God's people praise the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

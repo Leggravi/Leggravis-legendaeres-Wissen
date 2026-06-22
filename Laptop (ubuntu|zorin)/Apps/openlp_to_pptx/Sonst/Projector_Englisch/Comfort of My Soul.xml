@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Comfort of My Soul</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Well, I remember the time
+I was so low in sin,
+Dear Jesus You came
+And showed me Your grace;
+Now no one can ever take me
+ from Your hand,
+And now I could never be the same
+For now I live only for You
+ by Your grace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For Jesus is all I have to live for,
+Jesus is my truest friend
+That I could ever lean on,
+He can be trusted
+And His word can never fail,
+He is the comfort of my soul.
+He is the comfort of my soul.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sometimes I get weak
+ and can’t go on,
+But Jesus You're there
+ to make me strong,
+And though I be tempted,
+You are my Shield;
+Oh Lord, You have showed
+ me such love,
+All I have I surrender to You.</lines>
+    </verse>
+  </lyrics>
+</song>

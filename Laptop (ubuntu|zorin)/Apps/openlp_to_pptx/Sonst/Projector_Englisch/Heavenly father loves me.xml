@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heavenly father loves me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Whenever I hear the song of a bird
+Or look at the blue, blue sky,
+Whenever I feel the rain on my face
+Or the wind as it rushes by,
+Whenever I touch a velvet rose
+Or walk by our lilac tree,
+I’m glad that I live in this beautiful world
+Heav’nly Father created for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He gave me my eyes that I might see
+The color of butterfly wings.
+He gave me my ears that I might hear
+The magical sound of things.
+He gave me my life, my mind, my heart:
+I thank him rev’rently
+For all his creations, of which I’m a part.
+Yes, I know Heav’nly Father loves me.</lines>
+    </verse>
+  </lyrics>
+</song>

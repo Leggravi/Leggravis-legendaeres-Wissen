@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dein Reich komme, Herr!</title>
+    </titles>
+    <authors>
+      <author type="words">Frank Huck</author>
+      <author type="music">Bob Kauflin</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dein ist das Königreich, Dein ist die Kraft
+und die Herrlichkeit, wir sind berufen
+dein heiliges Volk zu sein, Priester des Königs
+in Ewigkeit, Jesus!
+In Dir Jesus ist uns die Gnade gegeben,
+ein anderes Herz und Dein Geist, dass wir leben
+als Heiliges Volk Deine Ordnungen halten
+und Tun, was Du sagst.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bau mit uns Dein Königreich
+Leb in uns Durch Deinen Geist
+Lass uns Deine Priester sein
+Du bist unser Gott allein.
+Bau mit uns Dein Königreich
+Leb in uns Durch Deinen Geist
+Lass uns Deine Boten sein
+Du bist unser, wir sind Dein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dein Reich komme, Herr!
+Dein Reich komme, Herr!
+Dein Reich komme, Herr!
+Dein Reich komme, Herr!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du bist der Heilige Israels und der
+allmächtige Gott,
+und der Vater von Jesus
+dem Christus und Herrn, zu dem Du uns berufen hast
+bei ihm zu sein.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dich wolln wir fürchten und ehren und lieben
+und unseren Willen Dir immer ergeben
+und täglich Dir neu unterstellen,
+dass Du Dein Werk tust unter uns.</lines>
+    </verse>
+  </lyrics>
+</song>

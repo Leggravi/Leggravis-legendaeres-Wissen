@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Weil Jesus lebt</title>
+    </titles>
+    <authors>
+      <author type="words">Elisabeth Hammer</author>
+      <author type="music">Hans-Gerhard Hammer</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Den Gott uns gab, nannten sie Jesus, er liebt die Welt und ist ihr Heil. Er starb am Kreuz, uns zu erlösen. Ein leeres Grab bezeugt, dass er vom Tod erstand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Weil Jesus lebt, fasse ich Vertrauen. Weil Jesus lebt, weicht alle Angst. Er steht mir bei, denn ihm gehört die Zukunft. Ich fühle mich geborgen, weil er wirklich lebt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wie gern hält man ein kleines Kind im Arm, denn es strahlt reine Freude aus, doch größer ist die ewge Freude, die uns der gute Hirte schenkt im Vaterhaus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und wandre ich im finstern Tale und wird das Leben mir zur Qual, dann wird mein Hirte mich begleiten, und ich stimm jubelnd dann mit ein im ewgen Saal.</lines>
+    </verse>
+  </lyrics>
+</song>

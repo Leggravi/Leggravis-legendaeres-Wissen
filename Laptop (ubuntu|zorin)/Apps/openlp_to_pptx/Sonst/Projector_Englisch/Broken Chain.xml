@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Broken Chain</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The journey that we travel
+Is a winding narrow road
+And there are times we stumble
+'Neath a heavy load
+Always there's a voice to tell you
+You'll never make it in
+Reminding you of all your failures
+And long forgotten sin</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You know within your heart God's blood has washed you white as snow
+Still in your mind the battle rages
+And threaten all you know
+But even if you're pushed
+Beyond where you feel you can't stand
+Just remember you can put your faith
+In God's unfailing hand</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You may bend but you won't break
+You may stumble and even feel
+You've lost your way
+But you won't fall; God's word remains
+You won't be bound by broken chains
+You can't be bound by broken chains</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Even though a thousand storm
+May rage within your life
+You'll find a resting place
+Within the arms of Christ
+We've risen far beyond
+The realm of lying circumstance
+And nothing formed against this Bride
+Will ever stand a chance</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Now you don't have to listen
+When that voice says you're not free
+God's ordained that you and I
+Should walk in liberty
+Freedom's been proclaimed
+To all the captive and the bound
+And in Jesus name you can hear those chains
+Fall broken to the ground
+Fall broken to the ground</lines>
+    </verse>
+  </lyrics>
+</song>

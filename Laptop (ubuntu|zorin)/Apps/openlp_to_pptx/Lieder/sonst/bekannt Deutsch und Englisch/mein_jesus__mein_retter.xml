@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 6, 2018, 1:55:15 PM">
+  <properties>
+    <titles>
+      <title>Mein Jesus, mein Retter</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Mein Jesus, mein Retter,
+keiner ist so wie du.
+Lobpreis sei dir, jeden Tag mehr,
+für deine große Liebe, Herr.
+Mein Tröster, mein Helfer,
+du bist mir Zuflucht und Kraft.
+Alles in mir beugt sich vor dir.
+Du bist hoch erhoben, Herr!</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Ruft zu dem Herrn, alle Enden der Welt!
+Ehre und Dank dem, der alles erhält.
+Himmel und Erde erhebt ihn und singt,
+wenn sein Name erklingt.
+Wir preisen dich, du hast Großes getan.
+Wir kommen vor dich und beten dich an.
+Dank sei dir, Herr, du bist unvergleichlich gut.</lines>
+    </verse>
+  </lyrics>
+</song>

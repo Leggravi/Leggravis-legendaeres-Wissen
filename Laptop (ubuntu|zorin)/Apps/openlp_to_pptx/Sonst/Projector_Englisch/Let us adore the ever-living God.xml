@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let us adore the ever-living God</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let us adore
+The ever-living God
+And render praise
+Unto Him
+Who spread out the heavens
+And established the Earth
+And whose glory
+Is manifest throughout all the Earth</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He Is Our God
+He Is Our God
+There is no one else
+He Is Our God
+He Is Our God
+There is no one else</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I praise Your name
+Most high and awesome God
+And lift my hands
+Unto You
+You saved my soul
+On a rugged tree
+Now I praise You
+And serve You Lord throughout eternity</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are my God
+You are my God
+There is no one else
+You are my God
+You are my God
+There is no one else</lines>
+    </verse>
+  </lyrics>
+</song>

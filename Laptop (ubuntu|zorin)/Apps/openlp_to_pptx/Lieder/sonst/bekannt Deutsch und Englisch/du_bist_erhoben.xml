@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Mar 18, 2020, 5:43:38 PM">
+  <properties>
+    <titles>
+      <title>Du bist erhoben</title>
+    </titles>
+    <verseOrder>V1 V2 V3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Du bist erhoben, für immer gehört dir der Thron
+Wir beten dich an
+Du bist erhoben, in Ewigkeit loben
+Und beten wir dich an!</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Du bist der Herr, der in Wahrheit regiert
+Deiner Majestät alle Ehre gebührt
+Du bist erhoben, für immer gehört dir der Thron.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Du bist der Herr, dir folgen wir,
+Deine Majestät haben wir gesehen.
+Du bist erhoben, für immer gehört dir der Thron.</lines>
+    </verse>
+  </lyrics>
+</song>

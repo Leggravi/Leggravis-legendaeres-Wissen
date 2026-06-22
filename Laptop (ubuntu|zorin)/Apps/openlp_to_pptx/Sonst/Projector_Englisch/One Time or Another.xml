@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>One Time or Another</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When God created you,
+He gave you a brain,
+So that you may choose all what is good,
+But many many times you
+choose what is wrong
+(By this you pierce Jesus more) x 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>One time or another,
+you’ll meet a position Friends hurting
+you and others mocking you
+All these my friend you’ve to endure
+And Christ promises a reward.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Even if you are hated by the
+whole world,
+Don’t be afraid Jesus loves you,
+He died for you and me
+so that you may live
+All that you need is Jesus Christ.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>At times you’ll find… you’re all alone
+Please don’t forget, the Lord is near
+He is the only friend who never forsakes
+And who will bear the burden you bear.</lines>
+    </verse>
+  </lyrics>
+</song>

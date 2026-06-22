@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:50">
+  <properties>
+    <titles>
+      <title>Die Kirche steht gegründet allein auf Jesum Christ</title>
+    </titles>
+    <authors>
+      <author type="words">Anna Thekla von Weling (1898)</author>
+      <author type="music">Samuel Sebastian Wesley</author>
+    </authors>
+    <ccliNo>5207879</ccliNo>
+    <themes>
+      <theme>Gemeinde</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Die Kirche steht gegründet allein auf Jesum Christ,
+sie, die des großen Gottes erneute Schöpfung ist.
+Vom Himmel kam er nieder und wählte sie zur Braut,
+hat sich mit seinem Blute ihr ewig angetraut.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Erkorn aus allen Völkern, doch als ein Volk gezählt;
+ein Herr ist's und ein Glaube, ein Geist, der sie beseelt,
+und einen heiigen Namen ehrt sie, ein heilges Mahl,
+und eine Hoffnung teilt sie, kraft seiner Gnadenwahl.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Es schauet ihre Trübsal die Welt mit kaltem Spott:
+zerrissen und zerspalten, bedrängt von harter Not.
+Doch heiige Wächter rufen: Wie lang, Herr, bleibst du fern?
+Und auf die Nacht des Trauerns folgt bald der Morgenstern.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verfolgt und angefochten in heißem Kampf und Strauß
+schaut nach der Offenbarung der Friedenszeit sie aus;
+sie harrt, bis sich ihr Sehnen erfüllt in Herrlichkeit,
+und nach dem großen Siegen beginnt die Ruhezeit.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Schon hier ist sie verbunden mit dem, der ist und war,
+hat selige Gemeinschaft mit der vollend'ten Schar.
+Ihr hochbeglückten Geister, zu Jesu rufen wir,
+dass wir mit euch den Meister dort preisen für und für.</lines>
+    </verse>
+  </lyrics>
+</song>

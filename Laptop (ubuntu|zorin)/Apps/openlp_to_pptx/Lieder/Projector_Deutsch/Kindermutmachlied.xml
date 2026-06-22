@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Kindermutmachlied</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>La la la laaa la, la la la laaa
+La la la laaa laaa laaa laaa, laaa-laaa-laaa
+La la la laaa la, la la la laaa
+La la la laaa laaa laaa laaa laaa</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wenn einer sagt: „Ich mag dich du, ich find' dich ehrlich gut“
+Dann krieg' ich eine Gänsehaut und auch ein bisschen Mut</lines>
+    </verse>
+    <verse name="v3">
+      <lines>La la la laaa la, la la la laaa
+La la la laaa laaa laaa laaa, laaa-laaa-laaa
+La la la laaa la, la la la laaa
+La la la laaa laaa laaa laaa laaa</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wenn einer sagt: „Ich brauch dich du, ich schaff es nicht allein&quot;
+Dann kribbelt es in meinem Bauch, ich fühl' mich nicht mehr klein</lines>
+    </verse>
+    <verse name="v5">
+      <lines>La la la laaa la, la la la laaa
+La la la laaa laaa laaa laaa, laaa-laaa-laaa
+La la la laaa la, la la la laaa
+La la la laaa laaa laaa laaa laaa</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wenn einer sagt: „Komm geh mit mir, zusammen sind wir was“
+Dann werd' ich rot, weil ich mich freu, dann macht das Leben Spaß</lines>
+    </verse>
+    <verse name="v7">
+      <lines>La la la laaa la, la la la laaa
+La la la laaa laaa laaa laaa, laaa-laaa-laaa
+La la la laaa la, la la la laaa
+La la la laaa laaa laaa laaa laaa</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Gott sagt zu dir: „Ich hab dich lieb und wär' so gern dein Freund
+Und das was du allein nicht schaffst, das schaffen wir vereint“</lines>
+    </verse>
+    <verse name="v9">
+      <lines>La la la laaa la, la la la laaa
+La la la laaa laaa laaa laaa, laaa-laaa-laaa
+La la la laaa la, la la la laaa
+La la la laaa laaa laaa laaa laaa</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Great Is the Darkness</title>
+    </titles>
+    <authors>
+      <author type="words">David Clifton</author>
+      <author type="music">David Clifton</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Great is the darkness
+That covers the earth
+Oppression, injustice and pain
+Nations are slipping
+In hopeless despair
+Though many have come in Your name
+Watching while sanity dies
+Touched by the madness and lies</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come Lord Jesus, come Lord Jesus
+Pour out Your spirit we pray
+Come Lord Jesus, come Lord Jesus
+Pour out Your spirit on us today.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>May now Your church rise
+With power and love
+This glorious gospel proclaim
+In every nation
+Salvation will come
+To those who believe in Your name
+Help us bring light to this world
+That we might speed Your return</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Great celebrations
+On that final day
+When out of the heavens You come
+Darkness will vanish
+All sorrow will end
+And rulers will bow at Your throne
+Our great commission complete
+Then face to face we shall meet</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Believe God</title>
+    </titles>
+    <authors>
+      <author type="words">Judy Bailey</author>
+      <author type="music">Judy Bailey</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I believe God! I believe God!
+It shall be done, even as He said;
+Trust and obey, look up and say,
+I believe, I believe God.</lines>
+    </verse>
+  </lyrics>
+</song>

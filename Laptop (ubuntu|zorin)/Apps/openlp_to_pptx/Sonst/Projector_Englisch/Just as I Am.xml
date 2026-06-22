@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Just as I Am</title>
+    </titles>
+    <authors>
+      <author type="words">Charlotte Elliott</author>
+      <author type="music">William Batchelder Bradbury</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Just as I am, without one plea,
+But that Thy blood was shed for me,
+And that Thou bidd’st me come to Thee,
+O Lamb of God, I come! I come!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Just as I am, and waiting not
+To rid my soul of one dark blot,
+To Thee, whose blood can cleanse each spot,
+O Lamb of God, I come! I come!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Just as I am, Thou wilt received,
+Wilt welcome, pardon, cleanse, relieve;
+Because Thy promise I believe,
+O Lamb of God, I come! I come!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Just as I am, Thy love unknown
+Hath broken every barrier down;
+Now to be Thine, yea, Thine alone,
+O Lamb of God, I come! I come!</lines>
+    </verse>
+  </lyrics>
+</song>

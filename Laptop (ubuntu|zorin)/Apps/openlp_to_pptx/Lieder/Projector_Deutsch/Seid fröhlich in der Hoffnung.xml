@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Seid fröhlich in der Hoffnung</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Gerhardt Ziegler</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Seid fröhlich in der Hoffnung,
+beharrlich im Gebet
+Standhaft in aller Bedrängnis.
+Macht einander Mut, ladet gerne Gäste ein.
+Zeigt es allen, dass Jesus sie liebt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Leben wird ein Zeichen der Hoffnung sein,
+der Hoffnung für diese Welt.
+Weil Jesus vom Tod auferstanden ist,
+und sie in den Händen hält!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Beten wird ein Ausdruck des Dienens sein,
+des Dienens in dieser Welt.
+Weil Gott euer Vater im Himmel ist,
+bei dem jede Bitte zählt!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Leiden wird ein Zeugnis des Glaubens sein,
+des Glaubens trotz dieser Welt.
+Weil Jesus der selber gelitten hat,
+sich treu zu den Seinen stellt!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Helfen wird ein Zeichen der Liebe sein,
+der Liebe zu dieser Welt.
+Um Boten in Worten und Taten zu sein,
+hat Jesus uns auserwählt!</lines>
+    </verse>
+  </lyrics>
+</song>

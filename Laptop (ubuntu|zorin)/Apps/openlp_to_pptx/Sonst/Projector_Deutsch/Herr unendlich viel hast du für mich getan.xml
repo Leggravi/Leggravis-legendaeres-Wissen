@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, unendlich viel hast du für mich getan</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Frey</author>
+      <author type="music">Albert Frey</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, unendlich viel hast du für mich getan,
+von ganzem Herzen bete ich dich an.
+Unendlich groß ist deine Herrlichkeit,
+unendlich stark ist deiner Liebe Macht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du hast mich befreit vom Weg des Todes,
+mich auf weites Land gestellt,
+und mit dir darf ich nun leben
+in alle Ewigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

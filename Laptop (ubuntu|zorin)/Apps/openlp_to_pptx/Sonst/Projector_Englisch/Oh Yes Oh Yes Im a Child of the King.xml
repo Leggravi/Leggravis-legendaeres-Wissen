@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh, Yes, Oh Yes, I'm a Child of the King</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Once I was clothed in the rags of my sin,
+Wretched and poor, lost and lonely within.
+But with wondrous compassion, the King of all kings,
+In pity and love, took me under His wings.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, yes, oh yes, I'm a child of the King
+His royal blood now flows through my veins.
+And I who was wretched and poor now can sing
+Praise God, praise God, I'm a child of the King.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now I'm a child with a Heavenly home,
+My Holy Father well he's made me His own.
+And I'm washed by His blood, and I'm clothed in His love,
+And someday I'll sing with the angels above.</lines>
+    </verse>
+  </lyrics>
+</song>

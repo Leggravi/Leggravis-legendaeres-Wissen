@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let It Come Down – v3</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let us build the pyramid
+All the builders Saw a stone
+With a particular shape
+But they had no revelation
+That the top of the pyramid
+Would require a stone
+Rejected by the builders.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let it come down oh Lord,
+Just inside of my soul,
+And remain right there
+In the deepness of my heart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let it come down oh Lord,
+Just inside of my soul,
+And be there forever,
+In the deepness of my heart.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Daniel saw a special stone,
+Cut out without hands,
+Break into pieces
+That the image of the vision
+Then the stone became after
+A great mountain in those days,
+Filling with the whole earth,
+With its glory and it's grace.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Foxes have got their holes,
+Birds have their nest,
+But that stone,
+It has got no place to rest,
+Than in revelation 10
+The capstone just came down.
+To rest in the bride,
+Who must be the word itself.</lines>
+    </verse>
+  </lyrics>
+</song>

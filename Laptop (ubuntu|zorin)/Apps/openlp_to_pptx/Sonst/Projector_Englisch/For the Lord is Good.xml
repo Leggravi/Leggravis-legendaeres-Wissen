@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>For the Lord is Good</title>
+    </titles>
+    <authors>
+      <author type="words">Billy Funk</author>
+      <author type="music">Billy Funk</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Enter His gates with thanksgiving
+Come into His courts with praise,
+Enter His presence rejoicing
+Singing great and mighty is His name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise Him with the sound of trumpet
+Praise Him with the timbrel and harp
+Let every creature in heaven and earth
+Lift a sound of praise
+Sing with all their heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For the Lord is good
+(For the Lord is good)
+For the Lord is good
+(For the Lord is good)
+For the Lord is good
+And His mercy endures forever</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For the Lord is good
+And His mercy endures forever</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus, the Son is exalted
+Maker of everything
+Come now and bow down before Him
+Lift your hands in praise
+Raise your voice to sing</lines>
+    </verse>
+    <verse name="v6">
+      <lines>For the Lord is good
+(For the Lord is good)
+For the Lord is good
+(For the Lord is good)
+For the Lord is good
+And His mercy endures forever</lines>
+    </verse>
+    <verse name="v7">
+      <lines>For the Lord is good
+And His mercy endures forever</lines>
+    </verse>
+  </lyrics>
+</song>

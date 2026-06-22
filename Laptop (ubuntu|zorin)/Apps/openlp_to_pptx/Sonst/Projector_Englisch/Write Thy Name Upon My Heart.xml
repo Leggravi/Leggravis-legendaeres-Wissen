@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Write Thy Name Upon My Heart</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Write thy name upon my heart
+Jesus, Savior of mankind
+Teach me charity unfailing
+Teach me compassion, Lord, like Thine
+Endow my soul with loving kindness
+Make me even as Thou art
+Engrave thine image in my countenance
+Write Thy name upon my heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When battles rage; when storms arise
+Make me a messenger of peace
+Teach me tolerance and meekness
+And faith to bid the tempest cease
+Endow my soul with loving kindness
+Make me even as Thou art
+Engrave Thine image in my countenance
+Write Thy name upon my heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Grant me strength to serve Thee well
+Light my spirit with Thy grace
+‘Til all my works reflect Thy goodness
+‘Til all my labors sing Thy praise
+Endow my soul with loving kindness
+Make me even as Thou art
+Engrave Thine image in my countenance
+Write Thy name upon my heart</lines>
+    </verse>
+  </lyrics>
+</song>

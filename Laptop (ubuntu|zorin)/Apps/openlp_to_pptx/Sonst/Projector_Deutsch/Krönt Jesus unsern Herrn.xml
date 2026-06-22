@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Krönt Jesus, unsern Herrn</title>
+    </titles>
+    <authors>
+      <author type="words">Matthew Bridges</author>
+      <author type="music">George Job Elvey</author>
+      <author type="translation">Crown Him with many crowns</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krönt Jesus, unsern Herrn, das Lamm auf Gottes Thron!
+Gebt euer ganzes Leben hin für ihn, den Gottessohn!
+Erwache, Herz, und sing von dem, der für dich starb!
+Anbetung, Ruhm und Ehre bring dem, der das Heil erwarb.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krönt Jesus, unsern Herrn, seht seine Wunden an,
+sie strahlen seine Liebe aus, die niemand fassen kann.
+Kein Engel kann sie schaun, er senkt den Blick davor
+und rühmt anbetend Gottes Lamm im hohen Himmelschor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Krönt Jesus, unsern Herrn, der Frieden uns gebracht
+und dessen Zepter allem Streit der Welt ein Ende macht.
+Sein Reich bleibt ewiglich, ob's jetzt nicht sichtbar ist.
+Bekennen wird es jeder Mund, dass Christus König ist.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Krönt Jesus, unsern Herrn, der uns zuerst geliebt,
+ihn, dessen Liebe ewig währt, und dessen Liebe siegt.
+Er starb für uns am Kreuz, erstand in Herrlichkeit!
+Dem Lamm, erwürgt, sei Preis und Ehr in alle Ewigkeit!</lines>
+    </verse>
+  </lyrics>
+</song>

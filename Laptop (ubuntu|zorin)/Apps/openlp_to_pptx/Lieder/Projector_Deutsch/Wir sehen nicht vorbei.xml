@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir sehen nicht vorbei</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir sehen nicht vorbei an dem Tod dieser Welt,
+wie sie langsam stirbt, in sich zusammenfällt,
+wie kalter Wind verlorn durch tote Bäume weht,
+vergiftet das Verderben sät
+Wir ignorieren nicht, dass Zerstörung siegt,
+die Natur in ihren letzten Zügen liegt.
+Und darum fragen wir: Webb man die Welt zerstört,
+ist Leben dann noch lebenswert?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Es gibt noch Hoffnung für die Welt.
+Es gibt eine Zukunft, die noch Zählt,
+es gibt Leben zu vergeben,
+es gibt ein Licht, das nicht zerbricht.
+Licht, das nicht zerbricht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir sehen nicht vorbei an Betrug und Gewalt,
+wie der Ruf nach Frieden ungehört verhallt,
+wie teure Waffen klirren, wie das Geld regiert,
+die Menschheit jedes Maß verliert.
+Wir überhören nicht, was der Hunger erzählt,
+wie man das verschwendet, was dem Armen fehlt.
+Wir fragen: hat das alles denn noch einen Sinn?
+Wo führt das Leben hin?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wir sehen nicht vorbei an dem Tod dieser Welt,
+doch wir haben Hoffnung, die uns aufrecht hält,
+denn Gottes Sohn hat uns mit Liebe vorgelebt,
+dass er auf unserer Seite steht.
+Wir resignieren nicht, können vorwärts sehn,
+im Vertrauen unsrern Weg mit Jesus gehn.
+Wir setzen seine Liebe gegen Hass und Tod,
+wir setzen auf sein Angebot.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Es gibt noch Hoffnung für die Welt.
+Es gibt eine Zukunft, die noch Zählt,
+es gibt Leben zu vergeben,
+es gibt ein Licht, das nicht zerbricht.
+Licht, das nicht zerbricht.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Es gibt noch Hoffnung für die Welt.
+Es gibt eine Zukunft, die noch Zählt,
+es gibt Leben zu vergeben,
+es gibt noch Hoffnung für die Welt!</lines>
+    </verse>
+  </lyrics>
+</song>

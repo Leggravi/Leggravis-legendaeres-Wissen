@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:41">
+  <properties>
+    <titles>
+      <title>O Jesu Christe, wahres Licht</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Heermann (1630)</author>
+      <author type="music">Nürnberg</author>
+    </authors>
+    <ccliNo>5224704</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Jesu Christe, wahres Licht,
+erleuchte, die dich kennen nicht,
+und bringe sie zu deiner Herd,
+dass ihre Seel auch selig werd.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Erfülle mit dem Gnadenschein,
+die in Irrtum verführet sein,
+auch die, so heimlich ficht noch an
+in ihrem Sinn ein falscher Wahn;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>und was sich sonst verlaufen hat
+von dir, das suche du mit Gnad
+und ihr verwund't Gewissen heil,
+lass sie am Himmel haben teil.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Den Tauben öffne das Gehör,
+die Stummen richtig reden lehr,
+die nicht bekennen wollen frei,
+was ihres Herzens Glaube sei.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Erleuchte, die da sind verblend't,
+bring her, die sich von uns getrennt,
+versammle, die zerstreuet gehn,
+mach feste, die im Zweifel stehn.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>So werden sie mit uns zugleich
+auf Erden und im Himmelreich
+hier zeitlich und dort ewiglich
+für solche Gnade preisen dich.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Uriah</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uriah was a mighty man of valor
+He was strong and he was brave and he was true
+He had won so many battles
+He was faithful to the end
+Until the day he met betrayal
+At the hand of a trusted friend</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uriah pressed forward
+Uriah pressed hard
+And he was strong in the battle for the Lord
+But when the enemy was nearest
+And the fighting grew too hot
+The army withdrew and Uriah was lost</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We too are fighting in a fearsome battle
+We must be strong, we must be brave, we must be true
+But after oh so many battles
+When a brother gets a wound
+Do we blame him cause his careless
+Do we leave him all too soon?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The soldier pressed forward
+The soldier pressed hard
+And he was strong in the battle for the Lord
+But when the enemy was nearest
+And the fighting grew too hot
+The army withdrew and the soldier was lost</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There are soldiers all around us who have fallen
+They were strong and they were brave and they were true
+But now because they're weak and wounded
+We turn our hearts to stone
+We watch them drop their weapons
+Exposed and all alone</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh who upon the field of battle leaves a friend alone
+When the enemy is strongest who would dare desert their own?
+Oh who will stand beside their brothers watch and weep and pray
+Who will raise a wounded soldier to fight another day?</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Oh soldier press forward
+Oh soldier press hard
+And be strong in the battle for the Lord
+And when the enemy is nearest
+And the fighting grews too hot
+/: May we fight as one man :/ 3x
+That not one soldier may be lost</lines>
+    </verse>
+  </lyrics>
+</song>

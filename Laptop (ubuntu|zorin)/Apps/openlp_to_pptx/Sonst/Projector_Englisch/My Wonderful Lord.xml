@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Wonderful Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Ashton Gardner</author>
+      <author type="music">Ashton Gardner</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have found a deep peace,
+I never had known,
+And a joy this world could
+not afford,
+Since I yielded control of my
+body and soul
+To my wonderful,
+wonderful Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My wonderful Lord, my
+wonderful Lord;
+By angels and seraphs In
+heaven adored;
+I bow at Thy Shrine, My Saviour
+divine,
+My wonderful, wonderful Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I desire that my life
+shall be ordered by Thee,
+That my will be in perfect accord;
+With Thine own sovereign
+will my desires to fulifil
+My wonderful, wonderful Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All the talents I have,
+I have laid at Thy feet,
+Thy approval shall be my reward;
+Be it too great or small I
+surrender it all,
+To my wonderful, wonderful Lord.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Thou art dearer to me than
+the fairest of earth,
+Thou omnipotent life giving word;
+Oh Thou ancient of days,
+Thou art worthy all praise
+My wonderful, wonderful Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Keep My Heart Loving You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Keep my eyes for only You, God
+Keep my ears on Your Word
+Keep my thought with Your Wisdom
+Keep my heart loving You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Keep my voice praising You, God
+Keep my hands serving You
+Keep my mouth speaks with blessing
+Keep my heart loving You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Keep my heart loving You
+Faithfully, devoted to You
+Keep my heart loving You
+Faithfully, devoted to You.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Keep my feet to walk with You, God
+Keep my joy on Your Works
+Keep my spirit move on worship
+Keep my heart loving You.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Keep my strength serving You, God
+Keep my soul pure and true
+Keep my hope in Your Kingdom
+Keep my heart loving You.</lines>
+    </verse>
+  </lyrics>
+</song>

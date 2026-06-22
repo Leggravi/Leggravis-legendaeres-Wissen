@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Nov 20, 2020, 8:00:04 PM">
+  <properties>
+    <titles>
+      <title>Immer mehr von dir</title>
+    </titles>
+    <verseOrder>V1 V2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Immer mehr von dir, immer mehr!
+Immer mehr sein wie du, immer mehr!
+Immer mehr deine Worte verstehn,
+deine Werke tun,
+o Herr, immer mehr!</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Du bist ein Gott, der seine Kinder Liebt,
+der als ein Vater ihr Verlangen sieht.
+Niemand und nichts kommt dir jemahls gleich, o Herr.
+Du zeigst dich uns als ewig, treuer Freund
+und weißt genau wie unser Herz es meint.
+Gib uns mehr von dir, immer mehr!</lines>
+    </verse>
+  </lyrics>
+</song>

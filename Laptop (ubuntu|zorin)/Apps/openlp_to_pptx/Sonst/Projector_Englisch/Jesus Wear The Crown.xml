@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Wear The Crown</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've been on the mountain
+I've seen the peaks so high,
+Soarin' with the eagles
+Takin' to the sky.
+But, it wasn't long ago
+That I was in the valley low
+When You rescued me,
+You carried me
+So this one thing I know.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm gonna let Jesus wear the crown
+I'm gonna give the glory all around,
+To the one who deserves all the praise.
+You know, I am so easy to forget,
+All the desperate prayers You have met
+I'm gonna give the glory,
+Gonna let Jesus wear the crown.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now I've been in this spotlight
+many times before,
+You've given many talents
+that I am thankful for.
+But, when the praise is given,
+I just give it back to You
+'cause without Your hand,
+Your perfect plan
+I'm nothing without You.</lines>
+    </verse>
+  </lyrics>
+</song>

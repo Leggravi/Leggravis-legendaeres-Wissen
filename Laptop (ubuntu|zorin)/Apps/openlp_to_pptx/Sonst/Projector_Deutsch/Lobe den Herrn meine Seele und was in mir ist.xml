@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lobe den Herrn meine Seele und was in mir ist</title>
+    </titles>
+    <authors>
+      <author type="words">Bodo Hoppe</author>
+      <author type="music">Bodo Hoppe</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lobe den Herrn meine Seele
+und was in mir ist, seinen heiligen Namen!
+Lobe den Herrn meine Seele
+und vergiss nicht was er dir gutes getan!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Der dir alle Deine Sünden vergibt
+und heilt all deine Gebrechen,
+der dein Leben vom verderben erlöst
+und dich krönnt mit Gnade und das Barmherzigkeit,
+der deinen Mund fröhlich macht
+und du wieder jung wirst wie ein Adler!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Greater Than This</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We keep on running
+Losing hope, don't know where to go
+But You've showed us the light
+and We'll keep on going to a place
+We can call our home
+To the one whom we love
+We heard him calling us &quot;His own&quot;,
+We will not forget how good you are,
+When we lost our way back home.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Born in sin,
+But your love is great,
+Greater than this,
+Yes we are guilty,
+Of all ungood things,
+But your love is great,
+Greater than this.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For Jesus (You) took our place
+You died for us,
+Gave us new life, a new life to live. x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In the midst of a chaos
+You were there to strengthen us,
+Surrounded by fear, doubt and worry,
+But you were there to lift us up,
+This never ends us,
+only have shown how great is your love,
+We will not be shaken,
+Until you're comin back.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Born in sin,
+But your love is great,
+Greater than this.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:45">
+  <properties>
+    <titles>
+      <title>Gelobt sei Gott im höchsten Thron</title>
+    </titles>
+    <authors>
+      <author type="words">Michael Weiße (1531)</author>
+      <author type="words">Sigisbert Kraft (1983)</author>
+      <author type="music">Melchior Vulpius</author>
+    </authors>
+    <ccliNo>4931469</ccliNo>
+    <themes>
+      <theme>Ostern</theme>
+      <theme>Auferstehung</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gelobt sei Gott im höchsten Thron
+samt Seinem eingebornen Sohn,
+der für uns hat genug getan.
+Halleluja, Halleluja, Halleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Des Morgens früh am dritten Tag,
+da noch der Stein am Grabe lag,
+erstand er frei ohn alle Klag.
+Halleluja, Halleluja, Halleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Der Engel sprach: "Nun fürcht' euch nicht;
+denn ich weiß wohl, was euch gebricht.
+Ihr sucht Jesus, den find't ihr nicht."
+Halleluja, Halleluja, Halleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>"Er ist erstanden von dem Tod,
+hat überwunden alle Not;
+kommt, seht, wo Er gelegen hat."
+Halleluja, Halleluja, Halleluja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nun bitten wir Dich, Jesu Christ,
+weil Du vom Tod erstanden bist,
+verleihe, was uns selig ist.
+Halleluja, Halleluja, Halleluja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O mache unser Herz bereit,
+damit von Sünden wir befreit
+Dir mögen singen allezeit:
+Halleluja, Halleluja, Halleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

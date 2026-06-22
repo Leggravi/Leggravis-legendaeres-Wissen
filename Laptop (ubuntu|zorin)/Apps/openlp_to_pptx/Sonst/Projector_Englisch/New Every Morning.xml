@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>New Every Morning</title>
+    </titles>
+    <authors>
+      <author type="words">John Keble</author>
+      <author type="music">Samuel Webbe</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Waking up to God's sweet face
+Basking in the grace
+Closing tight memory's door
+Of the stormy night before
+I never thought I'd see the light of day
+But…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His mercies are new every morning
+And joy comes with the dawning
+Birds are singing, freedom's ringing
+It's a brand new day
+'Cause His mercy is new every morning</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Creation sings His reveille
+It's a sunrise symphony
+Refreshing as the morning dew
+His rays of hope come shining through
+Promising forgiveness full and free
+Well…</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The coffee's steaming
+The sunlight's streaming down
+I must be dreaming 'cause yesterday's
+Heartache can't be found</lines>
+    </verse>
+  </lyrics>
+</song>

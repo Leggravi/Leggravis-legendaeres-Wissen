@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 15, 2021, 10:45:17 AM">
+  <properties>
+    <titles>
+      <title>Blessed Assurance</title>
+    </titles>
+    <verseOrder>V1 V2 C3 V4 V5 V6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Blessed assurance, Jesus is mine
+O what a foretaste of glory divine
+Heir of salvation, purchase of God
+Born of His Spirit, washed in His blood</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Perfect submission, all is at rest
+I in my Savior am happy and blessed
+Watching and waiting, looking above
+Filled with His goodness, lost in His love</lines>
+    </verse>
+    <verse name="C3">
+      <lines>This is my story, this is my song
+Praising my Savior all the day long
+This is my story, this is my song
+Praising my Savior all the day long</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Oh what a Savior, wonderful Jesus</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Death could not hold you, you are victorious
+Praise to the risen King</lines>
+    </verse>
+    <verse name="V6">
+      <lines>Oh what a Savior, wonderful Jesus
+Oh what a Savior, wonderful Jesus
+Oh what a Savior, wonderful Jesus
+Oh what a Savior</lines>
+    </verse>
+  </lyrics>
+</song>

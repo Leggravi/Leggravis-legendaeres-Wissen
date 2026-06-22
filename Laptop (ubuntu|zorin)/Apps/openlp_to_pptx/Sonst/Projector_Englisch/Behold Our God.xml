@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Behold Our God</title>
+    </titles>
+    <authors>
+      <author type="words">Gerald Coates</author>
+      <author type="music">Gerald Coates</author>
+      <author type="translation">Blickt auf zum Herrn und seinem Thron</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who has held the oceans in his hands?
+Who has numbered every grain of sand?
+Kings and nations tremble at his voice
+All creation rises to rejoice</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Behold our God, seated on his throne
+Come, let us adore him
+Behold our king, nothing can compare
+Come, let us adore him</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who has given counsel to the Lord?
+Who can question any of his words?
+Who can teach, the one who knows all things?
+Who can fathom all his wondrous deeds?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Who has felt the nails upon his hands?
+Bearing all the guilt of sinful man
+God eternal, humbled to the grave
+Jesus, Savior, risen now to reign</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You will reign forever (let Your glory fill the Earth)
+You will reign forever (let Your glory fill the Earth)
+You will reign forever (let Your glory fill the Earth)
+You will reign forever (let Your glory fill the Earth)</lines>
+    </verse>
+  </lyrics>
+</song>

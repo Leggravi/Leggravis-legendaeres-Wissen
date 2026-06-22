@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 19, 2020, 9:55:25 PM">
+  <properties>
+    <titles>
+      <title>Herr, öffne du mir die Augen</title>
+    </titles>
+    <verseOrder>V1 V2 V3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Herr, öffne du mir die Augen.
+Herr, öffne du mir das Herz.
+Ich will dich sehen!
+Ich will dich sehen!</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Ich will dich seh’n in deiner Pracht,
+leuchtend, erhoben und herrlich.
+Gieß aus seiner Liebe und Macht
+wir singen</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Heilig, heilig, heilig,
+heilig, heilig, heilig,
+heilig, heilig, heilig,
+ich will dich sehen.</lines>
+    </verse>
+  </lyrics>
+</song>

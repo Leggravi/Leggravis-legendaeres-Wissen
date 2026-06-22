@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Help me Lord To Be Like You</title>
+    </titles>
+    <authors>
+      <author type="words">Kees Kraayenoord</author>
+      <author type="music">Kees Kraayenoord</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I want to live, Lord
+the way You want me to live
+I want to give
+the way You want me to give
+I want to love, Lord
+the way You want me to love
+Help me, Lord, to be like You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know that I am the salt of this earth
+And I know that I am the light of this world
+But Lord, I really need Your quickening power
+To help me to be like You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus said,
+&quot; Let your light so shine before men,
+that they may see your good works,
+and glorify your Father which is in heaven.&quot;
+But Lord, I really need Your quickening power
+To help me to be like You</lines>
+    </verse>
+  </lyrics>
+</song>

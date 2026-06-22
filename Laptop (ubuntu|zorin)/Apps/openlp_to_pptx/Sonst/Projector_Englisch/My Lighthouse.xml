@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Lighthouse</title>
+    </titles>
+    <authors>
+      <author type="words">Rend Collective</author>
+      <author type="music">Rend Collective</author>
+      <author type="translation">Leuchtturm (Wenn ich zweifle und kämpf mit mir)</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In my wrestling and in my doubts
+In my failures You won't walk out
+Your great love will lead me through
+You are the peace in my troubled sea
+You are the peace in my troubled sea</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the silence, You won't let go
+In the questions, Your truth will hold
+Your great love will lead me through
+You are the peace in my troubled sea
+You are the peace in my troubled sea</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My lighthouse, my lighthouse
+Shining in the darkness. I will follow You
+My lighthouse, my lighthouse
+I will trust the promise.
+You will carry me safe to shore
+Safe to shore, Safe to shore
+Safe to shore</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I won't fear what tomorrow brings
+With each morning I'll rise and sing
+My God's love will lead me through
+You are the peace in my troubled sea
+You are the peace in my troubled sea</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/: Fire before us. You're the brightest
+You will lead us through the storms :/ 4x</lines>
+    </verse>
+  </lyrics>
+</song>

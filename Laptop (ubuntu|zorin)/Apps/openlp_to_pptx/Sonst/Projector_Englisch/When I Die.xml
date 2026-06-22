@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When I Die</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I die, gonna live again!
+Singing glory, hallelujah.
+Sanctified, holy
+On my way to glory,
+When I die, gonna live again.</lines>
+    </verse>
+  </lyrics>
+</song>

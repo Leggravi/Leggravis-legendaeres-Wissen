@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When I Wear My Robe and Crown</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will tell a story on my way to glory
+Where I'll lay these burdens down
+Jesus there is waiting
+And friends are congregating
+To help me with my robe and crown</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'll lay these burdens down
+At the blessed Savior (Savior's feet)
+He'll say let's look around
+There's so many sights to see
+You've fought the fight and kept the faith
+Come on in and settle down
+Now the battle's ending
+A new life is beginning
+You have won your robe and crown.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There will be no sorrow
+Only bright tomorrow
+In heaven where I'll settle down
+Joy bells will be ringing
+And all the angels singing
+When I receive my robe and crown.</lines>
+    </verse>
+  </lyrics>
+</song>

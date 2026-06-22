@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Praise (EW ~ Choir Version) </title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise the Lord
+Oh, my soul!
+Praise the Lord
+Oh, my soul!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let everything
+That has breath
+Praise the Lord,
+Praise the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As long as I'm breathing,
+I will be singing,
+I've got a reason to praise!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'll praise 'cause You're sovereign,
+Praise 'cause You reign,
+Praise 'cause You rose
+and defeated the grave.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I'll praise 'cause You're faithful,
+Praise 'cause You're true,
+Praise 'cause there's nobody
+greater than You.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Praise the Lord
+Oh, my soul!
+Praise the Lord
+Oh, my soul!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Let everything
+That has breath
+Praise the Lord,
+Praise the Lord.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>I've got a reason
+To praise the Lord!</lines>
+    </verse>
+  </lyrics>
+</song>

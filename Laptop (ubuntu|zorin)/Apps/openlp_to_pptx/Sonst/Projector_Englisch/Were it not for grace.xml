@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Were it not for grace</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Time measured out my days
+Life carried me along
+In my soul I learned to follow God
+But knew I'd never be so strong
+I looked hard at this world
+To learn how heaven could be gained
+Just to end where I began
+Where human effort is all in vain</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We're it not for grace
+I can tell you where I'd be
+Wandering down some pointless road to nowhere
+With my salvation up to me
+I know how that would go
+The battles I would face
+Forever running but losing the race
+Were it not for grace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So here is all my praise
+Expressed with all my heart
+Offered to the friend who took my place
+And ran a course, I couldn't even start
+And when He saw in full
+Just how much His love would cost
+He still went the final mile between me and heaven
+So I would not be lost</lines>
+    </verse>
+  </lyrics>
+</song>

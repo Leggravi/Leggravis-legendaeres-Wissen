@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Till the Storm Passes By</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Out on the water, storms raging high
+The waters around them, were troubled that night
+Fear filled their hearts and they thought they would die
+They failed to remember that the Master was nigh</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He spoke the word, and the winds all stood s'til
+Even the waters, they obeyed his will
+And He calmed the storms, just like He will mine
+If I'll just remember, that He lives deep inside</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So why should I worry, and why should I fear?
+The very same Jesus, He stays always near
+He lives in my heart and He hears when I cry
+I'll call on His name, 'til the storm passes by</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We read in the bible, how He walked with them
+Brought light to the darkness when the way grew so dim
+How great it would be to have His steps leading mine
+And to walk with the Master, all of the time</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So when trials come, and death is so nigh
+I just searched for the Master, He said He'll be there on time
+Oh, and when I'm in trouble, and my body is in pain
+All I have to do is call on His name</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And why should I worry, and why should I fear?
+When the very same Jesus, He stays always near
+He lives in my heart and He hears when I cry
+I'll call on His name, 'til the storm passes by</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Oh, and why should I worry, oh why should I fear?
+When the very same Jesus, He stays always near
+He lives in my heart and He hears when I cry
+I'll call on His name, 'til the storm passes by</lines>
+    </verse>
+    <verse name="v8">
+      <lines>I'll call on His name
+'Til the storm passes by
+'Til the storm passes by</lines>
+    </verse>
+  </lyrics>
+</song>

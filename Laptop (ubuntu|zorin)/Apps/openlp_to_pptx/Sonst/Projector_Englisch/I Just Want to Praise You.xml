@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Just Want to Praise You</title>
+    </titles>
+    <authors>
+      <author type="words">Arthur Tannous</author>
+      <author type="music">Arthur Tannous</author>
+      <author type="translation">Ich will dich nur preisen</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I just want to praise You
+I lift my hands and say
+I love You
+You are everything to me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I exalt Your Holy Name
+I exalt Your Holy Name
+I exalt Your Holy Name on high</lines>
+    </verse>
+  </lyrics>
+</song>

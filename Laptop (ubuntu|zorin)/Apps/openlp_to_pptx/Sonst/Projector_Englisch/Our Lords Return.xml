@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Our Lord’s Return</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am watching for the coming of the glad millennial day,
+When our blessed Lord shall come and catch His waiting Bride away;
+Oh! My heart is filled with rapture as I labor, watch and pray,
+For our Lord is coming back to earth again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh! Our Lord is coming back to earth again,
+Yes, our Lord is coming back to earth again,
+Satan will be bound a thousand years, we’ll have no tempter then,
+After Jesus shall come back to earth again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus’ coming back will be the answer to earth’s sorr’wing cry,
+For the knowledge of the Lord shall fill the earth and sea and sky;
+God shall take away all sickness and the suff’rer’s tears will dry,
+When our Saviour shall come back to earth again.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yes, the ransomed of the Lord shall come to Zion then with joy,
+And in all His holy mountain nothing hurts or shall destroy;
+Perfect peace shall reign in every heart, and love without alloy,
+After Jesus shall come back to earth again.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Then the sin and sorrow, pain and death of this dark world shall cease,
+In a glorious reign with Jesus of a thousand years of peace;
+All the earth is groaning, crying for that day of sweet release,
+For our Jesus to come back to earth again.</lines>
+    </verse>
+  </lyrics>
+</song>

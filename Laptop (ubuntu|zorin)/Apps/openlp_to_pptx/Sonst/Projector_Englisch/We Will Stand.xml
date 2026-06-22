@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Will Stand</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Word of the hour that leads to understand
+Why I can feel a deep connection between you and me
+Even though we used to walk diff'rent roads
+But the cross provided bridge between
+Our brothers and ourselves</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yes I, I don't care what label you may wear
+If you believe the Message you belong with me
+The bond we share is all I care to see
+And we can change this world forever
+if you will join with me
+Join and sing</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You're my brother, you're my sister
+So take me by the hand
+Together we will work until He comes
+There's no foe that can defeat us
+When we're walking side by side
+As long as there is love
+We will stand</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The day has come we should walk as one
+And with a mighty voice together
+We will proclaim that Jesus,
+Jesus is King
+And it will echo through the earth
+It will shake the nations
+And the world</lines>
+    </verse>
+  </lyrics>
+</song>

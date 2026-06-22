@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, mach uns stark im Mut, der dich bekennt</title>
+    </titles>
+    <authors>
+      <author type="words">Anna Martina Gottschick</author>
+      <author type="music">Ralph Vaughan Williams</author>
+      <author type="translation">For all the saints (Sine Nomine)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, mach uns stark im Mut, der dich bekennt,
+dass unser Licht vor allen Menschen brennt!
+Lass uns dich schaun im ewigen Advent!
+Halleluja, Halleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tief liegt des Todes Schatten auf der Welt.
+Aber dein Glanz die Finsternis erhellt.
+Dein Lebenshauch bewegt das Totenfeld.
+Halleluja, Halleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Welch ein Geheimnis wird an uns geschehn!
+Leid und Geschrei und Schmerz muss dann vergehn,
+wenn wir von Angesicht dich werden sehn.
+Halleluja, Halleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Aber noch tragen wir der Erde Kleid.
+Uns hält gefangen Irrtum, Schuld und Leid;
+doch deine Treue hat uns schon befreit.
+Halleluja, Halleluja!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So mach uns stark im Mut, der dich bekennt,
+dass unser Licht vor allen Menschen brennt!
+Lass uns dich schaun im ewigen Advent!
+Halleluja, Halleluja!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mit allen Heilgen beten wir dich an.
+Sie gingen auf dem Glaubensweg voran
+und ruhn in dir, der unsern Sieg gewann!
+Halleluja, Halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

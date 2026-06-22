@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich bin zu Dir gekommen</title>
+    </titles>
+    <authors>
+      <author type="words">Julius Köbner</author>
+      <author type="music">Johann Thommen</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich bin zu Dir gekommen
+durch meinen heiligen Geist
+und habe Wohnung mir gemacht.
+Ich kenn' genau dein Leben,
+die Zukunft und das Jetzt
+und weiß auch, was dein Herz nicht ruhen lässt.
+G'rad du, sollst erfahren meine Herrlichkeit,
+denn meine Hilfe kommt zur rechten Zeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: Weil ich lebe, sollst du leben.
+Meine Fülle will ich geben.
+Jeder Tag wird zum Wunder mit mir. :/</lines>
+    </verse>
+  </lyrics>
+</song>

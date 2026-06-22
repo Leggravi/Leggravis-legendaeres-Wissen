@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Say Amen</title>
+    </titles>
+    <authors>
+      <author type="words">Niko Schlenker</author>
+      <author type="music">Niko Schlenker</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v2 v3 v4 v6 v2 v3 v4 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We're all on a journey, and we're called to walk by faith
+They'll always be the mountains and valleys in our way
+But right here in this moment may our strength be renewed
+As we recall what God has done and how we've seen him move</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If there's anybody here who's found him faithful
+Anybody here who knows he's able
+Say, &quot;Amen&quot;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If there's anybody here who's seen his power
+Anybody here brought through the fire
+Say, &quot;Amen&quot;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Anybody here found joy in the midst of sorrow
+Peace in the storm, hope for tomorrow
+And you've seen it time and time again
+Just say, &quot;Amen&quot;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sometimes through the darkness it gets hard to see
+But, be bold and courageous, and follow where he leads
+Greater is the one who's in us than he who's in the world
+So child of God, remember the battle is the Lord's</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Just stand and testify of the greatness of God in our lives</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Just say, &quot;Amen&quot;
+Just say, &quot;Amen&quot;, ooh
+Just say, &quot;Amen&quot; (just say, &quot;Amen&quot;, just say &quot;Amen&quot;)</lines>
+    </verse>
+  </lyrics>
+</song>

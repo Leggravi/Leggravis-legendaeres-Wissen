@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 3, 2018, 6:59:48 PM">
+  <properties>
+    <titles>
+      <title>Ich brauch dich allezeit</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Ich brauch dich allezeit, du gnadenreicher Herr,
+dein Name ist mein Hort, dein Blut mein Freudenmeer.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Ich brauch dich, o ich brauch dich, Jesu, ja, ich brauch dich,
+ich muss dich immer haben, Herr, segne mich!</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Ich brauch dich allezeit, o Jesu, steh mir bei,
+dass ich bis in den Tod dir bleibe stets getreu!</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Ich brauch dich allezeit, in Freude wie im Leid;
+du bist mein Sonn und Schild jetzt und in Ewigkeit.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Ich brauch dich allezeit, führ mich nur, wie du willst;
+ich harre auf dein Wort, bis du es ganz erfüllst.</lines>
+    </verse>
+    <verse name="V6">
+      <lines>Ich brauch dich allezeit, Herr Jesu, Gottes Sohn;
+mit dir ererb ich einst des ewgen Lebens Kron.</lines>
+    </verse>
+  </lyrics>
+</song>

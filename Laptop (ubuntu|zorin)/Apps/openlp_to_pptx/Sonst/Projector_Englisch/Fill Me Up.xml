@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Fill Me Up</title>
+    </titles>
+    <authors>
+      <author type="words">Will Reagan</author>
+      <author type="music">Will Reagan</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You provide the fire
+I'll provide the sacrifice
+You provide the spirit
+And I will open up inside
+You provide the fire
+I'll provide the sacrifice
+You provide the spirit
+I will open up inside</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fill me up God
+Fill me up God
+Fill me up God
+Fill me up</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We need more of you, yeah
+You provide the fire (come one, you say it, I'll provide the sacrifice)
+I'll provide the sacrifice (you gotta tell him, say, &quot;You provide the spirit&quot;)
+You provide the spirit (I will, I will)
+I will open up inside (you gotta tell him, &quot;You provide the fire&quot;)
+You provide the fire (I will be the sacrifice)
+I'll provide the sacrifice (somebody tell him, &quot;You provide the spirit&quot;)
+You provide the spirit (I really need your flesh, Lord, tonight)
+I will open up inside</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I've been running on empty
+I need you to feel me again</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We cry out for more
+We cry out for more
+More of your spirit is what we need, more of your annointing, more of your glory, fill me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Fill me up God (fill me up God)
+Fill me up God (fill me up God)
+Fill me (that's what I really want)</lines>
+    </verse>
+  </lyrics>
+</song>

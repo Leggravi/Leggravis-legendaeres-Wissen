@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Special Mountain</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I long to see Jesus,
+Just a glimpse of Him cannot satisfy.
+I just want to love Him,
+Till all the fears in me completely subside.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For there's just something special about that mountain,
+Though many valleys to cross,
+He's more than worth the pain,
+There's just something special about that mountain,
+I'm just ready to fight
+One more time again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I long for deeper fellowship
+With the One who has chosen me to bear His name.
+I just want to be faithful,
+Just to love and serve Him again and again.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I long for the fullness of Eternal Life
+To share a glory that will never fade away;
+And I long for my precious new body
+Where no sickness or pain would ever be again.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I long for full dominion,
+It's my inheritance, a son of God I am;
+I long to go back to Eden,
+It's my future home where I'll always be.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>For there's just something special about that mountain,
+Though many valleys to cross
+He's more than worth the pain.
+There's just something special about that mountain,
+I'm just ready to fight.
+One more time again.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>… Give me courage Lord,
+… More of Your strength Lord,
+… I'm more than able Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

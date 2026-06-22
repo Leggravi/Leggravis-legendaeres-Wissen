@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nearer, My God, To Thee</title>
+    </titles>
+    <authors>
+      <author type="words">Sarah Adams Flower</author>
+      <author type="music">Arthur Seymour Sullivan</author>
+      <author type="translation">Näher, mein Gott, zu dir</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nearer, my God, to Thee, nearer to Thee!
+E'en though it be a cross, that raiseth me!
+Still all my song shall be,
+Nearer, my God to Thee!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nearer, my God to Thee
+Nearer to Thee!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though like the wanderer, the sun gone down
+Darkness be over me, my rest a stone
+Yet in my dreams I'd be,
+Nearer, my God to Thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then, with my waking thoughts,
+bright with Thy praise
+Out of my stony grief, Bethel I'll raise
+So by my woes to be,
+Nearer my God, to Thee.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Or if on joyful wing, cleaving the sky
+Sun, moon and stars forgot, upward I fly
+Still all my song shall be,
+Nearer my God, to Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

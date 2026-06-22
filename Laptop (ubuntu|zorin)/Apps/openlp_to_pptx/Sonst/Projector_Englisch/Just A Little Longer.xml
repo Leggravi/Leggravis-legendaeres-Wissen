@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Just A Little Longer</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Just a little longer,
+And the trumpet of God shall sound.
+Just a little longer,
+And we'll be glory bound,
+Look away to heaven
+Your redemption draweth nigh.
+Just a little longer,
+And we'll meet Him in the sky.</lines>
+    </verse>
+  </lyrics>
+</song>

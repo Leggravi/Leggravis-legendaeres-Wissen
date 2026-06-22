@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jun 10, 2023, 5:27:09 PM">
+  <properties>
+    <titles>
+      <title>Fill My Way with Love</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Let me walk, blessed Lord,
+in the way Thou hast gone,
+Leading straight to the land above;
+Giving cheer everywhere,
+to the sad and the lone,
+Fill my way every day with love.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Fill my way every day with love,
+As I walk with the heavenly Dove;
+Let me go all the while,
+with a song and a smile,
+Fill my way every day with love.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Keep me close to the side of
+my Saviour and Guide,
+Let me never in darkness rove;
+Keep my path free from wrath,
+and my soul satisfied,
+Fill my way every day with love.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Soon the race will be o'er,
+and I'll travel no more,
+But abide in my home above;
+Let me sing, blessed King,
+all the way to the shore,
+Fill my way every day with love.</lines>
+    </verse>
+  </lyrics>
+</song>

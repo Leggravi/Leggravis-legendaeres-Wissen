@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In the Name of Jesus (2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the Name of Jesus,
+In the Name of Jesus,
+We have the victory,
+In the Name of Jesus,
+In the Name of Jesus,
+Demons will have to flee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When we come in the Name of Jesus,
+Tell me who can stand before,
+In the precious Name of Jesus,
+We have the victory.</lines>
+    </verse>
+  </lyrics>
+</song>

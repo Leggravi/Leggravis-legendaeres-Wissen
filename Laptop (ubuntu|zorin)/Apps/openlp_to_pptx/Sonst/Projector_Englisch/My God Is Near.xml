@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My God Is Near</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Make me know Your presence Lord, the King of glory here
+You know each thought and action, hope, anxiety and fear
+How can I hide from Thee? Can darkness hide iniquity
+Oh, how can I unfaithful be, when You are very near to me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When God is near, all the world seems far away
+When God is near, every fear is set aside
+When God is near, how can I stray, how can I falter
+I'll stay upon the altar, I know my God is near</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Make me know Your presence Lord, when I feel so alone
+You know each trial and testing pain, the hurt that is unknown
+Oh, why can I not see, Your hand so firmly guiding me?
+Oh, how can I untrusting be, when You are very near to me?</lines>
+    </verse>
+  </lyrics>
+</song>

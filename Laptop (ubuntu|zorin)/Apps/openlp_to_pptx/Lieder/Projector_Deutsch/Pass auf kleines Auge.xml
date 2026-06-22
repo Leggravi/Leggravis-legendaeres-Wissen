@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Pass auf kleines Auge</title>
+    </titles>
+    <authors>
+      <author type="words">Anton Schulte</author>
+      <author type="music">England</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pass auf, kleines Auge, was du siehst!
+Pass auf, kleines Auge, was du siehst!
+Denn der Vater im Himmel
+schaut herab auf dich,
+drum pass auf, kleines Auge, was du siehst!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pass auf, kleines Ohr, was du hörst!
+Pass auf, kleines Ohr, was du hörst!
+Denn der Vater im Himmel
+schaut herab auf dich,
+drum pass auf, kleines Ohr, was du hörst!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pass auf, kleiner Mund, was du sprichst!
+Pass auf, kleiner Mund, was du sprichst!
+Denn der Vater im Himmel
+schaut herab auf dich,
+drum pass auf, kleiner Mund, was du sprichst!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pass auf, kleine Hand, was du tust!
+Pass auf, kleine Hand, was du tust!
+Denn der Vater im Himmel
+schaut herab auf dich,
+drum pass auf, kleine Hand, was du tust!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pass auf, kleiner Fuß, wo du gehst!
+Pass auf, kleiner Fuß, wo du gehst!
+Denn der Vater im Himmel
+schaut herab auf dich,
+drum pass auf, kleiner Fuß, wo du gehst!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Pass auf, kleines Herz, was du glaubst!
+Pass auf, kleines Herz, was du glaubst!
+Denn der Vater im Himmel
+schaut herab auf dich,
+drum pass auf, kleines Herz, was du glaubst!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Pass auf, kleines Ich, werd nicht groß!
+Pass auf, kleines Ich, werd nicht groß!
+Denn der Vater im Himmel
+schaut herab auf dich,
+drum pass auf, kleines Ich, werd nicht groß!</lines>
+    </verse>
+  </lyrics>
+</song>

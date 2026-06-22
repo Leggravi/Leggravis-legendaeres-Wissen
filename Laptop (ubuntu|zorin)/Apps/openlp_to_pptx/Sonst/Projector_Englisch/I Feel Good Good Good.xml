@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Feel Good, Good, Good</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I feel good, good, good
+I feel good about His wonderful grace
+Anytime they talk with Jesus
+I feel good, good, good</lines>
+    </verse>
+  </lyrics>
+</song>

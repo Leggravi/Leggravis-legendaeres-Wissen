@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich gehe heim!</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Peter Lackner</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich gehe heim!
+Bin Fremdling nur hienieden,
+Ich find' nicht Heimat hier, noch find' ich Frieden.
+In dieser Welt kann nichts mein Herz erfreun'.
+Ich gehe heim!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich gehe heim!
+Von Jesu stets begleitet -
+Auf mühevollem Pfad Er sanft mich leitet,
+Bis ich verklärt in heil'ger Schar Ihn preis.
+Ich gehe heim!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich gehe heim!
+Ermüdend ist die Wüste,
+Doch land' ich bald an jener Himmelsküste,
+Wo Jesus wohnt, wo meine Heimat ist.
+Ich gehe heim!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich gehe heim!
+Bald ist der Preis erstritten.
+Getrost, getrost! die Wüst' ist bald durchschritten.
+Das Heimweh wächst, und der Geliebte naht.
+Ich gehe heim!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ich gehe heim!
+Wie süß sind diese Klänge!
+O sel'ge Heimat, wo der Brüder Menge
+Ich find' und nimmer wieder scheiden seh'!
+Ich gehe heim!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ich gehe heim!
+Dort in der Heil'gen Mitte
+Seh' ich das Lamm, und folgend Seinem Tritte,
+Verkünd' ich laut, was Er an mir getan.
+Ich gehe heim!</lines>
+    </verse>
+  </lyrics>
+</song>

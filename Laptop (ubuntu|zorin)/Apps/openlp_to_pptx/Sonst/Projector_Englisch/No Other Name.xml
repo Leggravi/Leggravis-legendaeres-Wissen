@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>No Other Name</title>
+    </titles>
+    <authors>
+      <author type="words">Robert Gay</author>
+      <author type="music">Robert Gay</author>
+      <author type="translation">Kein andrer Name als der Name Jesus</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v5 v6 v9 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One name
+Holds weight above them all
+His fame
+Outlasts the Earth He formed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His praise
+Resounds beyond the stars
+And echoes in our hearts
+The greatest One of all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His face
+Shines brighter than the sun
+His grace
+As boundless as His love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He reigns
+With healing in His wings
+The King above all kings
+The greatest One of all</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lift up our eyes
+See the King has come
+Light of the world
+Reaching out for us
+There is no other name
+There is no other name
+Jesus Christ our God, oh oh oh</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Seated on high
+The undefeated One
+Mountains bow down
+As we lift Him up
+There is no other name
+There is no other name
+Jesus Christ our God, whoa oh oh oh</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Find hope
+When all the world seems lost
+Behold
+The triumph of the cross</lines>
+    </verse>
+    <verse name="v8">
+      <lines>His power
+Has trampled death and grave
+Our life found in His name
+The greatest name of all</lines>
+    </verse>
+    <verse name="v9">
+      <lines>The Earth will shake
+And tremble before Him
+Chains will break
+As Heaven and Earth sing
+Holy is the name
+Holy is the name of
+Jesus, Jesus, Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

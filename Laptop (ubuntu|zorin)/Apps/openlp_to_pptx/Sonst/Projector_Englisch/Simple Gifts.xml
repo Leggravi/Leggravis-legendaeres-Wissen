@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Simple Gifts</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Simple gifts we bring before the table of God,
+Simple gifts we offer as a present to God,
+They’re a sign of our lives,
+Which now we give to you, Oh, Lord,
+Please concentrate and make them good.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Simple gifts we bring before the table of God,
+Bread that speaks of hunger,
+Wine that tells of our thirst,
+Just a sign that we want to sacrifice,
+Some food and drink,
+To let the starving feel your love.</lines>
+    </verse>
+  </lyrics>
+</song>

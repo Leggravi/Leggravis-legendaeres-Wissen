@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:23">
+  <properties>
+    <titles>
+      <title>Meinen Jesus lass ich nicht</title>
+    </titles>
+    <authors>
+      <author type="words">Christian Keimann (1658)</author>
+      <author type="music">Johann Ulich</author>
+    </authors>
+    <ccliNo>4344362</ccliNo>
+    <themes>
+      <theme>Hingabe</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meinen Jesum lass ich nicht;
+weil er sich für mich gegeben,
+so erfordert meine Pflicht,
+unverrückt für ihn zu leben.
+Er ist meines Lebens Licht:
+Meinen Jesum lass ich nicht</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesum lass ich nimmer nicht,
+weil ich soll auf Erden leben;
+ihm hab ich voll Zuversicht,
+was ich bin und hab, ergeben.
+Alles ist auf ihn gericht':
+Meinen Jesum lass ich nicht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lass vergehen das Gesicht,
+Hören, Schmecken, Fühlen weichen;
+lass das letzte Tageslicht
+mich auf dieser Welt erreichen;
+wenn der Lebensfaden bricht:
+Meinen Jesum lass ich nicht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich werd ihn auch lassen nicht,
+wenn ich nun dahin gelanget,
+wo vor seinem Angesicht
+meiner Väter Glaube pranget.
+Mich erfreut sein Angesicht:
+Meinen Jesum lass ich nicht.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nicht nach Welt, nach Himmel nicht
+meine Seel sich wünscht und sehnet;
+Jesum wünscht sie und sein Licht,
+der mich hat mit Gott versöhnet,
+mich befreiet vom Gericht:
+Meinen Jesum lass ich nicht.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesum lass ich nicht von mir,
+geh ihm ewig an der Seiten;
+Christus wird mich für und für
+zu der Lebensquelle leiten.
+Selig, wer mit mir so spricht:
+Meinen Jesum lass ich nicht.</lines>
+    </verse>
+  </lyrics>
+</song>

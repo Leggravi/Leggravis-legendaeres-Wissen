@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:56">
+  <properties>
+    <titles>
+      <title>Kommt her, ihr seid geladen</title>
+    </titles>
+    <authors>
+      <author type="words">Ernst Moritz Arndt (1819)</author>
+      <author type="music">Zieh ein zu deinen Toren</author>
+    </authors>
+    <ccliNo>5213124</ccliNo>
+    <themes>
+      <theme>Abendmahl</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kommt her, ihr seid geladen,
+der Heiland rufet euch;
+der süße Herr der Gnaden,
+an Huld und Liebe reich,
+der Erd und Himmel lenkt,
+will Gastmahl mit euch halten
+und wunderbar gestalten,
+was er in Liebe schenkt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kommt her, verzagte Sünder,
+und werft die Ängste weg,
+kommt her, versöhnte Kinder,
+hier ist der Liebesweg.
+Empfangt die Himmelslust,
+die heilge Gottesspeise,
+die auf verborgne Weise
+erquicket jede Brust.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kommt her, betrübte Seelen,
+die Not und Jammer drückt,
+mit Gott euch zu vermählen,
+der wunderbar beglückt.
+Kommt, legt auf ewig ab
+der Sünde bange Säumnis;
+empfanget das Geheimnis,
+das Gott vom Himmel gab.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Wonne kranker Herzen,
+die mir von oben kam!
+Verwunden sind die Schmerzen,
+getröstet ist der Gram.
+Was von dem Himmel fließt,
+hat lieblich sich ergossen;
+mein Herz ist gar durchflossen
+vom süßen Liebesgeist.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Drum jauchze, meine Seele,
+hell aus der Sündennacht!
+Verkünde und erzähle
+die tiefe Wundermacht,
+die unermesslich süß,
+ein Born der Liebe, quillet
+und jeden Jammer stillet,
+der fast verzweifeln ließ.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Drum jauchze, meine Seele,
+drum jauchze deinem Herrn!
+Verkünde und erzähle
+die Gnade nah und fern,
+den Wunderborn im Blut,
+die sel'ge Himmelsspeise,
+die auf verborgne Weise
+dir gibt das höchste Gut.</lines>
+    </verse>
+  </lyrics>
+</song>

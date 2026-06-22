@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Stand and Believe</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You’ve got to stand and believe
+For the things you’ve been
+praying
+Stand and believe
+No matter what the world is
+saying
+You can have what you ask
+If you ask Him believing
+You will surely receive,
+When you stand and believe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If there is a mountain
+standing in your way,
+You can remove it if you know
+just what to say
+He gave you power,
+you can live above this world
+If you stand upon the word,
+and believe just what He says.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If you need healing for your body
+or your soul
+Just call on Jesus He will surely
+make you whole
+Don’t trust your feelings,
+you got to stand upon the Word
+And speak of all those things
+that are not as though they are.</lines>
+    </verse>
+  </lyrics>
+</song>

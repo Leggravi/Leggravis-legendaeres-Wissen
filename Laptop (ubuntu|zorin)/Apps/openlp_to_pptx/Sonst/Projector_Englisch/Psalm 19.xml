@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Psalm 19</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The law of the Lord is perfect,
+Converting the soul:
+The testimony of the Lord is sure,
+Making wise the simple.
+More to be desired are they than gold,
+Yea, than much fine gold:
+Sweeter also than honey
+  and the honeycomb.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The statutes of the Lord are right,
+Rejoicing the heart:
+The commandment of the Lord is pure,
+Enlightening the eyes.
+More to be desired are they than gold,
+Yea, than much fine gold:
+Sweeter also than honey
+  and the honeycomb.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The fear of the Lord is clean,
+Enduring for ever:
+The judgments of the Lord are true
+And righteous altogether.
+And in the keeping of them
+There is great reward,
+There is great reward.
+In the keeping of them
+There is great reward.</lines>
+    </verse>
+  </lyrics>
+</song>

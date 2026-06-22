@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Old Church Choir</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's revival, and it's spreading
+Like a wildfire in my heart
+A Sunday morning, hallelujah
+And it's lasting all week long
+Can you hear it?
+Can you feel it?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's the rhythm of a gospel song
+Oh, once you choose it, you can lose it
+There ain't nothing there ain't nothing gonna steal my joy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I got an Old Church Choir singing in my soul
+I've got a sweet salvation and it's beautiful
+I've got a heart overflowing 'cause I've been restored
+There ain't nothing gonna steal my joy
+No, there ain't nothing gonna steal my joy</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When the valleys, that I wander
+Turn to mountains that I can't climb
+Oh, You are with me, never leave me
+Oh, 'cause there ain't nothing
+There ain't nothing gonna steal my joy</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Clap your hands and stomp your feet
+Till you find that gospel beat
+'Cause it's all you'll ever need
+All you'll ever need
+Clap your hands and stomp your feet
+Till you find that gospel beat
+'Cause it's all you'll ever need
+All you'll ever need</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I've got an old church choir, singing in my soul
+I got a sweet salvation, and it's beautiful</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I've got an Old Church Choir singing in my soul
+I've got a sweet salvation and it's beautiful
+I've got a heart overflowing 'cause I've been restored
+There ain't nothing gonna steal my joy
+No there ain't nothing gonna steal my joy
+Oh, there ain't nothing gonna steal my joy</lines>
+    </verse>
+  </lyrics>
+</song>

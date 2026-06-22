@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:46">
+  <properties>
+    <titles>
+      <title>Es muss uns doch gelingen</title>
+    </titles>
+    <authors>
+      <author type="words">Friedrich Weyermüller (1869)</author>
+      <author type="music">Johann Hermann Schein</author>
+    </authors>
+    <ccliNo>6222970</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es muss uns doch gelingen,
+denn Gott ist unser Schutz,
+drum lasst uns fröhlich singen,
+dem bösen Feind zum Trutz.
+Er muss doch unterliegen
+mit aller Macht und List;
+der Stärkre hilft uns siegen,
+er heißet Jesus Christ.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Das Feld muss er behalten,
+der ewge starke Gott.
+Er wird allmächtig walten,
+die Hölle wird zum Spott.
+Umsonst ist ihr Tücke,
+vergeblich ihre Wut;
+in einem Augenblicke
+entfällt ihr stolzer Mut.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Das Reich muss uns doch bleiben,
+hier ist Immanuel:
+Er wehrt dem wilden Treiben,
+er macht das Dunkel hell.
+Wer will ihm widerstehen?
+Mit Allmacht angetan,
+geht er auf lichte Höhen
+die majestät'sche Bahn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wir glauben seinem Worte,
+wir baun auf seine Treu.
+Er macht an jedem Orte
+sein armes Häuflein frei;
+er führt's auf rechter Straßen
+zu seines Namens Ruhm;
+er kann uns nicht verlassen,
+wir sind sein Eigentum.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Drum auf und singe fröhlich,
+wer immer singen kann!
+Die Taten sind unzählig,
+die er an uns getan;
+und wie in alten Zeiten,
+so tut er immerdar.
+Der Herr wird für uns streiten,
+das ist gewisslich wahr.</lines>
+    </verse>
+  </lyrics>
+</song>

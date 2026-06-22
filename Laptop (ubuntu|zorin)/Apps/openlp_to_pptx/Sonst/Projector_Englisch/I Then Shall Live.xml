@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Then Shall Live</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I then shall live as one who's been forgiven.
+I'll walk with joy to know my debts are paid.
+I know my name is clear before my Father;
+I am His child and I am not afraid.
+So, greatly pardoned, I'll forgive my brother;
+The law of love I gladly will obey.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I then shall live as one who's learnt compassion.
+I've been so loved, that I'll risk loving too.
+I know how fear builds walls instead of bridges;
+I'll dare to see another's point of view.
+And when relationships demand commitment,
+Then I'll be there to care and follow through.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your Kingdom come around and through and in me;
+Your power and glory let them shine through me.
+Your Hallowed Name, O may I bear with honor,
+And may Your living Kingdom come in me.
+The Bread of Life, O may I share with honor,
+And may You feed a hungry world through me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Amen, Amen, Amen</lines>
+    </verse>
+  </lyrics>
+</song>

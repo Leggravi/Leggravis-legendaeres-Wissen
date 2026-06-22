@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:58">
+  <properties>
+    <titles>
+      <title>Bleibe bei uns, denn es will Abend werden</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="words">Louise Reichardt (1810)</author>
+      <author type="music">Louise Reichardt</author>
+    </authors>
+    <themes>
+      <theme>Abendlieder</theme>
+      <theme>Schlaflieder</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bleibe bei uns, denn es will Abend werden,
+der Tag hat sich geneiget,
+der Tag hat sich geneiget:
+Bleibe bei uns, bleibe bei uns!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Still nun die Welt,
+verrauscht ihr Tun und Treiben.
+Mit deinem heil'gen Frieden,
+mit deinem heil'gen Frieden,
+bleibe bei uns, bleibe bei uns!</lines>
+    </verse>
+  </lyrics>
+</song>

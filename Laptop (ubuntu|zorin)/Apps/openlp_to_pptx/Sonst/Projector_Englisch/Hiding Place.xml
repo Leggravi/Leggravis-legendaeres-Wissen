@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hiding Place</title>
+    </titles>
+    <authors>
+      <author type="words">Don Moen</author>
+      <author type="music">Don Moen</author>
+      <author type="translation">Zufluchtsort (Du gibst mir Kraft, mein Gott)</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the distance I can see
+The storm clouds coming my way,
+And I need to find a shelter
+Before it starts to rain,
+So I turn and run to You, Lord,
+You're the only place to go,
+Where unfailing love surrounds me,
+When I need it most.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're my hiding place,
+Safe in Your embrace,
+I'm protected from the storm that rages,
+When the waters rise,
+And I run to hide,
+Lord in you I find my hiding place.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm not asking You to take away
+ my troubles, Lord,
+Cause it's through the stormy weather
+I'll learn to trust You more,
+But I thank You for the promise,
+And I have come to know,
+Your unfailing love surrounds me,
+When I need it most.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So let Your people seek You
+While You may be found
+'Cause You're our only refuge
+When the rain come pouring down</lines>
+    </verse>
+  </lyrics>
+</song>

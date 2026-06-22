@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Abba, I Belong You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You're more real than the ground I'm standing on
+You're more real than the wind in my lungs
+Your thoughts define me, You're inside me
+You're my reality</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Abba, I belong to You,
+Abba, I belong to You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You're closer than the skin on my bones,
+You're closer than the song on my tongue
+Your thoughts define me, You're inside me
+You're my reality.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You came running down my prodigal road
+You came running with a ring and a robe
+Grace is the collision on the way back home
+With the arms of a Father who won't let go.</lines>
+    </verse>
+  </lyrics>
+</song>

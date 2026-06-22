@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm Gonna Hold On</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm gonna hold on, hold on to Jesus,
+Hold to the Lamb of Calvary
+I'm gonna hold on, hold on to Jesus
+And Jesus will hold on to me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ol' Satan keeps on talkin' saying' you can't make it
+Tryin' to convince me there's no use to try
+But I refuse to listen and keep right on goin'
+Trustin' and believing' in the name of Jesus Christ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In this troubled world we live in nothin' seems to make sense
+Many looking' for the way, searching to and fro
+Sometimes this rope I'm holdin' seems to be slippin'
+but I'm gonna hold on tighter to the only hope I know</lines>
+    </verse>
+  </lyrics>
+</song>

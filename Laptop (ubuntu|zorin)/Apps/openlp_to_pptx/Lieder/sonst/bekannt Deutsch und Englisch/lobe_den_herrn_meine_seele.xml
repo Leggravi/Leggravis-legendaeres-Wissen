@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 2, 2019, 8:55:43 PM">
+  <properties>
+    <titles>
+      <title>Lobe den Herrn meine Seele</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4 V5 V6 V7 V8 V6 V6 V7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>/: Lobe den Herrn meine Seele,
+meine Seele lobe den Herrn. :/
+Und vergiss nicht was er dir gutes getan hat.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Der dir all deine Schuld vergibt
+Der dich mit deinen Fehlern liebt.
+Der alle deine Krankheit heilt
+Der alle deine Schmerzen teilt.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Der dich errettet vor dem Tod
+und der dir beisteht in der Not.
+Der dich mit Huld und Gnade krönt
+der dich mit seiner Gunst verhüllt.
+Er macht dein Leben wieder neu,
+und wie ein Adler fliegst du frei.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Lobe den Herrn meine Seele,
+meine Seele lobe den Herrn.
+Lobe den Herrn meine Seele,
+alles in mir lobe den Herrn.
+Und vergiss nicht was er dir gutes getan hat.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Er handelt nicht nach unserer Schuld,
+denn er ist Gnädig hat Geduld.
+Denn die ihn fürchten sind gewiss,
+das er uns kennt und nicht vergisst.
+Er macht dein Leben wieder neu,
+und wie ein Adler fliegst du frei.</lines>
+    </verse>
+    <verse name="V6">
+      <lines>Lobe den Herrn meine Seele,
+meine Seele lobe den Herrn.
+Lobe den Herrn meine Seele,
+alles in mir lobe den Herrn.
+Und vergiss nicht was er dir gutes getan hat.</lines>
+    </verse>
+    <verse name="V7">
+      <lines>Und vergiss nicht was er dir gutes getan hat.</lines>
+    </verse>
+    <verse name="V8">
+      <lines>Er macht dein Leben wieder neu,
+und wie ein Adler fliegst du frei.</lines>
+    </verse>
+  </lyrics>
+</song>

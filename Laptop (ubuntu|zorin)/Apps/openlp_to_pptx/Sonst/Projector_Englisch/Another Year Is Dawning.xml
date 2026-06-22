@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Another Year Is Dawning</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Another year is dawning, dear Father, let it be
+In working or in waiting, another year with Thee;
+Another year of progress, another year of praise,
+Another year of proving Thy presence all the days.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Another year of mercies, of faithfulness and grace,
+Another year of gladness in the shining of Thy face;
+Another year of leaning upon Thy loving breast;
+Another year of trusting, of quiet, happy rest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Another year of service, of witness for Thy love,
+Another year of training for holier work above;
+Another year is dawning, dear Father, let it be
+On earth, or else in Heaven, another year for Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

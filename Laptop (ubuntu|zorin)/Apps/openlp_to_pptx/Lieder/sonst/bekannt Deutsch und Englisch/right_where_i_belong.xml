@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 30, 2020, 4:22:44 PM">
+  <properties>
+    <titles>
+      <title>Right where I belong</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Who am I anyway?
+I’m just a little lump of clay,
+And if my strength is to no avail,
+Yet it doesn’t mean that I have failed,
+For when I’m weak Lord, You’re made strong,
+So there is nothing going wrong,
+You’ve brought me to that place,
+Right where I belong.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Right where I belong,
+Your grace and Your love through the years
+Have brought me along,
+Who am I, who am I?
+That You’ve taken me from the pit,
+To heavenly places with You I sit,
+You’ve brought me to that place,
+Right where I belong.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Who am I? Lord consider me,
+I’m just a little lump of vanity,
+Like a flower that blooms and fades away,
+Its mortal life withers every day.
+But Lord, You’ve given me eternal life:
+You’ve even called me Your virtuous wife;
+You’ve brought me to a place,
+Right where I belong.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Who am I? Lord let me die,
+Just let Your Name be glorified,
+At Your service Lord, here I stand,
+Your wish, oh Lord is my command;
+For You died to set me free,
+And You did it so willingly,
+To bring me to this place,
+Right where I belong.</lines>
+    </verse>
+  </lyrics>
+</song>

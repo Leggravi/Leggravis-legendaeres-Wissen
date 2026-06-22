@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Messiah Is the King of Kings</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Messiah is the king of kings,
+The Messiah is the Lord of Lords, (2x)
+He's the King of Kings,
+He's the Lord of Lords,
+Messiah is the king of kings,
+Messiah is the Lord of Lords.</lines>
+    </verse>
+  </lyrics>
+</song>

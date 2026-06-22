@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Till We Meet</title>
+    </titles>
+    <authors>
+      <author type="words">Kirk Franklin</author>
+      <author type="music">Kirk Franklin</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God be with you'til we meet again!
+By His counsels guide, uphold you,
+With His sheep securely fold you;
+God be with you'til we meet again!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Till we meet! 'Til we meet!
+Till we meet at Jesus' feet;
+Till we meet! 'Til we meet!
+God be with you'til we meet again!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God be with you'til we meet again!
+'Neath His wings securely hide you,
+Daily manna still provide you;
+God be with you'til we meet again!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God be with you'til we meet again!
+When life's perils thick confound you,
+Put His arms unfailing round you;
+God be with you'til we meet again!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>God be with you'til we meet again!
+Keep love's banner floating o'er you,
+Smite death's threat'ning wave before you;
+God be with you'til we meet again!</lines>
+    </verse>
+  </lyrics>
+</song>

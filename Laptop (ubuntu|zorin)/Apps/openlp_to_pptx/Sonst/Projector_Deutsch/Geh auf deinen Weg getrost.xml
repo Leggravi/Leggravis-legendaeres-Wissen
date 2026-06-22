@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Geh auf deinen Weg getrost</title>
+    </titles>
+    <authors>
+      <author type="words">Heiko Bräuning</author>
+      <author type="music">Heiko Bräuning</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Geh auf deinem Weg getrost und ohne Sorgen,
+geh mit Gottes Segen, geh ihn mutig voran.
+Geh an seiner Hand, du bist bei ihm geborgen,
+geh mit Gottes Segen, geh ihn mutig voran.
+Oh
+Geh mit Gottes Segen voran!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er kennt deinen Weg und er kennt - auch dein Morgen,
+er wird einzigartig täglich - für dich sorgen.
+Er kennt deine Grenzen und er - wird dich tragen,
+auch wenn du und deine Kräfte auf dem Weg versagen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Er wird deine Wunden Punkte - ganz behutsam heilen,
+und er wird in jeder Not - dir zur Hilfe eilen.
+Er kennt all die Stunden, wo du schier verzweifelt,
+er zeigt seine Liebe, die du - an ihm bezweifelt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Er kennt die Gedanken, die sonst keiner von dir kennt,
+er steht auch noch dann zu dir, wenn - alles um dich brennt.
+Er fühlt mit dir, wenn dich plötzlich all dein Mut verlässt,
+seine Hand gibt immer was du brauchst und hält dich fest.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Geh auf deinem Weg getrost und ohne Sorgen,
+geh mit Gottes Segen, geh ihn mutig voran.
+Geh an seiner Hand, du bist bei ihm geborgen,
+geh mit Gottes Segen, geh ihn mutig voran.
+Oh
+Geh mit Gottes Segen voran!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Want to Do Thy Will Oh Lord.</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The cross that you bear,
+May be hard to carry,
+And every pain you feel so hard
+To understand,
+But every pain that you feel,
+He died just to heal,
+I want to do Thy Will, Oh Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I want to do Thy Wil, Oh Lord,
+I want to do Thy Will, Oh Lord,
+Take me and break me,
+Mold me and make me,
+I want to do Thy Will, Oh Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He paid the price,
+The sacrifice with His Blood at Calvary,
+He stood alone in Pilate's judgment hall,
+He took the Cross, paid the cost,
+For my soul that was lost,
+I want to do Thy Will, Oh Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich verherrliche meinen großen Gott;</title>
+    </titles>
+    <authors>
+      <author type="words">Wort des Glaubens München</author>
+      <author type="music">Linda Duvall</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>|:|ch verherrliche meinen großen Gott; ich singe ihm ein neues Lied :|
+|: Preis und Ehre, ich singe ihm ein neues Lied :|
+|: Halleluja, halleluja, halleluja, :|</lines>
+    </verse>
+  </lyrics>
+</song>

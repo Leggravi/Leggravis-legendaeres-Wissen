@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>At the foot of the cross</title>
+    </titles>
+    <authors>
+      <author type="words">Derek Bond</author>
+      <author type="music">Derek Bond</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v2 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>At the foot of the cross
+Where grace and suffering meet
+You have shown me your love
+Through the judgment you received</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And you've won my heart
+And you've won my heart, now I can</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Trade these ashes in for beauty
+And wear forgiveness like a crown
+Coming to kiss the feet of mercy
+I lay every burden down at the foot of the cross</lines>
+    </verse>
+    <verse name="v4">
+      <lines>At the foot of the cross
+Where I am made complete
+You have given me life
+Through the death you bore for me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And wear forgiveness like a crown
+Coming to kiss the feet of mercy
+I lay every burden down at the foot of the cross</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Trade these ashes in for beauty
+And wear forgiveness like a crown
+Coming to kiss the feet of mercy
+I lay every burden down</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I trade these ashes in for beauty
+And wear forgiveness like a crown
+Coming to kiss the feet of mercy
+I lay every burden down</lines>
+    </verse>
+    <verse name="v8">
+      <lines>I lay every burden down, every burden
+I lay every burden down
+At the foot of the cross
+At the foot of the cross
+At the foot of the cross
+At the foot of the cross</lines>
+    </verse>
+  </lyrics>
+</song>

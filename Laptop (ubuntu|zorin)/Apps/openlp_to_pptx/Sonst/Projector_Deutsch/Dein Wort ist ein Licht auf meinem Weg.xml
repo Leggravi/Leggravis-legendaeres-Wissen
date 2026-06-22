@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dein Wort ist ein Licht auf meinem Weg</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Amy Grant</author>
+      <author type="translation">Thy word is a lamp unto my feet</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dein Wort ist ein Licht auf meinem Weg,
+wenn ich durch das Dunkel geh.
+Dein Wort ist ein Licht auf meinem Weg,
+lässt mich deine Hilfe sehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nebel rings umher,
+ich sehe dich nicht mehr,
+wie find ich den Weg?
+Dein Wort ist das Licht,
+das durch den Nebel bricht.
+Du führst mich an deiner Hand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dein Wort ist ein Licht auf meinem Weg,
+wenn ich durch das Dunkel geh.
+Dein Wort ist ein Licht auf meinem Weg,
+lässt mich deine Hilfe sehn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mauern hart und kalt,
+geben keinen Halt,
+drohend stehen sie vor mir.
+Dein Wort ist mein Schwert,
+das aller Härte wehrt.
+Du stellst mich auf weitem Raum.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dein Wort ist ein Licht auf meinem Weg,
+wenn ich durch das Dunkel geh.
+Dein Wort ist ein Licht auf meinem Weg,
+lässt mich deine Hilfe sehn.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tränen wischt du fort,
+tröstest durch dein Wort,
+Kraft zum Leben gibst du mir.
+Wie ein weites Meer
+ist dein Wort, o Herr,
+unergründlich tief und reich.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Dein Wort ist ein Licht auf meinem Weg,
+wenn ich durch das Dunkel geh.
+Dein Wort ist ein Licht auf meinem Weg,
+lässt mich deine Hilfe sehn.</lines>
+    </verse>
+  </lyrics>
+</song>

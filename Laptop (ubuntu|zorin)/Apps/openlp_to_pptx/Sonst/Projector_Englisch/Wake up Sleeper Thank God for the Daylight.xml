@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wake up Sleeper (Thank God for the Daylight…)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v3 v4 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thank God for the daylight
+I spent a long time in the dark
+Felt good saying goodbye
+Waking up to a brand new heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And if you're sleeping
+like I used to be
+In a grave that holds you tight
+There's a Savior calling
+Promising a brand new life
+He's saying</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wake up sleeper
+Open your eyes
+Oh sinner, arise
+Leave your past at the door</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wake up sleeper
+Come to the light
+Christ is alive
+/:Death don't live
+here anymore.:/</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I bet you like that freedom
+I bet you like your new name
+Oh, welcome to the kingdom
+Yeah, we all feel that way</lines>
+    </verse>
+    <verse name="v6">
+      <lines>So if you see somebody
+sleeping like
+The way you used to be
+Tell 'em 'bout the Savior
+And a little thing called free
+Go ahead and say</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Rise up and come
+out of that grave
+Rise up in that
+amazing grace
+Oh sleeper, won't you
+Come awake, come awake</lines>
+    </verse>
+  </lyrics>
+</song>

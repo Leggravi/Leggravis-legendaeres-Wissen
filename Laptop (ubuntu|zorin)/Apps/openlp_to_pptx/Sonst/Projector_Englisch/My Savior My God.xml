@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Savior My God</title>
+    </titles>
+    <authors>
+      <author type="words">Dorothy Dora Greenwell</author>
+      <author type="music">Dorothy Dora Greenwell</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My Savior loves
+My Savior lives
+My Savior's always there for me
+My God He was
+My God He is
+My God is always gonna be</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am not skilled to understand
+What God has willed what God has planned
+I only know at His right hand
+Stands One who is my Savior</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I take Him at His word and deed
+Christ died to save me this I read
+And in my heart I find a need
+Of Him to be my Savior</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Misc 1
+BRIDGE
+That He would leave His place on high
+And come for sinful man to die
+You count it strange so once did I
+Before I knew my Savior</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yes living dying let me bring
+My strength my solace from this spring
+That He who lives to be my King
+Once died to be my Savior</lines>
+    </verse>
+  </lyrics>
+</song>

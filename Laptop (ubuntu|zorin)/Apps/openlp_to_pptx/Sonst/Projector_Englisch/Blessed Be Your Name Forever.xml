@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Blessed Be Your Name Forever</title>
+    </titles>
+    <authors>
+      <author type="words">Ric Marchi</author>
+      <author type="music">Ric Marchi</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can see You through all of nature
+I can see You in the sky
+I can see Your creation
+You are God the mighty one</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Blessed be Your name forever
+Blessed be Your name Oh Lord
+You created me dear Father
+And you saved me through Your power
+Blessed be your name oh Lord,
+For You are God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord of lords the One who saved me
+You are God I worship You
+You are Lord of all creation
+You are God for all the nations</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wenn es dunkel wird</title>
+    </titles>
+    <authors>
+      <author type="words">W. Stocker</author>
+      <author type="music">Siegbert Stocker</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wenn es dunkel wird und die Nacht beginnt,
+ich denk' über mein Leben nach.
+Was habe ich, heut' für Dich gemacht
+und hab' ich auch an andere gedacht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>lch möcht' ein Licht sein! Licht sein in der Welt,
+so leuchten wie ein heller Stem am Himmelszelt.
+lch möcht' ein Licht sein, Licht sein in der Welt,
+nur das zu tun was Dir gefällt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Heller Kerzenschein in der Dunkelheit
+bringt Wärme und Geborgenheit.
+Wenn du freundlich bist und den Nächsten liebst,
+bist du ein Licht dann in der Finsternis.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wenn es dunkel wird und die Nacht beginnt,
+ich bete leise Herr zu Dir, denn Du bist bei mir,
+und ich fürcht' mich nicht.
+lch weiß genau Du lässt mich nicht im Stich.</lines>
+    </verse>
+  </lyrics>
+</song>

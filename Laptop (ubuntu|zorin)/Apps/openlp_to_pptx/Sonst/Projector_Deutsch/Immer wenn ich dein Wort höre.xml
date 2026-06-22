@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Immer wenn ich dein Wort höre</title>
+    </titles>
+    <authors>
+      <author type="words">Fritz Müller</author>
+      <author type="music">Fritz Müller</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Immer wenn ich dein Wort höre,
+Herr, erkenn ich mich; sehe dann,
+dass ich versage,
+Herr, ich brauche dich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr, erbarme Dich!
+Herr, erbarme Dich!
+Zu meinem Leben musst du mir geben
+deinen Frieden jeden Tag!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich versuche es immer wieder,
+heut in dieser Zeit,
+ohne dich den Weg zu gehen,
+doch ich komm nicht weit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und dann tu ich solche Dinge,
+die du nie gesagt.
+Ich hab sie mir selbst ersonnen,
+habe dich nicht gefragt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wenn ich so mein Leben sehe,
+frag nach seinem Sinn,
+bleibt von allem nur bestehen,
+was ich für dich bin.</lines>
+    </verse>
+  </lyrics>
+</song>

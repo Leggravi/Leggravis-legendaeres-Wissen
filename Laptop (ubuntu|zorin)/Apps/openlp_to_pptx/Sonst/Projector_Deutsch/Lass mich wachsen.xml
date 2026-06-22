@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lass mich wachsen</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Von dir will ich lernen und mit dir will ich geh’n.
+Liebe und Weisheit soll’n sich mehren auf dem Weg, auf dem wir geh’n.
+Deine Worte will ich hören, sie verstehen und auch tun,
+will mir dich zum Vorbild nehmen und deinen Willen tun.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lass mich wachsen hin zu deinem Licht,
+mach mich zu dem Baum, der viel Frucht bringt,
+der an dem Wasser steht, das deinem Herz entspringt.
+Lass sich meine Wurzeln tiefer graben, dass ich fest und sicher steh‘
+Und kein Sturm kann mir je schaden, weil ich in deinem Frieden leb‘.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich will mein ganzes Leben in deine Hände legen,
+will dir hingegeben leben und dir voll und ganz vertrau’n.
+Mein Herz und meine Seele, jeder Gedanke und mein Sein,
+mein Verstand und meine Träume sollen in dir verborgen sein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Forme mich zu dem Gefäß, das seinen Schöpfer ehrt.
+Gebrauche mich und führe mich, mein ganzes Leben soll dich ehr’n.
+Veränder‘ mich, damit mein Herz im selben Rhythmus schlägt wie deins.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Alle Tage meines Lebens soll mein Herz nur dir gehör’n,
+und in jeder Lebenslage will ich lernen dich zu ehr’n</lines>
+    </verse>
+  </lyrics>
+</song>

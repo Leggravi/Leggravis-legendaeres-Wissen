@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:34">
+  <properties>
+    <titles>
+      <title>Sieh, dein König kommt zu dir</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Friedrich Hiller (1767)</author>
+      <author type="music">Meinen Jesus lass ich nicht</author>
+    </authors>
+    <ccliNo>5208050</ccliNo>
+    <themes>
+      <theme>Advent</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>"Sieh, dein König kommt zu dir";
+Seele, das sind frohe Worte!
+Sprich: Mein König, komm zu mir;
+sieh, ich öffne dir die Pforte.
+Zieh mit deiner Sanftmut ein;
+was du findest, das ist dein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Komm, ich bin dein Eigentum,
+weil du dich für mich gegeben;
+komm, dein Evangelium
+werde mir zu Geist und Leben.
+Du schickst ja dein Wort voran,
+dir zu schaffen eine Bahn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Komm und räume alles aus,
+was du hassest und mich reuet;
+komm und reinige dein Haus,
+das die Sünde hat entweihet;
+mach mit deinem Opferblut
+alles wieder rein und gut.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Komm in deinem Abendmahl,
+das du uns zum Heil gegeben.
+Dass wir schon im Erdental,
+mit dir als im Himmel leben.
+Komm, Herr Jesu, leb in mir
+und mein Leben sei in dir.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Komm und bring den Geist auch mit,
+deinen Geist, der dich verkläret,
+der mich im Gebet vertritt
+und des Königs Willen lehret,
+dass ich bis auf jenen Tag:
+"Komm, Herr Jesus!" rufen mag.</lines>
+    </verse>
+  </lyrics>
+</song>

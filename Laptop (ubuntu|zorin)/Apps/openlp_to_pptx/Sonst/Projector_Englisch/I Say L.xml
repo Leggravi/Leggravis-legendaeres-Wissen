@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Say L</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I say L (I say L)
+I say L-O (I say L-O)
+L-O-V (L-O-V)
+L-O-V-E (L-O-V-E)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Everybody needs some love
+Everybody needs some love
+Everybody needs some love</lines>
+    </verse>
+  </lyrics>
+</song>

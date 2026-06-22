@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come to Sunday School</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come to Sunday School
+Come to Sunday School
+We shall come rejoicing
+Come to Sunday School.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bring your Bibles, too
+Bring your Bibles, too
+We shall come rejoicing
+Bring your Bibles, too.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bring some friends with you
+And your loved ones, too
+We shall come rejoicing
+Come to Sunday School.</lines>
+    </verse>
+  </lyrics>
+</song>

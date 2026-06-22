@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Das ist mein König</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Der Wind, der in mir weht.
+das Wort, das nie vergeht.
+Alpha und Omega.
+Der sein wird, ist und war war.
+Berge verbeugen sich vor seinem Angesicht.
+Ein Wort und es geschieht.
+Er kommt und Ängste fliehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Das ist mein König, König der Herrlichkeit.
+Sein ist das Reich und die Macht in Ewigkeit.
+Nichts muss ich fürchten, wenn Angst nach mir greift, weil der König der Könige, nah bei mir bleibt, nah bei mir bleibt, nah bei mir bleibt, nah bei mir bleibt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Der Weg auf dem ich geh.
+Das Licht auf meinem Weg.
+Meine Heimat, mein zu Haus.
+Deine nähe füllt mich aus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Das ist mein König, König der Herrlichkeit.
+Sein ist das Reich und die Macht in Ewigkeit.
+Nichts muss ich fürchten, wenn Angst nach mir greift, weil der König der Könige, nah bei mir bleibt, nah bei mir bleibt, nah bei mir bleibt, nah bei mir bleibt.</lines>
+    </verse>
+  </lyrics>
+</song>

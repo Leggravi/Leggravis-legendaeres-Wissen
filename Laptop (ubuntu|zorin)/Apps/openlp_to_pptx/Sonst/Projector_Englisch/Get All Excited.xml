@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Get All Excited</title>
+    </titles>
+    <authors>
+      <author type="words">William J. Gaither</author>
+      <author type="music">William J. Gaither</author>
+      <author type="translation">Erwacht aus dem Schlafe</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You talk about people
+You talk about things
+That really aren't important at all
+You talk about weather,
+You talk about problems
+We have here at home and abroad
+But friend I'm excited about
+ a solution for the world
+Oh I'm gonna shout and sing
+Jesus Christ is still the king of kings</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Get all excited go tell everybody
+ that Jesus Christ is King,
+I said get all excited go tell everybody
+ that Jesus Christ is King,
+Get all excited go tell everybody
+ that Jesus Christ is King,
+Jesus Christ is still the King of kings</lines>
+    </verse>
+  </lyrics>
+</song>

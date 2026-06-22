@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Show Me Your way</title>
+    </titles>
+    <authors>
+      <author type="words">Natasha Bedingfield</author>
+      <author type="music">Natasha Bedingfield</author>
+      <author type="translation">Ich rühme dich</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Show me Your ways
+That I may walk with You
+Show me Your ways
+I put my hope in You
+The cry of my heart
+Is to love You more
+To live with the
+Touch of Your hand
+Stronger each day
+Show me Your ways</lines>
+    </verse>
+  </lyrics>
+</song>

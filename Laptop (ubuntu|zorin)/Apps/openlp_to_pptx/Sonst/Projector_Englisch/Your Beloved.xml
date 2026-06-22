@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Your Beloved</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, it was You who created the heavens
+Lord, it was Your hands that put the stars in their place
+Lord, it is Your voice that commands the morning
+Even oceans and their waves bow at Your feet</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, who am I compared to Your glory, oh Lord?
+Lord, who am I compared to Your majesty?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I am Your beloved, Your creation
+And You love me as I am
+You have called me chosen, for Your kingdom
+Unashamed to call me Your own
+I am Your beloved</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord, it was You who created the heavens
+Lord, it was Your hand that put the stars in their place
+Lord, it is Your voice that commands the morning
+Even oceans and their waves will bow at Your feet</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I am Your beloved, Your creation
+And You love me as I am
+You have called me chosen, for Your kingdom
+Unashamed to call me Your own
+I am Your beloved, Your creation
+And You love me as I am
+You have called me chosen, for Your kingdom
+Unashamed to call me Your own
+I am Your beloved</lines>
+    </verse>
+  </lyrics>
+</song>

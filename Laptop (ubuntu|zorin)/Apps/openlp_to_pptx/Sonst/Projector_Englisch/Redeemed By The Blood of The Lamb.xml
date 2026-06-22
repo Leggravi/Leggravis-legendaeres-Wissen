@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Redeemed By The Blood of The Lamb</title>
+    </titles>
+    <authors>
+      <author type="words">überliefert</author>
+      <author type="music">Volksweise</author>
+      <author type="translation">Ich bin erlöst durch des Lammes Blut</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am redeemed by the blood of the lamb
+I am redeemed and I know I am
+I am redeemed by the blood of the lamb
+Saved from sin and I know I am
+All my sins are taken away, praise the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

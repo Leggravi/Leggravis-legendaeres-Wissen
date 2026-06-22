@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:04">
+  <properties>
+    <titles>
+      <title>Ja, ich will euch tragen</title>
+    </titles>
+    <authors>
+      <author type="words">Jochen Klepper (1938)</author>
+      <author type="music">Samuel Rothenberg</author>
+    </authors>
+    <ccliNo>6593740</ccliNo>
+    <themes>
+      <theme>Vertrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ja, ich will euch tragen bis zum Alter hin.
+Und ihr sollt einst sagen, dass ich gnädig bin.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ihr sollt nicht ergrauen, ohne dass ich's weiß,
+müsst dem Vater trauen, Kinder sein als Greis.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ist mein Wort gegeben, will ich es auch tun,
+will euch milde heben: Ihr dürft stille ruhn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Stets will ich euch tragen recht nach Retterart.
+Wer sah mich versagen, wo gebetet ward?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Denkt der vor'gen Zeiten, wie, der Väter Schar
+voller Huld zu leiten, ich am Werke war.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Denkt der frühern Jahre, wie auf eurem Pfad
+euch das Wunderbare immer noch genaht.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Lasst nun euer Fragen, Hilfe ist genug.
+Ja, ich will euch tragen, wie ich immer trug.</lines>
+    </verse>
+  </lyrics>
+</song>

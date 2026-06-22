@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sing a New Song</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Tuttle</author>
+      <author type="music">John Wimber</author>
+      <author type="translation">Ich singe ein Lied meinem König und Gott (Ich bete an)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I wanna sing a new song,
+Shout it out louder than before,
+Let the whole earth sing,
+The whole earth sing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is a place where we can seek His face,
+Changed in His presence where touched by His grace,
+There is a sound I hear it all around,
+Worship is rising and people crying out.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I wanna sing a new song,
+Shout it out louder than before,
+Let the whole earth sing,
+The whole earth sing
+It's a song of praise,
+A song for all of the redeem,
+Let the whole earth sing,
+The whole earth sing.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Never the same, He's taken my chains,
+There's freedom in Jesus, power to save,
+There is a name like no other name,
+There's freedom in Jesus,
+Shout out His name.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hallelujah Hallelujah Hallelujah
+Hallelujah Hallelujah Hallelujah</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Verse 8
+Hallelujah, Hallelujah, Hallelujah
+Hallelujah, Hallelujah, Hallelujah
+Hallelujah, Hallelujah, Hallelujah
+Hallelujah, Hallelujah, Hallelujah
+Hallelujah, Hallelujah, Hallelujah
+Hallelujah, Hallelujah, Hallelujah
+Hallelujah, Hallelujah, Hallelujah</lines>
+    </verse>
+  </lyrics>
+</song>

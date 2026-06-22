@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>A Storm</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A storm within me rages
+And wars against my soul
+But my faith is anchored in You Lord
+So things are in control
+So many times I've failed You
+But still You've held to my hand
+And I'm glad that I can talk with You
+For You always understand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You've never once quit loving me
+tho trials have made me cold
+Your faithfulness has been so sweet
+Your mercies touched my soul
+Oh Father I reach out to You
+Please help me reach my goal
+And I'm glad to know that because of You
+Heaven will be my Home.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I need Your strength Oh God each day,
+For I am weak and frail
+Coz the winds and trials
+That have come my way
+I haven't handled too well
+My soul cries out help me to stand
+Upon Your faithful Word
+Oh God You know that I still believe
+Please bring me through these storms.</lines>
+    </verse>
+  </lyrics>
+</song>

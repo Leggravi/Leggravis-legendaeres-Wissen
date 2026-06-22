@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:05:28">
+  <properties>
+    <titles>
+      <title>Halte uns fest, ganz fest bei dir</title>
+    </titles>
+    <authors>
+      <author type="words">Jan Primke (2015)</author>
+      <author type="music">Jan Primke</author>
+    </authors>
+    <ccliNo>7087463</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Halte uns fest, ganz fest bei dir.
+Lenk' du den Blick auf die Mitte zurück.
+Schenk' du die Kraft, deinem Wort treu zu sein.
+Halte uns fest, ganz nah bei dir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God hold me close, close to You.
+Direct my path back to You our Lord.
+You are my strength guiding me in Your word.
+God hold me close, close to You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tiens nous à toi très fort à toi.
+Attire nos regards sur l'essentiel.
+Donne nous la force d'être fidèle à toi.
+Tiens nous à toi très fort à toi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mantennos junto a ti, Señor.
+Vuelve a guiar mi camino a ti.
+Fuerza para ser fieles a tu sermón.
+Mantennos junto a ti Señor.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Guardanos perto de ti Senhor.
+Guianos para o teu louvor.
+Dános a força pra sermos fieis.
+Guardanos perto, bem perto de ti.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Håll mig intill, intill Dig Gud.
+Visa den väg som går nära Dig.
+Ge mig den styrka som finns i Ditt ord.
+Håll mig intill, intill Dig Gud.</lines>
+    </verse>
+  </lyrics>
+</song>

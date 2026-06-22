@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Sinner's Prayer</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, You've touched my heart today
+That is why I've come to pray
+You see all I have inside
+All the things I try to hide</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, I believe that You are there
+And You're listening to this sinner's prayer
+Touch this broken heart and make it new
+I believe in You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Please forgive me for my sin
+All I've done and all I've been
+Serving You forevermore
+Everyday You'll be my Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, I believe that You are there
+And You're listening to this sinner's prayer
+Touch this broken heart and make it new
+I believe in You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus, I believe that You are there
+And You're listening to this sinner's prayer
+Knowing You'll remember what You've heard
+I believe Your word</lines>
+    </verse>
+  </lyrics>
+</song>

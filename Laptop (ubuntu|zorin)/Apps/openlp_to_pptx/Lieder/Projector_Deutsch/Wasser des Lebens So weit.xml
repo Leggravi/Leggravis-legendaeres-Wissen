@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wasser des Lebens (So weit)</title>
+    </titles>
+    <authors>
+      <author type="words">Lothar Kosse</author>
+      <author type="music">Lothar Kosse</author>
+      <author type="translation">So Wide</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wasser des Lebens fließt wie ein Strom
+vom Himmel her, von Gottes Thron.
+Es überflutet das dürre Land.
+Das ist der Segen aus Gottes Hand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So weit, so klar, so tief und so nah,
+im Strom der Gnade schwimme ich,
+und Deine Liebe fließt durch mich.
+So weit, so klar, so tief und so nah,
+so wie ein grenzenloses Meer
+ist Deine Güte um mich her.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nimm meine Hände, nimm meinen Geist,
+nimm, was ich habe, nimm, was ich weiß,
+und still diese Sehnsucht ganz tief in mir,
+denn das was gut ist kommt, Gott, von Dir!</lines>
+    </verse>
+  </lyrics>
+</song>

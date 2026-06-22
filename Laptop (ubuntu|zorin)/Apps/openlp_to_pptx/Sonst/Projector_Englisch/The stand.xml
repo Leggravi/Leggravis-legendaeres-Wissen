@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The stand</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You stood before creation
+Eternity within Your hand
+You spoke the earth into motion
+My soul now to stand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You stood before my failure
+Carried the Cross for my shame
+My sin weighed upon Your shoulders
+My soul now to stand</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So what can I say
+What can I do
+But offer this heart O God
+Completely to You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So I'll walk upon salvation
+Your Spirit alive in me
+This life to declare Your promise
+My soul now to stand</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So what can I say
+What can I do
+But offer this heart O God
+Completely to You</lines>
+    </verse>
+    <verse name="v6">
+      <lines>So I'll stand
+With arms high and heart abandoned
+In awe of the One who gave it all
+So I'll stand
+My soul Lord to You surrendered
+All I am is Yours</lines>
+    </verse>
+  </lyrics>
+</song>

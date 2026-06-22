@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heal our land</title>
+    </titles>
+    <authors>
+      <author type="words">Tom Brooks</author>
+      <author type="music">Tom Brooks</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You take, our lives
+Flawed yet beautiful
+Restore, refine
+Lord You're merciful
+Redeem, revive</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Spirit of God
+Breathe on Your church
+Pour out Your presence
+Speak through Your word
+We pray in every nation, Christ be known
+Our hope and salvation, Christ alone</lines>
+    </verse>
+    <verse name="v3">
+      <lines>New power, new wine
+As divisions fall
+One church, one bride
+Jesus, Lord of all
+With one voice, we cry</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So God we pray to You
+Humble ourselves again
+Lord would You hear our cry?
+Lord will You heal our land?
+That every eye will see
+That every heart will know
+The One who took our sin
+The One who died and rose</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And when Your kingdom comes
+And when at last You call
+We'll rise to worship You alone</lines>
+    </verse>
+  </lyrics>
+</song>

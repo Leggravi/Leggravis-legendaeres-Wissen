@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>No more night</title>
+    </titles>
+    <authors>
+      <author type="words">Becky Drake</author>
+      <author type="music">Becky Drake</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The timeless theme, Earth and Heaven will pass away.
+It’s not a dream, God will make all things new that day.
+Gone is the curse from which I stumbled and fell.
+Evil is banished to eternal hell.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No more night. No more pain.
+No more tears. Never crying again.
+And praises to the great &quot;I AM.&quot;
+We will live in the light of the risen Lamb.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>See all around, now the nations bow down to sing.
+The only sound is the praises to Christ, our King.
+Slowly the names from the book are read.
+I know the King, so there’s no need to dread.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>See over there, there’s a mansion,
+Oh, that’s prepared just for me,
+Where I will live
+With my savior eternally.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>All praises to the great &quot;I AM.&quot;
+We’re gonna live in the light of the risen Lamb.</lines>
+    </verse>
+  </lyrics>
+</song>

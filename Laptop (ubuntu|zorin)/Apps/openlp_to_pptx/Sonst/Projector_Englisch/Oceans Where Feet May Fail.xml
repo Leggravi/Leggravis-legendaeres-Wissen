@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oceans (Where Feet May Fail)</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Crocker</author>
+      <author type="music">Matt Crocker</author>
+      <author type="translation">Meer (Du rufst mich raus aufs weite Wasser)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You call me out upon the waters
+The great unknown where feet may fail
+And there I find You in the mystery
+In oceans deep
+My faith will stand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I will call upon Your name
+And keep my eyes above the waves
+When oceans rise
+My soul will rest in Your embrace
+For I am Yours and You are mine</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your grace abounds in deepest waters
+Your sovereign hand
+Will be my guide
+Where feet may fail and fear surrounds me
+You’ve never failed and You won’t start now</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So I will call upon Your name
+And keep my eyes above the waves
+When oceans rise
+My soul will rest in Your embrace
+For I am Yours and You are mine</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Spirit lead me where my trust is without borders
+Let me walk upon the waters
+Wherever You would call me
+Take me deeper than my feet could ever wander
+And my faith will be made stronger
+In the presence of my Savior</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh, Jesus, you’re my God!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I will call upon Your name
+Keep my eyes above the waves
+My soul will rest in Your embrace
+I am Yours and You are mine</lines>
+    </verse>
+  </lyrics>
+</song>

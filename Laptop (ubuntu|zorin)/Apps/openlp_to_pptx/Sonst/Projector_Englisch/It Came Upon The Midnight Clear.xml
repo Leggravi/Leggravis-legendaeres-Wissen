@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It Came Upon The Midnight Clear</title>
+    </titles>
+    <authors>
+      <author type="words">Edmund Hamilton Sears</author>
+      <author type="music">Arthur Seymour Sullivan</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It came upon the midnight clear,
+That glorious song of old,
+From angels bending near the earth
+To touch their harps of gold:
+&quot;Peace on the earth, goodwill to men,
+From heaven's all-gracious King:&quot;
+The world in solemn stillness lay
+To hear the angels sing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Still thro' the cloven skies they come,
+With peaceful wings unfurled,
+And still their heavenly music floats
+O'er all the weary world:
+Above its sad and lowly plains
+They bend on hovering wing,
+And ever o'er its Babel sounds
+The blessed angels sing.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And ye, beneath life's crushing load,
+Whose forms are bending low,
+Who toil along the climbing way
+With painful steps and slow,
+Look now! for glad and golden hours
+Come swiftly on the wing:
+Oh rest beside the weary road,
+And hear the angels sing.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For lo, the days are hastening on,
+By prophet bards foretold,
+When with the evercircling years
+Comes round the age of gold;
+When peace shall over all the earth
+Its ancient splendors fling,
+And the whole world give back the song
+Which now the angels sing.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gott und König</title>
+    </titles>
+    <authors>
+      <author type="words">Frank Huck</author>
+      <author type="music">John Bacchus Dykes</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v2 v3 v3 v4 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist Gnädig, du bist Treu.
+Du bist voller Freundlichkeit.
+Deine Liebe fließt,
+Aus den Strömen deiner Güte zu uns.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist Heilig und Gerecht.
+Voller Sanftmut und Gedult.
+Tiefer Friede liegt,
+In den Schatten deiner Flügel für uns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir singen Majestät,
+Du Thronst in Herrlichkeit.
+Deine Güte während Ewig.
+Wir verehren dich,
+Denn niemand kommt dir gleich.
+Du bist unser Gott und König.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wir erheben deinen Namen Herr,
+Dir sei Ehre, Ruhm und Macht.
+Wir erheben deinen Namen Herr,
+Dir sei Ehre, Ruhm und Macht.
+Wir erheben deinen Namen Herr,
+Dir sei Ehre, Ruhm und Macht.
+Wir erheben deinen Namen Herr,
+Dir sei Ehre, Ruhm und Macht.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Du bist unser Gott.
+Unser Gott und König.
+Wir verehren dich Herr.
+Wir erheben dich Gott.
+Komm Majestät.
+Alle Ehre, alle Ehre sei dir allein, Herr.
+Komm Majestät.
+Du bist Gott, du bist Gott.
+Unser König.</lines>
+    </verse>
+  </lyrics>
+</song>

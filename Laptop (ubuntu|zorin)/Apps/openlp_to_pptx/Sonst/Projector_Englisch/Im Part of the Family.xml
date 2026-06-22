@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm Part of the Family</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm part of the family
+That's been born again
+I'm part of the family
+Whose love knows no end
+For Jesus has saved us
+And He loves His own
+I'm part of the family</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sometimes we laugh together
+Sometimes we cry
+Sometimes we share together
+ heartaches and sigh
+Sometimes we dream together
+ of how it will be
+When we all get to heaven
+ with God's family</lines>
+    </verse>
+  </lyrics>
+</song>

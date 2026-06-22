@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wirf Sorge und Schmerz</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wirf Sorge und Schmerz
+Ins liebende Herz
+Des mächtig dir helfenden Vaters.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wenn Kummer dich quält,
+Wenn alles dir fehlt,
+Er öffnet dir segnende Arme.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Er weiß, was du hast,
+Er trägt deine Last
+Und führt dich mit mächtigen Händen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Er schützt dich und wacht,
+Drum lass dich die Nacht
+Des Leidens und Todes nicht schrecken.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Und nicht ist mehr fern,
+Wo droben beim Herrn
+Uns Ströme der Wonne erquicken.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O wer ist Ihm gleich,
+So mild und so reich
+An Liebe und Macht und Erbarmen!</lines>
+    </verse>
+  </lyrics>
+</song>

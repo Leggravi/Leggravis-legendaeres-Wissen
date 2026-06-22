@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lamm, verwundet und beladen</title>
+    </titles>
+    <authors>
+      <author type="words">Andreas Stoll</author>
+      <author type="music">Paderborn</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lamm, verwundet und beladen,
+heimgesucht mit schwerem Leid,
+Dich traf unser aller Schaden,
+unsre Ungerechtigkeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In den Tod hast Du Dein Leben
+ausgeschüttet ganz und gar;
+Deine Seele ward gegeben
+für die Schuld auf dem Altar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aus den Gluten, aus dem Feuer
+Deiner Leiden ging hervor
+Wohlgeruch so süß und teuer,
+welcher stieg zu Gott empor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dir, dem Retter, der nicht scheute
+diese Pein, nicht wich zurück,
+Dir gehört die Meng zur Beute,
+Dir verdankt sie all ihr Glück.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dich, der einst mit Sünd beladen
+an dem Kreuz gelitten hat,
+Dich erheben Myriaden
+ewig für die größte Tat.</lines>
+    </verse>
+  </lyrics>
+</song>

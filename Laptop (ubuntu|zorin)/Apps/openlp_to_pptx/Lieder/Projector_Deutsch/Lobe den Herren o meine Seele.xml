@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lobe den Herren, o meine Seele!</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Daniel Herrnschmidt</author>
+      <author type="music">Ansbach</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lobe den Herren, o meine Seele!
+Ich will ihn loben bis in' Tod;
+weil ich noch Stunden auf Erden zähle,
+will ich lobsingen meinem Gott.
+Der Leib und Seel gegeben hat,
+werde gepriesen früh und spat.
+Halleluja, Halleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Selig, ja selig ist der zu nennen,
+des Hilfe der Gott Jakobs ist,
+welcher vom Glauben sich nicht läßt trennen
+und hofft getrost auf Jesus Christ.
+Wer diesen Herrn zum Beistand hat,
+findet am besten Rat und Tat.
+Halleluja, Halleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rühmet, ihr Menschen, den hohen Namen
+des, der so große Wunder tut.
+Alles, was Odem hat, rufe Amen
+und bringe Lob mit frohem Mut.
+Ihr Kinder Gottes, lobt und preist
+Ihn, der so Großes uns erweist!
+Halleluja, Halleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

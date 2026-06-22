@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du begeisterst mich</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deine Liebe trägt mich, festigt und erhebt mich.
+Sie ist wie ein Felsen, auf dem ich sicher steh.
+Deine Liebe stärkt mich, sie ist sanft und zärtlich,
+ich kann es kaum fassen, sie wird nie vergehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Halleluja, Halleluja, Halleluja, du begeisterst mich!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Deine Liebe spür ich, du bist immer für mich,
+ich bin überglücklich, du hast mich berührt.
+Ich liebe deine Nähe und wann ich dich sehe,
+sing ich das Lied des Himmels, dass es jeder hört.</lines>
+    </verse>
+  </lyrics>
+</song>

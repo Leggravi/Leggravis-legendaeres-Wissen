@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Unser Leben sei ein Fest</title>
+    </titles>
+    <authors>
+      <author type="words">Werner Morgenstern</author>
+      <author type="music">Peter Janssens</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Unser Leben sei ein Fest,
+Jesu Geist in unserer Mitte,
+Jesu Werk in unseren Händen,
+Jesu Geist in unseren Werken.
+Unser Leben sei ein Fest,
+heut und morgen und an jedem Tag.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unser Leben sei ein Dank
+Gott die Ehre in unseren Taten
+Preis dem Herrn in unseren Liedern
+Gottes Lob in unserem Beten.
+Unser Leben sei ein Dank
+heut und morgen und an jedem Tag.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Unser Leben sei ein Dienst,
+Jesu Sinn in unseren Herzen,
+Jesu Liebe in unseren Werken,
+Jesu Demut in unserem Glauben.
+Unser Leben sei ein Dienst
+heut und morgen und an jedem Tag.</lines>
+    </verse>
+  </lyrics>
+</song>

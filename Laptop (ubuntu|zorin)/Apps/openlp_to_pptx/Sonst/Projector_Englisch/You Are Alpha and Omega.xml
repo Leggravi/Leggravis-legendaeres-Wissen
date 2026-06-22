@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Are Alpha and Omega</title>
+    </titles>
+    <authors>
+      <author type="words">Erasmus Mutanbira</author>
+      <author type="music">traditionell</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are Alpha and Omega,
+We worship you, our Lord,
+You are worthy to be praised.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We give you all the glory,
+We worship you, our Lord,
+You are worthy to be praised.</lines>
+    </verse>
+  </lyrics>
+</song>

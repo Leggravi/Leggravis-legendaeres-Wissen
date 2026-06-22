@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Old-Time Power</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>They were in an upper chamber,
+They were all with one accord,
+When the Holy Ghost descended,
+As was promised by our Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Lord, send the pow'r just now,
+O Lord, send the pow'r just now,
+O Lord, send the pow'r just now,
+And baptize ev'ry one.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yes, this pow'r from heav'n descended,
+With the sound of rushing wind;
+Tongues of fire came down upon them,
+As the Lord said He would send.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yes, this &quot;old-time&quot; pow'r was given
+To our fathers who were true;
+This is promised to believers,
+And we all may have it, too.</lines>
+    </verse>
+  </lyrics>
+</song>

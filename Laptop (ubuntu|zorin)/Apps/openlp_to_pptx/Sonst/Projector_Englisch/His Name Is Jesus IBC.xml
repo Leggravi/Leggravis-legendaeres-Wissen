@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>His Name Is Jesus (IBC)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord of most high
+You reign in all the earth
+King of kings, You're crowned in Majesty
+You hold the moon and stars
+Oh Lord how great You are
+You rose in victory,
+That happened and earth see</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord we glorify, You're the lion and the lamb
+Lord we glorify, You're the great I am
+Lord we glorify, Prince of peace
+You're everything I need</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord we glorify, You sit above the throne
+Lord we glorify, I exalt Your name alone
+Lord we glorify, I give my all to You
+There's nothing you can't do.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All glory, all honor
+All power, all praise
+Defender, strong tower
+Provider, His name is Jesus</lines>
+    </verse>
+    <verse name="v5">
+      <lines>His name is Jesus, His name is Jesus
+His name is Jesus, His name is Jssus
+His name is Jesus, His name is Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

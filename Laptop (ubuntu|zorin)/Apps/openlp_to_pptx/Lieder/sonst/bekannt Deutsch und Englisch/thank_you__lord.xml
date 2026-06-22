@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 4, 2021, 9:17:28 PM">
+  <properties>
+    <titles>
+      <title>Thank You, Lord</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4 V5 V6 V3 V4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>I come before You today
+And there's just one thing that I want to say:
+Thank You, Lord
+Thank You, Lord.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>For all You've given to me
+For all the blessings that I cannot see
+Thank You, Lord
+Thank You, Lord.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>With a grateful heart
+With a song of praise
+With an outstretched arm
+I will bless Your name.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Thank You, Lord
+I just wanna thank You, Lord!
+Thank You, Lord
+I just wanna thank You, Lord!
+Thank You, Lord!</lines>
+    </verse>
+    <verse name="V5">
+      <lines>For all You've done in my life
+You took my darkness and gave me Your light
+Thank You, Lord
+Thank You, Lord.</lines>
+    </verse>
+    <verse name="V6">
+      <lines>You took my sin and my shame
+You took my sickness and healed all my pain,
+Thank You, Lord
+Thank You, Lord!</lines>
+    </verse>
+  </lyrics>
+</song>

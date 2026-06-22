@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It Is Love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is something in my soul
+Which keeps the shadows all away;
+It is love, my Saviour's love!
+Something lightens ev'ry burden,
+Gives me gladness day by day,
+It is love, my Saviour's love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh the precious love of Jesus,
+How it thrills my ransomed soul!
+More and more I'll sing its praises
+While the happy ages roll.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the tempter tries to win me
+Something keeps me true and strong;
+It is love, my Saviour's love!
+Something makes my life a blessing
+To the needy in the throng,
+It is love, my Saviour's love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When misfortune overtakes me
+Something calms my troubled breast;
+It is love, my Saviour's love!
+Something draws my soul to heaven,
+That sweet land of peace and rest.
+It is love, my Saviour's love.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Soul astray and bowed in sorrow,
+Something waits for you today;
+It is love, my Saviour's love!
+It would give you peace and comfort,
+Make your burdens roll away,
+It is love, my Saviour's love.</lines>
+    </verse>
+  </lyrics>
+</song>

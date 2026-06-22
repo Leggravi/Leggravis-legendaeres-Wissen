@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nothing but the Blood</title>
+    </titles>
+    <authors>
+      <author type="words">Robert Lowry</author>
+      <author type="music">Robert Lowry</author>
+      <author type="translation">Nur das Blut des Lammes Jesu (Was macht mich von Sünden rein)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What can wash away my sin?
+Nothing but the blood of Jesus;
+What can make me whole again?
+Nothing but the blood of Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, precious is the flow
+That makes me white as snow;
+No other fount I know,
+Nothing but the blood of Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For my cleansing this I see,
+Nothing but the blood of Jesus;
+For my pardon this my plea,
+Nothing but the blood of Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nothing can for sin atone,
+Nothing but the blood of Jesus;
+Naught of good that I have done,
+Nothing but the blood of Jesus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>This is all my hope and peace,
+Nothing but the blood of Jesus;
+This is all my righteousness,
+Nothing but the blood of Jesus.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Now by this I’ll overcome,
+Nothing but the blood of Jesus;
+Now by this I’ll reach my home,
+Nothing but the blood of Jesus.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Glory! glory! thus I sing,
+Nothing but the blood of Jesus;
+All my praise for this I bring,
+Nothing but the blood of Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

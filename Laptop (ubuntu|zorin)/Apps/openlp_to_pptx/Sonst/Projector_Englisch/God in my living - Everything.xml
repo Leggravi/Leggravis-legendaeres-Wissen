@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God in my living - Everything</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v7 v3 v3 v4 v5 v3 v3 v6 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God in my living
+There in my breathing
+God in my waking
+God in my sleeping</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God in my resting
+There in my working
+God in my thinking
+God in my speaking</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Be my everything
+Be my everything
+Be my everything
+Be my everything</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God in my hoping
+There in my dreaming
+God in my watching
+God in my waiting</lines>
+    </verse>
+    <verse name="v5">
+      <lines>God in my laughing
+There in my weeping
+God in my hurting
+God in my healing</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Christ in me
+Christ in me
+Christ in me the hope of glory
+You are everything</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Christ in me
+Christ in me
+Christ in me the hope of glory
+Be my everything</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Walking Down Heaven's Road</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who's that walkin' down the road,
+carryin' such a heavy load?
+Sinner, lay your burden down
+'cause we're walkin' on heaven's road.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrain:
+Walkin' on heaven's road, gonna lay down my heavy load.
+Jesus said He'd walk along with me.
+Praise God, glory, hallelujah!
+I'm singing' all the way, got sunshine in ev'ry day.
+Won't you come along and join me on that heaven's road?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Young folks walkin' hand in hand,
+singing' with the angel band.
+Old folk ain't so tired no more
+'cause they're walkin' on heaven's road.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ain't no tears, no cryin' there,
+ain't no sadness anywhere.
+Ain't got time to shed no tears
+'cause I'm walkin' on heaven's road.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>His trials made him strong</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He was a tough guide who came from the South side
+Till Jesus took over his life
+God called him to preached and to boldly proclaim what was right
+Then the news from the doctor
+Changed all of the plans he could see
+You would think that the story would end With a man in defeat</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But his trials made him strong
+Brought him close to his God
+He saw his troubles turned to a victory in love
+He could have been better
+Could have made him a quitter
+But when he suffered long
+His trials made him strong</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We often cry
+And we’re asking God why
+He heals some but take some away
+But our time here is God’s and He has a part we must play
+When my daddy had triumph in love
+God took him home
+And when I finished my part
+Daddy we’ll gonna dance down on those beautiful streets of gold</lines>
+    </verse>
+  </lyrics>
+</song>

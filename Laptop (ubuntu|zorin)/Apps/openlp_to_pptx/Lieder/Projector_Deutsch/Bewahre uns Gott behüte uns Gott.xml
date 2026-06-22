@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Bewahre uns, Gott, behüte uns, Gott</title>
+    </titles>
+    <authors>
+      <author type="words">Eugen Eckert</author>
+      <author type="music">Anders Ruuth</author>
+      <author type="translation">The peace of our God</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bewahre uns, Gott, behüte uns, Gott,
+sei mit uns auf unsern Wegen.
+Sei Quelle und Brot in Wüstennot,
+sei um uns mit deinem Segen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bewahre uns, Gott, behüte uns, Gott,
+sei mit uns in allem Leiden.
+Voll Wärme und Licht im Angesicht,
+sei nahe in schweren Zeiten.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bewahre uns, Gott, behüte uns, Gott,
+sei mit uns vor allem Bösen.
+Sei Hilfe, sei Kraft, die Frieden schafft,
+sei in uns, uns zu erlösen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bewahre uns, Gott, behüte uns, Gott,
+sei mit uns durch deinen Segen.
+Dein Heiliger Geist, der Leben verheißt,
+sei um uns auf unsern Wegen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come unto Christ</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v3 v4 v5 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He is the one who healed His people
+And He would make their burdens light
+He kept them safe through wind and waves
+And the battles they would fight
+And gave them courage in the night.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Their story echoes through the ages
+A record saved for you and me
+That when the mists of darkness rise
+And the wars and storms increase
+We’ll know where we can turn for peace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And from every page
+There’s a message that rings
+To sinners and saints
+And to beggars and kings
+To…</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come unto Christ,
+From darkness to light
+He is hope in the journey
+And peace in the strife.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Come unto Christ
+Through struggle and storm
+He is love that changes everything
+And grace to bring us safely home.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Just like the young and fearless warriors
+We’ll come with bold, unshaken faith.
+Like those who put their trust in God
+Knowing He’d prepare away
+We’ll come unwavering unafraid.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>We’ll learn while in our youth to serve Him
+We’ll throw our swords and sins away
+And we’ll defend the truth we love
+Like the saints in every age
+This sacred record shows the way.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>He is love that changes everything
+And grace to bring us safely home.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Heart of the Father</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Booth</author>
+      <author type="music">Paul Booth</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We once were orphans
+God came to rescue
+All that was taken is restored
+Once left abandoned
+But now He holds us
+We are not broken anymore</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh the wonders of His mercy
+Oh what peace we found</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the heart of the Father
+There is love
+He loves us
+He loves us
+In the heart of the Father
+There is love
+He loves us
+He loves us</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Children of promise
+God’s sons and daughters
+He made us family
+We are one
+Now join together
+To tell the story
+Of grace unending
+Perfect love</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Asante baba, Asante Yesu (Thank You Father, Thank You Jesus)
+Ume tupenda, Tuna shukuru (You Love Us, We thank You)</lines>
+    </verse>
+  </lyrics>
+</song>

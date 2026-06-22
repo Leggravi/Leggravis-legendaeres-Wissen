@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Niemals war die Nacht so dunkel</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niemals war die Nacht so dunkel, 
+weit und breit kein Stern
+niemals warn wir so verloren, 
+niemals Gott so fern.
+Niemals war die Welt so friedlos,
+voller Hass und Streit.
+Niemals war die Hoffnung kleiner,
+nie das Ziel so weit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Es wird nicht dunkel bleiben,
+die Schatten fliehen schon.
+Ein Kind ist uns geboren.
+Gott schenkt uns seinen Sohn.
+Ein Kind ist uns geboren.
+Gott schenkt uns seinen Sohn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niemals war die Nacht so dunkel,
+nie so ausweglos,
+niemals waren Angst und Sorgen
+so erdrückend groß.
+Niemals waren unsere Schultern,
+von der Last so schwer.
+Niemals waren unsere Herzen
+so ruhelos und leer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Es wird nicht dunkel bleiben,
+die Schatten fliehen schon.
+Ein Kind ist uns geboren.
+Gott schenkt uns seinen Sohn.
+Ein Kind ist uns geboren.
+Gott schenkt uns seinen Sohn.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Freude, Freude, große Freude,
+seht, am Himmel wird es hell,
+Jubel, Jubel, großer Jubel,
+denn er kommt - Immanuel!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Es wird nicht dunkel bleiben,
+die Schatten fliehen schon.
+Ein Kind ist uns geboren.
+Gott schenkt uns seinen Sohn.
+Ein Kind ist uns geboren.
+Gott schenkt uns seinen Sohn.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord, Take the First Place</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I yield to Thee, Savior, forsaking my all,
+From sinful things now I will part;
+To Thee I surrender, for mercy I call,
+Come, take the first place in my heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, take the first place in my heart,
+Oh, take the first place in my heart;
+I open the door, come in, I implore;
+Lord, take the first place in my heart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, come, gentle Spirit, don’t leave me, I pray,
+From Thee I will never depart;
+I come to Thee now, for I cannot delay,
+Lord, take the first place in my heart.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I cannot be lost, Lord, for Thee I will live,
+Forgiveness, O Savior, impart;
+If I will confess, Thou wilt freely forgive,
+And take the first place in my heart.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The joybells of heaven will ring in my soul,
+My Savior, Redeemer, Thou art;
+To Thee I surrender, wilt Thou make me whole?
+Take now the first place in my heart.</lines>
+    </verse>
+  </lyrics>
+</song>

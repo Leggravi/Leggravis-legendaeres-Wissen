@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Instrument of Peace</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, make us instruments of Your peace,
+Where there is hatred, let Your love increase
+Lord, make us instruments of Your peace,
+Walls of pride and prejudice shall cease
+When we are Your instruments of peace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where there is hatred, we will show His love
+Where there is injury, we will never judge
+Where there is striving, we will speak His peace
+To the people crying for release,
+We will be His instruments of peace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Where there is blindness, we will pray for sight
+Where there is darkness, we will shine His light
+Where there is sadness, we will bear their grief
+To the millions crying for relief,
+We will be His instruments of peace.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Walls of pride and prejudice shall cease
+When we are your instruments of peace.</lines>
+    </verse>
+  </lyrics>
+</song>

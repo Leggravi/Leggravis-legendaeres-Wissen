@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:43">
+  <properties>
+    <titles>
+      <title>Herr, deines Reiches Herrlichkeit</title>
+    </titles>
+    <authors>
+      <author type="words">Hedwig von Redern (1930)</author>
+      <author type="music">Samuel Furer</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, deines Reiches Herrlichkeit
+ist unser Lebens Ziel.
+Hier stehn wir dir zum Dienst bereit
+von nah und fern in Einigkeit,
+wie uns das Los auch fiel,
+wie uns das Los auch fiel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mach den Nationen rings bekannt
+dein lebensstarkes Wort.
+Herr, segne, die du ausgesandt,
+in jedem noch so fernen Land;
+sei ihnen Fels und Hort,
+sei ihnen Fels und Hort.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und die am Werk wir betend stehn,
+erfülle auch mit Kraft;
+lass deine Siegesfahnen wehn,
+und Lebenswunder lass geschehn,
+wie nur dein Geist sie schafft,
+wie nur dein Geist sie schafft.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Auf deines Reiches Herrlichkeit,
+o Jesu, warten wir;
+mach alle uns dafür bereit
+und offenbar sie weit und breit.
+Komm bald; dich preisen wir.
+Komm bald; dich preisen wir.</lines>
+    </verse>
+  </lyrics>
+</song>

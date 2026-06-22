@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There Will Be a Day</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I try to hold on to this world
+With everything I have
+But I feel the weight of what it brings
+And the hurt that tries to grab
+The many trials that seem to never end
+His word declares this truth
+That we will enter in this rest
+With wonders anew</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But I hold on to this hope
+And the promise that He brings
+That there will be a place with no more suffering</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There will be a day with no more tears
+No more pain and no more fears
+There will be a day
+When the burdens of this place
+Will be no more
+We'll see Jesus face to face
+But until that day
+We'll hold on to you always</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I know the journey seems so long
+You feel you're walking on your own
+But there has never been a step
+Where you've walked out all alone
+Troubled soul don't lose your heart
+'Cause joy and peace He brings
+And the beauty that's in store
+Outweighs the hurt of life's sting</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I can't wait until that day
+Where the very one I've lived for always
+Will wipe away the sorrow that I've faced (vipe away the sorrow)
+To touch the scars that rescued me
+From a life of shame and misery
+Oh, this is why, this is why I sing</lines>
+    </verse>
+    <verse name="v6">
+      <lines>There will be a day with no more tears
+No more pain and no more fears
+There will be a day
+When the burdens of this place
+Will be no more
+We'll see Jesus face to face</lines>
+    </verse>
+    <verse name="v7">
+      <lines>There will be a day with no more tears
+No more pain and no more fears
+There will be a day
+When the burdens of this place
+Will be no more
+We'll see Jesus face to face
+There will be a day
+He will wipe away the tears
+He will wipe away the tears
+He will wipe away the tears
+And there will be a day</lines>
+    </verse>
+  </lyrics>
+</song>

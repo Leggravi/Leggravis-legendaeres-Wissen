@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 4, 2021, 9:10:34 PM">
+  <properties>
+    <titles>
+      <title>In the garden</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>I come to the garden alone
+While the dew is still on the roses
+And the voice I hear falling on my ear
+The Son of God discloses.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>And He walks with me,
+And He talks with me,
+And He tells me I am His own;
+And the joy we share as we tarry there,
+None other has ever known.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>He speaks, and the sound of His voice,
+Is so sweet the birds hush their singing,
+And the melody that He gave to me
+Within my heart is ringing.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>I'd stay in the garden with Him
+Though the night around me be falling,
+But He bids me go, through the voice of woe
+His voice to me is calling.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lately All I've Got Is Leavin' on My Mind</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lately all I've got is leavin' on my mind
+Seems that's all I'm thinkin''bout
+most of the time
+But soon and very soon
+I'll leave my trouble far behind
+Lately I've got leavin'
+Leavin' on my mind</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The old house I'm living in
+Is needing repair
+The windows and the shutters
+Are letting in the cold, cold air
+I say to myself I'm gonna fix'em
+When I can get the time
+But all I've been getting lately
+Is leavin' on my mind</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So I guess I should be looking
+For a better place to live
+But I can't seem to get excited
+About the world and what it can give
+I couldn't care less if I could buy it all
+With a solitary dime
+For what good would a world do me
+With leavin' on my mind</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Du Lamm Gottes, das da getragen</title>
+    </titles>
+    <authors>
+      <author type="words">Hedwig von Redern</author>
+      <author type="music">Polen</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O du Lamm Gottes, das da getragen
+all meiner Sünde Schuld, Fluch und Macht,
+für mich ans Kreuzholz warst du geschlagen,
+für mich hast alles du dort vollbracht!
+Nun hat die Erde nichts mehr an mir.
+Teuer erworben folge ich dir;
+du bist mein Friede, du bist mein Leben,
+dich, meine Leuchte in dunkler Nacht
+fand ich am Kreuz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O du Lamm Gottes nimm meine Hände
+nimm sie in deine halte sie fest,
+führe und trage mich bis zum Ende
+wenn mich die eigne Kraft hier verlässt!
+In allem Kreuze in allem Krieg,
+sei meine Stärke, bleibe mein Sieg.
+Still will ich ruhen, still will ich rasten
+in dem, was du, Herr, für mich vollbracht;
+du bist mein Trost!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O du Lamm Gottes, Quelle der Gnaden,
+Wunder der Liebe wirket dein Blut
+Wer da mühselig, wer da beladen
+der hat es bei dir köstlich und gut.
+Dich will ich preisen, dir tönt mein Dank,
+Lamm, das das Leben für mich errang!
+Siegesfroh klingt es durch aller Leiden
+brausende Flut und sengende Glut:
+„Ich komme bald!&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

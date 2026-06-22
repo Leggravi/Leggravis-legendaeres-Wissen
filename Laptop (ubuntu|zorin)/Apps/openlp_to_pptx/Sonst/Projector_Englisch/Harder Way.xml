@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Harder Way</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I look at my brothers
+They live by faith alone
+They want no compromise
+On what the Lord desires
+For the sake of Christ
+They have chosen to live the harder Way</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So I’m choosing the harder Way
+Whatsoever people around me say
+If shame may mock me and laugh
+Though the road may seem so tough
+If in the harder Way there you abide
+Then help me God there I’ll reside
+In the harder Way</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I look at my sisters
+They look too old-fashioned
+They stay in their right place
+They speak with Godly things
+Stand for what is right
+They forsake all to live
+the harder way</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I want to win You Lord
+Though it means a loss
+of this world
+I just cannot live without You
+So I’m taking the Harder Way</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Whatever It Takes</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a voice calling me
+From an old rugged tree
+And He whispers, &quot;Draw closer to Me;
+Leave this world far behind,
+There are new heights to climb,
+And a new place in Me you will find.&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For whatever it takes
+To draw closer to you, Lord,
+That's what I'll be willing to do.
+For whatever it takes to be more like You,
+That's what I'll be willing to do.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Take the dearest things to me,
+If that's how it must be,
+To draw me closer to Thee;
+Let the disappointments come,
+Lonely days without the sun,
+If through sorrow more like You I'll become.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For whatever it takes
+To draw closer to you, Lord,
+That's what I'll be willing to do.
+For whatever it takes to be more like You,
+That's what I'll be willing to do.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Take my houses, my lands,
+Change my dreams, change my plans
+For I'm placing my whole life in Your hands;
+And if You call me today
+To a place far away
+Lord, I'll go, and your will obey.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>For whatever it takes
+To draw closer to you, Lord,
+That's what I'll be willing to do.
+For whatever it takes to be more like You,
+That's what I'll be willing to do.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I'll trade sunshine for rain
+Comfort for pain -
+That's what I'll be willing to do -
+For whatever it takes for my will to break,
+That's what I'll be willing to do.
+That's what I'll be willing to do.</lines>
+    </verse>
+  </lyrics>
+</song>

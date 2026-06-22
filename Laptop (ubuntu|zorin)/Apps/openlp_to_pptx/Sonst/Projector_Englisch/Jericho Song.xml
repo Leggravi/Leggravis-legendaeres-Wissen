@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jericho Song</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We’re drowning out the lies of the enemy,
+We’re turning up the anthem that set us free,
+Your mighty name will ever be,
+The soundtrack of our victory.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We’re lifting up Your praise like a battle cry,
+The thunder of Your name breaks apart the night,
+Your matchless grace will ever be,
+The soundtrack of our victory.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Our God You will tear down the walls,
+Our God You are invincible,
+The strongholds crumble,
+Like castles of sand,
+As we shout loud our Jericho song.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yes, all around the world we’re the church alive,
+We’re fighting on our knees with revival fire,
+Our King shall reign and ever be,
+The soundtrack of our victory.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Every wall is crumblin’ is tumblin’ down,
+Every wall is crumblin’ is tumblin’ down,
+Every wall is crumblin’ is tumblin’ down,
+At Your Name Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

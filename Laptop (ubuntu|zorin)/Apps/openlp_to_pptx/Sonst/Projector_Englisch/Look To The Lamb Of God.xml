@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Look To The Lamb Of God</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If you from sin are longing to be free,
+Look to the Lamb of God;
+He, to redeem you, died on Calvary,
+Look to the Lamb of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Look to the Lamb of God,
+Look to the Lamb of God,
+For He alone is able to save you;
+Look to the Lamb of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When Satan tempts,
+and doubts and fears assail,
+Look to the Lamb of God;
+You in His strength
+Shall over all prevail,
+Look to the Lamb of God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Are you aweary,
+Does the way seem long?
+Look to the Lamb of God;
+His love will cheer
+And fill your heart with song,
+Look to the Lamb of God.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fear not when shadows
+On your pathway fall,
+Look to the Lamb of God;
+In joy or sorrow
+Christ is all in all,
+Look to the Lamb of God.</lines>
+    </verse>
+  </lyrics>
+</song>

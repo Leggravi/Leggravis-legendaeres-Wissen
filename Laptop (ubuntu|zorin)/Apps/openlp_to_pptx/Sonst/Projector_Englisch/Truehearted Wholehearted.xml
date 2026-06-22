@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Truehearted, Wholehearted</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Truehearted, wholehearted, faithful and loyal
+King of our lives, by Thy grace we will be;
+Under the standard exalted and royal
+Strong in Thy strength we will battle for Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Peal out the watchworld! Silence it never!
+Song of our spirits, rejoicing and free;
+Peal out the watchworld! Loyal forever!
+King of our lives, by Thy grace we will be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Truehearted, wholehearted, fullest allegiance
+Yielding henceforth to our glorious King
+Valiant endeavor and loving obedience
+Freely and joyously now would we bring</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Truehearted, wholehearted, Savior all glorious!
+Take thy great power and reign there alone,
+Over our wills and affections victorious
+Freely surrendered and wholy thine own.</lines>
+    </verse>
+  </lyrics>
+</song>

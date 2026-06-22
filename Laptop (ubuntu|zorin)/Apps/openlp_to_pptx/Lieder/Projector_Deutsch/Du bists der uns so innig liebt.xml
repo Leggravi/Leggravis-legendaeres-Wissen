@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist's, der uns so innig liebt</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Severus Gastorius</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist's, der uns so innig liebt,
+Du Gott voll Huld und Güte.
+Du bist's, der stets so reichlich gibt,
+Dein Herz wird niemals müde.
+Und wie Du liebst
+und wie Du gibst,
+um stets uns zu beglükken,
+ist niemals auszudrüken.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja, wahrlich, unser Glück ist groß,
+wir sind aus Dir entsprossen!
+Du machtest uns - welch glücklich Los!
+zu Deinen Hausgenossen.
+Noch leben wir
+als Fremde hier.
+Doch kann uns nichts mehr trennen,
+weil wir Dich Vater nennen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Dank für Deine Lieb' und Huld!
+Dein Name sei gepriesen!
+O Vater, Dank für die Geduld,
+die Du uns stets erwiesen!
+Bald werden dort
+wir immerfort
+Dir Lob und Ehre bringen
+und Deine Huld besingen.</lines>
+    </verse>
+  </lyrics>
+</song>

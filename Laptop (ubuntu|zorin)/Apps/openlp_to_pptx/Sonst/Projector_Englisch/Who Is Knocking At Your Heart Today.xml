@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Who Is Knocking At Your Heart Today?</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who is knocking at your heart today?
+Let the Savior in;
+Sinner, do not grieve the Lord away,
+Will you let Him in?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let Him in, let Him in,
+Sinner, rise, let Him in.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He is ling’ring at the closed door,
+Let the Savior in;
+You have heard Him knocking o’er and o’er,
+Will you let Him in?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He has long protected you from death,
+Let the Savior in;
+Don’t refuse the Lord who gives you breath,
+Will you let Him in?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>On the cross His blood was shed so free,
+Let the Savior in;
+Do not let your will thus dormant be,
+Will you let Him in?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Is your heart now like the granite stone?
+Let the Savior in;
+Soon His blood for you will not atone,
+Will you let Him in?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 10, 2019, 10:19:58 PM">
+  <properties>
+    <titles>
+      <title>I Won't Have To Cross Jordan Alone</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>When I come to the river at ending
+of day,
+When the last winds of sorrows
+have blown;
+There'll be somebody waiting
+to show me the way,
+I won't have to cross Jordan alone.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>I won't have to cross Jordan alone,
+Jesus died all my sins to atone;
+When the darkness I see,
+He'll be waiting for me,
+I won't have to cross Jordan alone.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Oftentimes I'm forsaken,
+And weary and sad,
+When it seem that my friends
+have all gone;
+There is one thought that cheers me
+and makes my heart glad,
+I won't have to cross Jordan alone.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Though the billows of sorrow
+and trouble may sweep,
+Christ the Saviour will care for His own;
+Till the end of the journey,
+My soul He will keep,
+I won't have to cross Jordan alone.</lines>
+    </verse>
+  </lyrics>
+</song>

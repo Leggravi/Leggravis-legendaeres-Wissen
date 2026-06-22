@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 13, 2019, 5:27:20 PM">
+  <properties>
+    <titles>
+      <title>The Old Rugged Cross</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2 V5 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>On a hill far away stood
+an old rugged cross,
+The emblem of suff'ring and shame,
+And I love that old cross
+Where the Dearest and Best,
+For a world of Lost sinners was slain.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>So I'll cherish that old rugged cross,
+Till my trophies at last I lay down;
+I will cling to the old rugged cross,
+And exchange it someday for a crown.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Oh, that old rugged cross,
+so despised by the world,
+Has a wondrous attraction for me;
+For the dear Lamb of God left
+His glory above,
+To bear it to dark Calvary.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>In the old rugged cross,
+stained with blood so divine,
+A wondrous beauty I see.
+For'twas on that old cross
+Jesus suffered and died,
+To pardon and sanctify me.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>To the old rugged cross
+I will ever be true
+Its shame and reproach gladly bear;
+Then He'll call me some day
+to my home far away,
+Where His glory forever I'll share.</lines>
+    </verse>
+  </lyrics>
+</song>

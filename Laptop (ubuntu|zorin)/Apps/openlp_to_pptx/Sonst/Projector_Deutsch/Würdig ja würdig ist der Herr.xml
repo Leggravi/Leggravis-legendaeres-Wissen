@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Würdig, ja würdig ist der Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Gitta Leuschner</author>
+      <author type="music">Mark Kinzer</author>
+      <author type="translation">Worthy, O worthy are You, Lord</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Würdig, ja würdig ist der Herr,
+würdig zu empfangen Macht, Anbetung, Preis und Ehr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Singt ihm: Halleluja! Ehre sei dem Sohn!
+In Ehrfurcht beten wir Dich an.
+Lamm Gottes auf dem Thron!
+Halleluja! Herr der Herrlichkeit!
+König und Eroberer, Du lebst in Ewigkeit!</lines>
+    </verse>
+  </lyrics>
+</song>

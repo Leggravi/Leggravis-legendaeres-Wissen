@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Immanuel, Immanuel</title>
+    </titles>
+    <authors>
+      <author type="words">Graham Kendrick</author>
+      <author type="music">Graham Kendrick</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Immanuel, Immanuel,
+sein Name heißt Immanuel.
+Gott hat sich uns offenbart,
+sein Name heißt Immanuel.</lines>
+    </verse>
+  </lyrics>
+</song>

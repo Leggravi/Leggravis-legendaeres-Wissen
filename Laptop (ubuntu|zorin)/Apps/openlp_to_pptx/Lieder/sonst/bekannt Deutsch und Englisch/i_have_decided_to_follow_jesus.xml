@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Aug 15, 2025, 3:37:29 PM">
+  <properties>
+    <titles>
+      <title>I Have Decided to Follow Jesus</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4 V5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>I have decided to follow Jesus;
+I have decided to follow Jesus;
+I have decided to follow Jesus;
+No turning back, no turning back.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>The world behind me, the cross before me;
+The world behind me, the cross before me;
+The world behind me, the cross before me;
+No turning back, no turning back.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Though none go with me, still I will follow;
+Though none go with me, still I will follow;
+Though none go with me, still I will follow;
+No turning back, no turning back.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>My cross I’ll carry, till I see Jesus;
+My cross I’ll carry, till I see Jesus;
+My cross I’ll carry, till I see Jesus;
+No turning back, no turning back.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Will you decide now to follow Jesus?
+Will you decide now to follow Jesus?
+Will you decide now to follow Jesus?
+No turning back, no turning back.</lines>
+    </verse>
+  </lyrics>
+</song>

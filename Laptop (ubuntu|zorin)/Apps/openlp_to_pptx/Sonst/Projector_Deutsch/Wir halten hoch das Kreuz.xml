@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir halten hoch das Kreuz</title>
+    </titles>
+    <authors>
+      <author type="words">Matthias Schyra</author>
+      <author type="music">Matthias Schyra</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dein Blut, es tränkt die Erde,
+du trägst der Menschen Last,
+dass neu lebendig werde,
+was noch vom Tod umfasst.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir tragen weit die Kunde,
+wir bekennen es vereint,
+dass durch das Blut des Lammes
+das Licht des Lebens scheint.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir halten hoch das Kreuz.
+Wir stehen auf für dein Reich.
+Jesus, du bist des Lebens Kron',
+der ew'ge König, Gottes Sohn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du hast das Kreuz gewählt
+zum Heil für diese Welt.
+Und es erklingt das Lied des Lebens:
+Es ist vollbracht, der Weg ist frei
+durch das Kreuz.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ein neuer Baum des Lebens
+Wächst auf an diesem Ort.
+Der letzte Feind des Menschen
+hat nicht das letzte Wort.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Das Zeichen deiner Liebe
+ragt in den Himmel auf.
+Ein Ärgernis für viele,
+doch Rettung dem, der glaubt.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Wir halten hoch das Kreuz.
+Wir stehen auf für dein Reich.
+Jesus, du bist des Lebens Kron',
+der ew'ge König, Gottes Sohn.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Du hast das Kreuz gewählt
+zum Heil für diese Welt.
+Und es erklingt das Lied des Lebens:
+Es ist vollbracht, der Weg ist frei
+durch das Kreuz.</lines>
+    </verse>
+  </lyrics>
+</song>

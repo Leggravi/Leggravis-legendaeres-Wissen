@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Unto Thee, Oh Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Unto Thee, Oh Lord,
+Do I lift up my soul.
+Unto Thee, Oh Lord,
+Do I lift up my soul.
+Oh My God, I trust in You,
+Let me not be ashamed,
+Let not my enemies triumph
+ over me.</lines>
+    </verse>
+  </lyrics>
+</song>

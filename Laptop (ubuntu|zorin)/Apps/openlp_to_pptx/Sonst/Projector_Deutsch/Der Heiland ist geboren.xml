@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Der Heiland ist geboren</title>
+    </titles>
+    <authors>
+      <author type="words">Josef Quadflieg</author>
+      <author type="music">Dorothee Walter</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Der Heiland ist geboren,
+freu dich, du Christenheit;
+sonst wärn wir gar verloren
+in alle Ewigkeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Freut euch von Herzen, ihr Christen all,
+kommt her zum Kindlein in dem Stall;
+freut euch von Herzen, ihr Christen all,
+kommt her zum Kindlein in dem Stall.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Das Kindlein auserkoren,
+freu dich, du Christenheit,
+das in dem Stall geboren,
+hat Himmel und Erd erfreut.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Die Engel lieblich singen,
+freu dich, du Christenheit,
+tun gute Botschaft bringen,
+verkündigen große Freud!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Der Gnadenbrunn tut fließen,
+freu dich, du Christenheit,
+tut alle das Kindlein grüßen,
+kommt her zu ihm mit Freud.</lines>
+    </verse>
+  </lyrics>
+</song>

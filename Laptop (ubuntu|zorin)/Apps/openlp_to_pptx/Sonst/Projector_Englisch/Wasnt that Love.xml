@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wasn't that Love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the town of Bethlehem
+God came down to visit man
+Wasn't that Love?
+Wasn't that Love?
+He knew pain and loneliness
+As He wore that robe of flesh
+Wasn't that Love?
+Wasn't that Love?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wasn't that Love
+How He left His home above
+ to die on Calvary
+Just to save someone like me
+Everyday I'm still amazed
+There's only one thing left to say
+Wasn't that Love?
+Wasn't that Love?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As He laid there in the tomb
+He did just what He came to do
+Wasn't that Love?
+Wasn't that Love?
+But He rose up from the grave
+So I can rise today
+Wasn't that Love?
+Wasn't that Love?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>As He stood in Pilate's hall
+He never said a word at all
+Wasn't that Love?
+Wasn't that Love?
+He heard the mob, &quot;Be crucified!&quot;
+But He knew that He came to die
+Wasn't that Love?
+Wasn't that Love?</lines>
+    </verse>
+  </lyrics>
+</song>

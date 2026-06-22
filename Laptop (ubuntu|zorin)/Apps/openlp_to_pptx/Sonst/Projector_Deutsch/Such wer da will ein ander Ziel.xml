@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Such, wer da will, ein ander Ziel</title>
+    </titles>
+    <authors>
+      <author type="words">Georg Weissel</author>
+      <author type="music">Melchior Vulpius</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Such, wer da will, ein ander Ziel,
+die Seligkeit zu finden;
+mein Herz allein bedacht soll sein,
+auf Christus sich zu gründen.
+Sein Wort' sind wahr, Sein Werk' sind klar,
+sein heil'ger Mund hat Kraft und Grund,
+all' Feind' zu überwinden.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Such, wer da will, Nothelfer viel,
+die uns doch nichts erworben;
+hier ist der Mann, der helfen kann,
+bei dem nie was verdorben.
+Uns wird das Heil durch ihn zuteil,
+uns macht gerecht der treue Knecht,
+Der für uns ist gestorben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ach, sucht doch den, lasst alles stehn,
+die ihr das Heil begehret;
+Er ist der Herr, und keiner mehr,
+Der euch das Heil gewähret.
+Sucht Ihn all Stund von Herzensgrund,
+sucht Ihn allein; denn wohl wird sein
+dem, der Ihn herzlich ehret.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Meins Herzens Kron, mein Freudensonn
+sollst Du, Herr Jesus, bleiben;
+lass mich doch nicht von Deinem Licht
+durch Eitelkeit vertreiben;
+bleib Du mein Preis, Dein Wort mich speis,
+bleib Du mein Ehr, Dein Wort mich lehr,
+an Dich stets fest zu glauben.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wend von mir nicht Dein Angesicht,
+lass mich im Kreuz nicht zagen;
+weich nicht von mir, mein höchste Zier,
+hilf mir mein Leiden tragen.
+Hilf mir zur Freud nach diesem Leid;
+hilf, dass ich mag nach dieser Klag
+dort ewig Dir Lob sagen.</lines>
+    </verse>
+  </lyrics>
+</song>

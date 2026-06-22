@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus I Need You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v3 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In every breath that I take
+In every move that I make
+Jesus I need you, I need you
+All of my days</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nothing can separate us
+Nothing compares to your love
+Jesus I need you, I need you
+All of my life</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As high as the sky above how great is your love
+As deep as the ocean Lord your unfailing love
+You are my everything, my everything
+Jesus, I love you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Through valleys of shadows you're always by my side
+Jesus, Your promises that keep me alive
+You are my everything, my everything
+Jesus, I love you</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nothing can separate us
+Nothing compares to your love
+Jesus I need you, Oh I need you
+All of my life</lines>
+    </verse>
+    <verse name="v6">
+      <lines>As high as the sky above how great is your love
+As deep as the ocean Lord your unfailing love
+You are my everything, Oh my everything
+Jesus, I love you</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Through valleys of shadows you're always by my side
+Jesus, Your promises that keep me alive
+You are my everything, Oh my everything</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Jesus how I love you
+Jesus how I love you
+Jesus how I love you
+Now and forever you are my father</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Jesus how I love you
+Jesus how I love you
+Jesus how I love you
+Now and forever you are my father
+How much I love you</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Through valleys of shadows you're always by my side
+Jesus, Your promises that keep me alive
+You are my everything, Oh my everything
+You are my everything, Oh my everything
+You are my everything, Oh my everything
+Jesus I love you
+Jesus I love you</lines>
+    </verse>
+  </lyrics>
+</song>

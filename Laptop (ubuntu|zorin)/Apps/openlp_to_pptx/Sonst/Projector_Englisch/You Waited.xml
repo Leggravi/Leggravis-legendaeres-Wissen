@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Waited</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v5 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You called out my name
+Knew my past, covered my shame
+This amazing grace
+You've shown, so patiently
+You've shown, so patiently</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And You, waited for me
+Just for me
+For me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You, waited for me
+Just for me
+For me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Where would I be? If You left me God
+Where would I be? If You left me God
+Where would I be? If You left me God
+Where would I be? If You left me God</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You waited, waited
+You waited, waited
+You waited, waited
+You waited, waited</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Where would I be? If You left me God
+Where would I be? If You left me God
+Where would I be? If You left me God
+Where would I be? If You left</lines>
+    </verse>
+    <verse name="v7">
+      <lines>You waited, waited
+You waited, waited
+(Where would I be?) Where would I be? If You left me God
+(Where would I be?) Where would I be? If You left me God
+(Where would I be?) Where would I be?</lines>
+    </verse>
+  </lyrics>
+</song>

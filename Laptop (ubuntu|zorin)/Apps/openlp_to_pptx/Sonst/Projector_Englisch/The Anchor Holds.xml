@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Anchor Holds</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v5 v6 v7 v2 v3 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have journeyed
+Through the long, dark night
+Out on the open sea
+By faith alone
+Sight unknown
+And yet His eyes were watching me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The anchor holds
+Though the ship is battered
+The anchor holds
+Though the sails are torn</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I have fallen on my knees
+As I faced the raging sea
+The anchor holds
+In spite of the storm</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I've had visions
+And I've had dreams
+I've even held them in my hands
+But I never knew
+They would slip right through
+Like they were only grains of sand</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And I have fallen on my knees
+As I faced the raging sea
+The anchor holds
+In spite of the storm</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I have been young
+But I am older now
+And there has been beauty
+That these eyes have seen</lines>
+    </verse>
+    <verse name="v7">
+      <lines>But it was in the night
+Through the storms of my life
+That's where God proved
+His love to me</lines>
+    </verse>
+    <verse name="v8">
+      <lines>I have fallen on my knees
+As I faced the raging seas
+The anchor holds
+In spite of the storm</lines>
+    </verse>
+  </lyrics>
+</song>

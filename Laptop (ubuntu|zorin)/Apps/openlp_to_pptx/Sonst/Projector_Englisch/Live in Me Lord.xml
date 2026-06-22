@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Live in Me Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Live in me Lord, live in me,
+Open your word, Lord, reveal to me
+The Life of Jesus is all I see
+The Seventh Seal has set me free</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Live in me Lord, live in me,
+Here's my heart Lord, let it be
+Consecrated Lord to thee
+Take my life Lord, live in me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelujah, I am free
+Christ has given liberty
+Seven Thunders is the key
+Hallelujah, Christ in me</lines>
+    </verse>
+  </lyrics>
+</song>

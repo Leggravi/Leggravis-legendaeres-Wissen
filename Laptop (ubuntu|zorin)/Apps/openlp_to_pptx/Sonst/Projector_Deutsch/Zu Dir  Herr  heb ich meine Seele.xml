@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Zu Dir , Herr , heb ich meine Seele!</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>|: Zu Dir , Herr , heb ich meine Seele! :|
+: Mein Gott auf Dich vertraue ich! :|
+|: Du, nur Du bist mein Gott :|
+
+|: Meine Augen sehe  stets auf Dich :|
+|: mein Gott, auf Dich vertraue ich,nur
+|: Du, nur Du bist mein Gott :|</lines>
+    </verse>
+  </lyrics>
+</song>

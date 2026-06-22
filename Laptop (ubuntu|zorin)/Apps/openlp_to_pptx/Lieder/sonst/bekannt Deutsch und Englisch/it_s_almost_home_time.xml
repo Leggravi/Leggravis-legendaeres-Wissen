@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jun 26, 2021, 4:36:49 PM">
+  <properties>
+    <titles>
+      <title>It's Almost Home Time</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>So many years have passed
+Yet still we're here
+Standing on the rock of revelation
+Our faith in God's word will never fade away
+For in Him alone is our truest home</lines>
+    </verse>
+    <verse name="C2">
+      <lines>It's almost home time
+We'll soon be leaving for the other side
+And meet our Maker there, and all the pain and tears
+All things that we've fear will be gone away, our souls will be at rest
+And we will all be blessed into that dwelling place we are homesick for
+It's almost home time</lines>
+    </verse>
+    <verse name="V3">
+      <lines>The end of time is drawing near
+Prophecies and signs are fulfilled
+Babylon is falling, Jerusalem is rising
+Will soon fulfill our destiny</lines>
+    </verse>
+    <verse name="V4">
+      <lines>The head stone has come down
+Becoming one with us
+We will soon be changed
+As Heaven and Earth become one</lines>
+    </verse>
+  </lyrics>
+</song>

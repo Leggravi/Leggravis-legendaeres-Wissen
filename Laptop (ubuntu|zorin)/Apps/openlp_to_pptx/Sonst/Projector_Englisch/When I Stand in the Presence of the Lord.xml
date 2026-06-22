@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When I Stand in the Presence of the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Mark Altrogge</author>
+      <author type="music">Mark Altrogge</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I come to the end of my journey,
+And I meet the One who gave
+ His life for me,
+I will want nothing but to see the face
+ of my Lord
+When I stand in the presence of the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I stand in the presence of the Lord
+And receive the crown of life
+ as my reward,
+And then I'll look upon His face
+And thank Him for His saving grace
+When I stand in the presence of the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As I walk down the street of New Jerusalem,
+I won't look for my mansion
+ or my crown.
+I will bask in the sunlight of His love,
+As I stand in the presence of the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

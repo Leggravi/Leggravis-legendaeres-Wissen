@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:54">
+  <properties>
+    <titles>
+      <title>Heiland, nimm dies Kindlein an</title>
+    </titles>
+    <authors>
+      <author type="words">Christoph Friedrich Eppler (1881)</author>
+      <author type="music">Johann Rudolf Ahle</author>
+    </authors>
+    <ccliNo>6221878</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heiland, nimm dies Kindlein an,
+das wir jetzt zur Taufe bringen;
+weih es zu der Lebensbahn,
+hilf ihm, nach dem Himmel ringen;
+mach's zu deines Reiches Erben
+jetzt im Leben, einst im Sterben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nimm es auf in deinen Bund,
+walte über ihm in Gnaden;
+heile es bis auf den Grund
+von dem anererbten Schaden,
+dass es heilig einst erscheine
+in der oberen Gemeine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Senke ihm dein Leben ein
+unter deines Geistes Wehen,
+dann wird es für dich gedeihn,
+wird im Geiste auferstehen
+und zu deines Vaters Ehren
+auch dein Gnadenreich vermehren.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Führe es an deiner Hand
+durch das dunkle Talg der Mängel;
+nimm's bei jedem harten Stand
+in den starken Schutz der Engel,
+dass sie es vor den Gefahren
+dir zum Leben treu bewahren.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Endlich nimm's zur rechten Zeit,
+wann es selig ausgelitten,
+in das Reich der Herrlichkeit,
+in des Friedens stille Hütten;
+seinen Namen wollst du schreiben
+in das Lebensbuch zum Bleiben.</lines>
+    </verse>
+  </lyrics>
+</song>

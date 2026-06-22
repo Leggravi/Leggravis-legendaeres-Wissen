@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Evening Light</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's been quite a journey from Calv'ry
+The road wasn't easy
+There were burdens to bear
+But He'll keep His promise
+That He'll do it for us
+He'll cross us over upon full surrender
+When we give Him our all
+He'll take control
+Then we will conquer
+And we will not fall</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the evening time
+We'll shine
+He'll be the light within us
+Working through us
+Even in the storm
+We'll rise
+Resting in our hope in Jesus
+We'll be victorious today</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The world's getting darker around us
+We're raging against an invisible war
+But He's given us something
+Through a grace that's amazing
+His Holy Spirit
+Oh we have to receive it
+When the battle is won
+We'll face the One
+Who has led us this far
+It would be worth it all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>One sweet day
+There will be a celebration
+All our tears wipe away
+And we'll rest in His embrace
+But for now we'll sing an anthem of praise</lines>
+    </verse>
+  </lyrics>
+</song>

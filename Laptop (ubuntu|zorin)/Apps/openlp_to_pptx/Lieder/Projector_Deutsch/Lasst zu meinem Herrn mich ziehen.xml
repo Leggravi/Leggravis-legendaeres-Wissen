@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lasst zu meinem Herrn mich ziehen</title>
+    </titles>
+    <authors>
+      <author type="words">Gotthelf Bernhardt Kühn</author>
+      <author type="music">Oskar Schumm</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lasst zu meinem Herrn mich ziehen,
+meine Seele eilt Ihm zu;
+wo die ew'gen Sonnen glühen,
+wartet mein die Sabatruh;
+war's auch schön in eurem Kreise,
+von der Erde scheid‘ ich gern:
+Gnade gab der Herr zur Reise,
+lasst mich ziehn zu meinem Herrn!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lasst zu meinem Herrn mich ziehen,
+dem ich schulde ewig Dank,
+der am Kreuz mit heißem Mühen
+auch um meine Seele rang.
+Fern im Osten glänzt der Morgen,
+funkelt hell der Morgenstern;
+weinet nicht, ich bin geborgen —
+lasst mich ziehn zu meinem Herrn!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lasst zu meinem Herrn mich ziehen!
+Warum haltet ihr mich auf?
+Aus der Fremde lasst mich fliehen,
+nach der Heimat geht mein Lauf.
+Salems Tore, Zions Mauern
+seh' ich schimmern schon von fern —
+liebt ihr mich, so lasst das Trauern,
+lasst mich ziehn zu meinem Herrn!</lines>
+    </verse>
+  </lyrics>
+</song>

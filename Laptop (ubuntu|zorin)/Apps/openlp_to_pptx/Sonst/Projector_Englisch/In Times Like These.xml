@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In Times Like These</title>
+    </titles>
+    <authors>
+      <author type="words">Ruth Caye Jones</author>
+      <author type="music">Ruth Caye Jones</author>
+      <author type="translation">Im Sturm der Zeit</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In times like these you need a Saviour,
+In times like these you need an anchor
+Be very sure, be very sure,
+Your anchor holds and grips
+the solid rock.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This rock is Jesus, Yes, He's the One,
+This rock is Jesus, the only One;
+Be very sure, be very sure,
+Your anchor holds and grips
+the solid rock.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In times like these you need the Bible,
+In times like these oh be not idle,
+Be very sure, be very sure,
+Your anchor holds and grips
+the solid rock.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In times like these, I have a Saviour,
+In times like these, I have an anchor,
+I'm very sure, I'm very sure,
+My anchor holds and grips
+the solid rock.</lines>
+    </verse>
+  </lyrics>
+</song>

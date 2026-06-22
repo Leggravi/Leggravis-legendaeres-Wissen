@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Cleansed</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here, at the altar, where I run to rest
+Where I wait, resurrection, and the touch of your breath
+I die now daily, because I've learned to live
+In the grace that belongs to, all who are born again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am cleansed
+I am washed
+I am sanctified
+I am Holy Ghost filled and water baptized
+I am right with my God for all time
+Cause Jesus my Savior's alive</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Here, at the table, where children are fed
+We are filled with the mercy of the lamb and the bread
+I feast now daily because I've learned to live
+In the grace that belongs to all who are born again</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: Glory, glory
+This is what is called glory
+Glory, glory
+This is what is called glory
+Glory, glory
+This is what is called glory :/</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I am cleansed
+I am washed
+I am sanctified
+I am Holy Ghost filled and water baptized
+I am right with my God for all time
+Cause Jesus my savior
+Jesus my savior
+Jesus my savior
+He's alive</lines>
+    </verse>
+  </lyrics>
+</song>

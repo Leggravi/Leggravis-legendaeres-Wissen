@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wer kann die Sorgfalt nennen</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Elberfeld</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wer kann die Sorgfalt nennen,
+Die Du, o Vater, übst,
+Und wer die Liebe kennen,
+Womit Du stets uns liebst?
+Du pflegst uns ohn' Ermüden
+Und trägst uns ohne Rast.
+Du schenkst uns Deinen Frieden,
+Erleichterst jede Last.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir sind Dir anvertrauet
+Von Jesu, unserm Herrn.
+Der Glaube stets Dich schauet,
+Du bist uns nimmer fern,
+Und wirst uns hier bewahren
+In dieser argen Welt,
+Wir werden stets erfahren,
+Dass Vatertreu' uns hält.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dein Tun ist stets gesegnet,
+Selbst wenn es hart uns scheint.
+Dein Blick voll Trost begegnet
+Dem, der gebeugt hier weint.
+O wohl uns, dass wir stehen
+In Deiner Vaterhut!
+Wir können freudig gehen,
+Du machst es immer gut.</lines>
+    </verse>
+  </lyrics>
+</song>

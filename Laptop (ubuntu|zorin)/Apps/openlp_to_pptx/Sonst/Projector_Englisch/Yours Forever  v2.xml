@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Yours Forever – v2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I wrote a letter to my Lord,
+I didn't know where to start;
+There was so much to thank Him for
+that swelled within my heart,
+I thanked Him for the love inside
+That I didn't have before;
+And at the end I signed it,
+&quot;I'll be Yours forever more.&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I wanna be Yours forever,
+Yours forever,
+Lord, I wanna be Yours forever,
+Yours forever, Yours forever,
+Yours forevermore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A few days later in Sunday school
+We learned John 3:16,
+It told of Everlasting Life,
+if only we'd believe;
+Now everlasting means forever,
+And I begin to see
+God's word is a letter to my heart,
+He's written back to me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh Lord, I wanna be Yours
+O Lord, forevermore.</lines>
+    </verse>
+  </lyrics>
+</song>

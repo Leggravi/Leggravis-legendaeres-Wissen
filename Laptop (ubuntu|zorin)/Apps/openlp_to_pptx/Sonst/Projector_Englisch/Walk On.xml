@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Walk On</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The road before my eyes goes over the horizon
+It seems so far for a man to go,
+I fall along the way but I'll just keep on trying
+'Cause deep within my heart I know.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When the cold and lonely
+Winter winds are blowing
+You've got to walk on, walk on
+If we press on to the end we will be knowing
+For every dark night there's a dawn
+If we will walk on, walk on.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If you're out there walking
+With your head hung down
+Lift up your eyes -look around,
+There's joy in the journey even
+When our hope seems lost, carry on.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The load is heavy and the road is long,
+It's so hard to be strong,
+But what you're longing for might be
+Around the bend, don't give in,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There is a voice that speaks inside me,
+That says there's someone
+Walking right beside me,
+He's always there to help and guide me,
+Showing me how to walk on.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh, we've got to walk on, walk on
+There's joy in the journey
+Even when all hope seems gone
+Carry on</lines>
+    </verse>
+  </lyrics>
+</song>

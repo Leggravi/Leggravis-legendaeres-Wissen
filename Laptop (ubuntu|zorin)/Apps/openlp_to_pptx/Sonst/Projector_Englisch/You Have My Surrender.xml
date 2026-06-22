@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Have My Surrender</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here are my hopes
+Here are my doubts
+Here are the things that I can't figure out
+Here are my storms, my crashing seas
+Here are the burdens that have brought me to my knees</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I will take You at Your unfailing word
+More than all I want, I will seek You first
+I will bless Your Name when the night is long
+God You have my surrender</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Here are my prayers, my heart will wait
+And I will bow my will so You can have Your way
+Here are the things I can't undo
+I am nothing, nothing without You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And I will take You at Your unfailing word
+More than all I want, I will seek You first
+I will bless Your Name when the night is long
+God You have my surrender
+Oh God, You have my surrender</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I cast my cares on, I cast my cares on
+I cast my cares on You, yes
+I cast my cares on, I cast my cares on
+I cast my cares on You, oh yeah
+I cast my cares on, I cast my cares on
+I cast my cares on You, yeah</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And I will take You at Your unfailing word
+More than all I want, I will seek You first
+I will bless Your name when the night is long
+God You have my surrender
+Oh God, You have my surrender
+Oh God, You have my surrender</lines>
+    </verse>
+  </lyrics>
+</song>

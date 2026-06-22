@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I've Got Something</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've got something that the world can't give,
+And the world can't take it away.
+I've got something that the world can't give
+And it keeps me day by day.
+I've got something worth talking about.
+It makes me sing and it makes me shout;
+I've got something that the world can't give
+And the world can't take it away.</lines>
+    </verse>
+  </lyrics>
+</song>

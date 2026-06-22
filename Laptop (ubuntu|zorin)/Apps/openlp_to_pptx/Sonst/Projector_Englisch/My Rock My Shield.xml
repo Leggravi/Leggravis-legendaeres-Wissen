@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Rock, My Shield</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My rock, my shield
+My Jesus is real
+I can feel Him deep within my soul
+One day He saved my soul
+And He made me free and whole
+My Lord, He's real
+I can feel Him in my soul</lines>
+    </verse>
+    <verse name="v2">
+      <lines>One night, I repented
+I got down on my bended knees
+Cried, &quot;Lord, have mercy
+Won't You save my soul from sin&quot;
+I'm walking not alone
+'Cause I'm headed straight for home
+My Lord, He's real
+I can feel Him in my soul</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come to Jesus, repent,
+Get your feet on a solid Rock
+He's the one who can help you
+He will hear you when you cry
+It's Jesus, my Savior
+He's a friend and a faithful God
+My Lord, He's real,
+He will lead you to the other side</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My Lord, He's real
+I can feel Him in my soul</lines>
+    </verse>
+  </lyrics>
+</song>

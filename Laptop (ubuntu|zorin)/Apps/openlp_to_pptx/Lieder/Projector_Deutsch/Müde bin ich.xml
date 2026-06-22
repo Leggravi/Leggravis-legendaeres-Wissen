@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Müde bin ich</title>
+    </titles>
+    <authors>
+      <author type="words">Luise Hensel</author>
+      <author type="music">Böhmische Brüder</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Müde bin ich, geh zur Ruh
+Schließe beide Augen zu.
+Vater, lass die Augen dein
+Über meinem Bette sein</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hab ich Unrecht heut getan
+Sieh es, lieber Gott, nicht an
+Deine Gnad und Jesu Blut
+Machen allen Schaden gut</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alle, die mir sind verwandt
+Gott, lass ruhn in deiner Hand
+Alle Menschen, groß und klein
+Sollen dir befohlen sein</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kranken Herzen sende Ruh
+Müde Augen schließe zu
+Gott im Himmel halte Wacht
+Gib uns eine gute Nacht</lines>
+    </verse>
+  </lyrics>
+</song>

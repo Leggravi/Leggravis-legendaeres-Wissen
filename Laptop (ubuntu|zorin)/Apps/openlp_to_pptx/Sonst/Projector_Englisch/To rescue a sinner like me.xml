@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>To rescue a sinner like me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I don't understand, How a God so divine
+Could lower Himself to a life such as mine
+And consider me worth every minute of time
+To rescue a sinner like me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I think of my savior Alone on the cross
+I know without Him, that my life would be lost
+If we had not been willing to suffer the cost
+To rescue a sinner like me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To rescue a sinner like me, Lord
+To rescue a sinner like me
+He abandoned His throne
+And His kingdom above
+To rescue a sinner like me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My mind is so limited that I cannot see
+The reason He died and arose just for me
+So unworthy was I yet He gave willingly
+To rescue a sinner like me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>To rescue a sinner as worthless as I
+And He gave me a reason to sing
+It's so hard to believe, but it happened to me
+Hallelujah, to Jesus my King, my King</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A sinner like me
+A sinner like me</lines>
+    </verse>
+  </lyrics>
+</song>

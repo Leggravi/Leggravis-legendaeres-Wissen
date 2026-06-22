@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Bring Times Of Refreshing</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Well, I thank You Lord
+ that You are my Savior,
+ You're my strength and
+ You're the rock on which I stand.
+ You give me life
+ and a grace that's greater,
+ When I humble myself
+ beneath Your mighty hand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You bring times of refreshing,
+ You bring times of refreshing,
+ You bring times of refreshing
+  to my soul.
+ When I'm weary from the fight
+ And trying to do what's right,
+ You bring times of refreshing
+  to my soul.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For the day will come
+ When we'll all be gathered,
+ And the sun will rise
+  with healing in its wings;
+ And all the years of pain
+  won't seem to matter
+ When our eyes behold
+  our Teacher and our King.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jehovah Jireh My Provider</title>
+    </titles>
+    <authors>
+      <author type="words">Merla Watson</author>
+      <author type="music">Merla Watson</author>
+      <author type="translation">Jahwe Jireh</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v2 v3 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jehovah Jireh
+My provider
+His grace is sufficient
+For me, for me, for me
+Jehovah Jireh
+My provider
+His grace is sufficient
+For me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My God shall supply all my needs
+According to His riches in glory
+He will give His angels
+Charge over me
+Jehovah Jireh cares for me, for me, for me
+Jehovah Jireh cares for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My God shall supply all my needs
+According to His riches in glory
+He will give His angels
+Charge over me
+Jehovah Jireh cares for me, for me, for me
+Jehovah Jireh cares for me, for me, for me
+Jehovah Jireh cares for me</lines>
+    </verse>
+  </lyrics>
+</song>

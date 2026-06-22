@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Did you feel the mountains tremble?</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Smith</author>
+      <author type="music">Martin Smith</author>
+      <author type="translation">Spürst du, wie die Berge beben</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Did you feel the mountains tremble?
+Did you hear the oceans roar?
+When the people rose to sing of
+Jesus Christ the risen one</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Did you feel the people tremble?
+Did you hear the singers roar?
+When the lost began to sing of
+Jesus Christ the risen one</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And we can see that God you're moving
+A mighty river through the nations
+And young and old will turn to Jesus
+Fling wide your heavenly gates
+Prepare the way of the risen Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Open up the doors and let the music play
+Let the streets resound with singing
+Songs that bring your hope
+Songs that bring your peace
+Dancers who dance upon injustice</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Did you feel the darkness tremble?
+When all the saints join in one song
+And all the streams flow as one river
+To wash away our brokenness</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And here we see that God you're moving
+A time of Jubilee is coming
+When young and old return to Jesus
+Fling wide your heavenly gates
+Prepare the way of the risen Lord</lines>
+    </verse>
+  </lyrics>
+</song>

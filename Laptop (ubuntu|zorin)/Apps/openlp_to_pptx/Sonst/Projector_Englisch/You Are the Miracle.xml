@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Are the Miracle</title>
+    </titles>
+    <authors>
+      <author type="words">John Willard Peterson</author>
+      <author type="music">John Willard Peterson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have come to the end of a year, with You
+and I thank you Lord I thank you
+I have safely made it through because of you
+We have come to the end of a year, with you
+And we thank you Lord we thank you
+We have safely made it through because of you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are the miracle (x2), in our lives
+And we thank you, Lord we thank you
+We have safely made it through because of you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So many have gone on the other side, to be with You
+And we thank you Lord we thank you
+They have safely made it through because of you.
+So many this year has been baptised and identified with you
+And we thank you, Lord we thank you,
+they have safely made it through because of you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So many received healing in their lives, All because of you
+And we thank you Lord we thank you
+They have safely made it through because of you
+Your servant has travelled around the world and reaching lives
+Sharing what he has received from you
+And we thank you Lord we thank you
+They have safely made it through because of you.</lines>
+    </verse>
+  </lyrics>
+</song>

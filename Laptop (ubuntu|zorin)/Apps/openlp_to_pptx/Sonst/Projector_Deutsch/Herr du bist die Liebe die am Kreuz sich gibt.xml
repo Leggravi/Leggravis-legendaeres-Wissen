@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr du bist die Liebe die am Kreuz sich gibt</title>
+    </titles>
+    <authors>
+      <author type="words">Margret Birkenfeld</author>
+      <author type="music">Margret Birkenfeld</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr du bist die Liebe die am Kreuz sich gibt
+und die jeden Menschen trotz seiner Fehler liebt,
+Liebe die erst an den andern denkt,
+Liebe die mit Freuden sich verschenkt.
+Herr diese Liebe gibst du auch mir,
+bleib ich nur immer, Jesus, in dir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr du schenkst die Freude, die niemals vergeht,
+die in frohen Zeiten und auch im Leid besteht,
+Freude, ewig Gottes Kind zu sein,
+gibt dem Leben einen hellen Schein.
+Herr diese Freude gibst du auch mir,
+bleib ich nur immer, Jesus, in dir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr in dir ist Friede, still und tief und weit,
+Friede für die Menschen auch unser wirren Zeit,
+Friede, der das denken übersteigt.
+Friede, der uns zueinander neigt.
+Herr, diesen Frieden gibst du auch mir,
+bleib ich nur immer, Jesus, in dir.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Liebe, Freude, Friede, deines Geistes Frucht,
+hast du schon so lange, Herr, bei mir gesucht,
+dass mein Leben dich, Herr Jesus preist,
+dass es andre Menschen zu dir weist.
+ich will dir danken du schenkst es mir,
+bleib ich nur immer, Jesus, in dir.</lines>
+    </verse>
+    <verse name="v5">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

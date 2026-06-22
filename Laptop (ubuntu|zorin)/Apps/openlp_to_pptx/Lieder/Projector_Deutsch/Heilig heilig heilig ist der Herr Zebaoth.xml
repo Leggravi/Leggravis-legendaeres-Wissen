@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heilig, heilig, heilig ist der Herr Zebaoth!</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Nolene Prince</author>
+      <author type="translation">Holy holy holy is the Lord of hosts</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heilig, heilig, heilig ist der Herr Zebaoth!
+Heilig, heilig, heilig ist der Herr Zebaoth!
+Die Länder sind voll seiner Ehre,
+Die Länder sind voll seiner Ehre,
+Die Länder sind voll seiner Ehre!
+Heilig ist der Herr!</lines>
+    </verse>
+  </lyrics>
+</song>

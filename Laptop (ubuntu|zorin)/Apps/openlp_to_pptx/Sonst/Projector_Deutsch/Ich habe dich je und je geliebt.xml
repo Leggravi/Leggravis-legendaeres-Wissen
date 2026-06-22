@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich habe dich je und je geliebt</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Steven Andrews</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich habe dich je und je geliebt,
+darum hab ich dich zu mir.
+Ich habe dich je und je geliebt,
+komm, vertraue mir!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich, der Herr, dein Gott, habe dich gemacht,
+schön und wertvoll bereitet, du bist mein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich, der Herr, dein Gott, habe dich erlöst,
+rief dich bei deinem Namen, du bist mein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich, der Herr, dein Gott, will stets bei dir sein,
+keine Not kann dir schaden, du bist mein!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Fly Away</title>
+    </titles>
+    <authors>
+      <author type="words">Albert E. Brumley</author>
+      <author type="music">Albert E. Brumley</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lately I've been thinking,
+As I look all around me
+I see by the signs,
+that we’ll soon be flying home
+The bridegroom is coming,
+to take us all away It may be
+tomorrow, but I’m praying
+that it is today.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And we will, Fly, fly away,
+in the twinkling of an eye
+Leaving all our hurting.
+and telling them all good-bye
+Yes we will
+Fly, fly away when we hear the
+Father say
+Jesus go and get the bride,
+for today I. our wedding day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And when we see the bridegroom
+coming In the clouds in the sky
+Will He be saying hello!
+Or telling you goodbye
+Oh just be sure and be ready,
+to meet Him face to face
+We’ve got to fight a good fight
+We’ve got to keep our faith.</lines>
+    </verse>
+  </lyrics>
+</song>

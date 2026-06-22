@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God Walks the Dark Hills</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God walks the dark hills,
+The ways, the by-ways
+He walks on the billows of life’s
+troubled sea
+He walks in the cold, dark nights,
+The shadows, the mid-nights
+God walks the dark hills
+Just to guide you and me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God walks the dark hills
+To guide my footstep.
+He walks everyday,
+By night and by day,
+He walks in silence,
+All down the highway
+God walks the dark hills,
+To show me the way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Then God walks in the storms,
+The rain and the sunshine
+He walks on the billows
+or through Glimmering lights
+Helps us walk up the
+mountain so High
+Cross our rivers through valleys
+God walks the dark hills,
+Cos He loves you and me.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>First Love Me</title>
+    </titles>
+    <authors>
+      <author type="words">Anja Lehmann</author>
+      <author type="music">Anja Lehmann</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can't forget
+I still remember
+The place You found me
+And I surrendered</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When Your grace covered my shame
+And saw my need
+You gave me hope
+Hope and a future</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My heart is Yours
+Now and forever
+I am loved
+Only because You first loved me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And I love You
+Jesus I love
+Yes I love You
+Because You first loved me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Your sacrifice
+Is overwhelming
+Suffered and died
+Because You loved me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I'm alive
+Only through Christ who first loved me
+Nothing can tear me away from Your love Lord</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nothing can separate your heart from mine
+Nothing can tear me away from Your love Lord
+I am Yours, I am Yours</lines>
+    </verse>
+  </lyrics>
+</song>

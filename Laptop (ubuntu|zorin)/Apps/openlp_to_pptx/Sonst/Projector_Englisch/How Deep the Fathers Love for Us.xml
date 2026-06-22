@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>How Deep the Father’s Love for Us</title>
+    </titles>
+    <authors>
+      <author type="words">Stuart Townend</author>
+      <author type="music">Stuart Townend</author>
+      <author type="translation">Wie tief muss Gottes Liebe sein</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How deep the Father’s love for us,
+How vast beyond all measure,
+That He should give His only Son
+To make a wretch His treasure.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How great the pain of searing loss –
+The Father turns His face away,
+As wounds which mar the Chosen One
+Bring many sons to glory.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Behold the man upon a cross,
+My sin upon His shoulders;
+Ashamed, I hear my mocking voice
+Call out among the scoffers.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It was my sin that held Him there
+Until it was accomplished;
+His dying breath has brought me life –
+I know that it is finished.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I will not boast in anything,
+No gifts, no power, no wisdom;
+But I will boast in Jesus Christ,
+His death and resurrection.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Why should I gain from His reward?
+I cannot give an answer;
+But this I know with all my heart –
+His wounds have paid my ransom.</lines>
+    </verse>
+  </lyrics>
+</song>

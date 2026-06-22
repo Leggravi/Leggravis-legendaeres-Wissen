@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Straight to the Heart</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v2 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I'm down, when my soul's in need of rest
+Come your words of comfort and of hope
+I see your face always smiling back at me
+A stream of light running straight to the heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Child of God, child of light
+There'll be no more lonely nights
+'Cause you have brightened up my life</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's a road that leads me to this place
+A path of love running straight to the heart</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Over the years
+I've learned one important thing
+It's that real friends
+Shall never truly be apart</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You were there
+In my darkest time of need
+With a hand
+Reaching straight to the heart</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Take this gift it is all I have to give
+A prayer of love
+Forever straight to the heart
+A prayer of love
+Forever straight to the heart</lines>
+    </verse>
+  </lyrics>
+</song>

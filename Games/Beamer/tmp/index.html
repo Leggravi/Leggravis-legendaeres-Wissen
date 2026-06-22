@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🎮 Wikinger Spieleabend – START</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    
+    body {
+      font-family: 'Orbitron', monospace;
+      background: linear-gradient(135deg, #0a0e27 0%, #1a0a3e 100%);
+      color: #e0e7ff;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem;
+    }
+
+    .container {
+      text-align: center;
+      max-width: 600px;
+    }
+
+    h1 {
+      font-size: 4rem;
+      margin-bottom: 0.5rem;
+      background: linear-gradient(45deg, #00d4ff, #c084fc, #f472b6);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      letter-spacing: 2px;
+    }
+
+    p {
+      font-size: 1.2rem;
+      color: #cbd5e1;
+      margin-bottom: 3rem;
+      line-height: 1.6;
+    }
+
+    .button-group {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem;
+      margin-bottom: 2rem;
+    }
+
+    .btn {
+      background: linear-gradient(135deg, #8b5cf6 0%, #c084fc 100%);
+      border: 2px solid #c084fc;
+      color: #fff;
+      padding: 2rem 1.5rem;
+      font-size: 1.3rem;
+      font-weight: 900;
+      border-radius: 12px;
+      cursor: pointer;
+      transition: all 0.3s;
+      text-decoration: none;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.8rem;
+      font-family: 'Orbitron', monospace;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+
+    .btn:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 0 40px rgba(192, 132, 252, 0.6);
+      background: linear-gradient(135deg, #c084fc 0%, #f472b6 100%);
+    }
+
+    .btn-icon {
+      font-size: 2.5rem;
+    }
+
+    .info-box {
+      background: rgba(139, 92, 246, 0.1);
+      border: 2px solid rgba(139, 92, 246, 0.3);
+      border-radius: 12px;
+      padding: 2rem;
+      text-align: left;
+      margin-top: 2rem;
+    }
+
+    .info-box h3 {
+      color: #c084fc;
+      margin-bottom: 1rem;
+      font-size: 1.3rem;
+    }
+
+    .info-box ul {
+      list-style: none;
+      padding-left: 1rem;
+    }
+
+    .info-box li {
+      margin-bottom: 0.5rem;
+      color: #cbd5e1;
+    }
+
+    .info-box li::before {
+      content: "→ ";
+      color: #c084fc;
+      font-weight: 700;
+      margin-right: 0.5rem;
+    }
+
+    .keyboard-info {
+      background: rgba(251, 191, 36, 0.1);
+      border: 1px solid rgba(251, 191, 36, 0.3);
+      border-radius: 8px;
+      padding: 1.5rem;
+      margin-top: 1.5rem;
+      text-align: left;
+    }
+
+    .keyboard-info h4 {
+      color: #fbbf24;
+      margin-bottom: 0.8rem;
+    }
+
+    .key {
+      display: inline-block;
+      background: rgba(0, 0, 0, 0.3);
+      border: 1px solid rgba(251, 191, 36, 0.5);
+      padding: 0.3rem 0.6rem;
+      border-radius: 4px;
+      margin: 0 0.2rem;
+      font-family: monospace;
+      font-weight: 700;
+    }
+
+    @media (max-width: 600px) {
+      h1 { font-size: 2.5rem; }
+      .button-group { grid-template-columns: 1fr; }
+      .btn { padding: 1.5rem; font-size: 1.1rem; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>⚔️ WIKINGER SPIELEABEND ⚔️</h1>
+  <p>Möge Odin euch Stärke verleihen!</p>
+
+  <div class="button-group">
+    <a href="beamer.html" class="btn">
+      <div class="btn-icon">🎬</div>
+      <div>BEAMER</div>
+      <div style="font-size: 0.8rem; text-transform: none;">Publikum / Zuschauer</div>
+    </a>
+    <a href="moderator.html" class="btn">
+      <div class="btn-icon">👑</div>
+      <div>MODERATOR</div>
+      <div style="font-size: 0.8rem; text-transform: none;">Spielleitung</div>
+    </a>
+  </div>
+
+  <div class="info-box">
+    <h3>🎮 Wie funktioniert es?</h3>
+    <ul>
+      <li><strong>Öffne zwei Browser-Fenster:</strong></li>
+      <li style="margin-left: 1.5rem;">1. BEAMER-Website im Vollbild auf Beamer/großem Monitor</li>
+      <li style="margin-left: 1.5rem;">2. MODERATOR-Website auf Laptop/Tablet für Kontrolle</li>
+      <li><strong>3 Teams starten fest:</strong> Team 1, Team 2, Team 3</li>
+      <li><strong>Buzzer-Tasten:</strong> 1 = Team 1, 2 = Team 2, 3 = Team 3</li>
+      <li><strong>Speichern unterstützt:</strong> >30 Buzzer pro Sekunde!</li>
+    </ul>
+  </div>
+
+  <div class="keyboard-info">
+    <h4>⌨️ Tastenkombinationen</h4>
+    <div style="line-height: 2;">
+      <div><span class="key">1</span> <span class="key">2</span> <span class="key">3</span> = Buzzer Teams</div>
+      <div><span class="key">Space</span> = Timer Start/Stop (Moderator)</div>
+    </div>
+  </div>
+
+  <div style="margin-top: 3rem; color: #64748b; font-size: 0.9rem;">
+    <p>🎪 Erste Ausarbeitung überarbeitet mit Buzzern, Soundeffekten & cooler Grafik</p>
+  </div>
+</div>
+
+</body>
+</html>

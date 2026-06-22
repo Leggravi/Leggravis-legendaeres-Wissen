@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Casting Down Imaginations</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’ve found new a way
+of praying,
+I’ve started praying the Word,
+Just believing what
+God said,
+And not what I’ve always
+heard.
+Now my feelings would fool me
+Lead me wrong every time
+Reasonings deceive me
+So am not trusting my mind.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(But) Well I’m casting down
+my imaginations
+Every high thing that exalted itself
+Against the knowledge of God
+Bringing into captivity
+Every thought to the obedience
+of Christ.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I’ve found a new way
+of feeling
+I’ve started feeling by faith
+I didn’t get it by thinking
+I only got it by grace
+When my mind tries to tell me
+The Word of God isn’t true
+I don’t let devil deceive me
+I’ll tell you just what I do.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Casting down
+I’m casting down, casting down.</lines>
+    </verse>
+  </lyrics>
+</song>

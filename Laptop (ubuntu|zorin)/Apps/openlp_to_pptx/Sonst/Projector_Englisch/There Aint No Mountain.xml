@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There Ain't No Mountain</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There ain't no mountain that we can't climb
+When I say, &quot;We,&quot;
+I mean, &quot;Jesus and me.&quot;
+If you have Jesus
+And His Love divine,
+There ain't no mountain
+that we can't climb.</lines>
+    </verse>
+  </lyrics>
+</song>

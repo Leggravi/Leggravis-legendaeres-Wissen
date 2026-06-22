@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:07">
+  <properties>
+    <titles>
+      <title>Ich bin im Himmel angeschrieben</title>
+    </titles>
+    <authors>
+      <author type="words">Salomon Franck (1716)</author>
+      <author type="music">Johann Balthasar König</author>
+    </authors>
+    <ccliNo>6222042</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich bin im Himmel angeschrieben,
+ich bin ein Kind der Seligkeit.
+Ob Sünd und Leid mich auch
+betrüben und alle Nöte dieser Zeit,
+ich weiß, dass ich von Anbeginn
+in Christus auserwählet bin.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Der Herr/Das Lamm hat mich mit seinem Blute
+gezeichnet in das Lebensbuch
+und mir erworben alles Gute,
+Erlösung von dem Tod und Fluch.
+Nichts ist mehr, was mein Herze quält.
+Ich bin zum Himmel auserwählt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mich kann nicht das Gesetz verdammen,
+weil ich schon aufgezeichnet bin
+im Lebensbuch, und alle Flammen
+des Zorns gelöscht sind und dahin.
+Hier les ich, was mir Tröstung gibt:
+Er hat mich immerdar geliebt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kein Teufel soll den Trost mir rauben,
+dass ich erwählt von Anbeginn,
+dass ich aus Gnaden durch den Glauben
+an Christi Blut erlöset bin.
+So leb ich denn und sterbe drauf:
+Auf Christus schließ ich meinen Lauf.</lines>
+    </verse>
+  </lyrics>
+</song>

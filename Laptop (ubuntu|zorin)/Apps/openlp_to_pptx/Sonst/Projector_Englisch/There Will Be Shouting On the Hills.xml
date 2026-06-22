@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There Will Be Shouting On the Hills</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There will be shouting
+on the hills of glory,
+Shouting on the hills, yes,
+shouting on the hills,
+When we reach that land of which
+we’ve heard the story,
+There will be shouting on the
+hills of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What a happy time is coming
+When we reach our home in heaven
+And the burdens which we bear
+There we’ll bear no more,
+When the angels
+sound the trumpets
+Calling us to those bright
+mansions
+There will be shouting on
+the everlasting shore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the saints begin to gather
+Round the Throne in that blessed city,
+And the angels there the
+songs of praise uphold
+Harps and golden bells will be ringing
+Saints of all the ages singing
+Such a meeting as we never
+saw before.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>On that blessed happy morning,
+When all saints are risen again
+And when all our loved ones we will
+see again,
+In that happy land eternal,
+We will live in joys supernal,
+And with Jesus and the angels ever reign.</lines>
+    </verse>
+  </lyrics>
+</song>

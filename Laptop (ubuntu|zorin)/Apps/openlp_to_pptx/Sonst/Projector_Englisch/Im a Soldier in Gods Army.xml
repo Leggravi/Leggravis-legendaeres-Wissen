@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm a Soldier in God's Army</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’m a soldier in God’s army,
+I am marching straight to victory,
+I will not give up,
+I will not turn around,
+I’m a soldier
+Marching heavens bound.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’m living for Jesus for a long time
+I’m not tired yet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, I’m not tired,
+I’m not tired,
+I’m not tired yet</lines>
+    </verse>
+  </lyrics>
+</song>

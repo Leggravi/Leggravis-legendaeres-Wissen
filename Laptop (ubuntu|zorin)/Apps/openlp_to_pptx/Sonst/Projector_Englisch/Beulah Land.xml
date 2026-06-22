@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Beulah Land</title>
+    </titles>
+    <authors>
+      <author type="words">Squire Pearsons</author>
+      <author type="music">Squire Pearsons</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’ve reached the land of corn and wine,
+And all its riches freely mine;
+Here shines undimmed one blissful day,
+For all my night has passed away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Beulah Land, sweet Beulah Land,
+As on thy highest mount I stand,
+I look away across the sea,
+Where mansions are prepared for me,
+And view the shining glory-shore,
+My Heaven, my home forevermore!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My Savior comes and walks with me,
+And sweet communion here have we;
+He gently leads me by His hand,
+For this is Heaven’s borderland.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A sweet perfume upon the breeze
+Is borne from ever vernal trees,
+And flow’rs, that never fading grow,
+Where streams of life forever flow.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The zephyrs seem to float to me,
+Sweet sounds of Heaven’s melody,
+As angels with the white-robed throng
+Join in the sweet Redemption song.</lines>
+    </verse>
+  </lyrics>
+</song>

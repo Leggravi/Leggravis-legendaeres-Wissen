@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mein ganzes Leben</title>
+    </titles>
+    <authors>
+      <author type="words">Wilhelm Griesinger</author>
+      <author type="music">Wilhelm Griesinger</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich gebe dir mein Herz
+und alles was ich bin
+um deinet willen Herr leg ich alles vor dir hin
+Das was ich mir erträum was meine Rechte wärn
+Ich gebe alles auf
+für ein neues Leben Herr</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mein ganzes Leben geb ich dir
+Geb ich dir
+Mein ganzes Leben geb ich dir
+Geb ich dir</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich sing dir dieses Lied
+Ich warte vor dem Kreuz
+Und was die Welt sich wünscht
+verliert all seinen Reiz
+Ich will dich kennen Herr
+und deine Herrlichkeit
+Die Freude die teilst
+sogar in deinem Leid</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Find me at the feet of Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, here I am
+You have all of me
+Take the world
+You are all I need</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Find me, find me at the feet of Jesus
+Savior, find me with my heart bowed down
+Find me on my knees
+Find me close to Thee
+Find me at the feet of Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, I belong to You
+You have my heart
+My only hope is You
+And everything You are</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I can almost hear those angels singing, holy, holy
+I can almost touch the heavens in their glory, glory</lines>
+    </verse>
+  </lyrics>
+</song>

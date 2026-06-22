@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Growing Pains</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When my dreams are all shattered
+And my hope is all gone
+And it seems there's
+no reason to go on
+Sometimes I cry and even ask why
+When there are things
+that I don't understand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But when it's all said and done
+Jesus is the One
+And He knows what's best for me
+Then I'm reminded and Oh! It's so plain
+That my trials are just growing pains</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Growing pains
+God could spare me
+give me sunshine no rain
+But I'd never grow up
+I'd just stay the same
+So I know that my trials
+are just gowing pains</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So when your dreams
+are all shattered
+And your hope is all gone
+And it seems there's
+no reason to go on
+Go ahead and cry you
+can even ask why
+When there are things
+that you don't understand</lines>
+    </verse>
+    <verse name="v5">
+      <lines>But when it's all said and done
+Jesus is the One
+And He knows what's best for you
+You'll be reminded and twill be so plain
+That your trials are just growing pains</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Growing pains
+God could spare you give
+you sunshine no rain
+But you'd never grow up
+You'd just stay the same
+So know that your trials
+are just growing pains</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Growing pains
+God could spare me give
+me sunshine no rain
+But I'd never grow up
+I'd just stay the same
+So I know that my trials
+are just growing pains</lines>
+    </verse>
+  </lyrics>
+</song>

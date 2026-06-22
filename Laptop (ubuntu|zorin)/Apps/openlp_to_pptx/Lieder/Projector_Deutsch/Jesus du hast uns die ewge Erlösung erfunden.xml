@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, du hast uns die ew'ge Erlösung erfunden</title>
+    </titles>
+    <authors>
+      <author type="words">Karl August Döring</author>
+      <author type="music">Lobe den Herren, den mächtigen König der Ehren</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Du hast uns die ew'ge Erlösung erfunden,
+Fried' und Gerechtigkeit hast Du am Kreuze verbunden.
+O wie Dein Blut Wunder der Gnade nun tut!
+Leben entströmt Deinen Wunden.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Preis Dir, o großer Erretter, Du hast es vollendet,
+Wer nun in Reue und Glauben zu Dir, Herr, sich wendet,
+Der wird versöhnt, der wird mit Gnaden gekrönt!
+Frieden Dein Wort ihm nun spendet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn auch die Sonne erlischt an dem Himmelsgewölbe,
+Stürzen die Berge ins Meer auch, Du bleibest derselbe.
+Du wankest nicht, hältst, was Dein Wort uns verspricht!
+Treu bist Du, ewig derselbe.</lines>
+    </verse>
+  </lyrics>
+</song>

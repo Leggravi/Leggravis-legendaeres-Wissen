@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Bei dir ist die Quelle des Lebens</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Lukas Geissbühler</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bei dir ist die Quelle des Lebens,
+bei dir ist die Quelle des Lebens,
+und in deinem Lichte sehn wir das Licht,
+Herr in deinem Lichte.</lines>
+    </verse>
+  </lyrics>
+</song>

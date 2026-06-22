@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:58">
+  <properties>
+    <titles>
+      <title>Jesu, Jesu, Brunn des Lebens</title>
+    </titles>
+    <authors>
+      <author type="words">Hieronymus Annoni (1738)</author>
+      <author type="music">Herrnhut</author>
+    </authors>
+    <ccliNo>5216891</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesu, Jesu, Brunn des Lebens,
+stell, ach stell dich bei uns ein,
+dass wir jetzt hier nicht vergebens
+wirken und beisammen sein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du verheißest ja den Deinen,
+dass du wollest Wunder tun
+und in ihrer Mitt' erscheinen;
+ach erfüll's, erfüll's auch nun!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr, wir tragen deinen Namen,
+Herr, wir sind auf dich getauft,
+und du hast zu deinem Samen
+uns mit deinem Blut erkauft.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O so lass uns dich erkennen;
+komm, erkläre selbst dein Wort,
+dass wir dich recht Meister nennen
+und dir folgen fort und fort.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bist du mitten unter denen,
+welche sich nach deinem Heil
+mit vereintem Seufzen sehnen,
+o so sei auch unser Teil!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Lehr uns singen, lehr uns beten,
+hauch uns an mit deinem Geist,
+dass wir vor den Vater treten,
+wie es kindlich ist und heißt.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Sammle die zerstreuten Sinnen,
+wehr der Flatterhaftigkeit;
+lass uns Licht und Kraft gewinnen
+zu der Christen Wesenheit.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>O du Haupt der rechten Glieder,
+nimm uns auch zu solchen an;
+bring das Abgefallne wieder
+auf die frohe Himmelsbahn.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Gib uns Augen, gib uns Ohren,
+gib uns Herzen, die dir gleich;
+mach uns redlich, neugeboren,
+Herr, zu deinem Himmelreich.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Ach ja, lass uns Christen werden,
+Christen, die ein Licht der Welt,
+Christen, die ein Salz der Erden,
+Amen, Herr, wie dir's gefällt.</lines>
+    </verse>
+  </lyrics>
+</song>

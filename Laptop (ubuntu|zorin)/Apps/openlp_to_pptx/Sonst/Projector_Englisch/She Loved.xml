@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>She Loved</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Someone once asked
+If only you knew
+How short life would be
+What would you do?
+What would they say
+When God called you home?
+What would they engrave
+Once you were gone?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I hope they would see
+What I've done in my life
+Who I've cared for
+And how I survived
+I hope they'd say</lines>
+    </verse>
+    <verse name="v3">
+      <lines>She loved more than anything else
+She loved with all of her heart
+She loved everyone she believed in
+She loved… oh she loved</lines>
+    </verse>
+    <verse name="v4">
+      <lines>She loved the Lord
+And served all her life
+A sacrificial mother
+And an honorable wife
+She gave all she had
+And through every trial
+Made life much sweeter
+Because of her smile</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Everyone will see
+What she's done in her life
+Who she cared for
+And how she survived
+I'm sure they'd say</lines>
+    </verse>
+    <verse name="v6">
+      <lines>She loved… everyone she believed in
+She loved. . oh she loved
+Oh… she loved</lines>
+    </verse>
+  </lyrics>
+</song>

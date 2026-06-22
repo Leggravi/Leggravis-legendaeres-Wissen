@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mein Siegeskranz ist längst geflochten</title>
+    </titles>
+    <authors>
+      <author type="words">Friedrich Wilhelm Krummacher</author>
+      <author type="music">Wilhelm Brockhaus</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mein Siegeskranz ist längst geflochten,
+und nichts mehr ist hinzuzutun,
+seitdem der Held für mich gefochten,
+darf ich in Friedenszelten ruhn.
+Mich schreckt kein Zorn, kein Fluch der Sünde,
+kein Tod mehr, keine finstre Nacht.
+Er hat in Seinem Überwinden
+durch alles mich hindurchgebracht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich kenne mich nicht mehr im Bilde
+der alten, seufzenden Natur.
+Ich jauchze unter Gottes Schilde,
+Er kennet mich in Christo nur.
+In Christi Schmuck, Triumph und Schöne
+heb' ich getrost mein Haupt empor
+und mische meine Harfentöne
+schon in den ew'gen Siegeschor.</lines>
+    </verse>
+  </lyrics>
+</song>

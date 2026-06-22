@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In dir ist Freude</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Lindemann</author>
+      <author type="music">Giovanni Giacomo Gastoldi</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In dir ist Freude in allem Leide,
+o du süßer Jesus Christ!
+Durch dich wir haben himmlische Gaben,
+du der wahre Heiland bist;
+hilfest von Schanden, rettest von Banden.
+Wer dir vertrauet, hat wohl gebauet,
+wird ewig bleiben. Halleluja!
+Zu deiner Güte steht unser G'müte,
+an dir wir kleben im Tod und Leben;
+nichts kann uns scheiden. Halleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wenn wir dich haben, kann uns nicht schaden
+Teufel, Welt, Sünd oder Tod;
+du hast's in Händen, kannst alles wenden,
+wie nur heißen mag die Not.
+Drum wir dich ehren, dein Lob vermehren
+mit hellem Schalle, freuen uns alle
+zu dieser Stunde. Halleluja!
+Wir jubilieren und triumphieren,
+lieben und loben dein Macht dort droben
+mit Herz und Munde. Halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

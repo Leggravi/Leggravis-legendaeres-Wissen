@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God is here</title>
+    </titles>
+    <authors>
+      <author type="words">Nikki Fletcher</author>
+      <author type="music">Nikki Fletcher</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v3 v4 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Open our eyes, Lord
+We want to see You
+Open our hearts, Lord
+We want to know You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Open our ears, Lord
+We need to hear You
+Jesus be revealed
+Jesus be revealed</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God is here
+God is here
+God is here
+He is able
+We draw near
+To see Jesus face to face</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God is here
+God is here
+God is here
+He is faithful
+We draw near to see Jesus
+Oh Jesus be revealed</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Open the gates, Lord
+Reveal Your glory
+Open the nations
+Establish Your Kingdom</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Open the Heavens
+Pour out Your Spirit
+Jesus be revealed
+Jesus be revealed</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Holy
+We cry holy
+Hallelujah
+God is here</lines>
+    </verse>
+  </lyrics>
+</song>

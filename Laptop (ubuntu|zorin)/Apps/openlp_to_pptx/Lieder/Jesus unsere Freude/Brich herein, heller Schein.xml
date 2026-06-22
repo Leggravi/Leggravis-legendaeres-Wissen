@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:05">
+  <properties>
+    <titles>
+      <title>Brich herein, heller Schein</title>
+    </titles>
+    <authors>
+      <author type="words">Marie Schmalenbach (1875)</author>
+      <author type="music">Karl Kuhlo</author>
+    </authors>
+    <ccliNo>4353449</ccliNo>
+    <themes>
+      <theme>Sterben</theme>
+      <theme>Wiederkunft</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Brich herein, heller Schein selger Ewigkeit!
+Leucht in unser armes Leben,
+unsern Füßen Kraft zu geben,
+unsrer Seele Freud, unsrer Seele Freud.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hier ist Müh morgens früh und des Abends spät,
+Angst, davon die Augen sprechen,
+Not, davon die Herzen brechen;
+kalter Wind oft weht, kalter Wind oft weht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus Christ, du nur bist unsrer Hoffnung Licht.
+Stell uns vor und lass uns schauen
+jene immer grünen Auen,
+die dein Wort verspricht, die dein Wort verspricht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ewigkeit, in die Zeit leuchte hell herein,
+dass uns werde klein das Kleine
+und das Große groß erscheine,
+selge Ewigkeit, selge Ewigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

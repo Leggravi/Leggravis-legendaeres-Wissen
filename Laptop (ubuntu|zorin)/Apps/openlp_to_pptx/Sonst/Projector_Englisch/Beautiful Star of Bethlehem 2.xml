@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Beautiful Star of Bethlehem (2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, beautiful star of Bethlehem
+Shining far through shadows dimmed
+Giving the light for those who long have gone
+Guiding the wise men on their way
+Unto the place where Jesus lay
+Oh, beautiful star of Bethlehem, shine on.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, beautiful star (beautiful, beautiful star) of Bethlehem
+Shine upon us until the glory dawns
+Give us a lamp to light the way
+Unto the land of perfect day
+Oh, beautiful star of Bethlehem, shine on</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, beautiful star, the hope of grace
+For the redeem, the good and the blessed
+Yonder in glory when the crown is one
+Jesus is now the star divine
+Brighter and brighter, he will shine
+Oh, beautiful star of Bethlehem, shine on</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh beautiful star of Bethlehem shine on</lines>
+    </verse>
+  </lyrics>
+</song>

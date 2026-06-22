@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:27">
+  <properties>
+    <titles>
+      <title>Jesus, dir nach, weil du rufst</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Schnitter (1982)</author>
+      <author type="music">Gerhard Schnitter</author>
+    </authors>
+    <ccliNo>4334035</ccliNo>
+    <themes>
+      <theme>Nachfolge</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du gibst mir Mut und Kraft zum Aufbruch,
+ich muss mir nicht mehr selbst im Wege stehn.
+Will Altes, das mich festhält, lassen
+und dir gehorsam sein und gehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Will alles nur von dir erwarten, denn nur,
+was du gibst, ist auch gut für mich.
+Will mich nicht mehr an Wünsche klammern,
+vertrauen will ich ganz auf dich.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Will Lasten, die du auflädst, tragen,
+auch ohne Anerkennung fröhlich sein.
+Hast mir die Last der Schuld genommen,
+bin froh und reich in dir allein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dir nach, das heißt auch mit dir leiden,
+als Zeugen sind wir in die Welt gestellt.
+Doch wird von dir, dem Licht des Lebens,
+auch jede Dunkelheit erhellt.</lines>
+    </verse>
+  </lyrics>
+</song>

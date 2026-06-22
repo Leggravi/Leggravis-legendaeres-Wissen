@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Nov 9, 2024, 8:34:07 PM">
+  <properties>
+    <titles>
+      <title>I Pledge Allegiance To The Lamb</title>
+    </titles>
+    <verseOrder>C1 V2 C1 V3 C1 V4 C1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="C1">
+      <lines>I pledge allegiance to the Lamb
+With all my strength, with all I am
+I will seek to honor His commands
+I pledge allegiance to the Lamb</lines>
+    </verse>
+    <verse name="V2">
+      <lines>I have heard how Christians long ago
+Were brought before a tyrant's throne
+They were told that he would spare their lives
+If they would renounce the name of Christ
+But one by one they chose to die
+The Son of God they would not deny
+Like a great angelic choir sings
+I can almost hear their voices ring</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Now the years have come, and the years have gone
+But the cause of Jesus still goes on
+Now our time has come to count the cost
+To reject this world, to embrace the cross
+And one by one let us live our lives
+For the one who died to give us life
+Till the trumpet sounds on the final day
+Let us proudly stand and boldly say</lines>
+    </verse>
+    <verse name="V4">
+      <lines>To the Lamb of God who bore my pain
+Who took my place, who wore my shame
+I will seek to honor His commands
+I pledge allegiance to the Lamb</lines>
+    </verse>
+  </lyrics>
+</song>

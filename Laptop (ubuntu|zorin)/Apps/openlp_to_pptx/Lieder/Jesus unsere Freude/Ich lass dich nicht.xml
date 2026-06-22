@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:22">
+  <properties>
+    <titles>
+      <title>Ich lass dich nicht</title>
+    </titles>
+    <authors>
+      <author type="words">Wolfgang Christoph Deßler (1692)</author>
+      <author type="music">Johann Sebastian Bach</author>
+    </authors>
+    <ccliNo>6222712</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich lass dich nicht,
+du musst mein Jesus bleiben!
+Will rauhe Not, Welt, Hölle, Tod
+mich aus der festen Burg der Treue
+treiben, nur her, ich halte mich,
+mein starker Held an dich;
+hör, was die Seele spricht:
+du musst mein Jesus bleiben.
+Ich lass dich nicht, ich lass dich nicht!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich lass dich nicht,
+du Hilf in allen Nöten!
+Schickst du mir Last, weiß ich,
+du hast den Vater längst um Kraft
+für mich gebeten.
+Mach's, wie du willst, mit mir;
+ich weiche nicht von dir.
+Ich suche dein Gesicht,
+du Hilf in allen Nöten.
+Ich lass dich nicht, ich lass dich nicht!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich lass dich nicht.
+Sollt ich den Segen lassen?
+Nein, Jesus, nein!
+Du bleibest mein; dich halt ich noch,
+wenn ich nichts mehr kann fassen.
+Nach kurzer Nächte Lauf
+geht mir der Segen auf
+von dir, dem Segenslicht.
+Sollt ich den Segen lassen?
+Ich lass dich nicht, ich lass dich nicht!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich lass dich nicht, mein Gott,
+mein Herr, mein Leben!
+Mich reißt das Grab von dir nicht ab,
+der du dich hast für mich
+in den Tod gegeben.
+Du starbst aus Liebe zu mir;
+ich sag in Liebe dir,
+auch wenn das Herz zerbricht:
+Mein Gott, mein Herr, mein Leben,
+ich lass dich nicht, ich lass dich nicht!</lines>
+    </verse>
+  </lyrics>
+</song>

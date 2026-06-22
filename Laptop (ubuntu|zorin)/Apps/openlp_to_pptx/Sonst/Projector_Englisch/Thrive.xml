@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thrive</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v3 v8 v9 v10 v5 v5 v11</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here in this worn and weary land
+Where many a dream has died</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Like a tree planted by the water
+We never will run dry</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So living water flowing through
+God we thirst for more of You
+Fill our hearts and flood our souls
+With one desire</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Just to know You and yo make You known
+We lift Your name on High
+Shine like the sun made darkness run and hide
+We know we were made for so much more
+Than ordinary lives
+It's time for us to more than just survive
+We were made to thrive</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Woah
+Woah</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Into Your word we're digging deep
+To know our Father's heart</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Into the world we're reaching out
+To show them who You are</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Just to know You and to make You known
+We lift Your name on High
+Shine like the sun made darkness run and hide
+We know we were made for so much more
+Than ordinary lives
+It's time for us to more than just survive
+We were made to thrive</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Joy unspeakable, faith unsinkable,
+Love unstoppable, anything is possible
+Joy unspeakable, faith unsinkable,
+Love unstoppable, anything is possible
+Joy unspeakable, faith unsinkable,
+Love unstoppable, anything is possible
+Joy unspeakable, faith unsinkable,
+Love unstoppable, anything is possible</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Just to know You and to make You known
+We lift Your name on High
+Shine like the sun made darkness run and hide
+We know we were made for so much more
+Than ordinary lives
+It's time for us to more than just survive
+We were made to thrive
+Hey!</lines>
+    </verse>
+    <verse name="v11">
+      <lines>We were made to thrive</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Aug 18, 2025, 3:50:33 PM">
+  <properties>
+    <titles>
+      <title>With All I Am (Into Your Hands)</title>
+    </titles>
+    <verseOrder>V1 V2 C3 V4 C3 V5 C3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Into your hand
+I commit again
+With All I am
+For you lord</lines>
+    </verse>
+    <verse name="V2">
+      <lines>You hold my world
+In the palm of your hand
+And I'm yours forever</lines>
+    </verse>
+    <verse name="C3">
+      <lines>Jesus I believe in you
+Jesus I belong to you
+You're the reason that I live
+The reason that I sing
+With all I am</lines>
+    </verse>
+    <verse name="V4">
+      <lines>I'll walk with you
+Wherever you go
+Through tears and joy
+I'll trust in you</lines>
+    </verse>
+    <verse name="V5">
+      <lines>And I will live
+In all of your ways and
+Your promises forever
+I will worship I will worship you forever</lines>
+    </verse>
+  </lyrics>
+</song>

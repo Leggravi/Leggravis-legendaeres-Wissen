@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God will take care of you</title>
+    </titles>
+    <authors>
+      <author type="words">Civilla Durfee Martin</author>
+      <author type="music">Walter Stillman Martin</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Be not dismayed whate’er betide,
+God will take care of you;
+Beneath his wings of love abide,
+God will take care of you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrain:
+God will take care of you,
+Through ev'ry day,
+O’er all the way;
+He will take care of you,
+God will take care of you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Through days of toil when heart does fail,
+God will take care of you;
+When dangers fierce your path assail,
+God will take care of you.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. All you may need he will provide,
+God will take care of you;
+Nothing you ask will be denied,
+God will take care of you.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4. No matter what may be the test,
+God will take care of you;
+Lean, weary one, upon his breast,
+God will take care of you.</lines>
+    </verse>
+  </lyrics>
+</song>

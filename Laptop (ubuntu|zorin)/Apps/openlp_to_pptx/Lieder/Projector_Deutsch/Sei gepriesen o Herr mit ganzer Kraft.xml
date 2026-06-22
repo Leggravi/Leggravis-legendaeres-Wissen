@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sei gepriesen, o Herr, mit ganzer Kraft</title>
+    </titles>
+    <authors>
+      <author type="words">Elisabeth Felling</author>
+      <author type="music">Roger L. Holtz</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sei gepriesen, o Herr, mit ganzer Kraft,
+sei gepriesen mit allem, was wir sind.
+Unser Lobpreis, o Herr, sei ein Opfer für Dich,
+Wunderbares hast Du uns geschenkt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir legen ab unsre Angst und
+wir tragen die Waffen unseres Herrn.
+Und wir ziehn in den Kampf im Namen unseres Herrn
+und sind siegreich in alle Ewigkeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dein Geist gibt uns seine Macht. Jesus,
+Du bist uns ganz nah, und wir kennen die Tiefe
+Deiner Liebe zu uns, Deine Fülle schenkst Du uns.</lines>
+    </verse>
+  </lyrics>
+</song>

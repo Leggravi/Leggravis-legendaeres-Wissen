@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ten Thousand (10000) Reasons (Bless the Lord)</title>
+    </titles>
+    <authors>
+      <author type="words">Jonas Myrin</author>
+      <author type="music">Jonas Myrin</author>
+      <author type="translation">Zehntausend Gründe (10000 Gründe)</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bless the Lord, Oh my soul
+Oh my soul, worship his holy name
+Sing like never before, Oh my soul
+I'll worship your holy name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The sun comes up, it's a new day dawning
+It's time to sing your song again
+Whatever may pass and whatever lies before me
+Let me be singing when the evening comes</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You're rich in love and you're slow to anger
+Your name is great and your heart is kind
+For all your goodness, I will keep on singing
+Ten thousand reasons for my heart to find</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And on that day when my strength is failing
+The end draws near and my time has come
+Still my soul will sing your praise unending
+Ten thousand years and then forevermore</lines>
+    </verse>
+  </lyrics>
+</song>

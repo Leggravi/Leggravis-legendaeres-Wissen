@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It Is Finished</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a line that's drawn through the ages;
+On that line stands the old rugged cross
+On that cross a battle is raging
+To gain of a man's soul or it's loss.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On one side march the forces of evil,
+All the demons and devils of hell;
+On the other the angels of glory,
+And they meet on Golgotha's hill.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The earth shakes with the force of the conflict;
+The sun refuses to shine;
+And there hangs God's Son in the balance,
+And then through the darkness, He cries</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It is finished! The battle is over.
+It is finished! There'll be no more war.
+It is finished! The end of the conflict.
+It is finished! And Jesus is Lord!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yet in my heart the battle was raging;
+Not all pris'ners of war have come home.
+These were battlefields of my own making;
+I didn't know that the war had been won.
+I But then I heard that the King of the Ages
+Had fought all my battles for me,
+And vict'ry was mine for the claiming,
+And now, praise His name I am free!</lines>
+    </verse>
+  </lyrics>
+</song>

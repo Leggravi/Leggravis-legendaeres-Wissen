@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I am yours</title>
+    </titles>
+    <authors>
+      <author type="words">Tom Lockley</author>
+      <author type="music">Tom Lockley</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God of grace
+God of love
+God of mercy
+All glorious
+In Your presence I remain
+Your love filling me again
+I am Yours
+I am Yours</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God of peace
+God of strength
+God of wonders
+My defense
+I will worship at Your throne
+Your sacrifice has made me whole
+I am Yours
+I am Yours</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Behold the Lamb of God
+Who takes away my sin
+Lord Jesus crucified for me
+This love that knows no end
+Your love has set me free
+To You I give my all
+I am Yours</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God of hope
+God of life
+God forever be lifted high
+Jesus Christ revealed in me
+My whole life an offering
+I am Yours
+I am Yours</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Blessing and honor
+Glory and power
+Be unto Him
+Be unto Him
+[x5]</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Behold the Lamb of God
+Who takes away my sin
+Lord Jesus crucified for me
+This love that knows no end
+Your love has set me free
+To You I give my all
+I am Yours</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>On Eagles's Wings</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here I am waiting
+Abide in me I pray
+Here I am longing For You
+Hide me in Your love
+Bring me to my knees
+May I know Jesus
+More and more</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come live in me
+All my life
+Take over
+Come breathe in me
+And I will rise
+On eagle's wings</lines>
+    </verse>
+  </lyrics>
+</song>

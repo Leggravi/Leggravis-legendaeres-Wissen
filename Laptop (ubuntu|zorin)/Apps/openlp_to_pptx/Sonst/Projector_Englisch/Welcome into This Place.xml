@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Welcome into This Place</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Welcome into this place,
+Welcome into this broken vessel,
+You desire to abide in the praises of your people,
+So we lift our hands and we lift our hearts,
+As we offer up this praise unto Your name.</lines>
+    </verse>
+  </lyrics>
+</song>

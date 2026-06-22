@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>For the Lord Is My Tower (6)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For the Lord is my tower
+And He gives me the power
+To tear down the works
+Of the enemy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In a difficult hour
+He will crush the devourer
+And bring the powers of darkness
+Underneath my feet</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(Blessed be the name of the Lord)
+Blessed be the name of the Lord
+Blessed be the name of the Lord
+God most high.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The name of the Lord is a strong tower
+The righteous run into it and they are saved
+The name of the Lord is a strong tower
+The righteous run into it and they are saved</lines>
+    </verse>
+  </lyrics>
+</song>

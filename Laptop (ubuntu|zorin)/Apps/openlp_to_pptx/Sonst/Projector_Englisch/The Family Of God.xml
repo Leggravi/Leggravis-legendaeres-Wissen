@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Family Of God</title>
+    </titles>
+    <authors>
+      <author type="words">William J. Gaither</author>
+      <author type="music">William J. Gaither</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm so glad, I'm a part of
+The family of God,
+I've been washed in the fountain,
+Cleansed by His blood;
+Joint heirs with Jesus,
+As we travel this sod
+For I'm part of the family,
+The family of God.</lines>
+    </verse>
+  </lyrics>
+</song>

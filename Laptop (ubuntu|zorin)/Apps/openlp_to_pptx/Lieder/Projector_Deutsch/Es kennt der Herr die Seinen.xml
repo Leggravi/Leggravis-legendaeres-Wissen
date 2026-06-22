@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Es kennt der Herr die Seinen</title>
+    </titles>
+    <authors>
+      <author type="words">Erich Schmidt-Schell</author>
+      <author type="music">Erwin Baier</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es kennt der Herr die Seinen
+In jedem Volk und Land.
+Ob sie verlassen scheinen,
+Sie sind von Ihm gekannt.
+Er lässt sie nicht verderben,
+Er führt sie aus und ein,
+Im Leben und im Sterben
+Sind sie und bleiben Sein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er kennet Seine Scharen,
+Die glaubend auf Ihn schaun,
+Und Ihm, dem Unsichtbaren,
+Als säh'n sie Ihn, vertraun.
+Die von dem Worte zeugen,
+Dem Wort, das sie ernährt,
+Die vor dem Wort sich beugen,
+Und die das Wort bewährt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Er wird sie sicher leiten
+Durch diese Wüstenei,
+Gibt Mut und Kraft zum Streiten,
+Führt selbst den Sieg herbei.
+Und wenn ihr Lauf vollendet,
+So ruhn sie mit Ihm aus,
+Wenn aller Kampf beendet,
+Gehn sie ins Vaterhaus.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Stranger – v2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a stranger in town
+He's given sight to the blind
+He is a great emancipator
+He turns water to wine</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He even healed the sick
+Who were bound by disease
+What manner of man is this whose voice can control the seas</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Some say
+He is great I am that prophets spoke of
+Some even say He's Emanuel, the Son of God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This stranger, stranger, stranger from Galilee
+The man from Galilee…</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Do you know, do you know, do you know the man?
+Do you know, do you know, do you know the man?
+Do you know, do you know, do you know the man?
+Do you know, do you know, do you know the man?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>What a man?
+Who's the man?
+He's the man?
+Jesus the man!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Yes I know, yes I know, yes I know the man</lines>
+    </verse>
+  </lyrics>
+</song>

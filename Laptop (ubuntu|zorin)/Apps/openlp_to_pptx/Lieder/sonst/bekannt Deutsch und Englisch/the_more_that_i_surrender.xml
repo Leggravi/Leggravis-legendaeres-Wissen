@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 26, 2024, 6:31:31 AM">
+  <properties>
+    <titles>
+      <title>The More That I Surrender</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>And it gets easier to understand
+This road I'm travelling down
+No more wavering or wondering
+I'm standing on solid ground
+And I know I'm headed
+To my future home
+And the voice I hear is Yours alone
+Everyday I live, Lord, I love you more
+The more that I surrender</lines>
+    </verse>
+    <verse name="C2">
+      <lines>The more that I surrender
+The lighter my load
+The more that I release my cares
+The more you take control
+The more that I can humble myself
+The more you lift me up
+Everyday I live, Lord, I love You more.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>The problems I had
+Won yesterday are my stepping stones
+to a higher place
+The trials that seem so awesome to me
+Are now my patterns of victory
+And I know I'm headed to my future home
+And the voice I hear is Yours alone
+Everyday that I live, Lord, I love You more
+The more that I surrender</lines>
+    </verse>
+  </lyrics>
+</song>

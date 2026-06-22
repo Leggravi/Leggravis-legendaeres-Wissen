@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du großer Gott</title>
+    </titles>
+    <authors>
+      <author type="words">Eugen Eckert</author>
+      <author type="music">Klaus Heizmann</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Du großer Gott, wenn ich die Welt betrachte,
+die Du geschaffen durch Dein Allmachtswort,
+wenn ich auf alle jene Wesen achte,
+die Du regierst und nährest fort und fort.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Refrain:
+Dann jauchzt mein Herz Dir, großer Herrscher, zu:
+Wie groß bist Du! Wie groß bist Du!
+Dann jauchzt mein Herz Dir, großer Herrscher, zu:
+Wie groß bist Du! Wie groß bist Du!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Blick ich empor zu jenen lichten Welten
+und seh der Sterne unzählbare Schar,
+wie Sonn und Mond im lichten Äther zelten,
+gleich goldnen Schiffen hehr und wunderbar,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Wenn mir der Herr in Seinem Wort begegnet,
+wenn ich die großen Gnadentaten seh,
+wie Er das Volk des Eigentums gesegnet,
+wie Er's geliebt, begnadigt je und je,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4. Und seh ich Jesus auf der Erde wandeln
+in Knechtsgestalt, voll Lieb und großer Huld,
+wenn ich im Geiste seh Sein göttlich Handeln,
+am Kreuz bezahlen vieler Sünder Schuld.</lines>
+    </verse>
+  </lyrics>
+</song>

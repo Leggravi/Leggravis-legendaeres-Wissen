@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord Have Mercy</title>
+    </titles>
+    <authors>
+      <author type="words">Gerard Markland</author>
+      <author type="music">Gerard Markland</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, I've forgotten the words that You have spoken
+Promises that burned within my heart have now grown dim
+With a doubting heart I follow the paths of earthly wisdom
+Forgive me for my unbelief, renew the fire again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord have mercy, Christ have mercy
+Lord have mercy on me
+Lord have mercy, Christ have mercy
+Lord have mercy on me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I have built an altar where I worship things of men
+I have taken journeys that have drawn me far from You
+Now I am returning to Your mercies ever flowing
+Pardon my transgressions, help me love You again</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I have longed to know You and Your tender mercies
+Like a river of forgiveness, ever flowing without end
+I bow my heart before You in the goodness of Your presence
+Your grace forever shining like a beacon in the night</lines>
+    </verse>
+  </lyrics>
+</song>

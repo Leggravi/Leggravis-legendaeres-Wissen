@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Nov 9, 2019, 10:51:59 AM">
+  <properties>
+    <titles>
+      <title>Ach bleib mit deiner Gnade</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Ach bleib mit deiner Gnade
+bei uns, Herr Jesu Christ,
+dass uns hinfort nicht schade
+des bösen Feindes List.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Ach bleib mit deinem Worte
+bei uns, Erlöser wert,
+dass uns sei hier und Horte
+dein Trost und Heil beschert.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Ach bleib mit deinem Klarheit
+bei uns, du wertes Licht;
+umgürt', uns mit der Wahrheit,
+damit wir irren nicht.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Ach bleib mit deinem Segen
+bei uns, du reicher Herr;
+dein Gnad' und Allvermögen
+in uns reichlich vermehr.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Ach bleib mit deinem Schutze
+bei uns, du starker Held,
+dass uns der Feind nicht trutze
+noch fäll' die böse Welt.</lines>
+    </verse>
+    <verse name="V6">
+      <lines>Ach bleib mit deiner Treue
+bei uns, mein Herr und Gott;
+Beständigkeit verleihe,
+hilf uns aus aller Not.</lines>
+    </verse>
+  </lyrics>
+</song>

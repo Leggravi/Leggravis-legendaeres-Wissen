@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Es ist vollbracht er hat den Sieg!</title>
+    </titles>
+    <authors>
+      <author type="words">Ulrike Nagel</author>
+      <author type="music">Catharina Akerhielm</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es ist vollbracht!
+Er hat den Sieg!
+Satan ist besiegt,
+die Macht des Todes niederliegt!
+Jesus ist Herr!
+Oh Halleluja!
+König der Könige ist Er in Ewigkeit!</lines>
+    </verse>
+  </lyrics>
+</song>

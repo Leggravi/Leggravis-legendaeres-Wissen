@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Deep Settled Peace</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a deep settled peace in my soul.
+It's an anchor that ever will hold,
+When the rough angry waves
+round me roll,
+There's a deep settled peace in my soul.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's a pure perfect love in my life.
+Does away with all envy and strife,
+Making me His obedient wife.
+There's a pure perfect love in my life.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's a rapturing faith in my heart,
+Breaks the bonds of this vain world apart,
+Lets me know I was His from the start.
+There's a rapturing faith in my heart.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>For Me and My House</title>
+    </titles>
+    <authors>
+      <author type="words">Jim Bailey</author>
+      <author type="music">Jim Bailey</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v2 v4 v1 v2 v5 v6 v1 v7 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For me and my house
+We're gonna serve You
+For me and my house
+You'll get the praise
+For me and my house
+We're gonna love You always</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For me and my house
+We're gonna worship
+For me and my house
+You'll get Your way
+For me and my house
+We're gonna love You always</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We have set our homes apart for You
+Let Your glory come and fill each room
+Pour out Your peace move in Your strength
+Flood with Your healing stream
+We have set our homes apart for You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We declare our homes are holy ground
+Sons and daughters are arising now
+Let the young see let the old dream
+Till joy has been released
+We declare our homes are holy ground.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I speak to the enemy
+You can't have my family
+'Cause we belong to the Lord
+With Heaven's authority
+We take back our destiny
+'Cause we belong to the Lord.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Yes we belong to the Lord</lines>
+    </verse>
+    <verse name="v7">
+      <lines>For me and my house
+We're gonna love You always</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Es harrt die Braut so lange schon</title>
+    </titles>
+    <authors>
+      <author type="words">Dora Rappard</author>
+      <author type="music">Wittenberg</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es harrt die Braut so lange schon,
+o Herr, auf Dein Erscheinen;
+wann willst Du kommen, Gottessohn?
+Wann holst Du heim die Deinen,
+erfüllest ihre Seligkeit?
+Wann bringst Du die Erquickungszeit?
+|: O komme bald, Herr Jesus!: |</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wohl bist Du schon zu jeder Stund'
+in Deiner Jünger Mitte,
+sprichst Frieden uns aus Deinem Mund
+und hörest Dank und Bitte.
+Doch, Heiland, ganz genügt's uns nicht,
+wir möchten schaun Dein Angesicht:
+|: O komme bald, Herr Jesus!: |</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr, lehr uns wachen, spät und früh,
+dass unsre Lampen brennen;
+lass Trägheit uns beschleichen nie
+und nichts von Dir uns trennen,
+damit, wenn dann der Ruf erschallt:
+&quot;Der Bräut'gam kommt!&quot; es widerhallt:
+|: O komme bald, Herr Jesus!: |</lines>
+    </verse>
+  </lyrics>
+</song>

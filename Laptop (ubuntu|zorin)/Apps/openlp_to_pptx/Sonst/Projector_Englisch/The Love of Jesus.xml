@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Love of Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Michael Farren</author>
+      <author type="music">Michael Farren</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The love of Jesus
+Sweet and marvelous
+The love of Jesus
+Sweet and marvelous
+The love of Jesus
+Sweet and marvelous
+O. . o. . Wonderful love!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Higher than the mountain
+Deeper than the ocean
+Wider than the universe
+O. . o. . Wonderful love!</lines>
+    </verse>
+  </lyrics>
+</song>

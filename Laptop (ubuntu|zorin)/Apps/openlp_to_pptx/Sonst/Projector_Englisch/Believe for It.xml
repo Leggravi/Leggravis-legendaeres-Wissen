@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Believe for It</title>
+    </titles>
+    <authors>
+      <author type="words">Dwan Hill</author>
+      <author type="music">Dwan Hill</author>
+      <author type="translation">Wir glauben fest</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>They say this mountain can't be moved
+They say these chains will never break
+But they don't know You like we do
+There is power in Your name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We've heard that there is no way through
+We've heard the tide will never change
+They haven't seen what You can do
+There is power in Your name
+So much power in Your name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Move the immovable
+Break the unbreakable
+God, we believe
+God, we believe for it
+From the impossible
+We'll see a miracle
+God, we believe
+God, we believe for it</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We know that hope is never lost
+For there is still an empty grave
+God, we believe, no matter what
+There is power in Your name
+So much power in Your name</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You are the way when there seems to be no way
+We trust in You, God, You have the final say
+(You are the way when there seems to be no way) yes, You are
+(We trust in You, God, You have the final say)
+(You are the way, You say)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>God, we believe
+God, we believe for it</lines>
+    </verse>
+  </lyrics>
+</song>

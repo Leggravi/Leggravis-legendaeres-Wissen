@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Tree Song</title>
+    </titles>
+    <authors>
+      <author type="words">David Mallett</author>
+      <author type="music">David Mallett</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v5 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I saw a tree by the riverside one day as I walked along,
+Straight as an arrow,
+And pointing to the sky, growing tall and strong.
+How do you grow so straight and tall?&quot; I said to the riverside tree.
+This is the song my tree friend sang to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have roots growing down to the water.
+I have leaves reaching up to the sunshine.
+And, the fruit that I bear is the sign of the life in me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I am shade from the hot summer sundown.
+I am nests for the birds of the heaven.
+I'm becoming what the maker of trees
+Has blessed me to be: a strong, young, tree.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I saw a tree in the wintertime, when show lay on the ground.
+Straight as an arrow and pointing to the
+Sky and the winter winds blew all around.&quot;
+How do you grow so straight and tall?&quot; I said to my wintertime tree.
+This is the song that my tree friend sang to me:</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I've got roots growing down to the water.
+I've got leaves growing up to the sunshine.
+And, the fruit that I bear is a sign of the life in me.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I am shade from the hot summer sundown.
+I am nests for the birds of the heavens.
+I'm becoming what the maker of trees
+Has meant me to be: a strong young tree.&quot;</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I saw a tree in the city streets where buildings blocked the sun.
+Green and lovely, I could see it gave joy to everyone.
+How do you grow in the city streets?&quot; I said to my downtown tree.
+This is the song that my tree friend sang to me:</lines>
+    </verse>
+    <verse name="v8">
+      <lines>I am shade from the hot summer sundown.
+I am nests for the birds of the heavens.
+I'm becoming what The Maker of Trees
+Has meant me to be: a strong, young, tree.&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

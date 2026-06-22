@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:40">
+  <properties>
+    <titles>
+      <title>Ich will streben nach dem Leben</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Friedrich Hiller (1767)</author>
+      <author type="music">Gütersloh</author>
+    </authors>
+    <ccliNo>5568240</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich will streben nach dem Leben, wo ich selig bin;
+ich will ringen, einzudringen, bis dass ich's gewinn.
+Hält man mich, so lauf ich fort;
+bin ich matt, so ruft das Wort:
+Fortgerungen, durchgedrungen
+bis zum Kleinod hin.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Als berufen zu den Stufen vor des Lammes Thron,
+will ich eilen; das Verweilen bringt oft bösen Lohn.
+Wer auch läuft und läuft zu schlecht,
+der versäumt sein Kronenrecht.
+Was dahinten, das mag schwinden;
+ich will nichts davon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, richte mein Gesichte nur auf jenes Ziel;
+lenk die Schritte, stärk die Tritte, wenn ich Schwachheit fühl'!
+Lockt die Welt, so sprich mir zu,
+schmäht sie mich, so tröste Du;
+Deine Gnade führ' gerade
+mich aus ihrem Spiel!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du musst ziehen, mein Bemühen ist zu mangelhaft.
+Wo ihr's fehle, fühlt die Seele; aber Du hast Kraft,
+weil Dein Wort ein Leben bringt
+und Dein Geist das Herz durchdringt.
+Dort wird's tönen bei dem Krönen:
+Gott ist's, der es schafft.</lines>
+    </verse>
+  </lyrics>
+</song>

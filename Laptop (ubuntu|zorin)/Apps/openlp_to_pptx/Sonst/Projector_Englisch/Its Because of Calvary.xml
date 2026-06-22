@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It's Because of Calvary</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I lived a wasted life
+That had no meaning
+I found no peace in anything
+That I tried
+Then I saw my life requickening
+And a brand new one began
+The day I found the Cross where Jesus died</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's because of Calvary
+I'll never be the same again
+I found the joy I'd never thought
+Could ever be
+He took a life shattered by sin
+Put it together once again
+And oh what change there's been
+Because of Calvary</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now when my heart is sad
+And grown weary
+I journey in my mind
+Back to Calvary
+And I bow beneath its load
+That washes white as snow
+And I find new strength is waiting there for me.</lines>
+    </verse>
+  </lyrics>
+</song>

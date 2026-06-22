@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When He Cometh</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When He cometh, when He
+cometh,
+To take up His jewels,
+All His jewels, precious jewels,
+His loved and His own.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Like the stars of the morning
+His bright crown adorning
+They shall shine In their
+beauty
+Bright gems for His crown.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He will gather; He will gather,
+The gems for His kingdom:
+All the pure ones, all the bright ones,
+His loved and His own.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Little children, little children,
+Who love their Redeemer,
+Are the jewels, precious jewels
+His loved and His own.</lines>
+    </verse>
+  </lyrics>
+</song>

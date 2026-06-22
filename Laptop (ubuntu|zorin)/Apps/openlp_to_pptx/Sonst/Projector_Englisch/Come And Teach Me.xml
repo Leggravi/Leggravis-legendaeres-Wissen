@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come And Teach Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come and teach me Holy Spirit,
+Come and give me understanding;
+Thou art only the Revealer,
+Of the secret of God's holy Word.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take all from me, Lord Jesus,
+My shortcomings and transgressions;
+Teach me Thy way by the unfailing Word,
+I'll be upright and perfect in Thy sight.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now I thank Thee God Almighty
+May you help, guide and keep me;
+May the statue you just taught me,
+Be seen in me in words and in deeds.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hallelujah, Hallelujah
+Hallelujah, Hallelujah
+Praise and glory.
+For Thou art only
+To be worshipped throughout eternity</lines>
+    </verse>
+  </lyrics>
+</song>

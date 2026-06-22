@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I’m Going Home At Sun Down</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As I wondered today
+neath the setting sun
+I dreamed of days long ago
+And it seemed I was travelling
+home once more
+With loved ones I used to know.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>At sundown I’m going home
+At sundown no more to roam
+Sweet voices are calling,
+calling me
+And I’m going home at sundown.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spoken words:
+The time has come now
+For the sun of my life is sinking
+low
+My steps are not as fast as
+before
+But I know my loved ones are waiting
+To welcome me home once more.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Just like a child I used
+to go home
+When the day was done,
+How I’m longing for the last time
+Because it is sundown.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du Sohn des Höchsten, dessen Stärke</title>
+    </titles>
+    <authors>
+      <author type="words">Adrien Ladrierre</author>
+      <author type="music">Justin Heinrich Knecht</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du Sohn des Höchsten, dessen Stärke
+die große Schöpfung machtvoll aufrecht hält,
+es preisen Deiner Hände Werke
+Dich, den Gewaltigen, den Herrn der Welt.
+Dein Antlitz strahlet Gottes Ebenbild,
+uns Seiner Liebe Wunder unverhüllt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Im Schoß des Vaters, Seine Wonne,
+vor Ihm ergötzend stets Dich Tag um Tag,
+was trieb Dich, lichte Himmelssonne,
+zu wählen Elend, Schande, Schmerz und Schmach,
+zu werden das erseh'ne Gotteslamm,
+zu tragen Gottes Zorn am Kreuzesstamm?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir denken still der finstren Stunden,
+da, Jesu, Du am Kreuz zum Fluch gemacht,
+wo Du trugst alle unsre Sünden
+und triumphierend riefst: &quot;Es ist vollbracht!&quot;
+Oh, nimm entgegen unsrer Herzen Dank,
+in Ewigkeit der Deinen Lobgesang</lines>
+    </verse>
+  </lyrics>
+</song>

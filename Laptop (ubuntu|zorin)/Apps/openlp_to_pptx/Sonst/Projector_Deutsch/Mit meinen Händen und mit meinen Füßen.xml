@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mit meinen Händen und mit meinen Füßen</title>
+    </titles>
+    <authors>
+      <author type="words">Eugen Eckert</author>
+      <author type="music">Peter Reulein</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mit meinen Händen und mit meinen Füßen
+preise ich den Herrn, denn er ist gut zu mir!
+Mit meinen Händen und mit meinen Füßen
+preise ich den Herrn, denn er ist gut zu mir!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gepriesen sei der Herr, mein Gott, der Wunder tut,
+die ganze Erde ist von Seiner Herrlichkeit erfüllt.
+Gepriesen sei der Herr, mein Gott, der Wunder tut
+und der uns großen Überfluss für unser Leben gibt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gepriesen sei der Herr, mein Gott, er sorgt für mich
+und auch in Großen Schwierigkeiten ist er mir ganz nah.
+Gepriesen sei der Herr, mein Gott, er sorgt für mich,
+er liebt mich noch viel mehr als es ein Vater jemals kann.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gepriesen sei der Herr, mein Gott, der Freude schenkt,
+wie sollte ich nicht glücklich sein in seiner Gegenwart,
+gepriesen sei der Herr, mein Gott, der Freude schenkt,
+er nimmt mich mit zum Ziel in seiner großes Herrlichkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

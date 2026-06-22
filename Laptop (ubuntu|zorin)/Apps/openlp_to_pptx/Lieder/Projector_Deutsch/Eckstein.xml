@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Eckstein</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christi Blut und Gerechtigkeit
+Sind meine Hoffnung allezeit
+In nichts will ich gegründet sein
+Als nur in Jesus, Ihm allein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du allein
+sollst Zentrum sein
+Die Schwachen macht
+Deine Liebe stark
+Selbst im Sturm
+Bist Du Herr
+Herr der Welt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn Dunkel Sein Gesicht verhüllt
+Weiß ich, dass Gnade mich erfüllt
+In jedem Sturm, der um mich tobt,
+Ist Er der Anker in der Not.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und wenn Er mit Posaunenklang
+Zurück auf diese Erde kommt
+Will ich geheiligt vor Ihm stehn
+Um vor dem Thron Ihn anzusehn.</lines>
+    </verse>
+  </lyrics>
+</song>

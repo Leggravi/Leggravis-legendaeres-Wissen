@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Your Grace Is Enough – v2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v3 v2 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Great is Your faithfulness oh God
+You wrestle with the sinner's heart
+You lead us by still waters and to mercy
+And nothing can keep us apart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So remember Your people
+Remember Your children
+Remember Your promise
+Oh God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your grace is enough
+Your grace is enough
+Your grace is enough for me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Great is Your love and justice God
+You use the weak to lead the strong
+You lead us in the song of Your salvation
+And all Your people sing along</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Your grace is enough
+Heaven reaching down to us
+Your grace is enough for me
+God I see your grace is enough
+I'm covered in your love
+Your grace is enough for me
+For me</lines>
+    </verse>
+  </lyrics>
+</song>

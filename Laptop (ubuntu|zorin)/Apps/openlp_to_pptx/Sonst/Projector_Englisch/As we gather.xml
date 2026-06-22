@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>As we gather</title>
+    </titles>
+    <authors>
+      <author type="words">Graham Kendrick</author>
+      <author type="music">Graham Kendrick</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As we gather may Your Spirit work within us;
+As we gather may we glorify Your Name;
+Knowing well that as our hearts begin to worship
+We'll be blessed because we came,
+We'll be blessed because we came.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The steadfast love of the Lord never ceases
+His mercies never come to an end
+They are new every morning, new every morning
+Great is Thy faithfulness, oh, Lord,
+Great is Thy faithfulness.</lines>
+    </verse>
+  </lyrics>
+</song>

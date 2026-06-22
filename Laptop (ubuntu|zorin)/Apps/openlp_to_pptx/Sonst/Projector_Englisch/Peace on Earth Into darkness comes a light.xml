@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Peace on Earth (Into darkness comes a light) </title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Into darkness comes a light,
+Into silence a baby's cry
+The birth of freedom,
+The death of fear
+In a manger Christ is here</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let there be peace on earth
+Let there be peace on earth
+Long awaited love
+Heaven's come for us
+Let there be peace on earth</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All division may it cease,
+Every worry may it flee,
+A weary heart finds
+A thrill of hope
+The world rejoices
+We're not alone</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Joy to the world,
+The Lord is come
+Let earth receive her King
+Let every heart 
+prepare Him room
+And heaven and nature sing</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Peace on earth
+Peace on earth</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Through the Fire</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>So many times I've questioned
+certain circumstances
+Or things I could not understand
+Many times the trials and weakness
+blur my vision
+And my frustrations get so out of hand
+It's then I'm reminded I've never been forsaken,
+I've never had to stand the test alone
+As I look at all the victories
+the Spirit rises up in me
+It's through the fire my weakness made strong</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He never promised that the cross
+would not get heavy
+And the hill would not be hard to climb
+He never offered our vict'ries without fighting
+But He said help would always come in time
+Just remember when you're standing
+in the valley of decision
+And the adversary says' &quot;Give in&quot;
+Just hold on, our Lord will show up
+And He will take you through the fire again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know within myself that I would surely perish
+But if I trust the Hand of God
+He'll shield the flames again… again…</lines>
+    </verse>
+  </lyrics>
+</song>

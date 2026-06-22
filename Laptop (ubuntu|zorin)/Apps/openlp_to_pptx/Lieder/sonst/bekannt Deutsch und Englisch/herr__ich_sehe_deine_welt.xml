@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Aug 15, 2020, 12:32:07 PM">
+  <properties>
+    <titles>
+      <title>Herr, ich sehe deine Welt</title>
+    </titles>
+    <verseOrder>V1 V2 C3 V4 V5 C6 V7 V8 C9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Herr, ich sehe deine Welt,
+das weite Himmelszelt,
+die Wunder deiner Schöpfung.
+Alles das hast du gemacht,
+den Tag und auch die Nacht;
+ich danke dir dafür.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Berge, Flüsse und die Seen,
+die Täler und die Höhn
+sind Zeichen deiner Liebe.
+Sonne, Wolken, Sand und Meer,
+die loben dich so sehr,
+sie preisen deine Macht.</lines>
+    </verse>
+    <verse name="C3">
+      <lines>Darum bete ich dich an,
+weil ich nicht schweigen kann;
+die Freude füllt mein Singen.
+Staunend habe ich erkannt:
+ich bin in deiner Hand,
+und du lässt mich nicht los.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Auch die Menschen sind von dir
+und haben Leben hier
+durch deine große Güte.
+Fühlen, Wollen und Verstand,
+sind Werke deiner Hand,
+entstammen deinem Plan.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Ist der Mensch auch sehr entstellt,
+weil er die Sünde wählt,
+du willst ihn nicht zerstören.
+Deine Liebe macht ihn frei von aller Tyrannei,
+wenn er auf dich vertraut.</lines>
+    </verse>
+    <verse name="C6">
+      <lines>Darum bete ich dich an,
+weil ich nicht schweigen kann;
+die Freude füllt mein Singen.
+Staunend habe ich erkannt:
+ich bin in deiner Hand,
+und du lässt mich nicht los. -</lines>
+    </verse>
+    <verse name="V7">
+      <lines>Herr, weil du der Herrscher bist
+und alle Menschen siehst,
+bin ich in dir geborgen.
+Kleinste Wesen in der Welt,
+das große Sternenzelt hälst du in deiner Hand.</lines>
+    </verse>
+    <verse name="V8">
+      <lines>Du reagierst auch unsre Zeit
+und bald ist es so weit,
+dann wirst du sichtbar kommen.
+Mit uns sehnt sich die Natur
+und alle Kreatur nach deiner Herrlichkeit.</lines>
+    </verse>
+    <verse name="C9">
+      <lines>//: Darum bete ich dich an,
+weil ich nicht schweigen kann;
+die Freude füllt mein Singen.
+Staunend habe ich erkannt:
+ich bin in deiner Hand,
+und du lässt mich nicht los. ://</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Old Ship of Zion</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a ship called
+the old ship of Zion
+And it’s passing this way
+just one more time,
+And I got my ticket waiting
+for the rapture,
+And my heart is longing for
+that final day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The old ship of Zion will soon
+be coming in
+Then I shall step upon it
+and leave this world of sin,
+I’ll be changed in a moment
+in a twinkling of an eye
+And I’ll go sailing through the sky
+For the ship of Zion will soon be coming in.
+(Yes the ship of Zion will Soon be coming In)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Not long ago, a prophet came on to earth
+And he brought us ‘Thus says the Lord'
+And he said you better get your ticket ready,
+For without the token you can’t get on board.</lines>
+    </verse>
+  </lyrics>
+</song>

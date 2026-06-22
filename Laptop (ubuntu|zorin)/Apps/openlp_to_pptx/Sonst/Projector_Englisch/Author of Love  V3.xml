@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Author of Love – V3</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Woman, look closely into his eyes you'll see
+One who's not perfect, yet forgiven and free
+And with this liberty God's given love to him for you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Husband, look deeply into her eyes you'll find
+One who's been growing upon the Father's vine
+And now the time has come to be grafted into one through Him.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Precious the secret of cov'nant will unfold
+As you grow closer His heart we will behold
+The power of this vow is only good when you bow to the Author of Love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Unto the Author of Love
+Unto the Author of Love</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, wir loben deine Gnade</title>
+    </titles>
+    <authors>
+      <author type="words">Diakonissenmutterhaus Aidlingen</author>
+      <author type="music">Ada Rose Gibbs</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, wir loben deine Gnade,
+dass du uns für dich gewannst,
+rein‘gend, rettend und erfüllend so,
+dass du uns brauchen kannst.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nur Gefäße, heilger Meister,
+doch gefüllt mit deiner Kraft,
+lass dein Leben durch uns strömen,
+Deiner Liebe Geist und Macht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nur Gefäße, doch von Segen
+für die Durst'gen rings umher,
+lass uns sein, geliebter Heiland,
+mach dazu uns täglich mehr.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Von der Rettermacht zu zeugen,
+die von Sünde uns befreit.
+Dazu sind wir ausgesondert,
+dazu hast du uns geweiht.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Herr, erfüll mit deinem Geiste
+jedes Herz, das völlig dein,
+lass den Strom lebend‘gen Wassers
+bei und durch uns mächtig sein.</lines>
+    </verse>
+  </lyrics>
+</song>

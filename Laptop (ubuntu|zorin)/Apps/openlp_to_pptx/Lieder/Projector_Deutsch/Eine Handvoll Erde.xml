@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Eine Handvoll Erde</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mit der Erde kannst du spielen
+Spielen wie der Wind im Sand
+Und du baust in deinen Träumen
+Dir ein buntes Träumeland</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mit der Erde kannst du bauen
+Bauen dir ein großes Haus
+Doch du solltest nie vergessen
+Einmal ziehst du wieder aus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eine handvoll Erde, schau sie dir an
+Gott sprach einst, es werde, denke daran
+Eine handvoll Erde, schau sie dir an
+Gott sprach einst, es werde, denke daran</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Auf der Erde kannst du stehen
+Stehen, weil der Grund dich hält
+Und so bietet dir die Erde
+Einen Standpunkt in der Welt</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In die Erde kannst du pflanzen
+Pflanzen einen Hoffnungsbaum
+Und er schenkt dir viele Jahre
+Einen bunten Blütentraum</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Eine handvoll Erde, schau sie dir an
+Gott sprach einst, es werde, denke daran
+Eine handvoll Erde, schau sie dir an
+Gott sprach einst, es werde, denke daran</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Auf der Erde darfst du leben
+Leben ganz und jetzt und hier
+Und du kannst das Leben lieben
+Denn der Schöpfer schenkt es dir</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Unsre Erde zu bewahren
+Zu bewahren, das was lebt
+Hat Gott dir und mir geboten
+Weil er seine Erde liebt</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Eine handvoll Erde, schau sie dir an
+Gott sprach einst, es werde, denke daran
+Eine handvoll Erde, schau sie dir an
+Gott sprach einst, es werde, denke daran</lines>
+    </verse>
+  </lyrics>
+</song>

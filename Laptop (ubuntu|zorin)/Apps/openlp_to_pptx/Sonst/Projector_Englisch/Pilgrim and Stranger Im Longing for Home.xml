@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Pilgrim and Stranger (I'm Longing for Home)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm only a pilgrim and stranger,
+In this unfriendly world that I roam.
+For Jesus Who has brought me from darkness,
+Has promised me a heavenly home.
+In the Bible we read of a city
+Whose builder and ruler is God
+And someday when this life is over,
+Its beautiful sites we'll behold.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm longing for home, the sun goeth down.
+I want to go where, sweet rest can be found.
+I'm just about through, with this old house of clay.
+I'm leaving this world, for Glory some day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the last weary mile has been traveled,
+And the gates of that city swing wide.
+Oh what a glad feeling 'twill be,
+To know that heaven is mine.
+Beyond the dark veil of sorrows,
+With Jesus forever I'll be.
+Oh to that city I'm going,
+Behold the Saviour to see.</lines>
+    </verse>
+  </lyrics>
+</song>

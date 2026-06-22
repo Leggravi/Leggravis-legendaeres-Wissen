@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come, praise the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Jochen Rieger</author>
+      <author type="music">Jochen Rieger</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, praise the Lord, all His servants
+come, praise the Lord, all His servants
+all the servants, who serve in the temple of the Lord,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>and raise your hands in prayer in the temple,
+and praise Him, praise Him,
+praise Him all His servants.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>May the Lord who made heaven and earth
+bless you from Zion, bless you from Zion.
+Praise the Lord, praise the Lord!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come, praise the Lord and worship Him!
+Come praise the Lord and exalt His name!</lines>
+    </verse>
+  </lyrics>
+</song>

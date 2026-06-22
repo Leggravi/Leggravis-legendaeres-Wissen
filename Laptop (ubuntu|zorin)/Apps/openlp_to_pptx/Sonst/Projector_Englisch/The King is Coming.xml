@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The King is Coming</title>
+    </titles>
+    <authors>
+      <author type="words">William J. Gaither</author>
+      <author type="music">William J. Gaither</author>
+      <author type="translation">Abends ist die Stadt so leer</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v7 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The marketplace is empty
+No more traffic in the streets
+All the builders' tools are silent
+No more time to harvest wheat</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Busy housewives cease their labors
+In the courtroom no debate
+Work on earth is all suspended
+As the King comes thro' the gate</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O the King is coming
+The King is coming
+I just heard the trumpets sounding
+And now His face I see
+O the King is coming
+The King is coming
+Praise God, He's coming for me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Happy faces line the hallways
+Those whose lives have been redeemed
+Broken homes that He has mended
+Those from prison He has freed</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Little children and the aged
+Hand in hand stand all aglow
+Who were crippled, broken, ruined
+Clad in garments white as snow</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I can hear the chariots rumble
+I can see the marching throng
+The flurry of God's trumpets
+Spells the end of sin and wrong</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Regal robes are now unfolding
+Heaven's grandstand's all in place
+Heaven's choir now assembled
+Start to sing &quot;Amazing Grace&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

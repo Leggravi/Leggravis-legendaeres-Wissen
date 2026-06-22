@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Always Love You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My Precious Lord, wondrous King
+I worship at your feet
+I give to you my everything
+Oh God I stand to sing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I always love you Lord
+I worship you, I honor you
+I glorify your name
+And I will always love you Lord
+My everything, my all in all
+I offer up to you oh Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To do your will, to please you Lord
+Is what I want to do
+I give my life, I lift my hands
+I worship you my King</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Great I Am</title>
+    </titles>
+    <authors>
+      <author type="words">Walker Beach</author>
+      <author type="music">Walker Beach</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I AM that spoke to Moses in the burning bush of fire,
+I AM the God of Abraham, the Bright and Morning Star.
+I AM the Rose of Sharon, from beginning whence I came;
+I AM the whole creation, and Jesus is My Name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, who do you say I am, and whence do you say I came,
+Do you know the Father, and can you tell His Name?
+In Jesus dwells the fullness of the Godhead, don’t you see;
+Jesus is the great I AM, and the Lord of lords is He.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I AM was before old Abraham, “He rejoiced to see My day.”
+When Jesus spoke these precious words, they stoned Him right away.
+“Why do you stone Me?” Jesus said, in a holy sweet command.
+“Because you say you’re the great I AM, we believe you’re just a man.”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It was on the Day of Pentecost, oh, how the fire did fall;
+The Holy Ghost descended and filled them one and all.
+Then Peter told the multitude, “Repent of all your sins.”
+About three thousand souls were buried in Jesus’ precious Name.</lines>
+    </verse>
+  </lyrics>
+</song>

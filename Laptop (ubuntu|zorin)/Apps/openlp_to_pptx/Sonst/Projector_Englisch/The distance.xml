@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The distance</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I stood at a canyon
+A great divide
+Sin left me stranded
+With you on the other side
+I thought I was hopeless
+But in my heart
+I heard a still small voice that was callin’ my name
+And all the miles between started melting away</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, it’s amazing
+Your love is erasing
+The distance
+And you won’t stop, you won’t stop
+Even in my weakest moment
+I can feel you closin' the distance
+And You won’t stop, You won’t stop
+Closin’ the distance</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are relentless
+You’ve always been
+Pursuer of my heart
+Over and over again</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ooh, I hear the still small voice
+And it’s calling my name
+I feel the miles between us
+Melting away
+And suddenly I can see
+I was never alone
+You’ve been reaching for me
+And pulling me close</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nothing can separate us
+No one can stand between
+From beginning to the end
+Your love is enough, enough
+Nothing can separate us
+No one can separate us</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh, it’s so amazing
+How your love is closin' the distance
+Even in my weakest moment
+I can feel ou closin’ the distance
+And you won’t stop, you won’t stop
+Closin' the distance
+And you won’t stop, you won’t stop
+Closin' the distance
+And you won’t stop, you won’t stop
+Closin' the distance
+Closin' the distance</lines>
+    </verse>
+  </lyrics>
+</song>

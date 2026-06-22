@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Keeps Blessing Me More</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I woke up this morning
+and rose with the sun,
+Thinking of Jesus and all
+ that He's done;
+He's never failed one time
+ to meet every need,
+Cause Jesus keeps pouring
+ out His blessings on me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He keeps blessing me more,
+And I can see He's guiding me
+ more than ever before.
+I may not have riches,
+ but I'll never be poor,
+Cause He keeps blessing me more.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The storm clouds may gather
+ and darken the sky,
+But the sun still keeps shining
+ though it's hid from my eyes;
+And behind every trial His blessing
+ I see.
+Cause Jesus keeps shining
+ His light down on me.</lines>
+    </verse>
+  </lyrics>
+</song>

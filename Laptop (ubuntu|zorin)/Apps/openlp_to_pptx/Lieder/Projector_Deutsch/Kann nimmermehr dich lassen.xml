@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Kann nimmermehr dich lassen</title>
+    </titles>
+    <authors>
+      <author type="words">W. Fetler</author>
+      <author type="music">W. Fetler</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kann nimmermehr dich lassen, mein teures Bibelbuch,
+Ich fand darin den Heiland, der meine Sünden trug.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nimmermehr, nimmermehr lass ich von meiner Bibel.
+Nimmermehr, nimmermehr lass ich mein Bibelbuch.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In Trübsal und Verfolgung, in Kummer, Leid und Schmerz
+quillt nur aus meiner Bibel, mir Trost ins wunde Herz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zielt mit dem gift’gen Pfeilen auf mich der Seelenfeind,
+greif ich zu meiner Bibel, und Kreuzeslicht mir scheint.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Muss bis aufs Blut ich ringen heiß in Gethsemane,
+so bringt mir meine Bibel des Heilands Friedensnäh.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Drum kann ich dich nicht lassen, geliebtes Bibelbuch,
+dein Reichtum schenkt mir alles, was immer ich auch such!</lines>
+    </verse>
+  </lyrics>
+</song>

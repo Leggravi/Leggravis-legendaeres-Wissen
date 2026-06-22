@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Feel Good</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I feel good! I feel good!
+Just to know I've been redeemed
+ makes me feel good.
+I feel good! I feel good!
+Just to know I've been redeemed
+ makes me feel good.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, how well do I remember
+All the days I've spent in sin
+With no doubt of doing
+All the things I should,
+But then my blessed Savior
+ called me,
+And He gently took me in
+Makes me wanna shout
+&quot;Hallelujah, I feel good!&quot;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm on my way to heaven
+And i'm singing as I go,
+I'm so glad my name
+Is written in the Book!
+Just to know His blood
+ has cleansed me
+And I'm ready now to go
+Makes me wanna shout
+&quot;Hallelujah, I feel good! '</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gieß in unsre Herzen Liebe aus</title>
+    </titles>
+    <authors>
+      <author type="words">Eugen Eckert</author>
+      <author type="music">Thomas Gabriel</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gieß in unsre Herzen Liebe aus
+Deine Gnade Dein Heil
+Lass uns sehen und erkennen, Herr,
+Deine Größe, Deine Macht</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist voller Liebe
+Du bist voll Erbarmen, Herr
+Du bist voller Gnade,
+Du bist voller Heil!</lines>
+    </verse>
+  </lyrics>
+</song>

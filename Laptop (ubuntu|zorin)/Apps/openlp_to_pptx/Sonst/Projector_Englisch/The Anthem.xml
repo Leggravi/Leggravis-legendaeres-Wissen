@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Anthem</title>
+    </titles>
+    <authors>
+      <author type="words">Joth Hunt</author>
+      <author type="music">Joth Hunt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can hear the footsteps of my King
+I can hear His heartbeat beckoning
+In my darkness He has set me free
+And now I hear the Spirit calling me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: He's calling
+Wake up child
+It's your time to shine
+You were born for such a time as this :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I can hear a holy rumbling
+I've begun to preach another King
+Loosing chains and breaking down the walls
+I want to hear the Father when He calls</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: He's calling
+Wake up child
+It's your time to shine
+You were born for such a time as this :/</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/: This is the anthem of our generation
+Here we are God
+Shake our nation
+All we need is Your love
+You captivate me :/</lines>
+    </verse>
+    <verse name="v6">
+      <lines>/: I am royalty
+I have destiny
+I have been set free
+I'm gonna shape history :/</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I'm gonna change the world</lines>
+    </verse>
+  </lyrics>
+</song>

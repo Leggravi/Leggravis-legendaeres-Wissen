@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Sure Foundation</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There stands a Rock on shores of time
+That rears to heav'n its head sublime;
+That Rock is cleft, and they are blest
+Who find within this cleft a rest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Some build their hopes on the
+  ever drifting sand,
+Some on their fame, or their treasure,
+  or their land;
+Mine's on a Rock that forever will stand,
+Jesus, the &quot;Rock of Ages.&quot;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>That Rock's a cross, its arms outspread,
+Celestial glory bathes its head;
+To its firm base my all I bring,
+And to the Rock of Ages cling.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>That Rock's a tow'r, whose lofty height,
+Illum'd with heav'n's unclouded light,
+Opes wide its gate beneath the dome
+Where saints find rest with Christ at home.</lines>
+    </verse>
+  </lyrics>
+</song>

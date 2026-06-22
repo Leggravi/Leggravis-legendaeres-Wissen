@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist der höchste, o Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Gitta Leuschner</author>
+      <author type="music">Pete Sanchez Jr.</author>
+      <author type="translation">For Thou O Lord art high (I exalt Thee)</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist der Höchste, o Herr,
+über allen Erden.
+Du bist erhoben über alle Götter.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich erhebe dich. Ich erhebe Dich.
+Ich erhebe Dich, o Herr!
+Ich erhebe Dich. Ich erhebe Dich.
+Ich erhebe Dich, o Herr!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir erheben Dich! Wir erheben Dich!
+Wir erheben Dich, o Herr!
+Wir erheben Dich! Wir erheben Dich!
+Wir erheben Dich, o Herr!</lines>
+    </verse>
+  </lyrics>
+</song>

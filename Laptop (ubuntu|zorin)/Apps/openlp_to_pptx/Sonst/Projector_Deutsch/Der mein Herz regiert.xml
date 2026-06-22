@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Der mein Herz regiert</title>
+    </titles>
+    <authors>
+      <author type="words">Lena Brückner-Ahrend</author>
+      <author type="music">John Mark McMillan</author>
+      <author type="translation">King Of My Heart</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Er der mein Herz regiert, sei mein Fels und sei mein Schutz.
+Der Quell aus dem ich trink. Oh, er ist mein Lied.
+Er der mein Herz regiert, sei der Schatten der mich birgt.
+Mein Retter allezeit. Oh, er ist mein Lied.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: Du bist gut, gut, ohhhh
+Du bist gut, gut, ohhhh :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Er der mein Herz regiert, sei der Wind der mich bewegt.
+Der Anker der mich hält. Oh, er ist mein Lied.
+Er der mein Herz regiert, sei das Feuer tief in mir.
+Dr Klang, der von mir bleibt. Oh, er ist mein Lied.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: Du bist gut, gut, ohhhh
+Du bist gut, gut, ohhhh :/</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/: Du lässt mich nie allein, niemand lässt du mich allein.
+Du lässt mich nie allein, niemand lässt du mich allein. :/</lines>
+    </verse>
+    <verse name="v6">
+      <lines>/: Du lässt mich nie allein, niemand lässt du mich allein.
+Du lässt mich nie allein, niemand lässt du mich allein. :/
+/: Du bist gut, gut, ohhhh
+Du bist gut, gut, ohhhh :/</lines>
+    </verse>
+  </lyrics>
+</song>

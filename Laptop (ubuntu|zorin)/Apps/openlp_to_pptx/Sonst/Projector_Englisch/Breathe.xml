@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Breathe</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Lass</author>
+      <author type="music">Chris Lass</author>
+      <author type="translation">Halte mich</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is the air I breathe,
+This is the air I breathe,
+Your holy presence living in me.
+This is my daily bread,
+This is my daily bread,
+Your very Word spoken to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I am desperate for You,
+And I am lost without You.</lines>
+    </verse>
+  </lyrics>
+</song>

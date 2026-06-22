@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>For Me to Live Is Christ to Die Is Gain</title>
+    </titles>
+    <authors>
+      <author type="words">K. White</author>
+      <author type="music">K. White</author>
+      <author type="translation">Damit ich leb, starb Jesus einst für mich (Ich lebte sinnlos in den Tag hinein)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Now once my heart was full of sin and shame
+Till someone told me that Jesus came to save
+When He said come unto me
+He set my poor heart free
+For me to live is Christ to die is gain</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For me to live is Christ to die is gain
+To hold His Hand and walk His narrow way
+There's no more peace no joy no thrill
+Like walking in His Will
+For me to live is Christ to die is gain.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now there are some things that still I do not know
+But of this one thing I am completely sure
+He who called me on that day
+Washed all my sins away
+For me to live is Christ to die is gain</lines>
+    </verse>
+  </lyrics>
+</song>

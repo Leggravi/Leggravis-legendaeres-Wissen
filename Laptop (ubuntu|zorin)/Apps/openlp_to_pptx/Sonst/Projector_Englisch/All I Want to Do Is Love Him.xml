@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All I Want to Do Is Love Him</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All I want to do is love Him
+So glad I feel His love for me,
+Jesus paid the price of redemption
+On the cross of Calvary.
+So everyday my heart will praise Him
+I know I'll never be the same
+All I want to do is love Him,
+Love His holy name.</lines>
+    </verse>
+  </lyrics>
+</song>

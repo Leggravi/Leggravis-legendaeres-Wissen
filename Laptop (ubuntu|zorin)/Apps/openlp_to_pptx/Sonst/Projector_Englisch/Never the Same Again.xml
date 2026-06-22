@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Never the Same Again</title>
+    </titles>
+    <authors>
+      <author type="words">Geoff Bullock</author>
+      <author type="music">Geoff Bullock</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Never the same again
+Now I know I won't be the same again
+From the moment I met Jesus
+New life for me began
+And I won't be the same again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I remember how he waited
+How he called me by night
+Yet I chose to wander my own ways
+And nothing worked out right
+Till the day I finally surrendered
+Jesus healed my life
+I won't be the same
+No never the same again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He may take me thru the valley
+Even though I am his child
+And the road he show me may be rough
+And rugged for a while
+Yet he takes my hand and speaks the word
+That lightens up my way
+I won't be the same
+No never the same again</lines>
+    </verse>
+  </lyrics>
+</song>

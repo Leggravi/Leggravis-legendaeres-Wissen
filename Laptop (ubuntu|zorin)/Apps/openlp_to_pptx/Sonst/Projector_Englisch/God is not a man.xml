@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God is not a man</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God is not a man that he should lie
+Nor Son of man that he should repent
+As He said and will be not conforming
+As He spoken and will not make it through</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I Am the Lord, I do not change
+My work thus not return unto Me boil
+Yesterday today forever It's still the same
+No My Word cannot be destroy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the beginning was the Word
+The Word was with God and the Word was God
+His words forever settles and always stand
+For He elshadai Shalom the Great I Am.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Word made flesh and dwelled among all men
+We beheld His Glory full of grace and Through
+And now today It's cross then us the hope of Glory
+The mystery reveald to me and you</lines>
+    </verse>
+  </lyrics>
+</song>

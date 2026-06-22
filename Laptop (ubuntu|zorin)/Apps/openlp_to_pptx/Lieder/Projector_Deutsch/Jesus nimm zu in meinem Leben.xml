@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, nimm zu in meinem Leben</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Frey</author>
+      <author type="music">Albert Frey</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v3 v3 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeden Tag ein Stückchen sterben,
+loszulassen, was mich hält.
+Vieles muss noch anders werden,
+bis es passt in Gottes Welt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Manche Träume muss ich lassen,
+Wünsche bleiben unerfüllt.
+Mir bleibt nichts als zu vertrauen,
+dass du meine Sehnsucht stillst.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, nimm zu in meinem Leben.
+Jesus, mein Herz will ich dir geben.
+Du sollst wachsen und ich muss kleiner werden.
+Jesus, nimm du in mir zu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jeden Tag ein Stückchen älter
+und der äußre Mensch zerfällt.
+Lass den innern Menschen wachsen,
+stärke das, was ewig hält.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Was wertvoll ist in deinen Augen,
+gilt in dieser Welt nicht viel.
+Doch ich geh auf dieser Reise
+mit dir, Jesus, bis ans Ziel.</lines>
+    </verse>
+  </lyrics>
+</song>

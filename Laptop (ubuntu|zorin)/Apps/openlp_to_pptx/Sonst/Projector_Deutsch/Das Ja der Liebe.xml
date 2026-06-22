@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Das Ja der Liebe</title>
+    </titles>
+    <authors>
+      <author type="words">Christoph Zehendner</author>
+      <author type="music">Johannes Nitsch</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Am Anfang war das Wort, das ja der Liebe und das Wort war bei Gott und Gott selbst war das Wort, am Anfang war das Wort.
+
+Am Anfang war das Wort, das ja zum Leben, das was lebt auf der Welt, kam zur Welt durch dies Wort, am Anfang war das Wort.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Und wir haben seine Herrlichkeit gesehen, seit wir Zeugen seiner Macht geworden sind, wir beginnen dieses Wunder zu versteh`n, wer seinem ja der Liebe glaubt wird Gottes Kind, wer seinem ja der Liebe glaubt wird Gottes Kind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Am Anfang war das Wort, das ja zur Wahrheit, schien im dunkeln als Licht, niemand löscht es mehr aus, am Anfang war das Wort.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und wir haben seine Herrlichkeit gesehen, seit wir Zeugen seiner Macht geworden sind, wir beginnen dieses Wunder zu versteh`n, wer seinem ja der Liebe glaubt wird Gottes Kind, wer seinem ja der Liebe glaubt wird Gottes Kind.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Am Anfang war das Wort, das ja zum Menschen und das Wort wurde Mensch, uns umgreifbar bei uns, für immer ist das Wort.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Und wir haben seine Herrlichkeit gesehen, seit wir Zeugen seiner Macht geworden sind, wir beginnen dieses Wunder zu versteh`n, wer seinem ja der Liebe glaubt wird Gottes Kind, wer seinem ja der Liebe glaubt wird Gottes Kind.
+
+Und wir haben seine Herrlichkeit gesehen, seit wir Zeugen seiner Macht geworden sind, wir beginnen dieses Wunder zu versteh`n, wer seinem ja der Liebe glaubt wird Gottes Kind, wer seinem ja der Liebe glaubt wird Gottes Kind.</lines>
+    </verse>
+  </lyrics>
+</song>

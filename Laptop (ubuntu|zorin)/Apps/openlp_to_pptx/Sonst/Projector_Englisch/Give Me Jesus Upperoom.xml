@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Give Me Jesus (Upperoom)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I don't want anything but You,
+You're more than every dream come true,
+All of the things I thought I wanted,
+Don't come close to knowing You,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now that I'm Yours and You are mine,
+Our love is the secret that I find,
+I'll spend forever in the pleasure,
+I found looking in Your eyes,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Give me Jesus, Give me Jesus,
+You can have all this world,
+You can have all this world.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>More than silver, more than gold,
+You are the treasure that I hold,
+Now that I've tasted of Your goodness,
+Nothing else will satisfy.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Just give me Jesus, Give me Jesus,
+And you can have all this world,
+You can have all this world,
+Give me Jesus, Give me Jesus.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And you can have all this world
+You can have all this world
+Just give me Jesus</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I only want Jesus,
+I only want Jesus,
+I only want Jesus,
+I don't want anyone else,
+I don't need anything else.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>You are my one thing,
+You are my one thing.</lines>
+    </verse>
+  </lyrics>
+</song>

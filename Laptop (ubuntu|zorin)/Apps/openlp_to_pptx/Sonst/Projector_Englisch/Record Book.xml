@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Record Book</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To be well known of men, I may not ever be.
+I'm sure my name will not go down in history.
+There'll be no marble plaques to tell of my good deeds.
+Nor any great parades to honor me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But there's a record book, my name is written in,
+It was recorded there when I was born again.
+No one can blot it out, It's sealed forevermore.
+It's in that book of life kept by the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For ever deed I do, for every word I say;
+There is a record kept until the Judgment day
+My name will not be lost, misplaced or overlooked
+For it's kept safely in God's record book.</lines>
+    </verse>
+  </lyrics>
+</song>

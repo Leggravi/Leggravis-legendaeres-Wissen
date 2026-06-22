@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:06">
+  <properties>
+    <titles>
+      <title>Dann wird es kein Leid mehr geben (Gott wird sein alles und in allen)</title>
+    </titles>
+    <authors>
+      <author type="words">Elisabeth Schnitter (1980)</author>
+      <author type="music">Elisabeth Schnitter</author>
+    </authors>
+    <ccliNo>4347242</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dann wird es kein Leid mehr geben,
+keine Träne mehr geweint.
+Kein Verfolgen, Überheben
+über den, der ärmer scheint.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dann wird er den Tod entmachten,
+keiner wird mehr einsam sein.
+Keiner wird dann mehr verachten
+seinen Nächsten, groß und klein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dann wird keine Sünde trennen,
+keine Krankheit mehr verzehr'n.
+Keine Lebensangst beklemmen,
+keine Lasten mehr beschwer'n.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dann vergehen alle Fragen,
+jede Sehnsucht wird gestillt.
+Frei von Hast und Lebensplagen
+ist in Ewigkeit erfüllt:</lines>
+    </verse>
+  </lyrics>
+</song>

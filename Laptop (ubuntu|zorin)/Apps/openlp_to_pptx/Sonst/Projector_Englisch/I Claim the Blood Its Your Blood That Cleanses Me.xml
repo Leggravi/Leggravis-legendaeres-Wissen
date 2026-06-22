@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Claim the Blood (It's Your Blood That Cleanses Me)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I claim the blood
+Jesus shed on calvary
+Those precious blood stains
+Were made there just for me
+For all my sins,
+My sickness and my pain
+When I need healing
+I claim those precious blood stains</lines>
+    </verse>
+  </lyrics>
+</song>

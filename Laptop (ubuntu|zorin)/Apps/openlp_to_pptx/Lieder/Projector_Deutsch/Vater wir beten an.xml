@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Vater, wir beten an</title>
+    </titles>
+    <authors>
+      <author type="words">Kommunität Gnadenthal</author>
+      <author type="music">Kommunität Gnadenthal</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vater, wir beten an.
+Vater, wir beten an.
+Du gabst den Sohn um uns zu erlösen.
+Vater wir beten an.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus wir steh'n vor Dir.
+Jesus, wir steh'n vor Dir.
+Um Deine Liebe recht anzuschauen.
+Jesus, wir steh'n vor Dir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Heiliger Geist der Kraft.
+Heiliger Geist der Kraft.
+Du bist der Beistand und unser Tröster,
+heiliger Geist der Kraft.</lines>
+    </verse>
+  </lyrics>
+</song>

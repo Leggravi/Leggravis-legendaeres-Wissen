@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Won't Give Up</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>So many precious seeds
+are sown throughout the Land
+Till they've come to reach a
+lovely harvest strand
+The thorns and briars now
+are trying everything
+To choke the life till no more
+fruitfulness they bring</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I won't give up until I wear a crown
+I won't give up till I lay my burdens down
+Until my blessed Savior's Face I see
+I'll never give up here
+I won't give up until our Lord I'll crown</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We're all invited to
+the Marriage of the Lamb
+To be a Bride that only
+for His Word will stand
+Not to make more of
+these worldly things than Him
+If we give up
+we'll surely miss everything</lines>
+    </verse>
+  </lyrics>
+</song>

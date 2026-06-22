@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God is With Us</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Night was overwhelming
+Hope was dead on the cross
+Jesus had breathed his last
+The shadow's hold defeated
+Death was defeated</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On the cross You gave Your life
+Pouring out a precious sacrifice
+You laid down in darkness
+Waging a war we could not win
+When the stone was rolled away
+The tomb was empty where Your baby laid
+Jesus is risen
+Jesus has overcome the grave
+God is with us</lines>
+    </verse>
+    <verse name="v3">
+      <lines>King of my salvation
+You paid the cost for my son
+Jesus, The Son of God
+Risen on the third day
+You conquered all my fear
+I know You're with me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Be unto Your name
+All the Blessing
+All the honour
+All the praise
+Forever an ever
+All the glory
+All the power
+All the strength</lines>
+    </verse>
+  </lyrics>
+</song>

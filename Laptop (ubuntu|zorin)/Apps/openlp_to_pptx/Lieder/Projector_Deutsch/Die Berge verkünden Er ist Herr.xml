@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Die Berge verkünden: Er ist Herr!</title>
+    </titles>
+    <authors>
+      <author type="words">Wort des Glaubens München</author>
+      <author type="music">Ann Hughes</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Die Berge verkünden: Er ist Herr!
+Die Täler verkünden: Er ist Herr!
+Die ganze Schöpfung redet von der Herrlichkeit des Herrn.
+Wie könnte ich da schweigen, mein Herz ruft voller Freude:
+Unser Gott, er ist Herr, er ist Herr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Denn der Herr, er ist gut!
+Seine Güte währet ewig.
+Denn der Herr, er ist gut!
+Seine Güte währet ewig.
+Denn der Herr, er ist gut!
+Seine Güte währet ewig.
+Denn der Herr, er ist gut!
+Seine Güte ewig währet.</lines>
+    </verse>
+  </lyrics>
+</song>

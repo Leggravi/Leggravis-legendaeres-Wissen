@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir schauen auf den Sohn</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v4 v1 v8 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh Wir schaun auf den Sohn
+Und erkennen den Retter
+Sehen Liebe in Ihm
+Singen Sein Lob für immer
+Oh wir schaun auf den Sohn
+Oh wir schaun auf den Sohn</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Errettung
+Bahnt den Weg durch tiefste Nacht
+Sieh das Königreich
+Es entfaltet seine Farbenpracht</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Freiheit
+Weckt die Atmosphäre auf
+Wenn der Tag anbricht
+Löscht sein Licht auch alle Schatten aus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hinter dem Himmelszelt
+Reicht Liebe uns die Hand
+Der unvergängliche
+Jesus mein Gott</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh Wir schaun auf den Sohn
+Und erkennen den Retter
+Sehen Liebe in Ihm
+Singen Sein Lob für immer
+Oh wir schaun auf den Sohn</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Die Schöpfung
+Ist bereit wenn sein Reich kommt
+Sieh nur Gottes Hoffnung
+Strahlt auf wie das Morgenrot</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jetzt für immer
+Hat Jesus den Tod besiegt
+Liebe fürchtet nichts
+Und sein Licht vertreibt die Finsternis</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Hinter dem Himmelszelt
+Reicht Liebe uns die Hand
+Der unvergängliche
+Jesus mein Gott
+Oh Wir schaun auf den Sohn
+Oh Wir schaun auf den Sohn</lines>
+    </verse>
+  </lyrics>
+</song>

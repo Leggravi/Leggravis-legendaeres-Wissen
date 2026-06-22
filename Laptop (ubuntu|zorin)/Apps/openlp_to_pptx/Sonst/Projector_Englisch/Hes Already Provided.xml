@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He's Already Provided</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's already provided
+He's already provided
+In everything you need
+He's already provided
+Every promise you can claim
+Just ask Him in His name
+Everything you need is already provided</lines>
+    </verse>
+  </lyrics>
+</song>

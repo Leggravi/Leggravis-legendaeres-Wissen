@@ -1,0 +1,1107 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wikinger Spieleabend</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;800&family=Uncial+Antiqua&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-deep: #060a13;
+            --aurora-1: #00d4ff;
+            --aurora-2: #c084fc;
+            --gold: #fbbf24;
+            --red: #ef4444;
+            --green: #22c55e;
+            --text-main: #f8fafc;
+            --text-dim: #94a3b8;
+            --panel-bg: rgba(15, 23, 42, 0.85);
+            --border: rgba(148, 163, 184, 0.2);
+            --t1-color: #3b82f6; /* Blau */
+            --t2-color: #ef4444; /* Rot */
+            --t3-color: #22c55e; /* Grün */
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; user-select: none; }
+        
+        body {
+            background-color: var(--bg-deep);
+            color: var(--text-main);
+            font-family: 'Cinzel', serif;
+            overflow: hidden; /* Verhindert Scrollen auf der Leinwand */
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Hintergrund & Effekte */
+        #canvas-bg { position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 1; pointer-events: none; opacity: 0.6; }
+        #flash-overlay { position: fixed; inset: 0; z-index: 9999; display: none; align-items: center; justify-content: center; font-family: 'Uncial Antiqua', cursive; font-size: 8vw; text-shadow: 0 0 40px rgba(255,255,255,0.8); }
+
+        /* Omnipräsentes Scoreboard */
+        #scoreboard {
+            position: relative; z-index: 100;
+            background: linear-gradient(to bottom, rgba(0,0,0,0.9), transparent);
+            padding: 1.5vh 2vw; display: flex; justify-content: space-around;
+            border-bottom: 1px solid var(--border);
+        }
+        .team-score-box { text-align: center; display: flex; flex-direction: column; align-items: center; position: relative; }
+        .ts-name { font-size: 1.5vw; color: var(--text-dim); }
+        .ts-points { font-family: 'Uncial Antiqua', cursive; font-size: 3vw; color: var(--gold); text-shadow: 0 0 15px rgba(251,191,36,0.4); transition: transform 0.2s; }
+        .ts-controls { display: flex; gap: 5px; opacity: 0; transition: opacity 0.3s; position: absolute; bottom: -30px; }
+        .team-score-box:hover .ts-controls { opacity: 1; } /* Nur für den Moderator sichtbar bei Mouseover */
+        .mod-btn { background: rgba(255,255,255,0.1); border: 1px solid var(--border); color: white; border-radius: 4px; padding: 2px 8px; cursor: pointer; font-family: sans-serif; font-weight: bold; }
+        .mod-btn:hover { background: rgba(255,255,255,0.3); }
+
+        /* Screens */
+        .screen { display: none; flex: 1; position: relative; z-index: 10; padding: 2vw; flex-direction: column; align-items: center; overflow-y: auto; }
+        .screen.active { display: flex; animation: fadeIn 0.4s ease; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+
+        /* Typografie & Buttons */
+        h1 { font-family: 'Uncial Antiqua', cursive; font-size: 4vw; margin-bottom: 1vh; color: var(--aurora-1); text-shadow: 0 0 20px rgba(0,212,255,0.5); text-align: center; }
+        h2 { font-size: 2vw; color: var(--text-dim); margin-bottom: 3vh; text-align: center; }
+        
+        .btn-epic {
+            background: linear-gradient(135deg, rgba(0,212,255,0.2) 0%, rgba(192,132,252,0.2) 100%);
+            border: 1px solid var(--aurora-2); color: white; font-family: 'Cinzel', serif; font-weight: bold;
+            font-size: 1.5vw; padding: 1.5vh 3vw; border-radius: 8px; cursor: pointer; transition: all 0.2s;
+            text-transform: uppercase; letter-spacing: 2px;
+        }
+        .btn-epic:hover { background: linear-gradient(135deg, rgba(0,212,255,0.4) 0%, rgba(192,132,252,0.4) 100%); transform: translateY(-2px); box-shadow: 0 0 20px rgba(192,132,252,0.4); }
+        .btn-small { background: rgba(255,255,255,0.05); border: 1px solid var(--border); color: var(--text-dim); padding: 1vh 2vw; font-family: 'Cinzel', serif; cursor: pointer; border-radius: 4px; font-size: 1.2vw;}
+        .btn-small:hover { background: rgba(255,255,255,0.15); color: white; }
+
+        /* Lobby Grid */
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5vw; width: 100%; max-width: 1400px; margin-top: 2vh; }
+        .kachel {
+            background: var(--panel-bg); border: 1px solid var(--border); border-radius: 12px; padding: 2vh 1vw;
+            display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;
+            cursor: pointer; transition: all 0.2s; backdrop-filter: blur(10px); min-height: 15vh;
+        }
+        .kachel:hover { border-color: var(--aurora-1); box-shadow: 0 0 20px rgba(0,212,255,0.2); transform: scale(1.02); }
+        .kachel.done { opacity: 0.5; border-color: rgba(255,255,255,0.1); filter: grayscale(80%); }
+        .kachel.done:hover { opacity: 0.8; filter: grayscale(0%); }
+        .rune { font-size: 3vw; color: var(--aurora-2); margin-bottom: 1vh; }
+        .k-title { font-size: 1.2vw; font-weight: bold; }
+
+        /* Game UI Elements */
+        .big-timer { font-family: 'Uncial Antiqua', cursive; font-size: 12vw; color: var(--gold); text-shadow: 0 0 30px rgba(251,191,36,0.6); line-height: 1; margin: 2vh 0; font-variant-numeric: tabular-nums; }
+        
+        .team-blocks { display: flex; gap: 2vw; justify-content: center; margin-top: 3vh; width: 100%; }
+        .t-block { 
+            flex: 1; max-width: 300px; background: rgba(255,255,255,0.05); border: 2px solid var(--border); 
+            border-radius: 12px; padding: 3vh 1vw; text-align: center; transition: all 0.3s;
+        }
+        .t-block.active { border-color: var(--gold); box-shadow: 0 0 20px rgba(251,191,36,0.3); }
+        .t-block.eliminated { border-color: var(--red); opacity: 0.4; }
+        .t-block.finished { border-color: var(--green); background: rgba(34, 197, 94, 0.1); }
+        
+        .tb-name { font-size: 1.5vw; margin-bottom: 1vh; }
+        .tb-val { font-family: 'Uncial Antiqua', cursive; font-size: 3vw; color: var(--aurora-1); }
+
+        .mod-controls { margin-top: 5vh; display: flex; gap: 1vw; justify-content: center; flex-wrap: wrap; background: rgba(0,0,0,0.5); padding: 2vh; border-radius: 12px; }
+
+        /* Setup Inputs */
+        input.team-input { background: rgba(0,0,0,0.6); border: 1px solid var(--aurora-1); color: white; font-family: 'Cinzel'; font-size: 2vw; text-align: center; padding: 1vh; width: 100%; max-width: 400px; margin-bottom: 2vh; border-radius: 8px;}
+    </style>
+</head>
+<body>
+
+    <canvas id="canvas-bg"></canvas>
+    <div id="flash-overlay"></div>
+
+    <div id="scoreboard" style="display: none;">
+        <div class="team-score-box" id="sb-t0">
+            <div class="ts-name" id="sb-name-0">Team 1</div>
+            <div class="ts-points" id="sb-pts-0">0</div>
+            <div class="ts-controls">
+                <button class="mod-btn" onclick="adj(0, -10)">-10</button>
+                <button class="mod-btn" onclick="adj(0, -50)">-50</button>
+                <button class="mod-btn" onclick="adj(0, 10)">+10</button>
+                <button class="mod-btn" onclick="adj(0, 50)">+50</button>
+            </div>
+        </div>
+        <div class="team-score-box" id="sb-t1">
+            <div class="ts-name" id="sb-name-1">Team 2</div>
+            <div class="ts-points" id="sb-pts-1">0</div>
+            <div class="ts-controls">
+                <button class="mod-btn" onclick="adj(1, -10)">-10</button>
+                <button class="mod-btn" onclick="adj(1, -50)">-50</button>
+                <button class="mod-btn" onclick="adj(1, 10)">+10</button>
+                <button class="mod-btn" onclick="adj(1, 50)">+50</button>
+            </div>
+        </div>
+        <div class="team-score-box" id="sb-t2">
+            <div class="ts-name" id="sb-name-2">Team 3</div>
+            <div class="ts-points" id="sb-pts-2">0</div>
+            <div class="ts-controls">
+                <button class="mod-btn" onclick="adj(2, -10)">-10</button>
+                <button class="mod-btn" onclick="adj(2, -50)">-50</button>
+                <button class="mod-btn" onclick="adj(2, 10)">+10</button>
+                <button class="mod-btn" onclick="adj(2, 50)">+50</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="screen-setup" class="screen active">
+        <h1>Die Clans versammeln sich</h1>
+        <h2>Bestimmt eure Namen für das Thing</h2>
+        <input type="text" class="team-input" id="in-t0" value="Odin's Raben">
+        <input type="text" class="team-input" id="in-t1" value="Thor's Hammer">
+        <input type="text" class="team-input" id="in-t2" value="Fenriswölfe">
+        <button class="btn-epic" style="margin-top: 4vh;" onclick="initGame()">Die Spiele beginnen</button>
+    </div>
+
+    <div id="screen-lobby" class="screen">
+        <h1>Wählt eure Prüfung</h1>
+        <div class="grid" id="game-grid"></div>
+        <button class="btn-small" style="margin-top: 4vh; border-color: var(--red); color: var(--red);" onclick="showPodium()">Siegerehrung abhalten</button>
+    </div>
+
+    <div id="screen-game" class="screen">
+        <h1 id="sg-title">Spiel Titel</h1>
+        <h2 id="sg-desc">Beschreibung</h2>
+        
+        <div id="sg-dynamic" style="width:100%; display:flex; flex-direction:column; align-items:center; flex:1"></div>
+
+        <div class="mod-controls" id="sg-mod">
+            </div>
+    </div>
+
+    <div id="screen-result" class="screen">
+        <h1>Prüfung bestanden</h1>
+        <div id="res-content" style="font-size: 2vw; text-align: center; margin: 4vh 0; color: var(--gold);"></div>
+        <button class="btn-epic" onclick="gotoLobby()">Zurück zum Thingplatz</button>
+    </div>
+
+    <div id="screen-podium" class="screen">
+        <h1>Ruhmeshalle</h1>
+        <h2>Der endgültige Sieger steht fest</h2>
+        <div id="podium-content" style="display:flex; flex-direction:column; gap: 2vh; width: 100%; max-width: 600px; margin-top: 4vh;"></div>
+    </div>
+
+    <script>
+        /* ==========================================
+           1. GLOBALE DATEN & AUDIO
+           ========================================== */
+        let teams = ["Team 1", "Team 2", "Team 3"];
+        let scores = [0, 0, 0];
+        let teamColors = ["var(--t1-color)", "var(--t2-color)", "var(--t3-color)"];
+        let currentScreen = 'setup';
+        let activeGameIdx = -1;
+        let roundHistory = []; 
+        let currentRank = 1; // Für manuelle Platzierungen
+        let eliminationOrder = []; // Für Eiserner Schildwall-Reihenfolge
+        
+        // Matchup Logik für Turnier-Spiele (Jeder gegen Jeden)
+        let matchups = [[0, 1], [0, 2], [1, 2]];
+        let currentMatchup = 0;
+        let timerSeconds = 300;
+
+        // Audio Preloading
+        const audios = {
+            buzzer: new Audio('buzzer_episch.mp3'),
+            horn: new Audio('horn.mp3'),
+            tick: new Audio('ticken.mp3')
+        };
+        // Fehler ignorieren
+        Object.values(audios).forEach(a => { a.preload = 'auto'; a.onerror = () => { console.log("Audio nicht gefunden, ignoriere."); }; });
+
+        function playSound(type) {
+            try {
+                let s = audios[type];
+                if(s) { s.currentTime = 0; s.play().catch(e=>console.log("Audio play error", e)); }
+            } catch(e) {}
+        }
+
+        // Web Audio Synth
+        const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+        function playSynthBeep(freq, type='sine') {
+            try {
+                if(audioCtx.state === 'suspended') audioCtx.resume();
+                const osc = audioCtx.createOscillator();
+                const gain = audioCtx.createGain();
+                osc.type = type; osc.frequency.setValueAtTime(freq, audioCtx.currentTime);
+                gain.gain.setValueAtTime(0.5, audioCtx.currentTime);
+                gain.gain.exponentialRampToValueAtTime(0.001, audioCtx.currentTime + 0.2);
+                osc.connect(gain); gain.connect(audioCtx.destination);
+                osc.start(); osc.stop(audioCtx.currentTime + 0.2);
+            } catch(err) {
+                console.log("Audio Context Error gesichert abgewehrt.", err);
+            }
+        }
+
+        /* ==========================================
+           2. SPIELE-DATENBANK (Die 13 Schablonen)
+           ========================================== */
+        const games = [
+            { id: 'holen', name: 'Bergung der Ausrüstung', rune: 'ᚠ', type: 'stopwatch-multi', desc: 'Sammelt die Teile! (Mehrere Runden möglich)' },
+            { id: 'schmiede', name: 'Rhythmus der Schmiede', rune: 'ᚦ', type: 'spam', desc: 'Hämmert wie wild auf euren Amboss (30 Sekunden)!' },
+            { id: 'tauziehen', name: 'Drachenboot-Ankern', rune: 'ᚨ', type: 'manual-win', desc: 'Tauziehen! Wählt das Siegerteam direkt auf dem Bildschirm.' },
+            { id: 'berserker', name: 'Berserker-Turnier', rune: 'ᚱ', type: 'goals', desc: 'Turnier Jeder-gegen-Jeden. 5 Min pro Runde. Jeder Buzzerdruck ist ein Tor.' },
+            { id: 'ration', name: 'Die eiserne Ration', rune: 'ᚲ', type: 'manual-rank', desc: 'Keks-Rennen. Klickt die Teams in der Reihenfolge ihres Zieleinlaufs an.' },
+            { id: 'quiz', name: 'Rat der Ältesten', rune: 'ᚷ', type: 'quiz', desc: 'Wer buzzert, darf lösen. Wertung über die Richtig/Falsch Buttons.' },
+            { id: 'fjord', name: 'Ausweichmanöver im Fjord', rune: 'ᚹ', type: 'precision', desc: 'Stoppt den Timer exakt auf 07.00 Sekunden.' },
+            { id: 'tabasco', name: 'Die scharfe Prüfung', rune: 'ᚺ', type: 'passive', desc: 'Turnier Jeder-gegen-Jeden. Wer buzzert, fordert den Gegner zum Trinken auf!' },
+            { id: 'eisscholle', name: 'Brüchige Eisscholle', rune: 'ᚾ', type: 'passive', desc: 'Punktevergabe per Schaltfläche (+20 Punkte pro Klick).' },
+            { id: 'tshirt', name: 'Überleben im Eis', rune: 'ᛁ', type: 'stopwatch-single', desc: 'T-Shirt auftauen. Ein schnelles Rennen auf Zeit.' },
+            { id: 'trinken', name: 'Gelage am Lagerfeuer', rune: 'ᛃ', type: 'stopwatch-bestof3', desc: 'Trinkstaffel. Best-of-3 Runden.' },
+            { id: 'schildwall', name: 'Eiserner Schildwall', rune: 'ᛇ', type: 'elimination', desc: 'Wandsitzen. Wer einknickt, drückt seinen Buzzer. Der Letzte gewinnt!' },
+            { id: 'wächter', name: 'Wachposten im Nebel', rune: 'ᛈ', type: 'passive', desc: 'Blinder Wächter. Jeder Buzzerdruck gibt dem Team 20 Punkte.' }
+        ];
+
+        /* ==========================================
+           3. UI STEUERUNG & SCOREBOARD
+           ========================================== */
+        function switchScreen(id) {
+            document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+            document.getElementById(id).classList.add('active');
+            currentScreen = id.replace('screen-', '');
+            if(document.activeElement) document.activeElement.blur();
+        }
+
+        function initGame() {
+            teams[0] = document.getElementById('in-t0').value || "Team 1";
+            teams[1] = document.getElementById('in-t1').value || "Team 2";
+            teams[2] = document.getElementById('in-t2').value || "Team 3";
+            
+            document.getElementById('sb-name-0').innerText = teams[0];
+            document.getElementById('sb-name-1').innerText = teams[1];
+            document.getElementById('sb-name-2').innerText = teams[2];
+            
+            document.getElementById('scoreboard').style.display = 'flex';
+            playSound('horn');
+            gotoLobby();
+        }
+
+        function updateScores() {
+            for(let i=0; i<3; i++) {
+                let el = document.getElementById(`sb-pts-${i}`);
+                el.innerText = scores[i];
+                el.style.transform = "scale(1.3)";
+                setTimeout(() => el.style.transform = "scale(1)", 200);
+            }
+        }
+
+        function adj(teamIdx, amount) {
+            scores[teamIdx] += amount;
+            updateScores();
+        }
+
+        function gotoLobby() {
+            switchScreen('screen-lobby');
+            const grid = document.getElementById('game-grid');
+            grid.innerHTML = '';
+            games.forEach((g, idx) => {
+                let div = document.createElement('div');
+                div.className = `kachel ${g.done ? 'done' : ''}`;
+                div.innerHTML = `<div class="rune">${g.rune}</div><div class="k-title">${g.name}</div>`;
+                div.onclick = () => loadGame(idx);
+                grid.appendChild(div);
+            });
+        }
+
+        /* ==========================================
+           4. GAME ENGINE ROUTER
+           ========================================== */
+        let gameTimer = null;
+        let msCount = 0;
+        let isRunning = false;
+        let teamState = []; 
+
+        function loadGame(idx) {
+            activeGameIdx = idx;
+            let g = games[idx];
+            document.getElementById('sg-title').innerText = g.name;
+            document.getElementById('sg-desc').innerText = g.desc;
+            
+            clearInterval(gameTimer);
+            isRunning = false;
+            msCount = 0;
+            roundHistory = []; 
+            currentRank = 1;
+            eliminationOrder = [];
+            currentMatchup = 0;
+            timerSeconds = 300;
+            teamState = [{val: 0, status: 'wait', ptsEarned: 0, rank: null}, {val: 0, status: 'wait', ptsEarned: 0, rank: null}, {val: 0, status: 'wait', ptsEarned: 0, rank: null}];
+            
+            let dyn = document.getElementById('sg-dynamic');
+            let mod = document.getElementById('sg-mod');
+            dyn.innerHTML = ''; mod.innerHTML = '';
+
+            let btnZurueck = `<button class="btn-small" onclick="gotoLobby()">Zurück zur Lobby</button>`;
+            let btnFinish = `<button class="btn-small" style="background:var(--green);color:white;border:none" onclick="finishGame()">Spiel komplett abschließen</button>`;
+
+            if(g.id === 'eisscholle') {
+                dyn.innerHTML = `
+                    <div style="font-size:2vw; margin-bottom:4vh; color:var(--text-dim); text-align:center;">Punktevergabe per Schaltfläche:</div>
+                    <div style="display:flex; gap:2vw; width:100%; justify-content:center;">
+                        <button class="btn-epic" style="border-color:var(--t1-color); font-size:1.5vw;" onclick="addEisschollePts(0)">${teams[0]} (+20)</button>
+                        <button class="btn-epic" style="border-color:var(--t2-color); font-size:1.5vw;" onclick="addEisschollePts(1)">${teams[1]} (+20)</button>
+                        <button class="btn-epic" style="border-color:var(--t3-color); font-size:1.5vw;" onclick="addEisschollePts(2)">${teams[2]} (+20)</button>
+                    </div>
+                    <div id="eisscholle-summary" style="font-size:2vw; margin-top:4vh; text-align:center; font-family:'Cinzel'; color:var(--gold);">
+                        ${teams[0]}: 0 Pkt | ${teams[1]}: 0 Pkt | ${teams[2]}: 0 Pkt
+                    </div>`;
+                mod.innerHTML = btnZurueck + btnFinish;
+            }
+            else if(g.id === 'tabasco') {
+                dyn.innerHTML = `<div id="tabasco-arena" style="width:100%; text-align:center;"></div>`;
+                mod.innerHTML = ``; // wird im render-Loop gesetzt
+                renderTabascoRound();
+            }
+            else if(g.id === 'berserker') {
+                dyn.innerHTML = `<div id="berserker-arena" style="width:100%; text-align:center;"></div>`;
+                mod.innerHTML = ``; // wird im render-Loop gesetzt
+                renderBerserkerRound();
+            }
+            else if(g.id === 'wächter') {
+                dyn.innerHTML = buildTeamBlocks("0 Pkt");
+                mod.innerHTML = btnZurueck + btnFinish;
+            }
+            else if(g.type === 'manual-win') {
+                dyn.innerHTML = `
+                    <div style="display:flex; gap:2vw; width:100%; justify-content:center; margin-top:10vh;">
+                        <button class="btn-epic" style="border-color:var(--t1-color); font-size:2vw; padding:3vh 4vw;" onclick="setWinner(0)">${teams[0]}<br>Gewinnt</button>
+                        <button class="btn-epic" style="border-color:var(--t2-color); font-size:2vw; padding:3vh 4vw;" onclick="setWinner(1)">${teams[1]}<br>Gewinnt</button>
+                        <button class="btn-epic" style="border-color:var(--t3-color); font-size:2vw; padding:3vh 4vw;" onclick="setWinner(2)">${teams[2]}<br>Gewinnt</button>
+                    </div>`;
+                mod.innerHTML = btnZurueck + btnFinish;
+            }
+            else if(g.type === 'manual-rank') {
+                dyn.innerHTML = `
+                    <div style="display:flex; gap:2vw; width:100%; justify-content:center; margin-top:10vh;">
+                        <button class="btn-epic" id="btn-rank-0" style="border-color:var(--t1-color); font-size:2vw; padding:3vh 4vw;" onclick="setRank(0)">${teams[0]}</button>
+                        <button class="btn-epic" id="btn-rank-1" style="border-color:var(--t2-color); font-size:2vw; padding:3vh 4vw;" onclick="setRank(1)">${teams[1]}</button>
+                        <button class="btn-epic" id="btn-rank-2" style="border-color:var(--t3-color); font-size:2vw; padding:3vh 4vw;" onclick="setRank(2)">${teams[2]}</button>
+                    </div>`;
+                mod.innerHTML = btnZurueck + btnFinish;
+            }
+            else if(g.type === 'quiz') {
+                dyn.innerHTML = `<div class="big-timer" id="quiz-msg" style="font-size:5vw; width:100%;"></div>`;
+                mod.innerHTML = `
+                    <button class="btn-small" onclick="resetQuiz()">Buzzer wieder freigeben</button>
+                    ${btnZurueck} ${btnFinish}
+                `;
+                resetQuiz();
+            }
+            else if(g.type === 'elimination') {
+                dyn.innerHTML = buildTeamBlocks("Hält Stand");
+                mod.innerHTML = btnZurueck + btnFinish;
+            }
+            else if(g.type.startsWith('stopwatch')) {
+                dyn.innerHTML = `<div class="big-timer" id="sw-time">00:00.00</div>` + buildTeamBlocks("Wartet");
+                let multiControls = '';
+                if(g.type === 'stopwatch-multi' || g.type === 'stopwatch-bestof3') {
+                    multiControls = `
+                        <button class="btn-small" onclick="nextRound()">Nächste Runde starten</button>
+                        <button class="btn-small" style="border-color:var(--red); color:var(--red);" onclick="abortRound()">Runde abbrechen</button>
+                    `;
+                }
+                mod.innerHTML = `<button class="btn-epic" id="btn-sw-start" onclick="toggleStopwatch()">Start / Stop</button> ${multiControls} ${btnZurueck} ${btnFinish}`;
+            }
+            else if(g.type === 'spam') {
+                dyn.innerHTML = `<div class="big-timer" id="spam-time">30</div>` + buildTeamBlocks("0", "Schläge");
+                mod.innerHTML = `<button class="btn-epic" onclick="startSpam()">30s Countdown Starten</button>` + btnZurueck + btnFinish;
+            }
+            else if(g.type === 'precision') {
+                dyn.innerHTML = `<div class="big-timer" id="prec-time">00.00</div>` + buildTeamBlocks("-", "Sekunden");
+                mod.innerHTML = `<button class="btn-epic" onclick="startPrecision()">Timer Starten (läuft unsichtbar!)</button>` + btnZurueck + btnFinish;
+            }
+            else if(g.type === 'passive') {
+                dyn.innerHTML = `<div style="font-size:2vw; margin-top:5vh; color:var(--text-dim); text-align:center;">
+                    Spielt die Runde im Saal.<br>Nutze die Plus/Minus Knöpfe ganz oben zur Punktevergabe.</div>`;
+                mod.innerHTML = btnZurueck + btnFinish;
+            }
+
+            switchScreen('screen-game');
+        }
+
+        function buildTeamBlocks(defaultText, subText="") {
+            return `<div class="team-blocks">
+                <div class="t-block" id="tb-0"><div class="tb-name">${teams[0]}</div><div class="tb-val" id="tb-v-0">${defaultText}</div>${subText}</div>
+                <div class="t-block" id="tb-1"><div class="tb-name">${teams[1]}</div><div class="tb-val" id="tb-v-1">${defaultText}</div>${subText}</div>
+                <div class="t-block" id="tb-2"><div class="tb-name">${teams[2]}</div><div class="tb-val" id="tb-v-2">${defaultText}</div>${subText}</div>
+            </div>`;
+        }
+
+        /* ==========================================
+           5. NEUE SPIEL-LOGIKEN (Manuell, Quiz, Fjord, Tabasco, Berserker)
+           ========================================== */
+        
+        function addEisschollePts(tid) {
+            teamState[tid].ptsEarned += 20;
+            document.getElementById('eisscholle-summary').innerHTML = `
+                ${teams[0]}: ${teamState[0].ptsEarned} Pkt | ${teams[1]}: ${teamState[1].ptsEarned} Pkt | ${teams[2]}: ${teamState[2].ptsEarned} Pkt
+            `;
+            playSynthBeep(500, 'sine');
+        }
+
+        function renderTabascoRound() {
+            let arena = document.getElementById('tabasco-arena');
+            let mod = document.getElementById('sg-mod');
+            if(!arena) return;
+            
+            let btnZurueck = `<button class="btn-small" onclick="gotoLobby()">Zurück zur Lobby</button>`;
+            let btnFinish = `<button class="btn-small" style="background:var(--green);color:white;border:none" onclick="finishGame()">Spiel komplett abschließen</button>`;
+
+            if(currentMatchup >= 3) {
+                arena.innerHTML = `<div class="big-timer" style="font-size:4vw;">Alle Runden abgeschlossen!</div>
+                <div style="font-size:2vw; color:var(--text-dim); margin-top:3vh;">
+                    ${teams[0]}: ${teamState[0].ptsEarned} Pkt | ${teams[1]}: ${teamState[1].ptsEarned} Pkt | ${teams[2]}: ${teamState[2].ptsEarned} Pkt
+                </div>`;
+                mod.innerHTML = btnZurueck + btnFinish;
+                return;
+            }
+            let tA = matchups[currentMatchup][0];
+            let tB = matchups[currentMatchup][1];
+            teamState[0].status = 'wait'; 
+            arena.innerHTML = `
+                <div style="font-size:2.5vw; color:var(--text-dim); margin-bottom:2vh;">Runde ${currentMatchup + 1} von 3</div>
+                <div style="font-size:4vw; font-family:'Cinzel';">
+                    <span style="color:${teamColors[tA]}">${teams[tA]}</span> 
+                    <span style="color:var(--text-dim); font-size:2vw; margin:0 2vw;">vs</span> 
+                    <span style="color:${teamColors[tB]}">${teams[tB]}</span>
+                </div>
+                <div id="drink-msg" style="font-size:3vw; color:var(--gold); margin-top:5vh;">Wer buzzert, fordert den Gegner heraus!</div>
+                <div style="font-size:1.5vw; color:var(--text-dim); margin-top:5vh;">
+                    Bisherige Punkte: ${teams[0]} (${teamState[0].ptsEarned}) | ${teams[1]} (${teamState[1].ptsEarned}) | ${teams[2]} (${teamState[2].ptsEarned})
+                </div>
+            `;
+            mod.innerHTML = btnZurueck + btnFinish;
+        }
+
+        function scoreTabasco(challenged, challenger, didDrink) {
+            if(didDrink) teamState[challenged].ptsEarned += 50;
+            else teamState[challenger].ptsEarned += 50;
+            currentMatchup++;
+            renderTabascoRound();
+        }
+
+        function renderBerserkerRound() {
+            let arena = document.getElementById('berserker-arena');
+            let mod = document.getElementById('sg-mod');
+            if(!arena) return;
+
+            let btnZurueck = `<button class="btn-small" onclick="gotoLobby()">Zurück zur Lobby</button>`;
+            let btnFinish = `<button class="btn-small" style="background:var(--green);color:white;border:none" onclick="finishGame()">Spiel komplett abschließen</button>`;
+
+            if(currentMatchup >= 3) {
+                arena.innerHTML = `<div class="big-timer" style="font-size:4vw;">Turnier beendet!</div>` + buildTeamBlocks("0", "Tore gesamt");
+                for(let i=0; i<3; i++) {
+                    let el = document.getElementById(`tb-v-${i}`);
+                    if(el) el.innerText = teamState[i].val;
+                }
+                mod.innerHTML = btnZurueck + btnFinish;
+                return;
+            }
+
+            let tA = matchups[currentMatchup][0];
+            let tB = matchups[currentMatchup][1];
+            
+            let m = String(Math.floor(timerSeconds/60)).padStart(2,'0');
+            let s = String(timerSeconds%60).padStart(2,'0');
+
+            arena.innerHTML = `
+                <div style="font-size:2.5vw; color:var(--text-dim); margin-bottom:1vh;">Runde ${currentMatchup + 1} von 3</div>
+                <div style="font-size:3.5vw; font-family:'Cinzel'; margin-bottom: 2vh;">
+                    <span style="color:${teamColors[tA]}">${teams[tA]}</span> 
+                    <span style="color:var(--text-dim); font-size:2vw; margin:0 2vw;">vs</span> 
+                    <span style="color:${teamColors[tB]}">${teams[tB]}</span>
+                </div>
+                <div class="big-timer" id="berserker-time">${m}:${s}</div>
+                ` + buildTeamBlocks("0", "Tore gesamt");
+
+            for(let i=0; i<3; i++) {
+                let el = document.getElementById(`tb-v-${i}`);
+                if(el) el.innerText = teamState[i].val;
+                let block = document.getElementById(`tb-${i}`);
+                if(block) {
+                    if([tA, tB].includes(i)) {
+                        block.style.opacity = "1";
+                        block.style.borderColor = teamColors[i];
+                    } else {
+                        block.style.opacity = "0.3";
+                        block.style.borderColor = "var(--border)";
+                    }
+                }
+            }
+
+            mod.innerHTML = `<button class="btn-epic" onclick="toggleBerserkerTimer()">Start / Stop 5 Min Timer</button> 
+                             <button class="btn-small" onclick="endBerserkerRound()">Runde abschließen</button> 
+                             ${btnZurueck} ${btnFinish}`;
+        }
+
+        function toggleBerserkerTimer() {
+            if(isRunning) {
+                clearInterval(gameTimer); isRunning = false;
+            } else {
+                isRunning = true;
+                gameTimer = setInterval(() => {
+                    timerSeconds--;
+                    let m = String(Math.floor(timerSeconds/60)).padStart(2,'0');
+                    let s = String(timerSeconds%60).padStart(2,'0');
+                    let el = document.getElementById('berserker-time');
+                    if(el) el.innerText = `${m}:${s}`;
+                    if(timerSeconds <= 0) {
+                        clearInterval(gameTimer); isRunning = false; playSound('horn');
+                    }
+                }, 1000);
+            }
+        }
+
+        function endBerserkerRound() {
+            clearInterval(gameTimer); isRunning = false;
+            timerSeconds = 300;
+            currentMatchup++;
+            renderBerserkerRound();
+        }
+
+        function setWinner(tid) {
+            teamState[tid].ptsEarned = 100;
+            playSound('buzzer');
+            finishGame();
+        }
+
+        function setRank(tid) {
+            if(teamState[tid].rank) return;
+            teamState[tid].rank = currentRank;
+            
+            let el = document.getElementById(`btn-rank-${tid}`);
+            el.innerHTML = `${teams[tid]}<br><span style="font-size:1.2vw; color:var(--text-dim);">Platz ${currentRank}</span>`;
+            el.style.opacity = "0.5";
+            el.style.transform = "scale(0.95)";
+            playSynthBeep(400 + (currentRank * 200), 'triangle');
+            
+            if(currentRank === 1) teamState[tid].ptsEarned = 100;
+            else if(currentRank === 2) teamState[tid].ptsEarned = 50;
+            
+            currentRank++;
+            if(currentRank > 3) {
+                setTimeout(finishGame, 800);
+            }
+        }
+
+        function scoreQuiz(tid, pts) {
+            teamState[tid].ptsEarned += pts;
+            resetQuiz();
+        }
+
+        function resetQuiz() {
+            teamState[0].status = 'wait';
+            document.getElementById('quiz-msg').innerHTML = `Nächste Frage lesen...<br>
+                <div style="font-size:2vw; margin-top:4vh; color:var(--text-dim); text-shadow:none; font-family:'Cinzel', serif;">
+                    <span style="color:var(--t1-color)">${teams[0]}: ${teamState[0].ptsEarned}</span> &nbsp;|&nbsp; 
+                    <span style="color:var(--t2-color)">${teams[1]}: ${teamState[1].ptsEarned}</span> &nbsp;|&nbsp; 
+                    <span style="color:var(--t3-color)">${teams[2]}: ${teamState[2].ptsEarned}</span>
+                </div>`;
+        }
+
+        /* ==========================================
+           6. KOMPLETT NEUE BUZZER HARDWARE LOGIK
+           ========================================== */
+        window.addEventListener('keydown', (e) => {
+            if (e.repeat) return;
+            if (currentScreen === 'setup' && (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA')) return;
+            if (document.activeElement && (document.activeElement.tagName === 'INPUT' || document.activeElement.tagName === 'BUTTON') && currentScreen !== 'setup') {
+                document.activeElement.blur();
+            }
+
+            const k = e.key; const c = e.code; const kc = e.keyCode || e.which;
+
+            if (k === '1' || c === 'Digit1' || c === 'Numpad1' || kc === 49 || kc === 97) { e.preventDefault(); handleBuzzer(0); }
+            else if (k === '2' || c === 'Digit2' || c === 'Numpad2' || kc === 50 || kc === 98) { e.preventDefault(); handleBuzzer(1); }
+            else if (k === '3' || c === 'Digit3' || c === 'Numpad3' || kc === 51 || kc === 99) { e.preventDefault(); handleBuzzer(2); }
+        });
+
+        function doFlash(teamIdx, text) {
+            playSound('buzzer');
+            let f = document.getElementById('flash-overlay');
+            f.style.background = teamColors[teamIdx];
+            f.style.opacity = 0.8;
+            f.innerText = text || teams[teamIdx];
+            f.style.display = 'flex';
+            setTimeout(() => { f.style.display = 'none'; }, 600);
+        }
+
+        function handleBuzzer(tid) {
+            if(currentScreen === 'lobby' || currentScreen === 'setup') {
+                spawnRune(teamColors[tid]);
+                playSynthBeep(400 + (tid*100), 'triangle');
+                return;
+            }
+
+            if(currentScreen !== 'game') return;
+            let g = games[activeGameIdx];
+
+            // In diesen Spielen gibt es keine manuelle / direkte Tastaturbuzzer Funktion
+            if(g.type === 'manual-win' || g.type === 'manual-rank' || g.id === 'eisscholle') return;
+
+            if(g.id === 'wächter') {
+                teamState[tid].ptsEarned += 20;
+                document.getElementById(`tb-v-${tid}`).innerText = teamState[tid].ptsEarned + " Pkt";
+                playSynthBeep(600, 'sine');
+                return;
+            }
+
+            if(g.id === 'tabasco') {
+                if(teamState[0].status === 'locked' || currentMatchup >= 3) return;
+                let activeTeams = matchups[currentMatchup];
+                if(!activeTeams.includes(tid)) return; // Nur beteiligte Teams
+
+                teamState[0].status = 'locked';
+                let challenger = tid;
+                let challenged = activeTeams.find(t => t !== tid);
+
+                document.getElementById('drink-msg').innerHTML = `
+                    <span style="color:${teamColors[challenger]}">${teams[challenger]}</span> fordert <span style="color:${teamColors[challenged]}">${teams[challenged]}</span> heraus!<br>
+                    <div style="margin-top:4vh; display:flex; gap:2vw; justify-content:center; text-shadow:none;">
+                        <button class="btn-epic" style="border-color:var(--green); color:var(--green);" onclick="scoreTabasco(${challenged}, ${challenger}, true)">Ausgetrunken! (+50 an ${teams[challenged]})</button>
+                        <button class="btn-epic" style="border-color:var(--red); color:var(--red);" onclick="scoreTabasco(${challenged}, ${challenger}, false)">Nicht getrunken! (+50 an ${teams[challenger]})</button>
+                    </div>`;
+                doFlash(tid);
+                return;
+            }
+            
+            if(g.id === 'berserker') {
+                if(currentMatchup >= 3 || !isRunning) return; 
+                let activeTeams = matchups[currentMatchup];
+                if(!activeTeams.includes(tid)) return; // Nur beteiligte Teams
+
+                teamState[tid].val++;
+                document.getElementById(`tb-v-${tid}`).innerText = teamState[tid].val;
+                playSynthBeep(800, 'sine');
+                let el = document.getElementById(`tb-v-${tid}`);
+                el.style.transform = "scale(1.2)";
+                setTimeout(()=> el.style.transform="scale(1)", 50);
+                return;
+            }
+
+            if(g.type === 'quiz') {
+                if(teamState[0].status === 'locked') return;
+                teamState[0].status = 'locked'; 
+                document.getElementById('quiz-msg').innerHTML = `<span style="color:${teamColors[tid]}">${teams[tid]} buzzert!</span><br>
+                    <div style="margin-top:4vh; display:flex; gap:2vw; justify-content:center; text-shadow:none;">
+                        <button class="btn-epic" style="border-color:var(--green); color:var(--green);" onclick="scoreQuiz(${tid}, 50)">Richtig (+50)</button>
+                        <button class="btn-epic" style="border-color:var(--red); color:var(--red);" onclick="scoreQuiz(${tid}, -50)">Falsch (-50)</button>
+                    </div>`;
+                doFlash(tid);
+            }
+            else if(g.type === 'elimination') {
+                if(teamState[tid].status === 'out') return;
+                teamState[tid].status = 'out';
+                
+                if(g.id === 'schildwall') {
+                    eliminationOrder.push(tid);
+                    let platz = 4 - eliminationOrder.length;
+                    document.getElementById(`tb-${tid}`).classList.add('eliminated');
+                    document.getElementById(`tb-v-${tid}`).innerText = "Raus (Platz " + platz + ")";
+                    playSound('buzzer');
+                    
+                    if(eliminationOrder.length === 2) {
+                        let lastTid = [0,1,2].find(i => !eliminationOrder.includes(i));
+                        eliminationOrder.push(lastTid);
+                        teamState[lastTid].status = 'out';
+                        document.getElementById(`tb-${lastTid}`).classList.add('finished');
+                        document.getElementById(`tb-v-${lastTid}`).innerText = "Sieger (Platz 1)";
+                        setTimeout(finishGame, 1500);
+                    }
+                } else {
+                    document.getElementById(`tb-${tid}`).classList.add('eliminated');
+                    document.getElementById(`tb-v-${tid}`).innerText = "Raus";
+                    playSound('buzzer');
+                }
+            }
+            else if(g.type.startsWith('stopwatch')) {
+                if(!isRunning || teamState[tid].status === 'done') return;
+                teamState[tid].status = 'done';
+                teamState[tid].val = msCount; 
+                document.getElementById(`tb-${tid}`).classList.add('finished');
+                document.getElementById(`tb-v-${tid}`).innerText = formatTime(msCount);
+                playSound('buzzer');
+                if(teamState[0].status==='done' && teamState[1].status==='done' && teamState[2].status==='done') toggleStopwatch();
+            }
+            else if(g.type === 'spam') {
+                if(!isRunning) return;
+                teamState[tid].val++;
+                document.getElementById(`tb-v-${tid}`).innerText = teamState[tid].val;
+                playSynthBeep(600, 'square');
+                let el = document.getElementById(`tb-v-${tid}`);
+                el.style.transform = "scale(1.2)";
+                setTimeout(()=> el.style.transform="scale(1)", 50);
+            }
+            else if(g.type === 'precision') {
+                if(!isRunning || teamState[tid].status === 'done') return;
+                teamState[tid].status = 'done';
+                teamState[tid].val = msCount;
+                document.getElementById(`tb-${tid}`).classList.add('finished');
+                document.getElementById(`tb-v-${tid}`).innerText = "??.??"; 
+                playSound('buzzer');
+                if(teamState[0].status==='done' && teamState[1].status==='done' && teamState[2].status==='done') {
+                    toggleStopwatch(); 
+                    for(let i=0; i<3; i++) document.getElementById(`tb-v-${i}`).innerText = formatTime(teamState[i].val);
+                    document.getElementById('prec-time').innerText = "07.00"; 
+                }
+            }
+        }
+
+        /* ==========================================
+           7. SPIEL MECHANIK HELPER
+           ========================================== */
+        function formatTime(ms) {
+            let totalSec = Math.floor(ms / 1000);
+            let mins = String(Math.floor(totalSec / 60)).padStart(2, '0');
+            let secs = String(totalSec % 60).padStart(2, '0');
+            let millis = String(Math.floor((ms % 1000)/10)).padStart(2, '0');
+            return `${mins}:${secs}.${millis}`;
+        }
+
+        function toggleStopwatch() {
+            if(isRunning) {
+                clearInterval(gameTimer); isRunning = false;
+            } else {
+                isRunning = true;
+                let startObj = Date.now() - msCount;
+                if(games[activeGameIdx].type === 'precision') document.getElementById('prec-time').innerText = "LÄUFT...";
+                
+                gameTimer = setInterval(() => {
+                    msCount = Date.now() - startObj;
+                    if(games[activeGameIdx].type.startsWith('stopwatch')) {
+                        document.getElementById('sw-time').innerText = formatTime(msCount);
+                    }
+                }, 47);
+            }
+        }
+
+        function nextRound() {
+            let g = games[activeGameIdx];
+            
+            if(g.type === 'stopwatch-multi' || g.type === 'stopwatch-bestof3') {
+                if (teamState.some(t => t.status === 'done')) {
+                    let results = [];
+                    for(let i=0; i<3; i++) {
+                        if(teamState[i].status === 'done') results.push({tid: i, val: teamState[i].val});
+                    }
+                    results.sort((a,b) => a.val - b.val); // Schnellste zuerst
+                    
+                    let roundPts = [0, 0, 0];
+                    if(results.length > 0) {
+                        roundPts[results[0].tid] = 100; // Platz 1
+                        if(results.length > 1) {
+                            if(results[1].val === results[0].val) {
+                                roundPts[results[1].tid] = 100; // Unentschieden Platz 1
+                            } else {
+                                roundPts[results[1].tid] = 50; // Platz 2
+                            }
+                        }
+                        if(results.length > 2) {
+                            if(results[2].val === results[0].val) {
+                                roundPts[results[2].tid] = 100; // Dreifach Unentschieden Platz 1
+                            } else if(results[2].val === results[1].val && results[1].val !== results[0].val) {
+                                roundPts[results[2].tid] = 50; // Unentschieden Platz 2
+                            }
+                        }
+                    }
+                    // Punkte speichern und sofort ans Scoreboard schicken
+                    for(let i=0; i<3; i++) {
+                        if(roundPts[i] > 0) {
+                            teamState[i].ptsEarned += roundPts[i];
+                            adj(i, roundPts[i]); // Sofortiges Update!
+                        }
+                    }
+                }
+            }
+
+            roundHistory.push(JSON.parse(JSON.stringify(teamState))); 
+            clearInterval(gameTimer); isRunning = false; msCount = 0;
+            document.getElementById('sw-time').innerText = "00:00.00";
+            for(let i=0; i<3; i++) {
+                teamState[i].status = 'wait';
+                document.getElementById(`tb-${i}`).classList.remove('finished');
+                document.getElementById(`tb-v-${i}`).innerText = "Wartet";
+            }
+        }
+
+        function abortRound() {
+            clearInterval(gameTimer); isRunning = false; msCount = 0;
+            document.getElementById('sw-time').innerText = "00:00.00";
+            playSynthBeep(150, 'sawtooth'); 
+            for(let i=0; i<3; i++) {
+                teamState[i].status = 'wait';
+                teamState[i].val = 0;
+                document.getElementById(`tb-${i}`).classList.remove('finished');
+                document.getElementById(`tb-v-${i}`).innerText = "Wartet";
+            }
+        }
+
+        function startSpam() {
+            msCount = 30; 
+            document.getElementById('spam-time').innerText = msCount;
+            isRunning = true;
+            gameTimer = setInterval(() => {
+                msCount--;
+                document.getElementById('spam-time').innerText = msCount;
+                if(msCount <= 0) { clearInterval(gameTimer); isRunning = false; playSound('horn'); }
+            }, 1000);
+        }
+
+        function startPrecision() {
+            msCount = 0; isRunning = true;
+            let startObj = Date.now();
+            document.getElementById('prec-time').innerText = "LÄUFT...";
+            gameTimer = setInterval(() => { msCount = Date.now() - startObj; }, 10);
+        }
+
+        /* ==========================================
+           8. FINISHER & SCORE BERECHNUNG
+           ========================================== */
+        function finishGame() {
+            clearInterval(gameTimer);
+            let g = games[activeGameIdx];
+            g.done = true; 
+            
+            // Auto-Punkte berechnen für Eiserner Schildwall
+            if(g.id === 'schildwall') {
+                if(eliminationOrder.length === 3) {
+                    teamState[eliminationOrder[2]].ptsEarned = 100; // Letzter (Index 2) = Platz 1
+                    teamState[eliminationOrder[1]].ptsEarned = 50;  // Vorletzter (Index 1) = Platz 2
+                    teamState[eliminationOrder[0]].ptsEarned = 0;
+                } else {
+                    let remaining = [0,1,2].filter(i => !eliminationOrder.includes(i));
+                    if(remaining.length === 1) {
+                        teamState[remaining[0]].ptsEarned = 100;
+                        if(eliminationOrder.length > 0) {
+                            teamState[eliminationOrder[eliminationOrder.length - 1]].ptsEarned = 50;
+                        }
+                    } else if(remaining.length === 2) {
+                        teamState[remaining[0]].ptsEarned = 100;
+                        teamState[remaining[1]].ptsEarned = 100;
+                    } else if(remaining.length === 3) {
+                        teamState[0].ptsEarned = 100; teamState[1].ptsEarned = 100; teamState[2].ptsEarned = 100;
+                    }
+                }
+            }
+
+            // Auto-Punkte für alle stopwatch Spiele
+            if(g.type.startsWith('stopwatch')) {
+                if (teamState.some(t => t.status === 'done')) {
+                    let results = [];
+                    for(let i=0; i<3; i++) {
+                        if(teamState[i].status === 'done') results.push({tid: i, val: teamState[i].val});
+                    }
+                    results.sort((a,b) => a.val - b.val);
+                    
+                    let roundPts = [0, 0, 0];
+                    if(results.length > 0) {
+                        roundPts[results[0].tid] = 100;
+                        if(results.length > 1) {
+                            if(results[1].val === results[0].val) {
+                                roundPts[results[1].tid] = 100;
+                            } else {
+                                roundPts[results[1].tid] = 50;
+                            }
+                        }
+                        if(results.length > 2) {
+                            if(results[2].val === results[0].val) {
+                                roundPts[results[2].tid] = 100; 
+                            } else if(results[2].val === results[1].val && results[1].val !== results[0].val) {
+                                roundPts[results[2].tid] = 50;
+                            }
+                        }
+                    }
+                    // Punkte speichern und ans Scoreboard schicken
+                    for(let i=0; i<3; i++) {
+                        if(roundPts[i] > 0) {
+                            teamState[i].ptsEarned += roundPts[i];
+                            adj(i, roundPts[i]);
+                        }
+                    }
+                    if(g.type === 'stopwatch-multi' || g.type === 'stopwatch-bestof3') {
+                        roundHistory.push(JSON.parse(JSON.stringify(teamState)));
+                        for(let i=0; i<3; i++) teamState[i].status = 'wait';
+                    }
+                }
+            }
+
+            // Auto-Punkte berechnen für Präzisionsspiel (Fjord)
+            if(g.type === 'precision') {
+                let results = [];
+                for(let i=0; i<3; i++) {
+                    if(teamState[i].status === 'done') {
+                        results.push({tid: i, diff: Math.abs(teamState[i].val - 7000)});
+                    }
+                }
+                results.sort((a,b) => a.diff - b.diff);
+                if(results.length > 0) teamState[results[0].tid].ptsEarned = 100;
+                if(results.length > 1) {
+                    if(results[1].diff === results[0].diff) teamState[results[1].tid].ptsEarned = 100;
+                    else teamState[results[1].tid].ptsEarned = 50;
+                }
+            }
+            
+            // Auto-Punkte berechnen für Zähl-Spiele (Schmiede, Berserker)
+            else if(g.type === 'spam' || g.type === 'goals') {
+                let results = [];
+                for(let i=0; i<3; i++) results.push({tid: i, val: teamState[i].val});
+                results.sort((a,b) => b.val - a.val); 
+                
+                if(results[0].val > 0) {
+                    teamState[results[0].tid].ptsEarned = 100; 
+                    
+                    if(results[1].val > 0) {
+                        if(results[1].val === results[0].val) {
+                            teamState[results[1].tid].ptsEarned = 100; 
+                        } else {
+                            teamState[results[1].tid].ptsEarned = 50; 
+                        }
+                    }
+                    
+                    if(results[2].val > 0 && results[2].val === results[1].val && results[1].val !== results[0].val) {
+                        teamState[results[2].tid].ptsEarned = 50;
+                    }
+                }
+            }
+
+            // AUTO UPDATE GLOBALES SCOREBOARD
+            if(!g.type.startsWith('stopwatch')) {
+                for(let i=0; i<3; i++) {
+                    if(teamState[i].ptsEarned !== 0) {
+                        adj(i, teamState[i].ptsEarned);
+                    }
+                }
+            }
+
+            // UI ZUSAMMENFASSUNG BAUEN
+            let resHtml = `<h2>Zusammenfassung</h2><p style="font-size:1.5vw; color:var(--text-main); line-height: 1.8;">`;
+            
+            if(g.id === 'schildwall') {
+                resHtml += `Platzierungen beim Schildwall:<br>`;
+                for(let i=0; i<3; i++) {
+                    let rIdx = eliminationOrder.indexOf(i);
+                    let platzText = rIdx !== -1 ? `Platz ${4 - (rIdx + 1)}` : "Nicht ausgeschieden";
+                    resHtml += `${teams[i]}: <span style="color:var(--aurora-1)">${platzText}</span><br>`;
+                }
+            }
+            else if(g.id === 'eisscholle' || g.id === 'wächter' || g.id === 'tabasco') {
+                resHtml += `Endergebnis der Prüfung:<br>`;
+                for(let i=0; i<3; i++) {
+                    resHtml += `${teams[i]}: <span style="color:var(--aurora-1)">${teamState[i].ptsEarned} Pkt</span><br>`;
+                }
+            }
+            else if(g.type === 'stopwatch-multi' || g.type === 'stopwatch-bestof3') {
+                if (teamState.some(t => t.status === 'done')) roundHistory.push(JSON.parse(JSON.stringify(teamState)));
+                
+                if(roundHistory.length > 0) {
+                    resHtml += `Gespeicherte Zeiten über ${roundHistory.length} Runden:<br><div style="font-size:1.2vw; max-height:20vh; overflow-y:auto; margin-top:1vh;">`;
+                    roundHistory.forEach((hist, rIdx) => {
+                        resHtml += `<strong style="color:var(--text-dim)">Runde ${rIdx+1}:</strong><br>`;
+                        for(let i=0; i<3; i++) {
+                            let t = hist[i].status === 'done' ? formatTime(hist[i].val) : "Nicht beendet";
+                            resHtml += `${teams[i]}: <span style="color:var(--aurora-1)">${t}</span><br>`;
+                        }
+                        resHtml += `<br>`;
+                    });
+                    resHtml += `</div>`;
+                } else resHtml += `Keine Runden abgeschlossen.<br>`;
+            } 
+            else if(g.type === 'precision' || g.type === 'stopwatch-single') {
+                resHtml += `Gespeicherte Zeiten:<br>`;
+                for(let i=0; i<3; i++) {
+                    let t = teamState[i].status === 'done' ? formatTime(teamState[i].val) : "Nicht beendet";
+                    resHtml += `${teams[i]}: <span style="color:var(--aurora-1)">${t}</span><br>`;
+                }
+            } 
+            else if(g.type === 'spam' || g.type === 'goals') {
+                for(let i=0; i<3; i++) resHtml += `${teams[i]}: <span style="color:var(--aurora-1)">${teamState[i].val} Punkte/Tore</span><br>`;
+            }
+            resHtml += `</p>`;
+
+            // ZUSÄTZLICH: VERDIENTE PUNKTE ANZEIGEN
+            let ptsHtml = `<div style="margin-top: 3vh; background:rgba(0,0,0,0.4); padding: 2vh 4vw; border-radius: 8px; display:inline-block; border: 1px solid var(--border);">
+                <h3 style="color:var(--gold); margin-bottom: 2vh; font-size:1.5vw;">Punkte aus dieser Prüfung:</h3>`;
+            let punkteVergeben = false;
+            for(let i=0; i<3; i++) {
+                let pts = teamState[i].ptsEarned;
+                if(pts !== 0) punkteVergeben = true;
+                let pStr = pts > 0 ? `+${pts}` : pts;
+                let color = pts > 0 ? 'var(--green)' : (pts < 0 ? 'var(--red)' : 'var(--text-dim)');
+                ptsHtml += `<div style="font-size: 1.8vw; margin-bottom: 0.5vh;">${teams[i]}: <span style="color:${color}; font-family:'Uncial Antiqua', cursive;">${pStr} Punkte</span></div>`;
+            }
+            if(!punkteVergeben) ptsHtml += `<div style="color:var(--text-dim); font-size:1.2vw;">(Keine automatischen Punkte vergeben)</div>`;
+            ptsHtml += `</div>`;
+            
+            resHtml += ptsHtml;
+            document.getElementById('res-content').innerHTML = resHtml;
+            switchScreen('screen-result');
+        }
+
+        /* ==========================================
+           9. FINALE SIEGEREHRUNG & CANVAS
+           ========================================== */
+        function showPodium() {
+            playSound('horn');
+            let sorted = [];
+            for(let i=0; i<3; i++) sorted.push({name: teams[i], score: scores[i], color: teamColors[i]});
+            sorted.sort((a,b) => b.score - a.score);
+
+            let html = "";
+            sorted.forEach((t, idx) => {
+                let rank = idx === 0 ? "👑 PLATZ 1" : `Platz ${idx+1}`;
+                let style = idx === 0 ? `font-size: 3vw; border-color: var(--gold); background: rgba(251,191,36,0.1); color: var(--gold);` : `font-size: 2vw;`;
+                html += `
+                    <div style="border: 2px solid var(--border); border-radius: 12px; padding: 2vh 2vw; display: flex; justify-content: space-between; align-items: center; ${style}">
+                        <div><strong style="color:${t.color}">${rank}</strong><br>${t.name}</div>
+                        <div style="font-family:'Uncial Antiqua';">${t.score} Pkt</div>
+                    </div>
+                `;
+            });
+            document.getElementById('podium-content').innerHTML = html;
+            switchScreen('screen-podium');
+        }
+
+        const canvas = document.getElementById('canvas-bg');
+        const ctx = canvas.getContext('2d');
+        let cw, ch; let time = 0; let particles = [];
+        const runesList = ['ᚠ','ᚢ','ᚦ','ᚨ','ᚱ','ᚲ','ᚷ','ᚹ','ᚺ','ᚾ','ᛁ','ᛃ','ᛇ','ᛈ'];
+
+        function resize() { cw = canvas.width = window.innerWidth; ch = canvas.height = window.innerHeight; }
+        window.addEventListener('resize', resize); resize();
+
+        function spawnRune(color) {
+            particles.push({ x: Math.random() * cw, y: ch + 50, vx: (Math.random() - 0.5) * 2, vy: -(Math.random() * 3 + 3), char: runesList[Math.floor(Math.random() * runesList.length)], life: 1.0, color: color });
+        }
+
+        function draw() {
+            ctx.clearRect(0, 0, cw, ch); time += 0.005;
+            ctx.globalCompositeOperation = 'screen';
+            for(let i=0; i<3; i++) {
+                ctx.beginPath();
+                let yOffset = ch * 0.3 + (i * 100);
+                for(let x=0; x<=cw; x+=50) {
+                    let y = yOffset + Math.sin(x*0.003 + time + i) * 150 * Math.cos(time*0.5);
+                    if(x===0) ctx.moveTo(x, y); else ctx.lineTo(x, y);
+                }
+                ctx.lineTo(cw, ch); ctx.lineTo(0, ch);
+                let grad = ctx.createLinearGradient(0, yOffset-100, 0, ch);
+                if(i===0) grad.addColorStop(0, 'rgba(0, 212, 255, 0.15)');
+                if(i===1) grad.addColorStop(0, 'rgba(192, 132, 252, 0.15)');
+                if(i===2) grad.addColorStop(0, 'rgba(34, 197, 94, 0.1)');
+                grad.addColorStop(1, 'transparent');
+                ctx.fillStyle = grad; ctx.fill();
+            }
+
+            ctx.globalCompositeOperation = 'source-over';
+            ctx.font = "30px 'Uncial Antiqua'"; ctx.textAlign = "center";
+            for(let i=particles.length-1; i>=0; i--) {
+                let p = particles[i];
+                p.x += p.vx; p.y += p.vy; p.life -= 0.008;
+                if(p.life <= 0) { particles.splice(i, 1); continue; }
+                ctx.fillStyle = p.color; ctx.globalAlpha = p.life; ctx.fillText(p.char, p.x, p.y);
+            }
+            ctx.globalAlpha = 1.0; requestAnimationFrame(draw);
+        }
+        draw();
+    </script>
+</body>
+</html>

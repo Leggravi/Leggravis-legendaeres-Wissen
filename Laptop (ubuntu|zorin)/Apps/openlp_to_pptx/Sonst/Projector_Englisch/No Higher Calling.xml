@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>No Higher Calling</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v3 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Down at your feet, Oh Lord
+Is the most high place
+In your presence, Lord
+I seek your face, I seek your face</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Down at your feet, Oh Lord
+Is the most high place
+In your presence, Lord
+We seek your face, We seek your face</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is no higher calling, no greater honor
+Than to bow and kneel before your throne
+I am amazed at your glory, embraced by your mercy
+Oh Lord, I live to worship you</lines>
+    </verse>
+  </lyrics>
+</song>

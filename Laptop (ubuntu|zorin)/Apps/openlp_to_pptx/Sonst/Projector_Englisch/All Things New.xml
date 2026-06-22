@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All Things New</title>
+    </titles>
+    <authors>
+      <author type="words">Dave Bilbrough</author>
+      <author type="music">Dave Bilbrough</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v5 v4 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, I lay down my burdens, I lay down my strife
+I am broken and weary, I'm in need of Your life
+When my world is falling down, Your promises remain
+I will run to Your open arms, I know there I am safe</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Cause You make all things new, all things new
+'Cause You make all things new, all things new</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, I give You my failures, I give You my doubts
+You have come in Your mercy, You lifted me out
+By Your blood I overcome, I know I'll reach the end
+Though I fall a thousand times, You pick me up again</lines>
+    </verse>
+    <verse name="v4">
+      <lines>'Cause You make all things new, all things new
+'Cause You make all things new, all things new
+'Cause You make all things new, all things new
+'Cause You make all things new, all things new</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When I go through deep waters, You will be with me
+When I walk through the fire, I will not burn
+For You are the Lord, my God, I won't be afraid
+For You are the Lord, my God, You make all things new</lines>
+    </verse>
+    <verse name="v6">
+      <lines>'Cause You make all things new, all things new
+'Cause You make all things new, all things new
+'Cause You make all things new, all things new
+And the old has passed away</lines>
+    </verse>
+    <verse name="v7">
+      <lines>'Cause You make all things new, all things new
+Jesus, You make all things new, all things new
+Come on, lift your voice, sing
+'Cause You make all things new, all things new</lines>
+    </verse>
+  </lyrics>
+</song>

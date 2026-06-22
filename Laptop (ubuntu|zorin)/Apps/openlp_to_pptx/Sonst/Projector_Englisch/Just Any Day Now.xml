@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Just Any Day Now</title>
+    </titles>
+    <authors>
+      <author type="words">Eddie Crook</author>
+      <author type="music">Eddie Crook</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Each time I stop to take
+the time to look around me,
+I see the signs of His
+appearing everywhere,
+The things He said would
+come to pass are now before us,
+And I feel a strange excitement
+in the air.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Just any day now
+my Lord is coming,
+He’ll be returning for you and me,
+And I’ll be watching,
+and I’ll be waiting,
+Just any day now, His face I’ll see.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There’s this longing in my heart
+for His appearing,
+I’ll gladly leave behind trials
+here below,
+For this journey has been long and
+I’m so weary,
+But somehow I feel so closer Home.</lines>
+    </verse>
+  </lyrics>
+</song>

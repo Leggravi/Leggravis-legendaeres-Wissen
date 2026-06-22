@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wait on the lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's not a mountain too tall
+There's not a problem so small
+That Jesus can't resolve
+In time He'll get involved
+Our God He cares about us</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So wait on the Lord
+Wait on the Lord
+Wait on the Lord
+And He'll renew your strength</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's not a night too dark
+A journey too long to embark
+Jesus will see you through
+In time He'll make you new
+Our God He cares about us</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So wait on the Lord
+Wait on the Lord
+Wait on the Lord
+And He'll renew your strength</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Cause He's ordering, He's ordering your strength
+You've got to wait, you've got to wait</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Am gonna wait on You Jesus
+Am gonna wait on You Jesus
+Am gonna wait on You Jesus
+Am gonna wait on You Jesus
+Am not turning back now
+Am not turning back now
+Am not turning back now
+Am not turning back now</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Am gonna wait on You Jesus
+Am gonna wait on You Jesus
+Am gonna wait on You Jesus
+Am gonna wait on You Jesus
+Am not turning back now
+Am not turning back now
+Am not turning back now
+Am not turning back now</lines>
+    </verse>
+  </lyrics>
+</song>

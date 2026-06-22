@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mit aller Kraft</title>
+    </titles>
+    <authors>
+      <author type="words">Christoph Zehendner</author>
+      <author type="music">Manfred Staiger</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In deine Hand gebe ich mich hin
+mit allem was ich bin, Herr.
+Denn du, mein Gott, hältst die Welt in der Hand
+Und ich bin dein, für immer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus ich vertraue dir, Jesus ich gehöre dir.
+Ich lebe nur für dich.
+Für dich nur singe ich mit aller Kraft.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich geh mit dir, wohin du auch willst.
+In Freud und Leid vertrau ich dir.
+Nach deinem Wort und Willen will ich
+leben ewiglich, mein Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dich anbeten, möchte ich mein Herr.</lines>
+    </verse>
+  </lyrics>
+</song>

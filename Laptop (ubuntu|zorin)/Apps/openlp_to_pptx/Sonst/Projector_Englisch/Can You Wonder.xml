@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Can You Wonder</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Can you wonder, can you wonder,
+Can you wonder,
+Why it is I love Him so?
+When I think of all He's done
+And for me the victory's won,
+Can you wonder,
+Why it is I love Him so?</lines>
+    </verse>
+  </lyrics>
+</song>

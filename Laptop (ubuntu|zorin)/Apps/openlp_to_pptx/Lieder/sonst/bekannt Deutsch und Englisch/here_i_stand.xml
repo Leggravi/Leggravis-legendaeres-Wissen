@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Dec 9, 2024, 5:25:47 PM">
+  <properties>
+    <titles>
+      <title>Here I Stand</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Why do they leave?
+Isn't this Message still the same?
+Why do they seek for something
+more than simplicity?
+Why do they turn,
+Turn their backs on You, oh, Lord?
+Why do they yearn
+for something more?</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Your truth is what I follow
+It will still be true tomorrow
+What I believe
+Is not the work of any man,
+His kingdom can't be shaken
+On this glorious foundation
+While others fall, here I stand.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>I know You said
+there's a great falling away,
+I know they tried
+To complicate what You said,
+But in my soul,
+I'm sure of the Rock I stand upon
+One thing I know, I will press on.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>On Christ, the solid Rock, I stand
+All other ground is sinking sand
+While others fall, here I stand.</lines>
+    </verse>
+  </lyrics>
+</song>

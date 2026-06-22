@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He already sees</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the storm raged above them
+The disciples were afraid
+For the waves were high and the ship was tossed
+They could not find their way
+Then they awoke the master
+Saying lord please save us now
+He rebuked the winds and the sea grew calm
+And they all wondered how</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God sees the storm from the other side
+He knows the lessons learned
+And just beyond the clouds he sees clear skies
+He speaks peace to the raging storm
+When peace could not be found
+He already sees the rainbow, when we see only clouds</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Like the man upon the sea did
+I have called on God in prayer
+When it seemed to me that
+All hope was gone and I was in despair
+Then I remembered what the Lord said
+When he calmed that troubled sea
+And I know once more how
+He sees the storm, and peace floods over me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And when the storms of life are crashing in and trouble me
+I can feel Gods arms around me
+And He whispers let it be, let it be</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He had to be</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He could have had a palace a diadem
+He could have had a kingdom, as the great I am
+He could have had riches, that go to royalty
+But he had to walk a different road to you and me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He had to be hungry, he had to cry
+He had to be homeless, he had to die
+He had to be broken, he had to fall
+He had to be poor, so we could be sure, He would come to all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He went to the common, the very small
+Reached out to the whosoever will and loved them all
+On a mission of mercy and amazing grace
+He took the riches of the highest to the lowest place</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If Jesus had the richness on earth
+The poor would never know
+The abundance of heaven, if the Lord had lived in a palace
+The homeless, would never know a refuge
+If the savior had not been rejected
+The outcast would never know acceptance
+If the redeemer had not been cast into the dungeon
+The shackled would never know freedom
+And if my champion had not taught the raging forces of hell
+The soldiers of earth would never know the peace of heaven</lines>
+    </verse>
+  </lyrics>
+</song>

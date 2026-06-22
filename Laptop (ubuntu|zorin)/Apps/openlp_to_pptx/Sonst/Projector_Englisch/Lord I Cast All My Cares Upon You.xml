@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord I Cast All My Cares Upon You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When my cross is too heavy to carry,
+When trials too hard to bear
+I will lift mine eyes to mount Calvary where He died
+Lord I leave every burden there</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord I cast all my cares upon You;
+I lay all of my burdens down at Your feet;
+Anytime I don't know what to do,
+I will cast all my cares upon You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You can give all your heartache to Jesus
+He's a faithful compassionate Friend
+He's the Master, the Savior and the Healer
+That you prayed for
+Just look to mount Calvary and say</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Burdens are lifted at Calvary, Calvary, Calvary.
+All your burdens are lifted at Calvary
+Jesus is very near</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Anytime I don't know what to do,
+I will cast all my cares upon You.</lines>
+    </verse>
+  </lyrics>
+</song>

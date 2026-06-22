@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:37">
+  <properties>
+    <titles>
+      <title>Wer nur den lieben Gott lässt walten</title>
+    </titles>
+    <authors>
+      <author type="words">Georg Neumark (1641)</author>
+      <author type="music">Georg Neumark</author>
+    </authors>
+    <ccliNo>4351764</ccliNo>
+    <themes>
+      <theme>Schöpfung</theme>
+      <theme>Vertrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wer nur den lieben Gott lässt walten
+und hoffet auf ihn allezeit,
+den wird er wunderbar erhalten
+in aller Not und Traurigkeit.
+Wer Gott, dem Allerhöchsten, traut,
+der hat auf keinen Sand gebaut.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Was helfen uns die schweren Sorgen,
+was hilft uns unser Weh und Ach?
+Was hilft es, dass wir alle Morgen
+beseufzen unser Ungemach?
+Wir machen unser Kreuz und Leid
+nur größer durch die Traurigkeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Man halte nur ein wenig stille
+und sei doch in sich selbst vergnügt,
+wie unser's Gottes Gnadenwille,
+wie sein Allwissenheit es fügt;
+Gott, der uns sich hat auserwählt,
+der weiß auch sehr wohl, was uns fehlt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Er kennt die rechten Freudenstunden,
+er weiß wohl, wann es nützlich sei;
+wenn er uns nur hat treu erfunden
+und merket keine Heuchelei,
+so kommt Gott, eh wir's uns versehn,
+und lässet uns viel Guts geschehn.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Denk nicht in deiner Drangsalshitze,
+dass du von Gott verlassen seist
+und dass ihm der im Schoße sitze,
+der sich mit stetem Glücke speist.
+Die Folgezeit verändert viel
+und setzet jeglichem sein Ziel.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Es sind ja Gott sehr leichte Sachen
+und ist dem Höchsten alles gleich:
+Den Reichen klein und arm zu machen,
+den Armen aber groß und reich.
+Gott ist der rechte Wundermann,
+der bald erhöhn, bald stürzen kann.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Sing, bet und geh auf Gottes Wegen,
+verricht das Deine nur getreu
+und trau des Himmels reichem Segen,
+so wird er bei dir werden neu;
+denn welcher seine Zuversicht
+auf Gott setzt, den verlässt er nicht.</lines>
+    </verse>
+  </lyrics>
+</song>

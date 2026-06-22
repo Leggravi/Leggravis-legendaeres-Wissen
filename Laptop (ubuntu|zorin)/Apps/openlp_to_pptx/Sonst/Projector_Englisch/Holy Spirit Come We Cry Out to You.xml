@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Holy Spirit Come We Cry Out to You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v2 v3 v4 v5 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We need You, we love You
+We long for You
+Come fill us with Your power
+Our hearts renew</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let Your kingdom come
+Let Your will be done</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy Spirit come, Holy Spirit move
+We cry out to You, we cry out, Lord
+Holy Spirit come, Holy Spirit move
+We cry out to You, we cry out, Lord
+Holy Spirit come</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come and fill this place with Your glory, Jesus
+Come and fill this place with Your power, Jesus
+Come and fill this place with Your presence, Jesus
+Come and fill this place, pour it out, Lord Jesus</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Holy Spirit come, Holy Spirit move
+We cry out to You, we cry out, Lord
+Holy Spirit come, Holy Spirit move
+We cry out to You, we cry out, Lord</lines>
+    </verse>
+  </lyrics>
+</song>

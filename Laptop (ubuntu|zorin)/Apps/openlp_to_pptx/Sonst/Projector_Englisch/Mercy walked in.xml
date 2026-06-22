@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mercy walked in</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I stood in the courtroom the judge turn my way
+It looks like you're guilty now what do you say
+I spoke up your honor I have no defense
+But that's when mercy walked in</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mercy walked in and pleaded my case
+Called to the stand God's saving grace
+The blood was presented that covered my sin
+Forgiven when mercy walked in</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I stood there and wondered how could this be
+That someone so guilty had just been set free
+My chains were broken I felt born again
+The moment that mercy walked in</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The blood was presented that covered my sin forgiven when mercy walked in hmmmm</lines>
+    </verse>
+  </lyrics>
+</song>

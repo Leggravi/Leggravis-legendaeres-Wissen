@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Searching</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Long, long time ago my heart was burdened with sin,
+My head bowed in sorrow, the devil had me troubled with-in;
+I started seeking salvation, I had a hard time resisting temptation,
+so I kept on searchin till I found the King of Kings.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Well, I kept on searchin, searchin,
+I kept on searchin till I found Him,
+Kept on searchin, searchin,
+I kept on searchin till I found Him.
+He changed my heart – so I could live right,
+Changed my mind – so I could think right,
+Changed my mouth – so I could talk right,
+Changed my feet – so I could walk right,
+Well I kept on searchin till I found the King of Kings.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Looking high and low along that wandering way
+my soul was full of longing, until one glorious day
+It was when my anticipation gave a way to sweet consolidation
+That I kept on on searchin till I found the King of Kings.</lines>
+    </verse>
+  </lyrics>
+</song>

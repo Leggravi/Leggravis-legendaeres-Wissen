@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:42">
+  <properties>
+    <titles>
+      <title>Wie er mich durchbringt</title>
+    </titles>
+    <authors>
+      <author type="words">Friedrich Traub (1905)</author>
+      <author type="music">Wolfgang Amadeus Mozart</author>
+    </authors>
+    <ccliNo>5579019</ccliNo>
+    <themes>
+      <theme>Vertrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wie Er mich durchbringt, weiß ich nicht,
+doch dieses weiß ich wohl,
+dass Jesus, wie Sein Wort verspricht,
+mich durchbringt wundervoll.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wie Er die Nacht vor mir erhellt
+ja, wie? das weiß ich nicht,
+doch dies, dass es mir niemals fehlt
+für einen Schritt an Licht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wie Er die Macht des Feindes bricht,
+die mir das Herz macht schwer,
+das weiß ich armes Kind noch nicht,
+doch Du wirst's tun, o Herr.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wie gibt Er Kraft und frischen Mut
+zum treuen Tun der Pflicht?
+Ich glaube einfach, dass Er's tut,
+doch wie, das weiß ich nicht.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In Seine Hand hineingelegt
+bleib ich in stiller Ruh:
+Wie Er mich führt, wie Er mich trägt,
+das stehet Ihm nur zu.</lines>
+    </verse>
+  </lyrics>
+</song>

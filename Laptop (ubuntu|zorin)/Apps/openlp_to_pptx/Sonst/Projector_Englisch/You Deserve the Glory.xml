@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Deserve the Glory</title>
+    </titles>
+    <authors>
+      <author type="words">Eva-Lena Hellmark</author>
+      <author type="music">Eva-Lena Hellmark</author>
+      <author type="translation">Dir gebührt die Ehre (Denn du bist groß)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You deserve the Glory and the Honor
+Lord we lift our hands to worship you
+As we lift Your Holy Name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You deserve the Glory and the Honor
+Lord we lift our hands to worship you
+As we lift Your holy Name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For You are Great
+You do miracles so Great
+There is no One else like You
+There is no One else like You
+For You are Great
+You do miracles so Great
+There is no One else like You
+There is no One else like You.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Glorify Thy Name
+Glorify Thy Name
+Glorify Thy Name in all the earth</lines>
+    </verse>
+  </lyrics>
+</song>

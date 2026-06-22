@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I've Made up My Mind</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I found myself at a crossroads
+I knew the time was right
+For God's Holy Spirit
+Spoke to my heart that night
+He showed me my lost condition
+I bowed in full contrition
+Now I'm in a new position
+Since I've made up my mind</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've made up my mind
+no matter what others say
+I will follow Christ and walk in His ways
+Though the battle gets hard
+and the road is steep, that's OK
+I've set my heart on becoming like Christ
+Dying with Him and raised to new life
+Old things of this world,
+I'm leaving behind,
+cause I've made up my mind</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Trouble came running to me
+so I had to make a choice
+Would I run or take a stand
+against this evil force,
+But after all God's done for me
+And Jesus' blood has set me free
+I choose to walk in liberty
+cause I've made up my mind.</lines>
+    </verse>
+  </lyrics>
+</song>

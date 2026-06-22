@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Geist Gottes, komm</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Mühlan</author>
+      <author type="music">Chris Mühlan</author>
+    </authors>
+    <verseOrder>v1 v3 v2 v3 v4 v5 v6 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mein Herz sehnt sich nach Tiefe, füll die Leere in mir
+Ich brauch deine Berührung wie den Wind den ich spür
+Und ich kanns kaum beschreiben, doch ich sehn mich so sehr
+Nach der tiefen Erfüllung deines Geistes, oh Herr</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja, man nennt dich den Tröster und den Helfer in Not
+Du bist eins mit dem Vater und auch eins mit dem Sohn
+Es gibt nichts, dass dich hindert, Sünde flüchtet vor dir
+Du bist allgegenwärtig und doch lebst du in mir</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Geist Gottes, komm und mach mich frei
+Erfülle mich, Herr, ich bin dein</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Geist Gottes, komm und mach mich frei
+Ooh
+Erfülle mich, Herr, ich bin dein
+Ooh, oh</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Du hast mich gesehen und doch befreit
+Du hast dich ganz hingegeben
+Herr, erfülle mich mit deinem Geist
+Ich will deine Wunder sehen
+Du hast mich gesehen und doch befreit
+Du hast dich ganz hingegeben
+Herr, erfülle mich mit deinem Geist
+Ich will deine Wunder sehen
+Ich will deine Wunder sehen
+Ich will deine Wunder sehen</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Du hast mich gesehen und doch befreit
+Du hast dich ganz hingegeben
+Herr, erfülle mich mit deinem Geist
+Ich will deine Wunder sehen</lines>
+    </verse>
+  </lyrics>
+</song>

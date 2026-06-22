@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Don’t Want to Miss It, Do You?</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Some day my work will be over
+And my labour for Him will be
+through
+Then I'll climb yonder hill top to meet
+Him
+For I don’t want to miss it, do you?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No I wouldn’t miss it for nothing
+No matter what I have to go through
+Some day I'll lay down life’s burden
+For I don’t want to miss it do you?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sometimes I’m tired of my journey
+and I can’t seem to find Him that’s true
+But I know that He’s waiting up
+yonder
+And I don’t want to miss it do you?</lines>
+    </verse>
+  </lyrics>
+</song>

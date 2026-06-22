@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist der Friede, der mein Herz bewahrt</title>
+    </titles>
+    <authors>
+      <author type="words">Annette Jacobi</author>
+      <author type="music">Don Harris</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist der Friede, der mein Herz bewahrt,
+mein Helfer in der Not. Du bist die Hoffnung,
+die mich trägt, du ziehst mich ins Gebet.
+Dort wartest Du auf mich, Herr,
+und dort setzt Du mich frei.
+Herr, mein Herz ist voll Anbetung,
+ich beuge mich vor Dir:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nur Dir allein gebührt der Lobpreis,
+nur Dir allein gebührt die Ehr'!
+Vater, wir wollen Dich anbeten,
+Nur Dir allein gebührt der Lobpreis,
+nur Dir allein gebührt die Ehr'!
+Vater, wir lieben Dich und wir beten Dich jetzt an!</lines>
+    </verse>
+  </lyrics>
+</song>

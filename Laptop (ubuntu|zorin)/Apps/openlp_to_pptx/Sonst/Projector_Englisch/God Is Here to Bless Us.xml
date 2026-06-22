@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God Is Here to Bless Us</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God is here, and that to bless us
+With the Spirit’s quickening power:
+See, the cloud already bending,
+Waits to drop the grateful shower.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let it come, O Lord, we pray
+Thee,
+Let the shower of blessing fall
+We are waking, we are waiting,
+Oh, revive the hearts of all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God is here! We feel His presence
+In this consecrated place,
+But we need the soul refreshing
+Of His free, unbounded grace.</lines>
+    </verse>
+  </lyrics>
+</song>

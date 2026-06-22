@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We invite you</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v2 v1 v2 v2 v3 v2 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are hungry Lord for Your presence
+We are thirsty Lord for Your truth
+We are desperate Lord for Your Spirit
+We are waiting here for You to move
+For You to move</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We invite You in this place
+We invite You with our praise
+Holy Spirit have Your way
+Have Your way</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy Spirit come
+Holy Spirit come</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come ignite the fire within
+Let our passion rise again
+We will never be the same
+We are changed</lines>
+    </verse>
+  </lyrics>
+</song>

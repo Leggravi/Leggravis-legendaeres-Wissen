@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Goodness of God (4)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I love You, Lord, for Your mercy never fails me
+All my days, I've been held in Your hands
+From the moment that I wake up until I lay my head
+I will sing of the goodness of God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All my life You have been faithful
+All my life You have been so, so good
+With every breath that I am able
+I will sing of the goodness of God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I love Your voice, You have led me through the fire
+In darkest night, You are close like no other
+I've known You as a father, I've known You as a friend
+And I have lived in the goodness of God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your goodness is running after, running after me
+Your goodness is running after, running after me
+With my life laid down, I'm surrendered now, I give You everything
+Your goodness is running after, running after me
+Your goodness is running after, running after me
+Your goodness is running after, running after me
+With my life laid down, I'm surrendered now, I give You everything
+Your goodness is running after, running after me</lines>
+    </verse>
+  </lyrics>
+</song>

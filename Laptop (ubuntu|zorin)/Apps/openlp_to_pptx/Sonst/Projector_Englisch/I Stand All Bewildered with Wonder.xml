@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Stand All Bewildered with Wonder</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I stand all bewildered with wonder
+And gaze on the ocean of love,
+And over its waves to my spirit
+Comes peace like a heavenly dove.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The cross now covers my sins,
+The past is under the blood;
+I’m trusting in Jesus for all,
+My will is the will of my God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I struggled and wrestled to win it,
+The blessing that setteth me free;
+But, when I had ceased from my struggling,
+His peace Jesus gave unto me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He laid his hand on me and healed me,
+And bade me be every whit whole;
+I touched but the hem of his garment,
+And glory came thrilling my soul.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The Prince of my peace is now passing,
+The light of his face is on me;
+But listen, beloved, he speaketh:
+My peace I will give unto thee.</lines>
+    </verse>
+  </lyrics>
+</song>

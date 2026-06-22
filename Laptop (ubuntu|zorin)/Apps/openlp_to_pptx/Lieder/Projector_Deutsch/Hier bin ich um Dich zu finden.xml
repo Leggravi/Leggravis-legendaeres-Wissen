@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hier bin ich, um Dich zu finden, </title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hier bin ich, um Dich zu finden, denn Du schenkst mir Gnade, Herr .
+Anbetung soll mein Opfer sein, erhoben bist nur Du allein,
+ich kann nicht anders als Dich zu verehrn.
+®Du,Du bist Gott, Du bist Herr, mein ganzes Leben geb ich Dir.
+Du regierst in Ewigkeit, ich will Dich immer preisen, Herr.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hier bin ich, um Dir zu danken. Du hast mich verändert, Herr.
+Weil Du Dein Leben für mich gabst, am Kreuz für meine Sünden starbst,
+Kann ich nicht anders, als Dich zu verehrn.
+®Du,Du bist Gott,...Dich immer preisen, Herr.</lines>
+    </verse>
+  </lyrics>
+</song>

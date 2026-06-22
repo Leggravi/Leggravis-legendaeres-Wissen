@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Power</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v4 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My weakness is hidden within Your glory
+Jesus, my strength is in You
+The odds are against me, but You are for me
+Jesus, my strength is in You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Power belongs to the One who was and is to come
+Power belongs to our God, alleluia</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My steps have been ordered, You go before me
+God, I'm depending on You
+The hope of my future, found in You only
+God, I'm depending on You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Power belongs to the One who was and is to come
+Power belongs to our God, alleluia
+Power belongs to the One who was and is to come
+Power belongs to our God, alleluia</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Your presence cannot be outrun
+Your glory will not be outdone
+Your presence cannot be outrun
+Your glory will not be outdone</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Alleluia</lines>
+    </verse>
+  </lyrics>
+</song>

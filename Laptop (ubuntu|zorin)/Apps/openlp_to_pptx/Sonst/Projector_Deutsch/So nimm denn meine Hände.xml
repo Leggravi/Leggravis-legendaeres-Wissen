@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>So nimm denn meine Hände</title>
+    </titles>
+    <authors>
+      <author type="words">Julie Katharina Hausmann</author>
+      <author type="music">Friedrich Silcher</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>So nimm denn meine Hände
+und führe mich
+bis ich den Lauf vollende
+und ewiglich.
+Ich kann allein nicht gehen,
+nicht einen Schritt:
+wo du wirst gehn und stehen,
+da nimm mich mit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In deine Gnade hülle
+mein banges Herz
+und mach es endlich stille
+in Freud' und Schmerz!
+Lass ruhn zu Deinen Füßen
+Dein schwaches Kind!
+Es will die Augen schließen
+und glauben blind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn ich auch gleich nichts fühle
+von Deiner Macht,
+Du bringst mich doch zum Ziele
+auch durch die Nacht:
+so nimm denn meine Hände
+und führe mich
+bis ich den Lauf vollende
+und ewiglich!</lines>
+    </verse>
+  </lyrics>
+</song>

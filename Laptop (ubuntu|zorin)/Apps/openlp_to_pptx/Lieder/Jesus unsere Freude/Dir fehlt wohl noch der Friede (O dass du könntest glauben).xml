@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:10">
+  <properties>
+    <titles>
+      <title>Dir fehlt wohl noch der Friede (O dass du könntest glauben)</title>
+    </titles>
+    <authors>
+      <author type="words">Jonathan Paul (1890)</author>
+      <author type="music">Jacob Hoff</author>
+    </authors>
+    <ccliNo>5577901</ccliNo>
+    <themes>
+      <theme>Evangelisation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dir fehlt wohl noch der Friede?
+Dein Herz ist freudenleer,
+dein Auge blickt so müde,
+dein Gang ist matt und schwer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja, nur bei ihm ist Friede
+und Trost in allem Schmerz
+fürs arme, kranke, müde
+und sorgenvolle Herz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Denn nur aus seinen Wunden
+quillt für die Seele Heil;
+wer ihn noch nicht gefunden,
+dem fehlt das beste Teil.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du ringst mit deinen Sünden
+und weißt nicht aus noch ein,
+du kannst nicht Ruhe finden
+in deiner Angst und Pein.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Und fragst du: "Was ist Wahrheit?",
+weil du im Zweifel bist,
+so bitte den um Klarheit,
+der selbst die Wahrheit ist.</lines>
+    </verse>
+  </lyrics>
+</song>

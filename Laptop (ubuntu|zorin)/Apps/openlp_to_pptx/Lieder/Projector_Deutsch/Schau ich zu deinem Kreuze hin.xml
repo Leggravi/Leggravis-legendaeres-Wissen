@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Schau ich zu deinem Kreuze hin</title>
+    </titles>
+    <authors>
+      <author type="words">Günter Balders</author>
+      <author type="music">Lowell Mason</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Schau ich zu jenem Kreuze hin,
+wo einst der Friedensfürst verblich,
+für Schaden acht ich, was Gewinn,
+was einst mein Stolz, gewesen ist.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dein Kreuz zerstört den falschen Ruhm;
+durch Deinen Tod bin ich befreit,
+gebunden als Dein Eigentum
+an Dich allein für allezeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sieh, an Sein dorngekröntes Haupt
+Aus Seinen Wunden quillt Sein Blut
+und wer an solche Liebe glaubt
+dem kommt Sein Kreuzesschmerz zugut.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Was ich zum Dank auch gebe Dir.
+die ganze Welt ist noch zu klein;
+der Dank für diese Liebe hier
+kann nur mein eignes Leben sein.</lines>
+    </verse>
+  </lyrics>
+</song>

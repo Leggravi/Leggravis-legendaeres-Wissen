@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:47">
+  <properties>
+    <titles>
+      <title>Gen Himmel aufgefahren ist</title>
+    </titles>
+    <authors>
+      <author type="words">Bartholomäus Gesius (1601)</author>
+      <author type="music">Melchior Franck</author>
+    </authors>
+    <ccliNo>4937614</ccliNo>
+    <themes>
+      <theme>Himmelfahrt</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gen Himmel aufgefahren ist,
+Halleluja,
+der Ehrenkönig Jesus Christ.
+Halleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er sitzt zu Gottes rechter Hand,
+Halleluja,
+herrscht über Himmel und alle Land.
+Halleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nun ist erfüllt, was geschrieben ist,
+Halleluja,
+in Psalmen von dem Herren Christ.
+Halleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Drum jauchzen wir mit großem Schalln,
+Halleluja,
+dem Herren Christ zum Wohlgefalln.
+Halleluja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Der Heiligen Dreieinigkeit,
+Halleluja,
+sei Lob und Preis in Ewigkeit.
+Halleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

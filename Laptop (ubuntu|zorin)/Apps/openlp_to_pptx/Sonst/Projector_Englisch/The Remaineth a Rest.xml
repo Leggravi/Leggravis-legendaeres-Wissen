@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Remaineth a Rest</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v2 v3 v2 v4 v5 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There remaineth a rest, a rest
+For the people of God
+A promise, a finished work
+And we must guard it with our hearts
+Everything you will ever need
+Was provided at Calvary</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There remaineth a rest, there is a rest
+There remaineth a rest, there is a rest
+A Rest, the finished work of the Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cursed is any man that hangeth on a tree
+Jesus Christ took on this curse
+Just for you and me
+A curse is defined as poverty
+Sickness and death
+When Jesus said it is finished
+He blessed us with his rest
+There is a rest</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now that you know that it's finished
+Come on by faith lets go in it
+Now that you know that it's finished
+Come on by faith lets go in it, go in it, go in it
+Now that you know that it's finished
+Come on by faith lets go in it
+Now that you know that it's finished
+Come on by faith lets go in it</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There remaineth a rest, There is a rest
+There remaineth a rest, There is a rest
+A Rest
+A finished work of the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

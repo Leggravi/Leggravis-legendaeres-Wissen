@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesu Schäflein</title>
+    </titles>
+    <authors>
+      <author type="words">Henriette Maria Luise von Hayn</author>
+      <author type="music">Herrnhut</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Weil ich Jesu Schäflein bin,
+Freu' ich mich nur immerhin
+Über meinen guten Hirten.
+Der mich wohl weiß zu bewirten;
+Der mich liebet, der mich kennt
+Und bei meinem Namen nennt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unter Seinem sanften Stab
+Geh' ich aus und ein und hab'
+Unaussprechlich süße Weide,
+Daß ich keinen Mangel leide;
+Und so oft ich durstig bin,
+Führt er mich zum Brunnquell hin.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sollt' ich denn nicht fröhlich sein,
+Ich beglücktes Schäfelein?
+Denn nach diesen schönen Tagen
+Werd' ich endlich heimgetragen
+In des Hirten Arm und Schoß.
+Amen, ja, mein Glück ist groß!</lines>
+    </verse>
+  </lyrics>
+</song>

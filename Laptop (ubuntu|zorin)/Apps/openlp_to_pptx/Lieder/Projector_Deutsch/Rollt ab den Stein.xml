@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Rollt ab den Stein!</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In finstrer Gruft er lag, Jesus, mein Heiland!
+Komm, Auferstehungstag, Jesus, mein Herr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rollt ab den Stein! Jesus lebt!
+Aus dem Tode sich der Herr erhebt.
+Jesus lebt! Es hielt ihn nicht des Todes Nacht,
+denn der Lebensfürst bezwang des Todes Macht.
+Jesus lebt! Jesus lebt!
+Halleluja! Jesus lebt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Siegelt nur zu den Stein; Jesus, mein Heiland!
+Schließt euren König ein, Jesus, mein Herr!
+Rollt ab den Stein…</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tod, gib dein Opfer her! Jesus, mein Heiland!
+Dich auch bezwingt der Herr; Jesus mein Herr!
+Rollt ab den Stein…</lines>
+    </verse>
+  </lyrics>
+</song>

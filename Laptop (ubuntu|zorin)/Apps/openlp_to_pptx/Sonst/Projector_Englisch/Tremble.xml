@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Tremble</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Peace, bringing it all to peace
+The storm surrounding me
+Let it break at Your name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Still, call the sea to still
+The rage in me to still
+Every wave at Your name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, Jesus, You make the darkness tremble
+Jesus, Jesus, You silence fear
+Jesus, Jesus, You make the darkness tremble
+Jesus, Jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Breathe, then call these bones to live
+Call these lungs to sing
+Once again, I will praise</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Your name is a light that the shadows can't deny
+Your name cannot be overcome
+Your name is alive forever lifted high
+Your name cannot be overcome</lines>
+    </verse>
+  </lyrics>
+</song>

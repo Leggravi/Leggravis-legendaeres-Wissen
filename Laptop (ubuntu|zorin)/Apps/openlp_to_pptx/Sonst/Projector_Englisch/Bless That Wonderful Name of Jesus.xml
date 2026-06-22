@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Bless That Wonderful Name of Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bless that wonderful Name of Jesus,
+Bless that wonderful Name of Jesus,
+Bless that wonderful Name of Jesus,
+No other Name I know.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jina la Yesu libarikiwe,
+Jina la Yesu libarikiwe,
+Jina la Yesu libarikiwe,
+Jina la nguvu zote.
+Upendo wa Yesu uonekane
+(x3) Upendo wa nguvu zote.</lines>
+    </verse>
+  </lyrics>
+</song>

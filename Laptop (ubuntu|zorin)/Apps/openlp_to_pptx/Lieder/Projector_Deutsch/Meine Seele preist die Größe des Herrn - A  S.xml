@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Meine Seele preist die Größe des Herrn - A &amp; S</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Tonus peregrinus</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vers 1
+Meine Seele preist die Größe des Herrn,
+es jubelt mein Geist über Gott, meinen Retter.
+Meine Niedrigkeit hat er angesehn,
+für alle Zeit preisen mich
+selig alle Geschlechter.
+
+Chorus
+Gott hat Großes an mir getan
+und sein Name ist heilig.
+Sein Erbarmen hört niemals auf,
+es gilt allen, die ihn fürchten.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vers 2
+Er hebt seinen Arm, fegt die Mächtigen fort,
+stürzt die Stolzen vom Thron,
+richtet auf die Unterdrückten.
+Er macht Hungernde satt, schickt die Reichen fort.
+Er denkt an sein Volk, so wie er es verheißen.
+
+Chorus
+Gott hat Großes an mir getan
+und sein Name ist heilig.
+Sein Erbarmen hört niemals auf,
+es gilt allen, die ihn fürchten.</lines>
+    </verse>
+  </lyrics>
+</song>

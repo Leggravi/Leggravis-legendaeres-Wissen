@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord I Want to See You Smile</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, I want to see You smile at me
+I try my best to make You see
+How I wish to do the things You said
+To show how much You mean to me
+I want to show the world You live in me
+And now I know You set me free
+Lord, I want to see You smile</lines>
+    </verse>
+  </lyrics>
+</song>

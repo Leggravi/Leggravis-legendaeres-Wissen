@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Vater des Lebens</title>
+    </titles>
+    <authors>
+      <author type="words">Arne Kopfermann</author>
+      <author type="music">Darlene Zschech</author>
+      <author type="translation">Let the peace of God reign (Father of life, draw me closer)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vater des Lebens, der du sitzt auf deinem Thron, 
+allein durch deine Gnade leben wir.
+Rettung und Heil schenkst du jedem, der dich sucht. 
+Wer deinen Namen anruft, der wird frei</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Darum rufen wir laut: Elohim, Adonai, Höchster Herr, Majestät,
+dir vertraun wir uns an. Sei gekrönt im Lobgesang. 
+Dein Name hat Kraft:  El Shaddai.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vater der Liebe, der uns immer neu vergibt. Jeder Augenblick mit dir ist
+ein Geschenk. Und bis zu dem Tag, an dem du uns nachhause holst, erzählen wir der Welt, wie groß du bist.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(R)</lines>
+    </verse>
+  </lyrics>
+</song>

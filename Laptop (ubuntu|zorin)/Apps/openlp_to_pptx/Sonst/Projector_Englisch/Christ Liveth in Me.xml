@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Christ Liveth in Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Once far from God and dead in sin
+No light my heart could see
+But in God's word the light I found
+Now Christ liveth in me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Christ liveth in me
+Christ liveth in me
+Oh, what a salvation this
+That Christ liveth in me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As rays of light from yonder sun
+The flowers of earth set free
+So life and light and love come forth
+From Christ living in me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>As lives the flower within the seed
+As in the cone the tree
+So, praise the Christ of truth and grace
+His Spirit dwelleth in me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>With longing all my heart is filled
+That like Him I may be
+As on the wondrous thought I dwell
+That Christ liveth in me</lines>
+    </verse>
+  </lyrics>
+</song>

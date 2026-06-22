@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come Holy Spirit, Fall on Me Now</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: Come Holy Spirit
+Fall on me now
+I need Your anointing
+Come in Your power
+I love You Holy Spirit
+You're captivating my soul
+And everyday I grow to love You more :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm reaching for Your heart
+You hold my life into Your hands
+Drawing me closer to You
+I feel Your power renew
+Nothing compares to this place
+Where I can see You face to face
+I worship You in Spirit and in truth</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I worship You in Spirit and in Truth</lines>
+    </verse>
+  </lyrics>
+</song>

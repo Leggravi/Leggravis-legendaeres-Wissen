@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus ist immer noch größer</title>
+    </titles>
+    <authors>
+      <author type="words">Barbara Werner</author>
+      <author type="music">Lanny Wolfe</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus ist immer noch größer,
+Jesus ist immer noch größer,
+Jesus ist immer noch größer,
+ja, Jesus behält den Sieg!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Satan greift uns listig an, er lauert hier und dort,
+sucht, wen er verschlingen kann, so sagt uns Gottes Wort.
+Wenn der Feind auch schnaubt und droht und uns zu schaffen macht,
+ist Jesus größer als die Not, Er schenkt uns seine Kraft.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Klagt mich mein Versager an, bedrückt mich meine Schuld,
+ändert Gott nicht seinen Plan, vergibt mir in Geduld.
+Jesus läßt mich nie allein im Dunkel dieser Welt,
+in ihm darf ich geborgen sein, weil seine Hand mich hält.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fällt dir oft das Leben schwer, weil du entmutigt bist
+und aus deinem Sorgenmeer den Ausweg nicht mehr siehst?
+Jesus Christus ist der Herr, vertraue seine Macht,
+denn keine Last ist ihm zu schwer, Er hat den Sieg vollbracht.</lines>
+    </verse>
+  </lyrics>
+</song>

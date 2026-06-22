@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come To Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Weak and wounded sinner
+Lost and left to die
+Oh, raise your head for Love is passing by
+Come to Jesus
+Come to Jesus
+Come to Jesus and live</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now your burden's lifted
+And carried far away
+And precious blood has washed away the stain
+So, sing to Jesus
+Sing to Jesus
+Sing to Jesus and live</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And like a newborn baby
+Don't be afraid to crawl
+And remember when you walk sometimes we fall
+So, fall on Jesus
+Fall on Jesus
+Fall on Jesus and live</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sometimes the way is lonely
+And steep and filled with pain
+So if your sky is dark and pours the rain
+Then cry to Jesus
+Cry to Jesus
+Cry to Jesus and live</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh and when the love splills over
+And music fills the night
+And when you can't contain your joy inside
+Then dance for Jesus
+Dance for Jesus
+Dance for Jesus and live</lines>
+    </verse>
+    <verse name="v6">
+      <lines>With your final heartbeat
+Kiss the world goodbye
+Then go in peace, and laugh on Glory's side
+And fly to Jesus
+Fly to Jesus
+Fly to Jesus and live</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Fly to Jesus
+Fly to Jesus
+Fly to Jesus and live</lines>
+    </verse>
+  </lyrics>
+</song>

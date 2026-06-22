@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Praises</title>
+    </titles>
+    <authors>
+      <author type="words">Reuben Morgan</author>
+      <author type="music">Reuben Morgan</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Some glad morning we shall see
+Jesus in the air,
+Coming after you and me
+Joy is ours to share;
+What rejoicing there will be
+when the saints shall rise,
+Headed for that jubilee
+yonder in the skies.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, what singing
+Oh, what shouting,
+On that happy morning
+when we all shall rise;
+Oh, what glory, hallelujah,
+When we meet our blessed Savior
+in the skies.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We're all going up,
+We're all going up
+We're all going up
+in the first resurrection.
+We're all going up,
+We're all going up
+We're all going up,
+Oh, praise the Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There'll be coming from the East,
+There'll be coming from the West,
+There'll be coming from the North,
+There'll be coming from the South.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We're all going up,
+We're all going up
+We're all going up,
+Oh, praise the Lord.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I'm going home,
+On the road home.
+Going back to God where I belong.
+Heaven and earth will embrace,
+Glory to God! I'll see His face!
+I'm going back to God
+Where I belong.</lines>
+    </verse>
+  </lyrics>
+</song>

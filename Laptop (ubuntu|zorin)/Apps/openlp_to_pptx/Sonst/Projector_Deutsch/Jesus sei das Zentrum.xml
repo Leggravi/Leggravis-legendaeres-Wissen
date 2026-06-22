@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus sei das Zentrum</title>
+    </titles>
+    <authors>
+      <author type="words">Stephanie Heinen</author>
+      <author type="music">Michael Frye</author>
+      <author type="translation">Be the centre</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, sei das Zentrum
+Sei mein Halt und mein Licht, Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>® Sei das Feuer tief in mir, sei der Wind, der mich führt,
+sei mein Leben und mein Ziel, Jesus, Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, sei das Zentrum, sei meine Kraft und mein Lied, Jesus. ®</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, sei meine Hoffnung, meine Visioin und mein Weg, Jesus. ®</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus, sei das Zentrum,
+Sei mein Halt und mein Licht, Jesus.
+Sei mein Halt und mein Licht, Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

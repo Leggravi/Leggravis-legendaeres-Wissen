@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, wir stehen Hand in Hand</title>
+    </titles>
+    <authors>
+      <author type="words">Otto Riethmüller</author>
+      <author type="music">Himmel, Erde, Luft und Meer</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, wir stehen Hand in Hand,
+die dein Hand und Ruf verband,
+stehn in deinem großen Heer
+aller Himmel, Erd' und Meer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Welten stehn um dich im Krieg,
+gib uns Teil an deinem Sieg.
+Mitten in der Höllen Nacht
+hast du ihn am Kreuz vollbracht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In die Wirrnis dieser Zeit
+fahre, Strahl der Ewigkeit;
+zeig den Kämpfern Platz und Pfad
+und das Ziel der Gottesstadt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mach in unsrer kleinen Schar
+Herzen rein und Augen klar,
+Wort zur Tat und Waffen blank,
+Tag und Weg voll Trost und Dank.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Herr, wir gehen Hand in Hand,
+Wandrer nach dem Vaterland;
+lass dein Antlitz mit uns gehn,
+bis wir ganz im Lichte stehn.</lines>
+    </verse>
+  </lyrics>
+</song>

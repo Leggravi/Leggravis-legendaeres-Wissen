@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In Anbetung weilen wir</title>
+    </titles>
+    <authors>
+      <author type="words">Josef Schneider</author>
+      <author type="music">Walter Briem</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In Anbetung weilen wir
+ehrfurchtsvoll, o Herr, vor Dir,
+rühmen Dich aufs neue.
+Keiner war dir jemals gleich,
+der, an Macht und Liebe reich,
+diente Gott in Treue.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wohlgeruch und Lieblichkeit
+warst für Gott Du allezeit,
+selbst im tiefsten Leide.
+Völlig hast Du Dich verzehrt,
+durch Gehorsam Gott geehrt,
+Ihm zur Wonn‘ und Freude.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wie auf ehernen Altar
+man einst brachte Opfer dar
+hast Du Dich gegeben.
+Du, das makellose Lamm,
+starbest auf des Kreuzes Stamm,
+opfertest Dein Leben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Was des Vaters Herz empfand,
+da kein Fehl in Dir Er fand —
+niemand kann’s ergünden.
+Völlig weihtest Du Dich Gott,
+stiegst hinab bis in den Tod,
+den wir jetzt verkünden.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Teurer Herr, wir preisen Dich,
+huldigen Dir feierlich,
+singen Deinem Namen.
+Du, des höchsten Ruhmes wert,
+Du bist’s, den der Vater ehrt;
+Du bist würdig! Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

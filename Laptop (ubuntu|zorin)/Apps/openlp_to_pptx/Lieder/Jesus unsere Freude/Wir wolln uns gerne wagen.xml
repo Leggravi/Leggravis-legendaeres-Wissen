@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:44">
+  <properties>
+    <titles>
+      <title>Wir wolln uns gerne wagen</title>
+    </titles>
+    <authors>
+      <author type="words">Nikolaus Ludwig Graf von Zinzendorf (1736)</author>
+      <author type="music">Gustav Pezold</author>
+    </authors>
+    <ccliNo>5207972</ccliNo>
+    <themes>
+      <theme>Nachfolge</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir wollen uns gerne wagen,
+in unsern Tagen
+der Ruhe abzusagen,
+die's Tun vergisst.
+Wir wolln nach Arbeit fragen,
+wo welche ist,
+nicht an dem Amt verzagen,
+uns fröhlich plagen
+und unsre Steine tragen
+aufs Baugerüst.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Die Liebe wird uns leiten,
+den Weg bereiten
+und mit den Augen deuten
+auf mancherlei,
+ob etwa Zeit zu streiten,
+ob Rasttag sei.
+Sie wird in diesen Zeiten
+uns zubereiten
+für unsre Seligkeiten:
+nur treu, nur treu!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir sind nicht einsam blieben,
+wir wolln uns üben
+mit größern Gnadentrieben
+als eins allein.
+Wir sind am Stamm geblieben
+der Kreuzgemein.
+Drum gilt's gemeinsam lieben,
+sich mit betrüben
+und unsre Lasten schieben,
+die Christi sein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wir sind in ihm zufrieden;
+was uns hienieden
+als Last von ihm beschieden,
+hat sein Gewicht;
+doch ist das Joch für jeden
+drauf eingericht'.
+Drum mag der Leib ermüden:
+wir gehn im Frieden,
+von Jesus ungeschieden,
+und sterben nicht.</lines>
+    </verse>
+  </lyrics>
+</song>

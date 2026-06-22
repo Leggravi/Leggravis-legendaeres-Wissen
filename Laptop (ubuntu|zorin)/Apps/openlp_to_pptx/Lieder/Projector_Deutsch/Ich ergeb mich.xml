@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich ergeb mich</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hier bin ich wieder auf meinen Knien.
+Ergebe mich Dir, ergebe mich Dir.
+Begegne mir, zieh mich ganz nah zu Dir.
+Ich brauch dich so sehr.
+Ich ergeb mich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Erfüll mein Sein mit deiner Bamherzigkeit,
+mich dürstet nach Dir, mich dürstet nach Dir.
+Mit ofnem Arm weiß ich, Du hörst mich an.
+Sprich nun zu mir,
+Sprich nun zu mir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich ergeb mich,
+Ich ergeb mich.
+Ich will dich kennen, Herr.
+Dich viel mehr kennen, Herr.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wie ein Wind, der weht, hast du mich belebt.
+Dein Wille soll in mir geschehen, Jesus.
+Wie ein Sturm, der treibt, hauch mir Leben ein.
+Dein Wille soll in mir geschehen, Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

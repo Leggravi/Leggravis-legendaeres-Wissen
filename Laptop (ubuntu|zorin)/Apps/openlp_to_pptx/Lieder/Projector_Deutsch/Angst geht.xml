@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Angst geht</title>
+    </titles>
+    <authors>
+      <author type="words">Johanna Dietz</author>
+      <author type="music">Johanna Dietz</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott allmächtig
+Heilig, heilig bist Du
+Du liebst beständig
+Was Du gibst ist genug
+Gott der Gnade
+Heilig, heilig bist Du
+Mein Schild, Du schützt mich
+Egal was kommt Du bist gut</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Egal wie weit ich lauf'
+Du bist bei mir gehst voraus
+Egal wie weit ich lauf'
+Du bist bei mir gehst voraus
+Egal wie weit ich lauf'
+Du bist bei mir gehst voraus
+Egal wie weit ich lauf'</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du siehst weiter
+Du schaffst einen Weg
+Wo vorher keiner war
+Der Himmel über mir
+Doch Dein Versprechen ist größer
+Dein Versprechen ist größer</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gott der Güte
+Heilig, heilig bist Du
+In Deinen Armen
+Bin ich mehr als genug</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Egal wie weit ich lauf'
+Du bist bei mir gehst voraus
+Egal wie weit ich lauf'
+Du bist bei mir gehst voraus
+Egal wie weit ich lauf'
+Du bist bei mir gehst voraus
+Egal wie weit ich lauf'</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Du siehst weiter
+Du schaffst einen Weg
+Wo vorher keiner war
+Der Himmel über mir
+Doch Dein Versprechen ist größer
+Dein Versprechen ist größer</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Du bist größer als jede Angst
+Du bist größer als jede Angst
+Du bist größer als jede Angst</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Angst geht
+Kraft kommt
+Der Feind weicht
+Weil mein Gott hier ist</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Denn Dein ist das Reich
+Dein ist die Kraft
+Herrlichkeit siegt
+In Ewigkeit, Amen
+Liebe regiert
+Das Kreuz triumphiert
+Wunder geschehn
+Weil mein Gott hier ist</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Angst geht
+Kraft kommt
+Der Feind weicht
+Weil mein Gott hier ist</lines>
+    </verse>
+  </lyrics>
+</song>

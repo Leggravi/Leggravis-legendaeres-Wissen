@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, only You</title>
+    </titles>
+    <authors>
+      <author type="words">London Gatch</author>
+      <author type="music">London Gatch</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v6 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Only You can make it right again
+Only You will make me whole within
+No more fear and no more pain
+There's freedom in Your name
+Hallelujah</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Only You can hold this heart of mine
+Jesus, only You will satisfy
+In the storm, You are my peace
+Forever I will sing
+Hallelujah.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are higher than the heavens
+There is healing in Your presence
+You're the One that I run to
+Jesus only You
+Jesus only You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When the mountains shake, You are my strength
+By Your mercy You have covered me
+I'm forgiven, I am free
+You are my everything
+Hallelujah</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Only You
+Only You, Jesus</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I lift my hands as high as I can raise them
+And I will sing as loud as I can sing
+So let my praises be my declaration
+I worship You and You alone are King</lines>
+    </verse>
+    <verse name="v7">
+      <lines>There on the cross, no other love was greater
+And I believe it's where You made me new
+You are my Rock, my Hope and my Salvation
+Hallelujah, Jesus only You
+Hallelujah, Jesus only You
+Oooh, Hallelujah</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Only You can make it right again (Jesus)
+Only You can make it right again</lines>
+    </verse>
+  </lyrics>
+</song>

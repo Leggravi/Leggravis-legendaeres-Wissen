@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:36">
+  <properties>
+    <titles>
+      <title>Was mein Gott will, gescheh allzeit</title>
+    </titles>
+    <authors>
+      <author type="words">Albrecht von Preußen (1547)</author>
+      <author type="music">Claudin de Sermisy</author>
+    </authors>
+    <ccliNo>5212709</ccliNo>
+    <themes>
+      <theme>Vertrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Was mein Gott will, g'scheh allzeit,
+sein Will, der ist der beste.
+Zu helfen dem er ist bereit,
+der an ihn glaubet feste.
+Er hilft aus Not, der treue Gott,
+er tröst't die Welt ohn Maßen.
+Wer Gott vertraut, fest auf ihn baut,
+den will er nicht verlassen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gott ist mein Trost, mein Zuversicht,
+mein Hoffnung und mein Leben;
+was mein Gott will, dass mir geschicht,
+will ich nicht widerstreben.
+Sein Wort ist wahr, denn all mein Haar
+er selber hat gezählet.
+Er hüt't und wacht, stets für uns tracht't,
+auf dass uns gar nichts fehlet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drum, muss ich Sünder von der Welt
+hinfahrn nach Gottes Willen
+zu meinem Gott, wenns ihm gefällt,
+will ich ihm halten stille.
+Mein arme Seel ich Gott befehl
+in meiner letzten Stunde:
+Du treuer Gott, Sünd, Höll und Tod
+hast du mir überwunden.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Noch eins, Herr, will ich bitten dich,
+du wirst mirs nicht versagen:
+Wenn mich der böse Geist anficht,
+lass mich, Herr, nicht verzagen.
+Hilf, steur und wehr, ach Gott, mein Herr,
+zu Ehren deinem Namen.
+Wer das begehrt, dem wirds gewährt.
+Drauf Sprech ich fröhlich: Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

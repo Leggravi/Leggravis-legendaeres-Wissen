@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Der unsre Welt gemacht hat</title>
+    </titles>
+    <authors>
+      <author type="words">Dagmar Heizmann-Leucke</author>
+      <author type="music">Klaus Heizmann</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Der unsre Welt gemacht hat, die Berge und das Meer,
+der kennt mich auch mit Namen und das fällt ihm nicht schwer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Darüber freu ich mich, ich freue mich, ich freue mich so sehr, so sehr.
+Darüber freu ich mich, ich freue mich, ich freue mich so sehr, so sehr.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Der unsre Welt gemacht hat, liebt auch das kleinste Kind.
+Er sagt uns in der Bibel, dass wir ihm wichtig sind.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Darüber freu ich mich, ich freue mich, ich freue mich so sehr, so sehr.
+Darüber freu ich mich, ich freue mich, ich freue mich so sehr, so sehr.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Der unsre Welt gemacht hat, ist bei mir Tag und Nacht;
+und seine starken Engel, die geben auf mich Acht.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Darüber freu ich mich, ich freue mich, ich freue mich so sehr, so sehr.
+Darüber freu ich mich, ich freue mich, ich freue mich so sehr, so sehr.</lines>
+    </verse>
+  </lyrics>
+</song>

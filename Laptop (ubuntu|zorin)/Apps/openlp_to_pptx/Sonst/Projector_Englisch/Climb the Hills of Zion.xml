@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Climb the Hills of Zion</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zion is a place of singing
+Zion is a place of joy
+Zion is the dwelling of the Lord.
+Zion is a place of worship
+Zion is a place of praise
+Zion is the dwelling of the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So let us climb the hill of Zion,
+To the city of the living God.
+To the city of the living God.
+To the city of the living God.
+So let us climb the hill of Zion,
+To the city of the living God.
+For the ark of the testimony is in our midst.</lines>
+    </verse>
+  </lyrics>
+</song>

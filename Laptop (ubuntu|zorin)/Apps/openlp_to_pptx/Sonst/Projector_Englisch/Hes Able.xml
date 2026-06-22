@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He's Able</title>
+    </titles>
+    <authors>
+      <author type="words">John L. Bell</author>
+      <author type="music">John L. Bell</author>
+      <author type="translation">Kaum war Tag und Nacht (Seid eingeladen)</author>
+    </authors>
+    <verseOrder>v1 v2 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Exceedingly, Abundantly
+Above all, all you could ask or think
+According to, the power
+That worketh in you, you…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God is able to do just what he said he would do
+He's gonna fulfill every promise to you
+Don't give up on God, cause he won't give up on you
+He's able</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He's able</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>If God Is Not in It</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How do I start to thank you
+When all that you did is save me
+Even when I go astray
+You still hear me again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Break all my plan
+Cause you're I want</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If God is not in it
+I don't want it
+You carry me through the night
+Whispered it's alright
+I've got no one else to turn to
+But you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Even the lilies clothed in grace,
+Yet I worry about tomorrow,
+I sometimes forget,
+That you are more than enough.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Remind me once again
+How for you've brought me through</lines>
+    </verse>
+  </lyrics>
+</song>

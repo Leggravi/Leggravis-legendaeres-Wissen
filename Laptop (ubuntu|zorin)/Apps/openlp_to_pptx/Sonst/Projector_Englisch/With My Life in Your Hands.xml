@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>With My Life in Your Hands</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All of my life has been a struggle
+Throwing my faith against the wind
+Now that You're in my life, it's peaceful
+Knowing my spirit has no end</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I need Your love now to guide me
+Knowing You'll show me the way</lines>
+    </verse>
+    <verse name="v3">
+      <lines>With my life in Your hands
+I can walk with head held high
+It's the feeling I've dreamed of forever
+With my life in Your hands
+Every day is simplified
+'Cause I'm living in Your love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Why did I let things get so crazy, Lord
+Trying on my own 'til You came along
+How could I ever try to thank You, Lord
+For being there when nobody cared</lines>
+    </verse>
+    <verse name="v5">
+      <lines>With my life in Your hands
+I can walk with head held high
+It's the feeling I've dreamed of forever
+With my life in Your hands
+Every day is simplified
+'Cause I'm living in Your love
+'Cause I'm living in Your love</lines>
+    </verse>
+  </lyrics>
+</song>

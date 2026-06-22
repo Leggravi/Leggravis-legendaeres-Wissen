@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Lord That Healeth Thee</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am the LORD that healeth thee,
+I am the LORD that healeth thee;
+Jehovah Rapha is My Name:
+For I am the LORD that healeth thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am the LORD that healeth thee,
+I am the LORD that healeth thee;
+Sickness must flee at My command:
+For I am the LORD that healeth thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I am the LORD that healeth thee,
+I am the LORD that healeth thee;
+The prayer of faith shall banish disease:
+For I am the LORD that healeth thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I am the LORD that healeth thee,
+I am the LORD that healeth thee;
+My name is still as ointment poured forth:
+For I am the LORD that healeth thee.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I am the LORD that healeth thee,
+I am the LORD that healeth thee;
+Come and be free from all your pains:
+For I am the LORD that healeth thee.</lines>
+    </verse>
+  </lyrics>
+</song>

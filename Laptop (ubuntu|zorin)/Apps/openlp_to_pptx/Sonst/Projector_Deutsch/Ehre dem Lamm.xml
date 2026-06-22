@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ehre dem Lamm</title>
+    </titles>
+    <authors>
+      <author type="words">Hans Fritz</author>
+      <author type="music">Bruce Clewett</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ehre dem Lamm! Ja, Ehre sei dem Lamm,
+gepriesen Gottes Sohn, gestorben, auferstanden,
+nun auf ewig steht Sein Thron. Halleluja!
+Ehre dem Lamm! Ja, Ehre sei dem Lamm,
+Ihn preist des Himmels Heer, jeder muss sich beugen und bekennen:
+Er ist Herr. Halleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er ist Herr (Er ist Herr), Er ist Herr!
+Er ist Herr (Er ist Herr), Er ist Herr!
+Er ist Herr!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du bist Herr (Du bist Herr), Du bist Herr!
+Du bist Herr (Du bist Herr), Du bist Herr!
+Du bist Herr!</lines>
+    </verse>
+  </lyrics>
+</song>

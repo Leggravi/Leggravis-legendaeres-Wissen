@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Herr unser Gott </title>
+    </titles>
+    <authors>
+      <author type="words">Kathi Stimmer-Salzeder</author>
+      <author type="music">Kathi Stimmer-Salzeder</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Herr, unser Gott,wie herrlich ist Dein Name in aller Welt :|
+O Herr, wir loben dich. O Herrr, wir ehren dich.
+Friedefürst, starker Gott, allmächtiger Vater.</lines>
+    </verse>
+  </lyrics>
+</song>

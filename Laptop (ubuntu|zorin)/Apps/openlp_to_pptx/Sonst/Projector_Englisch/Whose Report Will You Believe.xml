@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Whose Report Will You Believe</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Whose report will you believe?
+(We shall believe the report of the Lord)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His report says &quot;I am healed&quot;,
+His report says &quot;I am filled&quot;,
+His report says &quot; I am free&quot;,
+His report says &quot;victory&quot;.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Shout of joy and victory resound
+in the tents of the righteous of the Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The Lord’s right hand has done mighty things for us,
+The Lord’s right hand has lifted high,
+The Lord's right hand reigns on high,
+The Lord’s right hand reigns on high.</lines>
+    </verse>
+  </lyrics>
+</song>

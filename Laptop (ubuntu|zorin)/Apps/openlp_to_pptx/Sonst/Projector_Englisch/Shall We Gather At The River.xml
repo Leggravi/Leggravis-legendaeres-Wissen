@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Shall We Gather At The River</title>
+    </titles>
+    <authors>
+      <author type="words">Robert Lowry</author>
+      <author type="music">Robert Lowry</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Shall we gather at the river,
+Where bright angel feet have trod,
+With its crystal tide forever,
+Flowing from the throne of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yes, we'll gather at the river,
+The beautiful, the beautiful river;
+Gather with the saints at the river
+That flows from the throne of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On the bosom of the river,
+Where the Saviour-King we own,
+We shall meet and sorrow never,
+'Neath the glory of the throne.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>On the margin of the river,
+Washing up its silver spray,
+We will walk and worship ever,
+All the happy, golden day.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ere we reach the shining river,
+Lay we every burden down;
+Grace our spirits will deliver,
+And provide a robe and crown.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>At the smiling of the river,
+Mirror of the Saviour's face,
+Saints whom death will never sever
+Lift their songs of saving grace.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Soon we'll reach the shining river,
+Soon our pilgrimage will cease;
+Soon our happy hearts will quiver
+With the melody of peace.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord Is There Room for Me?</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I wandered so far
+from my Father’s home,
+And in my world of sin sometimes
+felt so alone,
+It seems I heard a voice within
+saying to me:
+The Father will welcome you
+back to the family.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord is there room
+in your mansion for me?
+I know I was wrong,
+but now I’m so sorry,
+I want to come home,
+I want to come home;
+Lord Is there room In your
+mansion for me?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All those wasted years,
+can I ever repay?
+Can I make them up,
+Oh Lord some way?
+Then I heard Him say,
+as in the story of old:
+Welcome my child,
+back to the Father’s fold!</lines>
+    </verse>
+  </lyrics>
+</song>

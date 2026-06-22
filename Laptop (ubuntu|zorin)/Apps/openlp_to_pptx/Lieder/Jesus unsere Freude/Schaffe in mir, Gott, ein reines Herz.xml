@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:15">
+  <properties>
+    <titles>
+      <title>Schaffe in mir, Gott, ein reines Herz</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel / Johann Georg Winer (1646)</author>
+      <author type="words">Cornelius Heinrich Dretzel (1731)</author>
+      <author type="music">Johann Georg Winer</author>
+    </authors>
+    <themes>
+      <theme>Bekenntnis</theme>
+      <theme>Buße</theme>
+      <theme>Beichte</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Schaffe in mir, Gott, ein reines Herze,
+und gib mir einen neuen, gewissen Geist.
+Verwirf mich nicht, verwirf mich nicht
+von deinem Angesicht, von deinem Angesicht,
+und nimm deinen heiligen Geist nicht von mir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tröste mich wieder mit deiner Hilfe
+und er, der freudige Geist, erhalte mich.
+Waschei mich wohl, wasche mich wohl
+von meiner Missetat, von meiner Missetat
+und reinige mich von meiner Sünde.</lines>
+    </verse>
+  </lyrics>
+</song>

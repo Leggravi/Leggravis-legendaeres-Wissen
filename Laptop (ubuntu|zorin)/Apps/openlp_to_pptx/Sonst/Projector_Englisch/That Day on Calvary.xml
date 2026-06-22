@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>That Day on Calvary</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was in the Garden of Eden
+There on a hill;
+I was with Moses, and the children of Israel
+When they crossed the great Red Sea
+I was with King David,
+When he shouted on the streets
+But the greatest place I've been,
+Was that day on Calvary</lines>
+    </verse>
+    <verse name="v2">
+      <lines>That day on Calvary, I was in Calvary
+Every name in the Lamb's Book of Life
+Was then right there, O I was in His mind
+The day when He died,
+And He paid the price for me
+That day on Calvary</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I was in my way with pilgrim
+When they sailed across the sea
+I was in Philadelphia,
+When they proclaimed the liberty
+I was with Abraham Lincoln,
+When he set the slave's free
+But still the greatest place I've been
+Was that day on Calvary</lines>
+    </verse>
+  </lyrics>
+</song>

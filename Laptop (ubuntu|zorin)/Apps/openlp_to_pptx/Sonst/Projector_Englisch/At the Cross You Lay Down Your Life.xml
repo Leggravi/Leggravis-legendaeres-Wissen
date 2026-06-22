@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>At the Cross You Lay Down Your Life</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who am I that you would reach out your hand
+Who am I that you would give me strength to stand
+A sinner such as me so unworthy and unclean
+I should have been the one they crucified</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But at the cross
+You lay down your life
+So I could find mine
+I've never known a love like this before
+You hung on a tree and there you though of me
+And all I can say is who am I</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who am I that you would look on me with love
+All my stains have been covered by your blood
+Saved by Grace through faith when you came you made a way
+Now who so ever will may come and be free</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now I realise the situation
+Crying out in desperation
+Here on my knees
+I'm giving you all of me</lines>
+    </verse>
+  </lyrics>
+</song>

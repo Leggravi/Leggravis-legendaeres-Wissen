@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wo ist solch ein Gott, so wie Du</title>
+    </titles>
+    <authors>
+      <author type="words">Henriette Catharina von Gersdorff</author>
+      <author type="music">Wer nur den lieben Gott lässt walten</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wo ist solch ein Gott, so wie Du?
+Der die Sünden vergibt
+und erlässt die Schuld seines Volkes,
+der an seinem Zorn nicht ewig festhält,
+denn er ist barmherzig.
+Wo ist solch ein Gott, so wie Du?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lei lei lei lei lei
+lei lei lei lei lei
+Wo ist solch ein Gott</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Denn Jahwe ist barmherzig,
+und er ist von großer Kraft,
+vor dem jeder Mensch schuldig ist.
+Wo ist solch ein Gott?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jahwe wird sich unser wieder erbarmen.
+Unsere Schuld unter seine Füße treten
+und alle unsere Sünden
+in die Tiefe des Meeres werfen.
+Wo ist solch ein Gott, so wie Du?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wo ist solch ein Gott wie unser Gott,
+der Herr, wo ist solch ein Gott?</lines>
+    </verse>
+  </lyrics>
+</song>

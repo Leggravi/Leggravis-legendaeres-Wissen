@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Every Word</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If I listen, Will my ears know the sound of Your voice?
+Show me Your voice!
+If I seek You, Will You quiet the storm in my mind?
+Quiet my mind!
+If You search me, Will You say that I'm good and faithful?
+Am I good and faithful?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If you're speaking
+Lord, I wanna hear every word
+You've seen all my faults
+Yet you've wash me white as snow
+I thought I was lost
+But your love has called me back to life
+You called me home
+And you loved me like your own.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I've been wandering
+Bring me back to the straight and narrow
+Oh, the straight and narrow
+You renew me
+From the ash I can rise to stand tall
+Oh, I can stand tall</lines>
+    </verse>
+  </lyrics>
+</song>

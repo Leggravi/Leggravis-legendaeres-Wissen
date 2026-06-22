@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Won't Forget</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I won't forget the price You paid
+Though death was mine, You took my place
+I won't forget the sacrifice
+For to this love I owe my life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, oh the wonder of Your name
+Jesus, I'm forever changed</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You've searched my heart and know my ways
+You've held me in Your hands of grace
+Now I have found my peace with God
+A refuge in my Savior's love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You came in the night and tore down the walls
+That held my broken heart
+When all I could see lay ruined and scarred
+Your light shattered the dark.</lines>
+    </verse>
+  </lyrics>
+</song>

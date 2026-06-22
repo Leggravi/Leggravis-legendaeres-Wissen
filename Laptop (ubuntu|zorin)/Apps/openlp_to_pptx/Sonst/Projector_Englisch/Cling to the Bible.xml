@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Cling to the Bible</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cling to the Bible,
+though all else be taken;
+Lose not its precepts so precious
+and pure;
+Souls that are sleeping its tidings
+awaken:
+Life from the dead in its promises
+sure.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cling to the Bible!
+Cling to the Bible!
+ClIng to the Bible!
+Our lamp and our guide!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cling to the Bible! -
+this jewel and treasure
+Brings life eternal, and saves
+fallen man;
+Surely its value no mortal can
+measure:
+Seek for its blessing, 0 soul,
+while you can!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lamp for the feet that in
+by-ways have wandered,
+Guide for the youth that
+would otherwise fall;
+Hope for the sinner whose life
+has been squandered;
+Staff for the aged, and best Book
+for all!</lines>
+    </verse>
+  </lyrics>
+</song>

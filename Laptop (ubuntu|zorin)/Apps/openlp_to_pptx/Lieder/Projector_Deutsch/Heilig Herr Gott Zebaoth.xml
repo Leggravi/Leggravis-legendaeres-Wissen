@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heilig Herr Gott Zebaoth</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Frey</author>
+      <author type="music">Albert Frey</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heilig, heilig, heilig,
+Herr, Gott Zebaoth.
+Heilig, heilig, heilig,
+Herr, Gott Zebaoth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Himmel und Erde sind
+voll deiner Herrlichkeit.
+Hosanna in der Höhe!
+Gelobt sei, der da kommt
+im Namen unsres Herrn.
+Hosanna in der Höhe!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir beten dich an.
+Wir beten dich an.
+Wir beten dich an.
+Wir beten dich an.</lines>
+    </verse>
+  </lyrics>
+</song>

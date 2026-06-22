@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Die Gott lieben werden sein wie die Sonne</title>
+    </titles>
+    <authors>
+      <author type="words">Peter Strauch</author>
+      <author type="music">Peter Strauch</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Noch verbirg die Dunkelheit das Licht,
+und noch sehen wir die Sonne nicht.
+Doch schon zieht ein neuer Tag herauf,
+und das Licht des Morgens leuchtet auf.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Die Gott lieben werden sein wie die Sonne,
+die aufgeht in ihrer Pracht.
+Die Gott lieben werden sein wie die Sonne,
+die aufgeht in ihrer Pracht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Viele Tränen werden noch geweint,
+und der Mensch ist noch des Menschen Feind.
+Doch weil Jesus für die Feinde starb,
+hoffen wir, weil er uns Hoffnung gab.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Krieg und Terror sind noch nicht gebannt,
+und das Unrecht nimmt noch überhand.
+Doch der Tag, er steht schon vor der Tür.
+Herr, du kommst! Wir danken dir dafür.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Noch verbirgt die Dunkelheit das Licht,
+und noch sehen wir den Himmel nicht.
+Doch die Zeit der Schmerzen wird vergehn,
+und dann werden wir den Vater sehn.</lines>
+    </verse>
+  </lyrics>
+</song>

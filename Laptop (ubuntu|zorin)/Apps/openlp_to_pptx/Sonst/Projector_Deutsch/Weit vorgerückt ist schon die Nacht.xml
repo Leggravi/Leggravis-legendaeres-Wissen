@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Weit vorgerückt ist schon die Nacht</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Wilhelm Brockhaus</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Weit vorgerückt
+Ist schon die Nacht der Tränen.
+Der Morgen naht, er stillt mein heißes Sehnen,
+Wo, Herr, mein Auge Dich erblickt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O sel'ge Stund',
+Voll Wonne und Entzücken,
+Wenn Deine Braut Dir wird entgegenrücken!
+&quot;Er ist's!&quot; frohlockt dann jeder Mund.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wo ist die Nacht?
+Wo sind die Kummertränen,
+O Jesu, dann, wenn Du gestillt mein Sehnen,
+Und ich Dich schau' in Himmelspracht?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ja, dann ist fern,
+Was hier mich je beschweret.
+Ich hab' genug – hab', was mein Herz begehret,
+Hab' Dich, o Jesu, meinen Herrn.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In Deiner Näh'
+Genieß' ich Wonn' und Frieden.
+Nie wird mein Mund in Deinem Lob ermüden.
+O Jesu, dass ich heut' Dich säh'!</lines>
+    </verse>
+  </lyrics>
+</song>

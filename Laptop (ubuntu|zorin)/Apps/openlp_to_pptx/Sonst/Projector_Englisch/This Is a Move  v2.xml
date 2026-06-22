@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Is a Move – v2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v3 v4 v5 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mountains are still being moved
+Strongholds are still being loosed
+God we believe it
+Yes we can see that
+Wonders are still what You do</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bodies are still being raised
+Giants are still being slayed
+God we believe it
+And yes we can see that
+Wonders are still what You do</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We are here for You
+Come and do what You do
+We are here for You
+Come and do what You do
+Set our hearts on You
+Come and do what You do
+‘Cause we need a move
+We need a move</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Miracles happen when You move
+Healing is coming in this room
+Miracles happen when You move
+Heaven is coming</lines>
+    </verse>
+    <verse name="v5">
+      <lines>This is a move
+This is a move</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Burn like a Fire
+Blow like the Wind
+Come Holy Spirit
+We welcome You In</lines>
+    </verse>
+  </lyrics>
+</song>

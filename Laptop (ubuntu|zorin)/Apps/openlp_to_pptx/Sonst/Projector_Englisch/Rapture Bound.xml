@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Rapture Bound</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This old world it can't hold me
+I was born to be free
+My heart is set on heaven
+And my eyes look up to Thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I would climb the highest mountain just to reach the other side
+I would cross the burning desert or swim the ocean wide
+There is nothing on this earth that could ever hold me down
+For I've got my eyes on Jesus
+And I know I'm rapture bound</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Our treasure is over yonder
+In a land beyond that sea
+I want just to be here
+With my Lord to reign eternally</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh rapture bound come early morning
+On a bright and cloudless day
+When the King shall come from glory
+And catch His waiting Bride away
+There is nothing on this earth that could ever hold me down
+For I've got my eyes on Jesus
+And I know I'm rapture bound</lines>
+    </verse>
+  </lyrics>
+</song>

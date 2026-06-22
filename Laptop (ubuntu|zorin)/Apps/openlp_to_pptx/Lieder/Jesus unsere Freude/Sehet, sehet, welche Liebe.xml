@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:49">
+  <properties>
+    <titles>
+      <title>Sehet, sehet, welche Liebe</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Spitta (1833)</author>
+      <author type="music">Bamberg</author>
+    </authors>
+    <ccliNo>6221847</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sehet, sehet, welche Liebe
+hat der Vater uns erzeigt!
+Sehet, wie er voll Erbarmen
+über uns sein Antlitz neigt!
+Seht, wie er das Allerbeste
+für das Allerschlechtste gibt,
+seinen Sohn für unsre Sünden,
+sehet, seht, wie er uns liebt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sehet, sehet, welche Liebe
+unser Heiland zu uns trägt,
+wie er alles für uns leidet,
+selbst, dass man ans Kreuz ihn schlägt,
+wie er da auch noch den letzten
+Tropfen Blut für uns vergießt;
+sehet, seht, ob das nicht Liebe,
+namenlose Liebe ist!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sehet, sehet, welche Liebe
+uns erzeigt der Heil'ge Geist,
+wie er auch den ärgsten Sünder
+gern zum Leben unterweist,
+wie er strafend, lehrend, tröstend
+immer zu den Menschen spricht!
+O wer priese solche große,
+dreifach große Liebe nicht!</lines>
+    </verse>
+  </lyrics>
+</song>

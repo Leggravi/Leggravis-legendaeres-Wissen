@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich preise dich! Du bist herabgekommen</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Clemens Müller</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich preise Dich! Du bist herabgekommen,
+Du suchtest mich, hast mich dem Tod entnommen.
+Nur Leben seh' ich, - seh' ich, Jesu, Dich.
+Ich preise Dich! Ich preise Dich!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich preise Dich! Du hast Dich hingegeben,
+Verlornen weihtest Du Dein teures Leben.
+Nur Liebe seh' ich – seh' ich, Jesu, Dich.
+Ich preise Dich! Ich preise Dich!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich preise Dich! Du hast Dein Blut vergossen,
+Für meine Sünden ist's am Kreuz geflossen.
+Versöhnung seh' ich - seh' ich, Jesu, Dich.
+Ich preise Dich! Ich preise Dich!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich preise Dich! Dein Werk ist ganz vollendet,
+Gerechtigkeit hat mein Gericht beendet.
+Nur Gnade seh' ich - seh' ich, Jesu, Dich.
+Ich preise Dich! Ich preise Dich!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ich preise Dich! Wall' ich auch noch hienieden,
+Ich wall' mit Dir, genieße Deinen Frieden.
+Erquickung seh' ich - seh' ich, Jesu, Dich.
+Ich preise Dich! Ich preise Dich!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ich preise Dich! Du bist vorangegangen,
+Ich schau' Dir nach mit sehnlichem Verlangen.
+Nur Hoffnung seh' ich - seh' ich, Jesu, Dich.
+Ich preise Dich! Ich preise Dich!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ich preise Dich! Bald stillest Du mein Sehnen,
+Wirst mich mit allen Heil'gen zu Dir nehmen.
+O sel'ge Freude! – seh' ich, Jesu, Dich.
+Ich preise Dich! Ich preise Dich!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Choose</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Master, may I be so honest?
+Could I admit the way I feel?
+I’m hurting. It seems that You’ve forsaken.
+I wonder, is Your love for me still real?
+Though my friends think I am happy,
+Unaffected by this trial,
+They can’t see the pain I’m hiding
+Just underneath my smile.
+Master, I can’t live this way anymore.
+So, today, I make my choice.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I choose to believe that You are faithful,
+And my heart is in Your hands,
+And this mystery that I face today
+Is part of a greater plan.
+I choose not to be discouraged
+When the sun will not break through.
+I have the choice of trusting You.
+So, Lord, this is what I choose.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know the road will not be easy.
+I know I’ll have my weaker days.
+And Satan will tell me I don’t mean it
+When I say I’ll trust God all the way.
+But that really doesn’t matter.
+I refuse to hear him out.
+With my faith, I’ll find the power
+That will overcome all doubt.
+Lord, I’ve never felt so strong
+As when I’m resting in Your arms.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This is what I choose.
+Gonna trust You, Lord. I choose!</lines>
+    </verse>
+  </lyrics>
+</song>

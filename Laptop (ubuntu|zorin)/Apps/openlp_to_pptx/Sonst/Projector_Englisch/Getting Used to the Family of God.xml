@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Getting Used to the Family of God</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Going together, enjoying the trip,
+Getting used to the fam'ly,
+I'll spend eternity with,
+Learning to love you,
+How easy it is,
+Getting used to the fam'ly of God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Climbing the mountain,
+Crossing the plains,
+Fording the rivers,
+Sharing the pain,
+Sometimes the losses,
+And sometimes the gains,
+Getting used to the fam'ly of God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Going together, enjoying the trip,
+Getting used to the fam'ly,
+I'll spend eternity with,
+Learning to love you,
+How easy it is,
+Getting used to the fam'ly of God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Reaching our hands,
+To a brother that's new,
+Learning to say,
+That I really love you,
+Learning to walk,
+As the Father could do,
+Getting used to the fam'ly of God</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Going together, enjoying the trip,
+Getting used to the fam'ly
+I'll spend eternity with,
+Learning to love you,
+How easy it is,
+Getting used to the fam'ly of God</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, Herr, ich denke an dein Opfer</title>
+    </titles>
+    <authors>
+      <author type="words">Daniela Pförtner</author>
+      <author type="music">Matt Redman</author>
+      <author type="translation">Once Again (Jesus Christ, I think upon Your sacrifice)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Herr, ich denke an dein Opfer;
+Du gabst dich ganz hin in den Tod;
+Du hast mich mit neuem Leben reich beschenkt und
+nun steh ich staunend vor dir,
+nun steh ich staunend vor dir,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Und wieder schau ich hin zum Kreuz,
+wo du für mich starbst.
+Ergriffen von der Gnade und zerbrochen im Geist.
+Wieder dank ich dir, Herr,
+wieder geb ich mein Leben hin.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nun bist Du erhöht bis an den höchsten Ort,
+König der Himmel, dort werde ich knien.
+Wenn ich an die Gnade meiner Rettung denk,
+werd' ich mit Lobpreis erfüllt,
+werd' ich mit Lobpreis erfüllt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Danke für das Kreuz, danke für das Kreuz
+danke für das Kreuz, mein Freund.
+Danke für das Kreuz, danke für das Kreuz
+danke für das Kreuz, mein Freund.</lines>
+    </verse>
+  </lyrics>
+</song>

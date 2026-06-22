@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Pour My Oil</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>First love, You are my
+First love In Your presence
+I can't help but fall down at
+Your feet
+Savior, beautiful savior
+You became the sacrifice so
+I could be set free</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take all I have, It's all
+Yours anyway
+I know it's not much
+But God it's my everything
+I pour my oil on You
+I pour my oil on You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>First love, You are my first
+Love I don't care who's
+In this room
+My eyes are fixed on You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Take all I have, It's all
+Yours anyway I know
+It's not much, but God it's my everything I pour
+My oil on You
+I pour my oil on You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Doesn't matter the cost
+Jesus You're worthy</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Of every last drop, here is my offering I pour my
+Oil on You
+I pour my oil on You</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I don't care who's in this room
+I don't care who's in this room
+I don't care who's in this room my eyes are fixed on You
+I don't care who's in this room my eyes are fixed on You</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Every last drop
+Every last drop
+Every last drop
+At the feet of Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

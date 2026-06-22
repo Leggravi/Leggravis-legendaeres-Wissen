@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Nov 7, 2020, 7:09:43 AM">
+  <properties>
+    <titles>
+      <title>Ich bin bei dir, wenn die Sorge dich niederdrückt</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 V5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Ich bin bei dir,
+wenn die Sorge dich niederdrückt,
+wenn dein Leben dir sinnlos scheint,
+dann bin ich da.
+Ich bin bei dir,
+auch wenn du es nicht glauben kannst,
+auch wenn du es nicht fühlen kannst,
+ich bin dir nah.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Und ich hab alles in der Hand,
+kenn dein Leben ganz genau,
+ich weiß um alles, was du brauchst, Tag für Tag.
+Hab keine Angst, ich liebe dich.
+Du kannst meinem Wort vertraun
+und du wirst sehn,
+wie ich dich führe Schritt für Schritt.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Hab keine Angst,
+wenn du nachts nicht mehr schlafen kannst,
+wenn du grübelst was morgen wird,
+du hast doch mich.
+Hab keine Angst,
+auch wenn andre nicht zu dir stehn,
+wenn du meinst, dass du wertlos bist,
+ich liebe dich.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>/: O welch ein Tag,
+wenn wir uns gegenüberstehn,
+und du siehst, dass dein Lebensweg
+ein Weg zu mir war. :/</lines>
+    </verse>
+    <verse name="V5">
+      <lines>/: Dann wirst du staunen und verstehn,
+alles hatte seinen Sinn,
+und du wirst sehen,
+ich hatte alles in der Hand! :/</lines>
+    </verse>
+  </lyrics>
+</song>

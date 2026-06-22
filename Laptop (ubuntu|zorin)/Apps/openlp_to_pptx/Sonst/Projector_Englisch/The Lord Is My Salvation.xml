@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Lord Is My Salvation</title>
+    </titles>
+    <authors>
+      <author type="words">Keith Getty</author>
+      <author type="music">Keith Getty</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v3 v7 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The grace of God has reached for me
+And pulled me from a raging sea
+And I am safe on this solid ground
+The Lord is my salvation</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will not fear when darkness falls
+His strength will help me scale these walls
+I'll see the dawn of the rising sun
+The Lord is my salvation</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who is like the Lord, our God?
+Strong to save, faithful in love
+My debt is paid and the victory won
+The Lord is my salvation</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My hope is hidden in the Lord
+He flowers each promise of His Word
+When winter fades, I know spring will come
+The Lord is my salvation</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In times of waiting, times of need,
+When I know loss, when I am weak,
+I know His grace will renew these days
+The Lord is my salvation</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And when I reach my final day
+He will not leave me in the grave
+But I will rise, He will call me home
+The Lord is my salvation</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Glory be to God the Father
+Glory be to God the Son
+Glory be to God the Spirit
+The Lord is our salvation</lines>
+    </verse>
+    <verse name="v8">
+      <lines>The Lord is our salvation
+The Lord is our salvation
+(Our salvation, ooh-yeah, ooh, ooh)</lines>
+    </verse>
+  </lyrics>
+</song>

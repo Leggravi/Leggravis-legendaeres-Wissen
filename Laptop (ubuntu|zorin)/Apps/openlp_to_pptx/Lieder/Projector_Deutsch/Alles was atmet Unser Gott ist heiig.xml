@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Alles was atmet (Unser Gott ist heiig)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Unser Gott ist heilig
+Unser Gott ist mächtig
+Lobt den Herrn im Himmel
+Lobt ihn auf der Erde
+Lobt den Herrn mit Singen
+Lobt den Herrn mit Tanzen
+Lobt ihn voll Freude
+Lobt ihn von Herzen
+Lobt unsern Gott</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alles was atmet lobe den Herrn
+Alles was atmet lobe den Herrn
+Halleluja
+Halleluja
+Alles was atmet lobe den Herrn</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lobt den Herrn mit Trommeln
+Lobt den Herrn mit Zimbeln
+Lobt ihn mit Posaunen
+Lobt ihn auf den Saiten
+Spielt zu seiner Ehre
+Gebt ihm euer Bestes
+Lobt ihn voll Freude
+Lobt ihn von Herzen
+Lobt unsern Gott</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alles was atmet lobe den Herrn
+Alles was atmet lobe den Herrn
+Halleluja
+Halleluja
+Alles was atmet lobe den Herrn</lines>
+    </verse>
+  </lyrics>
+</song>

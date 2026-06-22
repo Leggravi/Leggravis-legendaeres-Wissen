@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Pass It On</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It only takes a spark
+To get the fire burning
+And soon all those around
+Can warm up in its glowing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>That's how it is with God's love
+Once you've experienced it
+You spread His love to everyone
+You want to pass it on</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What a wondrous time is spring
+When all the trees are budding
+The birds began to sing
+The flowers start their blooming</lines>
+    </verse>
+    <verse name="v4">
+      <lines>That's how it is with God's love
+Once you've experienced it
+You want to sing, it's fresh like spring
+You want to pass it on</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I wish for you my friend
+This happiness that I've found
+You can depend on Him
+It matters now where you're bound</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I'll shout it on a mountain top
+I want the world to know
+The Lord of love has come to me
+He gave His love and set me free
+I want to pass it on</lines>
+    </verse>
+  </lyrics>
+</song>

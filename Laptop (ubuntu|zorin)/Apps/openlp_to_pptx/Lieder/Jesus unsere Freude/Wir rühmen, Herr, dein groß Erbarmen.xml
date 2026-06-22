@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:46">
+  <properties>
+    <titles>
+      <title>Wir rühmen, Herr, dein groß Erbarmen</title>
+    </titles>
+    <authors>
+      <author type="words">Christian Gottlob Barth (1839)</author>
+      <author type="music">Johann Anastasius Freylinghausen</author>
+    </authors>
+    <ccliNo>6222956</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir rühmen, Herr, dein groß Erbarmen,
+das alles Denken übersteigt;
+denn ach, was wären wir, die Armen,
+hättst du dich nicht zu uns geneigt.
+Du hast von Anfang uns erkoren
+zu deiner auserwählten Schar,
+und was uns deine Treu geschworen,
+wird stets an uns aufs neue wahr.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du stärkest uns mit neuen Kräften,
+wenn unser Mut darnieder liegt;
+du reichst zu deinen Reichsgeschäften
+den Glauben dar, der immer siegt.
+Wenn Not wie Berge vor uns stehet,
+dass hin und her das Auge irrt:
+dein Atem hat sie bald verwehet
+und das Verworrne steht entwirrt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rufst deine Knechte du von hinnen,
+auf denen so viel Hoffnung ruht:
+kaum siehst du unsre Tränen rinnen,
+so tröstest du den bangen Mut.
+Du weckest andre, dir zu dienen,
+und stellest sie an ihren Ort;
+du lässest auch die Gräber grünen
+und schaffest Frucht aus deinem Wort.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nimm uns aufs neu in deine Hände
+und trag uns ferner in Geduld!
+Was schwer und dunkel ist, das wende
+in Licht und Segen deine Huld.
+Mach denen, die am Werke bauen,
+erträglich ihre große Last,
+und lass zum Trost sie täglich schauen,
+dass du ein Herz zu ihnen hast.</lines>
+    </verse>
+  </lyrics>
+</song>

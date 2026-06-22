@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Builded on the Rock</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I builded on the Rock,
+On the Rock of God,
+Builded on the Rock, Christ Jesus;
+I dug down deep
+And builded on the Rock,
+Builded on the Rock of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I hold not the Rock,
+But the Rock holds me
+The Rock holds me,
+The Rock holds me;
+I rest on the Rock,
+And the Rock holds me,
+Resting on the Rock of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Why should I fear
+When the winds sweep by?
+Builded on the Rock, Christ Jesus;
+Or shaken be when
+The waves roll high?
+Builded on the Rock of God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hush, raging billows at His command,
+Builded of the Rock, Christ Jesus;
+Oh, peace be still'neath
+His loving hand!
+Builded on the Rock of God.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Praise God for our foundation sure!
+Builded on the Rock, Christ Jesus;
+No storms can harm our house secure,
+Builded on the Rock of God.</lines>
+    </verse>
+  </lyrics>
+</song>

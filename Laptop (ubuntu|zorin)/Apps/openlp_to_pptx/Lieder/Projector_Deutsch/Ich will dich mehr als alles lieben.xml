@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich will dich mehr als alles lieben</title>
+    </titles>
+    <authors>
+      <author type="words">Jörg Swoboda</author>
+      <author type="music">Geoff Bullock</author>
+      <author type="translation">Just let me say</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich will dich mehr als alles lieben.
+Voll Erbarmen und Gnade bist du.
+Hilf mir, im Licht deiner Liebe aufzublühen.
+Bleib mir nahe immerzu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wenn die Erde bebt, wie dein Wort es sagt,
+fällt der Himmel auch über uns ein,
+will ich dich umso mehr noch lieben.
+Du wirst immer mein Retter sein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich will dich hören, wenn du leise
+meinen Namen ganz liebevoll nennst.
+Du Höchster, komm, und erhelle meine Nächte,
+die du wie kein andrer kennst.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bist mir nahe auch in der Tiefe noch,
+wo die Seele ganz leis für sich weint,
+und schenkst mir Trost. Ich bin geborgen.
+Du bist treuer als je ein Freund.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ich will dich mehr als alles lieben,
+fand bei dir eine offene Tür.
+Du hieltst mich niemals für unter deiner Würde,
+sehntest dich zuerst nach mir.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Was Erbarmen ist, lernte ich bei dir
+und erfuhr, was ein Gotteskind ist.
+Ich habe Grund, dich laut zu loben,
+weil du, Herr, voller Liebe bist.</lines>
+    </verse>
+  </lyrics>
+</song>

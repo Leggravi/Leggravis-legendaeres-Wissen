@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>His Kingdom Come</title>
+    </titles>
+    <authors>
+      <author type="words">Geoff Bullock</author>
+      <author type="music">Geoff Bullock</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, God's righteousness revealed
+The Son of Man,
+The Son of God
+His kingdom come
+Jesus, redemption's sacrifice
+Now glorified, now justified
+His kingdom come.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And His kingdom will know no end
+And it's glory shall know no bounds
+For the majesty and power
+of this kingdom's King has come
+And this kingdom's reign,
+And this kingdom's rule
+And this kingdom's power and authority
+Jesus, God's righteousness revealed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, the expression of God's love
+The Grace of God,
+The Word of God
+Revealed to us,
+Jesus, God's holiness displayed.
+Now glorified, now justified
+His kingdom come.</lines>
+    </verse>
+  </lyrics>
+</song>

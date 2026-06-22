@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Praise Him (2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise Him, praise Him
+Praise Him, praise Him
+Jesus, blessed savior
+He's worthy to be praised</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise Him, praise Him
+Praise Him, praise Him
+Jesus, blessed savior (Jesus, blessed savior)
+He's worthy to be praised (He's worthy to be praised)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From the rising of the sun
+Until the going down of the saint
+He is worthy, Jesus is worthy
+He's worthy to be praised</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Glory, glory (oh, let's give God the glory)
+Glory, glory (oh, let's give Him the glory)
+Jesus, blessed savior (blessed savior)
+He's worthy to be praised (He's worthy to be praised)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>God is our rock (is our rock)
+Hope of salvation (He's our hope of salvation)
+A strong Deliverer (a strong deliverer)
+In Him will I always trust (in Him will I, oh, trust)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Praise Him, praise Him (oh, let us praise Him)
+Praise Him, praise Him (oh, let us praise Him)
+Jesus, blessed savior (blessed savior)
+He's worthy to be praised (He's worthy to be praised)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>God is our rock (is our rock)
+Hope of salvation (He's our hope of salvation)
+A strong Deliverer
+In Him will I always trust (in Him will I trust)</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Praise Him, praise Him (oh, let us praise Him)
+Praise Him, praise Him (oh, let us praise Him)
+Jesus, blessed savior (blessed savior)
+He's worthy to be praised (He's worthy to be praised)
+Worthy to be praised (worthy to be praised)</lines>
+    </verse>
+  </lyrics>
+</song>

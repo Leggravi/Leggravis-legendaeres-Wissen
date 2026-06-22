@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 22, 2022, 6:36:41 PM">
+  <properties>
+    <titles>
+      <title>I've Never Been This Homesick</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>There's a light in the window,
+The table's spread in splendor;
+Someone's standing by the open door.
+I can see the crystal river,
+So I must be near forever;
+Lord, I've never been this homesick before.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>See the bright light shine!
+It's just about home time.
+I can see my Father standing at the door.
+This world has been a wilderness,
+And I'm ready for deliverance.
+Lord, I've never been this homesick before.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>I can see the family gather,
+Sweet faces, all familiar;
+No one's old or feeble anymore.
+This old lonesome heart is cryin';
+Think I'll spread my wings for flyin'.
+Lord, I've never felt this homesick before.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God's Not Dead, He Is Alive</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Bashta</author>
+      <author type="music">Daniel Bashta</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God’s not dead,
+He is Alive
+God’s not dead,
+He is Alive
+God’s not dead,
+He is Alive
+I can feel Him all over me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I can feel Him in my hands
+I can feel Him in my feet
+I can feel Him everywhere
+I can feel Him all over me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I can feel Him in the air
+I can feel Him in the Church
+I can feel Him on the street
+I can feel Him all over me</lines>
+    </verse>
+  </lyrics>
+</song>

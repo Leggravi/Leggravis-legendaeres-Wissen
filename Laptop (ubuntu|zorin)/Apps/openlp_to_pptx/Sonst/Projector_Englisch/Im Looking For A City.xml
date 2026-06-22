@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm Looking For A City</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm looking for a city,
+The one not made by hands,
+I'm looking over Jordan,
+I see the promised land,
+The waters will be parted
+And I'll be on my way,
+As we're crossing over Jordan
+I can say:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now I have that everlasting joy within,
+Since He came and took away my sin,
+The moment that He blessed me,
+He made me fully whole,
+With that everlasting joy
+Within my soul.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm drinking from the fountain
+That floweth from on high,
+A well of blessed waters
+That never shall run dry,
+I'm feasting on God's manna,
+I'm praying day by day,
+And that everlasting joy
+Is here to stay.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I've heard the prophet's message,
+I've placed it in my heart,
+I've got the revelation
+That never shall depart,
+The Rapture is upon us,
+The stage is set to go.
+We have this precious promise
+We all know.</lines>
+    </verse>
+  </lyrics>
+</song>

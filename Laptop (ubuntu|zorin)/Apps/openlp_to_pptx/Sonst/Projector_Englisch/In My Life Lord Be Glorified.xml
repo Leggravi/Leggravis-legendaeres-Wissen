@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In My Life Lord Be Glorified</title>
+    </titles>
+    <authors>
+      <author type="words">Bob Kilpatrick</author>
+      <author type="music">Bob Kilpatrick</author>
+      <author type="translation">Sei verherrlicht</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In my life, Lord, be glorified, be glorified
+In my life. Lord, be glorified today.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In your Bride, Lord, be glorified, be glorified,
+In your Bride, Lord, be glorified today.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In your Word, Lord be glorified, be glorified,
+In your Word, Lord, be glorified today.</lines>
+    </verse>
+  </lyrics>
+</song>

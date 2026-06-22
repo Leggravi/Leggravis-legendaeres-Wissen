@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Standing In the Need of Prayer</title>
+    </titles>
+    <authors>
+      <author type="words">Spiritual</author>
+      <author type="music">Spiritual</author>
+      <author type="translation">Ich bin's, ich bin's, ich bin's o Gott</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It’s me, it’s me Oh Lord!
+Standing in the need of prayer (x2)
+Not my mother not my father but its me Oh Lord!
+Standing in the need of prayer, it’s me, it’s me, Oh Lord!
+Standing in the need of prayer.</lines>
+    </verse>
+  </lyrics>
+</song>

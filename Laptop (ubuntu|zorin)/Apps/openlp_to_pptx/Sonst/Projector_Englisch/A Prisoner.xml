@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>A Prisoner</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I could be a drift on life’s ocean
+And I could be in darkness of sin
+Well I could be in search of
+life’s meaning
+And I may be lost, but thank God that
+I am saved.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And now I am free from all sin and shame,
+I’m walking in the light of the
+Word of God,
+No longer in darkness,
+and no more will I stray
+I’m a prisoner,
+to the one that's in my soul.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I thank God that I am a prisoner,
+Yes, I’m so glad that Jesus took me in,
+Let me never shame my calling,
+And when time is o'er let eternity come in</lines>
+    </verse>
+  </lyrics>
+</song>

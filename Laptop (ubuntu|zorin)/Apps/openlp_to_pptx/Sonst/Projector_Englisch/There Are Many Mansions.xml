@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There Are Many Mansions</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Down the streets I see them building
+a mansion
+A lot of time is spent in
+building worldly fame
+Until I’ve learned to live
+in a mansion
+One that’s built by
+the King of Kings.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I don’t care for things on
+earth or treasure
+For life is too short for me to spend
+It chasing dreams
+But up yonder,
+we’ll live on for ever,
+in a kingdom ruled by the
+King of Kings.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In my Father’s house,
+there are many mansions
+If it were not so I would have
+told you so,
+I’ll be leaving and some day
+I will join Him in that city
+where the streets are as
+pure as gold.</lines>
+    </verse>
+  </lyrics>
+</song>

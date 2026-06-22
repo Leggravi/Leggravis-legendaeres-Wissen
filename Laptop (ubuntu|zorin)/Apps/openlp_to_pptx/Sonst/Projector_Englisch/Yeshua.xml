@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Yeshua</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My beloved is the most beautiful
+Among thousands and thousands
+My beloved is the most beautiful
+Among thousands and thousands</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My beloved is the most beautiful
+Among thousands and thousands</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yeshu hu oo oo ah, ha aa aa aa, ah aa aa aa
+Yeshu hu oo oo ah, ha aa aa aa, ah aa aa aa</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For yours is the kingdom
+Yours is the power
+Yours in the glory forever Amen</lines>
+    </verse>
+  </lyrics>
+</song>

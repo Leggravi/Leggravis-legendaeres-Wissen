@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Why Me Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Kris Kristofferson</author>
+      <author type="music">Kris Kristofferson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Why me Lord, what have I ever done
+To deserve even one
+Of the pleasures I've known
+Tell me Lord, what did I ever do
+That was worth loving you
+Or the kindness you've shown.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord help me Jesus, I've wasted it so
+Help me Jesus I know what I am
+Now that I know that I've need you so
+Help me Jesus, my soul's in your hand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tell me Lord, if you think there's a way
+I can try to repay
+All I've taken from you
+Maybe Lord, I can show someone else
+What I've been through myself
+On my way back to you.</lines>
+    </verse>
+  </lyrics>
+</song>

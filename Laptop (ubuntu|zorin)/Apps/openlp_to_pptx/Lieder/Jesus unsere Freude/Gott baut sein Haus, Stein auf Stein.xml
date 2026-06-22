@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:57">
+  <properties>
+    <titles>
+      <title>Gott baut sein Haus, Stein auf Stein</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Schnitter (1985)</author>
+      <author type="music">Gerhard Schnitter</author>
+    </authors>
+    <ccliNo>4333043</ccliNo>
+    <themes>
+      <theme>Bibel</theme>
+      <theme>Gemeinde</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kein Stein sucht sich seinen Nachbarn aus,
+es geht nach des Bauherren Plan.
+Er wählt und behaut jeden Stein für das Haus,
+und passt sie, einander an.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Die anderen drücken und engen ein,
+doch tragen sie auch und sind Halt.
+Wer lieber allein bleibt der liegt wie ein
+Stein am Boden, nutzlos und kalt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Der Grund ist sicher und felsenfest:
+sein Wort das auch heut zu uns spricht.
+Und wer sich auf andere Worte verlässt,
+der bleibt nicht, sein Werk zerbricht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Der Eckstein, der alles trägt und hält,
+das ist unser Herr, Jesus Christ.
+Durch ihn wird das Haus Gottes fertiggestellt,
+bis alles vollendet ist.</lines>
+    </verse>
+  </lyrics>
+</song>

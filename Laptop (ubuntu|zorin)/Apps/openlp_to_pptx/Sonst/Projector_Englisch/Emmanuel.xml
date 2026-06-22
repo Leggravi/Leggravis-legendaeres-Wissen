@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Emmanuel</title>
+    </titles>
+    <authors>
+      <author type="words">Bob McGee</author>
+      <author type="music">Bob McGee</author>
+      <author type="translation">Immanuel, Immanuel, sein Name</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy, Holy I will bow before
+My Lord and King
+Hallelujah, you have come to us
+You make all things new</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Emmanuel, Jesus Christ
+You'll never let me go
+My shepherd King
+You're watching over me
+Emmanuel</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So amazing, you have named the stars
+Of the deepest night
+Still you love me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You have called my name
+I will follow you
+Emmanuel, Jesus Christ
+You'll never let me go</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My shepherd King
+You're watching over me
+Emmanuel, Emmanuel, Emmanuel, Emmanuel</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Holy, Holy God almighty
+There is none like you
+Holy, Holy God almighty</lines>
+    </verse>
+    <verse name="v7">
+      <lines>There is none like you
+Emmanuel, Jesus Christ
+You'll never let me go</lines>
+    </verse>
+  </lyrics>
+</song>

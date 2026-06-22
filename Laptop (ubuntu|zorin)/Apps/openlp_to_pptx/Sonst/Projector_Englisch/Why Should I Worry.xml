@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Why Should I Worry?</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Out on the waters storms raging high,
+the waters around them were trouble that night,
+fear filled their hearts they felt they would die,
+they failed to remember that the Master was nigh,
+He spoke the words and winds all stood still
+even the waters obey His will,
+He calmed their storms like He will mine,
+if I just remember He lives deep inside.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Why should I worry why should I fear,
+when the very same Jesus, He stays always near,
+He lives in my heart and He hears when I cry,
+I’ll call on His name till the storm passes by.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We read in the Bible when He walked with them,
+brought light to the darkness when the way grew dim,
+how great it would be to have His footsteps in mine,
+and walk with the Master all of the time,
+And when trials come and death seems so nigh,
+I’ll call on the Master I know He’ll get there on time,
+and when sickness comes and my body’s in pain,
+all I have to do is call on His name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I’ll call on His name till the storm passes by.</lines>
+    </verse>
+  </lyrics>
+</song>

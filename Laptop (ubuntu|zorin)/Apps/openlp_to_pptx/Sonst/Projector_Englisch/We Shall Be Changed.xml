@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Shall Be Changed</title>
+    </titles>
+    <authors>
+      <author type="words">Dottie Rambo</author>
+      <author type="music">Dottie Rambo</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We shall be changed,
+We shall be changed,
+Changed from mortal to immortality
+In the twinkling of an eye.</lines>
+    </verse>
+  </lyrics>
+</song>

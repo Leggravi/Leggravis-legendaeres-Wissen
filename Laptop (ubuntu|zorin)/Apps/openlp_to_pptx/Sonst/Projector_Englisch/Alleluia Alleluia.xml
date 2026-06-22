@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Alleluia Alleluia</title>
+    </titles>
+    <authors>
+      <author type="words">Ateliers et Presses de Taizé</author>
+      <author type="music">Ateliers et Presses de Taizé</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alleluia Alleluia
+For our Lord God Almighty reigns
+Alleluia Alleluia
+For our Lord God Almighty reigns
+Alleluia</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy Holy
+Are You Lord God Almighty
+Worthy is the Lamb
+Worthy is the Lamb
+You are Holy
+Holy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Are You Lord God Almighty
+Worthy is the Lamb
+Worthy is the Lamb
+Amen</lines>
+    </verse>
+  </lyrics>
+</song>

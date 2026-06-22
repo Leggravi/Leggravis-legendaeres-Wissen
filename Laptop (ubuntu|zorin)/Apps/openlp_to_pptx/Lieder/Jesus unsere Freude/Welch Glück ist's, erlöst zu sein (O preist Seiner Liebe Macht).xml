@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:18">
+  <properties>
+    <titles>
+      <title>Welch Glück ist's, erlöst zu sein (O preist Seiner Liebe Macht)</title>
+    </titles>
+    <authors>
+      <author type="words">Ernst Heinrich Gebhardt (1875)</author>
+      <author type="music">William Batchelder Bradbury</author>
+    </authors>
+    <ccliNo>4343497</ccliNo>
+    <themes>
+      <theme>Erlösung</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Welch Glück ist's, erlöst zu sein, Herr, durch dein Blut!
+Ich tauche mich tief hinein in diese Flut.
+Von Sünd' und Unreinigkeit bin ich hier frei
+und jauchze voll selger Freud: "Jesus ist treu!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Welch Glück ist's, erlöst zu sein, Herr, durch dein Blut!
+Ich leide nicht länger Pein, habe nun Mut:
+Mir ging ja ein neues Licht gnadenvoll auf,
+drum zweifle ich ferner nicht in meinem Lauf.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Welch Glück ist's, erlöst zu sein, Herr, durch dein Blut!
+Das heilt die Gebrechen fein, macht alles gut.
+Hier wandelt der Sorgen Heer schnell sich in Lust.
+Man weinet und klagt nicht mehr an Jesu Brust.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Jesu, Gekreuzigter, dir jauchz ich zu!
+Mein Heiland, mein Gott und Herr, in dir ist Ruh.
+Mit dir überwind ich weit des Todes Macht.
+O Wort voller Seligkeit: Es ist vollbracht!</lines>
+    </verse>
+  </lyrics>
+</song>

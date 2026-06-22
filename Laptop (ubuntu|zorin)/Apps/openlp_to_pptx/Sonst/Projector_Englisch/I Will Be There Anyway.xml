@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Will Be There Anyway</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I hope to live till Jesus comes
+back to this earth again,
+And catches up His chosen bride,
+a thousand years to reign,
+But should I die before that time
+I know this empty clay,
+Will be caught up to meet the Lord;
+I’ll be there anyway.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh praise the Lord for this
+great hope
+That cheers me day by day,
+For if I’m not caught up alive,
+I’ll be there anyway.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So farewell friends if we should
+part on earth to meet no more,
+I’ll meet you in the skies some day
+when earthy clouds are rolled
+But should I die before that time and
+you are alive that day,
+Just look for me for I intend,
+to be there anyway.</lines>
+    </verse>
+  </lyrics>
+</song>

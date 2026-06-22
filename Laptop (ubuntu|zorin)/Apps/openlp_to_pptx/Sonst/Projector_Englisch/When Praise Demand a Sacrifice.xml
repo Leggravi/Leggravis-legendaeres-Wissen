@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When Praise Demand a Sacrifice</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The call to go to mount Moriah
+Came to Abraham
+But the offering placed
+Before the Lord was not a lamb
+He bound His only son
+And when the knife was raised
+A sacrifice became the price of praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When praise demands a sacrifice,
+I'll worship even then
+Surrendering the dearest things in life
+And if devotion costs me all
+He'll find me faithful to His call
+When praise demands a sacrifice</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The call to go to Calvary
+Came to God's own Son
+An altar waited for the lamb
+He would become
+His hands reached up to heaven
+As the cross was raised
+And with His life
+He paid the price of praise</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God hears the words of praise we lift
+Yet I have found
+He's honored more by what I'm willing to lay down</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I'll worship even then
+Surrendering the dearest things in life
+And if devotion costs me all
+He'll find me faithful to His call
+When praise demands a sacrifice</lines>
+    </verse>
+  </lyrics>
+</song>

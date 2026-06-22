@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Holy Is the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Kelly Green</author>
+      <author type="music">Kelly Green</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v1 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We stand and lift up our hands
+For the joy of the Lord is our strength
+We bow down and worship Him now
+How great, how awesome is He</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy is the Lord God Almighty
+The earth is filled with His glory
+Holy is the Lord God Almighty
+The earth is filled with His glory</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy is the Lord God Almighty
+The earth is filled with His glory
+Holy is the Lord God Almighty
+The earth is filled with His glory
+The earth is filled with His glory
+The earth is filled with His glory</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Holy is the Lord God Almighty
+The earth is filled with His glory
+Holy is the Lord God Almighty
+The earth is filled with His glory
+The earth is filled with His glory</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Take me back</title>
+    </titles>
+    <authors>
+      <author type="words">Andraé Crouch</author>
+      <author type="music">Andraé Crouch</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I remember when I was young
+And Your voice, shouting loud my name
+And since that moment
+I haven't heard it quite that way
+Well, now that I’m older
+Could You say it again?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I remember I was afraid
+And, oh, the hand I felt lead the way
+And for the first time in my life I felt safe
+Well, God, now that I’m older
+Would You lead me again?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, when the storm's out on the ocean
+And the violent wind get’s to blowing
+Oh, take me back, back
+All the way back
+Oh, take me back to my first love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I remember when I was blind
+And then Your love opened up my eyes
+And oh, the light that flooded with Your light
+Now that I’m older
+Could You show me again?
+Oh, would You show me again?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>'Cause when the storm's out on the ocean
+And the violent wind get’s to blowing
+Oh, take me back, back
+All the way back
+Oh, take me back to my first love</lines>
+    </verse>
+    <verse name="v6">
+      <lines>'Cause You are real to me
+I have known it from the start
+And there’s no space between
+The heavens and my heart
+You are near to me
+I’ve never been too far, hey
+And in the in-between
+You brought heaven to my heart, yeah</lines>
+    </verse>
+    <verse name="v7">
+      <lines>'Cause when the storm's out on the ocean
+And the violent wind get’s to blowing
+Oh, take me back, back (Take me back, take me back)
+All the way back (Hey)
+Oh, take me back, back (Take me back, take me back)
+All the way back (Hey)
+Oh, take me back, back (I wanna go, I wanna go)
+All the way back
+Oh, take me back to my first love</lines>
+    </verse>
+  </lyrics>
+</song>

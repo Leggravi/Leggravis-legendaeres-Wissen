@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Windows of Heaven</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The windows of Heaven are open,
+The blessings are falling tonight,
+There’s joy, joy, joy in my heart,
+For Jesus makes everything right;
+I gave Him my old tattered garment,
+He gave me a robe of pure white,
+I’m feasting today on the Manna,
+And that’s why I’m happy tonight.</lines>
+    </verse>
+  </lyrics>
+</song>

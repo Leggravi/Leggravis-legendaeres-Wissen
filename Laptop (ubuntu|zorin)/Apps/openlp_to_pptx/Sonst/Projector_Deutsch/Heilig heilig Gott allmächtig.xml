@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heilig, heilig, Gott allmächtig</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Jacobi</author>
+      <author type="music">Brenton Brown</author>
+      <author type="translation">Holy, holy, God Almighty</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heilig, heilig, Gott allmächtig, der da war und der da kommt.
+Du bist würdig, Du bist herrlich, wir knien vor Deinem Thron (2x)
+® Heilig ist Dein Name in aller Welt.
+Gnädig und gerecht ist, was Du tust. Deine Wege sind vollkommen gut
+| : Heilig, heilig, Gott ,bist Du :| (2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>( ℬ ) Wir geben die Ehre nur Dir allein,
+denn Weisheit und Stärke sind dein
+®</lines>
+    </verse>
+  </lyrics>
+</song>

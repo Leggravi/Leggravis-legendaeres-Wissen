@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It Was Not the Nails</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It was not the nails that held
+Our Lord to the cross,
+It was His love for you and me,
+The crown of thorns He did not
+have to bear
+But for love He went to Calvary.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And when that old rugged cross
+Attains the goal,
+And the face of the Saviour
+we’ll behold
+It will be worth everything
+When we will see the King
+And hear Him say,
+my child well done!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On that old rugged cross
+He paid the price for you and me
+Oh such love the world has
+never known
+And by His love and by His grace
+We shall look upon His face
+And hear Him say,
+&quot;my child well done!&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

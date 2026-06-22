@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Throw Out The Life-Line</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Throw out the Life-Line
+Across the dark wave,
+There is a brother
+Whom someone should save;
+Somebody's brother!
+Oh, who then will dare
+To throw out the Life-Line,
+His peril to share?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Throw out the Life-Line!
+Throw out the Life-Line!
+Someone is drifting away!
+Throw out the Life-Line!
+Throw out the Life-Line!
+Someone is sinking today.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Throw out the Life-Line
+With hand quick and strong;
+Why do you tarry,
+Why linger so long?
+See! he is sinking;
+Oh hasten today
+And out with the Life-Boat!
+Away, then, away!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Throw out the Life-Line
+To danger-fraught men,
+Sinking in anguish
+Where you've never been;
+Winds of temptation
+And billows of woe
+Will soon hurl them out
+Where the dark waters flow.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Soon will the season
+Of rescue be o'er,
+Soon will they drift
+To eternity's shore;
+Haste then, my brother,
+No time for delay,
+But throw out the Life-Line
+And save them today.</lines>
+    </verse>
+  </lyrics>
+</song>

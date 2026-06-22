@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Why God (... do people have to die...) </title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v3 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Why God do people
+have to die?
+A daughter or a son,
+Sudden and so young
+Long before their time?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Why God do people fall apart?
+A promise and a ring
+becomes a broken thing
+A road that got too hard?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I don't understand,
+but I understand</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Why God? I need You
+It's why God I run
+to Your arms,
+Over and over again
+It's why God I cling to Your love
+And hold on for dear life
+And I find You are
+right by my side</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Why God do we
+feel so alone?
+Every single day fighting
+through the pain
+Hoping there is hope?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Give me a faith stronger
+than I have, i need to know
+when it hurts this bad,
+That You hold my
+heart when it breaks
+And I'm not alone in this place</lines>
+    </verse>
+    <verse name="v7">
+      <lines>That's why God I need You
+Why God? I run to Your arms
+Over and over again
+It's why God I cling to Your love
+And hold on for dear life
+And I find You are
+right by my side</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Always right by my side
+Even here in the why God</lines>
+    </verse>
+  </lyrics>
+</song>

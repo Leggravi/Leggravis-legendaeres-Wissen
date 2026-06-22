@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:40">
+  <properties>
+    <titles>
+      <title>Herr, mein Heiland und mein Hirte</title>
+    </titles>
+    <authors>
+      <author type="words">Dora Rappard (1887)</author>
+      <author type="music">Du, mein ew’ges Teil und Leben</author>
+    </authors>
+    <ccliNo>5795453</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, mein Heiland und mein Hirte,
+der des Lebens Bahn mir brach,
+ich bin Dein von ganzem Herzen,
+Dir nur will ich folgen nach! Dir nach!
+Dir nach! Dir nach! Dir nach!
+Ich bin Dein von ganzem Herzen,
+Dir nur will ich folgen nach!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist meine Sonn in Freuden,
+Du mein Trost in Ungemach;
+seh ich Deines Fußes Spuren,
+o da will ich folgen nach! Dir nach!
+Dir nach! Dir nach! Dir nach!
+Seh ich Deines Fußes Spuren,
+o da will ich folgen nach!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nimm mich hin zu Deinem Dienste,
+tue, was Dein Mund versprach,
+geh voran, Du großer Meister,
+so will ich Dir folgen nach!
+Dir nach! Dir nach! Dir nach! Dir nach!
+Geh voran, Du großer Meister,
+so will ich Dir folgen nach!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Führ mich durch dies Erdentale,
+halt mein Herze treu und wach,
+bis Du kommst, dann hin zum Throne,
+lass mich froh Dir folgen nach! Dir nach!
+Dir nach! Dir nach! Dir nach!
+Durch die Schmach zur Ehrenkrone,
+Herr, Dir will ich folgen nach!</lines>
+    </verse>
+  </lyrics>
+</song>

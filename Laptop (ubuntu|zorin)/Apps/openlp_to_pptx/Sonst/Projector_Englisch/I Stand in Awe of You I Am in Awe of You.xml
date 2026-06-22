@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Stand in Awe of You (I Am in Awe of You)</title>
+    </titles>
+    <authors>
+      <author type="words">Jeff Deyo</author>
+      <author type="music">Jeff Deyo</author>
+      <author type="translation">Voller Ehrfurcht steh ich hier (Du bist der Heilige)</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are beautiful beyond description,
+Too marvelous for words;
+Too wonderful for comprehension,
+Like nothing ever seen or heard.
+Who can stand your infinite wisdom?
+Who can fathom the depths of your love?
+You are beautiful beyond description,
+Majesty enthroned above.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I stand, I stand in awe of you
+I stand, I stand in awe of you
+Holy God to whom all praise is due
+I stand in awe of You</lines>
+    </verse>
+  </lyrics>
+</song>

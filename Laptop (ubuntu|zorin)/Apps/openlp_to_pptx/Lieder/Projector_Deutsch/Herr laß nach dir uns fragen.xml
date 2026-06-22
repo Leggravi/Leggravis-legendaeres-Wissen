@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, laß nach dir uns fragen</title>
+    </titles>
+    <authors>
+      <author type="words">Hugo Hartnack</author>
+      <author type="music">Melchior Teschner</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, lass nach Dir uns fragen,
+die wir versammelt hier;
+Bei uns ist Not und Zagen,
+doch Füll' und Kraft bei Dir!
+Schenk uns aufs neu' den Segen,
+Herr, Deiner Gegenwart!
+Du selbst bist ja zugegen,
+wo man um Dich sich scharrt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Woll'st durch den Geist uns führen
+in Deine Wahrheit ein,
+laß Deine Kraft verspüren,
+lehr uns besonnen sein!
+Laß unters Wort uns beugen
+in ehrfurchtsvoller Scheu,
+mach uns zu Deinen Zeugen
+gewissenhaft und treu!</lines>
+    </verse>
+  </lyrics>
+</song>

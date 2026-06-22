@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Called by Name</title>
+    </titles>
+    <authors>
+      <author type="words">Jan Meyer</author>
+      <author type="music">Jan Meyer</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I consider
+The works of your fingers
+The sun and the stars
+The land and the sea
+I start to wonder
+Almighty Creator
+Just why you would ever
+Take thought of me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yet you have called me
+by name
+You are acquainted with all my ways
+Bought by your blood,
+drawn by your love,
+I am your dwelling place.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For you have called me
+your friend
+Showing me favour again and again
+I’m set apart close to your side
+You called me by name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All of creation was made
+for your pleasure
+The sun and the stars,
+the land and the sea
+But by your grace,
+you have given me favour
+With you I will dwell for eternity.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bought by your blood
+Drawn by your love
+I am your dwelling place.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I am set apart
+Close to your side
+You called me by name.</lines>
+    </verse>
+  </lyrics>
+</song>

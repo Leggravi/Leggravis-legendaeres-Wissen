@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 19, 2020, 9:52:30 PM">
+  <properties>
+    <titles>
+      <title>Du gewannst für uns die Siegeskron</title>
+    </titles>
+    <verseOrder>V1 V2 V3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Du gewannst für uns die Siegeskron,
+triumphiertest über Sünd und Tod.
+Dein Name hoch erhöht,
+klingt durch die Erde weit.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Alle Macht der Finsternis erbebt,
+wenn dein Name angerufen wird.
+Wir, deine Kirche treiben deinen Sieg in der Welt voran.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Welch ein Name voller Kraft,
+voller Herrlichkeit und Pracht!
+Nichts ist vergleichbar diesem
+Namen groß an Macht!
+Du bist Jesus!
+Du bist Herr!
+Du bist Gott!</lines>
+    </verse>
+  </lyrics>
+</song>

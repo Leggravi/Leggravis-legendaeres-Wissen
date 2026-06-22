@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Good Old Fashioned Way</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am on the gospel highway
+Pressing forward to the goal
+Where for me a rest remaineth
+In the home-land of the soul,
+Every hour I’m moving onward
+Not a moment to delay
+I am going home to glory
+In the good old fashioned-way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>{In the good old fashioned-way
+In the good old fashioned-way
+I am going home to glory
+In the good old fashioned-way} X2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From the snares of sinful pleasure
+Here my feet are always free
+Tho’ the way may be called narrow
+It is wide enough for me,
+It was wide enough for Daniel
+And for David in his day
+I am glad that I can follow
+In the good old fashioned-way.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Many friends have gone before me
+They have laid their armour down
+With the pilgrims and the martyrs
+Have obtained a robe and crown
+On this road they fought their
+battles
+Shouting vict’ry day by day
+I shall overcome and join them
+In the good old fashioned-way.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Just a few more steps to follow
+Just a few more days to roam
+But the way grows more delightful
+As I’m drawing nearer home
+When the storms of life are over
+And the clouds have rolled away
+I shall find the gates of heaven
+In the good old fashioned-way.</lines>
+    </verse>
+  </lyrics>
+</song>

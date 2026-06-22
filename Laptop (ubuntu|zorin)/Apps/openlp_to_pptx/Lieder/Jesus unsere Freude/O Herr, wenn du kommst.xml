@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:06">
+  <properties>
+    <titles>
+      <title>O Herr, wenn du kommst</title>
+    </titles>
+    <authors>
+      <author type="words">Helga Poppe (1979)</author>
+      <author type="music">Helga Poppe</author>
+    </authors>
+    <themes>
+      <theme>Wiederkunft</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Herr wenn du kommst,
+wird die Welt wieder neu,
+denn heute schon baust du dein Reich unter uns,
+und darum erheben wir froh unser Haupt.
+O Herr, wir warten auf dich.
+O Herr, wir warten auf dich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Herr, wenn du kommst,
+wird es Nacht um uns sein,
+drum sei unser Licht, Herr, und halte uns wach.
+Und wenn du dann heimkommst,
+nimm uns an dein Herz.
+O Herr, wir warten auf dich.
+O Herr, wir warten auf dich.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Herr, wenn du kommst,
+jauchzt die Schöpfung dir zu,
+denn deine Erlösung wird vollkommen sein.
+Das Leid wird von all deiner Klarheit durchstrahlt.
+O Herr, wir warten auf dich.
+O Herr, wir warten auf dich.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Herr, wenn du kommst,
+hält uns nichts mehr zurück,
+wir laufen voll Freude den Weg auf dich zu.
+Dein Fest ohne Ende steht für uns bereit.
+O Herr, wir warten auf dich.
+O Herr, wir warten auf dich.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>So sind deine Worte</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wie auf dunklem Weg ein Licht,
+wie ein Leuchtturm in der Nacht,
+wie ein Kompass, der mir meine Richtung zeigt,
+wie ein Berg mit klarer Sicht,
+wie ein Tag, der neu erwacht,
+wie ein Buch, das mir dein Wesen, Herr, beschreibt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So sind deine Worte, Worte des Lebens,
+Worte der Liebe, so sprichst du zu mir.
+Offene Ohren, offene Augen, offene Hände,
+gib mir, Herr, dafür.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wie ein Hammer, der zerschlägt,
+wie ein Schwert, das treffen wird,
+und das in die Tiefe meiner Seele dringt,
+wie ein Zuspruch, der mich trägt,
+eine Stimme, die mich führt,
+Medizin, die Heilung für mein Leben bringt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wie ein Hauch aus deiner Welt,
+Brot, das meinen Hunger stillt,
+und wie Wasser, das die Trockenheit belebt,
+wie ein Versprechen, das man hält,
+das für alle Zeiten gilt,
+und das mich in deine Gegenwart erhebt</lines>
+    </verse>
+  </lyrics>
+</song>

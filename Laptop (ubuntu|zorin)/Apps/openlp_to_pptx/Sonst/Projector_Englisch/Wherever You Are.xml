@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wherever You Are</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Are you standing at a crossroad, wondering which road you should take?
+And you're dreading the decision and a possible mistake,
+But the will of God won't lead you where the grace of God can't keep you,
+You will never be out of His care,
+Remember that the lord's already there.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wherever you are, wherever you're going,
+God is right there beside you seeing and knowing,
+Wherever you go, He already knows what lies ahead and what's behind,
+You'll always find He's never too far from wherever you are.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are waiting to hear thunder and see lightening in the sky,
+Oh, but God can work His wonders through a still small voice inside,
+Just keep listening and learning and continue on your journey,
+Following the one who is the way,
+Oh, He's the only road you need to take.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wherever you go, He already knows what lies ahead and what's behind,
+You'll always find that He's never too far from wherever you are.</lines>
+    </verse>
+  </lyrics>
+</song>

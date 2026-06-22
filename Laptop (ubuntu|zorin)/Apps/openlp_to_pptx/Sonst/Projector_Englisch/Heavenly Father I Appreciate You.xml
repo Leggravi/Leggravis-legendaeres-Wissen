@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heavenly Father I Appreciate You</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Unbekannt</author>
+      <author type="translation">Himmlischer Vater, wir beten dich an</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heavenly Father I appreciate you
+Heavenly Father I appreciate you
+I love you, adore you
+I bow down before you
+Heavenly Father I appreciate you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Son of God what a wonder you are
+Son of God what a wonder you are
+You've cleansed my soul from sin
+Sent the Holy Ghost within
+Son of God what a wonder you are.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy Ghost what a comfort you are
+Holy Ghost what a comfort you are
+You lead us, you guide us
+You live right inside us
+Holy Ghost what a comfort you are.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Heavenly Father we appreciate you
+Heavenly Father we appreciate you
+We love you, adore you
+We bow down before you
+Heavenly Father we appreciate you.</lines>
+    </verse>
+  </lyrics>
+</song>

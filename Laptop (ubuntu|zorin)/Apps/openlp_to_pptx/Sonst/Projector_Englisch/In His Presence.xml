@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In His Presence</title>
+    </titles>
+    <authors>
+      <author type="words">Melodie Tunney</author>
+      <author type="music">Melodie Tunney</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When did God, ever leave you?
+When did He, ever forsake you?
+He is always there for you
+His grace is always sufficient for you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Just hold on, don`t you ever let go
+For His promises are sure
+He said that He will go, and prepare a place for us
+And come again to take us away.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Over there, on the other side
+I will sing of His praise and worship
+And forevermore, I'll be at His side
+And will never be apart in His presence</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God did never, ever leave you
+He never did, and will never forsake you
+He is always there for you
+His grace is always sufficient for you</lines>
+    </verse>
+  </lyrics>
+</song>

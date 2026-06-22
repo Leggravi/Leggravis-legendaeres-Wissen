@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There Is A Name</title>
+    </titles>
+    <authors>
+      <author type="words">Robin Mark</author>
+      <author type="music">Robin Mark</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v3 v3 v7 v8 v7 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a name
+Who reigns without contention
+Whose power can't be questioned or contained</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With humble fame
+He rules the earth and heavens
+His glory knows no measure or refrain
+And it's bursting past the border lines of space</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus
+Enthroned upon the praises of our hearts
+Jesus
+You're the King and You're the center of it all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There is a name
+Reaching past the margins
+Calling sons and daughters back to Him</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And as He saves
+We can hear the roar of Heaven
+As prodigals are coming home again</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh the triumph of His name will never end</lines>
+    </verse>
+    <verse name="v7">
+      <lines>For every eye will see
+Every heart will know
+There is no name above
+The name of Jesus</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Death could not hold Him down
+No grave could keep Him bound
+All sin and sickness bow
+To the name of Jesus</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Death could not hold Him down
+No grave could keep Him bound
+All sin and sickness bow
+To the name of Jesus
+To the name of Jesus
+To the name of Jesus</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Jesus
+Enthroned upon the praises of our hearts
+Jesus
+You're the King and You're the center of it all
+Jesus
+Enthroned upon the praises of our hearts
+Jesus
+You're the King and You're the center of it all
+Jesus
+Enthroned upon the praises of our hearts
+Jesus
+You're the King and You're the center of it all
+Jesus
+Enthroned upon the praises of our hearts
+Jesus
+You're the King and You're the center of it all
+Jesus
+Enthroned upon the praises of our hearts
+Jesus
+You're the King and You're the center of it all</lines>
+    </verse>
+  </lyrics>
+</song>

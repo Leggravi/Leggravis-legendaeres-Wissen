@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Holy, Holy, Holy Is the Lord Hosts</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy, holy, holy is the Lord of hosts,
+Holy, holy, holy is the Lord of hosts,
+The whole earth is full of his glory,
+The whole earth is full of his glory,
+The whole earth is full of his glory,
+Holy is the Lord!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All of Me</title>
+    </titles>
+    <authors>
+      <author type="words">Mike Busbee</author>
+      <author type="music">Mike Busbee</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All of me, take all of me
+Here's my life as an offering
+I will serve you faithfully
+Here I am, Lord take all of me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nothing less than everything
+Will I give to you my king
+You gave all at Calvary
+So here I am, Please take all of me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No reserve and no retreat
+Till I fall down at your feet
+Faithful to your call I'll be
+So use me Lord, you have all of me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Where you lead me I will follow
+Where you send me I will go
+I will tell the world that's dying
+That you blood can make them whole</lines>
+    </verse>
+  </lyrics>
+</song>

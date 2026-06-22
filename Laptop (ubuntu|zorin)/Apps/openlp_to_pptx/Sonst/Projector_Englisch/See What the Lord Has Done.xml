@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>See, What the Lord Has Done</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>See, what the Lord has done,
+See, what the Lord has done,
+What we've waited for, has come to pass,
+See, what the Lord has done.</lines>
+    </verse>
+  </lyrics>
+</song>

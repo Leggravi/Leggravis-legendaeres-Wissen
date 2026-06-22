@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heart of a Servant</title>
+    </titles>
+    <authors>
+      <author type="words">Kelly Willard</author>
+      <author type="music">Kelly Willard</author>
+      <author type="translation">Dein treuer Diener</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Standing in awe of your grace
+Setting my feet in your ways
+Entering into your presence
+To behold you face to face</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God of all heaven and earth
+Holding me in your embrace
+Unfailing love that surrounds me
+Oh… God I stand amazed</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My Jesus, my Lord
+You're the love of my life
+Wherever you go
+Wanna be by your side
+No longer I
+But Christ living in me
+Serving you for all eternity</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My eyes set on you
+In this race that I run
+No longer my ways
+Let your will be done</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Make me a servant
+My heart's ever true
+Clinging to the cross
+I'll follow you
+I'll follow you</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I'll follow you
+I'll follow you</lines>
+    </verse>
+  </lyrics>
+</song>

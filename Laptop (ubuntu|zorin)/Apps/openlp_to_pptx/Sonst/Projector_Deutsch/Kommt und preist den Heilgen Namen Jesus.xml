@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Kommt und preist den Heilgen Namen Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Ute Spengler</author>
+      <author type="music">Eddie Espinosa</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kommt und preist den Heilgen Namen Jesus
+Lobpreis und Ehre bringen wir.
+Du bist König und Herrscher, Du, der Heil'ge Israels.
+Kommt und preist den Heilgen Namen Jesus
+Lobpreis und Ehre bringen wir . Du bist König und Herrscher,
+Lob sei dir o Herr.
+Dein Name strahlt über die Völker, Dein Name setzt Gefangne frei.
+Dein Name sprengt die dunklen Mächte,
+Dein Name bringt den Sieg allein!</lines>
+    </verse>
+  </lyrics>
+</song>

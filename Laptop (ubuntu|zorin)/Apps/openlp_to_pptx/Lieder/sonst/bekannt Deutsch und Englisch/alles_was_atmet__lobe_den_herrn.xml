@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Aug 14, 2020, 2:18:16 PM">
+  <properties>
+    <titles>
+      <title>Alles was atmet, lobe den Herrn</title>
+    </titles>
+    <verseOrder>V1 V2 C3 V4 C3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Du spannst den Himmel aus wie ein Zelt,
+hüllst mich in Licht wie ein Kleid.
+Berge schmelzen wie Wachs vor dem Herrn,
+vor dem Antlitz des Herrschers aller Welt.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Wir stehen vor deinem Thron.
+Verkünden laut dein Lob.
+Denn du bist unser Gott,
+der König der ganzen Welt.
+Wir stehen vor deinem Thron.
+Verkünden laut dein Lob.
+Denn du bist unser Gott,
+der König der ganzen Welt.</lines>
+    </verse>
+    <verse name="C3">
+      <lines>Alles was atmet, lobe den Herrn,
+singet dem Herrn, dem Herrn ein neues Lied.
+Alles was atmet, lobe den Herrn,
+Hallelujah, Halle, Hallelujah.
+Alles was atmet, lobe den Herrn,
+singet dem Herrn, dem Herrn ein neues Lied.
+Alles was atmet, lobe den Herrn,
+Hallelujah, Halle, Hallelujah.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Lobt ihn ihr Engel,
+lobt ihn ihr Menschen,
+lobt ihn ihr Sterne Sonne und Mond.
+Lobt seinen Namen den Namen des Herrn.
+Lobt ihn ihr Engel,
+lobt ihn ihr Menschen,
+lobt ihn ihr Sterne Sonne und Mond.
+Lobt seinen Namen den Namen des Herrn.</lines>
+    </verse>
+  </lyrics>
+</song>

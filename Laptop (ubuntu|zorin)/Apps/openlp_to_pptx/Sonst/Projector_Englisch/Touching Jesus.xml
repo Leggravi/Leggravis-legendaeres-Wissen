@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Touching Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Touching Jesus, Is all that really matters,
+Then your life will never be the same,
+There’s only one way to touch Him,
+Just believe when you call on His Name.</lines>
+    </verse>
+  </lyrics>
+</song>

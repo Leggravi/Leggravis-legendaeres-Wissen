@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Freuet euch, ihr Christen alle</title>
+    </titles>
+    <authors>
+      <author type="words">Christian Keimann</author>
+      <author type="music">Andreas Hammerschmidt</author>
+      <author type="translation">O rejoice, ye Christians, loudly</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Freuet euch, ihr Christen alle,
+freue sich, wer immer kann;
+Gott hat viel an uns getan.
+Freuet euch mit großem Schalle,
+dass er uns so hoch geacht'
+sich mit uns befreundt gemacht.
+Freude, Freude über Freude:
+Christus wehret allem Leide.
+Wonne, Wonne über Wonne:
+Christus ist die Gnadensonne.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Siehe, siehe, meine Seele,
+wie dein Heiland kommt zu dir,
+brennt in Liebe für und für,
+dass er in der Krippen Höhle
+harte lieget dir zugut,
+dich zu lösen durch sein Blut.
+Freude, Freude über Freude:
+Christus wehret allem Leide.
+Wonne, Wonne über Wonne:
+Christus ist die Gnadensonne.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, wie soll ich dir danken?
+Ich bekenne, dass von dir meine Seligkeit herrühr;
+so laß mich von dir nicht wanken;
+nimm mich dir zu eigen hin,
+so empfindet Herz und Sinn
+Freude, Freude über Freude:
+Christus wehret allem Leide.
+Wonne, Wonne über Wonne:
+Christus ist die Gnadensonne.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, nimm dich deiner Glieder
+ferner noch in Gnaden an;
+schenke, was man bitten kann,
+zu erquicken deine Brüder;
+gib der ganzen Christenschar
+Frieden und ein seligs Jahr.
+Freude, Freude über Freude:
+Christus wehret allem Leide.
+Wonne, Wonne über Wonne:
+Christus ist die Gnadensonne.</lines>
+    </verse>
+  </lyrics>
+</song>

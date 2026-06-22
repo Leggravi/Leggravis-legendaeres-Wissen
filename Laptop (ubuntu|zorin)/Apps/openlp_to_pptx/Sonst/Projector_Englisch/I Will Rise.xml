@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Will Rise</title>
+    </titles>
+    <authors>
+      <author type="words">Louie Giglio</author>
+      <author type="music">Louie Giglio</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I remember way back
+When the Lord come up
+on resurrection morn,
+All the graves were opened
+and the saints began to rise;
+There's a promise for today
+That the dead in Christ
+are gonna come up first,
+And together we'll take
+our mansion in the sky.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will rise
+for my everlasting prize,
+There's a resurrection promise
+in my eyes;
+At the dawn, I believe that
+I'll be good as gone,
+It will come as no surprise,
+I know that I will rise.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There are scoffers all around
+That say that everything's
+just the same,
+And the promise
+they will laugh and criticize;
+But one day they'll see that
+gravity's gonna lose its hold on me,
+They don't realize
+everything in Christ will rise.</lines>
+    </verse>
+  </lyrics>
+</song>

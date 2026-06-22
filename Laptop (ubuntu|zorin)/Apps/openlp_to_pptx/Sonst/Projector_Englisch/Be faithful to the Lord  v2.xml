@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Be faithful to the Lord – v2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Be faithful to the Lord
+While you’re still living,
+Offer yourself to Christ,
+A living sacrifice.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No greater love is there to give,
+That is your life to share,
+To win many souls to Christ,
+Through suffering in pain.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Be faithful to the Lord,
+While you’re still living,
+What is your greatest time,
+To be used in this world.</lines>
+    </verse>
+  </lyrics>
+</song>

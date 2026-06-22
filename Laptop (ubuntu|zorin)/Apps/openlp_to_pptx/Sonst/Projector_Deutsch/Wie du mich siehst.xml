@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wie du mich siehst</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Worunter ich so oft leide, bin ich,
+weil ich mich so oft vergleiche
+mit Bildern, die nicht stimmen.
+Ich sehe viele Geschichten und ich
+hab das Gefühl, dass mir irgendwas fehlt
+und ich reiche mir nicht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wenn ich mich Frage, bin ich gut genug,.
+Sagst du: Perfektion
+ist keine Beschreibung.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich bin gut, wie du mich siehst, so darf ich sein.
+Ganz genau so wie ich bin, so soll ich bleiben.
+Ich bin gut, wie du mich siehst und das reicht mir,
+ganz genau so wie ich bin, so darf ich bleiben.
+Ich bin gut, wie du mich siehst.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du siehst göttliche Vielfalt, in mir.
+Doch ich nur Stärken von andern,
+die mich in den Schatten stellen.
+Es sind große Geschenke, wenn wir
+sie einfach nur teiln, ohne uns zu beneiden
+und uns daran erfreuen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ich bin wundervoll gemacht,
+sagst du, über mich.
+Ich muss mich nicht verstellen.
+Bei dir darf ich einfach sein
+und du zeigst mir, wer ich bin, immer wieder neu.
+Auch wenn ich so oft nicht sehen kann.</lines>
+    </verse>
+  </lyrics>
+</song>

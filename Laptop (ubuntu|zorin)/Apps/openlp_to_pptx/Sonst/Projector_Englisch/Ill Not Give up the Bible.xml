@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'll Not Give up the Bible</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’ll not give up the Bible,
+That precious book divine,
+For glory gilds its pages,
+And truth adorns each line.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’ll never give up that holy book,
+I’ll never give up the Bible;
+I’ll never give up that holy book,
+That precious book divine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though foes may fight against me,
+And enemies combine,
+Its precepts still shall guide me,
+As light from Heav’n they shine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When fate’s wild storms o’ercloud me,
+And loud the billows roar,
+My chart shall be the Bible,
+To guide to Heav’n’s bright shore.</lines>
+    </verse>
+  </lyrics>
+</song>

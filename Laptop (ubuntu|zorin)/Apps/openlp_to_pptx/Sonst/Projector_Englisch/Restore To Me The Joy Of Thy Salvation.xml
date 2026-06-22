@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Restore To Me The Joy Of Thy Salvation</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I seem to lose
+the strength I've had before,
+I need the leadership
+of Your Spirit even more;
+Oh Lord You know
+I feel alone,
+I don't ever want to be on my own,
+anymore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And yet I know that something
+lies ahead,
+And if yield to the Spirit
+I'll be led;
+Within the perfect plan of God,
+In His glory I will trod,
+forever more.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Restore to me the joy
+of Thy salvation,
+Reveal to me the secrets
+of Your heart;
+If I could learn
+to understand Thee,
+I'd see how great Thou art.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Großer Gott, wir loben dich</title>
+    </titles>
+    <authors>
+      <author type="words">Ignaz Franz</author>
+      <author type="music">Lüneburg</author>
+      <author type="translation">Holy God, we praise thy name</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Großer Gott, wir loben Dich;
+Herr, wir preisen Deine Stärke.
+Vor Dir neigt die Erde sich
+und bewundert Deine Werke.
+Wie Du warst vor aller Zeit,
+so bleibst Du in Ewigkeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alles, was Dich preisen kann,
+Cherubim und Seraphinen,
+stimme Dir ein Loblied an;
+alle Engel, die Dir dienen,
+rufen Dir in sel'ger Ruh:
+&quot;Heilig, heilig, heilig!&quot; zu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Heilig, Herr Gott Zebaot
+Heilig, Herr der Himmelschöre!
+Starker Helfer in der Not!
+Himmel, Erde, Luft und Meere
+sind erfüllt von Deinem Ruhm,
+alles ist Dein Eigentum.</lines>
+    </verse>
+  </lyrics>
+</song>

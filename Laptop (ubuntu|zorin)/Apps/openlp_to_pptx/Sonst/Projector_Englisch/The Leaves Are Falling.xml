@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Leaves Are Falling</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The leaves are falling,
+harvest time is past,
+So is it in the Spirit,
+the end is coming fast,
+The time will soon be here
+when Jesus Christ shall come,
+So lift up your head
+your redemption is drawing nigh.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And It will be too late my brother
+then to pray,
+Don’t put off till tomorrow what
+you can do today,
+For you’ll find yourself In judgment
+and you’ll have to pay,
+For the opportunity that has come
+your way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now it’s gleaning time the reapers
+are in the field,
+To find the last of the seed
+the others will not yield,
+And the glory of God will shine for it's
+evening time
+And the true Bride of Christ
+will soon fall into line.</lines>
+    </verse>
+  </lyrics>
+</song>

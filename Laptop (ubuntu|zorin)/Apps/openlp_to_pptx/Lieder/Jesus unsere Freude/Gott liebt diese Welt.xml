@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:07">
+  <properties>
+    <titles>
+      <title>Gott liebt diese Welt</title>
+    </titles>
+    <authors>
+      <author type="words">Walter Schulz (1962)</author>
+      <author type="music">Walter Schulz</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott liebt diese Welt,
+und wir sind sein Eigen.
+Wohin er uns stellt,
+sollen wir es zeigen:
+Gott liebt diese Welt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gott liebt diese Welt.
+Er rief sie ins Leben.
+Gott ist’s, der erhält,
+was er selbst gegeben.
+Gott gehört die Welt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gott liebt diese Welt.
+Feuerschein und Wolke
+und das heilge Zelt
+sagen seinem Volke:
+Gott ist in der Welt!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gott liebt diese Welt.
+Ihre Dunkelheiten
+hat er selbst erhellt:
+im Zenit der Zeiten
+kam sein Sohn zur Welt!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gott liebt diese Welt.
+Durch des Sohnes Sterben
+hat er uns bestellt
+zu des Reiches Erben.
+Gott erneut die Welt!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gott liebt diese Welt.
+In den Todesbanden
+keine Macht ihn hält,
+Christus ist erstanden:
+Leben für die Welt!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Gott liebt diese Welt.
+Er wird wiederkommen,
+wann es ihm gefällt,
+nicht nur für die Frommen,
+nein, für alle Welt!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Gott liebt diese Welt,
+und wir sind sein eigen.
+Wohin er uns stellt,
+sollen wir es zeigen:
+Gott liebt diese Welt!</lines>
+    </verse>
+  </lyrics>
+</song>

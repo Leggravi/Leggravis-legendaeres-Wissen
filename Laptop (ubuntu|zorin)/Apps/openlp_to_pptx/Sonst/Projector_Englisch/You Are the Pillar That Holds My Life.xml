@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Are the Pillar That Holds My Life</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are the pillar that holds my life
+You are the pillar that holds my life
+Master Jesus, you are the pillar that holds my life
+Master Jesus, you are the pillar that holds my life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are the reason I live today
+You are the reason I live today
+Master Jesus, You are the reason I live today
+Master Jesus, You are the reason I live today</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are the reason I live and move
+You are the reason I live and move
+Master Jesus, You are the reason I live and move
+Master Jesus, You are the reason I live and move</lines>
+    </verse>
+  </lyrics>
+</song>

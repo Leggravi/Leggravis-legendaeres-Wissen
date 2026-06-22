@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du sagst Ja</title>
+    </titles>
+    <authors>
+      <author type="words">Hans-Jürgen Netz</author>
+      <author type="music">Fritz Baltruweit</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du sagst Ja
+Aus Liebe sagst du vorbehaltlos Ja
+Ja zu mir
+Du kennst du mich denn noch sagst du Ja</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sagst Ja und weißt doch von meine Schwächen
+Ja trotz allem gilt dein Versprechen
+Dein Ja steht Felsenfest an jedem Tag
+Ich lebe von dem Ja,
+das nicht an Leistung denkt,
+vom Ja das mir Vertrauen schenkt
+Ich staune ich hab' es nicht verdient
+Dein Ja</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich sage ja
+Ich danke dir und antworte mit Ja
+Ja Herr zu dir
+Ich wage es denn du sagst Ja</lines>
+    </verse>
+  </lyrics>
+</song>

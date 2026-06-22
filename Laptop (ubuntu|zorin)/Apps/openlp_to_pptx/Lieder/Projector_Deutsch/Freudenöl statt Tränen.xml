@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Freudenöl statt Tränen</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich rufe Freiheit aus
+Stoße Kerkertüren auf
+Und dir gehört mein Lobpreis
+Kannst Totes neu beleben
+Schenkst Freudenöl statt Tränen
+Und dir gehört mein Lobpreis</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Manchmal, da kann ich nicht anders
+Da muss ich meine Beine bewegen
+Meine Hände zum Himmel heben
+Manchmal, da muss es einfach raus
+Da singe ich
+Oh, oh, oh, oh
+Oh, oh, oh, oh</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verwandelst meine Klage
+In einen Freudentanz
+Und dir gehört mein Lobpreis
+Nimmst meine Trauerkleider
+Gibst mir ein Festgewand
+Dir gehört mein Lobpreis</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Manchmal, da kann ich nicht anders
+Da muss ich meine Beine bewegen
+Meine Hände zum Himmel heben
+Manchmal, da muss es einfach raus
+Da singe ich
+Oh, oh, oh, oh
+Oh, oh, oh, oh</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wenn du mir nah bist
+Dann find ich Frieden
+Dann find ich Freude
+Wenn du mir nah bist
+Weiß mich geborgen
+Fühl mich getragen
+Ich liebe dich
+Ich liebe dich
+Ich liebe dich
+Ja, ich liebe dich</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Manchmal, da kann ich nicht anders
+Da muss ich meine Beine bewegen
+Meine Hände zum Himmel heben
+Manchmal, da muss es einfach raus
+Da singe ich
+Oh, oh, oh, oh
+Oh, oh, oh, oh</lines>
+    </verse>
+  </lyrics>
+</song>

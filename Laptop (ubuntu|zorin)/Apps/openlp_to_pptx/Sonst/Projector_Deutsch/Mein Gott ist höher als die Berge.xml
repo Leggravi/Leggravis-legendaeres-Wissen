@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mein Gott ist höher als die Berge</title>
+    </titles>
+    <authors>
+      <author type="words">Phil Nelson</author>
+      <author type="music">Ian Smale</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mein Gott ist höher als die Berge,
+er ist stärker als die Stärksten,
+er ist klüger als jeder weise Mann;
+mein Gott ist schneller als Raketen,
+er sieht weiter als ein Fernrohr
+und hält das ganze Weltall in der Hand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Seine Liebe ist wärmer als die Sonne,
+tiefer als das tiefste Meer,
+und sie ist da den ganzen Tag für mich.
+Mein Gott, er weiß, was gestern war,
+und er weiß, was morgen wird,
+und er weiß auch alles über dich!</lines>
+    </verse>
+  </lyrics>
+</song>

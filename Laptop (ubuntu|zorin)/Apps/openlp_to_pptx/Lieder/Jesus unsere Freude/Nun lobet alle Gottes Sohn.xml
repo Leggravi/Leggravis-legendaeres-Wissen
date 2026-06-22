@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:31">
+  <properties>
+    <titles>
+      <title>Nun lobet alle Gottes Sohn</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Tersteegen (1745)</author>
+      <author type="music">Machs mit mir, Gott, nach deiner Güt</author>
+    </authors>
+    <ccliNo>4901279</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nun lobet alle Gottes Sohn,
+der die Erlösung funden!
+Beugt eure Knie vor Seinem Thron,
+denn Er hat überwunden!
+Lob, Preis und Ehre sei gebracht dem
+Lamm in Herrlichkeit und Macht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Was wird das sein, wie werden wir
+von ewger Gnade sagen,
+wie Deine Liebe uns schon hier
+gesucht, erlöst, getragen,
+wenn Du uns bringst zusammen dort
+aus jedem Volk, Geschlecht und Ort!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nun lobet alle Gottes Sohn,
+der die Erlösung funden!
+Beugt eure Knie vor seinem Thron!
+Sein Blut hat überwunden.
+Preis, Lob, Ehr', Dank, Kraft, Weisheit, Macht
+sei dem erwürgten Lamm gebracht!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Es war uns Gottes Licht und Gnad'
+und Leben hart verriegelt,
+sein tiefer Sinn, sein Wunderrat
+wohl siebenfach versiegelt.
+Kein Mensch, kein Engel öffnen kann;
+du, Gottes Sohn, du hast's getan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nun, dein erwähltes Volk allhie
+spricht: Halleluja, Amen!
+Wir beugen willig unsre Knie
+in deinem Geist und Namen,
+bis du uns bringst zusammen dort
+aus allem Volk, Geschlecht und Ort.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Was wird das sein! Wie werden wir
+von ew'ger Gnade sagen,
+wie uns dein Wunderführen hier
+gesucht, erlöst, getragen,
+da jedes seine Harfe bringt
+und sein besondres Loblied singt!</lines>
+    </verse>
+  </lyrics>
+</song>

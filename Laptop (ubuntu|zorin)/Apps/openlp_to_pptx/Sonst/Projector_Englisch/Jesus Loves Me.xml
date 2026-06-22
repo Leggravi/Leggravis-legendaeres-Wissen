@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Loves Me</title>
+    </titles>
+    <authors>
+      <author type="words">Ben Glover</author>
+      <author type="music">Ben Glover</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus loves me! This I know,
+For the Bible tells me so;
+Little ones to Him belong,
+They are weak but He is strong.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yes, Jesus loves me,
+Yes, Jesus loves me,
+Yes, Jesus loves me,
+The Bible tells me so.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus loves me! He who died,
+Heaven’s gates to open wide;
+He will wash away my sin,
+Let His little child come in.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus loves me! Loves me still,
+Though I’m very weak and ill;
+From His shining throne on high,
+Comes to watch me where I lie.</lines>
+    </verse>
+  </lyrics>
+</song>

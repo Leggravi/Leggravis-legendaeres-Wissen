@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 14, 2020, 8:04:08 AM">
+  <properties>
+    <titles>
+      <title>Der Löwe und das Lamm</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Wenn Jesus wiederkommt, beugt sich alle Welt vor Ihm
+Ketten brechen, wenn: zerbroch'ne Herzen Ihn verehr'n
+Wer kann unsern Gott aufhalten</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Denn Er ist der Löwe, der Löwe von Juda
+Sein Brüllen ist mächtig, Er kämpft unsere Kämpfe
+Und jeder wird sich vor Ihm beugen
+Denn Er ist das Lamm, geschlachtet für uns
+Für die Sünden der Welt, und Sein Blut befreit
+Und jeder wird sich beugen vor dem Löwen und dem Lamm
+Und jeder wird sich vor Ihm beugen</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Kommt öffnet Ihm das Tor, und bahnt den Weg dem Herrn der Herrn
+Der Gott, der uns erlöst, ist hier und setzt Gefang'ne frei
+Denn wer kann unser Gott aufhalten</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Wer kann unsern Gott aufhalten
+Wer kann unsern Gott aufhalten
+Wer kann unsern Gott aufhalten
+Niemand hält Ihn auf</lines>
+    </verse>
+  </lyrics>
+</song>

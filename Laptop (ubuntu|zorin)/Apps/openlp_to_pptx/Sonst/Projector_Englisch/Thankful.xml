@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thankful</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One for each blessed day.
+Two, every breath I take.
+Three for my family.
+Four, all they mean to me.
+Five, just to be alive.
+Six for the earth and sky.
+And seven for heaven,
+For every good thing that I have comes from God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Every day, every hour,
+There are blessings He sends
+Without number or end.
+If I counted a hundred or a thousand, I’m sure
+There would still be more to be thankful for.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eight for the chance to grow;
+Nine, heart and hands and soul.
+Ten for the eyes to see
+All God has given me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I could go on and on
+Counting the whole day long.
+I know He is with me,
+For every good thing that I have comes from God.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Every day, every hour,
+There are blessings He sends
+Without number or end.
+If I counted a hundred or a thousand, I’m sure
+There would still be more,
+There would still be more and more to be thankful for.</lines>
+    </verse>
+  </lyrics>
+</song>

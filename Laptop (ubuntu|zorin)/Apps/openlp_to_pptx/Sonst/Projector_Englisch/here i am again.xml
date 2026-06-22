@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>here i am again</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here I am again just looking
+For the words that help me say that
+My heart is full of love and praises
+I must have prayed a thousand prayers
+And sung a hunderd songs but
+I just have to say again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh How I love You
+More than words can say
+In the deepest heartfelt way
+Oh How, Lord I love You
+Once again receive my praise</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So many words, So many songs
+So many melodies yet
+Allow me one more declaration
+You are the lover of my soul
+The center of my life
+So I just have to say again</lines>
+    </verse>
+    <verse name="v4">
+      <lines>bridge
+Thank you for a brand new day,
+A brand new chance to stand and say I love You
+I love you
+Thank you for a brand new day,
+A brand new chance to stand and say I love You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Help me find the words to say
+That tell You in a brand new way I love you
+Oh, how I love you
+Help me find the words to say
+That tell You in a brand new way I love you</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du, Herr, hast unsre Schuld gesühnt</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Wilhelm Brockhaus</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du, Herr, hast unsre Schuld gesühnt;
+Am Kreuz trugst Du, was wir verdient,
+Trugst unsrer Sünden Menge.
+Jetzt weilest Du im Heiligtum,
+Nicht auszusprechen ist Dein Ruhm
+Und Deines Lebens Länge.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bleibest Priester ewiglich,
+Vertrittst die Deinen kräftiglich,
+Die Himmel Du bewohnest.
+Gericht und Tod uns nicht mehr schreckt,
+Dein Blut uns allzeit schirmt und deckt,
+Weil Du, Herr, droben thronest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wer fasset Deiner Liebe Tat,
+Und wer ergründet Deine Gnad',
+Die uns so reich umgibet?
+Selbst Engel Deinem Throne nahn
+Und beten staunend mit uns an,
+Dass Du uns so geliebet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und hast Du Deinen Dienst erfüllt,
+Wird unser Sehnen ganz gestillt,
+Dann wirst Du wiederkehren.
+Führst uns zu Deiner Ruhe ein,
+Wo wir uns Deines Anblicks freun,
+Mit ew'gem Lob Dich ehren.</lines>
+    </verse>
+  </lyrics>
+</song>

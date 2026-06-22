@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:05:26">
+  <properties>
+    <titles>
+      <title>Amazing Grace (My Chains Are Gone)</title>
+    </titles>
+    <authors>
+      <author type="words">John Newton (1779)</author>
+      <author type="words">Louie Giglio (2006)</author>
+      <author type="words">Chris Tomlin (2006)</author>
+      <author type="music">Louie Giglio</author>
+    </authors>
+    <ccliNo>4768151</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amazing grace how sweet the sound
+That saved a wretch like me
+I once was lost but now I'm found
+Was blind but now I see</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Twas grace that taught my heart to fear
+And grace my fears relieved
+How precious did that grace appear
+The hour I first believed</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Lord has promised good to me
+His word my hope secures
+He will my shield and portion be
+As long as life endures</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The earth shall soon dissolve like snow
+The sun forbear to shine
+But God who called me here below
+Will be forever mine
+Will be forever mine
+You are forever mine</lines>
+    </verse>
+  </lyrics>
+</song>

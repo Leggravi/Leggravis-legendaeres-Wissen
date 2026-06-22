@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus on the Mainline</title>
+    </titles>
+    <authors>
+      <author type="words">Spiritual</author>
+      <author type="music">Spiritual</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus on the mainline
+Tell Him what you want
+Jesus on the mainline
+Tell Him what you want
+Jesus on the mainline
+Tell Him what you want
+Jesus on the mainline now</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I can feel his Spirit moving in my soul (x3)
+Jesus on the mainline now</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tell him now, tell him now
+Tell him what you want
+Jesus on the mainline now</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If you want Salvation,
+If you want you healing,
+if you want deliverance
+Jesus on the mainline now.</lines>
+    </verse>
+  </lyrics>
+</song>

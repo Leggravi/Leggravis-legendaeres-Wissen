@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 14, 2021, 11:49:59 AM">
+  <properties>
+    <titles>
+      <title>Hallelujah to the Lamb</title>
+    </titles>
+    <verseOrder>V1 V2 C3 V4 C3 V5 C3 V6 C3 C3 V7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Lord, I Stand in the midst of a multitude,
+Of those from every tribe and tongue;
+We are Your people, redeemed by Your Blood,
+Rescued from death by Your love.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>There are no words good enough to thank You,
+There are no words to express my praise;
+But I will lift up my voice and sing from my heart,
+With all of my strength.</lines>
+    </verse>
+    <verse name="C3">
+      <lines>Hallelujah, hallelujah
+Hallelujah to the Lamb.
+Hallelujah, hallelujah
+By the Blood of Christ we stand.
+Every tongue, every tribe,
+Every people, every land,
+Giving glory, giving honor,
+Giving praise unto the Lamb of God.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Lord, we stand by grace in Your Presence,
+Cleansed by the Blood of the Lamb;
+We are Your children called by Your Name,
+Humbly we bow and we pray.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Release Your power to work in us and through us,
+Till we are changed to be more like You;
+And all the nations will see Your glory revealed,
+And worship You.</lines>
+    </verse>
+    <verse name="V6">
+      <lines>Every knee shall bow,
+Every tongue confess,
+That You are Lord of all.</lines>
+    </verse>
+    <verse name="V7">
+      <lines>Giving praise unto the Lamb of God,
+Giving praise unto the Lamb of God,
+Jesus Christ, Lamb of God.</lines>
+    </verse>
+  </lyrics>
+</song>

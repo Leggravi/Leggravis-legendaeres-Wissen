@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Need More of You</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Bowater</author>
+      <author type="music">Chris Bowater</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I need more of You, Dear Jesus
+That's the way it's got to be
+I need more of You
+Till there's no room left in me
+All those wasted hours and minutes
+They're yours now
+From the start to the finish
+I need more of You in me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I need more of You
+Fill me with nothing less
+I need more of You
+Give me Your love
+And the world can have the rest</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I can never get enough
+of Your grace
+Your peace, Your warmth
+and Your love
+I need more of You
+I need more of You
+I need more of You in me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I need more of You
+that's the way it's got to be
+I need more of You
+Fill me with Your love
+and the world can have the rest
+I could never get enough
+of Your grace, Your peace,
+Your warmth and Your love
+I need more of You in me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There was a time in my life
+When I thought I had it all
+But all I really had
+Was an achin' empty soul</lines>
+    </verse>
+  </lyrics>
+</song>

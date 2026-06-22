@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Really Want to Thank You Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Edward Baggett</author>
+      <author type="music">Edward Baggett</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We really want to thank You,
+Lord,
+We really want to bless your
+Name,
+Hallelujah, Jesus is our King</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thank You, Lord, for our lives
+together,
+To live and to move in the love of
+Christ;
+Tenderness which sets us free,
+To serve you with our lives.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise God from whom all
+blessing flow,
+Praise Him all creatures
+here below,
+Praise Him above ye heavenly
+hosts:
+Praise Him for His Word divine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thank You, Lord, for Your gifts to
+us,
+For life so rich beyond compare;
+The gift of your body here on earth,
+In which we sing and share.</lines>
+    </verse>
+  </lyrics>
+</song>

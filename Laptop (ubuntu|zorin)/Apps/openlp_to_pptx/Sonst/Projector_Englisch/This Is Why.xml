@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Is Why</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v3 v5 v6 v7 v3 v3 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, what's in man You're mindful of?
+That even though his soul was lost
+For him, You bore the only cross that could restore</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You saw my past and knew my shame
+Yet still You chose to love the same
+This is the gift You freely gave
+Immeasurable grace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And this is why we sing Your praise
+Lift high Your precious holy name
+Oh, Jesus Christ, the Son of God
+Because of Your love, our debt is paid</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You saw my past and knew my shame
+Yet still You chose to love the same
+This is the gift You freely gave
+Immeasurable grace
+Immeasurable grace</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ooh, ooh, ooh
+Ooh, ooh, ooh
+Ooh, ooh, ooh
+Ooh-ooh-ooh-ooh
+Ooh-ooh
+Ooh, ooh, ooh
+Ooh, ooh, ooh
+Ooh, ooh, ooh
+Ooh-ooh-ooh-ooh</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And when I see You face-to-face
+There at the end of all my days
+Jesus in You, I will remain my dwelling place</lines>
+    </verse>
+    <verse name="v7">
+      <lines>You're my dwelling place
+In You, I'll remain
+In You, I'll remain
+In You, I'll remain</lines>
+    </verse>
+    <verse name="v8">
+      <lines>And this is why we sing Your praise
+Lift high Your precious holy name
+Oh, Jesus Christ, the Son of God
+Because of Your love, our debt is paid (Because of Your love Jesus)
+Because of Your love, our debt is paid</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Because of Your love, we sing Your praise
+We sing Your praise, Jesus
+You are worthy, Lord, You are worthy, Lord</lines>
+    </verse>
+  </lyrics>
+</song>

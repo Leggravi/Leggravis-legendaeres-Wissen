@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jun 28, 2020, 6:01:46 PM">
+  <properties>
+    <titles>
+      <title>Majestät, herrliche Majestät</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Majestät, herrliche Majestät,
+dir sei Ehre Herrlichkeit und Lob!
+Majestät, herrliche Majestät,
+von dir fließt Kraft in großer Macht zu deinem Volk.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Hebt ihn hoch, hebt ihn hoch,
+den Namen Jesus.
+Macht ihn groß, kommt und verehrt Christus den Herrn.
+Majestät, herrliche Majestät,
+Jesus du starbst,
+bliebst nicht im Grab, Halleluja</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Herrlichkeit, preist seine Herrlichkeit
+Jesus Christus sei
+Lob und Ehre gebracht.
+Herrlichkeit, preist seine Herrlichkeit
+Herrlichkeit, Herrschaft und
+Herrlichkeit, fließen vom Thron
+von Gottes Sohn in seiner Macht.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Darum auf!
+Lobet den höchsten Namen Jesus.
+Er allein wird König sein für alle Zeit.
+Herrlichkeit, preist seine Herrlichkeit
+Jesus, ist Herr. Keiner als er
+Betet ihn an.</lines>
+    </verse>
+  </lyrics>
+</song>

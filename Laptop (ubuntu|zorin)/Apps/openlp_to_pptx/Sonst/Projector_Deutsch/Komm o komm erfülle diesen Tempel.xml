@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Komm, o komm, erfülle diesen Tempel</title>
+    </titles>
+    <authors>
+      <author type="words">Arlene Friesen</author>
+      <author type="music">Arlene Friesen</author>
+      <author type="translation">Come, o come and fill this temple</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Komm, o komm,
+erfülle diesen Tempel,
+erfülle diesen Tempel
+mit der Herrlichkeit des Herrn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir warten Herr auf deinen Geist
+mit Hunger und mit Durst
+und wir beten an den Namen Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Erfüll uns Herr mit deinem Kraft.
+Gieß aus in jedes Herz
+das Feuer und die Kraft des Pfingstentags.</lines>
+    </verse>
+  </lyrics>
+</song>

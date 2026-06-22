@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Teach Me Thy Way</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Harvey Loland</author>
+      <author type="translation">Zeig mir den Weg, o Herr</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If I have failed to comfort
+my brother If he needs help
+and I scorn him away
+If I have brought to your heart
+disappointments
+Dear Lord forgive the way
+I have lived and teach me
+Thy way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Teach me to walk in the
+footsteps of Jesus
+Teach me to hear what
+you have to say
+Help me bear the cross you
+have given
+Hold to my hand,
+help me to stand
+And teach me Thy way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I must speak to those
+that do not know you
+When I grow tired of the long weary day
+When I must wait for an answer
+from heaven
+Give me Thy grace, increase my faith
+And teach me Thy way.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If I must talk to those
+that do not know you
+If I must journey down the long life’s
+road
+If I must bear the burden of others
+Give me Thy grace increase my faith,
+And teach me Thy way.</lines>
+    </verse>
+  </lyrics>
+</song>

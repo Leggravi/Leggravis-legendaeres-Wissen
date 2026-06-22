@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thanks for Sunshine</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thanks for the sunshine
+Thanks for love
+Thanks for the flowers
+Rain from above
+Thanks for the children
+For each girl and boy
+Thanks for the laughter
+Thanks for the joy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord so many times
+I prayed so selflessly
+Lord so many times
+You bless abundantly
+So this time, oh Lord
+I don't want anything
+I just want to say thanks
+For the letting this old boy sing</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thanks for labor
+Thanks for tears</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So this time, Lord, I don’t want anything
+I just want to thank you for giving me a song to sing</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Thanks for the promise
+You’ve made it all good
+For those who would trust You
+You said that you would</lines>
+    </verse>
+    <verse name="v6">
+      <lines>So thanks for tomorrow
+Fill it with love
+We know that all good things
+Come from above</lines>
+    </verse>
+    <verse name="v7">
+      <lines>So thank you
+Thank You, Lord</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Christus, unser Heiland</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Luther</author>
+      <author type="music">Martin Luther</author>
+      <author type="translation">Jesus Christ our blessed Savior</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1) Jesus Christus, unser Heiland,
+der den Tod überwand,
+ist auferstanden,
+die Sünd hat er gefangen.
+Kyrie eleison.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2) Der ohn Sünden war geboren,
+trug für uns Gottes Zorn,
+hat uns versöhnet,
+dass Gott uns sein Huld gönnet.
+Kyrie eleison.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3) Tod, Sünd, Leben und auch Gnad,
+alls in Händen er hat;
+er kann erretten
+alle, die zu ihm treten.
+Kyrie eleison.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 14, 2020, 7:56:15 AM">
+  <properties>
+    <titles>
+      <title>Du hast Erbarmen</title>
+    </titles>
+    <verseOrder>V1 V2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Du hast Erbarmen und zertrittst all meine Schuld
+Du hilfst mir auf in deiner Treue und Geduld
+Du nimmst mir meine Last, nichts ist für dich zu schwer
+Du wirfst all meine Sünde tief hinab ins Meer</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Wer ist ein Gott wie du
+Der die Sünde verzeiht und das Unrecht vergibt
+(Oh) Wer ist ein Gott wie du
+Nicht für immer bleibt dein Zorn bestehn,
+denn du liebst es gnädig zu sein</lines>
+    </verse>
+  </lyrics>
+</song>

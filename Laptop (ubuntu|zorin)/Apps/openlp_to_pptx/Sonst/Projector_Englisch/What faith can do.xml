@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What faith can do</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Everybody falls sometimes
+Gotta find the strength to rise
+From the ashes
+And make a new beginning</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Anyone can feel the ache
+You think it's more than you can take
+But you're stronger
+Stronger than you know</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Don't you give up now
+The sun will soon be shining
+You gotta face the clouds
+To find the silver lining</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I've seen dreams that move the mountains
+Hope that doesn't ever end
+Even when the sky is falling
+I've seen miracles just happen
+Silent prayers get answered
+Broken hearts become brand new
+That's what faith can do</lines>
+    </verse>
+    <verse name="v5">
+      <lines>It doesn't matter what you've heard
+Impossible is not a word
+It's just a reason
+For someone not to try</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Everybody's scared to death
+When they decide to take that step
+Out on the water
+It'll be alright</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Life is so much more
+Than what your eyes are seeing
+You will find your way
+If you keep believing</lines>
+    </verse>
+    <verse name="v8">
+      <lines>I've seen dreams that move the mountains
+Hope that doesn't ever end
+Even when the sky is falling
+I've seen miracles just happen
+Silent prayers get answered
+Broken hearts become brand new
+That's what faith can do</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Overcome the odds
+You don't have a chance
+(That's what faith can do)
+When the world says you can't
+It'll tell you that you can</lines>
+    </verse>
+    <verse name="v10">
+      <lines>I've seen dreams that move the mountains
+Hope that doesn't ever end
+Even when the sky is falling
+And I've seen miracles just happen
+Silent prayers get answered
+Broken hearts become brand new
+That's what faith can do
+That's what faith can do</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Even if you fall sometimes
+You will have the strength to rise</lines>
+    </verse>
+  </lyrics>
+</song>

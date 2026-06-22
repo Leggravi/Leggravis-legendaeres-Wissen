@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Komm in unsre Mitte, o Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Komm in unsre Mitte, o Herr, o Herr,</author>
+      <author type="music">Christlicher Jugendbund Bayern</author>
+    </authors>
+    <verseOrder>v1 v2 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Komm in uns’re Mitte, o Herr, o Herr, oh Herr.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deine Liebe gibst Du täglich neu.o Herr wir danken Dir :|
+
+Laß uns spüren, daß Du bei uns bist....:|
+
+Fülle uns mit deinem Heilgen Geist... :|
+
+Bleib in unsrer Mitte o Herr ...............:|</lines>
+    </verse>
+  </lyrics>
+</song>

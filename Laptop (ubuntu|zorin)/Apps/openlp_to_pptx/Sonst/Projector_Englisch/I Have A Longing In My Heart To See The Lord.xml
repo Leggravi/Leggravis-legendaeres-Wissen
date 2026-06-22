@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Have A Longing In My Heart To See The Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I think of all the blessings
+Christ has given,
+How He saved my soul
+and took my sins away;
+I have a longing in my heart
+to be with Jesus,
+And I know that time
+won't be to far away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have a longing in my heart to see the Lord,
+I have a longing in my heart for His return;
+Too much trouble here to bear,
+Too much worries, too much fear;
+I have a longing in my heart
+to see the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Many times my burdens seem
+so hard to carry,
+Many times i have to smile
+to hide my tears;
+But in heaven there will be
+no cross to carry;
+There will be no sorrow
+through the countless years.</lines>
+    </verse>
+  </lyrics>
+</song>

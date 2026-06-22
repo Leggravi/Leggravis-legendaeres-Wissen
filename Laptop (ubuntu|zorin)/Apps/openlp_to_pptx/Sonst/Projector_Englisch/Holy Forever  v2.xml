@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Holy Forever – v2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v2 v2 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A thousand generations
+Falling down in worship
+To sing the song of
+Ages to the Lamb
+And all who've gone before us
+And all who will believe
+Will sing the song of
+Ages to the Lamb</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your name is the highest
+Your name is the greatest
+Your name stands above them all
+All thrones and dominions
+All powers and positions
+Your name stands above them all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And the angels cry, Holy,
+All creation cries, Holy,
+You are lifted high, Holy,
+Holy forever.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If you've been forgiven
+And if you've been redeemed
+Sing the song
+Forever to the Lamb
+If you walk in freedom
+And if you bear His name
+Sing the song
+Forever to the Lamb
+We'll sing the song
+Forever and amen</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hear your people sing, Holy,
+To the King of Kings, Holy,
+You will always be Holy,
+Holy forever.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hear your people sing, Holy,
+To the King of Kings, Holy,
+You will always be Holy,
+Holy forever,
+You will always be Holy,
+Holy forever.</lines>
+    </verse>
+  </lyrics>
+</song>

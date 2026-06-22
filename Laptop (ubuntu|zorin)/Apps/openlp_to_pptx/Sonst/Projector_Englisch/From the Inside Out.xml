@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>From the Inside Out</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v3 v4 v3 v4 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A thousand times I've failed, still your mercy remains.
+And should I stumble again, I'm caught in your grace.
+Everlasting
+Your light will shine when all else fades
+Never ending
+Your glory goes beyond all fame.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your will above all else
+My purpose remains.
+The art of losing myself
+In bringing you praise.
+Everlasting
+Your light will shine when all else fades
+Never ending
+Your glory goes beyond all fame.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My heart and my soul
+I give you control!
+Consume me from the inside out, Lord!
+Let justice and praise
+Become my embrace
+To love you from the inside out!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Everlasting
+Your light will shine when all else fades
+Never ending
+Your glory goes beyond all fame.
+And the cry of my heart
+Is to bring you praise!
+From the inside out
+Lord my soul cries out</lines>
+    </verse>
+    <verse name="v5">
+      <lines>From the inside out
+Lord my soul cries out
+Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

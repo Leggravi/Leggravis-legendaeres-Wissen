@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You're Welcome Here</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come gather here you’re welcome in this place
+Where God’s great love is bringing endless grace
+We gather with God’s loving family
+We’re gonna celebrate that God is great together.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You’re welcome here, Oooohh (In God’s House)
+You’re welcome here, Oooohh (In God’s House)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Young and old we’re called to gather here
+For we are loved and our God holds us near
+We’re called to walk as Jesus did
+Following in all his ways</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If we love like he does
+And we give like he gives,
+Then we’ll know that there’s hope
+If we love like he does
+And we give like he gives
+Then we’ll know that there’s hope
+We can find.</lines>
+    </verse>
+  </lyrics>
+</song>

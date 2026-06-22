@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Saw Love, Mercy And Grace</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I saw love, mercy and grace.
+I saw love, mercy and grace.
+I envisioned His beauty,
+I looked on His face,
+I saw love, mercy and grace.</lines>
+    </verse>
+  </lyrics>
+</song>

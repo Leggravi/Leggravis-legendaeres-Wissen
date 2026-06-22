@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:54">
+  <properties>
+    <titles>
+      <title>Danke für diesen guten Morgen</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Gotthard Schneider (1961)</author>
+      <author type="music">Martin Gotthard Schneider</author>
+    </authors>
+    <ccliNo>7149401</ccliNo>
+    <themes>
+      <theme>Morgenlieder</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Danke für diesen guten Morgen,
+danke für jeden neuen Tag.
+Danke, dass ich all meine Sorgen
+auf dich werfen mag.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Danke für alle guten Freunde,
+danke, oh Herr, für jedermann.
+Danke, wenn auch dem größten Feinde
+ich verzeihen kann.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Danke für meine Arbeitsstelle,
+danke für jedes kleine Glück.
+Danke für alles Frohe, Helle
+und für die Musik.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Danke für manche Traurigkeiten,
+danke für jedes gute Wort.
+Danke, dass deine Hand mich leiten
+will an jedem Ort.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Danke, dass ich dein Wort verstehe,
+danke, dass deinen Geist du gibst.
+Danke, dass in der Fern und Nähe
+du die Menschen liebst.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Danke, dein Heil kennt keine Schranken,
+danke, ich halt mich fest daran.
+Danke, ach Herr, ich will dir danken,
+dass ich danken kann.</lines>
+    </verse>
+  </lyrics>
+</song>

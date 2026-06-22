@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Vater im Himmel</title>
+    </titles>
+    <authors>
+      <author type="words">Dietmar Fischenich</author>
+      <author type="music">Dietmar Fischenich</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vater im Himmel, ja wir lieben Dich, 
+erheben Dich in aller Welt. 
+Möge Dein Reich gegründet sein im Lobpreis; 
+als Deine Kinder verkünden wir Dein Werk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lobet Gott, den Herrn, den Allmächtigen, 
+der war und ist und ewig bleibt. 
+Lobet Gott, den Herrn, den Allmächtigen, 
+der herrscht in Ewigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

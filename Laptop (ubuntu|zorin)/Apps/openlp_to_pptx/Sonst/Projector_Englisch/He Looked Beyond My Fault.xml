@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Looked Beyond My Fault</title>
+    </titles>
+    <authors>
+      <author type="words">Dottie Rambo</author>
+      <author type="music">Dottie Rambo</author>
+      <author type="translation">Von Gottes Gnade singe ich mein Leben lang</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amazing grace shall always be my song of praise
+For it was grace that bought my liberty
+I do not know just why He came to love me so
+He looked beyond my fault and saw my need.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I shall forever lift my eyes to Calvary
+To view the cross where Jesus died for me
+How marvelous the grace that caught my falling soul
+He looked beyond my fault and saw my need.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amazing grace that saved me from that sin and shame
+To draw me close and keep me by His side
+Forever I'll sing: all praise, all glory to His name
+If not for him, I surely would have died.</lines>
+    </verse>
+  </lyrics>
+</song>

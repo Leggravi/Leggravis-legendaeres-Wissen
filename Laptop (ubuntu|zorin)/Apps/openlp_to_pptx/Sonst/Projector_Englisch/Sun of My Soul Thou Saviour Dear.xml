@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sun of My Soul Thou Saviour Dear</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sun of my soul,
+Thou Saviour dear,
+It is not night if Thou be near;
+Oh, may no earth-born cloud arise
+To hide Thee from Thy servants eyes!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When the soft dews of gentle sleep
+My wearied eyelids gently steep,
+Be my last thought, how sweet to
+rest
+For ever on my Saviour’s Breast!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Abide with me from morn till eve,
+For without Thee I cannot live;
+Abide with me when night is nigh,
+For without Thee I dare not die.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If some poor wandering child of Thine
+Have spurned today the voice divine,
+Now, Lord, the gracious work begin;
+Let him no more lie down in sin.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Watch by the sick; enrich the poor
+With blessings from Thy
+boundless store:
+Be every mourner’s sleep tonight
+Like infant’s slumbers, pure and
+light.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Come near and bless us when we wake,
+Ere through the world our way we take;
+Till, in the ocean of Thy love,
+We lose ourselves in heaven above.</lines>
+    </verse>
+  </lyrics>
+</song>

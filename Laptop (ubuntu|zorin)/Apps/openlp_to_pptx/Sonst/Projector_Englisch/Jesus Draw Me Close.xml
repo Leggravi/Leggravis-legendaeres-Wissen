@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, Draw Me Close</title>
+    </titles>
+    <authors>
+      <author type="words">Rick Founds</author>
+      <author type="music">Rick Founds</author>
+      <author type="translation">Jesus nah, ganz nah</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, draw me close,
+Closer, Lord, to You;
+Let the world around me
+fade away.
+Jesus, draw me close,
+Closer, Lord, to You;
+For I desire to worship
+and obey.</lines>
+    </verse>
+  </lyrics>
+</song>

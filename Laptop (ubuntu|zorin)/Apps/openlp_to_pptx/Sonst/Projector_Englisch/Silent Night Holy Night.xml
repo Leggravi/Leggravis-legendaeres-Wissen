@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Silent Night! Holy Night!</title>
+    </titles>
+    <authors>
+      <author type="words">Stopford Augustus Brooke</author>
+      <author type="music">Stille Nacht, heilige Nacht</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Silent night! Holy night!
+All is calm, all is bright
+'Round yon virgin mother and child,
+Holy infant so tender and mild,
+Sleep in heavenly peace
+Sleep in heavenly peace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Silent night, holy night,
+Shepherds quake at the sight:
+Glories stream from heaven afar,
+Heavenly hosts sing alleluia,
+Christ, the Savior, is born!
+Christ, the Savior, is born!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Silent night, holy night,
+Son of God, love's pure light
+Radiant beams from Thy holy face,
+With the dawn or redeeming grace,
+Jesus, Lord at Thy birth.
+Jesus, Lord at Thy birth.</lines>
+    </verse>
+  </lyrics>
+</song>

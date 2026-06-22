@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, habe acht auf mich und reiß mich kräftiglich</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Ludwig Konrad Allendorf</author>
+      <author type="music">Johann F. Maier</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, habe acht auf mich
+und reiß mich kräftiglich
+von allen Dingen;
+denn ein gefesselt Herz
+kann sich ja himmelwärts
+durchaus nicht schwingen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr, habe acht auf mich!
+Hast du allmächtiglich
+den Strick zerrissen,
+so lass, dem Feind zum Trutz,
+mich deinen starken Schutz
+nun stets genießen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr, habe acht auf mich!
+O zieh mich ganz in dich
+mit Leib und Seele.
+Dein bin ich, du bist mein,
+du, den ich mir allein
+zum Hort erwähle.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herr, habe acht auf mich
+beim letzten Kampf, wenn ich
+von hinnen scheide;
+führ mich durch dein Geleit
+in deine Herrlichkeit,
+zur ewgen Freude!</lines>
+    </verse>
+  </lyrics>
+</song>

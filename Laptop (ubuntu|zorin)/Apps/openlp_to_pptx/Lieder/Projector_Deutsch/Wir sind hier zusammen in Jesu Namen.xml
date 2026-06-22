@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir sind hier zusammen in Jesu Namen</title>
+    </titles>
+    <authors>
+      <author type="words">überliefert</author>
+      <author type="music">überliefert</author>
+      <author type="translation">We are gathered here in Jesus name (Kanon)</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir sind hier zusammen in Jesu Namen, um dich zu loben, oh Gott! (2x)
+Ehre dem Vater! Ehre dem Sohn! Ehre dem heil´gen Geist, der in uns wohnt! (2x)
+Halleluja! Halleluja! (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

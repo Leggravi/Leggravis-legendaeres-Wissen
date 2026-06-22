@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Vater! Du, der Liebe Fülle</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Loys Bourgeois</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vater! Du, der Liebe Fülle,
+Bleibest immer treu und gut.
+Selig ist das Herz und stille,
+Wenn's in Deiner Liebe ruht.
+Du gabst hin für unsre Schuld
+Deinen Sohn – o welche Huld!
+Solltest Du den Sohn uns schenken
+Und nicht liebend an uns denken?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja, Du sorgest ohn' Ermüden
+Für uns alle, Tag und Nacht.
+Nie sind wir verwaist hienieden,
+Vatertreu' uns stets bewacht.
+Deiner Liebe ist allein
+Nichts zu groß und nichts zu klein.
+Wo wir gehen, wo wir stehen,
+Lässt Du Deine Lieb' uns sehen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du erquickst und stärkst die Müden,
+Machst getrost der Schwachen Herz,
+Leitest sie in Deinem Frieden,
+Leitest sie durch Kampf und Schmerz.
+Dank, o Vater, Dank sei Dir,
+Preis, Anbetung für und für!
+O welch Vorrecht, Dich zu loben,
+Dich zu preisen hier und droben!</lines>
+    </verse>
+  </lyrics>
+</song>

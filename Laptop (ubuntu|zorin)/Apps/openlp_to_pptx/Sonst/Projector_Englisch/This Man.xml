@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Man</title>
+    </titles>
+    <authors>
+      <author type="words">Jeremy Ng</author>
+      <author type="music">Jeremy Ng</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In only a moment truth was seen,
+Revealed this mystery;
+The crown that showed
+no dignity, He wore,
+And the King was placed
+For all the world to show disgrace,
+But only beauty flowed from this place.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Would you take the place
+ of this Man,
+Would you take the nails
+ from His hands?
+Would you take the place
+ of this Man,
+Would you take the nails
+ from His hands?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He held the weight of impurity,
+The Father would not see
+The reasons had finally come to be,
+To show the depth of His grace
+flowed with every sin erased
+He knew that this was why He came.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And we just don't know
+The blood and water flowed,
+And in it all He shows
+just how much He cares;
+And the veil was torn
+So we could have this open door,
+And all these things have finally
+been completed.</lines>
+    </verse>
+  </lyrics>
+</song>

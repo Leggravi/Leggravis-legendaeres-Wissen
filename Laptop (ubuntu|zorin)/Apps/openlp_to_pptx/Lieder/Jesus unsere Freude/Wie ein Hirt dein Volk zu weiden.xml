@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:37">
+  <properties>
+    <titles>
+      <title>Wie ein Hirt dein Volk zu weiden</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Bernhard Garve (1825)</author>
+      <author type="music">Johann Friedrich Reichardt</author>
+    </authors>
+    <ccliNo>5580118</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wie ein Hirt Dein Volk zu weiden,
+ließest Du Dich mild herab.
+Reich an Segen, reich an Freuden
+weidet uns Dein Hirtenstab.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O wie könnt ein Mund erzählen,
+was Du Deiner Herde bist?
+Welch ein Gutes kann uns fehlen?
+Unser Hirt ist Jesus Christ.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kann Gefahr und Not uns schrecken?
+Ist nicht Kraft in Deinem Arm?
+Uns ermannt Dein Stab und
+Stecken und vertreibet Angst und Harm.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Machet uns die Krankheit zagen,
+wer gibt Trost und wahre Ruh?
+Wer kann pflegen, heben, tragen,
+wer hat Heilungskraft wie Du?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nimm, o nimm Dich Deiner Herde,
+großer Hirt in Gnaden an!
+Und zu jedem Kreis der Erde
+komme Dein Erlösungsplan!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Household of Faith</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here we are at the start
+committing to each other
+By His word and from our hearts
+We will be a family in a
+house that will be a home
+And with faith we'll build it strong</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We'll build a household of faith
+That together we can make
+And when the strong winds blow
+it won't fall down
+As one in Him we'll grow
+and the whole world will know,
+we are a household of faith.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now to be a family we've got to love each other
+At any cost unselfishly
+And our home must be a place
+that truly abound with grace
+A reflection of His face</lines>
+    </verse>
+  </lyrics>
+</song>

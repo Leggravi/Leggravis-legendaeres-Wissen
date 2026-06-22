@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wie groß ist mein Gott!</title>
+    </titles>
+    <authors>
+      <author type="words">Volksweise</author>
+      <author type="music">England</author>
+      <author type="translation">How great is our God</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wie groß ist mein Gott, kein andrer wie Er 
+Kein Name so hoch, nur Er ist der Herr.
+Er teilte die Fluten vom Roten Meer,
+hat auch heute noch die selbe Kraft, nichts ist ihm zu schwer!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Light</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How you emphasize the word of God
+and how you reminiscing the past which full of chaos
+and now I realized of how I overcome the past,
+And so I succeeded because of the Lord's grace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In every trial, there is a light that gives me strength,
+The Lord is our strength,
+the Lord is our strength the Lord is our strength.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the midst of the storm, I found my way,
+And with every step, I left my doubts astray.
+The Lord’s guidance led me through the night,
+And now I see the light, shining so bright.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Through the trials and tribulations, I found my faith,
+And with every step, I left my fears astray.
+The Lord's grace and love, they lifted me up,
+And now I see the light, shining from above.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm So Glad That The Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm so glad that the Lord
+Brought me out;
+I'm so glad that the Lord
+Brought me out.
+If it had not been for Jesus
+Oh where would I be
+I'm so glad that the Lord
+Brought me out.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've been happy since
+The Lord brought me out.
+I've been happy since
+The Lord brought me out.
+If it had not been for Jesus
+Oh where would I be
+I've been happy since
+The Lord brought me out.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I've been shouting since
+The Lord brought me out.
+I've been shouting since
+The Lord brought me out.
+If it had not been for Jesus
+Oh where would I be
+I've been shouting since
+The Lord brought me out.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I've been singing since
+The Lord brought me out.
+I've been singing since
+The Lord brought me out.
+If it had not been for Jesus
+Oh where would I be
+I've been singing since
+The Lord brought me out.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Aren't you glad that
+The Lord brought you out?
+Aren't you glad that
+The Lord brought you out?
+If it had not been for Jesus
+Oh where would I be
+Aren't you glad that
+The Lord brought you out?</lines>
+    </verse>
+  </lyrics>
+</song>

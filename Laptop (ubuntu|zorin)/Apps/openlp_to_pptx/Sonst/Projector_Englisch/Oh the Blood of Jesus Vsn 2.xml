@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh the Blood of Jesus (Vsn 2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, the blood of Jesus,
+Oh, the blood of Jesus,
+Oh, the blood of Jesus,
+It washes white as snow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's power in the blood of Jesus
+There's power in the blood of Jesus
+There's power in the blood of Jesus
+It washes white as snow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's deliverance in the blood of Jesus
+There's deliverance in the blood of Jesus
+There's deliverance in the blood of Jesus
+It washes white as snow.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'm thankful for the blood of Jesus,
+I'm thankful for the blood of Jesus,
+I'm thankful for the blood of Jesus,
+It washes white as snow</lines>
+    </verse>
+  </lyrics>
+</song>

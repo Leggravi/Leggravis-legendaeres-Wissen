@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Are the Love of my Life</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are the love of my life
+You are the hope that I'll cling to
+You mean more than this world to me
+I couldn't trade You for silver or gold
+I wouldn't trade You for riches untold You are,
+You are my everything</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I wouldn't take one step Without You
+I could never go on
+I couldn't live one day Without You
+I don't have the strength To make it on my own</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Until the world stops turning
+Until the stars fade from the sky
+Until the sun stops rising I need You in my life
+And here's the reason why</lines>
+    </verse>
+  </lyrics>
+</song>

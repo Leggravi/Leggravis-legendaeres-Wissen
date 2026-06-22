@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come Soften My Heart Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Graham Kendrick</author>
+      <author type="music">Graham Kendrick</author>
+      <author type="translation">Erneure mein Herz, Herr</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come Soften My heart Lord,
+Come Soften My heart,
+From all indifference
+And set me apart
+To feel Your compassion
+Just weep with your tears
+Come Soften My heart Oh! Lord,
+Soften my heart.</lines>
+    </verse>
+  </lyrics>
+</song>

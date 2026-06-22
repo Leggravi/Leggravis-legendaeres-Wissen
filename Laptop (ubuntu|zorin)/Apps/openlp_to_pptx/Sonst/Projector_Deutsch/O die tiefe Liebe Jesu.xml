@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O die tiefe Liebe Jesu</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Thomas John Williams</author>
+      <author type="translation">O the deep, deep love of Jesus</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, die tiefe Liebe Jesu! Frei, unfassbar, mächtiglich
+rollet gleich dem weiten Meere voll und segnend über mich.
+Rings ergießt sich und umschließt mich Seiner Liebe reicher Strom,
+führt mich vorwärts, führt mich aufwärts bis zur Ruh im Himmelsdom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, die tiefe Liebe Jesu! Sei gerühmt von Ort zu Ort:
+wie Er liebet, immer liebet ohne Wandel fort und fort!
+Wie Er uns so reich beschenket, da Er starb als Menschensohn,
+wie Er unser stets gedenket auch noch droben vor dem Thron.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, die tiefe Liebe Jesu! Niemand liebt so, Herr, wie Du!
+Sie ist mir ein Meer von Segen und ein Port zu süßer Ruh!
+O die tiefe Liebe Jesu ist des Himmels Himmel mir.
+Sie erhebt zu Herrlichkeiten, denn sie hebt mich, Herr, zu Dir!</lines>
+    </verse>
+  </lyrics>
+</song>

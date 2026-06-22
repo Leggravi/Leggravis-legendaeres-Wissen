@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>For Your Name Is Holy (I Enter the Holy of Holies) – v2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I enter the Holy of Holies,
+I enter through the blood of the Lamb,
+I enter to worship You only,
+I enter to honor I am.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord I worship You, I worship You,
+Lord I worship You, I worship You,
+For Your name is Holy, Holy Lord,
+For Your name is Holy, Holy Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let the weight of Your glory cover us,
+Let the life of Your river flow,
+Let the truth of Your kingdom reign in us,
+Let the weight of Your glory,
+Let the weight of Your glory fall.</lines>
+    </verse>
+  </lyrics>
+</song>

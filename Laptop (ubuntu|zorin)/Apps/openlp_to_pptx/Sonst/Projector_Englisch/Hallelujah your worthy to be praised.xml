@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hallelujah your worthy to be praised!</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I lift my hands i praise you lord, I bow my head i honor you Lord! 
+Hallelujah your worthy to be praised!
+I lift my hands i praise you lord,
+I bow my head i honor you Lord
+Hallelujah your worthy to be praised
+Hallelujah your worthy to be praised
+Hallelujah your worthy to be praised
+Hallelujah your worthy TO BE PRAISED!...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallelujah we praise your name
+Hallelujah so worthy
+Hallelujah, lord we lift you up!
+Halleljuah youre worthy!
+Hallelujah we praise your name
+Hallelujah so worthy
+Hallelujah, lord we lift you up!
+Lord we lift you up!</lines>
+    </verse>
+  </lyrics>
+</song>

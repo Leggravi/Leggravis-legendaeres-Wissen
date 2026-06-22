@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Are Amazing God</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy, holy are You, lord
+Who sits upon the throne
+Worthy, worthy are You, lord
+Who was who is and is to come</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are amazing God
+There is none like You
+You are amazing God
+Your power is so true
+You are amazing God
+There is none like You
+You are amazing God
+The amazing God I know</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The elders and angels
+They bow before you
+You're the Lord of all creation
+You redeemed us by your blood
+Tour pow'r is amazing
+Your grace is amazing
+Your love is amazing
+And we stand amazed</lines>
+    </verse>
+  </lyrics>
+</song>

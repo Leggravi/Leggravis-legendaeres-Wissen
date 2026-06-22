@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Is Coming Back Again</title>
+    </titles>
+    <authors>
+      <author type="words">Volker Dymel</author>
+      <author type="music">Volker Dymel</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus died on the cross
+at Calvary,
+He shed His own Blood
+for you and for me,
+But He arose again
+on that Easter morn,
+So repent everyone
+and in Christ be reborn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus Is coming back to earth again,
+He’s coming for His Bride
+to take them up with Him,
+Jesus is coming back to earth again,
+As soon as the last
+one has entered therein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The end-time Message came
+forth a while ago,
+He brought back the Word
+and things we ought to know,
+In Malachi 4 it tells of a
+prophet to come,
+He came and delivered the
+Word to everyone.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Why Did I Walk Thru the Valley</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Why did I walk thru the valley
+Why was I forced to my knees
+Why did the sun parch and dry me
+When I walked thru the desert of defeat
+Then came the clouds and the rain fell
+I thought I'd never make it thru the night
+God gave me the answer when I prayed in tears
+He let me see the dark, before the light</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I can kneel with a brother Who is bearing a burden
+And say I know just what you're going thru
+I can pray with a sister, in the midst of her sorrow
+And say I know because I've been there too
+I can put my arms around, someone who is down
+Tell them to have faith and confidence
+What in pain I could not see
+I now fully believe
+God prepared me for such a time, as this</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You may be praying for rescue
+You are facing temptations and trials
+Struggles are endlessly present
+But the purpose is somewhere in God's time
+Just keep on walking the good road
+The night leads to a stronger wiser day
+And when you ask the reason for
+the path you have trod
+You'll know without a doubt and you can say</lines>
+    </verse>
+  </lyrics>
+</song>

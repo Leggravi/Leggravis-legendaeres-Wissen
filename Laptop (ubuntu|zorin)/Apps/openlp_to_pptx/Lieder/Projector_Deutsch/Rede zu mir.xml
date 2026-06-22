@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Rede zu mir</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Leander Lycurgus Pickett</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, jetzt bin ich da,
+sei du mir nah, rede du
+Jesus jetzt bin ich hier,
+schweige vor dir, rede zu mir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich will hörn, was du sagst
+ich will spürn, was du gibst
+ich will tun, was du willst, 
+rede zu mir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, was ich nur will
+ist ruhen bei dir, ich halte jetzt still.
+Jesus, du weißt genug,
+rede jetzt du, ich höre zu.</lines>
+    </verse>
+  </lyrics>
+</song>

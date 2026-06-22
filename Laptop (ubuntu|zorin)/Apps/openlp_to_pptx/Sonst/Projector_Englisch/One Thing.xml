@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>One Thing</title>
+    </titles>
+    <authors>
+      <author type="words">Maggi Dawn</author>
+      <author type="music">Maggi Dawn</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v3 v6 v7 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I tasted the world
+Seen more than enough
+It's promise is fleeting
+Of water and wine
+I emptied the cup
+And found myself wanting</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But there is a well
+That never runs dry
+The water of life
+The blood of the vine</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Cause all I know is
+Everything I have means nothing
+Jesus if You're not my one thing
+Everything I need right now
+All I need is You right now</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Just one thing I ask
+And this I will seek
+If only to know You
+To be where You are
+And go where You lead
+My God I will follow</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The things of this world
+I've counted as loss
+I lay it all down
+To take up this cross</lines>
+    </verse>
+    <verse name="v6">
+      <lines>'Cause all I know is
+Everything I have means nothing
+Jesus if You're not my one thing
+Everything I need right now
+'Cause all I want is
+Everything You are and nothing
+Jesus if You're not my one thing
+Everything to me right now</lines>
+    </verse>
+    <verse name="v7">
+      <lines>And I'll sing, Whoa Whoa,
+I want nothing but to know You
+And to be with You my God
+And I'll sing, Whoa, Whoa,
+And with everything within me
+I will worship You my God</lines>
+    </verse>
+  </lyrics>
+</song>

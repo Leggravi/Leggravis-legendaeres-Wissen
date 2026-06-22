@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You are near by Hillsong</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In awe of You we worship
+And stand amazed at Your great love
+We're changed from glory to glory
+We set our hearts on You our God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: Now Your presence fills this place
+Be exalted in our praise
+As we worship I believe
+You are near :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/: Blessing and honour
+And glory and power
+Forever, forever :/ x6</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In awe of You we worship</lines>
+    </verse>
+  </lyrics>
+</song>

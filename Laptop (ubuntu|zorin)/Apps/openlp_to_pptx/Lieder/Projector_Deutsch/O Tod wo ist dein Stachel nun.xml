@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Tod, wo ist dein Stachel nun?</title>
+    </titles>
+    <authors>
+      <author type="words">Georg Weissel</author>
+      <author type="music">Es ist das Heil uns kommen her</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1) O Tod, wo ist dein Stachel nun?
+Wo ist dein Sieg, o Hölle?
+Was kann uns jetzt der Teufel tun,
+wie grausam er sich stelle?
+Gott sei gedankt, der uns den Sieg
+so herrlich hat nach diesem Krieg
+durch Jesus Christ gegeben!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2) Wie sträubte sich die alte Schlang,
+da Christus mit ihr kämpfte!
+Mit List und Macht sie auf ihn drang,
+und dennoch er sie dämpfte.
+Ob sie ihn in die Ferse sticht,
+so sieget sie doch darum nicht,
+der Kopf ist ihr zertreten.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3) Lebendig Christus kommt herfür,
+die Feind nimmt er gefangen,
+zerbricht der Hölle Schloss und Tür,
+trägt weg den Raub mit Prangen.
+Nichts ist, das in dem Siegeslauf
+den starken Held kann halten auf,
+alls liegt da überwunden.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4) Des Herren Rechte, die behält
+den Sieg und ist erhöhet;
+des Herren Rechte mächtig fällt,
+was ihr entgegenstehet.
+Tod, Teufel, Höll und alle Feind
+durch Christi Sieg bezwungen seind,
+ihr Zorn ist kraftlos worden.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5) Es war getötet Jesus Christ,
+und sieh, er lebet wieder.
+Weil nun das Haupt erstanden ist,
+stehn wir auch auf, die Glieder.
+So jemand Christi Worten glaubt,
+im Tod und Grabe der nicht bleibt;
+er lebt, ob er gleich stirbet.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6) Wer täglich hier durch wahre Reu
+mit Christus auferstehet,
+ist dort vom andern Tode frei,
+derselb ihn nicht angehet.
+Genommen ist dem Tod die Macht,
+Unschuld und Leben wiederbracht
+und unvergänglich Wesen.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>7) Das ist die reiche Osterbeut,
+der wir teilhaftig werden:
+Fried, Freude, Heil, Gerechtigkeit
+im Himmel und auf Erden.
+Hier sind wir still und warten fort,
+bis unser Leib wird ähnlich dort
+Christi verklärtem Leibe.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>8) O Tod, wo ist dein Stachel nun?
+Wo ist dein Sieg, o Hölle?
+Was kann uns jetzt der Teufel tun
+wie grausam er sich stelle?
+Gott sei gedankt, der uns den Sieg
+so herrlich hat in diesem Krieg
+durch Jesus Christ gegeben!</lines>
+    </verse>
+  </lyrics>
+</song>

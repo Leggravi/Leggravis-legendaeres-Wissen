@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 6, 2019, 2:47:57 PM">
+  <properties>
+    <titles>
+      <title>Come Away, My Love</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>There's a table dressed in linen,
+The banquet is prepared,
+A host of angels gather
+For the celebration there;
+The Bride is almost ready,
+In spotless white arrayed,
+A hush falls over Heaven,
+As the groom begins to say:</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Come away, my Love
+Come away, my Love
+I have waited for this day,
+When I can give You Your new name,
+Eternity awaits us,
+Come away, my Love.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>I have loved you from creation,
+Long before you came to Me,
+I carried that love with Me
+All the way to Calvary,
+And though it wasn't over
+When they laid Me in the tomb,
+I proved my love would never die,
+I rose again for You.</lines>
+    </verse>
+  </lyrics>
+</song>

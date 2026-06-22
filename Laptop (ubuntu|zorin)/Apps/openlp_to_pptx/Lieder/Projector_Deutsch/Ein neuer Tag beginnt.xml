@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ein neuer Tag beginnt</title>
+    </titles>
+    <authors>
+      <author type="words">Helga Poppe</author>
+      <author type="music">Helga Poppe</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ein neuer Tag beginnt und ich freu mich, ja, ich freue mich.
+Ein neuer Tag beginnt, und ich freu mich Herr auf dich!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Warst die ganze Nacht mir nah, dafür will ich danken.
+Herr, jetzt bin ich für dich da, diese Stunde ist dein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Noch ist alles um mich still und ich kann dich hören,
+was mir heut begegnen will, du breitest mich vor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Was mir Angst und Sorgen schafft, das kann ich dir sagen.
+Du selbst gibst mir deine Kraft, denn ich bin zu schwach.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Du begegnest mir im Wort, Herr, ich kann dich schauen.
+Das scheuchst alle Sorgen fort, erhebst mir das Haupt.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Deinen Frieden schenkst du mir, ich kann dir vertrauen.
+Ich bin dein, gehöre dir, du lässt mich nicht los.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Herr, ich weiß, der Weg ist gut, auf dem du mich leitest,
+sinkt mir manchmal auch der Mut, du selbst gehst voran.</lines>
+    </verse>
+  </lyrics>
+</song>

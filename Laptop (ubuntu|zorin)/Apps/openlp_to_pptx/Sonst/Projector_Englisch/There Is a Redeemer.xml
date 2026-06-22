@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There Is a Redeemer</title>
+    </titles>
+    <authors>
+      <author type="words">Melody Green</author>
+      <author type="music">Melody Green</author>
+      <author type="translation">Er ist der Erlöser (Danke, lieber Vater)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a redeemer
+Jesus, God's own Son
+Precious Lamb of God, Messiah
+Holy One</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thank you, oh my father
+For giving us Your Son
+And leaving Your Spirit
+Till the work on Earth is done</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus my redeemer
+Name above all names
+Precious Lamb of God, Messiah
+Oh, for sinners slain</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When I stand in Glory
+I will see His face
+There I'll serve my King forever
+In that Holy Place</lines>
+    </verse>
+  </lyrics>
+</song>

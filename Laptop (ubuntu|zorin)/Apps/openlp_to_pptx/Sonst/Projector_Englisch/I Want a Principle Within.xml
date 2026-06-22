@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Want a Principle Within</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1001
+I WANT A PRINCIPLE WITHIN</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I want a principle within, of jealous Godly fear,
+A sensibility of sin, a pain to feel it near,
+I want the first approach to feel, of pride or fond desire
+To catch the wand'ring of my will, and quench the kindling fire.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From thee that I no more may part, no more thy goodness grieve,
+The final awe, the fleshly heart, the tender conscience give,
+Quick as the apple of an eye, Oh God, my conscience make,
+Awake my soul when sin is nigh, and keep it still awake.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Almighty God of truth and love, to me thy power impart,
+The mountain from my soul remove, the hardness from my heart,
+Oh may the least ommission pain, my reawakened soul
+And drive me to that blood again, which makes the wounded whole</lines>
+    </verse>
+  </lyrics>
+</song>

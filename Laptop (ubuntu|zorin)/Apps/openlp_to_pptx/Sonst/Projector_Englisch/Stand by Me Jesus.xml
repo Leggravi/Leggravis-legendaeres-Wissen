@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Stand by Me Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the midst of faults and failures,
+stand by me,
+In the midst of faults and failures,
+stand by me
+When I try to do my best
+and my friends misunderstand
+Thou who knowest all about me
+stand by me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Stand by me, stand by me,
+Loving Jesus stand by me
+I have no strength nor power
+of my own
+Loving Jesus stand by me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the midst of tribulations,
+stand by me,
+In the midst of tribulations
+stand by me,
+When this world is tossing me
+like a ship upon the sea,
+Thou who rulest winds and waters
+stand by me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In the midst of pain and sorrows,
+stand by me,
+In the midst of pain and sorrows
+stand by me
+When my body is full of pain
+and my heart is full of troubles
+Thou who healeth my diseases,
+stand by me.</lines>
+    </verse>
+  </lyrics>
+</song>

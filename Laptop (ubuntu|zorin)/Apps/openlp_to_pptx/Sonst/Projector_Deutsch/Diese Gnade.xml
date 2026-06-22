@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Diese Gnade</title>
+    </titles>
+    <authors>
+      <author type="words">Lothar Kosse</author>
+      <author type="music">Lothar Kosse</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Diese Gnade kann ich nicht verdienen
+Diese Gnade sie ist ein Geschenk
+Was auch kommt, ich werd' sie nie verlieren
+Kann nichts dafür tun,
+Ich kann nur ihr ruh'n</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Großer Gott, ich will dir danken
+Für das, was du für mich getan hast
+Großer Gott du bist das Schönste mir
+Du bist das Lied meines Lebens
+Weil du mich liebst, leb ich nicht vergebens
+Meine Seele sie wird still vor dir</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Deine Gnade reicht, so weit der Himmel ist
+Jeden Morgen strahlt sie neu, sie endet einfach nicht
+Deine Güte bleibt, weil du für uns bist
+Und an deiner Vaterhand gehen wir ins licht</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Großer Gott, ich will dir danken
+Für das, was du für mich getan hast
+Großer Gott, du bist das Schönste mir
+Du bist das Lied meines Lebens
+Weil du mich liebst, leb ich nicht vergebens
+Meine Seele, sie wird still vor dir</lines>
+    </verse>
+  </lyrics>
+</song>

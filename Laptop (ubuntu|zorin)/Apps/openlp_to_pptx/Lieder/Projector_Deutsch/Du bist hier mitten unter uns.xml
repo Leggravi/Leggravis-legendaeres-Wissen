@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist hier, mitten unter uns</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Pepper</author>
+      <author type="music">Martin Pepper</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist hier, mitten unter uns, ich bet dich an, ich bet dich an.
+Du bist hier, wirkst an diesem Ort, ich bet dich an, ich bet dich an.
+
+|: Du bahnst unsere Wege, schaffst große Wunder,
+hältst dein Versprechen. scheinst uim Dunkeln.
+MeinGott , das ist was du tust. :|
+...</lines>
+    </verse>
+  </lyrics>
+</song>

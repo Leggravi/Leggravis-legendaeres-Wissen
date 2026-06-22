@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Draw Me Into Your Presence</title>
+    </titles>
+    <authors>
+      <author type="words">Tom Brock</author>
+      <author type="music">Tom Brock</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Draw me Into Your Presence
+Draw me Into Your Presence
+Draw me Into Your Presence
+I want to Know You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For there's Life In Your presence
+Yes, there's Life In Your presence
+There is Life In Your presence
+I want to Know You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Where else can I go?
+Where else can I Hide?
+Only in your presence, Lord.
+Can I find peace of mind.</lines>
+    </verse>
+  </lyrics>
+</song>

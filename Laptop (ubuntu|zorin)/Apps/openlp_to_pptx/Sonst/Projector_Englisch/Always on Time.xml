@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Always on Time</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v4 v6 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the horizon bleeds into darkness
+And the whole world falls asleep
+I ponder my faith and reverence
+For your word that cuts so deep</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Will I ever be your perfect bride
+And stand tall with you by my side
+Oh, I think about all the times I lied
+It cuts through my heart deep inside</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lead me to the path where you want me to be
+And walk with you to eternity</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Burn my doubts with my sins you forgave
+Help me believe you're heeding my prayers
+I know you're there and your blood still saves
+Sinner such as I, all my burdens you bear
+Strengthen this wavering faith of mine
+Give me patience to wait
+'cause I know you're always on time</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let me be deserving of your love
+Mold me to be your perfect servant
+Give me faith from heaven up above
+Deserving one to hold your hand</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Burn my sins to ash, set my heart ablaze
+(Purify)
+Make me more like you, I know I am saved
+(I'm Redeemed)
+Let me live your word, not against your will
+(I'll serve you)
+Will my heart to wait 'til I'm fully healed
+(Oh, Patience)</lines>
+    </verse>
+  </lyrics>
+</song>

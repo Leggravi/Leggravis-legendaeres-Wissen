@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 19, 2020, 9:36:41 PM">
+  <properties>
+    <titles>
+      <title>Wir sind hier zusammen in Jesu Namen</title>
+    </titles>
+    <verseOrder>V1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Wir sind hier zusammen in Jesu Namen, um dich zu loben, oh Gott! (2x)
+Ehre dem Vater! Ehre dem Sohn! Ehre dem heil´gen Geist, der in uns wohnt! (2x)
+Halleluja! Halleluja! (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

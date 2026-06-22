@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich blicke voll Beugung und Staunen</title>
+    </titles>
+    <authors>
+      <author type="words">Dora Rappard</author>
+      <author type="music">William Gustavus Fisher</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich blicke voll Beugung und Staunen hinein in das Meer seiner Gnad
+und lausche der Botschaft des Friedens, die Er mir verkündiget hat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sein Kreuz bedeckt meine Schuld, sein Blut macht hell mich und rein.
+Mein Wille gehört meinem Gott; ich traue auf Jesus allein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wie lang hab ich mühvoll gerungen, geseufzt unter Sünde und Schmerz!
+Doch als ich mich ihm überlassen, da strömte sein Fried in mein Herz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sanft hat seine Hand mich berühret; er sprach: O mein Kind, du bist heil!&quot;
+Ich fasste den Saum seines Kleides: Da ward seine Kraft mir zuteil.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Der Fürst meines Friedens ist nahe; sein Antlitz ruht strahlend auf mir.
+O horcht seiner Stimme; sie rufet: Den Frieden verleihe Ich dir!&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

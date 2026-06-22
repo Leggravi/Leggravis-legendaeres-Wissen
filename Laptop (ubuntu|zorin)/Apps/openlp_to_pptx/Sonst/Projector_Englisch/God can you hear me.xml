@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God can you hear me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've been here before
+It's hard to ignore
+I'm so used to fighting
+The same old wars</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh what do you see when your looking at me
+Have I taken You for granted
+I can't afford this pain anymore
+Won't You help me understand it</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God can You hear me
+I need You here tonight
+I'm tired of pretending that everything's alright
+And I know, I know that You hold tomorrow
+But I need You here tonight</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I want to feel
+I need something real
+I want to go closer to You
+I lay down my will</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh this human disease it's killing me
+Tell me have I been left stranded
+I can't ignore this pain anymore
+Won't You help me understand it</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Say won't You say that
+You'll carry me
+Carry me through the storm
+Stay
+Won't You stay
+Till the morning comes
+Morning comes
+Just stay</lines>
+    </verse>
+  </lyrics>
+</song>

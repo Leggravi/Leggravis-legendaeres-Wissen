@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Just Want To Please the Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I just want to please the Lord
+Be in His will in every way
+To be lost in His Presence
+Found in His likeness
+And to hear Him say,
+&quot;Well done,&quot; someday</lines>
+    </verse>
+  </lyrics>
+</song>

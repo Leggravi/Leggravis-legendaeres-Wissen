@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Could Sing of Your Love Forever</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Over the mountains and the sea
+Your river runs with love for me
+And I will open up my heart
+And let the Healer set me free
+I'm happy to be in the truth
+And I will daily lift my hands
+For I will always sing
+Of when your love came down</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I could sing of Your love forever
+I could sing of Your love forever
+I could sing of Your love forever
+I could sing of Your love forever</lines>
+    </verse>
+  </lyrics>
+</song>

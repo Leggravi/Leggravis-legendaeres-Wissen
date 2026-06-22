@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:00">
+  <properties>
+    <titles>
+      <title>Mit meinem Gott geh ich zur Ruh</title>
+    </titles>
+    <authors>
+      <author type="words">Cornelius Becker (1602)</author>
+      <author type="words">Breslau (1690)</author>
+      <author type="music">Mein schönste Zier und Kleinod bist</author>
+    </authors>
+    <ccliNo>5209891</ccliNo>
+    <themes>
+      <theme>Abendlieder</theme>
+      <theme>Schlaflieder</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mit meinem Gott geh ich zur Ruh
+und tu in Fried mein Augen zu,
+denn Gott von's Himmels Throne
+über mich wacht
+bei Tag und Nacht,
+damit ich sicher wohne.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich ruf zu dir, Herr Jesu Christ,
+der du allein mein Helfer bist:
+Lass kein Leid widerfahren,
+durch deinen Schutz
+vors Teufels Trutz
+dein Engel uns bewahren.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Befiehl den lieben Engeln dein,
+dass sie stets um und bei uns sein;
+all Übel von uns wende.
+Gott Heilger Geist,
+dein Hilf uns leist
+an unserm letzten Ende.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich ruf zu Dir, Herr Jesu Christ,
+der Du allein mein Helfer bist:
+Lass mich kein Leid erfahren!
+Nimm mich in Schutz;
+vor Satans Trutz
+woll mich dein Arm bewahren!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lass deiner heilgen Engel Schar
+sich um uns stellen immerdar;
+all Übel von uns wende!
+Gott, Heilger Geist,
+dein Hilf uns leist
+an unsrem letzten Ende!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herr, meinen Geist befehl ich Dir,
+mein Gott, mein Gott, weich nicht von mir,
+nimm mich in deine Hände!
+O wahrer Gott,
+aus aller Not
+hilf mir an meinem Ende!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Preis, Ehre, Macht und Herrlichkeit
+sei Vater, Sohn und Geist bereit't,
+lobt seinen heilgen Namen!
+Die göttlich Kraft
+mach uns sieghaft
+durch Jesum Christum! Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

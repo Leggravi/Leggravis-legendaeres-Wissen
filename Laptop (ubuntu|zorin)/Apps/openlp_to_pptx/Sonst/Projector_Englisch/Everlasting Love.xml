@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Everlasting Love</title>
+    </titles>
+    <authors>
+      <author type="words">George Wade Robinson</author>
+      <author type="music">James Mountain</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Before the stars were in the sky
+Before the earth was never framed
+Long before time had begun
+I knew your name
+I had a plan for who you'd be
+I would create you for my glory
+You would be precious in my sight
+You would be mine</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have loved you with an everlasting love
+Before you knew my name I sought you
+I have brought you with my blood
+Throughout the centuries through all of history
+And through eternity above
+I will love you with an everlasting love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There were times you would not lister
+And you choose to go astray
+As your father as your shepherd
+I led you back into the way
+When the storms were fierce I held you in the shelter of my arms
+I have kept you from all evil and all harm</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For neither height, nor depth, nor angels, nor things present, nor things to come
+Could ever separate nothing can take away
+My everlasting love</lines>
+    </verse>
+  </lyrics>
+</song>

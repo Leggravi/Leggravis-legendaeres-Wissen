@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Is Our Peace</title>
+    </titles>
+    <authors>
+      <author type="words">Kandela Groves</author>
+      <author type="music">Kandela Groves</author>
+      <author type="translation">Er ist unser Friede</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He is our peace, Who has broken down every wall,
+He is our peace, He is our peace,
+He is our peace Who has broken down every wall,
+He is our peace, He is our peace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cast all your cares on Him, For He careth for you,
+He is our peace, He is our peace,
+Cast all your cares on Him, For He careth for you,
+He is our peace, He is our peace</lines>
+    </verse>
+  </lyrics>
+</song>

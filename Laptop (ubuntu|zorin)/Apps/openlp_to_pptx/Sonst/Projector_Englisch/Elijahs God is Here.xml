@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Elijah's God is Here</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v2 v1 v2 v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's here, Elijah's God is in us today
+He's here to will and do whatever we say
+Behold the bride of Christ in full array
+He's here, Elijah's God is here</lines>
+    </verse>
+    <verse name="v2">
+      <lines>She walks in step with the revealed word of the hour
+She talks and demons flee before His mighty power
+Behold the Bridegroom united with His mate
+He's here, Elijah's God is here</lines>
+    </verse>
+  </lyrics>
+</song>

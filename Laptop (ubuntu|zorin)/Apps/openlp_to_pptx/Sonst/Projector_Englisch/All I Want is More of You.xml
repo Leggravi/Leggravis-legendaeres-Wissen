@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All I Want is More of You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All I want is more of You
+All I want is more of You
+Nothing I desire, Lord
+But more of You.
+All I want is more of You
+All I want is more of You
+Nothing I desire, Lord
+But more of You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus I am thirsty,
+Won't You come and fill me
+Earthly things that left me dry
+Only You can satisfy
+All I want is more of You.</lines>
+    </verse>
+  </lyrics>
+</song>

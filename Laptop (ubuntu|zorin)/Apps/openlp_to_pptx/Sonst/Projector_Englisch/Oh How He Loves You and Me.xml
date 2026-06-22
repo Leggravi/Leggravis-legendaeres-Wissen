@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh How He Loves You and Me</title>
+    </titles>
+    <authors>
+      <author type="words">John Mark McMillan</author>
+      <author type="music">John Mark McMillan</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh how He loves you and me
+Oh how He loves you and me
+He gave His life what more could we give
+Oh how He loves you
+Oh how He loves me
+Oh how He loves you and me</lines>
+    </verse>
+  </lyrics>
+</song>

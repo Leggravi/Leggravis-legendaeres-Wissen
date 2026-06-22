@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I’ve Come Too Far to Look Back</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’ve come too far to look back again
+There’s nothing behind me,
+All the pleasures I used to love
+Have all faded from view,
+There’s a new day ahead of me
+All my heartaches are over
+For I left them at Calvary
+When my new life began.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’ve come too far to look back
+My feet have walked thru’ the valley
+I’ve climbed mountains, crossed rivers,
+Desert places I know,
+But I’m nearing that home shore
+Where the redeemed are rejoicing
+Heaven angels are singing
+I’ve come too far to look back.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Just took around there’s
+no happiness
+There’s no reason for living
+Life will give you a broken heart
+Full of sorrow and fear
+But turn around don’t look
+back again,
+Face the new day before you,
+Place your heartaches in
+Jesus Christ
+He can mend broken hearts.</lines>
+    </verse>
+  </lyrics>
+</song>

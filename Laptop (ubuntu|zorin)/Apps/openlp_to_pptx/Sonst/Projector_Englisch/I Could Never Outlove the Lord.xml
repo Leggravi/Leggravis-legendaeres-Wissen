@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Could Never Outlove the Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm going to live the way
+He wants me to live
+I'm going to give until
+There's just no more to give.
+I'm going to love,
+Love 'til there's just no more love
+I could never,
+Never outlove the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There've been times when giving
+And loving brought pain
+And I promised I would never
+Let it happen again.
+But I found out that loving
+Was well worth the risk
+And that even in losing you win.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He showed us that only
+Through dying we live
+And He gave when it seemed
+There was nothing to give.
+He loved us
+When loving brought heartache and loss
+He forgave from an old rugged cross.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Be like an Eagle</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Just like an eagle, We fly above the sky
+and clearly see things that are to be
+No Matter what tide may come
+No matter what happens to this word
+our wings will lift us high</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lift us High, above the heavens
+Leaving all this world behind
+Let us fly, So High
+We will meet the Lord in the sky</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Be like an eagle living in peace
+and trust those wings can lead him to all things
+He may be hurt and locked in a cage
+He'll find a way out till his sage
+And cry out I can fly</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I can fly beyond the heaven
+Leaving all this world behind
+Let us fly, So high
+We will meet the Lord in the sky</lines>
+    </verse>
+    <verse name="v5">
+      <lines>At times you are tested hurt and tried
+and all you feel is just to slide
+yet He is there to guide
+You might have suffering and cried
+From all your problems you can't hide
+spread your wings and fly</lines>
+    </verse>
+  </lyrics>
+</song>

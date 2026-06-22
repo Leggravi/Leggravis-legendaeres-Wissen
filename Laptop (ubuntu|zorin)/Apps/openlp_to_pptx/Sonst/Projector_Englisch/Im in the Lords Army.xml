@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm in the Lord's Army</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I may never March in the infantry
+Ride in the Calvary
+Shoot The artillery</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I may never zoom o'er the enemy
+But I'm in the Lord's army</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm in the Lord's army
+Yes sir.
+I'm in the Lord's army
+Yes sir.</lines>
+    </verse>
+  </lyrics>
+</song>

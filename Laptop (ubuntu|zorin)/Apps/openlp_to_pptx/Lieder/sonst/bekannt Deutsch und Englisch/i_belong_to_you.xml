@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="May 17, 2020, 11:47:21 AM">
+  <properties>
+    <titles>
+      <title>I belong to you</title>
+    </titles>
+    <verseOrder>V1 C2 V1 C3 C4 C3 C4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Here I stand
+Forever in your mighty hand
+Living with your promise
+Written on my heart
+I am Yours
+Surrendered wholly to You
+You set me in Your family
+Calling me Your own</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Now I, I belong to You
+All I need Your Spirit
+Your Word, Your Truth
+Hear my cry, my deep desire
+To know You more
+In Your Name
+I will lift my hands to the King
+This anthem of praise I bring
+Heaven knows, I long to love You
+With all I am, I belong to you</lines>
+    </verse>
+    <verse name="C3">
+      <lines>Now I, I belong to You
+All I need Your Spirit
+Your Word, Your Truth
+Hear my cry, my deep desire
+To know You more
+In Your Name
+I will lift my hands to the King
+This settle praise I bring
+Heaven knows, I long to love You
+With all I am</lines>
+    </verse>
+    <verse name="C4">
+      <lines>In Your Name
+I will lift my hands to the King
+This anthem of praise I bring
+Heaven knows, I long to love You
+With all I am, I belong to you</lines>
+    </verse>
+  </lyrics>
+</song>

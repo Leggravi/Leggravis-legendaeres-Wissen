@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>One Thing Remains</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Higher than the mountains that I face
+Stronger than the power of the grave
+Constant through the trial and the change
+One thing remains
+This one thing remains</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: Your love never fails, and never gives up
+It never runs out on me :/ x3</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Because on and on and on and on it goes
+Before it overwhelms and satisfies my soul
+And I never, ever, have to be afraid
+One thing remains
+This one thing remains</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In death, in life I'm confident and covered by the power of Your great love
+My debt is paid.
+There's nothing that can separate my heart from Your great love…</lines>
+    </verse>
+  </lyrics>
+</song>

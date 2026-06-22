@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Same God</title>
+    </titles>
+    <authors>
+      <author type="words">Hannah Kerr</author>
+      <author type="music">Hannah Kerr</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I look back on history,
+See the mighty God unveiled,
+Proving over and over
+That His Word can never fail;
+But I can't keep on dwelling
+On some past memory,
+'Cause He's the same God
+who's living in me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The same God who spoke to
+the woman at the well,
+The same God whose wonders
+too many to tell;
+The same God who parted
+the raging, red sea,
+He's the same God
+who's living in me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The same God who created
+all the Heavens and all the earth,
+Who came back living in Jesus,
+And there was power in His Word;
+But now in these last days,
+I'm beginning to see,
+That it's that same God
+who's living in me.</lines>
+    </verse>
+  </lyrics>
+</song>

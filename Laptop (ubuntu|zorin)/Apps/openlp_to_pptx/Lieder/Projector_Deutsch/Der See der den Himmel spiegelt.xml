@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Der See, der den Himmel spiegelt</title>
+    </titles>
+    <authors>
+      <author type="words">Johannes Jourdan</author>
+      <author type="music">Hella Heizmann</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Der See, der den Himmel spiegelt, 
+der Tau, der die Erde netzt.
+Der Baum, der uns Schatten spendet, 
+der Stein, der die Sense wetzt,
+erheben zu Gott ihre Stimme im Jubel, 
+der Berge versetzt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alles, was atmet, alles, was lebt,
+stimmt in den Jubel der Schöpfung ein!
+Gott zu lobsingen mit meinem Lied:
+Das soll der Sinn meines Lebens sein!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Die Wolken, die ostwärts ziehen,
+der Wind, der uns Kühlung bringt,
+der Wald, der so friedlich da liegt,
+der Vogel, der fröhlich singt,
+erheben zu Gott ihre Stimme,
+die selbst noch im Schweigen erklingt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alles, was atmet, alles, was lebt,
+stimmt in den Jubel der Schöpfung ein!
+Gott zu lobsingen mit meinem Lied:
+Das soll der Sinn meines Lebens sein!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Das spielende Kind im Sande,
+die Freunde, die mit uns gehn,
+der Säugling, in dem wir staunend
+die Handschrift des Schöpfers sehn,
+erheben zu Gott ihre Stimme,
+im Werden und auch im Vergehn.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Alles, was atmet, alles, was lebt,
+stimmt in den Jubel der Schöpfung ein!
+Gott zu lobsingen mit meinem Lied:
+Das soll der Sinn meines Lebens sein!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Der See und das Gras, die Wolken,
+der Vogel, der Wind, das Kind
+und alle, die froh entdecken,
+wozu sie geschaffen sind,
+erheben zu Gott ihre Stimme
+im Lied, das kein Ende mehr nimmt.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Alles, was atmet, alles, was lebt,
+stimmt in den Jubel der Schöpfung ein!
+Gott zu lobsingen mit meinem Lied:
+Das soll der Sinn meines Lebens sein!</lines>
+    </verse>
+  </lyrics>
+</song>

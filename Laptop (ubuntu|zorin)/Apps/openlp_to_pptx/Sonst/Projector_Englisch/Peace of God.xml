@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Peace of God</title>
+    </titles>
+    <authors>
+      <author type="words">Jeffrey T. Myers</author>
+      <author type="music">Anders Ruuth</author>
+      <author type="translation">Bewahre uns, Gott, behüte uns, Gott</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a peace to know that you are saved
+And that all your sins are washed away
+But then there is a peace that
+Passeth all understanding
+A peace that cannot easily be disturbed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For it's good to know you're justified
+Your sins are under the blood
+It's good to know you cannot be lost
+Under no circumstance
+But when the perils of this life
+Befall you everyday
+There is peace with God
+But most of all you need
+The peace of God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Father comes and shows you your standing
+And that all you have ever done wrong
+He doesn't remember
+But to face your everyday trials you need something
+That will give you settled peace
+And caused worrying to cease</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The Father comes and shows you your standing
+And that your sins were placed in the sea of His forgetfulness
+But sight and time being your worst enemies
+Breed far and sometimes insecurities</lines>
+    </verse>
+  </lyrics>
+</song>

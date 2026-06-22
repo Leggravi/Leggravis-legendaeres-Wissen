@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus nimmt die Sünder an</title>
+    </titles>
+    <authors>
+      <author type="words">Erdmann Neumeister</author>
+      <author type="music">Meinen Jesus lass ich nicht</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus nimmt die Sünder an.
+Saget doch dies Trostwort allen,
+welche von der rechten Bahn
+auf verkehrten Weg verfallen.
+Hier ist, was sie retten kann:
+Jesus nimmt die Sünder an.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Keiner Gnade sind wir wert;
+doch hat er in seinem Worte
+eidlich sich dazu erklärt.
+Sehet nur, die Gnadenpforte
+ist hier völlig aufgetan:
+Jesus nimmt die Sünder an.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kommet alle, kommet her,
+kommet, ihr betrübten Sünder!
+Jesus rufet euch, und er
+macht aus Sündern Gottes Kinder.
+Glaubet's doch und denket dran:
+Jesus nimmt die Sünder an.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich Betrübter komme hier
+und bekenne meine Sünden;
+lass, mein Heiland,
+mich bei dir Gnade zur Vergebung finden,
+dass dies Wort mich trösten kann:
+Jesus nimmt die Sünder an.</lines>
+    </verse>
+  </lyrics>
+</song>

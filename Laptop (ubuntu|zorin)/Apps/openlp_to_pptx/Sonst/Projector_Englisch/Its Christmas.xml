@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It's Christmas</title>
+    </titles>
+    <authors>
+      <author type="words">Steve Hindalong</author>
+      <author type="music">Terry Scott Taylor</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Can you feel it in the air
+Joy is everywhere, it's Christmas
+Everything is shining bright
+Oh what a glorious night, it's Christmas</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's the greatest time of the year
+It's the greatest time of the year</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come on let's celebrate, it's Christmas
+Be of good cheer, for Jesus is here
+Come on let's celebrate, it's Christmas
+So everybody sing
+And let the music ring, it's Christmas</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There is a reason why
+We celebrate tonight
+It's Jesus
+The greatest gift of all
+He came to save us all
+He's Jesus
+It's Christmas</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Come on let's celebrate
+Come on let's celebrate, it's Christmas
+Be of good cheer, for Jesus is here
+Come on let's celebrate, it's Christmas
+So everybody sing
+And let the music ring, it's Christmas</lines>
+    </verse>
+    <verse name="v6">
+      <lines>It's Christmas
+Gonna celebrate
+It's Christmas
+Let the music ring
+It's Christmas</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wie im Himmel</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dein Reich komme, Herr
+Dein Reich komme, Herr
+Dein Reich komme, Herr!
+DEIN Wille soll gescheh'n
+Wie wir's im Himmel seh'n!
+Jesus leb in uns
+bau dein Reich in uns,
+Lass es hier gescheh'n!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dann werden Blinde sehern.
+Lahme steh'n auf und gehen.
+Taube Ohren dürfen hören,
+Tote wieder auferstehen.
+Kranke werden heil
+Gefangene wieder frei.
+Die Trauernden werden fröhlich,
+Das Lob Deiner Kinder ewig.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dann werden Hungrige satt.
+Gebeugte richtest du auf
+Böse Geister fahren aus
+Neue Sprachen sprechen Zungen aus.
+Hier werden Wunder gescheh'n
+Viele werden Träume seh'n.
+Deinen heil'gen Geist gieß aus
+In unser Herz in unser Haus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wie im Himmel, wie im Himmel,
+Wie im Himmel so auf Erden!
+Wie im Himmel, wie im Himmel,
+Wie im Hlimmel so auch hier!</lines>
+    </verse>
+  </lyrics>
+</song>

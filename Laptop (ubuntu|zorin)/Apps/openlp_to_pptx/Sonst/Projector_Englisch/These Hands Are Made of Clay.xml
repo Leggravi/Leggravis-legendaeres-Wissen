@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>These Hands Are Made of Clay</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>These hands are made
+of clay I know
+These hands are made from dust
+But my soul shall live for ever more
+If in my God I trust.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This body has grown so tired
+Oh Lord
+With these old and work won hands,
+But when I die,
+I know my soul shall rest
+Up there in God’s great hands.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though these two feet,
+are made from earth.
+And to earth they must return,
+But when my soul shall reach its goal,
+Is now my great concern.</lines>
+    </verse>
+  </lyrics>
+</song>

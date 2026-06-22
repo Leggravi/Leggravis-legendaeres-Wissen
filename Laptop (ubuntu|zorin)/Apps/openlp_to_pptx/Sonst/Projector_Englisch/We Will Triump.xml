@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Will Triump</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We will triumph in the Lord
+We will triumph like never before
+For greater is He who makes me overcome
+We will walk in the power of His might
+We will shine forth His glorious light
+For greater is He who makes me overcome</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This wonderful faith</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This wonderful faith and this super-excellent love
+Are out of the Triune God, who earnestly desires
+To be joined to us to be our everything</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This Triune God passed through the process
+Of incarnation, crucifixion, resurrection from the dead
+And ascension to the heavens on high
+And was ultimately consummated as the life-giving Spirit</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This Spirit of Life who includes divinity
+Humanity and Christ's crucifixion
+Resurrection and ascension and is the reality
+Of the all-inclusive Christ
+Dwells in our regenerated spirit
+Dwells in our regenerated spirit</lines>
+    </verse>
+  </lyrics>
+</song>

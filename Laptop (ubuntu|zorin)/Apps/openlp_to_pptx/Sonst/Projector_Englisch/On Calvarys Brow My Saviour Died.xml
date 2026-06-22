@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>On Calvary's Brow My Saviour Died</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On Calvary’s brow my Saviour died,
+‘Twas there my Lord was crucified;
+‘Twas on the cross he bled for me,
+And purchased there my pardon free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It was on the cross he shed his blood,
+It was there he was crucified;
+But he rose again, and he lives in my heart
+Where all is peace and perfect love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh Calvary, dark Calvary,
+Where Jesus shed his blood for me.
+Oh Calvary, dark Calvary:
+Speak to my heart of Calvary.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>‘Mid rending rocks and darkening skies,
+My Saviour bows his head and dies;
+The opening veil reveals the way
+To Heaven’s joys and endless day.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh Jesus, Lord, how can it be
+That thou shouldst give thy life for me,
+To bear the cross and agony
+In that dread hour on Calvary?</lines>
+    </verse>
+  </lyrics>
+</song>

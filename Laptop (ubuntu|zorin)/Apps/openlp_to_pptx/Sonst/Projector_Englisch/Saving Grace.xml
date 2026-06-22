@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Saving Grace</title>
+    </titles>
+    <authors>
+      <author type="words">Michelle Fragar</author>
+      <author type="music">Michelle Fragar</author>
+    </authors>
+    <verseOrder>v1 v2 v2 v3 v2 v4 v5 v3 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Night and day I seek Your face
+Long for You in the secret place
+All I want in this life
+Is to truly know You more</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As the waters cover the sea
+So Your love covers me
+Guiding me on roads unknown
+I trust in You alone</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My saving grace, my endless love
+Deeper and deeper, I'm falling in love with You
+My one desire my only truth
+Deeper and deeper I'm falling in love with You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My saving grace, my endless love
+Deeper and deeper, I'm falling in love with You
+My one desire my only truth
+Deeper and deeper I'm falling in love with You
+With You fallin' in love with You ohh</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And I will rise on wings of eagles
+Soaring high above all my fears
+I rest in Your open arms of love</lines>
+    </verse>
+    <verse name="v6">
+      <lines>As the waters cover the sea
+So Your love covers me, covers me</lines>
+    </verse>
+  </lyrics>
+</song>

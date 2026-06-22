@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What God Hath Joined</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There was Adam in God's Eden,
+And yet all alone;
+Aching for some fellowship,
+With a kind of His own;
+Then he saw her, his bride,
+The one who came from his side,
+&quot;Bone of my bone, flesh of my flesh,&quot;
+He cried.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What God hath joined together,
+No man can put asunder;
+There's no power that can ever
+Separate us from His Love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Calvary brought a union,
+The Blood in the Bride;
+Spirit of His Spirit,
+And Life of His Life.
+Satan tries so hard to take Her,
+But he doesn't understand,
+There's no power that can take Her
+From His hand.</lines>
+    </verse>
+  </lyrics>
+</song>

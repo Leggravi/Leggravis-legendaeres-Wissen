@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Abend ward, bald kommt die Nacht</title>
+    </titles>
+    <authors>
+      <author type="words">Rudolf Alexander Schröder</author>
+      <author type="music">Samuel Rothenberg</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Abend ward, bald kommt die Nacht,
+schlafen geht die Welt;
+denn sie weiß, es ist die Wacht
+über ihr bestellt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Einer wacht und trägt allein
+ihre Müh und Plag,
+der lässt keinen einsam sein,
+weder Nacht noch Tag.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesu Christ, mein Hort und Halt,
+dein gedenk ich nun,
+tu mit Bitten dir Gewalt:
+Bleib bei meinem Ruh'n.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wenn dein Aug' ob meinem wacht,
+wenn dein Trost mir frommt,
+weiß ich, dass auf gute Nacht
+guter Morgen kommt.</lines>
+    </verse>
+  </lyrics>
+</song>

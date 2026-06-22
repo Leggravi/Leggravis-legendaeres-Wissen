@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Not as Others</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the valley of the shadow, when death breaks our heart,
+We feel the weight of sorrow as our world falls apart,
+But though we weep, we still believe in the promise of Christ,
+Our faith in Him is the confidence of everlasting life.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So we grieve, but not as others who have no hope,
+And we cry, but deep inside of us we know,
+The grave is not the end, reunion lies ahead,
+In the arms of Jesus there is comfort,
+Yes, we grieve, but not as others.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the tears are never ending and nights are so long,
+We hold on to the memories and we pray to carry on,
+But in the pain we find a grace only God could give,
+Death has no sin or victory because our Savior lives.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We grieve, but not as others who have no hope,
+And we cry, but deep inside of us we know,
+The grave is not the end, reunion lies ahead,
+In the arms of Jesus there is comfort.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yes, we grieve, but not as others,
+The grave is not the end, reunion lies ahead,
+In the arms of Jesus there is comfort,
+Yes, we grieve, but not as others,
+Yes, we grieve But not as others.</lines>
+    </verse>
+  </lyrics>
+</song>

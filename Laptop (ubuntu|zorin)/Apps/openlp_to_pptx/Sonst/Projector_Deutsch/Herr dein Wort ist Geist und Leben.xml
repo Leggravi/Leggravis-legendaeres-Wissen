@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, dein Wort ist Geist und Leben</title>
+    </titles>
+    <authors>
+      <author type="words">Rudolf Brockhaus</author>
+      <author type="music">Philipp Nicolai</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, Dein Wort ist Geist und Leben,
+Zum Licht und Heile uns gegeben,
+Wie haben wir's so oft verspürt!
+Bist auch heute uns begegnet,
+Hast mild und gnädiglich gesegnet,
+Auf grüne Auen uns geführt.
+Du schließt Dein Wort uns auf,
+Stärkst uns im Pilgerlauf,
+Bis zum Ziele,
+Zu jeder Frist.
+Wie selig ist,
+Dass Du selbst unser Hirte bist!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Als die Schäflein Deiner Herde,
+Die Du erkauft von dieser Erde,
+Sind wir nun Dein in Ewigkeit.
+Lass das Wort aus Deinem Munde,
+Das neu Du gabst in dieser Stunde,
+Auch mit uns gehen durch die Zeit!
+Herr, lehr' uns wachend stehn,
+Und wartend auf Dich sehn,
+Treu im Kleinen!
+Bald ruhen wir,
+O Herr, bei Dir,
+Und preisen dann Dich für und für.</lines>
+    </verse>
+  </lyrics>
+</song>

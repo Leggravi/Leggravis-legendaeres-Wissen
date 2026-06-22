@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Whispered Prayers</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Souls in danger, Bodies broken,
+Trouble here and everywhere,
+Arms that can't reach where they want to,
+Somehow make it through whispered prayers.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Whispered prayers ride the wings of
+Holy angels from here to there,
+God is listening when we speak them,
+There is power in whispered prayers.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dark the midnight, Low the valley,
+Doesn't seem that life is fair,
+What we need is our God's presence,
+It is ours now through whispered prayers.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God is listening when we speak them,
+There is power in whispered prayers.</lines>
+    </verse>
+  </lyrics>
+</song>

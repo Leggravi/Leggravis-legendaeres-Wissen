@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>To Be Like Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From bethlehem's manger
+came forth a stranger,
+on earth I long to be like Him;
+My faithful Saviour,
+How rich His favor!
+On earth I long to be like Him.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I want to walk like Jesus,
+I want to talk like Jesus,
+On earth I Iong to be like Him;
+All thru life's journey from earth
+to glory
+I only ask to be like Him</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To be like Jesus,
+To be like Jesus,
+On earth I Iong to be like Him;
+All thru life's journey from earth
+to glory
+I only ask to be like Him</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Serene and Holy,
+obedient, slowly,
+On earth I long to be like Him;
+By grace forgiven, an heir
+ of heaven,
+On earth I long to be like Him.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>To love like Jesus,
+To love like Jesus,
+On earth I Iong to love like Him;
+All thru life's journey from earth
+to glory
+I only ask to love like Him</lines>
+    </verse>
+  </lyrics>
+</song>

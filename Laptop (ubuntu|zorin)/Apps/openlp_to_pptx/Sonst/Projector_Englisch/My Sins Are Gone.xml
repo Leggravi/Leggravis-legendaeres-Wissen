@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Sins Are Gone</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You ask me why I'm happy so I'll just tell you why,
+Because my sins are gone;
+And when I meet the scoffers who ask me where they are,
+I say, &quot;My sins are gone.&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>They're underneath the blood on the cross of Calvary,
+As far removed as darkness is from dawn;
+In the sea of God's forgetfulness, that's good enough for me,
+Praise God, my sins are gone!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Twas at the old-time altar where God came in my heart
+And now my sins are gone;
+The Lord took full possession, the devil did depart,
+I'm glad my sins are gone!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When Satan comes to tempt me and tries to make me doubt,
+I say, &quot;My sins are gone,
+You got me into trouble but Jesus got me out.&quot;
+I'm glad my sins are gone!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I'm living now for Jesus, I'm happy night and day,
+Because my sins are gone;
+My soul is filled with music, with all my heart I say,
+&quot;I know my sins are gone!&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

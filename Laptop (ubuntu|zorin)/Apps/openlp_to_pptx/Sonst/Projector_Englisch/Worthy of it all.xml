@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Worthy of it all</title>
+    </titles>
+    <authors>
+      <author type="words">David Brymer</author>
+      <author type="music">David Brymer</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All the saints and angels bow before Your throne
+All the elders cast their crowns before the Lamb of God and sing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are worthy of it all,
+You are worthy of it all
+For from You are all things,
+And to You are all things,
+You deserve the glory</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Day and night, night and day, let incense arise
+Day and night, night and day, let incense arise</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I exalt thee, I exalt thee
+I exalt thee, oh Lord</lines>
+    </verse>
+  </lyrics>
+</song>

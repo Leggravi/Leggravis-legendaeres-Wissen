@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:36">
+  <properties>
+    <titles>
+      <title>Wenn ich an mir selbst verzage</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Friedrich Hiller (1767)</author>
+      <author type="music">Herz und Herz vereint zusammen</author>
+    </authors>
+    <ccliNo>6222815</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wenn ich an mir selbst verzage,
+tröstet mich noch Gottes Macht,
+dass ich's in dem Glauben wage,
+bis ich meinen Lauf vollbracht.
+Hab ich seine Macht erfahren,
+da mir mancher Fall gedroht,
+o so wird sie mich bewahren
+bis zu meinem selgen Tod.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gottes Macht, die mich bekehrte,
+die den Glauben in mir schuf,
+beten, kämpfen, dulden lehrte,
+ist mir nahe, wenn ich ruf.
+Dass ich schwach bin, wird er wissen,
+dass er stark ist, weiß auch ich.
+Der mich aus dem Tod gerissen,
+ist noch dieser Gott für mich.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hang, mein Herz, an seinen Händen!
+Was du nicht kannst, wird er tun,
+was er anfing, wird er enden,
+eher wird er ja nicht ruhn.
+Herr, ich glaube deinen Worten,
+deiner Macht vertrau ich noch:
+streiten auch der Hölle Pforten,
+sieget deine Rechte doch.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Night Song</title>
+    </titles>
+    <authors>
+      <author type="words">Colin Buchanan</author>
+      <author type="music">Colin Buchanan</author>
+      <author type="translation">Das Nachtlied (Gott ist da in dunklen Nächten)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the darkness God will keep me
+He will stay and never sleep
+In the darkness God is brighter
+Though the night is long and deep</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All this day Your hand has held me
+God of Heaven, by my side
+Thank you, Father, for Your goodness
+You will hold me through the night</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the shadows You are with me
+And you know my every fear
+In the shadows none can harm me
+For the mighty King is here</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So I find my rest in Jesus
+He who came to rescue me
+Jesus saved me from the darkness
+I will rise to life with him</lines>
+    </verse>
+  </lyrics>
+</song>

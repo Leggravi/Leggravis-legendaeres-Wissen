@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Passion of Our Saviour</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The passion of our Saviour
+The mercy of our God
+The cross that leaves no question
+Of the measure of His love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Our chains are gone
+Our debt is paid
+The cross has overthrown the grave
+For Jesus’ blood that sets us free
+Means death to death
+And life for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Innocent judged guilty
+While the guilty one walks free
+Death would be His portion
+And our portion liberty</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I give my whole life
+To honour this love
+By the Lamb who was slain
+I’m forgiven</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The sinner’s Saviour
+Crown Him forever
+For the Lamb who was slain
+He is risen</lines>
+    </verse>
+  </lyrics>
+</song>

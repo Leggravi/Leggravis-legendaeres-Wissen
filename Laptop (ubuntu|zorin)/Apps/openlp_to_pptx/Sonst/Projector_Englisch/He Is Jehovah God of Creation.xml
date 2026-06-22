@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Is Jehovah, God of Creation</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He is Jehovah, God of creation.
+He is Jehovah, Lord God almighty.
+The Balm of Gilead, the Rock of Ages.
+He is Jehovah, the God that healeth thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am the great I Am, the God of Abraham,
+Jehovah Shalom, the God peace I am.
+The God of Israel, the Everlasting One.
+He is Jehovah, the God that healeth thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sing hallelujah, sing hallelujah,
+Sing hallelujah, sing hallelujah.
+He is Jehovah, Lord God almighty.
+He is Jehovah, the God that healeth thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I am your Provider, Jehovah Jireh;
+God of salvation, God of Messiah;
+My Son who came to you, and testified of him.
+I am Jehovah, the God that healeth thee.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hab geglaubt und darum sing ich</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">John Zundel</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hab geglaubt und darum sing ich
+von der Gnade, die geschah,
+von Erbarmung und Erlösung
+in dem Blut auf Golgatha.
+Darum sing ich Dir, der sterbend
+alles, alles hat vollbracht,
+Lamm, das meine Sünden wegnahm,
+Gotteslamm, für mich geschlacht´t.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hab geglaubt und darum höher,
+höher als des Kreuzes Stamm,
+schau ich auf Dich, Hoherpriester,
+der zugleich mein Opferlamm,
+der als Anwalt vor dem Vater
+all die Seinen jetzt vertritt,
+weil Er einst mit Himmelswaffen
+Satan kämpfend niederstritt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hab geglaubt an Dich, für Sünder
+mit dem Dornenkranz geziert,
+der, gekrönt mit ew'gen Ehren,
+jetzt des Himmels Zepter führt;
+dem, wenn Er wird wiederkommen
+zum Gericht der ganzen Welt,
+droben, unten und auf Erden
+alle Welt zu Füßen fällt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ja, ich glaube, darum sing ich,
+darum sing ich Dir zur Ehr,
+Weltenheiland, Hoherpriester,
+aller Herren Oberherr.
+Gottes Sohn und Sohn des Menschen,
+komm in Deiner Lichtgestalt
+auf des Himmels Wolken wieder,
+komm, Herr Jesus, komme bald!</lines>
+    </verse>
+  </lyrics>
+</song>

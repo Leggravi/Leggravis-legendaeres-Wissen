@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>For Who Am I</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I think of how He came
+So far from glory
+He came to dwell
+among the lowly such as I
+To suffer shame and such disgrace
+On Mount Calvary take my place
+Then I ask myself this question
+Who am I?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who am I that The King
+Would bleed and die for
+Who am I that He would pray
+&quot;Not my will, thine Lord.&quot;
+The answer I'm beginning to know
+Why He ever loved me so
+That to that old rugged cross He'd go
+For who am I.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Well, I'm reminded of His words,
+&quot;I'll leave you never.
+If you'll be true
+I'll give to you life forever.&quot;
+Oh I wonder what I could have done
+To deserve God's only Son
+To fight my battles until they're won
+For who am I.</lines>
+    </verse>
+  </lyrics>
+</song>

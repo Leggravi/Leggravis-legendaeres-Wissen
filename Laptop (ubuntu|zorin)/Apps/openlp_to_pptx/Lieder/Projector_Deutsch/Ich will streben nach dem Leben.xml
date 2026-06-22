@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich will streben nach dem Leben</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Friedrich Hiller</author>
+      <author type="music">Gütersloh</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich will streben nach dem Leben, wo ich selig bin;
+ich will ringen, einzudringen, bis dass ich's gewinn.
+Hält man mich, so lauf ich fort, bin ich matt, so ruft das Wort:
+Fortgerungen, durchgedrungen bis zum Kleinod hin!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Als berufen zu den Stufen vor des Lammes Thron
+will ich eilen; das Verweilen bringt oft bösen Lohn.
+Wer auch läuft und läuft zu schlecht, der versäumt das Kronenrecht.
+Was dahinten, das mag schwinden! Ich will nichts davon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesu, richte mein Gesichte nur auf jenes Ziel;
+lenk die Schritte, stärk die Tritte, wenn ich Schwachheit fühl!
+Lockt die Welt, so sprich mir zu, schmäht sie mich, so tröste du;
+deine Gnade führ gerade mich aus ihrem Spiel!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du must ziehen, mein Bemühen ist zu mangelhaft.
+Wo ihr's fehle, spürt die Seele; aber du hast Kraft,
+weil dein Blut ein Leben bringt und dein Geist das Herz durchdringt.
+Dort wird's tönen bei dem Krönen: Gott ist's, der es schafft.</lines>
+    </verse>
+  </lyrics>
+</song>

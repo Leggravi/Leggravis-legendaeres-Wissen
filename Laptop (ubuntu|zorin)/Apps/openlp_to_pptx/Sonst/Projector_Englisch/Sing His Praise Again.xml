@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sing His Praise Again</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, the weight of His glory
+Oh, the wonder of His grace
+The power of salvation
+Oh, that pulled me from the grave
+This hope is not empty
+And forever He will reign
+And He won't be put to shame</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And oh my soul
+Sing to the God of the ages
+Sing to the Lord of creation
+Sing His praise again
+And oh my soul
+Sing like the heavens are waiting
+Roar like an army of angels
+Sing His praise again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From the moment of rescue
+I have never been the same
+When His love took me captive
+And my sin was washed away
+Now I stand here forgiven
+And I know that I am saved
+And I won't be put to shame</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And oh my soul
+Sing to the God of the ages
+Sing to the Lord of creation
+Sing His praise again
+Oh my soul
+Sing like the heavens are waiting
+Roar like an army of angels
+Sing His praise again</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And remember how our God
+Has never failed, never failed us
+Remember that His name
+Will make a way, He'll make a way
+And from the cross to the grave
+He is risen and He reigns
+Oh praise the Lord
+And sing His praise again</lines>
+    </verse>
+  </lyrics>
+</song>

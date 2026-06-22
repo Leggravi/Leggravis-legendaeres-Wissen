@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Gave Himself</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Before the fall of man
+God had a perfect plan
+To fellowship with us was His desire
+But Adam disobeyed to sin became a slave
+Now a perfect sacrifice would be required</lines>
+    </verse>
+    <verse name="v2">
+      <lines>An offering must be made
+The sin debt must be paid
+So God and man can reconciled be
+But Jesus said I'll go
+Because He loves me so
+He shed His blood and payed sins penalty</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He gave himself
+To pay a debt I could not pay
+When I was lost, He gave himself to be my way
+Though I deserve to be upon the cross that day
+In love He took my place and gave himself</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No greater love is known
+No greater love is shown
+That when one lays His life down for a friend
+But Jesus died for me when I was His enemy
+A love like this I cannot comprehend</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My nails were in His hand
+My crown of thorns He wore
+My stripes were on His back
+My heavy cross He bore
+And when God turned His back
+He turned it on my sin
+Jesus won a victory that I could never win</lines>
+    </verse>
+  </lyrics>
+</song>

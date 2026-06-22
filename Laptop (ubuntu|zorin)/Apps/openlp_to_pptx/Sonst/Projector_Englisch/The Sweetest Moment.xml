@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Sweetest Moment</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The sweetest moment of all moments
+All the time in all my days
+Nothing beats the thing I relish
+When I praise Your name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In my mind the great remembrance
+In my heart the purest love
+In my tongue the best word spoken
+Is Your name above</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In all of my mornings In all of my evenings
+And in everything First and foremost
+Lord I give you praise</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Praise Your name, Jesus Lord
+I give You all my highest praise
+Praise Your name, Jesus
+You deserve the honor, the glory
+And my highest praise</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The sweetest moment of all moments
+All the time I long to spend
+Knowing that I’m in Your presence
+I praise Your name</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I think about Your love and goodness
+Your Word and grace in me abounds
+Overwhelmed with deepest thank
+Yous I’d sing out loud</lines>
+    </verse>
+  </lyrics>
+</song>

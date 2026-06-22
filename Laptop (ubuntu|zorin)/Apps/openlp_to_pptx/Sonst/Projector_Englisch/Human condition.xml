@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Human condition</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I fake my confidence and put it on like armor
+Five-foot-nine so I try to stand a little taller
+To measure up I got to work a little harder
+It's the human condition</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I do it all to make it perfect for the picture
+Pretty smile, let me find the perfect filter
+If they believe it maybe I'll believe it with them
+That's the human condition</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, help me, I'm so tired of pretending
+I can't hold it together, when I know that I can't
+Lord, show me, I don't have to be worthy
+It's because of Your mercy
+You love me, You love me
+Just as I am
+You love me, You love me, You love me
+Just as I am
+You love me, You love me, You love me
+Just as I am</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A crown of thorns and a cross that was too heavy
+My jaded heart was unaware it needed saving
+You could have turned, could have run, could have left me in my…
+My human condition</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And if I'm really being honest
+Every day I struggle with the promise
+That all I am is all You ever wanted, ever wanted</lines>
+    </verse>
+    <verse name="v6">
+      <lines>When I'm lost in my fear
+In the dark, insecure
+Let me fall in the arms
+Of the One who loves me</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Just as I am
+You love me, You love me, You love me
+Just as I am
+You love me, You love me, You love me
+Just as I am
+All my dirt, all my scars
+Every burden on my heart
+You take them all, take them all
+Every tear (You love me)
+Every stain (You love me)
+You wash away
+'Cause You love me
+Just as I am</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>A Few Good Men</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What this dying world could use is a willing Man of God
+Who dares to go against the grain and works without applause
+A man who'll raise the shield of Faith, protecting what is pure
+Whose love is tough and gentle; a man whose word is sure</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God doesn't need an Orator who knows what just to say
+He doesn't need authorities to reason Him away
+He doesn't need an army to guarantee a win
+He just needs a few good men</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Men full of compassion, who laugh and love and cry
+Men who'll face Eternity and aren't afraid to die
+Men who'll fight for freedom and honor once again
+He just needs a few good men</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He calls the broken derelict whose life has been renewed
+He calls the one who has the strength to stand up for the truth
+Enlistment lines are open and He wants you to come in
+He just needs a few good men</lines>
+    </verse>
+  </lyrics>
+</song>

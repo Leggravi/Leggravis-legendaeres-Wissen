@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Called Out</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Some folks I know, by their name,
+Some I just known by their face,
+Some are known, by their fame,
+Others are known by their race.
+But in the kingdom of our Lord,
+Each soul has their place.
+And in my mind, I have no doubt,
+By names, we’ve been called out.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And we’ve been called out,
+For a purpose called out,
+To be a servant called out,
+To raise a standard He’s called you out
+To raise the banner called out,
+To be a witness called out,
+To show forgiveness called out,
+From the world, child you’ve been called out.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Within the prison, walls that day,
+The jailer had bound up their feet,
+Stripped up their garment, there they lay,
+Bleeding from where they were beaten
+But about midnight, all began to pray,
+Silently started to sing,
+The walls shook all, their bounds open wide,
+God said you’ve been called out.</lines>
+    </verse>
+  </lyrics>
+</song>

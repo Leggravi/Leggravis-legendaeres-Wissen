@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich bin entschieden, zu folgen Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Anton Schulte</author>
+      <author type="music">Indien</author>
+      <author type="translation">I have decided to follow Jesus</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich bin entschieden, zu folgen Jesus (3x) niemals zurück(2x).
+
+Ob niemand mit mir geht,ich will ihm folgen, niemals zurück(2x).
+
+Die Welt liegt hinter mir,das Kreuz steht vor mir, niemals zurück(2x).</lines>
+    </verse>
+  </lyrics>
+</song>

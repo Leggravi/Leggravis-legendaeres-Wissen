@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist ein mächt'ge Gott</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist ein mächt'ge Gott,
+Herrscher aller Kreatur,
+Du der lebendige Gott,
+der Große: &quot;Ich bin&quot;!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist der Heilige, der vollkommen Reine.
+Du bist an allem Herr,
+und doch nennst du mich Freund.</lines>
+    </verse>
+  </lyrics>
+</song>

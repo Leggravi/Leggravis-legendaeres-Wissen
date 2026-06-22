@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Spirit Fall Down</title>
+    </titles>
+    <authors>
+      <author type="words">Tom Field</author>
+      <author type="music">Tom Field</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We're all gathered here,
+In Your presence Lord,
+With our arms open wide,
+With lifted hands and with open hearts,
+We welcome You to abide.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh Lord we need Your Spirit,
+Your Holy Spirit, right now,
+Oh Lord give us Your Spirit,
+Your Holy Spirit, right now.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We can do nothing,
+Until You come, dear Lord,
+For we are so unworthy,
+To even call on Your name,
+So please please, please, please,
+Please Lord hear our prayer,
+And don't let our coming be in vain.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Spirit, Spirit fall fresh on me,
+Spirit, Spirit fall fresh on me,
+Fall down (fall down),
+Fall down (fall down),
+Fall fresh on me,
+Fall down (fall down),
+Fall down (fall down), fall fresh on me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Holy spirit, Holy Spirit
+I need you to abide in me
+In everything that I do,
+Everything I say Lord
+I need you in my home
+And even when I'm riding down
+The dangerous highways I need You,
+I need You.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>To fall down (fall down),
+fall down (fall down),
+Fall fresh on me
+Fall down (fall down),
+fall down (fall down),
+Fall fresh on me</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Spirit Spirit fall fresh on me,
+Spirit Spirit fall fresh on me,
+Spirit Spirit fall fresh on me.</lines>
+    </verse>
+  </lyrics>
+</song>

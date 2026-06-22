@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God Is Fulfilling Word</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God is fulfilling His Word,
+God is fulfilling His Word,
+The Spirit's confirming it,
+Saints are believing it,
+God is fulfilling His Word.</lines>
+    </verse>
+  </lyrics>
+</song>

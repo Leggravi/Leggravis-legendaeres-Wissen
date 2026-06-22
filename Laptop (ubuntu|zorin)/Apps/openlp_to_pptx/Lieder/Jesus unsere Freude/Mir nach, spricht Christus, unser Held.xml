@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:28">
+  <properties>
+    <titles>
+      <title>Mir nach, spricht Christus, unser Held</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Scheffler (1668)</author>
+      <author type="words">Angelus Silesius (1668)</author>
+      <author type="music">Machs mit mir, Gott, nach deiner Güt</author>
+    </authors>
+    <ccliNo>5226489</ccliNo>
+    <themes>
+      <theme>Lebensweg</theme>
+      <theme>Nachfolge</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>"Mir nach", spricht Christus, unser Held/Herr,
+mir nach, ihr Christen alle!
+Verleugnet euch, verlasst die Welt,
+folgt meinem Ruf und Schalle;
+nehmt euer Kreuz und Ungemach
+auf euch, folgt meinem Wandel nach.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich bin das Licht, ich leucht euch für
+mit heilgem Tugend leben.
+Wer zu mir kommt und folget mir,
+darf nicht im Finstern schweben.
+Ich bin der Weg, ich weise wohl,
+wie man wahrhaftig wandeln soll.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich zeig euch das, was schädlich ist,
+zu fliehen und zu meiden
+und euer Herz von arger List
+zu rein'gen und zu scheiden.
+Ich bin der Seelen Fels und Hort
+und führ euch zu der Himmelspfort.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fällt's euch zu schwer? Ich geh voran,
+ich steh euch an der Seite,
+ich kämpfe selbst, ich brech die Bahn,
+bin alles in dem Streite.
+Ein böser Knecht, der still mag stehn,
+sieht er voran den Feldherrn gehn.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wer seine Seel zu finden meint,
+wird sie ohn mich verlieren;
+wer sie um mich verlieren scheint,
+wird sie nach Hause führen.
+Wer nicht sein Kreuz nimmt und folgt mir,
+ist mein nicht wert und meiner Zier.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>So lasst uns denn dem lieben Herrn
+mit unserm Kreuz nachgehen
+und wohlgemut, getrost und gern
+in allem Leiden stehen.
+Wer nicht gekämpft, trägt auch die Kron
+des ewgen Lebens nicht davon.</lines>
+    </verse>
+  </lyrics>
+</song>

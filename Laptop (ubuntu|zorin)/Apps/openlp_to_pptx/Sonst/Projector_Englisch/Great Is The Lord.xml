@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Great Is The Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Anja Lehmann</author>
+      <author type="music">Klaus Bittner</author>
+      <author type="translation">Groß ist der Herr</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Great is the Lord
+And greatly to be praised,
+In the city of our God,
+In the mountain of His holiness.
+Beautiful for situation,
+The joy of the whole earth,
+Is mount Zion on the sides of the north
+The city of the great King,
+Is mount Zion on the sides of the north,
+The city of the great King!</lines>
+    </verse>
+  </lyrics>
+</song>

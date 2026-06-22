@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Schritt für Schritt</title>
+    </titles>
+    <authors>
+      <author type="words">Mike Müllerbauer</author>
+      <author type="music">Mike Müllerbauer</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Schritt für Schritt, gemeinsam nach vorne.
+Hand in Hand, bei Arbeit und Spiel.
+Einer für alle und alle für Jesus
+gehn wir voran bis ans Ziel,
+gehn wir voran bis ans Ziel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tausend Fragen suchen Antwort,
+ausprobieren und studiern.
+Wege finden, Brücken bauen,
+Lieder singen, musiziern.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Schritt für Schritt, gemeinsam nach vorne.
+Hand in Hand, bei Arbeit und Spiel.
+Einer für alle und alle für Jesus
+gehn wir voran bis ans Ziel,
+gehn wir voran bis ans Ziel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sternenhimmel, Lagerfeuer,
+große Feier, stille Zeit.
+Jeder Tag ein Abenteuer.
+Licht sein in der Dunkelheit.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Schritt für Schritt, gemeinsam nach vorne.
+Hand in Hand, bei Arbeit und Spiel.
+Einer für alle und alle für Jesus
+gehn wir voran bis ans Ziel,
+gehn wir voran bis ans Ziel.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gott erleben in der Schöpfung,
+enge Räume werden weit.
+Im Vertraun auf seine Hilfe,
+sind wir alle Zeit bereit!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Schritt für Schritt, gemeinsam nach vorne.
+Hand in Hand, bei Arbeit und Spiel.
+Einer für alle und alle für Jesus
+gehn wir voran bis ans Ziel,
+gehn wir voran bis ans Ziel.</lines>
+    </verse>
+  </lyrics>
+</song>

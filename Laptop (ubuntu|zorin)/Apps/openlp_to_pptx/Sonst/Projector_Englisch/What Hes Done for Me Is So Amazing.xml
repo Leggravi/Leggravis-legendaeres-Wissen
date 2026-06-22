@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What He's Done for Me Is So Amazing</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What He's done for me is so amazing.
+The love He has for me I cannot explain.
+All I know is I once was lost but now I'm found.
+I was blind but now I see
+And I know He will do for you,
+What He's done for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What he's done for me is so amazing (Yeah yeah eh),
+The love he has for me I cannot explain (Oh),
+All I know is I once was lost but now I'm found.
+I was blind but now I see
+And I know He will do for you,
+What He's done for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amazing love (Love so amazing),
+Amazing love (So incredible),
+Amazing love (The love of my savior),
+Amazing love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All I know is I once was lost but now I'm found.
+I was blind but now I see
+And I know He will do for you
+What He's done for me.
+Amazing love (So incredible),
+Amazing love (So amazing),
+Amazing love (The love of my savior),
+Amazing love.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>All I know is I once was lost but now I'm found.
+I was blind but now I see</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And I know He will do for you
+What He's done for me. (For me)
+And I know He will do for you
+What He's done for me.
+And I know He will do for you
+What He's done for me.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Where Thou Leadest Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Where Thou leadest me
+I dare not find complaint
+For Thou hast never left
+Nor will for all my days
+Thy presence is my good
+And it shall ever be
+I will go where Thou leadest me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sovereign is Thy hand
+To guide me when I’m worn
+Thy good and perfect will
+Holds fast through every storm
+What time I am afraid
+My faith looks up to Thee
+I will trust where Thou leadest me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On the mountain high
+Through the valley deep
+I will go where Thou leadest me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Shepherd keep me near
+For I am prone to stray
+The frailty of my flesh
+Seeks refuge in Thy grace
+This promise is my peace
+My soul is safe in Thee
+I will rest as Thou leadest me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/: On the mountain high
+Through the valley deep
+I will go where Thou leadest me :/</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Savior light my path
+Until that final day
+If Thou art Lord of life
+Why should I fear the grave?
+Proud death has lost its sting
+For all eternity
+I will rise where Thou leadest me
+Home with Christ where Thou leadest me</lines>
+    </verse>
+  </lyrics>
+</song>

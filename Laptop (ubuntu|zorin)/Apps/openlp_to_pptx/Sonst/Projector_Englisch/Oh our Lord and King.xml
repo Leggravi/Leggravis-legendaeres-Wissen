@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh our Lord and King</title>
+    </titles>
+    <authors>
+      <author type="words">Alan Rose</author>
+      <author type="music">Alan Rose</author>
+      <author type="translation">Unser Gott und Herr</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh our Lord and King
+Our praise to You we bring
+There is no other Rock but You
+Seated high above
+You are the One we love
+This is our song
+Of praise to You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>King forever! You are the first
+And You're the last
+You are sovereign
+All Your commands
+Will always come to pass
+To give You glory</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who is like You
+Who else is worthy
+Of our praise
+We exalt You
+You reign in majesty
+And awesome splendour
+King forever</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Abba Father
+Your steadfast love
+Will never fail
+You are faithful
+You are God
+And I will worship
+In Your courts forever</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 20, 2019, 8:25:00 PM">
+  <properties>
+    <titles>
+      <title>He Knew Me</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>I'm not on an ego trip
+I'm nothing on my own
+I make mistakes and often slip
+Just common flesh and bone
+But I'll prove someday
+just why I say
+I'm of a special kind
+For when He was on the cross
+I was on His mind.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>He knew me, yet He loved me
+He whose glory makes the heavens shine
+I was so unworthy of such mercy
+But when He was on the cross
+I was on his mind.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>The look of love was on His face
+The thorns were upon His head
+The blood ran down that scarlet robe
+It's stained with crimson red
+As His eyes were upon
+that crowd that day
+Jesus looked ahead in time
+While He was on the cross
+You and I were on His mind.</lines>
+    </verse>
+  </lyrics>
+</song>

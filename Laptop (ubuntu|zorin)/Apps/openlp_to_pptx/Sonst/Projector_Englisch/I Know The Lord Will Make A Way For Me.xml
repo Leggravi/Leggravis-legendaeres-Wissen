@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Know The Lord Will Make A Way For Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know the Lord will make a way for me.
+I know the Lord will make a way for me.
+If I live a holy life,
+Shun the wrong and do the right,
+I know the Lord will make a way for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He died to save me from my sin and shame.
+He died to save me from my sin and shame.
+Though my needs be great or small
+He has suffered for them all,
+He died to save me from my sin and shame.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Twill be a joy to hear Him say well done.
+'Twill be a joy to hear Him say well done.
+If I trust and never doubt,
+Pay my tithes and sing and shout,
+'Twill be a joy to hear Him say well done.</lines>
+    </verse>
+  </lyrics>
+</song>

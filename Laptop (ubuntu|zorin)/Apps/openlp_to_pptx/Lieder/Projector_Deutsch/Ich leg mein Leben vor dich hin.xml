@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich leg mein Leben vor dich hin</title>
+    </titles>
+    <authors>
+      <author type="words">Evie Sturm</author>
+      <author type="music">Jonathon Douglass</author>
+      <author type="translation">One Way, Jesus</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich leg mein Leben vor dich hin,
+alles, was ich hab und bin.
+Ich komm zu dir und du bist immer da.
+In schweren Zeiten such ich dich.
+Zuerst kommst du und dann komm ich.
+Ich geb mein Leben dir, meinem Herrn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, du bist der,
+für den allein ich leben möchte.
+Jesus, du bist,
+der für den ich alles geben möchte.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du bist einfach immer hier,
+überall bist du bei mir,
+und nur durch deine Gnade lebe ich.
+Du bleibst derselbe durch die Zeit.
+Du bleibst in alle Ewigkeit
+und deine Größe ändert sich nicht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Weg, Wahrheit, Leben bist du für mich.
+Ich glaube, auch wenn ich nicht seh, an dich.
+Für dich nur lebe ich.</lines>
+    </verse>
+  </lyrics>
+</song>

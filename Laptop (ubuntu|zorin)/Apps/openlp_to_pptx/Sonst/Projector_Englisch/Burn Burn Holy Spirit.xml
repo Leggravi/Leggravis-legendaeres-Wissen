@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Burn, Burn Holy Spirit</title>
+    </titles>
+    <authors>
+      <author type="words">Nathan Fellingham</author>
+      <author type="music">Nathan Fellingham</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Burn, burn, Holy Spirit,
+burn in me,
+Set my soul on fire
+Fill me with the Holy Ghost
+and God’s full desire,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Make me like the Christ of old,
+Healing and raising the dead,
+Give me the power that Jesus had,
+Through the blood that was shed.</lines>
+    </verse>
+  </lyrics>
+</song>

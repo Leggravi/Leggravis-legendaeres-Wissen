@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:53">
+  <properties>
+    <titles>
+      <title>Nun gib uns Pilgern aus der Quelle</title>
+    </titles>
+    <authors>
+      <author type="words">Otto Riethmüller (1935)</author>
+      <author type="music">Loys Bourgeois</author>
+    </authors>
+    <ccliNo>5217010</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nun gib uns Pilgern aus der Quelle
+der Gottesstadt den frischen Trank;
+lass über der Gemeinde helle
+aufgehn dein Wort zu Lob und Dank.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gib deiner Liebe Lichtgedanken
+mit Vollmacht uns in Herz und Mund;
+mach, woran Leib und Seele kranken,
+durch deine Wunderhand gesund.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Schließ auf, Herr, über Kampf und Sorgen
+das Friedenstor der Ewigkeit.
+In deiner Burg sind wir geborgen,
+durch dich gestärkt, zum Dienst bereit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zeig uns dein königliches Walten,
+bring Angst und Zweifel selbst zur Ruh.
+Du wirst allein ganz recht behalten;
+Herr, mach uns still und rede du.</lines>
+    </verse>
+  </lyrics>
+</song>

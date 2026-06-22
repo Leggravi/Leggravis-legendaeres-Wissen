@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Child your cries have awoken the master</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Crossing the calm sea with Jesus
+The disciples were getting concerned
+The wind started violently blowing,
+But He was asleep in the stern,
+&quot;Does He not care that we perish?
+We're helpless and we're so afraid&quot;
+Jesus arose when they called Him,
+And said to them &quot;Where is your faith?&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Cause you prayed all night
+'Cause you've held on with all of your might,
+Child your cries have awoken the master
+Oh He knows your voice
+Lift your hands it's time to rejoice
+Child your cries have awoken the master</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It hit you without any warning
+The storm of your life had begun,
+Seeing no hope in the distance,
+So frightened with nowhere to run
+By now your vessel is filling,
+And you're thinking that you'll surely drown,
+You cried out for help from the savior,
+And you know you can't give up now</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You're up there worried
+That he's fast asleep,
+The wind's are so deadly,
+The waters so deep,
+But try to be patient,
+Cause soon He'll bring peace,
+Just one word from His voice
+And all must be cease</lines>
+    </verse>
+  </lyrics>
+</song>

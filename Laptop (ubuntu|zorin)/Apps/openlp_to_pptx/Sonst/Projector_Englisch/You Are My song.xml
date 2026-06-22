@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Are My song</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Early will I rise and worship You
+Giving you thanks, for all that you do
+My sacrifice off praise I offer You
+And You give to me, that sweet melody</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are my song, You are my song
+You are the reason,
+I sing this song to You
+You are my song, You are my song
+You are the reason, I sing to you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Early will I rise and worship You
+Giving You thanks, for all that you do
+My sacrifice off praise I offer You
+And You give to me, that sweet melody</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are my song, You are my song
+You are the reason,
+I sing this song to You
+You are my song, You are my song
+You are the reason, I sing to you</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I will sing a new song unto You
+Words from the heart, broken apart
+There is nothing like we rather do
+'Cause You are my joy, to You I employ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You are my song, You are my song
+You are the reason,
+I sing this song to You
+You are my song, You are my song
+You are the reason, I sing to you</lines>
+    </verse>
+  </lyrics>
+</song>

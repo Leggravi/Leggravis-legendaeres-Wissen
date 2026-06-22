@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It’s Me It’s Me O Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It’s Me, It’s Me, O Lord,
+Standing In The Need Of Prayer;
+It’s Me, It’s Me, O Lord,
+Standing In The Need Of Prayer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Not My Brother, Not My Sister,
+But It’s Me, O Lord,
+Standing In The Need Of Prayer;
+Not My Brother, Not My Sister,
+But It’s Me, O Lord,
+Standing In The Need Of Prayer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It’s Me, It’s Me, O Lord,
+Standing In The Need Of Prayer;
+It’s Me, It’s Me, O Lord,
+Standing In The Need Of Prayer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Not The Preacher, Not The Deacon,
+But It’s Me, O Lord,
+Standing In The Need Of Prayer;
+Not The Preacher, Not The Deacon,
+But It’s Me, O Lord,
+Standing In The Need Of Prayer.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>It’s Me, It’s Me, O Lord,
+Standing In The Need Of Prayer;
+It’s Me, It’s Me, O Lord,
+Standing In The Need Of Prayer.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Not My Father, Not My Mother,
+But It’s Me, O Lord,
+Standing In The Need Of Prayer;
+Not My Father, Not My Mother,
+But It’s Me, O Lord,
+Standing In The Need Of Prayer.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>It’s Me, It’s Me, O Lord,
+Standing In The Need Of Prayer;
+It’s Me, It’s Me, O Lord,
+Standing In The Need Of Prayer.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Not The Stranger, Not My Neighbour,
+But It’s Me, O Lord,
+Standing In The Need Of Prayer;
+Not The Stranger, Not My Neighbour,
+But It’s Me, O Lord,
+Standing In The Need Of Prayer</lines>
+    </verse>
+    <verse name="v9">
+      <lines>It’s Me, It’s Me, O Lord,
+Standing In The Need Of Prayer;
+It’s Me, It’s Me, O Lord,
+Standing In The Need Of Prayer.</lines>
+    </verse>
+  </lyrics>
+</song>

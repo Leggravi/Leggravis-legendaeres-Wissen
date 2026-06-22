@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Danke, mein Vater</title>
+    </titles>
+    <authors>
+      <author type="words">Berta Schmidt-Eller</author>
+      <author type="music">Helen Howarth Lemmel</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Danke, mein Vater, für alles was du schenkst.
+Danke, dass selbst im Kleinsten du heute an mich denkst.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Danke, dass alles zu meinem Besten dient,
+auch wenn ich es nicht verstehe, du siehst den Sinn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Danke, dass Fragen, die uns das Dasein stellt,
+vor dir nicht verborgen sind. Herr, das gibt uns Mut.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Danke, dass durch dich die Schuld vergeben ist,
+dass du freimachst von Zwängen, die uns bedrohen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Danke, dass Beten an offene Ohren dringt,
+dass du hörst auf unser Rufen, uns Hilfe schenkst.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Danke, dass mit dir die Fülle zu uns kommt,
+dass ein Leben aus Freude uns ganz erfüllt.</lines>
+    </verse>
+  </lyrics>
+</song>

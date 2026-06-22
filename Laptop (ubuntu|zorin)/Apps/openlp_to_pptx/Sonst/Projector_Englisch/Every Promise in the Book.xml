@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Every Promise in the Book</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Every promise in the Book is mine,
+Every chapter, every verse, every line.
+I am trusting in His love divine,
+Every promise in the Book is mine.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Show a Little Bit of Love and Kindness – v2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing a song, Sing a song;
+Spread some cheer, Spread some cheer
+There are sad and lonely faces every where.
+Be a friend, Be a friend;
+Show some love, Show some love
+It will lift them from the dungeons of despair.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Show a little bit of love and kindness,
+Never go around with hatred's blindness
+Take a little time to reach for joy and wear a happy face.
+Sing a little bit when the days are dreary,
+Give a little help to a friend that's weary
+That's the way to make the world a happy place.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Offer help, Offer help;
+Bring some hope, Bring some hope
+To the weakened and discouraged on life's road.
+See a need, see a need
+Lend a hand, lend a hand
+There are many who are crushed
+Beneath life's blows</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>That Is Why You Called Jehovah</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>That is why you are called Jehovah
+What you say, You will do
+Tha is what you will do
+That is why you are called Jehovah</lines>
+    </verse>
+  </lyrics>
+</song>

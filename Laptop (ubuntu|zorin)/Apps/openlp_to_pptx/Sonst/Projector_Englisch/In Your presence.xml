@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In Your presence</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Lass</author>
+      <author type="music">Chris Lass</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In Your presence,
+There is fullness of joy,
+At Your right hand,
+There are pleasures evermore,
+You surround us with Your favor, O Lord,
+The earth is full of Your goodness,
+The earth is filled with Your love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Exceedingly, abundantly,
+Far above all we,
+Could ever ask or think,
+Exceedingly, abundantly,
+You give us all things to enjoy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The earth is full of Your glory,
+The earth is filled with Your love.</lines>
+    </verse>
+  </lyrics>
+</song>

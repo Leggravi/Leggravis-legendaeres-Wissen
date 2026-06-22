@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Shine On Me</title>
+    </titles>
+    <authors>
+      <author type="words">überliefert</author>
+      <author type="music">überliefert</author>
+      <author type="translation">Leuchte Herr in mir</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Shine on me, Lord, shine on me,
+Let the light from the Lighthouse
+  shine on me;
+Shine on me, Lord, shine on me,
+Let the light from the Lighthouse
+  shine on me.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, der du bist alleine</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Tersteegen</author>
+      <author type="music">Johann Georg Christian Störl</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, der Du bist alleine
+Haupt und Heiland der Gemeinde,
+segne mich in Deiner Gnad;
+wollst mir neuen Einfluß geben
+Deines Geistes, Dir zu leben;
+leite mich auf Deinem Pfad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja, Dein Lebensgeist durchdringe,
+Gnade, Kraft und Segen bringe
+Deinen Gliedern allzumal,
+wo sie hier zerstreuet wohnen
+unter Völkern und Nationen,
+die Du kennest überall.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O wie lieb ich, Herr, die Deinen,
+die Dich suchen, die Dich meinen,
+die Du gabst zum Segen mir.
+Dụ weißt, wie michs oft erquicket,
+wenn ich Menschen hab erblicket,
+die sich ganz ergeben Dir.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herr, Du hast uns teur erworben,
+da Du bist am Kreuz gestorben;
+darum, Jesus, sind wir Dein.
+Mach uns treu, solang wir eben
+hier auf dieser Erde leben;
+wir sind nimmermehr allein.</lines>
+    </verse>
+  </lyrics>
+</song>

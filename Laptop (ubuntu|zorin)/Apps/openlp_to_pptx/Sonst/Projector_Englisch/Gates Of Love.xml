@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gates Of Love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When all the world
+Is so empty and untrue,
+Let me just stay here with You;
+I want to be where
+My spirit could fly free,
+And soar the heavens with You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You give me comfort
+Like no one else could;
+In Your Presence, I find rest;
+When no one else
+Seems to care about me,
+Your loving hands
+Keep touching me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When trouble comes,
+Open up the gates of Love,
+Lord, take me in;
+Fill my life with strength within,
+Let me linger in Your arms;
+Guide me gently
+As I walk from day to day.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When I see nothing
+But weakness and woes,
+Show me a vision of You;
+Let me behold You
+In the glory of Your grace;
+Speak to me, Lord, set me free.</lines>
+    </verse>
+  </lyrics>
+</song>

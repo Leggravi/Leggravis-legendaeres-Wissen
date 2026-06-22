@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Took My Burden</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yes, Jesus took my burden,
+I could no longer bear,
+Yes, Jesus took my burden
+In answer to my prayer,
+My anxious fears subsided,
+My spirit was made strong
+For Jesus took my burden
+And left me with a song.</lines>
+    </verse>
+  </lyrics>
+</song>

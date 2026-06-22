@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>They Are Watching You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Though the world, has forsaken God
+Treads a diferent path,
+lives a different way,
+I walk the road, that the Saviour trod.
+That all may know,
+I live under Jesus’ way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>They are watching you
+Marking all you do
+Hearing the things you say
+Let them see the Saviour as
+He shines in you
+Let His power control you
+every day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Men will look, at the life I lead
+See the things I take,
+and the things I love,
+They judge my Lord by my
+every deed
+Lord, set my affection on
+things above.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Here on earth, people walk in
+the night
+With no light to guide, they are
+dead in sin
+I know the Lord, who can give
+them light
+live yet not I, but Christ
+within.</lines>
+    </verse>
+  </lyrics>
+</song>

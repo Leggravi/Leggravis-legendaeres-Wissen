@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Tief neigt der Himmel sich zu Armen</title>
+    </titles>
+    <authors>
+      <author type="words">Walter Gschwind</author>
+      <author type="music">Georg Friedrich Händel</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tief neigt der Himmel sich zu Armen:
+Immanuel wollt´ sich uns nahn.
+Gott wurde Mensch, o welch Erbarmen!
+Du, sein Volk, bete staunend an!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wer kann dies Lieben voll erfassen?
+Hier, unter Sündern ziehet ein
+er, den das Weltall nicht kann fassen,
+will volkommener Diener sein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tiefer noch muss die Liebe gehen,
+hat sich an unsern Platz gestellt.
+Er hing am Kreuz in Schmach und Wehen,
+starb für eine verlorne Welt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Was können wir dir dafür bringen,
+Gott, welchen Weihrauch nimmst du an?
+O lass uns dir von Jesus singen,
+er allein dich erfreuen kann!</lines>
+    </verse>
+  </lyrics>
+</song>

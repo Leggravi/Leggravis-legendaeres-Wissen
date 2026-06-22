@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Broken Vessels (Amazing Grace)</title>
+    </titles>
+    <authors>
+      <author type="words">Joel Houston</author>
+      <author type="music">Joel Houston</author>
+      <author type="translation">Krüge aus Ton (Alle Scherben, alles Zerbrochne)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All these pieces broken and scattered
+In mercy gathered mended and whole,
+Empty handed but not forsaken,
+I've been set free, I've been set free!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amazing Grace, how sweet the sound
+That saved a wretch like me.
+I once was lost, but now I am found,
+Was blind but now I see!
+Oh, I can see You now,
+Oh, I can see the love in Your eyes!
+Laying Yourself down, raising up the broken to life.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You take our failure, You take our weakness,
+You set Your treasure in jars of clay.
+So take this heart, Lord, I'll be Your vessel
+The world to see Your life in me!</lines>
+    </verse>
+  </lyrics>
+</song>

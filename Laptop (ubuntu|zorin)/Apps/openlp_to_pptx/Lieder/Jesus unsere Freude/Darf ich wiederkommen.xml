@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:11">
+  <properties>
+    <titles>
+      <title>Darf ich wiederkommen</title>
+    </titles>
+    <authors>
+      <author type="words">Hermann Heinrich Grafe (1860)</author>
+      <author type="words">Julius Köbner (1860)</author>
+      <author type="music">Ludwig Bohrmann</author>
+    </authors>
+    <ccliNo>6222530</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Darf ich wiederkommen
+mit der gleichen Schuld?
+Hast du nicht verloren
+endlich die Geduld?
+Ist denn deine Gnade
+alle Tage neu,
+dass du willst vergeben,
+auch so oft es sei?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wenn ich so dich frage
+und ich seh dich an,
+wie hat dein Herze
+sich mir aufgetan!
+Liebe, lauter Liebe
+ist's die mich umfängt,
+ach - und eine Liebe,
+wie kein Mensch es denkt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gnade und Vergeben
+heißt das gute Wort;
+das trägt mich durchs Leben,
+nimmt den Jammer fort,
+bringt mir Heil und Frieden
+in das Herz hinein,
+dass ich schon auf Erden
+kann recht selig sein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wahrlich, ich darf kommen
+mit der gleichen Schuld,
+ich werd angenommen,
+du trägst in Geduld.
+Halt mich dann gebunden
+fest, o Herr, an dich,
+dass ich werd erfunden
+in dir ewiglich!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Crown Him with many crowns</title>
+    </titles>
+    <authors>
+      <author type="words">Matthew Bridges</author>
+      <author type="music">George Job Elvey</author>
+      <author type="translation">Krönt, krönt Ihn, unsern Herrn</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Crown Him with many crowns,
+the Lamb upon his throne.
+Hark! How the heavenly anthem drowns
+all music but its own.
+Awake, my soul, and sing of Him
+Who died for thee,
+and hail Him as thy matchless King
+through all eternity.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Crown Him the Lord of life,
+Who triumphed over the grave,
+and rose victorious in the strife
+for those He came to save.
+His glories now we sing,
+Who died, and rose on high,
+Who died eternal life to bring,
+and lives that death may die.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Crown Him the Lord of love,
+behold His hands and side,
+those wounds, yet visible above,
+in beauty glorified.
+No angel in the sky
+can fully bear that sight,
+but downward bends His burning eye
+at mysteries so bright.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Crown Him the Lord of years,
+the Potentate of time,
+Creator of the rolling spheres,
+ineffably sublime.
+all hail, Redeemer, hail!
+For Thou has died for me;
+Thy praise and glory shall not fail
+throughout eternity.</lines>
+    </verse>
+  </lyrics>
+</song>

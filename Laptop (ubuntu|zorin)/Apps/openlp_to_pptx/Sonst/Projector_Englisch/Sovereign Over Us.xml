@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sovereign Over Us</title>
+    </titles>
+    <authors>
+      <author type="words">Bryan Brown</author>
+      <author type="music">Bryan Brown</author>
+      <author type="translation">Deine Herrschaft tut so gut</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is strength within the sorrow
+There is beauty in our tears
+And You meet us in our mourning
+With a love that casts out fear
+You are working in our waiting
+You're sanctifying us
+When beyond our understanding
+You're teaching us to trust.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your plans are still to prosper
+You have not forgotten us
+You're with us in the fire and the flood
+You're faithful forever
+Perfect in love
+You are sovereign over us.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are wisdom unimagined
+Who could understand Your ways
+Reigning high above the Heavens
+Reaching down in endless grace
+You're the lifter of the lowly
+Compassionate and kind
+You surround and You uphold me
+And Your promises are my delight.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Even what the enemy means for evil
+You turn it for our good,
+You turn it for our good and for your glory
+Even in the valley You are faithful
+You are working for our good,
+You are working for our good and for your glory.</lines>
+    </verse>
+  </lyrics>
+</song>

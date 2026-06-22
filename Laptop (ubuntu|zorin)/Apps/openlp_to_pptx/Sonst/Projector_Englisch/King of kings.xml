@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>King of kings</title>
+    </titles>
+    <authors>
+      <author type="words">Brooke Fraser Ligertwood</author>
+      <author type="music">Brooke Fraser Ligertwood</author>
+      <author type="translation">König aller Könige</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the darkness we were waiting
+Without hope without light
+Till from heaven You came running
+There was mercy in Your eyes
+To fulfil the law and prophets
+To a virgin came the Word
+From a throne of endless glory
+To a cradle in the dirt</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise the Father
+Praise the Son
+Praise the Spirit three in one
+God of glory
+Majesty
+Praise forever to the King of Kings</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To reveal the kingdom coming
+And to reconcile the lost
+To redeem the whole creation
+You did not despise the cross
+For even in Your suffering
+You saw to the other side
+Knowing this was our salvation
+Jesus for our sake You died</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And the morning that You rose
+All of heaven held its breath
+Till that stone was moved for good
+For the Lamb had conquered death
+And the dead rose from their tombs
+And the angels stood in awe
+For the souls of all who’d come
+To the Father are restored</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And the Church of Christ was born
+Then the Spirit lit the flame
+Now this gospel truth of old
+Shall not kneel shall not faint
+By His blood and in His Name
+In His freedom I am free
+For the love of Jesus Christ
+Who has resurrected me</lines>
+    </verse>
+  </lyrics>
+</song>

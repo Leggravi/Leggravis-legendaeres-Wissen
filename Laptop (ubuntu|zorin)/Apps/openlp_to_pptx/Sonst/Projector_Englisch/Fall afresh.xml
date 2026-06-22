@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Fall afresh</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v2 v3 v3 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Awaken my soul, come awake
+To hunger, to seek, to thirst
+Awaken first love, come awake
+And do as you did, at first</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Spirit of the living God come fall afresh on me
+Come wake me from my sleep
+Blow through the caverns of my soul,
+Pour in me to overflow
+To overflow</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come and fill this place
+Let Your glory now invade
+Spirit come and fill this place
+Let Your glory now invade</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord, I Lift Your Name on High</title>
+    </titles>
+    <authors>
+      <author type="words">Der Refrain-Anfang (&quot;</author>
+      <author type="music">Rick Founds</author>
+      <author type="translation">Herr, dein Name sei erhöht</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, I lift Your name on high,
+Lord, I love to sing Your praises;
+I'm so glad You're in my life,
+I'm so glad You came to save us.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You came from Heaven to earth
+To show the way,
+From the earth to the cross
+My debt to pay;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From the cross to the grave
+From the grave to the sky
+Lord, I lift Your name on high.</lines>
+    </verse>
+  </lyrics>
+</song>

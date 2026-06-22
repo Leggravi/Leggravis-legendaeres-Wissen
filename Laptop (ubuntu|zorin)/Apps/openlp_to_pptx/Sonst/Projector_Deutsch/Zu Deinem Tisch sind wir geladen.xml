@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Zu Deinem Tisch sind wir geladen</title>
+    </titles>
+    <authors>
+      <author type="words">Georg Erné</author>
+      <author type="music">Karl Friedrich Ellwanger</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zu deinem Tisch sind wir geladen, um dich, o Herr, versammelt hier,
+und deiner Liebe reiche Gnaden in deinem Tode schauen wir.
+Ja, diesen Tod wir jetzt verkünden,
+er traf dich einst für unsre Sünden,
+die ewig du getilget hast.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Gottes Lamm! Bald wird dich droben, mit dir vereint auf immerdar,
+in tausend neuen Weisen loben der Deinen heilge, frohe Schar.
+Nicht einer fehlt, du riefst sie alle,
+sie singen laut mit Jubelschalle:
+Dem Lamme Ehr, das uns versöhnt!</lines>
+    </verse>
+  </lyrics>
+</song>

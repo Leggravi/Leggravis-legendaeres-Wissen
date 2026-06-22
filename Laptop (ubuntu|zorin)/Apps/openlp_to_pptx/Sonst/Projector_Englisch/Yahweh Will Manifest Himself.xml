@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Yahweh Will Manifest Himself</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yahweh, Rapha, Elohim
+Shaddai, Jireh, Adonai
+Will manifest Himself</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your glory is tangible in this place
+Lord, you're doing something great
+Awaken supernatural faith</lines>
+    </verse>
+  </lyrics>
+</song>

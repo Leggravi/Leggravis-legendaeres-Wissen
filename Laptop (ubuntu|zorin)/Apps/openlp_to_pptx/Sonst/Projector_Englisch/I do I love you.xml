@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I do I love you</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You and I are meant to be
+God made you just for me
+Baby I love you always
+By your side I will stand
+Walk with you hand in hand
+From this day on our love will stand strong
+As I declare</lines>
+    </verse>
+    <verse name="v2">
+      <lines>That I do I do I love you
+Yes I do believe in you
+I do want to share the rest of my life with you
+I do promise a love that’s true
+Never disappoint you
+If you should ever be in doubt
+Know that I will never let you down</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, as we take a stand
+We’re asking for your hand
+To move in our lives as we become husband and wife
+We will build our house on you as a rock
+From this day on our love will stand strong
+From this day on our love will stand strong
+As we declare</lines>
+    </verse>
+    <verse name="v4">
+      <lines>That We do We do we love you
+Yes we do believe in you
+We do want to share the rest of our lives with you
+We do promise a love that’s true
+Never disappoint you
+Lord we’ll never be in doubt
+We know that you will Never let us down</lines>
+    </verse>
+  </lyrics>
+</song>

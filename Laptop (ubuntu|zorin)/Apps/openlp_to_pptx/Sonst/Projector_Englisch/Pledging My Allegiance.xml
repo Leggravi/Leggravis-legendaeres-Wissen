@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Pledging My Allegiance</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am not worthy for your love
+I don't deserve your Amazing Grace
+I have no rights to ask You, Lord.
+But I, I am nothing without You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are not worthy for you love
+We don't deserve your Amazing Grace
+We have no rights to ask You, Lord,
+But We, were nothing without you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We will sing only for You, Lord.
+Giving these hymns, only for You.
+We, will lift our hands, to proclaim Your Holy Name
+These are not enough, for all the love You have given to us…
+But We pledge, pledging our allegiance to You…</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You have never failed us Lord.
+You lead, us into Your ways.
+You looked beyond our faults
+You, are only the absolute Lord.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>These are not enough, for all the love You have given to us…
+But We pledge, pledging our allegiance to You</lines>
+    </verse>
+  </lyrics>
+</song>

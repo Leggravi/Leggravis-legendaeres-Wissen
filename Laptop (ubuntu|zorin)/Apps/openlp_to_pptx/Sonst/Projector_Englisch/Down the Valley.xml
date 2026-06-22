@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Down the Valley</title>
+    </titles>
+    <authors>
+      <author type="words">Johan Åsgärde</author>
+      <author type="music">Johan Åsgärde</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Down the Valley
+Up the mountain
+Jerusalem is my Home</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Home Sweet home
+Jerusalem is my home</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We are marching over
+to Jerusalem x2
+Jerusalem, Jerusalem
+Jerusalem, Jerusalem</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Kyrie Kyrie Eleison - Herr guter Gott erbarme dich</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kyrie Kyrie Eleison.
+Herr, guter Gott, erbarme dich!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In Ängsten die einen und die andern leben,
+und die andern leben und sie leben nicht schlecht.
+In Hunger die einen und die andern leben,
+und wir andern leben, die in Hunger leben schlecht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gefangen die einen und die andern leben,
+und die andern leben und sie leben nicht schlecht.
+Geschunden die einen und die andern leben,
+und wir andern leben, die Geschundenen leben schlecht.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Servant's heart</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Make me a servant like you dear Lord
+Living for others each day
+Humbleness and meek helping the weak
+Loving In all that I say</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Give me Lord a servant's heart
+Here's my life take every part
+Give me lord a servant's heart
+Help me draw so close to you
+That your love comes shining through
+Give me Lord a servant's heart.
+Give me Lord a servant's heart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Make me a witness like you dear Lord
+Showing the love of the cross
+Sharing your word till all have heard
+Serving whatever the cost</lines>
+    </verse>
+  </lyrics>
+</song>

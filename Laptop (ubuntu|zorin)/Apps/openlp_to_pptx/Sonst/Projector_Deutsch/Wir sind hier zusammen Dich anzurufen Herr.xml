@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir sind hier zusammen, Dich anzurufen ,Herr.</title>
+    </titles>
+    <authors>
+      <author type="words">Wolfgang Dennenmoser</author>
+      <author type="music">Danny Daniels</author>
+      <author type="translation">We are all together (We welcome You)</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir sind hier zusammen, Dich anzurufen ,Herr. 
+Unser einziges Verlangen ist zu singen, Gott, zu Dir.
+® Sei willkommen,Herr, willkommen Herr,
+willkommen Herr, füll diesen Raum.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Bring Heilung und Erlösung. Dein Reich komme,Herr.
+Was Du willst das soll geschehen, wie im Himmel, so auch hier.
+® Sei willkommen,Herr, willkommen Herr,
+willkommen Herr, füll diesen Raum.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vater, komm füll den Raum, wir bitten Dich.
+Jesus, wir suchen Dich, denn unser Wunsch allein ist, Dich zu lieben. ®</lines>
+    </verse>
+  </lyrics>
+</song>

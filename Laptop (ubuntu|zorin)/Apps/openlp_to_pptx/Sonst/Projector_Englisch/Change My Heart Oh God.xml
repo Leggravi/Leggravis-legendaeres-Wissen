@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Change My Heart Oh God</title>
+    </titles>
+    <authors>
+      <author type="words">Eddie Espinosa</author>
+      <author type="music">Eddie Espinosa</author>
+      <author type="translation">Wandle du mein Herz</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Change my heart, Oh, God;
+Make it ever true.
+Change my heart, Oh, God;
+May I be like You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are the potter
+I am the clay.
+Mold me and make me,
+This is what I pray.</lines>
+    </verse>
+  </lyrics>
+</song>

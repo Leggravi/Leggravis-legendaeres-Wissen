@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus at the center</title>
+    </titles>
+    <authors>
+      <author type="words">Israel Houghton</author>
+      <author type="music">Israel Houghton</author>
+      <author type="translation">Jesus ist das Herz</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v5 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus at the center of it all
+Jesus at the center of it all
+From beginning to the end
+It will always be, it's always been You
+Jesus, Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nothing else matters
+Nothing in this world will do
+'Cause Jesus You're the center
+Everything revolves around You
+Jesus You
+At the center of it all
+At the center of it all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus be the center of my life
+Jesus be the center of my life
+From beginning to the end
+It will always be, it's always been You
+Jesus, Jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nothing else matters
+Nothing in this world will do
+'Cause Jesus You're the center
+Everything revolves around You
+Jesus You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>From my heart to the Heavens
+Jesus be the center
+It's all about You
+Yes it's all about You</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesus be the center of Your church
+Jesus be the center of Your church
+And every knee will bow
+And every tongue shall confess You
+Jesus, Jesus
+Jesus, Jesus
+Jesus, Jesus
+Jesus, Jesus</lines>
+    </verse>
+    <verse name="v7">
+      <lines>It's all about You, all about You, Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

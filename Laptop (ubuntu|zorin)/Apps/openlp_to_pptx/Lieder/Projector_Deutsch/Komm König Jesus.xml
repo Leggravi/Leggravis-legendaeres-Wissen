@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Komm, König Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Horst Wallis</author>
+      <author type="music">Horst Wallis</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Komm, König Jesus, komm herrsche du
+Komm, König Jesus, bau Deinen Thron.
+Komm, König Jesus, Du unser Haupt
+Komm, König Jesus, wir beten an!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist der Herr, du bist der Herr!
+Jesus, Jesus, Du bist der Herr!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir lieben Dich, wir lieben Dich!
+Jesus, Jesus, wir lieben Dich!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Halleluja, Halleluja
+Jesus, Jesus, wir lieben Dich!</lines>
+    </verse>
+  </lyrics>
+</song>

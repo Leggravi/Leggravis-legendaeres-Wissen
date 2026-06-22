@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Out of a Million</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Out of a million you called me by name,
+Out from the many calls, you've chosen me,
+I am not worthy but you love me anyway,
+The joy now that have sustained me everyday.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your love is incredible,
+Truly, truly you never failed,
+Now I know what I'm sure to say,
+&quot;I love you Lord, I love you Lord.&quot;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Out of your burning love you died in my instead
+Out from my crooked path you lead me straight ahead
+But I don't deserve your grace, but you give me it anyway
+Now I bow down my knees, Lord have it your way.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I cannot fathom the deep of your love
+Words are not enough to express what I feel
+But I know you know what I feel deep inside</lines>
+    </verse>
+  </lyrics>
+</song>

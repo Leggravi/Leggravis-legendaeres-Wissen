@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Stronger Than a Thousand Seas</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v2 v3 v4 v5 v3 v4 v4 v6 v6 v6 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Undenied
+Unfailing
+Undefeated
+Unchanging
+All in all
+Victorious
+It's the love of Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For You took the cross
+When all hope had been lost
+And no power could stand in the way</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Of your love
+Your love
+Higher than the heavens
+Stronger than a thousand seas
+Your love
+Your love
+Constant through the seasons
+Closer than the air I breathe</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Unrestrained
+Unrivaled
+Unashamed
+Unbridled
+All in all
+Invincible
+God Your love can never fail</lines>
+    </verse>
+    <verse name="v5">
+      <lines>How great
+How strong
+How awesome is our God
+I stand
+In awe
+Of the never failing love of Jesus</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Your love
+Your love
+Higher than the heavens
+Stronger than a thousand seas
+Your love
+Your love
+Constant through the seasons
+Closer than the air I breathe</lines>
+    </verse>
+  </lyrics>
+</song>

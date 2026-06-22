@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He’ll Understand and Say Well Done!</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If when you give the best
+of your service
+Telling the world that the Saviour
+has come
+Be not dismayed if men don’t
+believe you,
+He’ll understand and say well done.
+Heil understand and say well done.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh when I come to the end of life’s
+Journey Weary of life and the
+battle Is won,
+Carrying the staff and the cross of
+redemption
+He’ll understand and say well done, x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Misunderstood, the Saviour of Sinners,
+Hang on the cross He was God’s only
+Son
+Oh hear Him call His Father in
+heaven
+Let not my will but Thine be done. x 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If when this life of labour is ended,
+And the reward of the race you have run
+Take up the sweet rest prepared for the
+faithful,
+Will be His blest and final well done. x 2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>But if you try and fail in your trying,
+Hands sore and scarred from the
+work you’ve began
+Take up thy cross run quickly to Jesus
+He’ll understand and say well done x2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Cannot Hide From You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You have looked into my heart
+You know everything about me
+You see my deepest thoughts
+And every corner of my soul
+Each single step I take
+And all my words before I speak them
+Every place that I have been
+And every place that I will go</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I cannot hide from You
+You know me all too well
+There's no story of my life
+That Your memory could not tell
+I can ride the morning wings
+Till I'm completely out of view
+But whether in dark or light
+I cannot hide from You
+(Every moment of my life
+I cannot hide from You)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Long before I drew my first breath
+You already knew my secrets
+You watched as I was formed
+Out of sight from human eyes
+Your Spirit is with me
+And I am always in Your presence
+When I sit and when I stand
+When I sleep and when I rise</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Turn my heart from wicked ways
+Search the whispers of my mind
+And lead me on the road
+That will take me home
+To everlasting life</lines>
+    </verse>
+  </lyrics>
+</song>

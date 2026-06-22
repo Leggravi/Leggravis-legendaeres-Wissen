@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:49">
+  <properties>
+    <titles>
+      <title>Ach bleib mit deiner Gnade</title>
+    </titles>
+    <authors>
+      <author type="words">Josua Stegmann (1627)</author>
+      <author type="music">Christus, der ist mein Leben</author>
+    </authors>
+    <ccliNo>4835101</ccliNo>
+    <themes>
+      <theme>Gnade</theme>
+      <theme>Segen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ach bleib mit deiner Gnade
+bei uns, Herr Jesu Christ,
+dass uns hinfort nicht schade
+des bösen Feindes List.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ach bleib mit deinem Worte
+bei uns, Erlöser wert,
+dass uns sei hier und dorte
+dein Güt und Heil beschert.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ach bleib mit deinem Glanze
+bei uns, du wertes Licht;
+dein Wahrheit uns umschanze,
+damit wir irren nicht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ach bleib mit deinem Segen
+bei uns, du reicher Herr;
+dein Gnad und all's Vermögen
+in uns reichlich vermehr.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ach bleib mit deinem Schutze
+bei uns, du starker Held,
+dass uns der Feind nicht trutze
+noch fäll die böse Welt.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ach bleib mit deiner Treue
+bei uns, mein Herr und Gott;
+Beständigkeit verleihe,
+hilf uns aus aller Not.</lines>
+    </verse>
+  </lyrics>
+</song>

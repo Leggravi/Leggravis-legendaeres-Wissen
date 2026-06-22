@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:09">
+  <properties>
+    <titles>
+      <title>Lass mich dein sein und bleiben</title>
+    </titles>
+    <authors>
+      <author type="words">Nikolaus Selnecker (1572)</author>
+      <author type="music">Valet will ich dir geben</author>
+    </authors>
+    <ccliNo>4897699</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lass mich Dein sein und bleiben,
+Du treuer Gott und Herr,
+von Dir lass mich nichts treiben,
+halt mich bei Deiner Lehr.
+Herr, lass mich nur nicht wanken,
+gib mir Beständigkeit,
+dafür will ich Dir danken in alle Ewigkeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr Jesus Christ, mein Leben,
+mein Heil und einzig Trost,
+dir will ich mich ergeben,
+du hast mich teuer erlöst
+mit deinem Blutvergießen,
+mit großem Weh und Leid,
+lass mich dies auch genießen
+zu meiner Seligkeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Heilger Geist, mein Tröster,
+mein Licht und teures Pfand,
+lass mich meinen Erlöser,
+den ich gläubig erkannt,
+bis an mein End bekennen,
+stärk mich in letzter Not,
+von dir lass mich nichts trennen,
+gib einen selgen Tod.</lines>
+    </verse>
+  </lyrics>
+</song>

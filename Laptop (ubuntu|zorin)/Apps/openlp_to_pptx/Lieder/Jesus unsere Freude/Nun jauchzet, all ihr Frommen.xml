@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:33">
+  <properties>
+    <titles>
+      <title>Nun jauchzet, all ihr Frommen</title>
+    </titles>
+    <authors>
+      <author type="words">Michael Schirmer (1640)</author>
+      <author type="music">Eisleben</author>
+    </authors>
+    <ccliNo>5208036</ccliNo>
+    <themes>
+      <theme>Advent</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nun jauchzet, all ihr Frommen,
+zu dieser Gnadenzeit,
+weil unser Heil ist kommen,
+der Herr der Herrlichkeit,
+zwar ohne stolze Pracht,
+doch mächtig, zu verheeren
+und gänzlich zu zerstören
+des Teufels Reich und Macht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er kommt zu uns geritten
+auf einem Eselein
+und stellt sich in die Mitten
+für uns zum Opfer ein.
+Er bringt kein zeitlich Gut,
+er will allein erwerben
+durch seinen Tod und Sterben,
+was ewig währen tut.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kein Zepter, keine Krone
+sucht er auf dieser Welt;
+im hohen Himmelsthrone
+ist ihm sein Reich bestellt.
+Er will hier seine Macht
+und Majestät verhüllen,
+bis er des Vaters Willen
+im Leiden hat vollbracht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ihr Mächtigen auf Erden,
+nehmt diesen König an,
+wollt ihr beraten werden
+und gehn die rechte Bahn,
+die zu dem Himmel führt;
+sonst, wo ihr ihn verachtet
+und nur nach Hoheit trachtet,
+des Höchsten Zorn euch rührt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ihr Armen und Elenden
+zu dieser bösen Zeit,
+die ihr an allen Enden
+müsst haben Angst und Leid,
+seid dennoch wohlgemut,
+lasst eure Lieder klingen,
+dem König Lob zu singen,
+der ist eur höchstes Gut.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Er wird nun bald erscheinen
+in seiner Herrlichkeit
+und all eur Klag und Weinen
+verwandeln ganz in Freud.
+Er ists, der helfen kann;
+halt eure Lampen fertig
+und seid stets sein gewärtig,
+er ist schon auf der Bahn.</lines>
+    </verse>
+  </lyrics>
+</song>

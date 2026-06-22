@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mein Herz, meinen Leib</title>
+    </titles>
+    <authors>
+      <author type="words">Gitta Leuschner</author>
+      <author type="music">Larry Lea</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mein Herz, meinen Leib,
+meine Seele, meinen Sinn,
+ich geb' sie Dir, herrsche über mich,
+Ich gebe den Leib als lebend'ges Opfer Dir.
+Herr, nimm mich hin, nimm mich hin!</lines>
+    </verse>
+  </lyrics>
+</song>

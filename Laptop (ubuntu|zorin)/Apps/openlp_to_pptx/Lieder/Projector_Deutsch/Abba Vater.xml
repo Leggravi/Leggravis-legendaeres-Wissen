@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Abba, Vater</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Frey</author>
+      <author type="music">Albert Frey</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Abba, Vater, deine Lieb nahm das Herz mir ein.
+Ohne deiner Nähe Licht kann ich nicht mehr sein.
+Vater, halt mich immer fest, lass mich nie allein.
+Dir vertrau ich Tag und Nacht, Vater, ich bin dein.</lines>
+    </verse>
+  </lyrics>
+</song>

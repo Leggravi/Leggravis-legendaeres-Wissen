@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gott spannt leise feine Fäden</title>
+    </titles>
+    <authors>
+      <author type="words">Clemens Bittlinger</author>
+      <author type="music">Clemens Bittlinger</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott spannt leise feine Fäden, die Du leicht ergreifen kannst
+Gott spannt leise feine Fäden, die Du leicht ergreifen kannst</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sieh doch einen Anfang, wo du wirklich helfen kannst
+und durch deine Hilfe dir den Weg zum andern bahnst.
+Sieh doch einen Anfang und fang zu helfen an.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sieh doch einen Anfang, wo es zu vertrauen gilt,
+auch wenn die Erfahrung dir das Gegenteil befiehlt.
+Sieh doch einen Anfang und fang zu vertrauen an.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sieh doch einen Anfang, wo du zu teilen vermagst
+und trotz deiner Ängste von dir zu geben wagst.
+Mach doch einen Anfang und fang zu teilen an.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sieh doch einen Anfang, wo du nicht mehr weiter weißt
+und du deine Sehnsucht hinaus in die Stille schreist.
+Sieh doch einen Anfang und fang zu beten an.</lines>
+    </verse>
+  </lyrics>
+</song>

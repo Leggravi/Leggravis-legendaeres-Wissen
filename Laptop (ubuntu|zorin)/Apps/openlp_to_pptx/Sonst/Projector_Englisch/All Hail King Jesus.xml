@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All Hail King Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Dave Moody</author>
+      <author type="music">Dave Moody</author>
+      <author type="translation">Dir, König Jesus</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All hail King Jesus,
+All hail Emmanuel.
+King of Kings, Lord of Lords,
+Bright morning star.
+And throughout eternity
+I'm going to praise Him
+And forevermore,
+I will reign with Him.</lines>
+    </verse>
+  </lyrics>
+</song>

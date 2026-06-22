@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>One Minute Away</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm one minute from my future home
+One step from the supper that my Lord has called
+I can see myself walking on those streets of gold
+That's why I'm sold out even raptured my soul</lines>
+    </verse>
+    <verse name="v2">
+      <lines>One minute away, from a thousand years (eternity)
+To my home, just over the hills
+I'm longing to see my Lord and guide
+(In me there's a groaning) to cross over to the other side</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I've got my eyes on the promises of God
+That's why I'm dying out and surrendering my heart
+I know I can't make it in this present state
+That's why I'm getting all of Jesus before it's too late</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We don't have much longer on this earthly plane
+It's time to fervently pray in Jesus name
+Putting no trust (at all) in the arms of flesh
+You've gotta turn it over to Jesus, He'll do all the rest</lines>
+    </verse>
+  </lyrics>
+</song>

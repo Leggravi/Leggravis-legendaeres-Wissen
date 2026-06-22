@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jul 6, 2021, 7:58:52 AM">
+  <properties>
+    <titles>
+      <title>I Speak Jesus</title>
+    </titles>
+    <verseOrder>V1 V2 C3 V4 C5 V6 C5 V7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>I just want to speak the name of Jesus
+Over every heart and every mind
+'Cause I know there is peace within your presence
+I speak Jesus</lines>
+    </verse>
+    <verse name="V2">
+      <lines>I just want to speak the name of Jesus
+Till every dark addiction starts to break
+Declaring there is hope and there is freedom
+I speak Jesus</lines>
+    </verse>
+    <verse name="C3">
+      <lines>'Cause your name is power
+Your name is healing
+Your name is life
+Break every stronghold
+Shine through the shadows
+Burn like a fire</lines>
+    </verse>
+    <verse name="V4">
+      <lines>I just want to speak the name of Jesus
+Over fear and all anxiety
+To every soul held captive by depression
+I speak Jesus</lines>
+    </verse>
+    <verse name="C5">
+      <lines>Your name is power
+Your name is healing
+Your name is life
+Break every stronghold
+Shine through the shadows
+Burn like a fire</lines>
+    </verse>
+    <verse name="V6">
+      <lines>Shout Jesus from the mountains,
+Jesus in the streets
+Jesus in the darkness over every enemy
+Jesus for my family
+I speak the holy Name, Jesus</lines>
+    </verse>
+    <verse name="V7">
+      <lines>I just want to speak the name of Jesus
+Over every heart and every mind
+'Cause I know there is peace within His presence
+I speak Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

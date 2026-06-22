@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Er ist Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Susanne Riecker</author>
+      <author type="music">Susanne Riecker</author>
+      <author type="translation">Give Your Praise To The Lord</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Er ist Herr, er ist Herr!
+Er ist auferstanden und er ist Herr</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jedes Knie muss sich beugen,
+Jede Zunge soll bekennen,
+dass Jesus ist der Herr.</lines>
+    </verse>
+  </lyrics>
+</song>

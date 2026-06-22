@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich walle in der Fremde</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Wilhelm Brockhaus</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich walle in der Fremde,
+Von Menschen ungekannt,
+Doch leiten Deine Hände
+Mich treu zum Vaterland.
+Bei jedem sauren Schritte
+Gewahrt mein Glaube Dich,
+Ich find' hier Deine Tritte,
+Die Du einst tatst für mich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Geh' ich auf harten Wegen,
+Auf mühevollem Pfad,
+Ich eile Dir entgegen,
+Mich leitet Deine Gnad'.
+Will mich der Lauf ermüden,
+Und find' ich nirgend Ruh',
+Ist doch mein Herz in Frieden,
+Denn meine Ruh' bist Du.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und wenn ich schwach mich finde,
+Gering vor Satans List,
+Ich dennoch überwinde,
+Weil Du zur Seit' mir bist.
+Bist Speis' und Trank auf Erden,
+Wo Brot und Quelle fehlt.
+Wie könnt' ich zaghaft werden?
+Hast selbst mein Haar gezählt!</lines>
+    </verse>
+  </lyrics>
+</song>

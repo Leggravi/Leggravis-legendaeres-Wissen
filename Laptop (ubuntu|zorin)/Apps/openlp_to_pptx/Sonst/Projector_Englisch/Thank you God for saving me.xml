@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thank you God for saving me</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Smith</author>
+      <author type="music">Martin Smith</author>
+      <author type="translation">Weil du mein Retter bist (Worte sind zu arm)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v5 v6 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What can I give to you
+What can I offer to the king
+For all the love you've shown
+For all your mercy over me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I called your name, you heard my cry
+Out of the grave, and into life
+My heart is yours, my soul is free
+Thank you God for saving me
+Thank you God for saving me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The rock of salvation
+My hope is built on nothing less
+Morning by morning
+How great is your faithfulness</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I called your name, you heard my cry
+Out of the grave, and into life
+My heart is yours, my soul is free
+Thank you God for saving me
+Thank you God for saving me
+Thank you God for saving me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You gave your life upon the cross
+You suffered once for all
+You made a way
+Jesus in victory you rose
+You made us all your own
+Now we are saved</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Thank you God for saving me
+Thank you God
+Thank you God for saving me
+Thank you God for the cross
+Thank you God for saving me, for saving me</lines>
+    </verse>
+  </lyrics>
+</song>

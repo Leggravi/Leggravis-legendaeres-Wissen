@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, öffne du mir die Augen</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Jacobi</author>
+      <author type="music">Paul Baloche</author>
+      <author type="translation">Open the eyes of my heart, Lord</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, öffne du mir die Augen.
+Herr, öffne du mir das Herz.
+Ich will dich sehen!
+Ich will dich sehen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich will dich seh’n in deiner Pracht,
+leuchtend, erhoben und herrlich.
+Gieß aus seiner Liebe und Macht
+wir singen</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Heilig, heilig, heilig,
+heilig, heilig, heilig,
+heilig, heilig, heilig,
+ich will dich sehen.</lines>
+    </verse>
+  </lyrics>
+</song>

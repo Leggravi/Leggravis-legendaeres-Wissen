@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You can belong to me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>She walks in and closes the door
+Shut the world out of sight
+For another lonely night
+And she cries as she kneels on the floor
+For this empty room
+And this solitary life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But heaven is hearing
+And sharing each tear
+And I know the Father is near
+He’s saying</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You can belong to me
+I’ll cherish you
+Treasure you
+Love you completely
+Someday you’ll finally see
+How precious you are in my eyes
+You’ve never been out of my sight
+I’ve loved you for all of you life
+You can belong to me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A little boy lies in his bed
+Wondering where Daddy’s gone
+And did he do something wrong?
+And he hides all the fears in his head
+As he tries to be strong
+But he feels so alone</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:35">
+  <properties>
+    <titles>
+      <title>Sei getrost und unverzagt</title>
+    </titles>
+    <authors>
+      <author type="words">Werner Morgenstern (1968)</author>
+      <author type="music">Werner Morgenstern</author>
+    </authors>
+    <themes>
+      <theme>Vertrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sei getrost und unverzagt.
+Jesus steht dir bei
+führt dich treulich Tag um Tag,
+wo dein Weg auch sei,
+wo dein Weg auch sei.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ihm kannst du dich anvertrauen,
+völlig, ganz und gar.
+Wag es! du wirst Wunder schaun,
+denn sein Wort ist wahr,
+denn sein Wort ist wahr.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesu Macht ist unbegrenzt,
+ihm gehört die Welt.
+Dass du fröhlich ihn bekennst,
+hat er dich erwählt,
+hat er dich erwählt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alles, was dich heut bedrückt,
+Sorge, Sünde, Schuld;
+sag es Jesus, der dich liebt.
+Groß ist seine Huld,
+groß ist seine Huld.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Komme, was auch kommen mag,
+Freude oder Leid,
+Jesus führt dich wunderbar
+heut und allezeit,
+heut und allezeit.</lines>
+    </verse>
+  </lyrics>
+</song>

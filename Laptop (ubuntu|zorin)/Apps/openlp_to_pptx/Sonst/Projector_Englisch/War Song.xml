@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>War Song</title>
+    </titles>
+    <authors>
+      <author type="words">Michael Jackson</author>
+      <author type="music">Michael Jackson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v2 v3 v4 v3 v4 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We have a weapon of warfare
+The praises of God in my mouth
+We have sword of the Spirit
+The word of truth, the word of God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For no weapon formed against us will prosper
+For the battle is the Lord's and he'll not fail
+We will go forth and praise the name of Jesus
+And execute His vengeance on the powers of the air…</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As we clap our hands
+We will strike the enemy
+As we dance with joy
+The host of the hell will flee…</lines>
+    </verse>
+    <verse name="v4">
+      <lines>As we lift our hands
+His banner will be raised
+And with a shout of victory (wooo)
+His name will be praised…</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We do not fight with earthly weapons
+But with the weapons of the Lord
+We are the church the mighty army
+A people of praise, a people of war</lines>
+    </verse>
+    <verse name="v6">
+      <lines>As we lift our hands
+His banner will be raised
+And with a shout of victory (wooo)
+With a shout of victory (wooo)
+With a shout of victory (wooo)
+His name will be praised</lines>
+    </verse>
+  </lyrics>
+</song>

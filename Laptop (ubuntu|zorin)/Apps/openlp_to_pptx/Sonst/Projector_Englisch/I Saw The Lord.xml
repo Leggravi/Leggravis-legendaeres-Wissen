@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Saw The Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Jake Isaac</author>
+      <author type="music">Jake Isaac</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I saw the Lord, I saw the Lord.
+He was high and lifted up
+And His train filled the temple
+He was high and lifted up
+And His train filled the temple.
+And The angels cried &quot;Holy&quot;
+The angels cried &quot;Holy&quot;
+The angels cried &quot;Holy unto the Lord&quot;.</lines>
+    </verse>
+  </lyrics>
+</song>

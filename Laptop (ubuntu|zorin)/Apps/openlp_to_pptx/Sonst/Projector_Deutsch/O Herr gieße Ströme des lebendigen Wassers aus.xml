@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Herr, gieße Ströme des lebendigen Wassers aus</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Frey</author>
+      <author type="music">Albert Frey</author>
+      <author type="translation">Living Water</author>
+    </authors>
+    <verseOrder>v1 v2 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Herr, gieße Ströme des lebendigen Wassers aus
+O Herr, über uns
+O Herr, gieße neu die Kraft des Heiligen Geistes aus
+O Herr, über uns</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sieh unser dürres Land,
+hör unser Schrei'n.
+Nur Deine starke Hand
+kann uns befrei'n.
+Laß Wasser fließen, Herr,
+von Deinem Thron,
+gieß aus in unser Land
+den Lebensstrom</lines>
+    </verse>
+  </lyrics>
+</song>

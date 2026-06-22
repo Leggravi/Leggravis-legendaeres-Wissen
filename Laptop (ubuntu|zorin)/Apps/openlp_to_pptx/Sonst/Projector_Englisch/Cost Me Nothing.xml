@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Cost Me Nothing</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I cannot come before my righteous Holy Lord
+And offer to Him worldly things I do not need
+And hope He's pleased, for He wants me to give
+A heart truly His, an offering of highest price,
+A servant who the Lord can use</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I will not offer anything that cost me nothing
+I'll place before Him nothing less than my very best
+And if I'm called into sacrifice
+It will be worthy of my Christ,
+I will not offer anything that cost me nothing.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To serve Him is my goal how could I withhold
+Whatever's mine He's given me
+It's not my own. It's His alone
+Whatever He requires, that is my desire
+Whatever He may need from me
+I'll pay the cost gain or loss.</lines>
+    </verse>
+  </lyrics>
+</song>

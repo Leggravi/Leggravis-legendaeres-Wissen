@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Only Jesus Can Heal This Hurting World</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This world will not get better on its own
+More problems each day and we're losing sight of hope
+We need to admit, we can't fix what's going wrong
+But there's someone who can do what we've needed all along</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Only Jesus can heal this hurting world
+Only Jesus can heal this hurting world
+No one can love like he does,
+Heart by heart and one by one
+Only Jesus can heal this hurting world</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In every corner of the planet is the same
+We can't get along because we don't know how to change
+No plan formed by man can set us free inside
+But the prince of peace can reach our wounded hearts and minds</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There's a bridge between us
+His heart will forgive us
+The pain that conquers darkness
+The only one that can save us</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Only Jesus can heal this hurting world
+Only Jesus can heal this hurting world
+No one can love like he does,
+Heart by heart and one by one
+Only Jesus can heal this hurting world
+Every man, woman, boy, and girl
+Only Jesus can heal this hurting world</lines>
+    </verse>
+  </lyrics>
+</song>

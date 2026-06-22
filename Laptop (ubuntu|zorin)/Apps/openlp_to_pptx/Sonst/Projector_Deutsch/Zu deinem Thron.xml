@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Zu deinem Thron</title>
+    </titles>
+    <authors>
+      <author type="words">Helga Poppe</author>
+      <author type="music">Helga Poppe</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Weder ein Hoch noch Tief
+Leben noch Tod hält mich
+Von Dir und dem, was ich nur hier
+In Deiner Nähe finde, Herr</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Weder die Liebe der Welt
+Noch Raum oder Zeit, die mich hält
+Ja, nichts auf der Welt könnte mich
+Jemals von Dir trennen, Herr</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Für alle Zeit liebst Du
+Die Sünden vergibst Du
+Wir geben uns in Deine Hand
+Du bist voller Gnade
+Und schenkst uns die Freiheit
+Wir leben nur durch Dich</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wir laufen zu Dir
+Zu Deinem Thron
+Und singen vereint
+Nur Du bist der Herr
+Alles legen wir ab
+Für die Freude an Dir
+Komm und fülle uns neu
+Mit Deinem Feuer, o Herr</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>May My Life Be a Stepping Stone</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The other day I bowed
+my head and cried in shame;
+I asked the Lord if there’s someone
+that I could show the way
+When I think of all the loved ones
+who live their lives in vain,
+I pray Dear Lord may I not be
+the one that is to blame.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>May my life down here
+be a stepping stone for them,
+May they not see me
+but Christ living in me
+Help me spend more time
+on my knees in prayer for them,
+Before you close the door
+like you did in Noah’s time.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It’s getting late soon time
+will be no more
+Help me walk in the light
+of the prophet of Malachi 4
+Not to rely on others but do
+what the Word says to do
+Till you call for me,
+let me live my life for you.</lines>
+    </verse>
+  </lyrics>
+</song>

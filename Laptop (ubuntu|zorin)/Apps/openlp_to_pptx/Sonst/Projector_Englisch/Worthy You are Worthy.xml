@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Worthy, You are Worthy</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Worthy, You are worthy,
+King of kings, Lord of lords,
+You are worthy.
+Worthy, You are worthy,
+King of kings, Lord of lords,
+I worship you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy, You are Holy,
+King of kings, Lord of lords,
+You are Holy,
+Holy, You are Holy,
+King of kings, Lord of lords,
+I worship you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, You are Jesus,
+King of kings, Lord of lords,
+You are Jesus.
+Jesus, You are Jesus,
+King of Kings, Lord of lords,
+I worship you.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Worthy, You are worthy,
+King of kings, Lord of lords,
+You are worthy.
+Worthy, you are worthy,
+King of kings, Lord of lords,
+I worship you.
+King of kings, Lord of lords,
+I worship you.</lines>
+    </verse>
+  </lyrics>
+</song>

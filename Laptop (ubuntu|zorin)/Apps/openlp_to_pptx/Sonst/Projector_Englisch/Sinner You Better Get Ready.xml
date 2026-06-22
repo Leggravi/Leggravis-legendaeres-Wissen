@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sinner You Better Get Ready</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh sinner you better get ready,
+Oh, you better get ready
+hallelujah Sinner,
+you better get ready
+For a time’s a’coming when
+the sinner must die.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh God gave Noah the rainbow sign,
+Time’s a’coming when
+the sinner must die,
+It won’t be by water,
+but by fire next time,
+Time’s a’coming when
+the sinner must die.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thought I heard all the preachers say
+The time’s a’coming when
+the sinner must die,
+You better get down
+on your knees and pray
+The time’s a’coming when
+the sinner must die.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I heard my mother and sister saying
+Time’s coming when the sinner
+must die,
+I heard my father and brother
+saying
+Dear sister, you better come now.</lines>
+    </verse>
+  </lyrics>
+</song>

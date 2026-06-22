@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 10, 2019, 10:21:41 PM">
+  <properties>
+    <titles>
+      <title>Jesus Is The One</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>When the day is dark before you,
+And the clouds are hanging low,
+There is One who watches over you,
+Everywhere that you may go.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Jesus is the one,
+Yes He's the only one,
+Let Him have His way
+Until the day is done;
+When He speaks, you know
+The clouds will have to go,
+Just because He loves you so.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>O, if you are sad and lonely,
+Life is but an empty tomb,
+Breathe a prayer to Jesus only,
+He will drive away the gloom.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>When you come to cross the river,
+He will be your Friend and guide,
+You can live with Him forever,
+Over on the other side.</lines>
+    </verse>
+  </lyrics>
+</song>

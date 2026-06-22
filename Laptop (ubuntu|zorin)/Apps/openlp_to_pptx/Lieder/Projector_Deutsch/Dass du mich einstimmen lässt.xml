@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dass du mich einstimmen lässt</title>
+    </titles>
+    <authors>
+      <author type="words">Kommunität Gnadenthal</author>
+      <author type="music">Kommunität Gnadenthal</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dass du mich einstimmen lässt in deinen Jubel, oh Herr, deiner Engel und himmlischen Heere, das erhebt meine Seele zu dir, oh mein Gott; grosser König, Lob sei dir und Ehre.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja, du kennst meinen Weg, und du ebnest die Bahn, und du führst mich den Weg durch die Wüste.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und du reichst mir das Brot, und du reichst mir den Wein und du bleibst selbst, Herr mein Begleiter.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und du sendest den Geist, und du machst mich ganz neu, und erfüllst mich mit deinem Frieden.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Und nun zeig mir den Weg, und nun führ mich die Bahn, deine Liebe zu verkünden!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Gib mir selber das Wort, öffne du mir das Herz, deine Liebe, zu verschenken.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Und, ich dank dir, mein Gott, und ich preise dich, Herr, und ich schenke dir mein Leben!</lines>
+    </verse>
+  </lyrics>
+</song>

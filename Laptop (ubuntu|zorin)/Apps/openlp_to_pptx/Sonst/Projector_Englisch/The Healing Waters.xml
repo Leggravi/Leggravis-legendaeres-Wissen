@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Healing Waters</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, the joy of sins forgiv'n,
+Oh, the bliss the blood-washed know,
+Oh, the peace akin to heav'n,
+Where the healing waters flow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where the healing waters flow
+Where the joys celestial glow,
+Oh, there's peace and rest and love,
+Where the healing waters flow!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now with Jesus crucified,
+At his feet I'm resting low;
+Let me evermore abide
+Where the healing waters flow.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, this precious perfect love!
+How it keeps the heart aglow,
+Streaming from the fount above,
+Where the healing waters flow.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, to lean on Jesus' breast,
+While the tempests come and go!
+Here is blessed peace and rest,
+Where the healing waters flow.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Cleansed from ev'ry sin and stain,
+Whiter than the driven snow,
+Now I sing my sweet refrain,
+Where the healing waters flow.</lines>
+    </verse>
+  </lyrics>
+</song>

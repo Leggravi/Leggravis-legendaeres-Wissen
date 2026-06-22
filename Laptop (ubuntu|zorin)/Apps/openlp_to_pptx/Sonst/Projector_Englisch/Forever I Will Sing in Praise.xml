@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Forever I Will Sing in Praise</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I see the sky, the clouds, the sun, I see You
+When I feel the gentle breeze that soothes me now
+I know, Lord, that You are there
+Embracing me in Your arms
+Your love, I feel</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Every time I seek Your presence in my life
+You have always found a way to make me feel so loved
+Oh, my Lord, I thirst for You
+My soul yearns to be with You
+My whole life, I surrender</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Forever, I will sing in praise
+To proclaim to all Your goodness
+Until the end, my life, I offer
+As a pleasing sacrifice
+To You, my God
+You are my King, my source of strength
+My Lord, my God
+You are my King forevermore
+I would keep on praising Your name
+Sing to the world Your goodness
+My God, my Lord, my King</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When I hear the echo of your voice inside me
+Leading me in every way that I should take
+I know, God, that You are there
+Forever, You will be
+That's why I stand before You now
+To lift Your blessed name</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I would keep on praising Your name
+Sing to the world Your goodness
+My God, my Lord, my King</lines>
+    </verse>
+  </lyrics>
+</song>

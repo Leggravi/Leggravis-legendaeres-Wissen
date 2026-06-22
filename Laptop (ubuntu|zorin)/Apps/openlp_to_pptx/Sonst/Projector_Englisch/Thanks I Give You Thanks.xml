@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thanks, I Give You Thanks</title>
+    </titles>
+    <authors>
+      <author type="words">Mark Hayes</author>
+      <author type="music">Mark Hayes</author>
+      <author type="translation">Dank sei dir, Gott, du machst uns reich</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thanks thanks I give you thanks for all you've done
+I am so blessed my soul is at rest
+Oh lord I give you thanks</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thank you lord for the strength you give
+Simply carry on thru life's toils and tests
+The worst and best you never left me alone
+You'll always ride beside me and hear me when I pray
+And since I first began you've been my dearest friend
+I give you all my praise</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I thank you this moment
+And I will continually
+Each day I live the praise you give
+I'm blessed abundantly
+I can't forget that moment in my life you made such a change
+Since the spirit came I've not the same
+And I wanna give you the praise</lines>
+    </verse>
+  </lyrics>
+</song>

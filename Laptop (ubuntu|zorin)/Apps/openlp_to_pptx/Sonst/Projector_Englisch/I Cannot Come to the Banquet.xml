@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Cannot Come to the Banquet</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A certain man held a feast
+on his fine estate in town,
+He laid a festive table
+and wore a wedding gown;
+He sent invitations to his neighbours
+far and wide,
+But when the meal was ready,
+each of them replied,
+I cannot come</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I cannot come to the banquet
+Don’t trouble me now;
+I have married a wife,
+I have bought me a cow,
+I have fields and commitments
+That cost a pretty sum -
+Pray, hold me excused,
+I cannot come.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The master rose up in anger called
+his servants by name,
+Said, Go into the town, fetch the blind
+and the lame;
+Fetch the peasant and the pauper
+for this I have willed:
+My banquet must be crowded
+and my table must filled.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now, God has written a lesson
+for the rest of mankind,
+If we’re slow in responding
+He may leave us behind;
+He’s preparing a banquet
+for that great and glorious day
+When the Lord and Master calls,
+be certain not to say, I cannot (come.)</lines>
+    </verse>
+  </lyrics>
+</song>

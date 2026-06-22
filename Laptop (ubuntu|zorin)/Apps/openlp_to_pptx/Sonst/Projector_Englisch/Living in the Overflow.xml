@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Living in the Overflow</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Living in the overflow
+Covered by your love
+Moving with the Holy Ghost
+You're more than enough</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Walking in your freedom now
+Covered by your grace
+Witnessing your healing power
+We have been changed</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bless the Lord, oh my soul
+I am living in the overflow
+Bless the Lord, oh my soul
+I am living in the overflow</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God You are the sovereign one
+You've given us your name
+We declare your
+Kingdom come
+Forever you reign</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Living in the overflow
+The bound are now set free
+Everywhere we go we see
+The victory</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ooh amazing God
+Your Spirit falls
+And now we walk
+In miracles</lines>
+    </verse>
+  </lyrics>
+</song>

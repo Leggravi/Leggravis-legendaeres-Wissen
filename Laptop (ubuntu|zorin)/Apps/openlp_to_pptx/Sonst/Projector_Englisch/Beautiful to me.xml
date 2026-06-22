@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Beautiful to me</title>
+    </titles>
+    <authors>
+      <author type="words">George Gill</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You're beautiful, so beautiful
+Lord You are my bright and morning star.
+You're beautiful, so beautiful
+oh shining light I lift your name up high</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord you're beautiful to me,
+And your kingdom is all I wanna see.
+Lord you're beautiful to me
+And your kingdom is all I wanna see.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You're powerful, so powerful
+risen Lord, exalted evermore.
+You're powerful, so powerful,
+exalted King, I lift my voice and sing.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord you're powerful to me
+and your kingdom is all I wanna see.
+Lord you're powerful to me
+and your kingdom is all I wanna see.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You're glorious, so glorious
+Holy One, the only perfect son.
+You're glorious, you're glorious,
+your kingdom reign will never ever end.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Lord you're glorious to me,
+and your praises are all I wanna sing.
+Lord You're glorious to me
+and your praises are all I wanna sing.</lines>
+    </verse>
+  </lyrics>
+</song>

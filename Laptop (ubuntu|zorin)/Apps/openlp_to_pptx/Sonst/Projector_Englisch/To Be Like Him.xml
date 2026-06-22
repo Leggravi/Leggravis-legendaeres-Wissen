@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>To Be Like Him</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From Bethlehem’s manger came forth a Stranger.
+On earth I long to be like Him;
+My faithful Saviour, how rich His favor!
+On earth I long to be like Him.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To be like Jesus, to be like Jesus,
+On earth I long to be like Him;
+All thru life’s journey from earth to glory
+I only ask to be like Him.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Serene and holy, obedient, lowly,
+On earth I long to be like Him.
+By grace forgiven, an heir of heaven,
+On earth I long to be like Him.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hold on with Your Prayer</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In this world full of trials, sometimes I want to give up
+Disappointments everywhere to weaken down my faith
+Life is not that easy, but life must go on
+Because I know that God is always with me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Weariness arise, but I have to be strong
+To face all the trials tomorrow may bring
+I will never lose hope, God knows everything
+I don't have to worry because
+I know, God is watching over me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus said, &quot;My child, I know you can
+I'm just molding you to make you stronger
+Hold on with your prayer, I'm here for you
+I will stay beside you 'til the end of time&quot;.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Instead of asking questions, why my life goes this way?
+I'd rather thank the Lord for giving these to me
+Sometimes I feel down but I have my forgiving God
+Thank you Lord for the wisdom,
+now I understand.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I will stay beside you 'til the end of time</lines>
+    </verse>
+  </lyrics>
+</song>

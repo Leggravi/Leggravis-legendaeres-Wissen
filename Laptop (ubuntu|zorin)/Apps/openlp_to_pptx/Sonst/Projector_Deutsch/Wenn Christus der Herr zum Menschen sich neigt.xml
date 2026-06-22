@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wenn Christus, der Herr, zum Menschen sich neigt</title>
+    </titles>
+    <authors>
+      <author type="words">Nikolaus Kaiser</author>
+      <author type="music">William Croft</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wenn Christus, der Herr, zum Menschen sich neigt,
+wenn Er sich als Schild dem Schutzlosen zeigt,
+mag schwinden das Leben, mag nahen der Tod:
+Wir können nicht sinken; denn Helfer ist Gott.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nicht Menschen vertraut den lastenden Schmerz,
+zum Himmel empor erhebet das Herz!
+Dort wohnet die Weisheit, die Güte, die Huld;
+dort thronet die Gnade für unsere Schuld.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drum nahet dem Thron des Heilands der Welt
+mit Freimütigkeit! Er stärkt und erhält.
+Er ging einst auf Erden in Menschengestalt,
+bracht Frieden und stürzte des Todes Gewalt.</lines>
+    </verse>
+  </lyrics>
+</song>

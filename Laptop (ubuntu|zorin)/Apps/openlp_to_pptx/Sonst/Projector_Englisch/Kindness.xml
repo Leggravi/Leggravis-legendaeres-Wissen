@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Kindness</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: Open up the skies of mercy
+And rain down the cleansing flood
+Healing waters rise around us
+Hear our cries lord let'em rise :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's your kindness lord
+That leads us to repentance
+Your favor lord, is our desire
+It's your beauty lord
+That makes us stand in silence
+Your love
+Your love
+Is better than life</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We can feel
+Your mercy falling
+You are turnin our hearts back again
+Hear our praises rise to heaven
+Draw us near lord
+Meet us here</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It's your kindness lord
+That leads us to repentance
+Your favor lord, is our desire
+It's your beauty lord
+That makes us stand in silence
+Your love
+Your love</lines>
+    </verse>
+    <verse name="v5">
+      <lines>It's your kindness lord
+That leads us to repentance
+Your favor lord, is our desire
+It's your beauty lord
+That makes us stand in silence
+Your love
+Your love
+Is better than life
+Is better than life
+It's Your love</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Open up the skies of mercy
+And rain down the cleansing flood
+Healing waters rise around us
+Hear our cries lord let'em rise</lines>
+    </verse>
+  </lyrics>
+</song>

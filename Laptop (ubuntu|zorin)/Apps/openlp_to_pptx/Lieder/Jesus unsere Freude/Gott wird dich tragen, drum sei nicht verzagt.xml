@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:38">
+  <properties>
+    <titles>
+      <title>Gott wird dich tragen, drum sei nicht verzagt</title>
+    </titles>
+    <authors>
+      <author type="words">Walter Rauschenbusch (1890)</author>
+      <author type="music">Ira D. Sankey</author>
+    </authors>
+    <ccliNo>5731273</ccliNo>
+    <themes>
+      <theme>Trost</theme>
+      <theme>Vertrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott wird dich tragen, drum sei nicht verzagt,
+treu ist der Hüter, der über dich wacht.
+Stark ist der Arm, der dein Leben gelenkt,
+Gott ist ein Gott, der der Seinen gedenkt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gott wird dich tragen, wenn einsam du gehst;
+Gott wird dich hören, wenn weinend du flehst.
+Glaub' es, wie bang dir der Morgen auch graut,
+Gott ist ein Gott, dem man kühnlich vertraut.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gott wird dich tragen durch Tage der Not;
+Gott wird dir beistehn in Alter und Tod.
+Fest steht das Wort, ob auch alles zerstäubt,
+Gott ist ein Gott, der in Ewigkeit bleibt.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Midnight Cry</title>
+    </titles>
+    <authors>
+      <author type="words">Chuck Day</author>
+      <author type="music">Chuck Day</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I hear the sound of a mighty
+rushing wind,
+And it’s closer now than it’s
+ever been;
+I can almost hear the trumpet
+as Gabriel sounds the call
+And at the midnight cry,
+we’ll be going home.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When Jesus steps out
+On a cloud to call out God’s children
+The dead in Christ shall rise to meet Him
+in the air
+And then those that remain,
+will be quickly changed
+At the midnight cry
+When Jesus comes again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I look around,
+I see prophecies fulfilled
+And the signs of the
+times are everywhere
+I can almost hear my Father as He says
+Son go get my children
+And at the midnight cry (thank God)
+This bride of Christ is gonna rise.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When Jesus steps up
+On the cloud before God’s children
+The dead In Christ shall rise
+To meet Him in the air
+And then those that remain,
+Will be quickly changed
+At the midnight cry (x2)
+When Jesus comes again.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And then those that remain
+Will be quickly changed
+At the midnight cry (x2)
+When Jesus comes again.</lines>
+    </verse>
+  </lyrics>
+</song>

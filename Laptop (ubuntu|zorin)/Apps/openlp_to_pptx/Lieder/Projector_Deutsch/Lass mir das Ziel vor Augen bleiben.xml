@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lass mir das Ziel vor Augen bleiben</title>
+    </titles>
+    <authors>
+      <author type="words">Helga Winkel</author>
+      <author type="music">Ikuko Enomoto</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lass mir das Ziel vor Augen bleiben,
+zu dem du mich berufen hast.
+Lass nicht aus deiner Spur mich treiben
+des Weges Länge oder Last.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bin ich versucht, auf mich zu schauen
+und nicht mehr auf das Ziel zu sehn,
+hilf mir, aufs neue im Vertrauen
+auf deinen Sieg voranzugehn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dir will ich auf dem Wege singen,
+weil du mir Mut und Freude gibst.
+Du selber wirst ans Ziel mich bringen,
+weil du, mein Jesus, mich so liebst.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dort werden alle Dämmerungen
+und alle Nächte dieser Zeit
+in alle Ewigkeit verschlungen
+vom Lichtglanz deiner Herrlichkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

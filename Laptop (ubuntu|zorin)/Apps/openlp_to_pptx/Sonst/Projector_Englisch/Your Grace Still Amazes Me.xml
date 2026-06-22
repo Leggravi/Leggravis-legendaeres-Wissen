@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Your Grace Still Amazes Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My faithful Father, enduring friend
+Your tender mercy's like a river with no end
+It overwhelms me, covers my sin
+Each time I come into your presence
+I stand in wonder once again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your grace still amazes me
+Your love is still a mystery
+Each day I fall on my knees
+'Cause Your grace still amazes me
+Your grace still amazes me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh patient savior, You make me whole
+You are the author and the healer of my soul
+What can I give You, Lord what can I say
+I know there's no way to repay You only to offer You my praise.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It's deeper, it's wider, it's stronger, it's higher
+It's deeper, it's wider, it's stronger, it's higher
+Than anything my eyes can see.</lines>
+    </verse>
+  </lyrics>
+</song>

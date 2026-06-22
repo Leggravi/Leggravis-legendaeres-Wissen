@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich will den Herren loben</title>
+    </titles>
+    <authors>
+      <author type="words">Werner Arthur Hoffmann</author>
+      <author type="music">Werner Arthur Hoffmann</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich will den Herren loben allezeit.
+Sein Lob soll immerdar in meinem Munde sein. (2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wenn mich Ängste sprachlos machen, schau ich auf zu dir.
+Herr, du lässt mich wieder lachen, denn du bist bei mir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich will den Herren loben allezeit.
+Sein Lob soll immerdar in meinem Munde sein. (2x)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Will ich in der Not verzagen, komm ich im Gebet.
+Deine Hände werden tragen, wenn es nicht mehr geht.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ich will den Herren loben allezeit.
+Sein Lob soll immerdar in meinem Munde sein. (2x)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Deine Nähe darf ich spüren, bei dir hab ich's gut.
+Herr, du kannst mich sicher führen, machst mir wieder Mut.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ich will den Herren loben allezeit.
+Sein Lob soll immerdar in meinem Munde sein. (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

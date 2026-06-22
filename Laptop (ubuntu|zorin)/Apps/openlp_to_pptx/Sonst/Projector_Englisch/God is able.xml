@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God is able</title>
+    </titles>
+    <authors>
+      <author type="words">Ben Fielding</author>
+      <author type="music">Ben Fielding</author>
+      <author type="translation">Gott ist's möglich</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God is able
+He will never fail
+He is almighty God
+Greater than all we seek
+Greater than all we ask
+He has done great things</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lifted up
+He defeated the grave
+Raised to life
+Our God is able
+In His name
+We overcome
+For the Lord
+Our God is able</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God is with us
+God is on our side
+He will make a way
+Far above all we know
+Far above all we hope
+He has done great things</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God is with us
+He will go before
+He will never leave us
+He will never leave us
+God is for us
+He has open arms
+He will never fail us
+He will never fail us</lines>
+    </verse>
+    <verse name="v5">
+      <lines>For the Lord
+Our God is able
+For the Lord
+Our God is able</lines>
+    </verse>
+  </lyrics>
+</song>

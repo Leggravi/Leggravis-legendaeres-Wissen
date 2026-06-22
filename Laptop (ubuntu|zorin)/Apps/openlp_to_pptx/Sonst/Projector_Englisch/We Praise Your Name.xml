@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Praise Your Name</title>
+    </titles>
+    <authors>
+      <author type="words">Ron Williams</author>
+      <author type="music">Ron Williams</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We praise, we praise Your name.
+We praise, we praise Your name.
+We praise Your name;
+We praise Your name.
+We praise, we praise Your name.</lines>
+    </verse>
+  </lyrics>
+</song>

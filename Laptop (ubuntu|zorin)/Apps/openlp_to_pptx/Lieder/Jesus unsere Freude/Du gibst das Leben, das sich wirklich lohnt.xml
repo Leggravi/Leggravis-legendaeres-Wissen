@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:22">
+  <properties>
+    <titles>
+      <title>Du gibst das Leben, das sich wirklich lohnt</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Schnitter (1974)</author>
+      <author type="music">Gerhard Schnitter</author>
+    </authors>
+    <ccliNo>4345897</ccliNo>
+    <themes>
+      <theme>Lebensweg</theme>
+      <theme>Vertrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du gibst das Leben mit einem klaren Sinn,
+beendest das Verlorensein, schenkst einen Neubeginn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du machst das Leben mit dir tief und weit.
+Du reißt uns Horizonte auf, zeigst uns das Ziel der Zeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mit dir zu leben bewahrt uns nicht vor Leid.
+Doch weil dies auf dich schauen lehrt, lohnt sich auch Traurigkeit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wer in dir bleibt, der lebt nicht mehr für sich,
+er wird bestimmt von deiner Liebe und bringt Frucht für dich.</lines>
+    </verse>
+  </lyrics>
+</song>

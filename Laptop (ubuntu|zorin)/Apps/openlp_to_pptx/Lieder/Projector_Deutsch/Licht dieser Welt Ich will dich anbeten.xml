@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Licht dieser Welt (Ich will dich anbeten)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Licht dieser Welt, du strahlst in unsrer Nacht auf,
+leuchtest den Weg, lässt mich sehn.
+Herr, deine Schönheit lässt mich anbeten.
+Ewig werd ich vor dir stehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich will dich anbeten,
+will mich vor dir beugen,
+will dir sagen, du nur bist mein Gott.
+Denn du allein bist herrlich,
+Du allein bist würdig,
+Du nur bist vollkommen gut zu mir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr aller Zeiten, du bist hoch erhaben,
+herrlich im Himmel erhöht.
+Doch voller Demut kamst du auf die Erde,
+zeigst worin Liebe besteht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herr, nie begreife ich die Last,
+Die du am Kreuz getragen hast.</lines>
+    </verse>
+  </lyrics>
+</song>

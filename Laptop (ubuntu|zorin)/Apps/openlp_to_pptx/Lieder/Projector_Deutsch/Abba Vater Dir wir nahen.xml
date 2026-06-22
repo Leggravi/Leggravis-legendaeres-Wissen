@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Abba, Vater! Dir wir nahen</title>
+    </titles>
+    <authors>
+      <author type="words">Rudolf Brockhaus</author>
+      <author type="music">Bamberg</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Abba, Vater! Dir wir nahen in dem Namen unsers Herrn.
+Deiner Kinder Dankeslieder hörst Du, Vater, ja so gern.
+Hier, an dessen Tisch vereinigt, der am Kreuze für uns starb,
+schaun anbetend wir die Liebe, die so teuer uns erwarb.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sklaven einst, in Satans Ketten, todeswürdig, voller Schuld,
+stehn wir als geliebte Kinder jetzt in Deiner Vaterhuld.
+In das ewge Reich des Sohnes Deiner Liebe nun versetzt,
+sind wir in dem Auferstandnen Deines Herzens Wonne jetzt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und in uns, die hier versammelt, schaut der Engel zahllos Heer
+dieses Wunder Deiner Weisheit, Deiner Liebe weites Meer.
+Abba, Vater! Dir sei Ehre allezeit durch Jesus Christ.
+Ewig, ewig sei gepriesen, der Du Licht und Liebe bist!</lines>
+    </verse>
+  </lyrics>
+</song>

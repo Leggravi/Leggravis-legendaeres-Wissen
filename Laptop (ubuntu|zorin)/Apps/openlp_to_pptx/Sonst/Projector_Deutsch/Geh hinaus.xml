@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Geh hinaus</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Halmen</author>
+      <author type="music">Chris Halmen</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Geh hinaus, geh hinaus,
+trag die Hoffnung weiter!
+Leuchte hell, leuchte hell
+in dunkler Nacht.
+Teil es aus, teil es aus,
+trag die Nachricht weiter!
+Ruf hinaus, ruf hinaus,
+was dich bewegt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Singe von dem Einen, der trägt,
+von dem Leben das in dir lebt,
+dass es einen gibt, der ganz zu dir steht.
+Singe von dem Gott, der dich liebt,
+dessen Geist in dein Leben weht.
+Singe von der Hoffnung, die wirklich trägt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Geh hinaus, geh hinaus,
+geh zu allen Menschen
+und erzähl, und erzähl,
+was er dich lehrt!
+Sprich es aus, sprich es aus,
+er spricht aus deinem Herzen,
+bleibt bei dir, bleibt bei dir
+bis zum Ende der Zeit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Singe von dem Einen, der trägt,
+von dem Leben das in dir lebt,
+dass es einen gibt, der ganz zu dir steht.
+Singe von dem Gott, der dich liebt,
+dessen Geist in dein Leben weht.
+Singe von der Hoffnung, die wirklich trägt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Singe von der Hoffnung, die wirklich trägt. (3x)</lines>
+    </verse>
+  </lyrics>
+</song>

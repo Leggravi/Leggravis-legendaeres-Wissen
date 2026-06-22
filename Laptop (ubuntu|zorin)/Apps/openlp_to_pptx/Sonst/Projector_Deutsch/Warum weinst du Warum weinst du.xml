@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Warum weinst du? Warum weinst du?</title>
+    </titles>
+    <authors>
+      <author type="words">Kommunität Gnadenthal</author>
+      <author type="music">Kommunität Gnadenthal</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Warum weinst du? Warum weinst du?
+Warum ist dein Herz voller Trauer?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Denn siehe, ich lebe,
+ich bin auferstanden und habe den Tod besiegt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sag, wen suchst du? Sag, wen suchst du?
+Sag, wen suchst du hier bei den Toten?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lass dich trösten, lass dich senden
+mit der Siegesbotschaft vom Leben.</lines>
+    </verse>
+  </lyrics>
+</song>

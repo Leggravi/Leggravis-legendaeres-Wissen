@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>How Good Is the God We Adore!</title>
+    </titles>
+    <authors>
+      <author type="words">Joseph Hart</author>
+      <author type="music">überliefert</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How good is the God we adore,
+Our faithful, unchangeable Friend,
+Whose love is as great as His power,
+And knows neither measure nor end</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tis Jesus the First and the Last,
+Whose Spirit shall guide us safe
+home;
+We’ll praise Him for all that is past,
+And trust Him for all that’s to come.</lines>
+    </verse>
+  </lyrics>
+</song>

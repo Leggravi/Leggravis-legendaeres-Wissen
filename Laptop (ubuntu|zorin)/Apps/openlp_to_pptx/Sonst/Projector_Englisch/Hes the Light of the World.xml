@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He's the Light of the World</title>
+    </titles>
+    <authors>
+      <author type="words">Andraé Crouch</author>
+      <author type="music">Andraé Crouch</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's the Light of the World
+As He shines His light upon us</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He removes the powers of darkness
+He's the Light of the World
+Yes Jesus is the Light of the world</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Whom Shall I Fear</title>
+    </titles>
+    <authors>
+      <author type="words">Ed Cash</author>
+      <author type="music">Ed Cash</author>
+      <author type="translation">Was macht mir Angst</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v4 v6 v7 v3 v4 v3 v4 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You hear me when I call
+You are my morning song
+Though darkness fills the night
+It cannot hide the light
+Whom shall I fear?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You crush the enemy
+Underneath my feet
+You are my sword and shield
+Though troubles linger still
+Whom shall I fear?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know who goes before me
+I know who stands behind
+The God of angel armies
+Is always by my side</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The one who reigns forever
+He is a friend of mine
+The God of angel armies
+Is always by my side</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My strength is in your name
+For you alone can save
+You will deliver me
+Yours is the victory
+Whom shall I fear?
+Whom shall I fear?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And nothing formed against me shall stand
+You hold the whole world in your hands
+I'm holding on to your promises
+You are faithful
+You are faithful</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nothing formed against me shall stand
+You hold the whole world in your hands
+I'm holding on to your promises
+You are faithful
+You are faithful
+You are faithful</lines>
+    </verse>
+    <verse name="v8">
+      <lines>The God of angel armies
+Is always by my side</lines>
+    </verse>
+  </lyrics>
+</song>

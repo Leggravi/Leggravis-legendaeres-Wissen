@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Famous for (I Believe)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v7 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is no fear 'cause I believe
+There is no doubt 'cause I have seen
+Your faithfulness, my fortress
+Over and over</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have a hope found in Your name
+I have a strength found in Your grace
+Your faithfulness, my fortress
+Over and over</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Make way through the waters
+Walk me through the fire
+Do what You are famous for
+What You are famous for</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Shut the mouths of lions
+Bring dry bones to life and
+Do what You are famous for
+What You are famous for
+I believe in You,
+God I believe in You!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Release Your love inside of me
+Unleash Your power for all to see
+Spirit, come, and fall on us
+Over and over</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Shut the mouths of lions
+Bring dry bones to life and
+Do what You are famous for
+What You are famous for</lines>
+    </verse>
+    <verse name="v7">
+      <lines>God of exceedingly,
+God of abundantly,
+More than we ask or think
+Lord, You will never fail
+Your name is powerful,
+Your word's unstoppable
+All things are possible in You.</lines>
+    </verse>
+  </lyrics>
+</song>

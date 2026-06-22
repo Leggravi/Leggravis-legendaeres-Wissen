@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Groß ist dein Name, Herr, wir loben dich</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Schnitter</author>
+      <author type="music">Gerhard Schnitter</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Groß ist dein Name, Herr, wir loben dich!
+Heilig ist dein Name, Herr, wir preisen dich!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er selber, Gottes Sohn, verließ des Vaters Thron,
+litt Schande, Spott und Not, ging für uns in den Tod.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Der Sieger Jesus Christ vom Tod erstanden ist.
+Zu Ende ist die Nacht, vorbei der Sünde Macht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nun schämen wir uns nicht und treten frei ans Licht.
+Wir nehmen staunend an, was er für uns getan.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wir wollen unser Leben aus Dankbarkeit dir geben.
+Nur darin liegt Gewinn. Du bist des Lebens Sinn!</lines>
+    </verse>
+  </lyrics>
+</song>

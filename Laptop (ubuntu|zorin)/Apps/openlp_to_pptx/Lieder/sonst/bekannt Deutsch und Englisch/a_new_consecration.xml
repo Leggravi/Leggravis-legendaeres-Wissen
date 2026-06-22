@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 26, 2020, 12:09:53 PM">
+  <properties>
+    <titles>
+      <title>A New Consecration</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>I hear the call, calling me
+To my Father's home, where
+There's a place prepared for me
+Like the lost son I drifted in a world of sin
+But His love beckons me to return to Him</lines>
+    </verse>
+    <verse name="C2">
+      <lines>This is God's call to a new consecration
+I'm called to a deeper dedication
+I'm called to be one with my theophany
+And to live eternally in my glorified body</lines>
+    </verse>
+    <verse name="V3">
+      <lines>I'm seeing things that I lack
+As You shine light I'm searching
+diligently to find them back
+Every virtue must be in me when You come
+For I'm called unto the full stature of a perfect man</lines>
+    </verse>
+    <verse name="V4">
+      <lines>I'm moving out into higher realms
+With expectations for the supernatural to take place
+The time has come for this reality
+When the impossible must be manifested in me</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Here I am Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel L. Schutte</author>
+      <author type="music">New Dawn</author>
+      <author type="translation">Ich, der Meer und Himmel schuf</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I, the lord of sea and sky
+I have heard my people cry
+All who dwell in dark and sin
+My hand will save
+I have made the stars of night
+I will make their darkness bright
+Who will bear my light to them?
+Whom shall I send?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here I am Lord, is it I Lord?
+I have heard you calling in the night.
+I will go Lord, if you lead me.
+I will hold your people in my heart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I, the lord of wind and flame
+I will tend the poor and lame
+I will set a feast for them
+My hand will save
+Finest bread i will provide
+Till their hearts be satisfied
+I will give my life to them
+Whom shall I send?</lines>
+    </verse>
+  </lyrics>
+</song>

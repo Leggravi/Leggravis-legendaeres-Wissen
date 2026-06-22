@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:34">
+  <properties>
+    <titles>
+      <title>Meine Zeit steht in deinen Händen</title>
+    </titles>
+    <authors>
+      <author type="words">Peter Strauch (1980)</author>
+      <author type="music">Peter Strauch</author>
+    </authors>
+    <ccliNo>4292737</ccliNo>
+    <themes>
+      <theme>Lebensweg</theme>
+      <theme>Vertrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sorgen quälen und werden mir zu groß.
+Mutlos frag ich: Was wird morgen sein?
+Doch du liebst mich, du lässt mich nicht los.
+Vater, du wirst bei mir sein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hast und Eile, Zeitnot und Betrieb
+nehmen mich gefangen, jagen mich.
+Herr, ich rufe: Komm und mach mich frei!
+Führe du mich Schritt für Schritt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Es gibt Tage, die scheinen ohne Sinn.
+Hilflos seh ich, wie die Zeit verrinnt.
+Stunden, Tage, Jahre gehen hin,
+und ich frag, wo sie geblieben sind.</lines>
+    </verse>
+  </lyrics>
+</song>

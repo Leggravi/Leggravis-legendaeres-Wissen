@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 19, 2024, 12:55:23 PM">
+  <properties>
+    <titles>
+      <title>Better World</title>
+    </titles>
+    <verseOrder>V1 V2 C3 V4 V5 C3 V6 V7 C3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Take a picture put it in a dark room
+There's a process for it to go through
+Take it out when the process is completed
+See the beauty before You</lines>
+    </verse>
+    <verse name="V2">
+      <lines>That's how it is with this life here on earth
+The shot was taken from another world
+Earth is the dark room where our lives develop
+Soon our true beauty will unfold</lines>
+    </verse>
+    <verse name="C3">
+      <lines>In a better world, a better place, a better life
+In a better way, with better things
+In eternity that's where we'd be
+With the One who died for you and me</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Here we see trees struggling to live
+But there's a place where they don't
+Here we see sickness and dying
+There's a place where we won't</lines>
+    </verse>
+    <verse name="V5">
+      <lines>We've got no future on this sinful earth
+Our eyes are fixed on another world
+We've got no treasure here below
+But there is a place where they are stored</lines>
+    </verse>
+    <verse name="V6">
+      <lines>In this place we're pilgrims and strangers
+But there's a place where we belong
+Soon we'll leave Satan's Eden
+Take courage pilgrims it won't be long</lines>
+    </verse>
+    <verse name="V7">
+      <lines>Down here we have no continuing city
+But we see the One to come
+We desire that heavenly country
+God has prepared our future home</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thank You, Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Alison H. Revell</author>
+      <author type="music">Alison H. Revell</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thank You, Jesus,
+For the things that you have given us
+We could n'er repay but from my heart
+I like to say that I thank You.</lines>
+    </verse>
+  </lyrics>
+</song>

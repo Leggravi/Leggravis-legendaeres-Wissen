@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Alle Schöpfung staunt und preist</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Jacobi</author>
+      <author type="music">Marty Sampson</author>
+      <author type="translation">God Is Great (All Creation Cries To You)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alle Schöpfung staunt und preist,
+betet an in Wahrheit im Geist.
+Ehre dir auf deinem Thron,
+Jesus, Gottes Sohn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gott ist groß und sein Lob, füllt die Erde und den Himmel.
+Alle Welt erhebt dem Namen unseres Herrn.
+Gott ist groß, singt sein Lob, alle Welt mit dem Himmel,
+denn wir leben für die Ehre unseres Herrn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alle Schöpfung singt dein Lob.
+Du bist mächtig, du bist groß.
+Du bist Gott und du regierst bis in Ewigkeit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, hör unser Gebet.
+Zeig uns, wie man richtig lebt.
+Feuer Gottes, leuchte hell,
+dass alle Welt es hört und sieht.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Heilig ist der Herr, die Schöpfung singt.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Keep Me Where You Are</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your mercy
+Your majesty
+Surrounds me
+You whisper
+So tenderly
+That You are with me
+What a perfect love
+What a perfect love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, pull me closer
+Don't let me go
+Keep me where You are
+Keep me where You are</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your presence
+So wonderful
+Overwhelming
+Your glory
+So beautiful
+All consuming
+What a perfect love
+What a perfect love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, pull me closer
+Don't let me go
+Keep me where You are
+Keep me where You are
+Fade the world around me
+Till Your face, is all I see
+Keep me where You are
+Keep me where You are</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, pull me closer
+And don't let me go
+Keep me where You are (Keep me where You are)
+Keep me where You are
+Fade the world around me
+Till Your face, is all I see (Till Your face)
+Keep me where You are (Keep me where You are)
+Keep me where You are</lines>
+    </verse>
+  </lyrics>
+</song>

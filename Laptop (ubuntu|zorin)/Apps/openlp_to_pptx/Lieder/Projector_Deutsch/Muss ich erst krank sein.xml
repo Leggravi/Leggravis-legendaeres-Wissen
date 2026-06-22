@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Muss ich erst krank sein</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Muss ich erst krank sein, erst meine Kraft verlieren
+und unter Schmerzen erst meine Grenzen spüren,
+bevor ich sehe, was ich jetzt an gesunden und unbeschwerten Stunden hab’?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nein ich will heute schon schmecken, ich will heute schon fühlen,
+ich will sehen, was gut ist, ehe ich es verlier’.
+Ich will Gott heute schon danken, will ihn heute noch loben,
+will ihm heute noch sagen: du bist gut zu mir!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Muss ich erst hungern, erst mit gebroch’nem Willen
+nach allem greifen, um meinen Bauch zu füllen,
+bevor ich schmecke, was ich oft nur verschlinge?
+Macht erst die Sehnsucht Dinge klar?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Muss ich erst weinen, muss ich um Menschen trauern
+und böse Worte erst überm Grab bedauern,
+bevor ich merke, was ich an andern habe?
+Sind Menschen erst im Grabe schön?</lines>
+    </verse>
+  </lyrics>
+</song>

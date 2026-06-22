@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Thank You Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Edward Baggett</author>
+      <author type="music">Edward Baggett</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We thank You Lord
+For the things that you have done
+We thank You Lord
+For the things that you are doing
+We thank You Lord
+For the things that You will do
+O Lord, we thank You Lord</lines>
+    </verse>
+  </lyrics>
+</song>

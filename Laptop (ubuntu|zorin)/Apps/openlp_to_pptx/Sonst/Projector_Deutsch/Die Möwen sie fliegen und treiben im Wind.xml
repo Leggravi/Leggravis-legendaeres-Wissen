@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Die Möwen, sie fliegen und treiben im Wind</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Die Möwen, sie fliegen und treiben im Wind,
+als ob sie nicht wüssten, wo sie zu Hause sind,
+sie fliegen und treiben über Wasser und Sand.
+So treiben auch Menschen ziellos dahin
+und suchen vergeblich nach einem Sinn.
+Das Ziel ihres Lebens ist ihnen unbekannt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Doch Gott hält für uns eine Wohnung bereit.
+Er gibt uns ein Zuhause, schon in dieser Zeit,
+denn Er ist die Antwort, die heute noch gilt.
+Dort wird unsre Sehnsucht gestillt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In Städten und Dörfern stehn Menschen gedrängt
+und werden von Ängsten und Sorgen gelenkt.
+Sie suchen nach Leben, nach Zukunft und Glück.
+Sie wollen nicht länger einsam mehr sein.
+Sie hungern nach Liebe und bleiben allein.
+Enttäuscht und zerschlagen ziehen sie sich dann zurück.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Doch Gott hält für uns eine Wohnung bereit.
+Er gibt uns ein Zuhause, schon in dieser Zeit,
+denn Er ist die Antwort, die heute noch gilt.
+Dort wird unsre Sehnsucht gestillt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wo kommen wir her und wo gehen wir hin?
+Wie sollen wir leben? Wer zeigt uns den Sinn?
+Wer hat eine Antwort auf die Fragen der Zeit?
+Die Zukunft ist dunkel, sie lässt uns nicht los.
+Wohin treibt die Erde? Die Sorgen sind groß.
+Wir suchen den Ausweg, doch der Weg ist so weit</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Doch Gott hält für uns eine Wohnung bereit.
+Er gibt uns ein Zuhause, schon in dieser Zeit,
+denn Er ist die Antwort, die heute noch gilt.
+Dort wird unsre Sehnsucht gestillt.</lines>
+    </verse>
+  </lyrics>
+</song>

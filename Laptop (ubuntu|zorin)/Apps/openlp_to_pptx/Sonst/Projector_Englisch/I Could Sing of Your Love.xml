@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Could Sing of Your Love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Over the mountains and the sea Your river runs with love for me.
+And I will open up my heart and let the healer set me free.
+I’m happy to be in the truth and I will daily lift my hands.
+For I will always sing of when Your love came down.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I could sing of your love forever
+I could sing of your love forever
+I could sing of your love forever
+I could sing of your love forever</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh I feel like dancing, it’s foolishness I know.
+But when the world has seen the light,
+they will dance with joy like we’re dancing now.</lines>
+    </verse>
+  </lyrics>
+</song>

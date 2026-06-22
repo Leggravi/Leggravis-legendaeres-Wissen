@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Distance Between the Problems and the Solution</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A million miles between earth and God's from heaven
+Sometimes we think That God is Not far
+When we think stormy cloud Hear the rising sun
+God is not far He is the prayer away</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The distance between the problem and the solution
+Is the distance between knees and the floor
+The shortcut to reach God in his throne of mercy
+Is to woke up to him with bended knee</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We think go on and its seems nobody care
+Sometimes we think God is ignoring us
+The answer to your prayer seems to be
+I would bring when you call on his name</lines>
+    </verse>
+  </lyrics>
+</song>

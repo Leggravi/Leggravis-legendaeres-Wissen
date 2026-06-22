@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Aug 14, 2020, 11:56:42 AM">
+  <properties>
+    <titles>
+      <title>Blessed Be The Name Of The Lord</title>
+    </titles>
+    <verseOrder>C1 V2 C1 V3 C1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="C1">
+      <lines>Blessed be the name of the Lord,
+Blessed be the name of the Lord,
+Blessed be the name of the Lord,
+the most high</lines>
+    </verse>
+    <verse name="V2">
+      <lines>The name of the Lord is
+a strong tower,
+the righteous run into it,
+and they are saved.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Jesus is the name of the Lord,
+Jesus is the name of the Lord,
+Jesus is the name of the Lord,
+the most high</lines>
+    </verse>
+  </lyrics>
+</song>

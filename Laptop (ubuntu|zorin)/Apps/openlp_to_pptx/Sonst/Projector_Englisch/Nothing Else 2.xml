@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nothing Else (2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v1 v5 v6 v7 v7 v8 v1 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm caught up in Your presence
+I just want to sit here at Your feet
+I'm caught up in this holy moment
+I never wanna leave</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, I'm not here for blessings
+Jesus, You don't owe me anything
+More than anything that You can do
+I just want You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm sorry when I've just gone through the motions
+I'm sorry when I just sang another song
+Take me back to where we started
+I open up my heart to You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'm sorry when I've come with my agenda
+I'm sorry when I forgot that You're enough
+Take me back to where we started
+I open up my heart to You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, I'm not here for blessings
+Jesus, You don't owe me anything
+And more than anything that You can do
+I just want You</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I just want You
+Nothing else, nothing else
+Nothing else will do
+I just want You
+Nothing else, nothing else
+Nothing else will do</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I just want You
+Nothing else, nothing else
+Nothing else will do
+I just want You
+Nothing else, nothing else, Jesus
+Nothing else will do</lines>
+    </verse>
+    <verse name="v8">
+      <lines>I'm coming back to where we started
+I'm coming back to where we started
+When I first felt Your love
+You're all that matters, Jesus
+You're all that matters
+I'm coming back to what really matters
+Just Your heart
+I just wanna bless Your heart, Jesus</lines>
+    </verse>
+    <verse name="v9">
+      <lines>And oh, I'm not here for blessings
+Jesus, You don't owe me anything
+More than anything that You can do
+Oh, I just want You</lines>
+    </verse>
+  </lyrics>
+</song>

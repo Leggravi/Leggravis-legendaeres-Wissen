@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The holy city</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Last night I lay asleeping
+There came a dream so fair
+I stood in old Jerusalem
+Beside the temple there
+I heard the children singing
+And ever as they sang
+I thought the voice of Angels
+From Heaven in answer rang</lines>
+    </verse>
+    <verse name="v2">
+      <lines>&quot;Jerusalem, Jerusalem!
+Lift up your gates and sing,
+Hosanna in the highest.
+Hosanna to your King!&quot;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And then methought
+my dream was chang'd
+The streets no longer rang
+Hushed were the glad Hosannas
+The little children sang
+The sun grew dark with mystery
+The morn was cold and chill
+As the shadow of a cross arose
+Upon a lonely hill</lines>
+    </verse>
+    <verse name="v4">
+      <lines>&quot;Jerusalem, Jerusalem!
+Hark! How the Angels sing,
+Hosanna in the highest,
+Hosanna to your King!&quot;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And once again the scene was changed
+New earth there seemed to be
+I saw the Holy City
+Beside the tideless sea
+The light of God was on its streets
+The gates were open wide
+And all who would might enter
+And no one was denied
+No need of moon or stars by night
+Or sun to shine by day
+It was the new Jerusalem
+That would not pass away</lines>
+    </verse>
+    <verse name="v6">
+      <lines>&quot;Jerusalem! Jerusalem
+Sing for the night is o'er
+Hosanna in the highest
+Hosanna for evermore!&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

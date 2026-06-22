@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Broken Heart</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v4 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can barely stand right now
+Everything is crashing down
+And I wonder where you are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I try to find the words to pray
+I don't always know what to say
+But you're the one who can hear my heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Even though I don't know what your plan is
+I know you make beauty from these ashes</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I've seen joy and I've seen pain
+And on my knees I call your name
+Here's my broken hallelujah
+With nothing left to hold onto
+I raise these empty hands to you
+Here's my broken
+Here's my broken hallelujah
+Hallelujah, hallelujah
+Here's my broken hallelujah</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You know the things that have brought me here
+You know the story of every tear
+'Cause you've been here from the very start</lines>
+    </verse>
+    <verse name="v6">
+      <lines>When all is taken away
+Don't let my heart be changed
+Let me always sing hallelujah
+When I feel afraid,
+Don't let my hope be erased
+Let me always sing
+Let me always sing</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hallelujah, hallelujah
+Hallelujah (I will always sing)
+Hallelujah (I will always sing)
+Hallelujah (here's my broken hallelujah)
+Here's my broken
+Hallelujah (I will always sing)
+Hallelujah (I will always sing)
+Hallelujah (here's my broken hallelujah)
+Here's my broken
+Hallelujah
+Hallelujah
+Hallelujah
+Hallelujah</lines>
+    </verse>
+  </lyrics>
+</song>

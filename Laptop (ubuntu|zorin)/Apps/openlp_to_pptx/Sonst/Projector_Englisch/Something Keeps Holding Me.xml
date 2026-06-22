@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Something Keeps Holding Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Something Keeps holding me,
+Every day I see,
+He's guiding me faithfully,
+To overcome my trials.
+He's guiding me constantly,
+Giving me victory,
+He's a reality,
+Something Keeps Holding Me</lines>
+    </verse>
+  </lyrics>
+</song>

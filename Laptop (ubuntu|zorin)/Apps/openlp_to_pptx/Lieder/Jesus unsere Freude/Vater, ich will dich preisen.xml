@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:53">
+  <properties>
+    <titles>
+      <title>Vater, ich will dich preisen</title>
+    </titles>
+    <authors>
+      <author type="words">Walter Gschwandtner (1975)</author>
+      <author type="music">Walter Gschwandtner</author>
+    </authors>
+    <ccliNo>5183773</ccliNo>
+    <themes>
+      <theme>Bibel</theme>
+      <theme>Kinderlied</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeden Morgen staun ich neu,
+was dein Wort enthält,
+jeden Morgen staun ich neu,
+was dein Wort enthält.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich erkenne, dein Wort hält
+stets, was es verspricht,
+ich erkenne, dein Wort hält
+stets, was es verspricht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja, in Zeit und Ewigkeit
+hat dein Wort Bestand,
+ja, in Zeit und Ewigkeit
+hat dein Wort Bestand.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Freude, Kraft, Mut, Zuversicht,
+all das schenkt dein Wort.
+Freude, Kraft, Mut, Zuversicht,
+all das schenkt dein Wort.</lines>
+    </verse>
+  </lyrics>
+</song>

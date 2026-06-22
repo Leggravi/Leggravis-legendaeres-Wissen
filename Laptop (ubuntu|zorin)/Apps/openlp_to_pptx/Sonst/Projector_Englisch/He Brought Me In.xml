@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Brought Me In</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He brought me in,
+He brought me in,
+Oh, I thank God,
+He brought me in,
+Just look out yonder,
+Where I have been,
+Oh, I thank God,
+He brought me in.</lines>
+    </verse>
+  </lyrics>
+</song>

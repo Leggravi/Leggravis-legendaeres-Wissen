@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I've Got Reason</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I thank the Lord for my blessings
+For all the ways He has kept me
+Oh-oh, I can’t forget how He saved my soul
+I’ve got a reason to praise the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I thank the Lord, He is faithful
+And when I’m low, He is able
+Oh-oh, I was alone when He opened the door
+I’ve got a reason to praise the Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cause he woke me up, say
+Woke me up this morning
+Gave me a testimony
+I've got a reason
+I’ve got a reason and so many more
+Done so much for me
+Gave me the victory</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I’ve got a reason to praise the Lord
+Woke me up this morning
+Woke me up this morning
+Gave me a testimony
+I've got a reason
+I’ve got a reason and so many more
+Done so much for me
+Gave me the victory
+I’ve got a reason (I’ve got a reason)
+I’ve got a reason (I’ve got a reason)
+I’ve got a reason to praise the Lord</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I thank the Lord, He’s my anchor
+And through the rain He’s my shelter
+Oh-oh, when trouble comes, I can rest in the storm
+I’ve got a reason to praise the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

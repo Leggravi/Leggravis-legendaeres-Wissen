@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Trust in God</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Brown</author>
+      <author type="music">Chris Brown</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v5 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessed Assurance, Jesus is mine,
+He's been my fourth man in the fire, time after time,
+Born of His Spirit, washed in His blood,
+And what He did for me on Calvary is more than enough.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I trust in God, my Savior,
+The one who will never fail,
+He will never fail,
+I trust in God, my Savior,
+The one who will never fail,
+He will never fail,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Perfect submission, all is at rest,
+I know the author of tomorrow has ordered my steps,
+So this is my story and this is my song,
+I'm praising my risen King and Savior all the day long.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He didn't fail you then,
+He won't fail you now.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I sought the Lord and He heard and He answered,
+I sought the Lord and He heard and He answered,
+I sought the Lord and He heard and He answered,
+That's why I trust Him, that's why I trust Him.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I sought the Lord and He heard and He answered,
+I sought the Lord and He heard and He answered,
+I sought the Lord and He heard and He answered,
+That's why I trust Him.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>That's why I trust in God, my Savior,
+The one who will never fail,
+He will never fail,
+Oh, I trust in God, my Savior,
+The one who will never fail,
+He will never fail,
+I sought the Lord.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>I sought the Lord and He heard and He answered,
+I sought the Lord (and He delivered me from all my fears),
+I sought the Lord (from everything),
+And He heard and He answered, oh,
+That's why I trust Him, that's why I trust Him.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>I sought the Lord and He heard and He answered,
+I sought the Lord and He heard and He answered,
+I sought the Lord and He heard and He answered,
+That's why I trust Him, that's why I trust in God.</lines>
+    </verse>
+  </lyrics>
+</song>

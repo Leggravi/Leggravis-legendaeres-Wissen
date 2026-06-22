@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:15">
+  <properties>
+    <titles>
+      <title>Freuet euch allezeit (Zeigt allen Gottes Freundlichkeit)</title>
+    </titles>
+    <authors>
+      <author type="words">Werner Arthur Hoffmann (1991)</author>
+      <author type="music">Werner Arthur Hoffmann</author>
+    </authors>
+    <ccliNo>4329222</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zeigt allen Gottes Freundlichkeit,
+Gott lädt doch alle ein.
+Der Herr ist nahe, seid bereit,
+sperrt nicht die Freude ein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sorgt euch um nichts, Gott ist doch da.
+Ihr dürft wie Kinder sein.
+Was wir ihm sagen, hört er ja;
+wir haben Grund zum Freu'n.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hüllt euch in Gottes Frieden ein,
+vertraut nur seiner Macht,
+dann könnt ihr ganz geborgen sein,
+euch freu'n auch in der Nacht.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You are everything to me</title>
+    </titles>
+    <authors>
+      <author type="words">Danny Plett</author>
+      <author type="music">Danny Plett</author>
+      <author type="translation">Du bist ein weiter Strom</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The things of this world vainly charm
+And the joy that it brings never lasts
+But each time I sing and give praise to my King
+A joy unspeakable it's bring
+Lord, you are everything to me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are everything to me
+You’re worth more than I could ever seen
+Your peace, Your Perfect Love
+Your power from above
+Lord you are everything to me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord your grace you gave to me abundantly
+Redemption is price you freely gave on calvary
+Sin, and death reign no over me
+This cage eagle has been set free</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are everything to me
+You’re worth more than I could ever seen
+Your peace, Your Perfect Love
+Your power from above
+Lord you are everything to me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So from now I count all this but lord...
+I dedicate my life I pledge
+To serve you more!
+With my eye fix on the cross
+your holy name I will adore</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You are everything to me
+You’re worth more than I could ever seen
+Your peace, Your Perfect Love
+Your power from above
+Lord you are everything to me</lines>
+    </verse>
+  </lyrics>
+</song>

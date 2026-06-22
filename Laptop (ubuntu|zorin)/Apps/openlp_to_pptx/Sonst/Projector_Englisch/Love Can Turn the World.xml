@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Love Can Turn the World</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We're as different as night and day,
+We're the same in different ways,
+And it's true, just look at me and you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We can change the way we are,
+The power lives inside our hearts,
+We can be anything we wanna be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If coal can turn to diamonds
+And sand can turn to pearls,
+If a worm can turn into a butterfly,
+Then love can turn the world,
+Oh, love can turn the world.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The God who made you made us all,
+Big and little, short and tall,
+And that's fine 'cause it takes all kinds,
+If He had made us all alike,
+It sure would be boring life,
+But He knew what little time could do.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>If coal can turn to diamonds
+And sand can turn to pearls,
+If a worm can turn into a butterfly,
+Then love can turn the world.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>If coal can turn to diamonds
+And sand can turn to pearls
+If a worm can turn into a butterfly
+Then love can turn the world
+Oh, love can turn, Coal into diamonds.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>And sand into pearls
+If a worm can turn into a butterfly,
+Then love can turn the world,
+Oh, love can turn the world.</lines>
+    </verse>
+  </lyrics>
+</song>

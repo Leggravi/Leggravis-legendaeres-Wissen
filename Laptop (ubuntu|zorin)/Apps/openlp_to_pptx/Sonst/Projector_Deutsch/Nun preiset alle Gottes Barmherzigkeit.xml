@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nun preiset alle Gottes Barmherzigkeit</title>
+    </titles>
+    <authors>
+      <author type="words">Matthäus Apelles von Löwenstern</author>
+      <author type="music">Matthäus Apelles von Löwenstern</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nun preiset alle Gottes Barmherzigkeit!
+Lob ihn mit Schalle, werteste Christenheit!
+Er lässt dich freundlich zu sich laden;
+freue dich, Israel, seiner Gnaden,
+freue dich, Israel, seiner Gnaden!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Der Herr regieret über die ganze Welt;
+was sich nur rühret, alles zu Fuß ihm fällt.
+Viel tausend Engel um ihn schweben,
+Psalter und Harfen ihm Ehre geben,
+Psalter und Harfen ihm Ehre geben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wohlauf, ihr Heiden, lasset das Trauern sein,
+zur grünen Weiden stellet euch willig ein;
+da lässt er uns sein Wort verkünden,
+machet uns ledig von allen Sünden,
+machet uns ledig von allen Sünden.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Er gibet Speise reichlich und überall,
+nach Vaters Weise sättigt er allzumal;
+er schaffet frühn und späten Regen,
+füllet uns alle mit seinem Segen,
+füllet uns alle mit seinem Segen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Drum preis und ehre seine Barmherzigkeit;
+sein Lob vermehre, werteste Christenheit!
+Uns soll hinfort kein Unfall schaden;
+freue dich, Israel, seiner Gnaden,
+freue dich, Israel, seiner Gnaden!</lines>
+    </verse>
+  </lyrics>
+</song>

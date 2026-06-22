@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:01">
+  <properties>
+    <titles>
+      <title>Kommt, stimmt doch mit uns ein</title>
+    </titles>
+    <authors>
+      <author type="words">Werner Arthur Hoffmann (1991)</author>
+      <author type="music">Werner Arthur Hoffmann</author>
+    </authors>
+    <ccliNo>4690913</ccliNo>
+    <themes>
+      <theme>Anbetung</theme>
+      <theme>Dank</theme>
+      <theme>Lob</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kommt, stimmt doch mit uns ein und lasst uns fröhlich sein,
+denn Gott der Herr hat uns befreit.
+Er gab uns seine Kraft, die neues Leben schafft,
+preist ihn in alle Ewigkeit. (2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er ist allein der Herr und ist sonst keiner mehr.
+Die Ehre gebt nur ihm allein.
+Bedenkt was er getan, betet ihn dafür an,
+kommt lasst uns seine Zeugen sein. (2x)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Singt, lobt und jubelt laut! Wer auf den Herrn vertraut,
+der baut sein Leben nicht auf Sand.
+Er, der die Welt regiert und seine Kinder führt,
+er hält sie fest an seiner Hand. (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

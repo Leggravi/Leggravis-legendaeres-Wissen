@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Redeeming Love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>So rich and so deep Unsearchable,
+It's the Love divine
+Redeeming Love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For Me For You,
+Unworthy but saved by Grace,
+For Me For You,
+Redeeming Love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Immutable, incomparable, inexpressible,
+It's the Love Divine;
+Redeeming Love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>How beautiful it is, How sweet it is,
+To hum of the Lamb divine,
+Redeeming Love.</lines>
+    </verse>
+  </lyrics>
+</song>

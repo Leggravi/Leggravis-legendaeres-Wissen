@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Deep Cries Out</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v4 v5 v6 v7 v8 v9 v10 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've got a river of living water
+A fountain that never will run dry
+It's an open heaven you're releasing
+And we will never be denied</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Cause we're stirring up deep-deep wells,
+We're stirring up deep-deep waters
+We're gonna dance in the river, dance in the river
+'Cause we're stirring up deep-deep wells,
+We're stirring up deep-deep waters
+We're gonna jump in the river, jump in the river</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Deep cries out, deep cries out to you
+Deep cries out, deep cries out to you
+We cry out, we cry out to you, Jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>'Cause we're stirring up deep-deep wells,
+We're stirring up deep-deep waters
+We're gonna dance in the river, dance in the river
+'Cause we're stirring up deep-deep wells
+We're stirring up deep-deep waters
+We're gonna jump in the river, jump in
+Everybody singing!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/: Deep cries out, deep cries out to you
+Deep cries out, deep cries out to you
+We cry out, we cry out to you, Jesus :/</lines>
+    </verse>
+    <verse name="v6">
+      <lines>We're falling into deeper waters, calling out to you
+We're walking into deeper waters, going after you</lines>
+    </verse>
+    <verse name="v7">
+      <lines>And if He goes to the left then we'll go to the left,
+And if He goes to the right then we'll go to the right
+We're gonna jump-jump, jump-jump in the river,
+Jump-jump, jump-jump, everybody.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>If He goes to the left then we'll go to the left,
+And if He goes to the right then we'll go to the right
+We're gonna dance-dance, dance-dance in the river,
+Dance-dance, dance-dance, everybody</lines>
+    </verse>
+    <verse name="v9">
+      <lines>If He goes to the left then we'll go to the left,
+And if He goes to the right then we'll go to the right
+We're gonna jump-jump, jump-jump in the river,
+Jump-jump, jump-jump everybody.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>If He goes to the left then we'll go to the left,
+And if He goes to the right then we'll go to the right
+We're gonna shout-shout, shout-shout in the river
+Shout-shout, shout-shout, yeah!</lines>
+    </verse>
+  </lyrics>
+</song>

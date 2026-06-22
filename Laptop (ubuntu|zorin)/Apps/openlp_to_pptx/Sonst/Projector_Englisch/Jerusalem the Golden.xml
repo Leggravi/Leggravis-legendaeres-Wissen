@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jerusalem, the Golden</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jerusalem the golden,
+With milk and honey blest,
+Beneath thy contemplation
+Sink heart and voice oppressed:
+I know not, oh, I know not,
+What joys await us there,
+What radiancy of glory,
+What bliss beyond compare.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>They stand, those hills of Zion,
+All jubilant with song;
+And bright with many an angel,
+And all the martyr-throng:
+The Prince is ever in them,
+The daylight is serene,
+The pastures of the blessed
+Are decked in glorious sheen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is the throne of David,
+And there, from care released,
+The shout of them that triumph,
+The song of them that feast;
+And they who with their Leader
+Have conquered in the fight,
+For ever and for ever
+Are clothed in robes of white.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, sweet and blessed country,
+The home of God’s elect!
+Oh, sweet and blessed country
+That eager hearts expect!
+Jesus, in mercy bring us
+To that dear land of rest,
+Who art, with God the Father,
+And Spirit, ever blest.</lines>
+    </verse>
+  </lyrics>
+</song>

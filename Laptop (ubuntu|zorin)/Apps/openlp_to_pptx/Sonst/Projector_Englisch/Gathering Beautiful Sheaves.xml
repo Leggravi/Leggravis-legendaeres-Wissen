@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gathering Beautiful Sheaves</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To the harvest field away
+we will gladly go today,
+Gathering sheaves, beautiful sheaves;
+From the early dawn till night
+we will labor with our might,
+Gathering sheaves, beautiful sheaves.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gathering sheaves, beautiful sheaves,
+Gathering sheaves, beautiful sheaves;
+Praise the Lord, we're on our way
+to that endless day,
+Gathering sheaves, beautiful sheaves.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On the mountain, hill or plain
+we win harvest in the grain,
+Gathering sheaves, beautiful sheaves;
+Yes, we'll labor far and near,
+Never falter, never fear,
+Gathering sheaves, beautiful sheaves.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We will sing and we will pray,
+And our Master's voice obey,
+Gathering sheaves, beauitful sheaves;
+As we go in foreign lands,
+Doing what our Lord commands,
+Gathering sheaves, beautiful sheaves.</lines>
+    </verse>
+  </lyrics>
+</song>

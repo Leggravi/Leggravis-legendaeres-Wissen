@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>With All I Am</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v1 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will worship, I will worship You
+I will worship, I will worship You
+I will worship, I will worship You
+I will worship, I will worship You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Into Your hand I commit again
+With All I am For You Lord
+You hold my world in the palm of Your hand
+And I'm Yours forever</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus I believe in You
+Jesus I belong to You
+You're the reason that I live
+The reason that I sing with all I am</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'll walk with You wherever You go
+Through tears and joy I'll trust in You
+And I will live in all of Your ways
+Your promises forever</lines>
+    </verse>
+  </lyrics>
+</song>

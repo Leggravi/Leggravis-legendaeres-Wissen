@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Are Great</title>
+    </titles>
+    <authors>
+      <author type="words">Tommy Walker</author>
+      <author type="music">Tommy Walker</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: You deserve the glory,
+And the honor
+Lord we lift our hands to worship
+As we praise Your Holy name. :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: You are great,
+You do miracles so great
+There is no one else like You
+There is no one else like You. :/</lines>
+    </verse>
+  </lyrics>
+</song>

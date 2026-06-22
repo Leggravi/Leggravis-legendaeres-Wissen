@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du allein rettest mich</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeder Mensch braucht Erbarmen
+Unfehlbare Liebe
+Sei Du mir gnädig, Herr
+Jeder Mensch braucht Vergebung
+Die Güte des Erretters
+Der Völker Hoffnung</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Retter, Dein Wort versetzt Berge
+Du nur allein rettest mich
+Du allein rettest mich
+Für immer bist du mein Erlöser
+Denn Du stand'st auf aus dem Grab
+Du besiegtest den Tod</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So nimm mich wie ich bin, Herr
+Meine Angst und Fehler
+Erfüll mich wieder neu
+Ich will Dir folgen Jesus
+Alles woran ich glaube
+Leg' ich vor Dich hin
+Ich leg's vor dich hin</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Strahle hell und lass die Welt es seh'n
+Wir singen Dir zur Ehre auferstandener Herr
+Jesus, strahle hell und lass die Welt es seh'n
+Und wir singen Dir zur Ehre auferstandener Herr</lines>
+    </verse>
+  </lyrics>
+</song>

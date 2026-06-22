@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wayfaring Stranger</title>
+    </titles>
+    <authors>
+      <author type="words">Spiritual</author>
+      <author type="music">Spiritual</author>
+      <author type="translation">Ich bin ja nur ein Gast auf Erden</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am a poor wayfaring stranger
+I'm travellin' through this world of woe
+Yet there's no sickness, toil, nor danger
+In that bright land to which I go</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm going there to see my Father
+I'm going there, no more to roam
+I'm only going over Jordan
+I'm only going over home</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know dark clouds will gather'round me
+I know my way is rough and steep
+But golden fields lie just before me
+Where God's redeemed shall ever sleep</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I’m going home to see my mother
+And all my loved ones who've gone on
+I'm only going over Jordan
+I'm only going over home</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I'll soon be free from every trial
+My body sleep in the churchyard
+I'll drop the cross of self-denial
+And enter on my great reward</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I'm going there to see my Savior
+To sing His praise forevermore
+I'm only going over Jordan
+I'm only going over home</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When I Shout/Testify</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For anyone who's ever seen the mountain of their sins just disappear
+For anyone who's ever felt the hand of Heaven reach down through their fears and dry their tears
+For any life that once was empty now finds itself alive and full of songs, victory songs
+Then you'll understand the reason for the way the saints of God may carry on</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I shout know I'm shouting from a heart that's been washed clean
+When I run know I'm running from a past that's been redeemed
+To the world it might look crazy, there's just no telling what you're gonna do
+In that moment Jesus gets ahold of you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For anyone who knows the hope that keeps them moving on through troubled days
+For anyone who knows they have a future and a hope beyond the grave
+Every life's a different story how He brought us out of darkness into light
+There's no way to keep us silent, every breath's another chance to testify</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, He'll get a hold of you Let Him get a hold of you
+My past erased, my name He changed, let's testify My past erased, my name He changed, let's testify
+My past erased, my name He changed, let's testify My past erased, my name He changed, let's testify</lines>
+    </verse>
+  </lyrics>
+</song>

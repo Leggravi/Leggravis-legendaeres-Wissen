@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Friendship with Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A friend of Jesus, O what bliss.
+That one so vile as I
+Should ever have a friend like this
+To lead me to the sky.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Friendship with Jesus,
+Fellowship divine,
+O what a blessed, sweet communion.
+Jesus is a friend of mine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A friend when other friendships cease,
+A friend when others fail,
+A friend who gives me joy and peace,
+A friend when foes assail.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A friend when sickness lays me low,
+A friend when death draws near,
+A friend as through the vale I go,
+A friend to help and cheer.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A friend when life’s short race is o’er,
+A friend when earth is past,
+A friend to meet on heaven’s shore,
+A friend when home at last.</lines>
+    </verse>
+  </lyrics>
+</song>

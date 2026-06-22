@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Great Things</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come let us worship our King
+Come let us bow at His feet
+He has done great things
+See what our Savior has done
+See how His love overcomes
+He has done great things
+He has done great things</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, hero of Heaven, You conquer the grave
+You free every captive and break every chain
+Oh God, You have done great things
+We dance in Your freedom, awake and alive
+Oh Jesus, our Savior, Your name lifted high
+Oh God, You have done great things</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You've been faithful through every storm
+You'll be faithful forevermore
+You have done great things
+And I know You will do it again
+For Your promise is &quot;Yes and amen&quot;
+You will do great things
+God, You do great things</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hallelujah God, above it all
+Hallelujah God, unshakable
+Hallelujah, You have done great things
+Hallelujah God, above it all
+Hallelujah God, unshakable
+Hallelujah, You have done great things
+You've done great things</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You have done great things
+Oh God, You do great things</lines>
+    </verse>
+  </lyrics>
+</song>

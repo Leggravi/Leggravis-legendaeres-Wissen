@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'll fly away</title>
+    </titles>
+    <authors>
+      <author type="words">Albert E. Brumley</author>
+      <author type="music">Albert E. Brumley</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Some glad morning when this life is o'er
+I'll fly away,
+To a home on God's celestial shore,
+I'll fly away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'll fly away, oh glory,
+I'll fly away;
+when I'm gone hallelujah by and by,
+I'll fly away.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the shadows of this life have grown,
+I'll fly away.
+Like a bird from prison bars has flown,
+I'll fly away.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Just a few more
+Weary days and then,
+I'll fly away;
+To a land where joys shall never end,
+I'll fly away.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I'll fly away, oh glory,
+I'll fly away;
+I cannot die hallelujah by and by,
+I'll fly away.</lines>
+    </verse>
+  </lyrics>
+</song>

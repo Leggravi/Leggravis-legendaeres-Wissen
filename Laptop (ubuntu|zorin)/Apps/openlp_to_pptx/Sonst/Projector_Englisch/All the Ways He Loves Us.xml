@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All the Ways He Loves Us</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He takes darkness and turns it into light
+He takes sorrow and makes it alright
+He holds our hearts, not just when their broken, no
+We're in His arms and He will never let us go
+He's our Father, we're His children</lines>
+    </verse>
+    <verse name="v2">
+      <lines>From the sun coming up to the sun going down
+Every breath, we breathe in and breathe out
+Blessings are given as we are living for Jesus
+He's the beginning and He is the end
+He will be faithful again and again
+We give Him praise for all the ways He loves us</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who would come down from a heavenly throne
+To be humbled and to make our world His home
+What redemption, oh, He chose a cross to save
+What affection, He died in our place
+His grace is always reaching</lines>
+    </verse>
+  </lyrics>
+</song>

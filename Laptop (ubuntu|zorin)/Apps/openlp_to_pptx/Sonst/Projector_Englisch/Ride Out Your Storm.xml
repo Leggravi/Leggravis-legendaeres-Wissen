@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ride Out Your Storm</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You've been in the storm
+It seems like forever
+And your night of confusion
+Has been oh so long
+Your ship has lost anchor
+And the storm's got you drifting
+Just hold on to Jesus
+And ride out your storm</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ride out your storm
+God's right there with you
+Oh you may not feel Him
+But you're never alone
+You're hurting now
+But your morning is coming
+Just hold on to Jesus
+He'll help you ride out your storm</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Remember His promise,
+He said, &quot;I'll never forsake you.&quot;
+Though the waters are troubled
+They'll do you no harm
+Don't give up the battle
+For your answer is coming
+Just hold on to Jesus
+And ride out your storm</lines>
+    </verse>
+  </lyrics>
+</song>

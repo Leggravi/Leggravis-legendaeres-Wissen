@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Making Melody</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Making melody in your heart;
+Making melody in your heart;
+Making melody in your heart
+Unto the King of Kings.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Worship and adore Him
+Worship and adore Him;
+Making melody in your heart,
+Unto the King of Kings.</lines>
+    </verse>
+  </lyrics>
+</song>

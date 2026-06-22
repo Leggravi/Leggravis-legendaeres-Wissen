@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There Is No Satisfaction Outside Salvation</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is no satisfaction outside salvation,
+S-A-L-V-A-T-I-O-N
+There is no satisfaction outside salvation,
+S-A-L-V-A-T-I-O-N</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Shout it out, loud and clear
+S-A-L-V-A-T-I-O-N
+Shout it out, loud and clear
+S-A-L-V-A-T-I-O-N</lines>
+    </verse>
+  </lyrics>
+</song>

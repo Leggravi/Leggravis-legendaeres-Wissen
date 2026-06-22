@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Was macht mich von Sünden rein</title>
+    </titles>
+    <authors>
+      <author type="words">Wilhelm Appel</author>
+      <author type="music">Robert Lowry</author>
+      <author type="translation">Nothing But The Blood</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Was macht mich von Sünden rein?
+Nur das Blut des Lammes Jesu!
+Wo mag für mich Heilung sein?
+Nur im Blut des Lammes Jesu!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O köstlich ist die Flut,
+macht allen Schaden gut.
+Hier meine Seele ruht,
+in dem Blut des Lammes Jesu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Was erlöst mich von der Schuld?
+Nur das Blut des Lammes Jesu!
+Was schenkt mir des Vaters Huld?
+Nur das Blut des Lammes Jesu!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Was versöhnet mich mit Gott?
+Nur das Blut des Lammes Jesu!
+Was errettet aus der Not?
+Nur das Blut des Lammes Jesu!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Was macht grad´, was krumm und schlecht?
+Nur das Blut des Lammes Jesu!
+Was macht mich vor Gott gerecht?
+Nur das Blut des Lammes Jesu!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Was bezwinget Sünd´ und Welt?
+Nur das Blut des Lammes Jesu!
+Was macht mich zum Gottesheld?
+Nur das Blut des Lammes Jesu!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Was tilgt alles Erdenweh?
+Nur das Blut des Lammes Jesu!
+Was führt in des Himmels Höh´?
+Nur das Blut des Lammes Jesu!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Aufgeschaut! Nacht entflieht</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aufgeschaut!
+Nacht entflieht, der Morgen graut.
+Kummertränen, nachts geweinet,
+glänzen, wenn der Morgen scheinet,
+dann als Freudenperl' im Licht
+vor des Heilands Angesicht.
+Aufgeschaut,
+sel'ge Braut!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nicht mehr fern
+bist Du, heller Morgenstern.
+Bald wird die Posaune schallen
+Deinen gläub'gen Streitern allen,
+sie zu rufen aus der Welt,
+die sie feindlich hier umstellt.
+Bist nicht fern,
+Morgenstern!</lines>
+    </verse>
+  </lyrics>
+</song>

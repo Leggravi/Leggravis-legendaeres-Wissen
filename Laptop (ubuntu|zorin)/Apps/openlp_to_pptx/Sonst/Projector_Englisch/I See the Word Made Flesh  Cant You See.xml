@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I See the Word Made Flesh / Can't You See</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I see the Word made flesh again
+In these last days,
+God and man forever to stay
+What a glorious revelation,
+Just to know and understand,
+That Christ came down
+And united with man.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>CAN’T you see why I’m so happy,
+I’ve accepted the Word of the Lord,
+The Revealed Word that was spoken,
+By the Prophet of Malachi.</lines>
+    </verse>
+  </lyrics>
+</song>

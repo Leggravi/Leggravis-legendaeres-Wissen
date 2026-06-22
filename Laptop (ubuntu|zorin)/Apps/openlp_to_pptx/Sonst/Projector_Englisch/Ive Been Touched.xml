@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I've Been Touched</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was heavy - burdened down
+the hand of Satan had me bound
+I called on Jesus - he had compassion on me
+Then His love came rushing in
+and He took away my sin
+I was changed Satan knew I'd been set free</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cause I've been touched
+by those hands that were hanging
+From a tree on a lonely hill that day
+He put a song in my heart that keeps ringing
+It was Jesus who made me this way!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And the world can take all the things
+that I've worked for through the years
+They can take this old house I'm living in
+Oh, but there's one thing, I know,
+they'll never take away from me
+And that's Jesus who's living within!</lines>
+    </verse>
+  </lyrics>
+</song>

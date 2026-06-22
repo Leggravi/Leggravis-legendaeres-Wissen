@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The final word</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've heard its just a fable
+Some old stories handed down
+And the bible has no meaning for today
+But it was there within those pages
+That I met the rock of ages
+And ever since He changed my heart, I say</lines>
+    </verse>
+    <verse name="v2">
+      <lines>From Genesis to Revelation, every word of God is true
+A light to every generation tried and tested through and through
+The hope of all who died believing
+The greatest story ever heard
+The Holy Bible still remains the final word</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The greatest volumes written
+Don't contain the kind of power
+I discover when I read God's word to me
+It's my answer for each question
+And my fears are laid to rest
+On this precious book that says what I believe</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will live my life to honor every word
+And I will lay it down for every chapter, every verse</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The hope of all who died believing
+The greatest story ever heard
+The holy bible still remains the final word</lines>
+    </verse>
+    <verse name="v6">
+      <lines>The holy bible still remains the final word</lines>
+    </verse>
+  </lyrics>
+</song>

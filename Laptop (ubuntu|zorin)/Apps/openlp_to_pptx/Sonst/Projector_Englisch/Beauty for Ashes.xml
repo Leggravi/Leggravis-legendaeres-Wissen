@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Beauty for Ashes</title>
+    </titles>
+    <authors>
+      <author type="words">Robert Whitney Manzano</author>
+      <author type="music">Robert Whitney Manzano</author>
+      <author type="translation">Er gab mir Schönheit statt Asche</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v2 v4 v4 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No longer ashamed, no longer afraid
+You have washed me white as snow
+No longer bound, now I am crowned
+Once in darkness now I know
+You save
+You save</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And You give me beauty for ashes
+And You pull me close to Your heart
+You have turned my mourning to dancing
+That's what You do, that's who You are</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Brand new eyes, brand new hands
+You have wiped away my past
+Brand new day, brand new life
+You have pulled me from the lies
+You save
+You save</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'm no longer what I used to be
+I am stronger because You live in me
+The old is gone, the new has come
+I'm alive</lines>
+    </verse>
+  </lyrics>
+</song>

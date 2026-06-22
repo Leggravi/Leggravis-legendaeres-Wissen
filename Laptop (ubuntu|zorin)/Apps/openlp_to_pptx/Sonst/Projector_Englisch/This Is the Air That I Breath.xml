@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Is the Air That I Breath</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is the air I breathe
+This is the air I breathe
+Your holy presence living in me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This is my daily bread
+This is my daily bread
+Your very word spoken to me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I I'm desperate for you
+And I I'm lost without you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And I I'm lost without you
+And I I'm desperate for you</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And I I'm lost without you
+I'm lost without you
+I'm lost without you</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I'm desperate for you
+I'm desperate for you
+I'm desperate for you</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I'm lost without you
+I'm desperate for you
+I'm desperate for you
+I'm lost without you
+I'm lost without you
+I'm lost without you
+I'm lost without you
+I'm desperate for you</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Um Zions Willen schweige ich nicht</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Um Zions Willen schweige ich nicht,
+nein ich schweige nicht,
+Und wegen Jerusalem bin ich nicht still.
+Nein, ich schweige nicht,
+bis hell scheint sein Gerechtigkeit,
+nein, ich schweige nicht.
+Und sein Heil wieder Licht einer Fackel brennt,
+nein, ich schweige nicht.</lines>
+    </verse>
+  </lyrics>
+</song>

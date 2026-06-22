@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Every Time I Feel the Spirit</title>
+    </titles>
+    <authors>
+      <author type="words">Spiritual</author>
+      <author type="music">Spiritual</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Upon the mountain my Lord spoke
+Out of His mouth came fire and smoke
+I looked all around me it looked so fine
+I asked my Lord if all was mine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Every time I feel the Spirit
+Moving in my heart I will pray
+Every time I feel the spirit
+Moving in my heart I will pray.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jordan river, chilly and cold
+Chills the body not the soul
+There is but one train upon this track
+It goes to heaven and then right back.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh I’ve got sorrows and I’ve got woes
+And I have got heartaches here below
+So when I am praying down on my knees
+Oh, help me Jesus if you may please.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Some people worry,
+and some complain
+The way they grumble it is a shame
+I try to tell them of a better way
+Of the Spirit and how to pray.</lines>
+    </verse>
+  </lyrics>
+</song>

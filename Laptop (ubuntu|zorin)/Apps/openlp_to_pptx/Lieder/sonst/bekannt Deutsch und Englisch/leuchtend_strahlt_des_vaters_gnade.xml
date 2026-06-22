@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="May 25, 2021, 9:35:38 PM">
+  <properties>
+    <titles>
+      <title>Leuchtend strahlt des Vaters Gnade</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2 V5 C2 V6 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Leuchtend strahlt des Vaters Gnade aus dem obern Heimatland,
+doch uns hat er anvertrauet Rettungslichter längs dem Strand.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Lasst die Küstenfeuer brennen, lass sie leuchten weit hinaus,
+denn sie zeigen manchen Schiffer sicherlich den Weg nach Haus.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Unser Weg war fern vom Lichte, unser Herz in Schuld und Qual,
+doch aus Jesu Angesichte leuchtete der Liebe Strahl.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Dunkel ist die Nacht der Sünde, schaurig klingt der Wogen Lied,
+manches Auge sucht voll Sehnsucht, ob's am Strande Lichter sieht.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Jesus hat uns ausgesendet, wie der Vater ihn gesandt.
+Dass die Liebe Gottes strahle, da wo man ihn nicht gekannt.</lines>
+    </verse>
+    <verse name="V6">
+      <lines>Lass dein Licht doch nicht verlöschen, sonst vielleicht zu dieser Stund,
+weil es nicht den Hafen findet, sinkt ein Schifflein auf den Grund.</lines>
+    </verse>
+  </lyrics>
+</song>

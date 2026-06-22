@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Life Is in Your Hands</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Life can be so good
+Life can be so hard
+Never knowing what each day
+Will bring to where you are
+Sometimes I forget
+And sometimes I can’t see
+That whatever comes my way
+You’ll be with me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My life is in your hands
+My heart is in your keeping
+I’m never without hope
+Not when my future is with you
+My life is in your hands
+And though I may not see
+Clearly I will lift my voice and sing
+Cause your love does amazing things
+Lord, I know, my life is in your hands</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nothing is for sure
+Nothing is for keeps
+All I know is that your love
+Will live eternally
+So I will find my way
+And I will find my peace
+Knowing that you’ll meet my every need</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When I’m at my weakest love
+You carry me
+Then I become my strongest lord
+In your hands</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I trust you Lord
+My life is in your hands</lines>
+    </verse>
+  </lyrics>
+</song>

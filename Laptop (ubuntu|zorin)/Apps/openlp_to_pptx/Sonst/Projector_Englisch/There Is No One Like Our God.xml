@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There Is No One Like Our God</title>
+    </titles>
+    <authors>
+      <author type="words">Ed Cash</author>
+      <author type="music">Ed Cash</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v6 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He stretches the heavens, Like curtains before Him,
+He forms every star, And He calls them by name,
+He does not grow weary, His strength knows no end,
+The greatness of our God, None can comprehend,
+Who is like unto our God? Who is like unto our God?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's no one before Him, No one beside Him,
+There is no other, no, no one like Him,
+There is no power more great,
+No one worthy of praise, Like our God, our God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His voice is like thunder, His Word is forever,
+His love is unfailing, and flows like a river,
+Worthy of glory and honor and power,
+And praise is our God,
+There is no one like our God,
+No, There is no one like our God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I walk thru' the fire and He is beside me,
+I pass thru' the water and I do not fear,
+The Lord is my keeper, My strength and my song,
+Mighty in battle, He fights for His own,
+Who is like unto our God?
+Who is like unto our God?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/: And the earth is filled with His glory,
+'The heavens resound with His praise,
+All of creation declaring that,
+There is none like Him, No one like Him. :/</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Who is like unto our God?
+Who is like unto our God?
+Who is like unto our God?
+Who is like unto our God?</lines>
+    </verse>
+  </lyrics>
+</song>

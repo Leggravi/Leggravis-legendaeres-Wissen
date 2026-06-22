@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lass mich, o Herr, in allen Dingen</title>
+    </titles>
+    <authors>
+      <author type="words">Georg Joachim Zollikofer</author>
+      <author type="music">Hamburg</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lass mich, o Herr, in allen Dingen
+auf deinen Willen sehn und dir mich weih'n;
+gib selbst das Wollen und Vollbringen
+und lass mein Herz dir ganz geheiligt sein.
+Nimm meinen Leib und Geist zum Opfer hin;
+dein, Herr, ist alles, was ich hab und bin.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gib meinem Glauben Mut und Stärke
+und lass ihn in der Liebe tätig sein,
+dass man an seinen Früchten merke,
+er sei kein eitler Traum und falscher Schein.
+Er stärke mich in meiner Pilgerschaft
+und gebe mir zum Kampf und Siege Kraft.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lass mich, solang ich hier soll leben,
+in gut und bösen Tagen sein vergnügt
+und deinem Willen mich ergeben,
+der mir zum Besten alles weislich fügt;
+gib Furcht und Demut, wann du mich beglückst,
+Geduld und Trost, wann du mir Trübsal schickst.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ach, hilf mir beten, wachen, ringen,
+so will ich dir, wenn ich den Lauf vollbracht,
+stets Dank und Ruhm und Ehre bringen,
+dir, der du alles hast so wohl gemacht.
+Dann werd' ich heilig rein und dir geweiht,
+dein Lob verkünden in Ewigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

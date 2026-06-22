@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Cornerstone</title>
+    </titles>
+    <authors>
+      <author type="words">John Chandler</author>
+      <author type="music">Richard Lloyd</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My hope is built on nothing less
+Than Jesus’ blood and righteousness,
+I dare not trust the sweetest frame,
+But holy trust is Jesus’ name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Christ alone, Cornerstone,
+Weak made strong in the Savior’s love,
+Through the storm,
+He is Lord, Lord of all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When darkness seems to hide His face,
+I rest on His unchanging grace,
+In every high and stormy gale,
+My anchor holds within the veil,
+My anchor holds within the veil.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When he shall come with trumpet sound,
+Oh, may I then in Him be found,
+Dressed in His righteousness alone,
+Faultless, stand before the throne,</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ein Leben für Gott</title>
+    </titles>
+    <authors>
+      <author type="words">Lukas Di Nunzio</author>
+      <author type="music">Lukas Di Nunzio</author>
+      <author type="translation">My life, Lord, for You, Lord</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ein Leben gegeben für den Herrn der Welt
+Ein Leben gegeben für das was wirklich zählt
+Ein Leben für Gott, für ihn allein, das soll mein Leben sein
+Ein Leben für Gott, für ihn allein, das soll mein Leben sein</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr weise Du mir Deinen Weg
+Zeig mir die Welt mit deinen Augen
+Lass mich erkennen wer du wirklich bist
+Gebrauche mich in dieser Welt</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ein Leben gegeben für den Herrn der Welt
+Ein Leben gegeben für das was wirklich zählt
+Ein Leben für Gott, für ihn allein, das soll mein Leben sein
+Ein Leben für Gott, für ihn allein, das soll mein Leben sein</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herr zeige Du mir Deinen Plan
+In meiner Schwachheit lass mich glauben
+Und wenn ich falle heb mich wieder auf
+Gebrauche mich in dieser Welt</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ein Leben gegeben für den Herrn der Welt
+Ein Leben gegeben für das was wirklich zählt
+Ein Leben für Gott, für ihn allein, das soll mein Leben sein
+Ein Leben für Gott, für ihn allein, das soll mein Leben sein</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Stubborn Love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Caught again. Your faithless friend.
+Don't You ever tire of hearing
+What a fool I've been?
+Guess I should pray, but what can I say?
+Oh, it hurts to know the hundred times
+I've caused You pain.
+The &quot;forgive me&quot; sounds so empty
+When I never change.
+Yet You stay and say, &quot;I love you still,&quot;
+Forgiving me time and time again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's Your stubborn love
+That never lets go of me.
+I don't understand how You can stay
+Perfect Love embracing the worst in me
+How I long for Your stubborn love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Funny me. Just couldn't see
+Even long before I knew You,
+You were loving me.
+Sometimes I cry, You must cry, too,
+When You see the broken promises
+I've made to you.
+I keep saying that I trust You
+Though I seldom do.
+Yet You stay and say You love me still,
+Knowing some day I'll be like You.</lines>
+    </verse>
+  </lyrics>
+</song>

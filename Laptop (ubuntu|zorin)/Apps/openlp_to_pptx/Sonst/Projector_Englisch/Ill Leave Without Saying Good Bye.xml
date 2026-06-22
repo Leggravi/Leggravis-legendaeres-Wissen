@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I’ll Leave Without Saying Good Bye</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If Jesus should come x 2
+I will welcome the call from on high
+There is nothing to hold me
+No money nor home,
+I’ll leave without saying good-bye.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’m longing (to go x 2)
+If the trumpet Lord should sound
+From the mansions on high
+I'll leave without saying good-bye.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My garments are spotless
+I’ve washed my robes white
+For the blood is flowing over my soul
+The way is so clear
+Though it's dark as the night
+For a saint keeps his eyes on the goal.</lines>
+    </verse>
+  </lyrics>
+</song>

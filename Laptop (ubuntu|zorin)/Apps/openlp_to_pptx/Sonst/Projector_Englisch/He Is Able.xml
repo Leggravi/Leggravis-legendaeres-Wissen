@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Is Able</title>
+    </titles>
+    <authors>
+      <author type="words">Ben Fielding</author>
+      <author type="music">Ben Fielding</author>
+      <author type="translation">Gott ist's möglich</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's able, He's able,
+I know my Lord is able.
+I know my Lord is able
+To carry me through.
+He's able, He's able,
+I know my Lord is able,
+I know my Lord is able
+To carry me through.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He heals the broken hearted
+And sets the captive free
+He makes the lame to walk again
+And causes the blind to see.
+He's able, He's able,
+I know my Lord is able,
+I know my Lord is able
+To carry me through.</lines>
+    </verse>
+  </lyrics>
+</song>

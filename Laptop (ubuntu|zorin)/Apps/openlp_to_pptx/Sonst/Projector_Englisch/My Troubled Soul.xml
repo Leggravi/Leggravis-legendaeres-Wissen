@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Troubled Soul</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v2 v3 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My troubled soul, why so weighed down?
+You weren't meant to bear this heavy load
+So cast all your burdens upon the Lord
+’Cause Jesus cares, He cares for you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus cares, He cares for you
+And all your worrying won't help you make it through
+So cast all your burdens upon the Lord
+And trust again in the promise of His love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I will praise the mighty name of Jesus
+Praise the Lord, the lifter of my head
+Praise the Rock of my salvation
+All my days are in His faithful hands</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(Jesus, my neighbor)
+(Jesus)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My anxious heart, why so upset?
+In troubled times how you so easily forget
+To cast all your burdens upon the Lord
+'Cause Jesus cares, He cares for you</lines>
+    </verse>
+    <verse name="v6">
+      <lines>(Praise Him, my neighbour)
+He's faithful, oh so faithful
+(Jesus)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>And I'm leaning, leaning
+Leaning on the everlasting arms
+Yes, I'm leaning, I'm leaning
+Leaning on the everlasting arms
+Yes, I'm leaning, leaning
+Leaning on the everlasting arms
+Yes, I'm leaning, I'm leaning
+Leaning on the everlasting arms</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Yes I’m leaning, leaning
+Leaning on the everlasting arms</lines>
+    </verse>
+  </lyrics>
+</song>

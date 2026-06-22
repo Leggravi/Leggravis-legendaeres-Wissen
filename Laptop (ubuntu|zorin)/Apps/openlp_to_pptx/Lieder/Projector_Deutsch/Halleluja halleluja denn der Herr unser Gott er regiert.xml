@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Halleluja, halleluja, denn der Herr unser Gott er regiert!</title>
+    </titles>
+    <authors>
+      <author type="words">Stephan Bärnreuther</author>
+      <author type="music">Stephan Bärnreuther</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>|: Halleluja, halleluja, denn der Herr unser Gott, er regiert! :|
+Heilig, Heilig, bist du Herr, der Allmächtige
+Würdig ist das Lamm, würdig ist das Lamm,
+denn du bist heilig,
+Heilig bist du, Herr, der Allmächtige
+Würdig ist das Lamm, würdig ist das Lamm. Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

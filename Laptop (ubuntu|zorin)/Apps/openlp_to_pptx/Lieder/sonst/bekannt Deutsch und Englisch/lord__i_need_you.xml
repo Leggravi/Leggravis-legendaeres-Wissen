@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 4, 2019, 9:21:17 PM">
+  <properties>
+    <titles>
+      <title>Lord, I need You</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Lord I come, I confess
+Bowing here I find my rest
+Without You I fall apart
+You're the one that guides my heart</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Lord, I need You, oh I need You
+Every hour I need You
+My one defense, my righteousness
+Oh God, how I need You</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Where sin runs deep, Your grace is more
+Where grace is found is where You are
+And where You are Lord I am free
+Holiness is Christ in me
+Yes where You are Lord I am free
+Holiness is Christ in me</lines>
+    </verse>
+    <verse name="V4">
+      <lines>So teach my song to rise to You
+When temptation comes my way
+And when I cannot stand I'll fall on You
+Jesus You're my hope and stay
+And when I cannot stand I'll fall on You
+Jesus You're my hope and stay</lines>
+    </verse>
+  </lyrics>
+</song>

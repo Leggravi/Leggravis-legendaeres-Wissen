@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>For The Cause</title>
+    </titles>
+    <authors>
+      <author type="words">Keith Getty</author>
+      <author type="music">Keith Getty</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3 v6 v6 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For the cause of Christ the King
+We give our lives, an offering
+’Til all the earth resounds 
+With ceaseless praise
+To the Son</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For the cause of Christ we go
+With joy to reap, with faith to sow
+As many see
+And many put their trust in the Son</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Christ we proclaim, 
+The Name above every name:
+For all creation, 
+Ev’ry nation,
+God’s salvation 
+Through the Son!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For the King once lifted high
+To cries of rage, of ‘crucify!’
+Endured the cross
+As every sin was laid
+On the Son</lines>
+    </verse>
+    <verse name="v5">
+      <lines>To the King who conquered death
+To free the poor and the oppressed
+For lasting peace
+For life and liberty
+In the Son</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Let it be my life’s refrain:
+To live is Christ, to die is gain;
+Deny myself, take up my cross
+And follow the Son</lines>
+    </verse>
+  </lyrics>
+</song>

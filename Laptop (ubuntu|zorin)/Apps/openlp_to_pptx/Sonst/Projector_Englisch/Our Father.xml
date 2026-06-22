@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Our Father</title>
+    </titles>
+    <authors>
+      <author type="words">Marcus Meier</author>
+      <author type="music">Marcus Meier</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our Father in Heaven
+Hallowed be Your name
+Your Kingdom come quickly
+Your will be done the same</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On earth as it is in Heaven
+Let Heaven come to earth
+As it is in Heaven
+Let Heaven come</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/: Let Heaven come
+Let Heaven come
+Let Heaven come
+Let Heaven come :/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: Yours is the Kingdom, Yours is the power
+Yours is the glory forever, amen :/</lines>
+    </verse>
+  </lyrics>
+</song>

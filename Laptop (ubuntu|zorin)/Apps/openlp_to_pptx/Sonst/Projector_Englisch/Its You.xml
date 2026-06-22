@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It's You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>So precious are the promises You’ve given</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unfailing is the way You’ve kept each one</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is nothing I could do to show I’m thankful</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Or repay You for the riches of Your love</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And it’s You, Lord, it’s You</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You’re the lover of my soul</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Oh it’s You, only You</lines>
+    </verse>
+    <verse name="v8">
+      <lines>You’re the one that I adore</lines>
+    </verse>
+    <verse name="v9">
+      <lines>And these words cannot express</lines>
+    </verse>
+    <verse name="v10">
+      <lines>This deep devotion of my heart</lines>
+    </verse>
+    <verse name="v11">
+      <lines>To You</lines>
+    </verse>
+  </lyrics>
+</song>

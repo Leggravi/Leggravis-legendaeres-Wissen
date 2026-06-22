@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Can Do All Things</title>
+    </titles>
+    <authors>
+      <author type="words">Jim Bailey</author>
+      <author type="music">Jim Bailey</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I look at myself in the mirror of the word
+I see so much to be fulfilled
+And I know I’ll bring to pass that glorious mystery
+If only I walk in his will
+And I know the way to certain victory
+Is to die the death to all that’s inside me
+So it’s not I that live but Christ who lives in me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I can do all things through Christ who strengthens me
+I can be all that God wants me to be
+I’ll fulfill the greater works
+I will bring his word to pass
+I’ll become that living reality
+I can do all things through Christ that strengthens me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There’s a challenge of this age
+But the promise to the bride is the stature of a perfect man
+And I know the way to reach that seventh step
+Is only through self sacrifice
+With the word of God deep inside me
+And the Holy Ghost to lead and guide me
+With my eyes fixed on the cross
+I count all things as naught
+It’s not my will but Thine and in His perfect strength I’ll find.</lines>
+    </verse>
+  </lyrics>
+</song>

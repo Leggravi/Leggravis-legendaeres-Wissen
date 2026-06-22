@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>His Good In Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have spent all the money
+I ever owned
+I have squandered all my talents,
+there’s nothing to show
+But now I gladly come
+just as I am to Jesus
+And I pray He’d create His
+good in me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But maybe He can make
+something of me Oooh…
+I know I’m not as smart
+Like someone else,
+I don’t pretend to be
+But this one thing I know for sure
+My old wretched soul won’t find its cure
+Till He has made His good in me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This old flesh I wear
+gets so hard to bear
+And is sometimes weak
+My forgetful mind just won’t let me find
+The words to speak
+And everyday old Satan tells me
+That there’s no need to believe
+That He could ever make
+something of me.</lines>
+    </verse>
+  </lyrics>
+</song>

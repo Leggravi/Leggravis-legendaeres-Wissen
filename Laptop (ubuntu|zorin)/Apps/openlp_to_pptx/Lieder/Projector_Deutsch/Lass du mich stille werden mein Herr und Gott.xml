@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lass du mich stille werden, mein Herr und Gott</title>
+    </titles>
+    <authors>
+      <author type="words">Maria Esther Gräfin von Waldersee</author>
+      <author type="music">Karl Liebig</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lass du mich stille werden, mein Herr und Gott,
+nur deine Stimme hören in Glück und Not,
+nur deine Stimme hören in Glück und Not.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bring alles eigne Wollen in mir zur Ruh,
+und meines Lebens Fragen entscheide du,
+und meines Lebens Fragen entscheide du.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn ich den Weg nicht finde in dunklem Streit,
+leucht mir mit ewgem Lichte durch diese Zeit,
+leucht mir mit ewgem Lichte durch diese Zeit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Reich mir die Gnadenhände in meinem Lauf;
+zieh Blicke und Gedanken zu dir hinauf,
+zieh Blicke und Gedanken zu dir hinauf!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bin ich in deinem Bilde dereinst erwacht,
+dann rühm ich deine Gnade: du hast's vollbracht,
+dann rühm ich deine Gnade: du hast's vollbracht.</lines>
+    </verse>
+  </lyrics>
+</song>

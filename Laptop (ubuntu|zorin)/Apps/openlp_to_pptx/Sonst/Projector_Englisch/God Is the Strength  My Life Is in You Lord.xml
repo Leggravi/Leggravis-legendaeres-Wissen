@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God Is the Strength – My Life Is in You Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Whom have I in heaven but You
+There is nothing on earth I desire beside You
+My heart and my strength many times they fail
+But there is one truth that always will prevail</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God is the strength of my heart
+God is the strength of my heart
+God is the strength of my heart
+And my portion forever, forever</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My life is in You, Lord
+My strength is in You, Lord
+My hope is in You, Lord
+In You, it’s in You.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will praise You with all of my life
+I will praise You with all of my strength
+With all of my life
+With all of my strength
+All of my hope is in You</lines>
+    </verse>
+  </lyrics>
+</song>

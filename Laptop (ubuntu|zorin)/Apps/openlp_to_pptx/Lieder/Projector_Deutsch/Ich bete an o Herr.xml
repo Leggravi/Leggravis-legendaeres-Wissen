@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich bete an. o Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Ute Spengler</author>
+      <author type="music">Callie Gerbrandt</author>
+      <author type="translation">Lord over all (I worship You, O Lord)</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich bete an, o Herr, in Wahrheit und im Geist.
+Ich beuge mich vor Deinem Thron, ich preise Dich.
+Ich ehre Dich, mein Gott. Dein Name sei gelobt
+und über alles erhebe ich Dich, ich preise Dich!</lines>
+    </verse>
+  </lyrics>
+</song>

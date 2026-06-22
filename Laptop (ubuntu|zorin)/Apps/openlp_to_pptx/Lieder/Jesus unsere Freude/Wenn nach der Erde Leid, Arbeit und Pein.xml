@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:07">
+  <properties>
+    <titles>
+      <title>Wenn nach der Erde Leid, Arbeit und Pein</title>
+    </titles>
+    <authors>
+      <author type="words">Hedwig von Redern (1905)</author>
+      <author type="music">Charles H. Gabriel</author>
+    </authors>
+    <ccliNo>5570609</ccliNo>
+    <themes>
+      <theme>Wiederkunft</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wenn nach der Erde Leid, Arbeit und Pein
+ich in die goldenen Gassen zieh ein,
+wird nur das Schaun meines Heilands allein
+Grund meiner Freude und Anbetung sein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wenn dann die Gnade, mit der ich geliebt,
+dort eine Wohnung im Himmel mir gibt,
+wird doch nur Jesus und Jesus allein
+Grund meiner Freude und Anbetung sein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dort vor dem Throne im himmlischen Land
+treff ich die Freunde, die hier ich gekannt;
+dennoch wird Jesus und Jesus allein
+Grund meiner Freude und Anbetung sein.</lines>
+    </verse>
+  </lyrics>
+</song>

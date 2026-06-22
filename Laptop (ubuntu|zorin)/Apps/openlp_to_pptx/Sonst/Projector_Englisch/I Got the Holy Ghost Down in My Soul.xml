@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Got the Holy Ghost Down in My Soul</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v2 v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I got the Holy Ghost…down in my soul…just like the Bible says…
+I got the Holy Ghost…down in my soul…just like the Bible says
+I got the Holy Ghost… down in my soul…just like the Bible says…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’ve been to the river and I’ve been baptized…
+My soul got happy, and I’m satisfied…
+I’ve got my hand on the gospel plow…
+And I wouldn’t take nothing for my journey now
+Just like the Bible…Just like the Bible…Just Like the Bible says</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Just like the Bible…Just like the Bible…Just Like the Bible says</lines>
+    </verse>
+  </lyrics>
+</song>

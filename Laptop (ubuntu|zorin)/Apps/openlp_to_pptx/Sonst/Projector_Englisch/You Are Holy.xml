@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Are Holy</title>
+    </titles>
+    <authors>
+      <author type="words">Shaun Griffiths</author>
+      <author type="music">Shaun Griffiths</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are holy, holy
+Lord there is none like You
+You are holy, holy
+Glory to You alone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’ll sing Your praises forever
+Deeper in love with You
+Here in Your courts
+Where I’m close to Your throne
+I’ve found where I belong</lines>
+    </verse>
+  </lyrics>
+</song>

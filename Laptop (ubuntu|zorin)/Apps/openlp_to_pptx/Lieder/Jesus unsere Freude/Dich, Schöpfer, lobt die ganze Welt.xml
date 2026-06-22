@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:52">
+  <properties>
+    <titles>
+      <title>Dich, Schöpfer, lobt die ganze Welt</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Fritzsche (1939)</author>
+      <author type="music">Johannes Petzold</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dich, Schöpfer, lobt die ganze Welt,
+das Licht der tausend Sonnen,
+das Sternenheer am Himmelszelt,
+der Wolken Wasserbronnen.
+Dir singt, was du geschaffen hast,
+bewusst und unbewusst,
+die finstre Nacht, der Sonne Glast,
+die kleinste Vogelbrust.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Doch wäre deine Liebe nicht,
+die uns zu Kindern machte,
+so wär's als ob das Sonnenlicht
+nicht auf die Erde lachte.
+Es wäre dunkel, öd und kalt.
+Nun aber brennt dein Licht,
+und über Meer und Feld und Wald
+sehn wir dein Angesicht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So hat das Leben Sinn und Ziel.
+Du bist des Lebens Quelle.
+Das Sein ist nun kein irres Spiel.
+Aus dir strömt klar und helle
+das Licht, das uns dich sehen macht,
+der Glanz die Welt betaut.
+Du hast uns durch dein Lieb und Macht
+auf ewig dir vertraut.</lines>
+    </verse>
+  </lyrics>
+</song>

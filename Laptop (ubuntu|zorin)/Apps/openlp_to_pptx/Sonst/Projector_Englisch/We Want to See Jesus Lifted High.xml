@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Want to See Jesus Lifted High</title>
+    </titles>
+    <authors>
+      <author type="words">Doug Horley</author>
+      <author type="music">Doug Horley</author>
+      <author type="translation">Wir wollen dich hoch erhoben sehn</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We want to see Jesus lifted high
+A banner that flies across this land
+That all men might see the truth know
+He is the way to heaven</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We want to see, we want to see
+We want to see Jesus lifted high
+We want to see, we want to see
+We want to see Jesus lifted high</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Step by step we moving forward
+Little by little taking ground
+Every prayer a powerful weapon
+Strongholds come tumbling down
+And down and down and down</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We gonna see, we gonna see
+We gonna see Jesus lifted high
+We gonna see, we gonna see
+We gonna see Jesus lifted high</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He’s Always Been Faithful</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Morning by morning, I wake up to find
+The power and comfort of God's hand in mine
+Season by season, I watch Him, amazed
+In awe of the mystery of His perfect ways
+All I have need of, His hand will provide
+He's always been faithful to me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I can't remember a trial or a pain
+He did not recycle to bring me gain
+I can't remember one single regret
+In serving God only and trusting His hand
+All I have need of, His hand will provide
+He's always been faithful to me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This is my anthem, this is my song
+The theme of the stories I've heard for so long
+God has been faithful, He will be again
+His loving compassion, it knows no end
+All I have need of, His hand will provide
+He's always been faithful
+He's always been faithful
+He's always been faithful to me</lines>
+    </verse>
+  </lyrics>
+</song>

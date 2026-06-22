@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Reaching for You</title>
+    </titles>
+    <authors>
+      <author type="words">Cae Gauntt</author>
+      <author type="music">Cae Gauntt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can't believe the way,
+Your Love has got a hold on me,
+Each morning I wake to find You near.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You lift me above my fears
+And set my feet on solid ground,
+All of my days belong to You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I breathe in the breath of life,
+That fills my heart,
+You are my all consuming Fire.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I stand here before You,
+In wide opened wonder amazed,
+At the Glory of You.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The Power of heaven,
+Revealing Your Purpose in me,
+As I am reaching for You.</lines>
+    </verse>
+  </lyrics>
+</song>

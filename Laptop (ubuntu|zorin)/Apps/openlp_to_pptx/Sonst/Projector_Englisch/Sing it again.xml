@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sing it again</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v5 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let it begin, our freedom celebration
+We'll dance and sing
+There's a Holy Ghost party that never stops
+Arise, in Your praise my soul delights
+Shine, my dance anthem is Your love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sing it again, our God reigns
+We lift our praise unto Your name again
+All ‘round the world we'll sing
+Sing it again, our God reigns
+He taught our dead hearts how to beat again
+All ‘round the world we'll sing</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Around the world, join in the celebration
+Let it be heard
+There's a Holy Ghost party that never stops</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Arise, in Your praise my soul delights
+Shine, my dance anthem is Your love</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Every tribe and nation
+Come and join the celebration
+Every heart and generation
+Sing let it begin, let it begin</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Sing it again, our God reigns
+We lift our praise unto Your name again
+All ‘round the world we'll sing
+Sing it again, our God reigns
+He taught our dead hearts how to beat again</lines>
+    </verse>
+    <verse name="v7">
+      <lines>All ‘round the world we'll sing</lines>
+    </verse>
+  </lyrics>
+</song>

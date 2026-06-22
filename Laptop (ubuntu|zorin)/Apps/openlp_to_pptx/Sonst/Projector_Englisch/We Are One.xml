@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Are One</title>
+    </titles>
+    <authors>
+      <author type="words">Steffi Neumann</author>
+      <author type="music">Steffi Neumann</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord we come into Your Presence
+Gathered under the blood of the Lamb
+The endtime message has united us
+Your Bride the body of Jesus Christ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are one, we are His body
+covered by the precious blood
+Of Jesus Christ
+None is greater among us
+We need each other to fulfil His word
+As we gather in the Holy
+Presence of the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm Ready To Move</title>
+    </titles>
+    <authors>
+      <author type="words">Joel Houston</author>
+      <author type="music">Joel Houston</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This world, it never gets no better,
+Seems like I've been here forever;
+Everything after'while
+Just seems the same,
+So it's time to be up in glory
+I can feel there's a wind there blowing,
+I'm ready to move, I'm ready to change.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm ready to move, move on up
+to another dimension,
+I'm ready to change,
+relocate to another location;
+There's nothing to hold me here
+ no more,
+I'm already out the door;
+I've got the Holy Ghost here to prove
+I'm ready to move.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Well, everything that I need is in order,
+Ready now to cross the border;
+To a brand new country bright and fair,
+But I hold a little revelation;
+This body is gonna see a translation,
+Moving up to my mansion in the air.</lines>
+    </verse>
+  </lyrics>
+</song>

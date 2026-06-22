@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>On the Wings of a Dove</title>
+    </titles>
+    <authors>
+      <author type="words">Bob Ferguson</author>
+      <author type="music">Bob Ferguson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When troubles surround us
+When evils come
+The body grows weak (body grows weak)
+The spirit grows numb (spirit grows numb)
+When these things beset us,
+He doesn't forget us
+He sends down His love (sends down His love)
+On the wings of a dove (wings of a dove)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On the wings of a snow-white dove
+He sends His pure sweet love
+A sign from above (sign from above)
+On the wings of a dove (wings of a dove)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When Jesus went down, To the water that lay
+He was baptized, in an unusual way
+When it was done, God blessed His son
+He sent down His Love on the wings of the dove</lines>
+    </verse>
+    <verse name="v4">
+      <lines>On the wings of a snow-white dove (4x)</lines>
+    </verse>
+  </lyrics>
+</song>

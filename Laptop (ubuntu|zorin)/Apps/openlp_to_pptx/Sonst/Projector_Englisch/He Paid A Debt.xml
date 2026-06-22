@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Paid A Debt</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He paid a debt He did not owe,
+I owed a debt I could not pay,
+I needed someone to wash
+  my sins away;
+And now I sing a brand new song,
+Amazing grace all day long,
+Christ Jesus paid a debt
+That I could never pay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He paid a debt at Calvary,
+He cleansed my soul and
+  set me free,
+I'm glad that Jesus did all
+  my sins erase.
+I now can sing a brand new song,
+Amazing grace all day long,
+Christ Jesus paid a debt
+That I could never pay.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>One day He's coming back for me,
+To live with Him eternally,
+Won't it be glory to see Him
+  on that day!
+I then will sing a brand new song,
+Amazing grace all day long
+Christ Jesus paid a debt
+That I could never pay.</lines>
+    </verse>
+  </lyrics>
+</song>

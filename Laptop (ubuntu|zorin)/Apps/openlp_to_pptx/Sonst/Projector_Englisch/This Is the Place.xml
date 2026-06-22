@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Is the Place</title>
+    </titles>
+    <authors>
+      <author type="words">Andrew Mitchell</author>
+      <author type="music">Andrew Mitchell</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, my child, there is a place,
+When you're lost, you will be found,
+You'll be safe, and you'll belong,
+You will hear the sweetest sound.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This is the place where we pray,
+This is the place where we cry
+This is the place where we start
+Till death do us part
+Where we say goodbye.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Here we leave all our pain,
+Find forgiveness and grace,
+Here we walk down the aisle,
+Dedicate every child,
+Here in this sacred place.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Break some bread, come, share the wine,
+At this table, there is a place,
+Bring your fears, take his peace,
+Come and share this Holy space.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Holy, holy (Holy, holy) Holy, holy,
+God almighty, Emmanuel.</lines>
+    </verse>
+  </lyrics>
+</song>

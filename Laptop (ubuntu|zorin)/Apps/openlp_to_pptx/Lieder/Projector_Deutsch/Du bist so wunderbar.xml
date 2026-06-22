@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist so wunderbar</title>
+    </titles>
+    <authors>
+      <author type="words">Frieder Gutscher</author>
+      <author type="music">Frieder Gutscher</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist so wunderbar,
+so wunderbar bist Du.
+Du bist so wunderbar,
+so wunderbar bist Du.
+Du bist so wunderbar,
+so wunderbar bist Du.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mein Erretter, Erlöser und Herr.
+Mein Erretter, Erlöser und Herr.
+Mein Erretter, Erlöser und Herr.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Voller Gnade, voll Erbarmen, ewige Liebe.
+Voller Gnade, voll Vergebung, ewig treuer Gott.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, lenke unsre Herzen und unsern ganzen Sinn</title>
+    </titles>
+    <authors>
+      <author type="words">Schaffhausen</author>
+      <author type="music">Melchior Vulpius</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, lenke unsre Herzen
+Und unsern ganzen Sinn
+Auf Deine Angst und Schmerzen
+Und auf Dein Opfer hin!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du ließest Dich verklagen,
+Du wardst verhöhnt, verspeit,
+Verspottet und geschlagen,
+Du Herr der Herrlichkeit!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du wardst von Gott verlassen,
+Damit Er bei uns sei,
+Du musst'st im Tod erblassen,
+Damit vom Tod wir frei.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Lamm, sei hochgepriesen!
+Du trugst die ganze Schuld.
+Dank Dir! Du hast erwiesen
+Nur Gnade, Lieb' und Huld.</lines>
+    </verse>
+  </lyrics>
+</song>

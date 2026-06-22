@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thank You, God</title>
+    </titles>
+    <authors>
+      <author type="words">Tom Lane</author>
+      <author type="music">Tom Lane</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Morning light of each new day
+Your love guides me all the way
+Through the highs and through the lows
+In Your grace my heart still grows</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mountains tall and valleys deep
+Your hand holds me while I sleep
+Every step and every fall
+Through it all You hear my call</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thank You, God, for all You′ve done
+And the grace that flows on
+In the night and in the day
+Goodness and mercy lead my way</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Years may come and years may go
+But Your love is all I know
+Through the storms and gentle breeze
+Your peace puts my soul at ease (oh)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hearts may break and tears may fall
+Still Your wonders they still show
+In the dark or in the light
+You're my rock, You′re my sight</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Thank You, God
+Thank You, God
+Thank You, God</lines>
+    </verse>
+  </lyrics>
+</song>

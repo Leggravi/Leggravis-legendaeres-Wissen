@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let the Light In</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v4 v5 v5 v6 v6 v6 v6 v5 v5 v6 v6 v6 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's time for the sleeper to wake
+It's time for the old winds to change
+I hear the Spirit say, it's time</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's time for the dead man to rise
+It's time for the Great Light to shine
+I hear the Spirit say, it's time</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fling wide you heavenly gates
+Let the King of glory in
+Let the King of glory in
+Come ride in on Your people's praise
+Let the King of glory in
+Let the King of glory in</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It's time for the dead man to rise
+It's time for the Great Light to shine
+I hear the Spirit say, it's time (oh)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fling wide you heavenly gates
+Let the King of glory in
+Let the King of glory in
+Come ride in on Your people's praise
+Let the King of glory in
+Let the King of glory in</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Open up the windows, let the light in
+Open up the windows, let the light in
+Open up the windows, let the light in
+Let the light in, let the light in</lines>
+    </verse>
+  </lyrics>
+</song>

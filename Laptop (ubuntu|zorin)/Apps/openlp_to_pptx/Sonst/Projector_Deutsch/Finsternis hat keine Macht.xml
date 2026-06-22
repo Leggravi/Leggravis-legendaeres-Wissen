@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Finsternis hat keine Macht</title>
+    </titles>
+    <authors>
+      <author type="words">Markus Kosewähr</author>
+      <author type="music">Markus Kosewähr</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Finsternis hat keine Macht.
+Er gewann für uns die Schlacht.
+Jesus ist der Herr der ganzen Welt.
+Und er baut ein Reich, das ewig hält.
+Halleluja, er ist unser Gott.</lines>
+    </verse>
+  </lyrics>
+</song>

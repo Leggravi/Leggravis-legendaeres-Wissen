@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:18">
+  <properties>
+    <titles>
+      <title>Stern, auf den ich schaue</title>
+    </titles>
+    <authors>
+      <author type="words">Adolf Krummacher (1857)</author>
+      <author type="music">Mina Koch</author>
+    </authors>
+    <ccliNo>4351355</ccliNo>
+    <themes>
+      <theme>Vertrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stern, auf den ich schaue, Fels, auf dem ich steh,
+Führer, dem ich traue, Stab, an dem ich geh,
+Brot, von dem ich lebe, Quell, an dem ich ruh,
+Ziel, das ich erstrebe, alles, Herr, bist du.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ohne dich, wo käme Kraft und Mut mir her?
+Ohne dich, wer nähme meine Bürde, wer?
+Ohne dich, zerstieben würden mir im Nu
+Glauben, Hoffen, Lieben, alles, Herr, bist du.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drum so will ich wallen meinen Pfad dahin,
+bis die Glocken schallen und daheim ich bin.
+Dann mit neuem Klingen jauchz' ich froh dir zu:
+nichts hab ich zu bringen, alles, Herr, bist du!</lines>
+    </verse>
+  </lyrics>
+</song>

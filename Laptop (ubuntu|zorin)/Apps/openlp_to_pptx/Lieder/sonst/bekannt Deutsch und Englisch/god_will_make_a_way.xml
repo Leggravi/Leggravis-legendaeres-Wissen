@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Feb 14, 2021, 3:40:14 PM">
+  <properties>
+    <titles>
+      <title>God will make a way</title>
+    </titles>
+    <verseOrder>C1 V2 C1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="C1">
+      <lines>God will make a way
+When there seems to be no way
+He works in ways we cannot see
+He will make a way for me
+He will be my guide
+Hold me closely to His side
+With love and strength for each new day
+He will make a way
+He will make a way.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>By a road in the wilderness
+He leads me
+Rivers in the desert will I see
+Heaven and earth will fade
+But His word will still remain
+He will do something new today.</lines>
+    </verse>
+  </lyrics>
+</song>

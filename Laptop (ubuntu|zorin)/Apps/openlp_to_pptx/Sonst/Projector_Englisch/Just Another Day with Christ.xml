@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Just Another Day with Christ</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You may be surprised
+at what we can accomplish
+with Jesus on our side
+there's nothing that can stop us
+when we're walking hand in hand with life and truth
+there's nothing in our way
+you may be surprised
+but it's just another day with Christ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What is that in your hand?
+What is that in your hand?
+He can do the impossible through you if you will take a stand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We've seen Him use a stone.
+We've seen him use a rod.
+We've seen Him use a bone, 2 fish and 5 loaves, even a cattle prod.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>What is that in your hand?
+What is that in your hand?
+He can do the impossible through you if you will take a stand.</lines>
+    </verse>
+  </lyrics>
+</song>

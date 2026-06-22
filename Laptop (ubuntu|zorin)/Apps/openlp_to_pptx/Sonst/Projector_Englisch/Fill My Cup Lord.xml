@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Fill My Cup, Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Richard Blanchard</author>
+      <author type="music">Richard Blanchard</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fill my cup, Lord, I lift it up, Lord,
+Come and quench
+This thirsting of my soul.
+Bread of heaven,
+Feed me'til I want no more,
+Fill my cup, fill it up
+And make me whole.</lines>
+    </verse>
+  </lyrics>
+</song>

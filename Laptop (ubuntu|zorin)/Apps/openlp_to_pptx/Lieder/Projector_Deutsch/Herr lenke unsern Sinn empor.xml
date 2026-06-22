@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, lenke unsern Sinn empor</title>
+    </titles>
+    <authors>
+      <author type="words">Adolf Helling</author>
+      <author type="music">Johann Heinrich Egli</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, lenke unsern Sinn empor
+Und öffne gnädig jedes Ohr,
+Führ' durch den Geist ins Wort uns ein
+Und lass es unsre Speise sein!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dass jedes Herz gesammelt sei,
+Mach' uns von Sorg' und Unruh' frei,
+Bewege Du des Herzens Grund
+Und tu' uns Deine Gnade kund!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>An Lebenswassern, still und rein,
+Lass alle uns gelagert sein,
+Gib selbst das gute, rechte Wort,
+Du Leibes-Heiland, Hirt und Hort!</lines>
+    </verse>
+  </lyrics>
+</song>

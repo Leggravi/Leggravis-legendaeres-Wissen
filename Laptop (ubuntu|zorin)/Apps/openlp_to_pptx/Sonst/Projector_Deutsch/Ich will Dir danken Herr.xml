@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich will Dir danken, Herr, </title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Paul Ernst Ruppel</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich will Dir danken, Herr, über allen Erdenvölkern.
+Ich will Dir Loblieder singen unter den Menschen.
+Denn Deine Güte reicht so weit bis zu den Himmeln
+und Deine Treue soweit die Wolken gehen.
+Sei erhoben, o Gott, über den Himmel,
+Deine Herrlichkeit sei über aller Welt.
+Sei erhoben, o Gott, über den Himmel,
+Deine Herrlichkeit, Deine Herrlichkeit,
+Deine Herrlichkeit sei über aller Welt.</lines>
+    </verse>
+  </lyrics>
+</song>

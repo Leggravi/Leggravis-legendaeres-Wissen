@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:50">
+  <properties>
+    <titles>
+      <title>O selig Haus wo man dich aufgenommen</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Spitta (1826)</author>
+      <author type="music">Genf</author>
+    </authors>
+    <ccliNo>5570568</ccliNo>
+    <themes>
+      <theme>Hochzeit</theme>
+      <theme>Trauung</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O selig Haus, wo man dich aufgenommen,
+du wahrer Seelenfreund, Herr Jesu Christ;
+wo unter allen Gästen, die da kommen,
+du der gefeiertste und liebste bist;
+wo aller Herzen dir entgegenschlagen
+und aller Augen freudig auf dich sehn;
+wo aller Lippen dein Gebot erfragen
+und alle deines Winks gewärtig stehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O selig Haus, wo Mann und Weib in einer,
+in deiner Liebe eines Geistes sind,
+als beide eines Heils gewürdigt, keiner
+im Glaubensgrunde anders ist gesinnt;
+wo beide unzertrennbar an dir hangen
+in Lieb und Leid, Gemach und Ungemach
+und nur bei dir zu bleiben stets verlangen
+an jedem guten wie am bösen Tag.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O selig Haus, wo man die lieben Kleinen
+mit Händen des Gebets ans Herz dir legt,
+du Freund der Kinder, der sie als die Seinen
+mit mehr als Mutterliebe hegt und pflegt;
+wo sie zu deinen Füßen gern sich sammeln
+und horchen deiner süßen Rede zu
+und lernen früh dein Lob auf Erden stammeln,
+sich deiner freun, du lieber Heiland, du.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O selig Haus, wo Knecht und Magd dich kennen
+und wissend, wessen Augen auf sie sehn,
+bei allem Werk in einem Eifer brennen,
+dass es nach deinem Willen mag geschehn;
+als deine Diener, deine Hausgenossen
+in Demut willig und in Liebe frei
+das Ihre schaffen froh und unverdrossen,
+in kleinen Dingen zeigen große Treu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O selig Haus, wo du die Freude teilest,
+wo man bei keiner Freude dein vergisst;
+o selig Haus, wo du die Wunden heilest
+und aller Arzt und aller Tröster bist,
+bis jeder einst sein Tagewerk vollendet
+und bis sie endlich alle ziehen aus,
+woher der Vater dich gesendet,
+ins große, freie, schöne Vaterhaus.</lines>
+    </verse>
+  </lyrics>
+</song>

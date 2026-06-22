@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Can Feel You Flowing Through Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can feel you flowing through me.
+Holy Spirit come and fill me up
+come and fill me up</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Love and mercy, fill my senses.
+I am thirsty for your presence, Lord,
+come and fill me up</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, let Your mercy wash a way all of my sin
+Fill me completely with Your love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I need you, I want you
+I love you presence</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Father</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I cover up the pain that I'm lost in
+'Cause I wanna be enough and it's exhausting
+Trying so hard but really I'm just wearing my heart out
+And I find myself right on the verge of a breakdown
+Then you hold me in your hands
+Remind me who you are and who I am</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I was born broken so you can make me whole
+I'll bring my dirt and let you wash over me like water (Oh-oh-oh-oh)
+I was born to need you, to wipe the tears I cry
+Yes, you made me a child so you could be my father
+I'm your child and you're my father (Oh-oh-oh-oh)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Even when I'm lost and I don't feel found
+When humans are human and they let me down
+You're still my father</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You lead me, protect me, bring me home
+I'm weak and afraid but you never let go
+And I don't have to hide'cause you already know
+Already know
+You're still my father (Oh-ooh)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I was born broken so you can make me whole
+I'll bring my dirt and let you wash over me like water (Oh-oh-oh-oh)
+I was born to need you, to wipe the tears I cry
+Yes, you made me a child so you could be my father (Father)
+I'm your child and you're my father (Oh-oh-oh-oh)
+I'm your child and-</lines>
+    </verse>
+  </lyrics>
+</song>

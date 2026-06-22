@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Time Has Made a Change</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Time has made a change
+Since my childhood days,
+Many of my friends have gone away,
+Some I never more in this life will see,
+Time has made a change in me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Time has made a change in the old home place,
+Time has made a change in each smiling face,
+And I know my friends can plainly see,
+That time has made a change in me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In my childhood days I was well and strong,
+I could climb the hill sides all day long,
+I am not today what I used to be,
+'Cause time has made a change in me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When I reach my home in that land somewhere
+With my friends who wait to
+Meet me over there,
+Free from pain and care I'll forever be,
+Since time has made a change in me.</lines>
+    </verse>
+  </lyrics>
+</song>

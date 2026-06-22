@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It Made News In Heaven</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It didn’t make the papers in
+this world,
+When I got saved,
+It didn’t seem to matter to all
+but just a few
+But in the gold streets of glory,
+Celebration away
+And it made news in heaven
+When I got saved.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Angels were rejoicing,
+hallelujah band
+When Jesus touched my life and changed
+Everyone In glory’s reign
+knew my name was written down
+And it made news in heaven,
+when I got saved.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Not long ago a beggar
+But now a child of the King
+This is the world that shrugged it's shoulder
+And it didn’t mean a thing
+But it was for God’s own approval
+That my spirit really prayed
+And it made news in heaven
+when I got saved.</lines>
+    </verse>
+  </lyrics>
+</song>

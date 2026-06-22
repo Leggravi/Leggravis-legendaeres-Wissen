@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Before You Now</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Before you now,
+In the beauty of Your presence
+And as I bow
+You surround me with Your radiance</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: I worship :/ you!
+/: I worship :/ you!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Before you now
+As Your loving arms enfold me,
+I am in awe
+At the wonder of Your glory!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I've surrendered to Your call upon my heart!
+I am captured by your passion and desire!</lines>
+    </verse>
+  </lyrics>
+</song>

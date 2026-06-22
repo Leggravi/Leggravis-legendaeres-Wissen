@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What God Has Done In Your Day</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Men will always preach the
+promises of yesterday,
+Of a baby to be born in
+Bethlehem,
+They tell of the ark
+and of Noah,
+And they marvel at the faith of
+Abraham.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We all know of the story of Jonah,
+And of Daniel and the lions
+we often tell,
+We know of the promise that
+saved them,
+But do you know the promise
+for your day as well?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>But what has God done in your day,
+Are you looking to the Word
+for yesterday?
+There’s a promise to be fulfilled
+In every age,
+Oh what has God done In you day?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Do you know there’s a promise
+for our time,
+Have you heard of Malachi 4?
+For behold I will send you Elijah,
+Before the great and dreadful
+day of the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

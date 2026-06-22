@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Es ist die Kraft des Herrn, die auf uns kommt</title>
+    </titles>
+    <authors>
+      <author type="words">Christine Morgenstern</author>
+      <author type="music">Christine Morgenstern</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es ist die Kraft des Herrn,
+die auf uns kommt,
+es ist die Hand des Herrn,
+die auf uns ruht,
+es ist die Macht des Höchsten,
+die uns überschattet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Denn wo der Geist des Herrn ist,
+ist keine Furcht;
+denn wo der Geist des Herrn ist,
+da ist Freiheit!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Klascht in die Hände und jauchzt,
+König ist unser Gott.
+Klascht in die Hände und jauchzt,
+König ist unser Gott.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Unser Gott,
+denn er sitzt auf dem Thron und regiert,
+denn er sitzt auf dem Thron und regiert.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Er hat entwaffnet den Fürst dieser Welt
+Und hat über die Mächte triumphiert.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ehre, Macht und Herrlichkeit gehört ihm allein.
+Halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

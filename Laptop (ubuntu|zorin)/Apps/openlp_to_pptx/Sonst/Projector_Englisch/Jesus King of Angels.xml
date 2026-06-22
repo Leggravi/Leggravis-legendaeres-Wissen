@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus King of Angels</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, King of angels, Heaven's light
+Shine Your face upon this house tonight
+Let no evil come into my dreams
+Light of Heaven keep me in Your peace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Remind me how You made dark spirits flee
+And spoke Your power to the raging sea
+And spoke Your mercy to a sinful man
+Remind me Jesus, this is what I am</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The universe is vast beyond the stars
+But You are mindful when the sparrow falls
+And mindful of the anxious thoughts
+That find me, surround me and bind me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>With all my heart I love You, Sovereign Lord
+Tomorrow let me love You even more
+And rise to speak the goodness of Your name
+Until I close my eyes and sleep again</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus, King of angels, Heaven's light
+Hold my hand and keep me through this night</lines>
+    </verse>
+  </lyrics>
+</song>

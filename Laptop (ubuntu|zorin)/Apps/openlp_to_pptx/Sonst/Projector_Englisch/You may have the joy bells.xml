@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You may have the joy bells</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You may have the joy bells ringing in your heart
+And a peace that from you never will depart
+Walk the straight and narrow way live for Jesus everyday
+He will keep the joy bells ringing in your heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: Joy bells ringing in your heart :/
+Take the savior here below
+With you everywhere you go
+He will keep the joy bells ringing in your heart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Love of Jesus in its fullness you may know
+And this love to those around you sweetly show
+Words of kindness always say
+Deads of mercy do each day
+Then He'll keep the joy bells ringing in your heart</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let your life speak well of Jesus everyday
+Own His regret to every service you can pay
+Sinners you can help to win
+If your life is pure and clean
+And you keep the joy bells ringing in your heart</lines>
+    </verse>
+  </lyrics>
+</song>

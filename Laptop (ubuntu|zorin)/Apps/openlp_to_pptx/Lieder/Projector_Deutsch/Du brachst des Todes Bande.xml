@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du brachst des Todes Bande</title>
+    </titles>
+    <authors>
+      <author type="words">Friedrich Gottlieb Klopstock</author>
+      <author type="music">Wilhelm Brockhaus</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du brachst des Todes Bande,
+Allmächt'ger Heiland Du,
+Hast uns, die ferne standen,
+Gebracht zu Deiner Ruh'.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dein Werk hast Du vollendet,
+Du hast's für uns erfüllt,
+Dein Leiden ist beendet,
+Und unser Herz gestillt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In Dir ist uns gegeben
+Ein ewig sichres Heil,
+Du selbst bist unser Leben,
+Bist unser köstlich Teil.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und durch den Geist geleitet,
+Ist hier Dein Joch nicht schwer.
+Du hast den Weg bereitet,
+Gehst selber vor uns her.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wer fasset Deiner Gnade,
+Wer Deine Lieb' und Macht!
+Auf unserm Pilgerpfade
+Sei Dir stets Dank gebracht.</lines>
+    </verse>
+  </lyrics>
+</song>

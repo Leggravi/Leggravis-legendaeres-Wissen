@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:00">
+  <properties>
+    <titles>
+      <title>Ich lobe meinen Gott von ganzem Herzen</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="words">Gitta Leuschner (1980)</author>
+      <author type="words">Günter Balders (2002)</author>
+      <author type="music">Claude Fraysse</author>
+    </authors>
+    <ccliNo>3943070</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich lobe meinen Gott von ganzem Herzen,
+und ich will erzählen von all seinen Wundern und singen seinen Namen.
+Ich lobe meinen Gott von ganzem Herzen.
+Ich freue mich und bin fröhlich, Herr, in dir! Halleluja!
+Ich freue mich und bin fröhlich, Herr, in dir! Halleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>König ist unser Herr. Ewig herrscht er.
+Er sitzt auf dem Thron, um die Völker zu richten, und jeder wird sich beugen.
+König ist unser Herr. Ewig herrscht er.
+Gerechtigkeit ist seines Reiches Grund. Halleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gott gibt den Seinen Schutz in Zeiten der Not.
+Die Hoffnung für alle, die seinen Namen kennen, er wird sie nicht vergessen.
+Gott gibt den Seinen Schutz in Zeiten der Not,
+Er rettet vom Tod, denn er hat ihn besiegt. Halleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gnädig ist unser Herr, er hört unser Schrei’n.
+Barmherzig und treu und wahrhaftig ist er, sein Blut hat uns gerettet.
+Gnädig ist unser Herr, er hört unser Schrei’n.
+Er macht uns rein, zieht uns an sein Vaterherz. Halleluja!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ehr' sei Gott in der Höh' und Frieden auf Erden
+dem Vater, dem Sohn und dem Heiligen Geist, preist alle seinen Namen.
+Ehr' sei Gott in der Höh' und Frieden auf Erden
+vom Anfang bis in alle Ewigkeit. Halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

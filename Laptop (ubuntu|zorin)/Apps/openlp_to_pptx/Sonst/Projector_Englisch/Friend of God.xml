@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Friend of God</title>
+    </titles>
+    <authors>
+      <author type="words">Michael Gungor</author>
+      <author type="music">Michael Gungor</author>
+      <author type="translation">Du nennst mich deinen Freund</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who am I that You are mindful of me
+That You hear me when I call
+Is it true that You are thinking of me
+How You love me it's amazing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am a friend of God,
+I am a friend of God,
+I am a friend of God,
+He calls me friend</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God Almighty, Lord of Glory
+You have called me friend</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He calls me friend
+He calls me friend…</lines>
+    </verse>
+  </lyrics>
+</song>

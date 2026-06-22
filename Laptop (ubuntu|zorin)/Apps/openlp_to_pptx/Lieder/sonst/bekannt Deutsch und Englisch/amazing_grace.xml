@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 4, 2018, 5:39:26 PM">
+  <properties>
+    <titles>
+      <title>Amazing grace</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Amazing grace! How sweet the sound
+That saved a wretch like me!
+I once was lost, but now am found;
+Was blind, but now I see.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>’Twas grace that taught my heart to fear,
+And grace my fears relieved;
+How precious did that grace appear
+The hour I first believed.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Through many dangers, toils and snares,
+We have already come;
+T'was grace hath brought us safe thus far,
+And grace will lead us home.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>When we’ve been there ten thousand years,
+Bright shining as the sun,
+We’ve no less days to sing God’s praise
+Than when we’d first begun.</lines>
+    </verse>
+  </lyrics>
+</song>

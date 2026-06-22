@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ein Kind ist uns geboren</title>
+    </titles>
+    <authors>
+      <author type="words">Pamela Natterer</author>
+      <author type="music">Pamela Natterer</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ein Kind ist uns geboren,
+Das Gott und Mensch zugleich;
+Eröffnet Herz und Ohren,
+Ihr Christen, freuet euch.
+Zu Bethlehem im Stalle
+Kehrt unser Heiland ein,
+Zum Troste für uns Alle:
+Gepriesen will er sein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Die Hirten hören singen
+Die frohe Engelschar,
+Drei Könige, sie bringen
+Gold, Weihrauch, Myrrhen dar.
+Sie legen Herz und Krone
+Zu Jesu Füßen hin:
+Sie sehn in Davids Sohne
+Gott selber: preiset Ihn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Erfüll mit deinen Gnaden,
+Herr Jesu, dieses Haus,
+Tod, Krankheit, Seelenschaden,
+Brand, Unglück weis hinaus.
+Lass hier den Frieden grünen,
+Verbanne Zank und Streit,
+Dass wir dir fröhlich dienen
+Jetzt und in Ewigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

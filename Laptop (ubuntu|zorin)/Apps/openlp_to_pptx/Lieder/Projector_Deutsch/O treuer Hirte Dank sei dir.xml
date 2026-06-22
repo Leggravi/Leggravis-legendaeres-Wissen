@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O treuer Hirte, Dank sei dir</title>
+    </titles>
+    <authors>
+      <author type="words">Wilhelm Birkenstock</author>
+      <author type="music">Severus Gastorius</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O treuer Hirte, Dank sei Dir
+für diese Segensstunde.
+Aus Deiner Fülle nahmen wir
+das Wort aus deinem Munde.
+Wie ist's so gut,
+gibt neuen Mut,
+auf Dich, o Herr, zu sehen
+und froh den Weg zu gehen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du hast uns in Dein Licht gebracht,
+in Deine heil'ge Nähe,
+dass jeder seines Lebens Nacht
+in Deinem Lichte sehe.
+Du hast aufs neu
+so lieb und treu
+uns göttlich unterwiesen;
+Herr Jesus, sei gepriesen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr, hilf uns, nun in Redlichkeit
+Dein Wort auch zu bewahren,
+damit in unsrer Pilgerzeit,
+trotz Mühen und Gefahren,
+man immer mehr
+zu Deiner Ehr
+die Kraft aus Deiner Nahe
+in unserm Wandel sehe.</lines>
+    </verse>
+  </lyrics>
+</song>

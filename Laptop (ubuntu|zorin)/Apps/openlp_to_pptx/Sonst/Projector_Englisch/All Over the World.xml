@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All Over the World</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+      <author type="translation">In aller Welt erklingt dieses Lied</author>
+    </authors>
+    <verseOrder>v1 v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All over the world, all over the world
+Your Spirit is moving all over the world
+Your river is flowing, Your presence has come
+Your Spirit is moving all over the world.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You’re touching the nations
+You’re bringing your love
+Your Spirit is moving all over the world</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All over the world, all over the world
+Your Spirit is moving all over the world
+Your banner is lifted, Your praises are sung
+Your Spirit is moving all over the world</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Divisions are falling, Your making us one
+You’re Spirit is moving all over the world.</lines>
+    </verse>
+  </lyrics>
+</song>

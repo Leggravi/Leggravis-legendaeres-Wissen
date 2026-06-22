@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh The Glory Of Your Presence</title>
+    </titles>
+    <authors>
+      <author type="words">Steven Fry</author>
+      <author type="music">Steven Fry</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh the glory of Your presence
+We Your temple
+Give You reverence
+So arise to Your rest
+And be blessed by our praise
+As we glory in Your embrace
+As Your presence
+Now fills this place</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus all glorious
+Create in us a temple
+Called as living stones
+Where You're enthroned
+As You rose from death in pow'r</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So rise within our worship
+Rise upon our praise
+And let the hand
+that saw You raised
+Clothe us in Your glory
+Draw us by Your grace</lines>
+    </verse>
+  </lyrics>
+</song>

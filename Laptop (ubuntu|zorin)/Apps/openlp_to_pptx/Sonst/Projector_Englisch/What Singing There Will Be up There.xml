@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What Singing There Will Be up There</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What singing there will be up there (2x)
+When face to face with Jesus
+We shall stand
+And join the heavenly choir in a better land.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What singing there will be up there,
+What glory for the saints to share.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, glory, glory, glory,
+What singing there will up there.</lines>
+    </verse>
+  </lyrics>
+</song>

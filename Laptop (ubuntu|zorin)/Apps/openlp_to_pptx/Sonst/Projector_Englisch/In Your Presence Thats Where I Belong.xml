@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In Your Presence That's Where I Belong</title>
+    </titles>
+    <authors>
+      <author type="words">Lynn DeShazo</author>
+      <author type="music">Lynn DeShazo</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I want to go, where the rivers cannot overflow me
+Where my feet are on the rock
+I want to hide, where the blazing fire cannot burn me
+In Your presence, O God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In Your presence, that's where I am strong
+In Your presence, O Lord, my God
+In Your presence, that's where I belong
+Seeking Your face, touching Your grace
+In the cleft of the rock
+In Your presence, O God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I want to hide, where the flood of evil cannot reach me
+Where I'm covered by the Blood
+I want to be, where the schemes of darkness cannot touch me
+In Your presence, O God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are my firm foundation
+I trust in You all day long
+I am Your child and Your servant
+And You are the strength and my song
+You're my song</lines>
+    </verse>
+  </lyrics>
+</song>

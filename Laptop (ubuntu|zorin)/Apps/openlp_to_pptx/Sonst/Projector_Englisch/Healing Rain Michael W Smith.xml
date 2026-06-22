@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Healing Rain Michael W Smith</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Healing rain is coming down
+It’s coming nearer to this old town
+Rich and poor, weak and strong
+It’s bringing mercy; it won’t be long.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Healing rain is coming down
+It’s coming closer to the lost and found
+Tears of joy and tears of shame
+Are washed forever in Jesus’ name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Healing rain, it comes with fire
+So let it fall and take us higher
+The healing rain I’m not afraid
+To be washed in heaven’s rain.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lift your heads, let us return
+To the mercy seat where time began
+And in your eyes I see the pain
+Come soak this dry heart with healing rain</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And only You, the Son of Man
+Can take a leper and let him stand
+So lift your hands, they can be held
+By someone greater, the great I AM.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Healing rain is falling down
+Healing rain is falling down
+I’m not afraid I’m not afraid</lines>
+    </verse>
+  </lyrics>
+</song>

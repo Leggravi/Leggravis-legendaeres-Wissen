@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm Changed</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There was a time that I was sinking down
+There was a time that I was dying
+There was a time when sin was all I've done
+Hopeless so lost my heart was crying</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Then my Lord came into my life
+Breaking my heart it's destination
+Then my Lord came into my life
+Changing my soul I'm a new creation</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(And) I will never be the same again
+Lord Jesus blood has washed away my sin
+And He change all I was and all I am
+Now He's my groom and His bride I am</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I was so lost so blind I could not see
+All of my life all sin was wasted
+Doubt and unbelief was in my heart
+Hatred and Fear was all I tasted</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I was a brand new unit in His love
+When I became a new creation
+Now I am there to reign with Christ my King
+He fills my heart with his revelation</lines>
+    </verse>
+  </lyrics>
+</song>

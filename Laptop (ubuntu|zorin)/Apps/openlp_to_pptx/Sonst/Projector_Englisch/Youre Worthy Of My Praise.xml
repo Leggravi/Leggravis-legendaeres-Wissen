@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You're Worthy Of My Praise</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will worship, (I will worship)
+With all of my heart (with all of my heart)
+I will praise you, (I will praise you)
+With all of my strength (all of my strength)
+I will seek you, (I will seek you)
+All of my days (all of my days)
+I will follow, (I will follow,)
+All of your ways (all your ways)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will give you, all my worship
+I will give you, all my praise
+You alone, I long to worship
+You alone, are worthy of my praise
+You are worthy of my praise</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will bow down, (I will bow down)
+And I'll hail you as king (hail you as king)
+I will serve you, (I will serve you)
+I will give you everything (give you everything)
+I will lift up, (I will lift up)
+My eyes to your throne (my eyes to your throne)
+I will trust you, (I will trust you)
+I will trust you alone (trust you alone)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will give you all my worship
+I will give you all my praise
+You alone I long to worship
+You alone are worthy of my praise</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You are worthy, You are worthy
+You are worthy of my praise</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh, I will give you all my worship
+I will give you all my praise
+You alone I long, I long to worship
+Well, you alone are worthy of my praise</lines>
+    </verse>
+    <verse name="v7">
+      <lines>You are worthy of my praise</lines>
+    </verse>
+  </lyrics>
+</song>

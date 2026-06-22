@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Freudig preisen wir, Herr Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Johannes Menninga</author>
+      <author type="music">John Wyeth</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Freudig preisen wir, Herr Jesus,
+Deiner Liebe Wundertat,
+die aus tiefsten Sündentiefen
+uns mit Macht gezogen hat;
+die, nach Gottes Gnadenwillen
+herrlich uns vor Gott gestellt,
+denn zu Königen und Priestern
+machtest Du uns, Siegesheld.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lob und Dank sei Dir, Erlöser,
+der, für uns zur Sünd' gemacht,
+in unsagbar tiefen Leiden
+Gott zur Ehr' Sein Werk vollbracht,
+Seine Majestät verherrlicht,
+Seine Liebe offenbart -
+Gottes Lamm, sei hochgepriesen,
+das für uns geopfert ward.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Preis Dir, grosser Überwinder,
+der in bittrem Todesgang
+an dem blut'gen Marterholze
+ewig jeden Feind bezwang.
+O wir sinken Dir zu Füssen,
+rühmen Deine Siegermacht,
+rufen huldigend von Herzen:
+Dir o Herr, sei Lob gebracht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ruhm, Anbetung, Preis und Ehre
+bringen wir Herr Jesus, Dir!
+Unerforschte Höh'n und Tiefen
+sieht erstaunt der Glaube hier:
+Herrlichkeiten der Erlösung,
+Frucht des Werks am Kreuzesstamm.
+Sei erhoben, sei gepriesen,
+grosser Heiland, Gottes Lamm!</lines>
+    </verse>
+  </lyrics>
+</song>

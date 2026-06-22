@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:58">
+  <properties>
+    <titles>
+      <title>Liebster Jesu, wir sind hier</title>
+    </titles>
+    <authors>
+      <author type="words">Tobias Clausnitzer (1663)</author>
+      <author type="music">Johann Rudolf Ahle</author>
+    </authors>
+    <ccliNo>4834061</ccliNo>
+    <themes>
+      <theme>Gemeinde</theme>
+      <theme>Eingang</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Liebster Jesus, wir sind hier,
+dich und dein Wort anzuhören;
+lenke Sinnen und Begier
+hin auf dich und deine Lehren,
+dass die Herzen von der Erden
+ganz zu dir gezogen werden.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unser Wissen und Verstand
+ist mit Finsternis verhüllet,
+wo nicht deines Geistes Hand
+uns mit hellem Licht erfüllet;
+Gutes denken, tun und dichten
+musst du selbst in uns verrichten.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O du Glanz der Herrlichkeit,
+Licht vom Licht, aus Gott geboren:
+mach uns allesamt bereit,
+öffne Herzen, Mund und Ohren;
+unser Bitten, Flehn und Singen
+lass, Herr Jesu, wohl gelingen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vater, Sohn, Heilger Geist,
+dir sei ewig Preis und Ehre!
+Tröst' die Herzen allermeist
+mit dem Wort der reinen Lehre
+hier in diesen Sterblichkeiten,
+bis wir dort dein Lob ausbreiten.</lines>
+    </verse>
+  </lyrics>
+</song>

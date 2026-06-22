@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Amazing Grace How Sweet the Sound</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amazing grace, How sweet the sound,
+That saved a wretch like me!
+I once was lost, but now I'm found,
+Was blind, but now I see.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Twas grace that taught my heart to fear,
+And grace my fears relieved;
+How precious did that grace appear
+The hour I first believed;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thro' many dangers, toils and snares,
+I have already come;
+'Tis grace hath brought me safe thus far,
+And grace will lead me home.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The Lord has promised good to me,
+His Word my hope secures;
+He will my shield and portion be,
+As long as life endures.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yea, when this flesh and heart shall fail,
+And mortal life shall cease,
+I shall possess, within the veil,
+A life of joy and peace.</lines>
+    </verse>
+  </lyrics>
+</song>

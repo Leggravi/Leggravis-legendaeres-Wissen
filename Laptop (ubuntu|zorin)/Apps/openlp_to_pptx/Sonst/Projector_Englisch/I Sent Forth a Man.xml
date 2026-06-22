@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Sent Forth a Man</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There will be many that day,
+come to Jesus and say,
+Have we not preached the gospel
+and prayed in your name,
+But Jesus will say,
+I never, even knew you
+You turned down the truth that I
+sent your way</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I sent forth a man with the spirit
+of Elijah
+He had THUS SAITH THE LORD
+As He cried out against sin,
+He cried come out,
+don’t partake of their evils
+And he said follow me,
+like I follow Christ.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There was a sign for the Gentiles,
+as Paul had in his day
+It was the pillar of fire that met
+him on the way
+Now if you won’t believe what
+His servant had to say:
+You'll be judged by the word and
+Jesus will say,</lines>
+    </verse>
+  </lyrics>
+</song>

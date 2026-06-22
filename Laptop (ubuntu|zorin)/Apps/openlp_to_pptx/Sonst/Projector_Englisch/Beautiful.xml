@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Beautiful</title>
+    </titles>
+    <authors>
+      <author type="words">Simon Goodall</author>
+      <author type="music">Simon Goodall</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Look at all the signs
+Look at the shows
+All the glamorous people
+That claim to know
+What perfection is
+And what makes beauty stay
+But when all the styles go out
+And the labels fade away</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's what you give that makes you beautiful
+It's how you live that makes your dreams come true
+Keep your faith in His Word;
+let the light of the Lord shine through
+That's what makes you beautiful</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nothing burns as bright
+Nothing shimmers so
+As the smile of a friend
+When hope is running low
+And how your hand feels warm
+When you dry a tear
+Love is still in fashion
+At the end of every year</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Even roses fade away in the snow
+But the beauty of the Lord can only grow</lines>
+    </verse>
+  </lyrics>
+</song>

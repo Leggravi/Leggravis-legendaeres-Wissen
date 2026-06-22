@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Reaching For You</title>
+    </titles>
+    <authors>
+      <author type="words">Cae Gauntt</author>
+      <author type="music">Cae Gauntt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can't believe the way Your love has got a hold on me
+Each morning I wake to find You near
+You lift me above my fears and set my feet on solid ground
+All of my days belong to You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I breathe in Your breath of life that fills my heart
+You are my all consuming fire</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I stand here before You in wide opened wonder
+Amazed at the glory of You
+The power of heaven revealing Your purpose in me
+As I'm reaching for You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I can't believe the way Your love has got a hold on me
+Each morning I wake to find You near
+You lift me above my fears and set my feet on solid ground
+All of my days belong to You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And I breathe in Your breath of life that fills my heart
+You are my all consuming fire</lines>
+    </verse>
+    <verse name="v6">
+      <lines>/: And I stand here before You in wide opened wonder
+Amazed at the glory of You
+The power of heaven revealing Your purpose in me
+As I'm reaching for You :/ 4x</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Reaching for You
+Reaching for You
+Reaching for You</lines>
+    </verse>
+    <verse name="v8">
+      <lines>And I stand here before You in wide opened wonder
+Amazed at the glory of You
+The power of heaven revealing Your purpose in me
+As I'm reaching for You</lines>
+    </verse>
+  </lyrics>
+</song>

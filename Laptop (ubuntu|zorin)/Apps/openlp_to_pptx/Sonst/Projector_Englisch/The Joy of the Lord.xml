@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Joy of the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Simpson-Parry</author>
+      <author type="music">Paul Simpson-Parry</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The joy of the Lord is my power.
+The joy of the Lord is my power.
+The joy of the Lord is my power.
+The joy of the Lord is my power.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is living water and I do not thirst anymores.
+There is living water and I do not thirst anymores.
+There is living water and I do not thirst anymores.
+The joy of the Lord is my power.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I became his child and I love him.
+I became his child and I love him.
+I became his child and I love him.
+The joy of the Lord is my power.</lines>
+    </verse>
+  </lyrics>
+</song>

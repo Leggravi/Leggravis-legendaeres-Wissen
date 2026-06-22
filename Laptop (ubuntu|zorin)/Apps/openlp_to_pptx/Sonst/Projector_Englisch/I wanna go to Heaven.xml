@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I wanna go to Heaven</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I wanna go to Heaven, and pick a never fading flower,
+From the mountain overlooking the temple of my God.
+I wanna go to Heaven, where all is light and glory,
+How I long to be with Jesus! How I long to be with God!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Some times I think that I could stay here no longer.
+I feel very lonely here, for I've seen a better land!
+Oh! That I had wings like a dove,
+Then would I fly away, and be at rest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I wanna go to Heaven, I wanna hear the voice of Jesus,
+&quot;You have washed your robes in my blood, stood stiffly for my truth.&quot;
+And when I get to Heaven I'll cast my crown at Jesus feet!
+I wanna praise His name forever!
+He has done so much for me!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I wanna go to Heaven, I wanna pledge my love to Jesus,
+&quot;I will gird myself and serve you, for you suffered much for me.&quot;
+And when I get to Heaven I wanna sit at Jesus' table!
+Oh! To eat the fruit of that land,
+To go back to earth no more!</lines>
+    </verse>
+  </lyrics>
+</song>

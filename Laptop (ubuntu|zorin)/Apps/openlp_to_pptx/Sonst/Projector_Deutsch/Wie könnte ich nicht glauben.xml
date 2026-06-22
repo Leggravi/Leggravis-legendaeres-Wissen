@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wie könnte ich nicht glauben</title>
+    </titles>
+    <authors>
+      <author type="words">Juri Friesen</author>
+      <author type="music">Juri Friesen</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich war blind, suchte nach einem Weg,
+der mich zum Frieden führt, meine Sehnsucht stillt.
+Dort am Kreuz füllte dein Licht mein Herz.
+Jetzt kann ich deutlich sehen:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja, ich kann es sehen,
+dass du da bist,
+dass du treu bist,
+dass du gut bist.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wie könnte ich nicht glauben,
+dass du nah bist,
+dass du mich siehst,
+dass du mich liebst?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: Wie könnte ich nicht glauben? :/</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jeden Tag ist deine Gnade neu.
+Du hast mein Herz geheilt,
+meinen Geist befreit.
+Dort am Kreuz reichst du mir deine Hand.
+Jetzt kann ich deutlich sehen:</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ja, ich kann es sehen,
+dass du da bist,
+dass du treu bist,
+dass du gut bist.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Wie könnte ich nicht glauben,
+dass du nah bist,
+dass du mich siehst,
+dass du mich liebst?
+Wie könnte ich nicht glauben?</lines>
+    </verse>
+    <verse name="v8">
+      <lines>/: Ich werde immer von deiner Liebe singen.
+Du bist der Retter dieser Welt. :/</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Weil du da bist.
+Weil du gut bist.
+Weil du nah bist.
+Weil du mich liebst.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Wie könnte ich nicht glauben,
+dass du da bist,
+dass du treu bist,
+dass du gut bist?</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Wie könnte ich nicht glauben,
+dass du nah bist,
+dass du mich siehst,
+dass du mich liebst?
+/: Wie könnte ich nicht glauben? :/</lines>
+    </verse>
+  </lyrics>
+</song>

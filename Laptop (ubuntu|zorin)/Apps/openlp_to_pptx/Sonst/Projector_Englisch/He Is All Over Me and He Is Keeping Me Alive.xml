@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Is All Over Me and He Is Keeping Me Alive</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He is all over me and He’s keeping me alive,
+Keeping me alive, keeping me alive.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He is all over me and He’s keeping me alive,
+Jesus is keeping me alive.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Devil doesn’t like it, but it’s keeping me
+alive, keeping me alive,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Keeping me alive,
+It’s the Holy Ghost and Fire
+and it’s keeping me alive,
+Keeping me alive, Keeping me alive.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>It’s the Holy Ghost and fire
+and it’s keeping me alive,
+Jesus is keeping me alive</lines>
+    </verse>
+  </lyrics>
+</song>

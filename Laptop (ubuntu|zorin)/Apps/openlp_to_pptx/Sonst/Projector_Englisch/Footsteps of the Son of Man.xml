@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Footsteps of the Son of Man</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Called me in a journey,
+To another land;
+So I left the life I knew before,
+And all my future plans;
+And I place my fate completely
+in His hands.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The way ahead seemed narrow,
+I felt the urge to just stay;
+But He said that, &quot;I'll be with you,
+even in you day by day,&quot;
+So I'll follow
+in His footprints all the way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He's leading me,
+I have a faithful friend,
+I know that He
+will take me to the end;
+Sometimes I can't see clearly,
+My feet they might grow weary;
+But I'll follow
+the predestinated plan,
+In the footsteps (in the footsteps)
+Of the Son of Man.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Along this trail of trials,
+I'm walking in the night;
+But the place that He's prepared
+for me is coming into sight,
+And just over the horizon,
+Eternal Light.</lines>
+    </verse>
+  </lyrics>
+</song>

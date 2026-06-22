@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's always something
+In the way
+There's always something
+Getting through
+But it's not me
+It's You, it's You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sometimes ignorance
+Rings true
+But hope is not in
+What I know
+It's not in me… me
+It's in You, it's in You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It's all i know
+It's all i know
+It's all i know</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I find peace when
+I'm confused
+I find hope when
+I'm let down
+Not in me… Me
+In You
+It's in you</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I hope to lose myself
+For good
+I hope to find it in the end
+Not in me… Me
+In You
+In You
+In You</lines>
+    </verse>
+    <verse name="v6">
+      <lines>It's all i know
+It's all i know
+It's all i know
+In You
+In You
+Its in You
+Its in You</lines>
+    </verse>
+    <verse name="v7">
+      <lines>There's always something in the way
+There's always something getting through
+But it's not me
+It's You
+It's You
+It's You…</lines>
+    </verse>
+  </lyrics>
+</song>

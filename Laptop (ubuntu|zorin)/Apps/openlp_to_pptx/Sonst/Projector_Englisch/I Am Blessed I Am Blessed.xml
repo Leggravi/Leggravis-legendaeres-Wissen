@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Am Blessed, I Am Blessed</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thru the sunshine and rain
+Even sorrow and pain
+Jesus still is my comfort and guide
+Yes His love comforts me
+And His grace has set me free
+And someday I shall stand by his side.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am blessed, I am blessed
+Everyday of my life I am blessed
+From I wake up in the morning
+'Til I lay my head to rest
+I am blessed, I am blessed
+(You are blessed, you are blessed…)
+(We are blessed, we are blessed…)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I have shoes on my feet
+I have plenty to eat
+And a home in heaven by and by
+Brothers and sisters on this earth
+They are mine by my new birth
+And we'll shall share in that home beyond the sky.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>MIdnight in the middle of the Day</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The sun was hot, angry mob
+Gathered by the greystone building
+As a man draped in velvet
+With a curly black beard
+Stepped out on his balcony</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nervously washing his hands
+To rid him of the blood
+Pilate never wash away
+His wrinkled brow showed
+The worry lines, I heard Pilate say:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>&quot;I find no fault in this man called jesus
+The healer from the shores of Galilee&quot;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>&quot;I command you to ask
+To let him go free
+Don’t make me take his
+Blood to the grave with me&quot;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nervously washing his hands
+To rid him of the blood
+He would never wash away</lines>
+    </verse>
+    <verse name="v6">
+      <lines>The mob screamed for blood
+Of this innocent man
+I heard Pilate pray:</lines>
+    </verse>
+    <verse name="v7">
+      <lines>And it was midnight
+In the middle of the day
+Trembling soldiers fell
+Before Jesus cross to pray</lines>
+    </verse>
+    <verse name="v8">
+      <lines>The whole world shook
+The veil was rent
+When the sinless christ was slain
+And it was midnight
+In the middle of the day</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Thunder rolled across
+The rumbling mountains
+Lighting burned like a fire
+Across the sea</lines>
+    </verse>
+    <verse name="v10">
+      <lines>But on the holy hill the angels
+Raised the crimson flag of triumph
+They shouted death, death, death
+Good lord, don’t you know
+The death is swallowed up in victory
+(in victory)</lines>
+    </verse>
+  </lyrics>
+</song>

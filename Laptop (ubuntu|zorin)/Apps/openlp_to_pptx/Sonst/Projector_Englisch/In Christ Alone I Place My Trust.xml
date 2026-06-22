@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In Christ Alone I Place My Trust</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In Christ alone I place my trust
+And find my glory in the power of the cross
+In ev'ry victory let it be said of me
+My source of strength my source of hope
+Is Christ alone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In Christ alone will I glory
+Though I could pride myself in battles won
+For I've been blessed beyond measure
+And by His strength alone I overcome
+Oh I could stop and count successes
+Like diamonds in my hand
+But those trophies could not equal
+To the grace by which I stand</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In Christ alone will I glory
+For only by His grace I am redeemed
+And only His tender mercy
+Could reach beyond my weakness to my need
+Now I seek no greater honor
+Than just to know Him more
+And to count my gains
+But losses to the glory of my Lord</lines>
+    </verse>
+  </lyrics>
+</song>

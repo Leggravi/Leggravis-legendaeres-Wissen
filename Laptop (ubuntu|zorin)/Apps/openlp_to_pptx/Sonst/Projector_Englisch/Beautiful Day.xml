@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Beautiful Day</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wake up and smile 'cause it's been awhile
+It's been like a whole day since I stopped so You could hold me
+This child awaits, strong in the faith
+Lord you are the refuge that I can't wait to get to
+'Cause I can't let a day go
+Can't let a day go by
+Without thanking you for the joy that you bring to my life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And oh there's something 'bout the way Your sun shines on my face
+It's a love so true, I could never get enough of You
+This feeling can't be wrong, I'm about to get my worship on
+Take me away, it's a beautiful day yeah yeah yeah
+It's a beautiful day yeah yeah yeah</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When trouble seems to rain on my dreams
+It's not a big, not a big deal, Let it wash all the bugs off my windshield
+'Cause You're showing me in You I'm free
+And You're still the refuge that I've just got to get to
+So I won't let a day go, won't let a day go by
+So put the drop-top down, turn it up, I'm ready to fly</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I've got no need to worry, I've got no room for doubt
+No matter what's coming at me, You'll always be the beautiful I sing about
+There ain't no limitations to Your amazing grace, Your amazing grace</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And there's something 'bout the way Your love shines on my face
+Oh no I could never get enough of You
+This feeling can't be wrong, I'm about to get my worship on
+I'm gonna sing a brand new song, yeah I'm about to get my worship on
+Take me away on this beautiful day yeah yeah yeah</lines>
+    </verse>
+    <verse name="v6">
+      <lines>It's a beautiful day, yeah yeah yeah
+It's a beautiful day, yeah yeah yeah
+It's a beautiful day, yeah yeah yeah
+Such a beautiful day</lines>
+    </verse>
+  </lyrics>
+</song>

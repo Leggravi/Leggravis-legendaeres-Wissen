@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Earth Shakes</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Earth shakes at the sound of His voice
+The nations tremble before Him
+The idols of men are all falling
+At the feet of the Lord, our God
+At the feet of the Lord, our God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Lord is a warrior, fearless is He
+The Lord is mighty in battle
+His armies outnumber His enemies
+When they shout, the strongholds of Satan come crashing down
+And Babylon is falling, falling down</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Lord is a Savior, gracious is He
+The Lord is full of compassion
+His army is also His family
+When they shout, the strongholds of Satan come crashing down
+And Babylon is falling, falling down</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The Lord has a kingdom, Jesus is King
+He reigns forever and ever
+He's given us power and authority
+When we shout, the strongholds of Satan come crashing down
+And Babylon is falling, falling
+And Babylon is falling, falling (yes, it is)
+And Babylon is falling, falling down</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The Earth shakes at the sound of His voice
+The nations tremble before Him
+The idols of men are all falling
+At the feet of the Lord, our God
+At the feet of the Lord, our God
+At the feet of the Lord, our God (yes)</lines>
+    </verse>
+  </lyrics>
+</song>

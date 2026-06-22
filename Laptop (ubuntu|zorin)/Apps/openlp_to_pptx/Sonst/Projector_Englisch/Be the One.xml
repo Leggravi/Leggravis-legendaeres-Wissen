@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Be the One</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In a world full of broken dreams
+Where the truth is hard to find
+For every promise that is kept
+There are many left behind
+Though it seems that nobody cares
+It still matters what you do
+Cause there's a difference you can make
+But the choice it's up to you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Will you be the one
+To answer to His call
+Will you stand when those around you fall
+Will you be the one to take His light into a darkened world
+Tell me will you be the one</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh sometimes it's so hard to know
+Who is right and what is wrong
+And where are you supposed to stand
+When the battles lines are drawn
+There's a voice that keeps calling out
+For someone whose not afraid
+To be a beacon in the light
+To a world that lost its way</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There are still some battles
+That we must fight from day to day
+Yet the Lord provides the power
+For me to stand and say</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yes, I'll be the one
+To answer to His call
+And I will stand
+When those around me fall
+I will be the one
+To take His light
+Into a darkened world
+Will you be the one
+I will be the one</lines>
+    </verse>
+  </lyrics>
+</song>

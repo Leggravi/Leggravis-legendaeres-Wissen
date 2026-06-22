@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What did you do, to have His precious Love?</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What did you do, to have His precious Love?
+A love from heaven, comes to you as gift.
+What did you do to have nice wings like dove?
+To fly towards heaven, in one night relieve.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I did nothing, you did nothing,
+But God gave us His only beloved Son.
+He died for you, He died for me,
+Just be prepared, The Lord is coming soon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What did you do to have His guard with you?
+He’s watching every step of yours
+What did you do, to have His love with you?
+And with His love, you can climb over mountains.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>What did you do to have a place in heaven?
+To Know that, you and me, will be together,
+What did you do to meet one day with Simon?
+We just have faith: But Jesus is who gather.</lines>
+    </verse>
+  </lyrics>
+</song>

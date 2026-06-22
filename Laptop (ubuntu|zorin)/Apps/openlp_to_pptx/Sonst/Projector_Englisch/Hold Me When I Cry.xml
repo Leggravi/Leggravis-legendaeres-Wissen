@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hold Me When I Cry</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's been one of those days
+If anything could go wrong it went wrong
+I know I'm feeling sorry for me
+There's a lot of self-pity going on
+Tomorrow I will be okay
+The dawn will bring a brand new day
+I'm sure by then I'll be fine
+Lord today I really need a friend
+I know that You would understand
+Would You hold me while I cry</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I take a lot of Your time
+When I should be strong
+I should be standing by now when it's You I'm leaning on
+You've always kept me safe from harm, like a child in Your arms
+You've cradled me through hardships faced in life
+Lord it's just one of those days I've been fobbed in every way
+Will You hold me while I cry?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I try to be strong but if anyone can fall apart, I fall apart
+I run back to You again and You heal my broken heart
+You have truly been a friend, reaching out to lend a hand
+Lord when You could have passed me by
+I'm asking for Your strength today
+Lift my spirit Lord I pray
+Will You just hold me while I cry</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You've always kept me safe from harm
+Like a child in Your arms
+You've cradled me though hardships faced in life
+Lord it's just one of those days
+I've been fobbed in every way
+Would You hold me while I cry?</lines>
+    </verse>
+  </lyrics>
+</song>

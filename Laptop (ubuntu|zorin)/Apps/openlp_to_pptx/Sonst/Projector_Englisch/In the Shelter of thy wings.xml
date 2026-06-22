@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In the Shelter of thy wings</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the shelter of thy wings
+I will hide in thee
+Hide in thee
+There is no other place that I would rather be
+In the shelter of thy wings</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I will find 
+Your loving kindness
+I will feel 
+Your warm embrace
+I will hear your voice and I will rejoice
+In the shelter of thy wings</lines>
+    </verse>
+  </lyrics>
+</song>

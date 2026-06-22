@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Worship Songs</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I worship You, Almighty God,
+There is none like You;
+I worship You,
+O, Prince of Peace,
+That is what I want to do.
+I give You praise,
+For You are my righteousness.
+I worship You, Almighty God,
+There is none like You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is none like You,
+No one else can touch
+my heart like You do;
+I could search
+for all eternity long and find,
+There is none like You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, we enthrone You,
+We proclaim You are King;
+Standing here in the midst of us,
+We raise You up with our praise.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And as we worship,
+build a throne,
+And as we worship,
+build a throne,
+And as we worship,
+build a throne,
+Come, Lord Jesus
+and take Your place.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Shout to the Lord
+All the earth let us sing,
+Power and majesty praise
+to the King;
+Mountains bow down
+And the seas will roar,
+At the sound of Your name.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hallelujah, hallelujah
+Hallelujah to the Lamb.
+Hallelujah, hallelujah
+By the Blood of Christ we stand.
+Every tongue, every tribe,
+Every people, every land,
+Giving glory, giving honor,
+Giving praise unto the Lamb of God.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jesus Christ, Lamb of God.</lines>
+    </verse>
+  </lyrics>
+</song>

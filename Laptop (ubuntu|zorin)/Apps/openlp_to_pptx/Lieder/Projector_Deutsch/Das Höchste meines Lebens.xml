@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Das Höchste meines Lebens</title>
+    </titles>
+    <authors>
+      <author type="words">Gitta Leuschner</author>
+      <author type="music">Mark Pendergrass</author>
+      <author type="translation">The greatest thing</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Das Höchste meines Lebens ist: Dich kennen Herr.
+Das Höchste meines Lebens ist: Dich kennen Herr.
+Das Höchste meines Lebens ist: Dich kennen Herr.
+Dich kennen mehr und mehr, Dich kennen mehr und mehr.
+Das Höchste meines Lebens ist: Dich kennen Herr.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Das Höchste meines Lebens ist: Dich lieben Herr.
+Das Höchste meines Lebens ist: Dich lieben Herr.
+Dich lieben mehr und mehr, Dich lieben mehr und mehr.
+Das höchste meines Lebens ist: Dich lieben Herr!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Das höchste meines Lebens ist: Dir dienen Herr!
+Das höchste meines Lebens ist: Dir dienen Herr!
+Dir dienen mehr und mehr, Dir dienen mehr und mehr.
+Das höchste meines Lebens ist: Dir dienen Herr!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Das höchste meines Lebens ist: Dich preisen Herr!
+Das höchste meines Lebens ist: Dich preisen Herr!
+Dich preisen mehr und mehr, Dich preisen mehr und mehr.
+Das höchste meines Lebens ist: Dich preisen Herr!</lines>
+    </verse>
+  </lyrics>
+</song>

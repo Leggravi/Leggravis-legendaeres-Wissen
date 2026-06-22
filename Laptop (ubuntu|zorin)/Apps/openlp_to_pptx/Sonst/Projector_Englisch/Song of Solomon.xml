@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Song of Solomon</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I feel the cold of winter
+And this cloak of sadness
+I need You
+All the evil things that shake me
+All the words that break me
+I need You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Over the mountains
+Over the sea
+Here You come running
+My Lover to me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Do not hide me from Your presence
+Pull me from these shadows
+I need You
+Beauty wrap Your arms around me
+Sing Your song of kindness
+I need You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh through the valleys
+Through the dark of night
+Here You come running
+To hold me until it’s light</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I’ll come running
+I’ll come running
+I’ll come running
+Back to You</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nichts, Herr Jesus, finde ich hienieden</title>
+    </titles>
+    <authors>
+      <author type="words">Julius Anton von Poseck</author>
+      <author type="music">Wilhelm Brockhaus</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nichts, o Jesu, finde ich hienieden,
+Nichts, was meiner Seele Freude gibt,
+Doch mein Herz ist glücklich und zufrieden,
+Da ich weiß, dass ich von Dir geliebt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du, Herr, gabst für mich Dein teures Leben,
+Ja, am Kreuze floss Dein Blut für mich.
+Sollt' ich nicht den Kot der Erde geben
+Für des Himmels Kleinod, Jesu, Dich?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Was soll auf der Erd' ich noch verlangen,
+Da ich Deiner Liebe Gegenstand,
+Da mich Deine Gnade reich umfangen
+Und Dein Geist mir bleibt ein sichres Pfand?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Teurer Heiland! Deine Hände tragen
+Mich zur Ruh' aus stetem Kampfe hier.
+O wie sollt' ich trauern noch und zagen,
+Da ich auf der Reise bin zu Dir?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Freudig geh' ich meines Weges weiter,
+Walle durch die Wüste, Herr, mit Dir,
+Sel'ge Hoffnung macht mich stark und heiter,
+Und der Glaube zeigt den Ruhort mir.</lines>
+    </verse>
+  </lyrics>
+</song>

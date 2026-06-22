@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Until You Know</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If you could own all the world and its money,
+You could put up enough,
+To reach the skies above,
+If you could know everything;
+You want to know about my faith,
+Yet you’ve known nothing until,
+You know the love of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Until you know the loving hand,
+That reaches down to fallen man,
+And picks him up above the plane,
+Where he has trod;
+Until you know just how it feels,
+To know that God is really real,
+Then you’ve known nothing,
+Until you know the love of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If in your lifetime you could meet everybody,
+And you could call every name,
+From here to yonder,
+If you’ve not come face to face;
+With Jesus and His saving grace,
+Friends you’ve known nothing,
+Until you know the love of God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If in your lifetime you could learn, all the Theology,
+And you could know every line, of the scriptures,
+If you’ve not known the revelation
+Of Malachi Four and End-time Seal,
+Friends you’ve known nothing
+Until you know the love of God.</lines>
+    </verse>
+  </lyrics>
+</song>

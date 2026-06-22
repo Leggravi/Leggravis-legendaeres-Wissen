@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh, Be Lifted</title>
+    </titles>
+    <authors>
+      <author type="words">Leeland Mooring</author>
+      <author type="music">Leeland Mooring</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, Be lifted
+Above all other gods
+We lay our Crowns
+And worship You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All Glorious God
+We praise your name
+We lay our Crowns
+and worship You</lines>
+    </verse>
+  </lyrics>
+</song>

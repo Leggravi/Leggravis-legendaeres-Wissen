@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Evenu Shalom Alerem</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Evenu shalom alerem,
+Evenu shalom alerem,
+Evenu shalom alerem,
+Evenu shalom, shalom,
+Shalom Alerem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We announce love to you
+We announce love to you
+We announce love to you
+We announce love to you,
+love in Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We proclaim peace to you
+We proclaim peace to you
+We proclaim peace to you
+We proclaim peace to you,
+peace in Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We announce joy to you
+We announce joy to you
+We announce joy to you
+We proclaim joy to you,
+joy in Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

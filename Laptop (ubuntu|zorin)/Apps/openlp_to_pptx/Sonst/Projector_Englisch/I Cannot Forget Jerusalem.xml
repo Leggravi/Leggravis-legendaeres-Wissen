@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Cannot Forget Jerusalem</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our walls are broken down
+Our gates are burnt with fire
+And the harp that we once played Now hang upon the willow
+And can we sing the songs of Zion in a strange land }2x</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I cannot forget Jerusalem
+I cannot forget Jerusalem
+I remember the city of God
+I remember Zion</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In Isaiah sixty two
+For Zion sake I will not hold my peace
+Andfor the sake of Jerusalem I will not rest
+Until the righteousness go forth as brightness
+And the salvation thereof
+As a lamp that burneth</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I cannot forget Jerusalem
+I cannot forget Jerusalem
+I remember the city of God
+I remember Zion</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When God delivered Zion
+From the captivity of Babylon
+Then was our mouth filled with laughter
+And our tongue with singing
+The Lord is doing great things for his people
+That’s why we are glad
+That’s why we rejoice</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I cannot forget Jerusalem
+I cannot forget Jerusalem
+I remember the city of God
+I remember Zion</lines>
+    </verse>
+  </lyrics>
+</song>

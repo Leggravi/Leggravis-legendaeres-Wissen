@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Simply Holding</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My life was consumed
+And filled with anguish
+I realized one thing
+To trust in Your great Name
+In You Oh Lord
+I've taken refuge
+Let me never put to shame
+I clasped my hands to pray</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Suddenly my defenses break
+And all of my soul
+Transcending time and space
+You're the air I breathe
+And Your love so deep
+Lord You take my breath away
+Every time I try
+Telling You goodbye
+You're just simply holding me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I remember the days
+When I'm without You
+It didn't feel so right
+I felt so weak so blind
+And then I heard You
+Whispered softly
+Your promises so true
+Your Word so firm so pure</lines>
+    </verse>
+  </lyrics>
+</song>

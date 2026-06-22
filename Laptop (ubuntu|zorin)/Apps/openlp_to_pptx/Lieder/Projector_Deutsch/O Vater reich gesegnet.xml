@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Vater, reich gesegnet</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Wilhelm Brockhaus</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Vater, reich gesegnet
+Bin ich hienieden schon,
+Weil Du mir bist begegnet
+In dem geliebten Sohn.
+Er ist die höchste Gabe,
+Nichts Höh'res hattest Du,
+Und weil ich Ihn jetzt habe,
+Hat meine Seele Ruh'.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich weiß, dass Du mich liebest
+Und väterlich mich pflegst,
+Dass Du mir alles gibest,
+Mich stets mit Langmut trägst.
+Wohin ich mich mag wenden,
+Folgt Deine Liebe mir,
+Ich ruh' in guten Händen,
+Es trennt mich nichts von Dir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wie könnt' ich ängstlich sorgen,
+Da Du mein Vater bist!
+Du bist es heut' und morgen,
+Dein Herz mich nie vergisst.
+Du wirst mich nie beschämen,
+Weil Du mich innig liebst,
+Ich werde reichlich nehmen,
+Was gut ist, Du mir gibst.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du sorgst für allen Dinge
+So weise, treu und gut,
+Nichts ist Dir zu geringe,
+Drum mein Herz sorglos ruht.
+Es ruht in Deiner Liebe
+So selig und so frei,
+Und wenn mir nichts mehr bliebe,
+Dein Vaterherz bleibt treu.</lines>
+    </verse>
+  </lyrics>
+</song>

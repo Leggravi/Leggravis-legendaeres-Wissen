@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 17, 2021, 3:09:17 PM">
+  <properties>
+    <titles>
+      <title>While He Was On The Cross</title>
+    </titles>
+    <verseOrder>V1 C2 V3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>There's no one great amongst us,
+We're nothing on our own,
+We make mistakes, and often slip,
+Just common flesh and bone;
+But someday, I'll prove just why I say,
+I'm of a special kind,
+For while He was on the Cross
+I was on His mind.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>For, He knew me,
+Yet, He loved me, `
+He whose glory makes the heavens shine.
+I am so unworthy of such mercy,
+Yet, while He was on the Cross
+I was on His mind.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>The look of love was on His face,
+The thorns were on His head,
+Blood was on His scarlet robe,
+Stained in crimson red;
+Though His eye was on the crowd that day
+He looked ahead in time,
+And while He was on the cross
+I was on His mind.</lines>
+    </verse>
+  </lyrics>
+</song>

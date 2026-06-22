@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Psalm 113 (From the Rising of the Sun)</title>
+    </titles>
+    <authors>
+      <author type="words">Paul S. Deming</author>
+      <author type="music">Paul S. Deming</author>
+      <author type="translation">Vom Aufgang der Sonne (Preiset den Herrn)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From the rising of the sun
+Until it's going down,
+Praise to the Lord,
+Praise His name.
+Fill the morning with your joy
+Fill the evening with your song
+Praise to the Lord,
+Praise His name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise to the One who is high
+Above every nation
+Who has raised us from the dust
+To reign with Him
+Praise to the One who is Lord
+Above all creation
+Praise to the Lord
+Praise His name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To the barren house He comes
+To make of it a home
+Praise to the Lord
+Praise His name
+To the empty heart He calls
+Saying come and be My own
+Praise to the Lord
+Praise His name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Praise to the One who is high
+Above every nation
+Who has raised us from the dust
+To reign with Him
+Praise to the One who is Lord
+Above all creation
+Praise to the Lord
+Praise His name</lines>
+    </verse>
+    <verse name="v5">
+      <lines>From the rising of the sun
+Until it's going down..
+Praise to the Lord…
+Praise His name…</lines>
+    </verse>
+  </lyrics>
+</song>

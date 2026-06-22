@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Three Kinds of Believers</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There’s three kinds of believers
+In this world today,
+They gather where the eagles
+go to feed,
+Their lives are so shabby
+And darkened with the world,
+They’re blind and they cannot
+see their need.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh we say we’re Believers
+Since we believe
+All the Word, Our works are
+both great and small;
+But If this same Life’s not living
+through you,
+Then you’re not even called
+to at all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God’s Wife is an Army,
+Marching through the land;
+Destroying everything in Her way.
+There’s many make-Believers
+Who fight by her side.
+But when they have fallen,
+She just leaves them lay.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The true Elect of God
+Have died to themselves,
+They have all heard the Evening
+call!
+They know that the Token
+Must be displayed,
+Or they’re not even
+called to at all!</lines>
+    </verse>
+  </lyrics>
+</song>

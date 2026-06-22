@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Faith in Him</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Many times, oh yes, God has spoken here
+In many ways and seasons
+But in this last age He gave His promise
+To take a people to eternity
+I have lived, oh yes, waiting for that moment
+And all of me is resting on His Word today</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My faith in Him will take me out from here
+I've never heard a promise like This
+One day from eternity chariots will break forth
+And into His presence, angels will carry me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There were many of those who aimed to be
+Part of this Endtime Bride
+But He has chosen a special people
+That will love His Word until the end
+And it doesn't matter how long His coming takes
+They will keep holding His Word in their hearts</lines>
+    </verse>
+  </lyrics>
+</song>

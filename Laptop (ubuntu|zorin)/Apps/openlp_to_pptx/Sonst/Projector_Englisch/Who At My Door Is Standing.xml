@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Who At My Door Is Standing</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who at may door is standing
+Patiently drawing near?
+Entrance within He is asking
+Who is the voice I hear?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sweetly the tones are falling
+Open the door for Me!
+If thou will heed My calling,
+I will abide with thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lonely without, He is standing
+Lonely within am I
+While I am still delaying
+Will He not pass me by?</lines>
+    </verse>
+  </lyrics>
+</song>

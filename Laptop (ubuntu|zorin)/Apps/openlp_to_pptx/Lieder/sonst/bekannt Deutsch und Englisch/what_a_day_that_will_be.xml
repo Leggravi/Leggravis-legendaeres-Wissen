@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 10, 2019, 10:31:08 PM">
+  <properties>
+    <titles>
+      <title>What A Day That Will Be</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>There is coming a day
+When no heartaches shall come,
+No more clouds in the sky,
+No more tears to dim the eye;
+All is peace forevermore
+On that happy golden shore,
+What a day, glorious day
+That will be.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>What a day that will be
+When my Jesus I shall see,
+When I look upon His face,
+The One who saved me by His grace;
+When He takes me by the hand,
+And leads me through
+The Promised Land,
+What a day, glorious day
+That will be.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>There'll be no sorrow there,
+No more burdens to bear,
+No more sickness, no pain,
+No more parting over there;
+And forever I will be
+With the One who died for me,
+What a day, glorious day
+That will be.</lines>
+    </verse>
+  </lyrics>
+</song>

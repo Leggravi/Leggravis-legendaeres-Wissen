@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Worthy of It All</title>
+    </titles>
+    <authors>
+      <author type="words">David Brymer</author>
+      <author type="music">David Brymer</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Day and night, night and day, let incense rise
+Day and night, night and day, let incense rise
+Day and night, night and day, let incense rise
+Day and night, night and day, e-yeah!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are worthy of it all
+You are worthy of it all (oh-oh-oh, oh-oh-oh)
+For from You are all things (oh-oh-oh)
+And to You are all things (oh-oh-oh)
+You deserve the glory (oh-oh-oh)
+Just a voice say, &quot;You are worthy&quot;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are worthy of it all
+You are worthy of it all (yes, Lord)
+For from You are all things
+And to You are all things
+But you deserve the glory</lines>
+    </verse>
+  </lyrics>
+</song>

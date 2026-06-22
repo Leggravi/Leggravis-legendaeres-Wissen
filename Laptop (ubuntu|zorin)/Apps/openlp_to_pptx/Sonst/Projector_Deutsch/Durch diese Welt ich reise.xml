@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Durch diese Welt ich reise</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Wilhelm Brockhaus</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Durch diese Welt ich reise,
+wo eigne Kraft mir fehlt,
+doch mich zu Deinem Preise
+|: Dein starker Arm erhält. :|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In Dir bin ich geborgen,
+sogar in tiefer Nacht.
+Und macht der Feind mir Sorgen,
+|: beschützt mich Deine Macht. :|</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich seh' den Kampfpreis winken
+bei mühevollem Tritt.
+Ich werde nie versinken,
+|: eh' sänkst Du selber mit. :|</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mein Herz, von Dir erfüllet,
+geht froh den Lebenspfad
+Aus Deinem Herzen quillet
+|: mir Friede, Freud' und Gnad'. :|</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So eil' ich Dir entgegen,
+Dir, meinem treuen Herrn.
+Bald naht der reichste Segen,
+|: Dein Kommen ist nicht fern. :|</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dann wird mein Lauf sich enden,
+dann schau' ich droben Dich.
+O seliges Vollenden!
+|: Ich fei're ewiglich. : |</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wenn Lieder und Worte versagen</title>
+    </titles>
+    <authors>
+      <author type="words">Klaus Heizmann</author>
+      <author type="music">Klaus Heizmann</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wenn Lieder und Worte versagen
+um die Größe des Herrn zu beschreiben,
+dann hört er uns zu und weiß, wie wir's meinen,
+er kennt unser Herz, unser Lob freut ihn sehr.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir loben und preisen den König.
+Wir rühmen und beten ihn an.
+Ihn, den Friedefürst, den starken Held,
+ihn, den Ewigen, den Gottessohn
+und Heiland der Welt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn Fehler und Schwächen und quälen
+und die Freude den Glanz fast verlieren will,
+wenn zaghaft und matt dann ein Lied auf den Lippen klingt:
+der Herr sieht das Herz, unser Dank freut ihn sehr.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wenn nun Töne und Worte erklingen,
+um die Größe des Herrn zu beschreiben,
+wenn mit Herz und Verstand das Lob bis zum Himmel schwingt,
+dann hört er uns zu, unser Lied freut ihn sehr.</lines>
+    </verse>
+  </lyrics>
+</song>

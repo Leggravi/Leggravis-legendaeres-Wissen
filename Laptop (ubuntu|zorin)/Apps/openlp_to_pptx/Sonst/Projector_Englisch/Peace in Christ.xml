@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Peace in Christ</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is peace in Christ
+When we learn of Him
+Feel the love He felt for us
+When He bore our sins
+Listen to His words
+Let them come alive
+If we know Him as He is
+There is peace in Christ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He give us hope
+When hope is gone
+He give us strength
+When we can't go on
+He give us shelter
+In the storms of life
+When there's no peace on earth
+There is peace in Christ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is peace in Christ
+When we walk with him
+Through the streets of Galilee to Jerusalem
+Mend the broken hearts
+Dry the tear-filled eyes
+When we live the way He lives
+There is peace in Christ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He give us hope
+When hope is gone
+He give us strength
+When we can't go on
+He give us shelter
+In the storms of life
+When there's no peace on earth
+There is peace in Christ
+When there's no peace on earth
+There is peace in Christ</lines>
+    </verse>
+  </lyrics>
+</song>

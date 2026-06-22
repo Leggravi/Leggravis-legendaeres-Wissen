@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The old man is dead</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Now and then an old friend of mine
+I've not seen in some time
+Will stop by and ask me
+Where've I been? What's on my mind?
+They wonder why I'm not drinking
+And still painting this old town red
+I tell them I'm serving Jesus now
+And the old man is dead</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The man you see before you
+May look a lot the same
+I may wear the same clothes
+And have the same old name
+But you're looking on the outside
+If you could see inside instead
+You would see a brand new man
+'cause the old man is dead</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I use to live such a wicked life
+I had no hope in sight
+I was lost in the darkness
+Searching for the light
+Then one night in a little church
+After hearing what the preacher said
+I gave my life to Jesus
+And the old man is dead</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You're looking on the outside
+If you could see the inside instead
+You would see a brand new man
+'cause the old man is dead</lines>
+    </verse>
+  </lyrics>
+</song>

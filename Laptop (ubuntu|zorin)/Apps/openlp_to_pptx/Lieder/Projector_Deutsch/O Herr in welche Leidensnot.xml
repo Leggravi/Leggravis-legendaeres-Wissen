@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Herr, in welche Leidensnot</title>
+    </titles>
+    <authors>
+      <author type="words">Walter Brockhaus</author>
+      <author type="music">Nürnberg</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Herr, in welche Leidensnot
+bist Du für uns gekommen,
+als Du dem Starken durch den Tod
+die Todesmacht genommen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du trugst am Kreuz in Not und Pein -
+o Liebe ohne Maßen! -
+die Last der Sünden ganz allein,
+von Gott und Mensch verlassen</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wie furchtbar war der Feinde Macht,
+die Dich, Herr, dort umgeben!
+Triumph! Du hast das Werk vollbracht,
+gabst hin Dein eignes Leben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Für Gott erkauft am Kreuzesstamm,
+gab Er Dir die zum Lohne,
+die jetzt durch Dich, o Gotteslamm,
+anbetend nahn dem Throne.</lines>
+    </verse>
+  </lyrics>
+</song>

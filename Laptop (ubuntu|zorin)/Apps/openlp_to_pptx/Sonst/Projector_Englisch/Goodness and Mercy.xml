@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Goodness and Mercy</title>
+    </titles>
+    <authors>
+      <author type="words">Ed Cash</author>
+      <author type="music">Ed Cash</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A pilgrim was I and a-wandering
+In the cold night of sin I did roam,
+When Jesus, the kind
+Shepherd found me,
+And now I’m on my way home.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Surely goodness and mercy,
+Shall follow me,
+all the days
+All the days of my life (x2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He-restoreth my soul when I’m weary
+He giveth me strength day by day
+He leads me, beside the still waters
+He guards me each step of the way.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When I walk through the dark
+lonesome valley,
+My Saviour will walk with me there
+And safely His great hand will lead me
+To the mansions He’s gone to prepare.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Surely goodness and mercy
+Shall follow me, all the days
+All the days of my life (x2)
+And I shall dwell in the house
+of the Lord forever
+And I shall feast at the table spread
+for me
+Surely goodness and mercy
+shall follow me
+All the days, all the days of my life.</lines>
+    </verse>
+  </lyrics>
+</song>

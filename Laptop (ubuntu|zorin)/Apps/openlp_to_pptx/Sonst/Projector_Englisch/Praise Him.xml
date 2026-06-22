@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Praise Him</title>
+    </titles>
+    <authors>
+      <author type="words">Olaf Franke</author>
+      <author type="music">Timothy Kirk Thomas</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus my savior
+Your love is so much favor
+You are the great king of peace
+Your embrace is full of grace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is nobody like you, God
+There is nobody like you, God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sing praise to our mighty God
+We give thanks to our mighty God
+He is pure and powerful
+Praise Him, Praise Him</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are our victory
+In every different story
+Were blind in the history
+But you made us all glory</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He leads the way
+And give us strength
+And give us hope
+And make us holy, holy, holy</lines>
+    </verse>
+  </lyrics>
+</song>

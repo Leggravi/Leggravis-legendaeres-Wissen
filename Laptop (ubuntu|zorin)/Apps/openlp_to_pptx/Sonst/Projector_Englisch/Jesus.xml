@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v2 v6 v7 v5 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a truth older than the ages
+There is a promise of things yet to come
+There is one born for our salvation</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is a light that overwhelms the darkness
+There is a kingdom that forever reigns
+There is freedom from the chains that bind us</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, Jesus</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Who walks on the waters
+Who speaks to the sea
+Who stands in the fire beside me
+He roars like a lion
+He bled as the Lamb
+He carries my healing in His hands</lines>
+    </verse>
+    <verse name="v6">
+      <lines>There is a name I call in times of trouble
+There is a song that comforts in the night
+There is a voice that calms the storm that rages</lines>
+    </verse>
+    <verse name="v7">
+      <lines>He is Jesus, Jesus</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Messiah
+My Savior
+There is power in Your name
+You're my rock and my Redeemer
+There is power in Your name
+In Your name</lines>
+    </verse>
+    <verse name="v9">
+      <lines>You walks on the waters
+You speaks to the sea
+You stands in the fire beside me
+You roars like a lion
+You bled as the Lamb
+You carries my healing in Your hands</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Jesus, there is no one like You
+Jesus, there is no one like You</lines>
+    </verse>
+  </lyrics>
+</song>

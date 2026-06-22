@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come and See</title>
+    </titles>
+    <authors>
+      <author type="words">Jason Ingram</author>
+      <author type="music">Jason Ingram</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come and see the glory of the Lord
+Come behold the Lamb
+Come and know the mercy of the
+King
+Bowing down before Him</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come and give thanks unto The Lord
+Come behold The LAMB
+come and sing the praises of The
+King
+Bowing down before Him</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For He is Lord above the heavens
+Lord in all the earth
+Lord of all the angels
+Worthy - so worthy - to be served</lines>
+    </verse>
+    <verse name="v4">
+      <lines>HAlle-luia, HAlle-luia……</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wonderful Magnificent God</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>At Your feet I bow,
+There is none like You.
+All that I have found,
+All I want is You:
+All the wonders You do,
+All that You are;
+What can I bring to you?
+I offer my heart!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wonderful, magnificent God,
+I'm humbled by the life You gave.
+Beautiful Redeemer You are
+Worthy of my highest praise.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wonderful, You are wonderful!
+Wonderful, You are wonderful!
+Wonderful, You are wonderful!
+Wonderful, magnificent God!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>What can we give to You,
+Oh God,
+For everything You have given
+to us?
+What can we give to You,
+Oh God,
+For everything You have given
+to us? (repeat)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We offer our lives to You,
+Oh God,
+For everything You have given
+to us.
+We offer our lives to You,
+Oh God,
+For everything You have given
+to us. (repeat)</lines>
+    </verse>
+  </lyrics>
+</song>

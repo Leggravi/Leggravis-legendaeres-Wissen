@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Close with God</title>
+    </titles>
+    <authors>
+      <author type="words">William Cowper</author>
+      <author type="music">Keith Getty</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Close with God for inside,
+For inside the Spirit see Him face,
+Get new power to run the race,
+I like to be close with God.</lines>
+    </verse>
+  </lyrics>
+</song>

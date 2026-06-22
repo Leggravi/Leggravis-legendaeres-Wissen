@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Mar 24, 2020, 4:36:12 PM">
+  <properties>
+    <titles>
+      <title>Jesus Christus starb für mich</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Jesus Christus starb für mich,
+Jesus Christus starb für dich.
+Für die ganze Welt starb er am Kreuz.
+Er nahm unsre Schuld auf sich.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Herr, ich danke dir, dass du mich liebst.
+Deine Gnade gilt auch mir.
+Danke, Herr, dass du die Schuld vergibst.
+Ich will leben, Herr, mit dir.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Jesus ist der Weg für mich.
+Jesus ist der Weg für dich.
+Jesus ist der Weg zum Vaterhaus.
+Er nahm unsre Schuld auf sich.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Jesus Christus, er ruft mich.
+Jesus Christus, er ruft dich.
+Mach dich auf und folge Jesus nach.
+Er nahm unsre Schuld auf sich.</lines>
+    </verse>
+  </lyrics>
+</song>

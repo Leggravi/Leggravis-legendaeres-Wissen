@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Pray Away</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pray away, pray away
+There's no problem so great
+that we can't pray away
+Pray away, pray away
+All we need is faith
+that He can solve it today</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When temptation is great
+and faith seems small
+Reason only confuses
+trying to hear His call
+There's only one solution there
+at your command
+List them no more as burdens
+for they're in Someone else's hands</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pray away, pray away
+There's no problem so great
+that we can't pray away</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sometimes emotion is there,
+sometimes it's not
+It's not the feeling that counts
+it's the faith that we have got
+He hears us when we pray,
+in solitude or a crowd
+He misses not a word,
+whether whispered in our hearts
+or spoken out loud</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pray away, pray away
+Until we've all gone home,
+let's just pray away
+Pray away, pray away
+Till our last breath is gone,
+we'll all be praying away</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Pray away, pray away
+Pray away</lines>
+    </verse>
+  </lyrics>
+</song>

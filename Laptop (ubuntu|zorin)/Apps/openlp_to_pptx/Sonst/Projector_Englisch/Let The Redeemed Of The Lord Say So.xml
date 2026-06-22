@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let The Redeemed Of The Lord Say So</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Charles Slagle</author>
+      <author type="translation">All die Erlösten des Herrn, seid froh</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the redeemed of the Lord say so
+Let the redeemed of the Lord say so
+Let the redeemed of the Lord say so
+I'm redeemed I'm redeemed
+Praise the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

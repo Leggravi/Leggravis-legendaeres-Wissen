@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich mach Station!</title>
+    </titles>
+    <authors>
+      <author type="words">Hans-Kurt Ebert</author>
+      <author type="music">Hans-Kurt Ebert</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich mach Station am Weg auf dem ich geh.
+Ich halte an, damit ich Freunde seh,
+die auf der gleichen Straße wie ich geh'n.
+Ich halte an und bleibe bei euch stehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich frage dich: Wie geht's, wo kommst du her?
+Wie heißt dein Ziel? Und: Freunde, wer seid ihr?
+Lasst mich ein Stück die Straße mit euch zieh'n
+und kurze Zeit in eurem Leben stehn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich suche Gott, bin unterwegs zu ihm.
+Und wenn ihr wollt, könnt ihr auch mit mir gehn.
+Gemeinsam finden leichter wir das Ziel.
+Gemeinschaft halten ist, was Gott auch will.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich mach Station am Weg auf dem ich geh.
+Ich halte an, damit ich Freunde seh,
+die auf der gleichen Straße wie ich geh'n.
+Ich halte an und möchte euch verstehn.</lines>
+    </verse>
+  </lyrics>
+</song>

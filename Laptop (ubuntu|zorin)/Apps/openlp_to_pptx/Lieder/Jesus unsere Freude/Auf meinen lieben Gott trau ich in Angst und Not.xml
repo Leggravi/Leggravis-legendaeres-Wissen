@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:31">
+  <properties>
+    <titles>
+      <title>Auf meinen lieben Gott trau ich in Angst und Not</title>
+    </titles>
+    <authors>
+      <author type="words">Lübeck (1603)</author>
+      <author type="words">Wittenberg (1607)</author>
+      <author type="music">Jakob Regnart</author>
+    </authors>
+    <ccliNo>4351757</ccliNo>
+    <themes>
+      <theme>Trost</theme>
+      <theme>Vetrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Auf meinen lieben Gott
+trau ich in Angst und Not.
+Der kann mich allzeit retten
+aus Trübsal, Angst und Nöten;
+mein Unglück kann er wenden,
+steht alls in seinen Händen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ob mich mein Sünd anficht,
+will ich verzagen nicht.
+Auf Christum will ich bauen
+und ihm allein vertrauen;
+ihm tu ich mich ergeben
+im Tod und auch im Leben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ob mich der Tod nimmt hin,
+ist Sterben mein Gewinn,
+und Christus ist mein Leben;
+dem tu ich mich ergeben,
+ich sterb heut oder morgen,
+mein Seel wird er versorgen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O mein Herr Jesu Christ,
+der du geduldig bist
+für mich am Kreuz gestorben,
+hast mir das Heil erworben,
+auch uns allen zugleiche
+das ewig Himmelreiche:</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Erhöre gnädiglich,
+mein Trost, das bitt ich dich:
+Hilf mir am letzten Ende,
+nimm mich in deine Hände,
+dass ich selig abscheide
+zur ewgen Himmelsfreude.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Amen zu aller Stund
+sprech ich aus Herzensgrund;
+du wollest selbst uns leiten,
+Herr Christ, zu allen Zeiten,
+auf dass wir deinen Namen
+ewiglich preisen. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

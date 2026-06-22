@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:27">
+  <properties>
+    <titles>
+      <title>Welch ein Freund ist unser Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Ernst Heinrich Gebhardt (1875)</author>
+      <author type="music">Charles C. Converse</author>
+    </authors>
+    <ccliNo>4334413</ccliNo>
+    <themes>
+      <theme>Gebet</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Welch ein Freund ist unser Jesus,
+o wie hoch ist Er erhöht!
+Er hat uns mit Gott versöhnet
+und vertritt uns im Gebet.
+Wer mag sagen und ermessen,
+wie viel Heil verloren geht,
+wenn wir nicht zu Ihm uns wenden
+und Ihn suchen im Gebet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wenn des Feindes Macht uns drohet
+und manch Sturm rings um uns weht,
+brauchen wir uns nicht zu fürchten,
+stehn wir gläubig im Gebet.
+Da erweist sich Jesu Treue,
+wie Er uns zur Seite steht
+als ein mächtiger Erretter,
+der erhört ein ernst Gebet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sind mit Sorgen wir beladen,
+sei es frühe oder spät,
+hilft uns sicher unser Jesus,
+fliehn zu Ihm wir im Gebet.
+Sind von Freunden wir verlassen
+und wir gehen ins Gebet,
+o, so ist uns Jesus alles:
+König, Priester und Prophet.</lines>
+    </verse>
+  </lyrics>
+</song>

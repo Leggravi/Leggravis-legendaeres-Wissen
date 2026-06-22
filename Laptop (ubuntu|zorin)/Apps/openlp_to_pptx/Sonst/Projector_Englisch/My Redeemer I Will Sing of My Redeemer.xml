@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Redeemer (I Will Sing of My Redeemer)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will sing of my Redeemer
+And His wondrous love to me;
+On the cruel cross He suffered,
+From the curse to set me free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sing, oh, sing, of my Redeemer,
+With His blood He purchased me,
+On the cross He sealed my pardon,
+Paid the debt, and made me free.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will tell the wondrous story,
+How my lost estate to save,
+In His boundless love and mercy,
+He the ransom freely gave.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will praise my dear Redeemer,
+His triumphant power I'll tell,
+How the victory He giveth
+Over sin and death and hell</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I will sing of my Redeemer,
+And His heavenly love to me;
+He from death to life hath brought me,
+Son of God, with Him to be.</lines>
+    </verse>
+  </lyrics>
+</song>

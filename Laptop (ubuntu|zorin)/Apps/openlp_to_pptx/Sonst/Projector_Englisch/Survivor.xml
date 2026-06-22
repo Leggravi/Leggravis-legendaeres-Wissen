@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Survivor</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For so long I carried the weight of my past
+Cripple by burdens like stones on my back
+I thought I had fallen too far from your grace
+But you came and showed me the way</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I was lost soul searching
+You were the ground beneath my feet
+When I was blind man begging
+You were the eyes so I could see
+When the smoke was rising up
+You were the air that I could breath
+You gave me hope you gave me something to believe</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now I'm alive and born again
+Rescued from the grip of sin
+God your love came crashing in
+And pulled me out of the fire
+I'm a survivor</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now all I can see are the fields of your grace
+Wherever I run your leading the way
+You shook the shackles off my feet
+I found redemption on my knees
+You gave me hope you gave me something to believe</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Now I'm alive and born again
+Rescued from the grip of sin
+God your love came crashing in
+And pulled me out of the fire
+I'm a survivor
+Oh I'm a survivor</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You're my God
+You're my fighter
+You make me a survivor</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Now I'm alive and born again
+Rescued from the grip of sin
+God your love came crashing in
+And pulled me out of the fire
+I'm a survivor
+Oh I'm a survivor
+You pulled me out of the fire
+I'm a survivor</lines>
+    </verse>
+  </lyrics>
+</song>

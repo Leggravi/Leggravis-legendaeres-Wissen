@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Who Do You Say I Am</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Whenever God’s moving
+or reveals anything
+Many people just ridicule
+and scoff at the thing
+But there’s always some
+faithful the true seed of God
+That will cling to God’s promise
+and walk on in love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Some called Him a devil
+Some called Him God
+some called Him a fortune teller or
+Beelzebub
+Some called it psychology
+But in God we can trust
+To fulfil all the scriptures
+That are promised for us.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the days of Jesus the son of God
+When He asked them
+who people said that He was,
+Some say you are Elias,
+Jeremiah or John
+But then He asked his disciples
+Who do you say I am?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We are promised in the end time
+that Elias must come
+To reveal the mysteries before Jesus
+can come
+Some will call him a devil
+While some think he is god
+But there’s some that’s rejoicing
+for the True Word of God.</lines>
+    </verse>
+  </lyrics>
+</song>

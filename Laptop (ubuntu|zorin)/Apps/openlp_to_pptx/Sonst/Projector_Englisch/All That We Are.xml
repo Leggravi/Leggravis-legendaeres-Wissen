@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All That We Are</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v4 v3 v1 v5 v6 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, oh, oh, oh, oh, oh, oh, oh</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You took up Your cross, gave it all for us, so that we might know grace
+You gave up Your crown, an act so profound, we'll never be the same
+We'll never be the same</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All that we are for Your glory
+All that we are for Your Name Jesus
+All that we are for Your glory
+We praise You, we praise You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The fight is now over, war has been won, the power of Your Name
+Jesus the Christ has made us alive, we'll never be the same
+We'll never be the same</lines>
+    </verse>
+    <verse name="v5">
+      <lines>What a sacrifice, that You laid down Your life
+To save a sinner's heart like mine
+I surrender all, all to You my God
+Hallelujah, hallelujah, hallelujah to Your Name</lines>
+    </verse>
+    <verse name="v6">
+      <lines>All that we are for Your glory
+All that we are for Your Name Jesus
+All that we are for Your glory
+We praise You, we praise You
+All that we are for Your glory
+All that we are for Your Name Jesus
+All that we are for Your glory
+We praise You, we praise You</lines>
+    </verse>
+  </lyrics>
+</song>

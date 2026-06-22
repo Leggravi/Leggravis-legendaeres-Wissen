@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let My Life Be A Picture of You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord of light create in me
+A reflection of yourself So that you can freely work
+And truly shine through me 
+Shine through me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let my life be a picture of You;
+Let my life be a picture of You;
+Let it be a letter written by Your hand
+For the world to read, and to see,
+and to feel, and to know You live,
+You Live in me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy Spirit grant in me
+A reflection of yourself
+Take me from faith to charity 
+The stature of a perfect man 
+
+Christ in me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let my life be a picture of You;
+Let my life be a picture of You;
+Let it be a letter written by Your hand
+For the world to read, and to see,
+and to feel, and to know You live,
+You Live in me.</lines>
+    </verse>
+  </lyrics>
+</song>

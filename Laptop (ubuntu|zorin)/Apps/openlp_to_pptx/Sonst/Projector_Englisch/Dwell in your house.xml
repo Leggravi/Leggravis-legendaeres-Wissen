@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dwell in your house</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Ewing</author>
+      <author type="music">Paul Ewing</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v3 v4 v5 v3 v3 v6 v3 v3 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You set me apart
+Gave me a new heart
+Filled with compassion
+To share Your great love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Show me Your ways
+I want to know You
+Guide me in truth
+My hope is in You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>That I may dwell in Your house forever
+Lifting up Your name
+Dwell in Your house forever more</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'll hold on to You,
+My strength and my refuge.
+Whom shall I fear?
+I know You are near</lines>
+    </verse>
+    <verse name="v5">
+      <lines>All of my days
+I live for You, Lord
+Establish my path
+There's one thing I ask</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Holy Spirit, have Your way
+Sweet anointing teach our hearts
+Our lives, we pray</lines>
+    </verse>
+  </lyrics>
+</song>

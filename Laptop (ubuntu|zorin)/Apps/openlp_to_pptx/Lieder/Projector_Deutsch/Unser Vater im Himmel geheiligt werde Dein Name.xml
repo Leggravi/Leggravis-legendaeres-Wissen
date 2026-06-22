@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Unser Vater im Himmel, geheiligt werde Dein Name</title>
+    </titles>
+    <authors>
+      <author type="words">Ostkirchlich</author>
+      <author type="music">Ostkirchlich</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Unser Vater im Himmel, geheiligt werde Dein Name .
+Dein Reich komme. Dein Wille geschehe, wie im Himmel, so auf Erden.
+Unser Vater im Himmel, unser tägliches Brot gib uns heute
+Und vergib uns unsere Schuld, wie auch wir vergeben unsere Schuldigern.
+® Unser Vater, unser Vater...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>® Unser Vater, unser Vater, erhör das Gebet Deiner Kinder.
+Unser Vater, unser Vater, voll Vertrauen rufen wir: Unser Vater!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und führe uns nicht in Versuchung, sondern erklse uns von dem Bösen
+Denn, Dein ist das Reich und die Kraft und die Herrlichkeit in Ewigkeit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>® Unser Vater, unser Vater, erhör das Gebet Deiner Kinder.
+Unser Vater, unser Vater, voll Vertrauen rufen wir: Unser Vater!</lines>
+    </verse>
+  </lyrics>
+</song>

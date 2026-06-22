@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jun 19, 2025, 8:31:25 PM">
+  <properties>
+    <titles>
+      <title>He Hideth My Soul</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2 V5 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>A wonderful Savior is Jesus my Lord,
+A wonderful Savior to me;
+He hideth my soul in the cleft of the rock,
+Where rivers of pleasure I see.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>He hideth my soul in the cleft of the rock
+That shadows a dry, thirsty land;
+He hideth my life in the depths of His love,
+And covers me there with His hand,
+And covers me there with His hand.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>A wonderful Savior is Jesus my Lord,
+He taketh my burden away;
+He holdeth me up and I shall not be moved,
+He giveth me strength as my day.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>With numberless blessings each moment He crowns,
+And, filled with His fullness divine,
+I sing in my rapture, oh, glory to God,
+For such a Redeemer as mine!</lines>
+    </verse>
+    <verse name="V5">
+      <lines>When clothed in His brightness, transported I rise
+To meet Him in clouds of the sky,
+His perfect salvation, His wonderful love,
+I’ll shout with the millions on high.</lines>
+    </verse>
+  </lyrics>
+</song>

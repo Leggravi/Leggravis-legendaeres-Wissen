@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hallelujah, Salvation and Glory</title>
+    </titles>
+    <authors>
+      <author type="words">überliefert</author>
+      <author type="music">überliefert</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallelujah, salvation and glory
+Honor and power unto the Lord, our God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For the Lord, our God, is mighty
+Yes, the Lord, our God is omnipotent
+The Lord, our God, is wonderful</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All praises be to the King of Kings
+For the Lord, our God, is wonderful
+Hallelujah, Hallelujah,
+Hallelujah,
+Hallelujah, Hallelujah
+Hallelujah, He is wonderful</lines>
+    </verse>
+  </lyrics>
+</song>

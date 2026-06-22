@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Everything and Nothing Less</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v6 v3 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Humbly I stand, an offering,
+With open hands, Lord, I bring,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Everything and nothing less,
+My best, my all,
+You deserve my every breath,
+My life, my song.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I surrender, I surrender all,
+Oh, I surrender, I surrender all.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord take control, I trust You,
+I'm letting go, to give You,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Everything and nothing less, I give You,
+Everything and nothing less forever,
+Everything and nothing less,
+Oh, my life is Yours Completely Yours.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Everything and nothing less, I give You,
+Everything and nothing less forever,
+Everything and nothing less,
+Oh, my life is Yours oh.</lines>
+    </verse>
+  </lyrics>
+</song>

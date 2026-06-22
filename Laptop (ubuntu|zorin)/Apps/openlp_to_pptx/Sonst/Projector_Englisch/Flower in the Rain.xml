@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Flower in the Rain</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are the One; there's no one else
+Who lifts me up
+And gives me water from the well
+But there's a hole
+That seems to drain it all away
+And once again I'm left in fear and doubt
+When all my strength is crying out</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So here I am again
+Willing to be opened up and broken like a flower in the rain
+Tell me what have I to do
+To die and then be raised
+To reach beyond the pain
+Like a flower in the rain</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The evil wind, it blows a storm
+To rock my world
+Just when I think I'm safe and warm
+I'm led astray far too easily
+It's always hard for me to say I'm wrong
+Until I know I can't go on</lines>
+    </verse>
+  </lyrics>
+</song>

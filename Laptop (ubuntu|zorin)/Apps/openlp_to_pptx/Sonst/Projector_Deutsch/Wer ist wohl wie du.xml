@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wer ist wohl wie du</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Anastasius Freylinghausen</author>
+      <author type="music">Jesu, geh voran auf der Lebensbahn</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wer ist wohl wie Du,
+Jesu, süße Ruh'!
+Bist vom Vater auserkoren,
+Zu erretten was verloren.
+Wer ist wohl wie Du,
+Jesu, süße Ruh'!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du gingst in den Tod,
+Littest Angst und Not.
+Bist am Kreuz für uns gerichtet,
+Hast der Sünde Macht vernichtet.
+Kein Gericht mehr droht,
+Du gingst in den Tod.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Deiner Liebe Macht
+Hat das Werk vollbracht.
+Und Du gingst zum Vater wieder,
+Der Dich sandt' zu uns hernieder,
+Als das Werk vollbracht
+Deiner Liebe Macht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bald kommst Du zurück –
+O welch selig Glück!
+Führest uns aus Kampf und Leiden
+Hin zu Dir, zu ew'gen Freuden.
+O welch selig Glück!
+Du kommst bald zurück.</lines>
+    </verse>
+  </lyrics>
+</song>

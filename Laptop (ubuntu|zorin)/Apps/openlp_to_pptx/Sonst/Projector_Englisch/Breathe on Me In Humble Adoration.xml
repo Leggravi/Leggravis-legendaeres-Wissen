@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Breathe on Me (In Humble Adoration)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In humble adoration
+I kneel before Your throne,
+In brokenness I seek Your face alone,
+Above You there's no other,
+Who's able to restore my soul,
+Come and make me whole.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Breathe on me,
+Power of God, come in and change me,
+You are all I need,
+Holy Spirit breathe on me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm ready to surrender,
+To give You all my life
+No matter what the cost or sacrifice,
+Reveal to me Your calling
+Cleanse me from my prideful ways
+Use me now I pray</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will say of the Lord
+He is my strong tower,
+My rock and my fortress in whom I trust,
+In times of the storm and in tribulation,
+He is my help and my salvation,
+Breath of God, restore my soul.</lines>
+    </verse>
+  </lyrics>
+</song>

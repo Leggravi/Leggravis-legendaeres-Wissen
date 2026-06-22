@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Lord's my shepherd</title>
+    </titles>
+    <authors>
+      <author type="words">Francis Rous</author>
+      <author type="music">Jessie Seymour Irvine</author>
+      <author type="translation">Der Herr, mein Hirte, führet mich (Psalm 23)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord's my shepherd I'll not want
+He makes me lie in pastures green
+He leads me by the still, still waters
+His goodness restores my soul</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I will trust in you alone.
+And I will trust in you alone.
+For your endless mercy follows me
+Your goodness will lead me home</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He guides my ways in righteousness
+And he anoints my head with oil
+And my cup, it overflows with joy
+I feast on his pure delights.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And though I walk the darkest path
+I will not fear the evil one
+For you are with me, and your rod and staff
+Are the comfort I need to know.</lines>
+    </verse>
+  </lyrics>
+</song>

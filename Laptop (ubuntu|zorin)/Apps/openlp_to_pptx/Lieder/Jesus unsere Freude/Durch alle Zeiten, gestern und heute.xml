@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:32">
+  <properties>
+    <titles>
+      <title>Durch alle Zeiten, gestern und heute</title>
+    </titles>
+    <authors>
+      <author type="words">Elisabeth Hammer (1988)</author>
+      <author type="music">Hans-Gerhard Hammer</author>
+    </authors>
+    <ccliNo>4886978</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Er ist der König der ganzen Welt,
+auch wenn sich viel dagegenstellt.
+Er ist ja größer als das Leid.
+Er verheißt die Herrlichkeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er hält die Hand über groß und klein
+und will für alle Vater sein,
+auch deine Sorgen sieht er längst,
+weil er dich am besten kennt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Seine Verheißung, sie gilt auch dir,
+wenn er dir sagt: Komm her zu mir.
+Er will dein guter Hirte sein,
+gestern, morgen und auch heut.</lines>
+    </verse>
+  </lyrics>
+</song>

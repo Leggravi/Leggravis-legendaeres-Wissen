@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Meine Zeit steht in deinen Händen</title>
+    </titles>
+    <authors>
+      <author type="words">Peter Strauch</author>
+      <author type="music">Peter Strauch</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meine Zeit steht in deinen Händen.
+Nun kann ich ruhig sein, ruhig sein in dir.
+Du gibst Geborgenheit, du kannst alles wenden.
+Gib mir ein festes Herz, mach es fest in dir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sorgen quälen und werden mir zu groß.
+Mutlos frag ich: Was wird Morgen sein?
+Doch du liebst mich, du lässt mich nicht los.
+Vater, du wirst bei mir sein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hast und Eile, Zeitnot und Betrieb
+nehmen mich gefangen, jagen mich.
+Herr ich rufe: Komm und mach mich frei!
+Führe du mich Schritt für Schritt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Es gibt Tage die bleiben ohne Sinn.
+hilflos seh ich wie die Zeit verrinnt.
+Stunden, Tage, Jahre gehen hin,
+und ich frag, wo sie geblieben sind.</lines>
+    </verse>
+  </lyrics>
+</song>

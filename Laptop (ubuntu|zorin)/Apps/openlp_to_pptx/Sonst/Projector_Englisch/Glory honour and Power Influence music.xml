@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Glory, honour and Power (Influence music)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Most worthy, worthy of praise
+Exalted above all things my God
+You are my God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your splendor and majesty
+Your wonder fills everything
+My God, You are my God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy is the Lord,
+Holy is the Lord, Almighty,
+Seated on the throne
+Seated on the throne of glory
+High and lifted up
+Your presence fills the temple when we worship You
+Oh we worship You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Creation points to the King
+The heavens can't help but sing to You
+To You, our God</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hallelujah, to the one who came and made a way
+Hallelujah, to the one who died and rose again
+Hallelujah, to the only name above all names
+Glory and honor and power forever.</lines>
+    </verse>
+  </lyrics>
+</song>

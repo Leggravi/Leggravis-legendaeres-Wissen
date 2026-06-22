@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Unseen Hand #2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There Is An Unseen Hand To Me
+That Leads Through Ways
+I Cannot See.
+While Going Through
+This World Of Woe
+This Hand Still Leads Me As I Go.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’m Trusting To The Unseen Hand,
+That Guides Me,
+Through This Weary Land.
+And Some Sweet Day,
+I’ll Reach That Strand,
+Still Guided By The,
+Unseen Hand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His Hand Has Led Through
+The Shadows Drear
+And While It Leads I Have No Fear.
+I Know It’ll Lead Me To That Home
+Where Sin Or Sorrow Never Shall Come.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I Long To See My Savior’s Face,
+And Sing The Story Saved By Grace.
+And There Upon That Golden Strand
+I’ll Thank Him
+For His Guiding Hand.</lines>
+    </verse>
+  </lyrics>
+</song>

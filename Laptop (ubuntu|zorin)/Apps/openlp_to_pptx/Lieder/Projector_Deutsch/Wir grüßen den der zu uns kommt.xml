@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir grüßen den, der zu uns kommt</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Schnitter</author>
+      <author type="music">Gerhard Schnitter</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir grüßen den, der zu uns kommt,
+um uns das Heil zu bringen.
+Willkommen hier in unsrer Welt.
+Wir wollen für dich singen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hosianna, Hosianna!
+Willkommen Davids Sohn!
+Hosianna, Hosianna!
+Gelobt sei, der da kommt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir grüßen den, der in der Nacht
+uns leuchtet, dass wir sehen.
+Wir können nun in seinem Licht
+dem Tag entgegengehen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wir grüßen den, der anders kam,
+als man es von ihm dachte:
+ganz klein, und doch der ganzen Welt
+den off´nen Himmel brachte.</lines>
+    </verse>
+  </lyrics>
+</song>

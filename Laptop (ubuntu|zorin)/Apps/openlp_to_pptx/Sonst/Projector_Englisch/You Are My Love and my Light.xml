@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Are My Love and my Light</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: You are my love and my light
+You are my purpose for living
+You are my hope in the night
+My reason for singing
+You bring the joy to my life
+(And You're) Making it better and better
+And I will give thanks forever and ever :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Will we ever know
+What we have been given
+He has chosen us and called us His own
+Flowing from His throne
+There is a river
+Bringing life and health wherever it goes</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are my love and my light
+You are my purpose for living
+You are my hope in the night
+My reason for singing
+You bring the joy to my life
+(And You're) Making it better and better
+And I will give thanks forever and ever</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We will bless You name
+Always and ever
+And offer up the sacrifices of praise
+Teach us Lord we pray
+To live in Your presence
+Make us more and more
+Like You everyday</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ooh. . What a joy to know
+Ooh. . The Father loves us all</lines>
+    </verse>
+  </lyrics>
+</song>

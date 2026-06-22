@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Vom Aufgang der Sonne </title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Paul S. Deming</author>
+      <author type="translation">From the rising of the sun</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vom Aufgang der Sonne bis zu ihrem Niedergang 
+sei gelobt der Name des Herrn!:|
+Preiset den Herrn, preist Ihn alle Knechte des Herrn.
+Preiset den Namen des Herrn!</lines>
+    </verse>
+  </lyrics>
+</song>

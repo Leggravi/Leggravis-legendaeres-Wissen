@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What a mighty God we serve – v2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What a mighty God we serve,
+What a mighty God we serve,
+What a mighty God we serve,
+What a mighty God we serve.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh let us sing and praise the Lord,
+Oh let us sing and praise the Lord,
+Oh let us sing and praise the Lord,
+Oh let us sing and praise the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sing Hosanna hallelujah!
+Sing Hosanna,
+Sing Hosanna,
+Sing Hosanna to the King of Kings
+Sing Hosanna,
+Sing Hosanna,
+Sing Hosanna to the King(2)</lines>
+    </verse>
+  </lyrics>
+</song>

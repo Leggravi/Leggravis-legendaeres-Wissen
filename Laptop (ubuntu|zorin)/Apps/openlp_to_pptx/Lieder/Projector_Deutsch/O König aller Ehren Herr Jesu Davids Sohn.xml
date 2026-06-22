@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O König aller Ehren, Herr Jesu, Davids Sohn</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Behm</author>
+      <author type="music">Ich freu mich in dem Herren aus meines Herzens Grund</author>
+      <author type="translation">O Jesus King of glory</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1) O König aller Ehren,
+Herr Jesu, Davids Sohn,
+dein Reich soll ewig währen,
+im Himmel ist dein Thron;
+hilf, dass allhier auf Erden
+den Menschen weit und breit
+dein Reich bekannt mög werden
+zur Seelen Seligkeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2) Von deinem Reich auch zeugen
+die Leut aus Morgenland;
+die Knie sie vor dir beugen,
+weil du ihn’ bist bekannt.
+Der neu Stern auf dich weiset,
+dazu das göttlich Wort.
+Drum man zu Recht dich preiset,
+dass du bist unser Hort.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3) Du bist ein großer König,
+wie uns die Schrift vermeld’t,
+doch achtest du gar wenig
+vergänglich Gut und Geld,
+prangst nicht auf stolzem Rosse,
+trägst keine güldne Kron,
+sitzt nicht im steinern Schlosse;
+hier hast du Spott und Hohn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4) Doch bist du schön gezieret,
+dein Glanz erstreckt sich weit,
+dein Güt allzeit regieret
+und dein Gerechtigkeit.
+Du wollst die Frommen schützen
+durch dein Macht und Gewalt,
+dass sie im Frieden sitzen,
+die Bösen stürzen bald.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5) Du wollst dich mein erbarmen,
+in dein Reich nimm mich auf,
+dein Güte schenk mir Armen
+und segne meinen Lauf.
+Mein’ Feinden wollst du wehren,
+dem Teufel, Sünd und Tod,
+dass sie mich nicht versehren;
+rett mich aus aller Not.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6) Du wollst in mir entzünden
+dein Wort, den schönen Stern,
+dass falsche Lehr und Sünden
+sein meinem Herzen fern.
+Hilf, dass ich dich erkenne
+und mit der Christenheit
+dich meinen König nenne
+jetzt und in Ewigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

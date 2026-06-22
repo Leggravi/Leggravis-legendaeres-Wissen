@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My God and I</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v2 v3 v4 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My God and I go in the fields together
+We walk and talk as good friends should and do</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We clasp our hands, our voices ring with laughter
+My God and I walk through the meadows few</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My God and I will go for aye together
+We'll walk and talk as good friends should and do</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This earth will pass, and with it common trifles
+But God and I will go unendingly</lines>
+    </verse>
+  </lyrics>
+</song>

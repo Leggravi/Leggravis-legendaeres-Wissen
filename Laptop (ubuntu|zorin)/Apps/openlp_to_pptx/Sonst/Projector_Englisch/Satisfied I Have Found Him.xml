@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Satisfied (I Have Found Him)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All my lifelong I have panted
+For a drink from some cool spring
+That I hoped would quench the burning
+Of the thirst I felt within</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh Hallelujah! I have found Him
+Whom my soul so long has craved!
+Jesus satisfies my longing
+Through His blood I now am saved</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Feeding on the husks around me
+Till my strength was almost gone
+Longed my soul for something better
+Only still to hunger on</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hallelujah! I have found Him
+Whom my soul so long has craved!
+Jesus satisfies my longings
+Through His blood I now am saved</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Well of water, ever springing
+Bread of life so rich and free
+Untold wealth that never faileth
+My Redeemer is to me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hallelujah! I have found Him
+Whom my soul so long has craved!
+Jesus satisfies my longing
+Through His blood I now am saved
+Through His blood I now am saved
+Through His blood I now am saved</lines>
+    </verse>
+  </lyrics>
+</song>

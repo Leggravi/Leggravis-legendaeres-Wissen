@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There's gonna be a revival in the Land</title>
+    </titles>
+    <authors>
+      <author type="words">Afrika</author>
+      <author type="music">Markus Detterbeck</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There’s gonna be a revival in the land
+There’s gonna be a revival in the land
+From the North to the South
+From the East and to the West
+There’s gonna be a revival
+There’s gonna be a revival
+There’s gonna be a revival in the land</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>SUCH LOVE   187 </title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>That God should love a sinner such as I, 
+Should yearn to change my sorrow into bliss, 
+Nor rest till He had planned to bring me nigh, 
+How wonderful is love like this!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Such love, such wondrous love,
+Such love, such wondrous love,
+That God should love a sinner such as I,
+How wonderful is love like this!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>That Christ should join so freely in the scheme, 
+Although it meant His death on Calvary, 
+Did ever human tongue find nobler theme 
+Than Love divine that ransomed me?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>That for a willful outcast such as I,
+The Father planned, the Saviour bled and died; 
+Redemption for a worthless slave to buy, 
+Who long had law and grace defied.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And now He takes me to His heart, a son, 
+He asks me not to fill a servant’s place; 
+The “far-off country” wand’rings all are done, 
+Wide open are His arms of grace.</lines>
+    </verse>
+  </lyrics>
+</song>

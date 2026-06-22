@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sag nicht nein, Gott ruft auch dich.</title>
+    </titles>
+    <authors>
+      <author type="words">Manfred Paul</author>
+      <author type="music">Hildor Janz</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sag nicht nein, Gott ruft auch dich,
+sieht, wie es um dich steht.
+Sag nicht nein,
+wenn dir sein Wort tief zu Herzen geht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sieh, er liebt dich, nimmt deine
+Sünden und die Lasten dir fort.
+Neues Leben will er geben.
+Komm und glaube seinem Wort.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sag nicht nein, denn deine Zeit
+liegt nicht in deiner Hand.
+Sag nicht nein, die Zeit vergeht,
+wie die Spur im Sand.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sag doch ja, er liebt dich so
+und gab sein Leben hin.
+Sag doch ja, er ist dein
+Ziel und des Lebens Sinn.</lines>
+    </verse>
+  </lyrics>
+</song>

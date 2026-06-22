@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Redeemer, Savior, Friend</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know You had me on Your mind
+When You climbed up on that hill
+For You saw me with eternal eyes
+While I was yet in sin
+Redeemer Savior Friend</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Every stripe upon Your battered back
+Every thorn that pierced Your brow
+Every nail drove deep through guiltless hands
+Said that Your love knows no end
+Redeemer Savior Friend</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Redeemer redeem my heart again
+Savior come and shelter me from sin
+You're familiar with my weakness
+Devoted to the end
+Redeemer Savior Friend</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So the grace You poured upon my life
+Will return to You in praise
+I'll gladly lay down all my crowns
+For the name of which I am saved
+Redeemer Savior Friend</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Redeemer redeem my heart again
+Savior come and shelter me from sin
+You're familiar with my weakness
+Devoted to the end
+Redeemer Savior Friend
+Redeemer Savior Friend
+Redeemer Savior Friend</lines>
+    </verse>
+  </lyrics>
+</song>

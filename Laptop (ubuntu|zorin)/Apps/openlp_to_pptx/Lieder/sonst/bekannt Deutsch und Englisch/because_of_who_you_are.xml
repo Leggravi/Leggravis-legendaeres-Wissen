@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Mar 28, 2021, 8:27:17 PM">
+  <properties>
+    <titles>
+      <title>Because of Who You Are</title>
+    </titles>
+    <verseOrder>C1 C1 V2 C1 V3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="C1">
+      <lines>Because of who You are
+I give you Glory
+Because of who You are
+I give you Praise
+Because of who You are
+I will lift my voice and say
+Lord, I worship you
+Because of who You are
+Lord, I worship you
+Because of who You are</lines>
+    </verse>
+    <verse name="V2">
+      <lines>You are…
+My Jehovah Jireh
+My Provider
+Jehovah Nissi
+Join to Great Victory
+Jehovah Shalom
+My Prince of Peace
+And I Worship You
+Because of who You are</lines>
+    </verse>
+    <verse name="V3">
+      <lines>And I Worship You
+Because of who
+And I Worship You
+Because of who In the second time
+And I Worship You
+Because of who You are</lines>
+    </verse>
+  </lyrics>
+</song>

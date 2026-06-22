@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Three Nails Instead</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From His glory, He came down
+God in flesh and bone,
+Set aside His royal crown
+For a lowly, dusty robe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If that doesn't sound like &quot;I love you!&quot;
+Then hear what Calvary has to say.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The cross must have whispered
+And the spear must have shouted,
+The crown of thorns revealed what must be said
+Though &quot;I love you!&quot; wasn't spoken
+From the lips of the Savior
+He said, &quot;I love you!&quot; with three nails instead.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Every stripe upon His back
+Was mercy in disguise,
+Tears of sorrow pourin' out
+Was redemption in His eyes</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Have you ever felt unloved?
+Have you ever felt ashamed?
+Have you ever felt abandoned
+By the sin that bears your name?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Though &quot;I love you!&quot; wasn't spoken
+From the lips of the Savior
+He said, &quot;I love you!&quot; with three nails instead.</lines>
+    </verse>
+  </lyrics>
+</song>

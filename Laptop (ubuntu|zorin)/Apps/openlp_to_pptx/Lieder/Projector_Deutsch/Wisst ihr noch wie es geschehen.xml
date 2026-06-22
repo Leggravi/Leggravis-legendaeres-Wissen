@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wisst ihr noch, wie es geschehen</title>
+    </titles>
+    <authors>
+      <author type="words">Hermann Claudius</author>
+      <author type="music">Christian Lahusen</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wisst ihr noch, wie es geschehen?
+Immer werden wir′s erzählen:
+Wie wir einst den Stern gesehen
+Mitten in der dunklen Nacht,
+Mitten in der dunklen Nacht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Stille war es um die Herde.
+Und auf einmal war ein Leuchten
+Und ein Singen ob der Erde,
+Daß das Kind geboren sei,
+Daß das Kind geboren sei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eilte jeder, dass er's sähe
+Arm in einer Krippe liegen.
+Und wir fühlten Gottes Nähe.
+Und wir beteten es an,
+Und wir beteten es an.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Könige aus Morgenlanden
+Kamen reich und hoch geritten,
+Dass sie auch das Kindlein fanden.
+Und sie beteten es an,
+Und sie beteten es an.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Und es sang aus Himmelshallen:
+Ehr sei Gott! Auf Erden Frieden!
+Allen Menschen Wohlgefallen,
+Welche guten Willens sind!
+Welche guten Willens sind!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Immer werden wir′s erzählen,
+Wie das Wunder einst geschehen
+Und wie wir den Stern gesehen
+Mitten in der dunklen Nacht,
+Mitten in der dunklen Nacht.</lines>
+    </verse>
+  </lyrics>
+</song>

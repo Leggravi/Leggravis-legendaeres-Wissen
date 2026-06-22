@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dich, o Vater, zu verehren</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Johann Jakob Walder</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dich, o Vater, zu verehren,
+Dir zu bringen Preis und Dank,
+Ist das einzige Begehren,
+Wenn wir nahn mit Lobgesang.
+Es erquicket uns Dein Friede,
+In uns wohnt und zeugt Dein Geist,
+Deine Liebe wird nicht müde,
+Immer sie sich treu erweist.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deiner Obhut übergeben,
+Trägst Du uns bei Tag und Nacht.
+Wer kann, Vater, g'nug erheben
+Deine Liebe, Gnad' und Macht?
+Da wir arm und Sünder waren,
+Gabst Du ja das Liebste schon,
+Da wir nichts als Feinde waren,
+Starb für uns Dein eigner Sohn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Deiner Liebe reiche Fülle
+Alles Denken übersteigt,
+Hast sie völlig ohne Hülle
+In dem Sohne uns gezeigt.
+Und von Deiner Liebe singen,
+Ist des Herzens wahre Freud',
+Ehre, Lob und Dank Dir bringen,
+Ist für uns nur Seligkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

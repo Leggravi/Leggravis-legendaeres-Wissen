@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:02">
+  <properties>
+    <titles>
+      <title>Von guten Mächten wunderbar geborgen</title>
+    </titles>
+    <authors>
+      <author type="words">Dietrich Bonhoeffer (1944)</author>
+      <author type="music">Manfred Schlenker</author>
+    </authors>
+    <ccliNo>4891516</ccliNo>
+    <themes>
+      <theme>Silvester</theme>
+      <theme>Neujahr</theme>
+      <theme>Jahreswechsel</theme>
+      <theme>Jahreswende</theme>
+      <theme>Jahresende</theme>
+      <theme>Vertrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Von guten Mächten treu und still umgeben,
+behütet und getröstet wunderbar,
+so will ich diese Tage mit euch leben
+und mit euch gehen in ein neues Jahr.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Noch will das Alte unsre Herzen quälen,
+noch drückt uns böser Tage schwere Last.
+Ach Herr, gib unsern aufgeschreckten Seelen
+das Heil, für das du uns geschaffen hast.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und reichst du uns den schweren Kelch, den bittern
+des Leids, gefüllt bis an den höchsten Rand,
+so nehmen wir ihn dankbar ohne Zittern
+aus deiner guten und geliebten Hand.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Doch willst du uns noch einmal Freude schenken
+an dieser Welt und ihrer Sonne Glanz,
+dann wolln wir des Vergangenen gedenken,
+und dann gehört dir unser Leben ganz.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lass warm und hell die Kerzen heute flammen,
+die du in unsre Dunkelheit gebracht,
+führ, wenn es sein kann, wieder uns zusammen.
+Wir wissen es, dein Licht scheint in der Nacht.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wenn sich die Stille nun tief um uns breitet,
+so lass uns hören jenen vollen Klang
+der Welt, die unsichtbar sich um uns weitet,
+all deiner Kinder hohen Lobgesang.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Von guten Mächten wunderbar geborgen,
+erwarten wir getrost, was kommen mag.
+Gott ist bei uns am Abend und am Morgen
+und ganz gewiss an jedem neuen Tag.</lines>
+    </verse>
+  </lyrics>
+</song>

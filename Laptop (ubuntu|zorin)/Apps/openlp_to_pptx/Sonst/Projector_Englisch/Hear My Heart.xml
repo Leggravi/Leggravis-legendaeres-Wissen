@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hear My Heart</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sometimes I feel no one's ever been in this place before
+This is hard and I'm not sure that I can do this anymore
+I know some day I&quot;ll look back, and all this won't seem real
+But Lord right now I need You to know just how I feel</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When there are no words to say and no prayer that I can pray
+hear my heart, when I don't have strength to try
+and I've cried all I can cry hear my heart
+Cause You know every fear and every doubt I cannot speak
+You know all the ways I need You and all the ways I'm weak
+So I'll be quiet so You can hear my heart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Every now and then I recall a simple phrase or melody
+It comforts and it quiets, lifts me up and then it carries me
+Far above the pain and hurt I think will never end
+The song speaks words I cannot and it calms the fears within</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When there are no words to say and no prayer that I can pray
+hear my heart, When I don't have strength to try
+and I've cried all I can cry hear my heart
+Cause You know every fear and every doubt I cannot speak
+You know all the ways I need You and all the ways I'm weak
+So I'll be quiet so You can hear my heart.
+Lord I'll be quiet so You can hear my heart</lines>
+    </verse>
+  </lyrics>
+</song>

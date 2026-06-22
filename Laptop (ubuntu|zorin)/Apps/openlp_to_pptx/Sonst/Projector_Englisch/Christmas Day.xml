@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Christmas Day</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Osgood</author>
+      <author type="music">Matt Osgood</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Joy to the world
+On a night like no other
+Emmanuel, God is with us
+Beggars and kings
+Let us come and adore Him
+Rest in His peace
+And bow before Him</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sing all you people
+The Lord Almighty reigns
+Sing every creature of God
+Come bless His name
+For He is good, for He is good
+He was born to conquer the grave
+Light of the world
+The reason for Christmas Day</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Stars we have seen
+Over deserts and oceans
+The darkness was deep
+But never hopeless
+Redemption came
+And His name is Jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>From the mountains
+We will shout it out
+For the Lord our God Almighty reigns
+He is with us
+He is with us now
+For the Lord our God Almighty reigns</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sing all you people
+The Lord Almighty reigns
+Sing every creature of God
+Come bless His name
+For He is good, for He is good
+He was born to conquer the grave
+Light of the world
+The reason for Christmas</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Sing all you people
+The Lord Almighty reigns
+Sing every creature of God
+Come bless His name
+For He is good, for He is good
+He was born to conquer the grave
+Light of the world
+The reason for Christmas Day
+Light of the world
+The reason for Christmas Day</lines>
+    </verse>
+  </lyrics>
+</song>

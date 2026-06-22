@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Mar 29, 2021, 8:36:09 PM">
+  <properties>
+    <titles>
+      <title>Giving My Life Away</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>I've seen a vision harsh and sweet
+One who gave all He had for me
+I've seen the passion of His death
+And the forgiveness in His final breath
+Now I can never be the same
+My heart has been forever changed
+I've got to live and love and give because He gave</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Now I'm giving my life away
+Laying it down on the altar
+Now I'm giving my life away
+The very least I can offer is my all
+So here I stand today
+Giving my life away</lines>
+    </verse>
+    <verse name="V3">
+      <lines>No earthly price could be too great
+No sacrifice too much to make
+No way to measuring the cost
+Next to the blood of Calvary's cross
+So if I live, I live for Him
+Or if I die, I count it gain
+My life is not my own, but
+His from this day on</lines>
+    </verse>
+  </lyrics>
+</song>

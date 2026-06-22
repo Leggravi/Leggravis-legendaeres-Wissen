@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let Go Of The Old</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let, let go of the old,
+And lay, lay hold on the new,
+In laying it down a new life is found
+There a new life waits for you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cast your bread upon the waters
+After many days it shall return.
+If you pour out your soul
+Not a part, but the whole
+A new life is there for you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In saving your life, you will lose it,
+But by losing it, you will find it,
+Down in the ground
+That's where death is found,
+Death that brings life anew.</lines>
+    </verse>
+  </lyrics>
+</song>

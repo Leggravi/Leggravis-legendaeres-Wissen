@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du, Herr, bist mein, o welche Gnade</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Dmitri Stepanowitsch Bortnjanski</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du, Herr, bist mein, o welche Gnade!
+O welche Huld, ich bin jetzt Dein!
+Was könnt' auf meinem Pilgerpfade
+Noch köstlicher, noch höher sein?
+Was mich erfreut, was mich erquicket,
+In Dir mein Glaube stets erblicket.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist am Kreuz für mich gestorben,
+Dort nahmst Du meine Stelle ein.
+Dein Blut hat völlig mich erworben,
+Mit Leib und Seele bin ich Dein.
+Dein Sklave sein ist größre Ehre,
+Als König über Land und Heere.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich hab' genug, weil Dich ich habe,
+Mein Geist frohlocket inniglich.
+Wo findet eine solche Gabe
+Auf Erden und im Himmel sich?
+Mein Herz, zu groß für alle Dinge,
+Zu klein, als dass es Dich umfinge.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich ruhe jetzt in Deiner Liebe,
+Die all' Erkenntnis übersteigt,
+Genieße ihre süßen Triebe,
+Die mein Verstand hier nie begreift.
+Doch ob ihr Meer ich nicht ergründe,
+Du bist der Fels, wo Ruh' ich finde.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O Dank Dir, Jesu, Ruhm und Ehre
+Gebühren Dir, nur Dir allein.
+Dir ganz zu leben ich begehre,
+Mein ganzes Herz nur Dir zu weihn,
+Damit selbst in den schwersten Proben
+An mir Dein Name werd' erhoben.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I See Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Susan Hutchinson</author>
+      <author type="music">Susan Hutchinson</author>
+      <author type="translation">Wir sehen Jesus hoch auf dem Thron</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Once a man named Stephen
+preached about the Lord,
+Folks were saved and folks
+were healed,
+as they heard his word,
+Satan did not like it
+soon he had his crowd,
+As they tried him,
+they heard Stephen cry aloud:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I see Jesus standing at the
+Father’s right hand,
+I see Jesus yonder in the
+Promised Land,
+Work here Is over,
+now I’m coming to Thee,
+I see Jesus,
+standing waiting for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As the stones fell on him,
+beating out his life,
+Stephen knew he would be through
+with all trials and strives,
+And so much like the Master
+with a heart so true (he prayed)
+&quot;Lord forgive them,
+for they know not what they do.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Through the gates of glory,
+down the streets of gold,
+Marched the hero of the Lord
+into heaven’s fold,
+As he met his Master
+at the great white Throne
+I believe He smiled and said:
+Stephen welcome home!</lines>
+    </verse>
+  </lyrics>
+</song>

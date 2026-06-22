@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich bete an die Macht der Liebe</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Tersteegen</author>
+      <author type="music">Dmitri Stepanowitsch Bortnjanski</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich bete an die Macht der Liebe,
+die sich in Jesus offenbart.
+Ich geb' mich hin dem freien Triebe,
+wodurch auch ich geliebet ward.
+Ich will, anstatt an mich zu denken,
+ins Meer der Liebe mich versenken.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wie bist du mir so sehr gewogen
+und wie verlangt dein Herz nach mir!
+Durch Liebe sanft und stark gezogen,
+neigt sich mein alles auch zu dir.
+Du traute Liebe, gutes Wesen,
+du hast mich, ich hab dich erlesen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Für dich sei ganz mein Herz und Leben,
+Erlöser du, mein einzig Gut.
+Du hast für mich dich hingegeben
+zum Heil durch dein Erlösungsblut.
+O Heiland meines tiefen Falles!
+Für dich ist ewig Herz und alles.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Jesu, dass dein Name bliebe
+im Grunde tief gedrückt ein!
+möcht' deine süße Jesusliebe
+in Herz und Sinn gepräget sein!
+In Wort, im Werk, in allem Wesen
+sei Jesus und sonst nichts zu lesen.</lines>
+    </verse>
+  </lyrics>
+</song>

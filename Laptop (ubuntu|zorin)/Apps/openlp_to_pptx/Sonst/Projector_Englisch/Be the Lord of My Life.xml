@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Be the Lord of My Life</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A sky without a North Star
+A ship without an anchor
+Caught up in the current
+My heart is prone to wander
+All the roads I've taken
+Lead me back to nowhere
+You're the destination
+You're the way to get there
+You can have it all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be the song I sing
+Be my guiding light
+Savior of my soul
+Be the Lord of my life
+Every step I take
+Always by my side
+I am yours, You are mine
+Be the Lord of my life</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mercies never failing
+Forgiveness overflowing
+The beauty You're unveiling
+A love that just keeps growing
+This is all I want
+I surrender all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I wanna go where you go
+Wanna move where you move
+Wanna love who you love
+Watch it break on through</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Be the song I sing
+Be my guiding light
+Savior of my soul
+Be the Lord of my life
+Every step I take
+Always by my side
+I am yours, You are mine
+Be the Lord of my life
+I am yours, You are mine
+Be the Lord of my life
+I am yours, You are mine
+Be the Lord of my life</lines>
+    </verse>
+  </lyrics>
+</song>

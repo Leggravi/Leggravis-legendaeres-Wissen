@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>At the Foot of the Cross</title>
+    </titles>
+    <authors>
+      <author type="words">Derek Bond</author>
+      <author type="music">Derek Bond</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>And being found in the form of man, He came to the earth
+He humbled Himself in love, to show us our worth
+Obedient to death, even death on the tree
+At the cross, He poured out His life to set us free</lines>
+    </verse>
+    <verse name="v2">
+      <lines>At the foot of the cross, I lay it all down
+My pride and my will, I give up my crown
+In the shadow of grace, where mercy is found
+At the foot of the cross, true peace will abound</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Whoever exalts Himself will be brought down low
+But the humble in heart God's grace will show
+With a contrite spirit, He hears every plea
+At the cross, He draws near to those who bends the knee</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For God opposes the proud, but gives grace to the meek
+In the shadow of His wings, it's His face we seek
+He lifts up the lowly, the humble find grace
+And lights our path, so we can finish the race</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Come to Me, all who labor, I'll give you My rest
+The burden is light when we lean on His chest
+Take the yoke of the Savior, be humble and learn
+At the cross, where our fleshly ambitions burn</lines>
+    </verse>
+    <verse name="v6">
+      <lines>He washed His disciples feet with humble care
+The King took the form of a servant beyond compare
+Whoever would serve must be lowest of all
+At the cross, we answer His humbling call</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Let thus mind be in you, the Spirit urges us search
+That was in Christ, Who emptied Himself for the Church
+With every step, may we follow His lead
+At the cross, we find all we could ever need</lines>
+    </verse>
+  </lyrics>
+</song>

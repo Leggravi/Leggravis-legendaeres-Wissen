@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Water From The Well</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Give me water from the well
+that never runs dry
+Give me water from the well
+that gives me hope when I die.
+Give me water from the well
+that never runs dry.
+And I will thirst no more.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Living water flowing from above
+Through the Spirit
+of never ending love.
+And I'm the first to declare
+my longing thirst
+For the water that comes from above.</lines>
+    </verse>
+  </lyrics>
+</song>

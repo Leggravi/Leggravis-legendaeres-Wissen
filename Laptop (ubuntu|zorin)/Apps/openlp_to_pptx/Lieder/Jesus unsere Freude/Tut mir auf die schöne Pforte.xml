@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:53">
+  <properties>
+    <titles>
+      <title>Tut mir auf die schöne Pforte</title>
+    </titles>
+    <authors>
+      <author type="words">Benjamin Schmolck (1734)</author>
+      <author type="music">Joachim Neander</author>
+    </authors>
+    <ccliNo>5224807</ccliNo>
+    <themes>
+      <theme>Eingang</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tut mir auf die schöne Pforte,
+führt in Gottes Haus mich ein;
+ach wie wird an diesem Orte
+meine Seele fröhlich sein!
+Hier ist Gottes Angesicht,
+hier ist lauter Trost und Licht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich bin, Herr, zu dir gekommen,
+komme du nun auch zu mir.
+Wo du Wohnung hast genommen,
+da ist lauter Himmel hier.
+Zieh in meinem Herzen ein,
+lass es deinen Tempel sein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lass in Furcht mich vor dich treten,
+heilige du Leib und Geist,
+dass mein Singen und mein Beten
+ein gefällig Opfer heißt.
+Heilige du Mund und Ohr,
+zieh das Herze ganz empor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mache mich zum guten Lande,
+wenn dein Samkorn auf mich fällt.
+Gib mir Licht in dem Verstande
+und, was mir wird vorgestellt,
+präge du im Herzen ein,
+lass es mir zur Frucht gedeihn.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Stärk in mir den schwachen Glauben,
+lass dein teures Kleinod mir
+nimmer aus dem Herzen rauben,
+halte mir dein Wort stets für,
+dass es mir zum Leitstern dient
+und zum Trost im Herzen grünt.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Rede, Herr, so will ich hören,
+und dein Wille werd erfüllt;
+nichts lass meine Andacht stören,
+wenn der Brunn des Lebens quillt;
+speise mich mit Himmelsbrot,
+tröste mich in aller Not.</lines>
+    </verse>
+  </lyrics>
+</song>

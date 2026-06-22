@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Would Not Be Denied</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When pangs of death
+Seized on my soul,
+Unto the Lord I cried,
+Till Jesus came and
+  made me whole,
+I would not be denied.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I would not be denied,
+I would not be denied,
+Till Jesus came and
+  made me whole,
+I would not be denied.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As Jacob in the days of old,
+I wrestled with the Lord;
+And instant, with
+  a courage bold,
+I stood upon His word.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Old Satan said my Lord
+  was gone
+And would not hear my prayer,
+But, praise the Lord!
+The work is done
+And Christ the Lord is here.</lines>
+    </verse>
+  </lyrics>
+</song>

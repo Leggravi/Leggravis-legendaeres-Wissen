@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Freund der Deinen!</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Freund der Deinen!
+Bald dann weinen
+Gottes Pilger nicht mehr hier.
+Du kommst wieder,
+Steigst hernieder,
+Nimmst hinweg all Deine Glieder,
+Führest sie hinauf zu Dir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Welche Freude
+Hier im Leide
+Gibt uns diese Hoffnung schon!
+Doch erhoben,
+Werden droben
+Wir Dich ewig lieben, loben,
+Jauchzen stets vor Deinem Thron.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Diese Erde,
+Voll Beschwerde,
+Hat nichts mehr für unser Herz.
+Uns erquicket
+Und beglücket,
+Was der Glaube dort erblicket,
+Wo beendet jeder Schmerz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Allen Proben
+Bald enthoben,
+Werden dort wir schauen Dich.
+Und am Throne
+Wird die Krone
+Den Bewährten dann zum Lohne,
+Und sie ruhen ewiglich.</lines>
+    </verse>
+  </lyrics>
+</song>

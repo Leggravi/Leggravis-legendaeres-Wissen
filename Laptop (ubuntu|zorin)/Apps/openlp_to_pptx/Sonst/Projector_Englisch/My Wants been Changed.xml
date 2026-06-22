@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Want's been Changed</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I became a Christian, everything seemed fine
+I was happy as could be
+But all my old friends said,&quot; you're out of your mind, girl
+Now you're no longer free&quot;.
+I never could understand their rage
+It's not like I'm a bird in a cage
+Liberty came to me that day
+So, this is all I have to say:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Well, it's true I can do whatever I want,
+But my want's been rearranged
+Jesus came in, saved from sin, and there's bee a huge change
+Well, I used to want all the world could give,
+But I've chosen not to die but to live
+Well, it's true I can do whatever I want,
+But my want's been changed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now, everyday, I'm walkin' and I'm talkin' with Him
+He's a precious friend to me
+Never more to want, yeah, I'm filled to the brim
+with contentment eternally
+So, if you've been searchin',
+Here's some advice:
+I've truly found there's none good but Christ
+Freedom will come to you that day
+And this is all you'll have to say:</lines>
+    </verse>
+  </lyrics>
+</song>

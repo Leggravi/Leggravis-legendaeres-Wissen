@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dank Dir, o Herr, dass Gold und Schätze</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Scheffler</author>
+      <author type="music">Gerhard Wagner</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dank Dir, o Herr, dass Gold und Schätze
+Und Pracht und Schönheit dieser Welt,
+Dass kein Ding je mich kann ergötzen,
+Das mir die Welt vor Augen stellt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mein Jesus, Du bist meine Freude,
+Mein Gold, mein Schatz, mein schönstes Bild.
+Nur Du bist meine Lust und Weide,
+Und was mein Herz für ewig stillt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du bist allein mein Licht und Leben,
+Die Wahrheit selbst, das ew'ge Wort.
+Du bist der Stamm unzähl'ger Reben,
+Bist meiner Seele Fels und Hort.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dein Reichtum ist nicht zu ergründen,
+Und Deine Treue wanket nicht;
+Und alles, was in Dir zu finden,
+Erbleichet und veraltet nicht.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Du wirst mich bald zu Dir erheben,
+Mir zeigen Deine Herrlichkeit.
+Ich werde ewig mit Dir leben,
+Dein Antlitz schauen allezeit.</lines>
+    </verse>
+  </lyrics>
+</song>

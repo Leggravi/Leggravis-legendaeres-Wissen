@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Need No Other Argument</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My faith has found a resting place,
+Not in device or creed,
+I trust the Ever-living One,
+His wounds for me shall plead.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I need no other argument,
+I need no other plea,
+It is enough that Jesus died,
+And that He died for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Enough for me that Jesus saves,
+This ends my fear and doubt,
+A sinful soul I come to Him,
+He'll never cast me out.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My heart is leaning on the Word,
+The written Word of God,
+Salvation by my Saviour's Name,
+Salvation through His blood.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My Great Physician heals the sick,
+The lost He came to save;
+For me His precious blood He shed,
+For me His life He gave.</lines>
+    </verse>
+  </lyrics>
+</song>

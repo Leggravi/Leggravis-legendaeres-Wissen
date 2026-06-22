@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Our Whole Purpose in Being Here (2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our whole purpose in being here
+Is to spread the good news
+Our whole purpose in being here is to shine
+And as the moon reflects the sun
+We reflect the Son of God
+Our whole purpose in being here is to shine</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He made the stars in every galaxy
+the sun and the moon reflects His glory
+they all in the purpose they were meant to be
+the sun each day is shining so bright
+the moon reflects the light in the night</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A lot of times we wonder why we came to be
+Our purpose in life seems such a myster
+but we're all part of God's economy
+the Son of God is shining so bright
+and we reflect the light in the night</lines>
+    </verse>
+  </lyrics>
+</song>

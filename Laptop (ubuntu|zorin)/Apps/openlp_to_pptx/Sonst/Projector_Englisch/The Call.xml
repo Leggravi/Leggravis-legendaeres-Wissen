@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Call</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Can you feel it now? That strange call to Eden
+A deep somewhere is calling me to, a view from the other side.
+My amnesia is leaving me as I hear your word.
+I understand who I am and, a certain sound I heard from heaven say!
+&quot;Come up hither&quot;, &quot;come up higher&quot; to things that are to be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have recognize your voice and I've gladly made my choice
+To walk in this narrow way in His broody footprints.
+I am preparing every day for my mansion over there
+His pyramid is pushing up from the inside.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I heard your voice,
+I answered &quot;here I am&quot;.
+I separated from the thing I used to do
+Now I'm living in an atmosphere of heavenly
+The joys bell ring now I can sing that I have been redeemed
+by you blood you have met me.
+You have saved me.
+Now I have been set free.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>His transforming power's changing me
+from mortal to immortality
+my Angel beholds my father's face;
+My theophany</lines>
+    </verse>
+  </lyrics>
+</song>

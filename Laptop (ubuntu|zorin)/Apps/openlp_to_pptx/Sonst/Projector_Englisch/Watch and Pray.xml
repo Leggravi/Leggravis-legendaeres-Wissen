@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Watch and Pray</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Don’t you want to go with
+Him to glory land?
+Don’t you want to be found
+of that heavenly land?
+Don’t you want to be with
+Jesus some wonderful day?
+Sharing His glory;
+then watch and pray.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Watch and pray if you would
+enter in,
+Watch and pray that you be free
+from sin
+Our Lord is coming to catch
+His bride away
+If you want to go with Him
+Then watch and pray,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now you better be repenting
+from all your sins
+Ask the Holy Spirit to
+dwell within
+Live a holy life, from day to day
+Waiting for His coming,
+then watch and pray.</lines>
+    </verse>
+  </lyrics>
+</song>

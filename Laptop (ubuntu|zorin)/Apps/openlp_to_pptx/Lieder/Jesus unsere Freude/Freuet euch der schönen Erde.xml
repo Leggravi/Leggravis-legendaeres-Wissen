@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:52">
+  <properties>
+    <titles>
+      <title>Freuet euch der schönen Erde</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Spitta (1827)</author>
+      <author type="music">Konrad Kocher</author>
+    </authors>
+    <ccliNo>4898485</ccliNo>
+    <themes>
+      <theme>Schöpfung</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Freuet euch der schönen Erde,
+denn sie ist wohl wert der Freud.
+O was hat für Herrlichkeiten
+unser Gott da ausgestreut,
+unser Gott da ausgestreut!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Und doch ist sie seiner Füße
+reich geschmückter Schemel nur,
+ist nur eine schön begabte,
+wunderreiche Kreatur,
+wunderreiche Kreatur.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Freuet euch an Mond und Sonne
+und den Sternen allzumal,
+wie sie wandeln, wie sie leuchten
+über unserm Erdental,
+über unserm Erdental.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und doch sind sie nur Geschöpfe
+von des höchsten Gottes Hand,
+hingesät auf seines Thrones
+weites, glänzendes Gewand,
+weites, glänzendes Gewand.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wenn am Schemel seiner Füße
+und am Thron schon solcher Schein,
+o was muss an seinem Herzen
+erst für Glanz und Wonne sein,
+erst für Glanz und Wonne sein.</lines>
+    </verse>
+  </lyrics>
+</song>

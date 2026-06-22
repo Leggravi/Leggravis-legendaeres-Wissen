@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You'll Never Run Out of the Blood</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You may run low on money
+You may run short on faith
+You may feel so unworthy
+To even stop and pray
+You may feel your life's destroyed
+And you're running out of love
+Oh be strong, for you'll never
+Run out of the blood.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh it covers forever
+For the rest of our days
+And it places protection
+In the paths that we take
+And forever until these bones
+Return to the dust
+Oh my friend
+You'll never run out of the blood.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Well I know that you struggle
+In your life everyday
+It seems all you've worked for
+Is being taken away
+And you're running
+Out of patience
+And you're running out of love
+Oh be strong for you'll never
+Run out of the blood.</lines>
+    </verse>
+  </lyrics>
+</song>

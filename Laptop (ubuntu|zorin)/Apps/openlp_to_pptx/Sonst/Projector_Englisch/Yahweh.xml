@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Yahweh</title>
+    </titles>
+    <authors>
+      <author type="words">Lynn DeShazo</author>
+      <author type="music">Lynn DeShazo</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v4 v4 v6 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From the first break of light
+To last days
+Every echo of time
+Every evening face
+You always been there</lines>
+    </verse>
+    <verse name="v2">
+      <lines>From a baby's first cry
+To last breathe
+Every fight in our minds
+Every victory dance
+You've always been there</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ancient One, so amazing
+Unfailing You are
+Holy One, overwhelming
+My heart with Your love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yahweh, Yahweh
+Faithful God, You're here to stay
+Yahweh, Yahweh
+Forever and always the same</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Where the sky meets the sea
+And breaks free
+When compassion and love
+Are met with me
+You've always been there</lines>
+    </verse>
+    <verse name="v6">
+      <lines>/: All consuming
+Everlasting
+God almighty
+Lord of glory :/ x8</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Alle, die auf Jesus sehn</title>
+    </titles>
+    <authors>
+      <author type="words">Helga Poppe</author>
+      <author type="music">Kommunität Gnadenthal</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alle, die auf Jesus sehn und die Sünde meiden,
+die auf graden Wegen geh'n und froh am Worte bleiben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bäumen, gepflanzt am lebend'gen Wasser gleichen sie,
+ohne zu welken, grünen und bringen sie Früchte und Samen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Denen, die sich Gottes freun, fest in ihm gegründete,
+muss ihr Tun zum Besten sein, ihr ganzes Leben kündet:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wer an Gott nicht glaubt, der gleicht leichter Spreu im Winde,
+und sein Ziel bleibt unerreicht, nicht so bei Gottes Kinde:</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wer den Willen Gottes liebt, ihn sucht zu erfüllen,
+wer mit Lust sich ihm hingibt, um Gottes Herz zu stillen.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Alle, die dem Wort vertrau‘n, kühn sich drauf verlassen,
+die auf diesen Felsen bau‘n, Jesu Sieg erfassen:</lines>
+    </verse>
+  </lyrics>
+</song>

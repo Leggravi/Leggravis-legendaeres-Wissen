@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord You're Wonderful</title>
+    </titles>
+    <authors>
+      <author type="words">Godfrey Birtill</author>
+      <author type="music">Godfrey Birtill</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord I tried to find the verses
+Say how much I really love You, Lord
+And I tried to find the verses
+Say how much I care
+But it seems like words are not enough
+To express this love I feel
+You're wonderful! So wonderful!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, You're wonderful
+In every single day, more beautiful
+Than words could ever say
+&quot;Lord, I love you!&quot;
+And all I want is more of You
+You're wonderful! You're beautiful!
+And I'm so in love with You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are there for me when no one came
+To comfort and protect me
+And You gave me strength
+to keep pressing on
+When all my strength is gone;
+You died for me upon the Cross
+You drived away my deepest doubts
+What would I do without You?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When I see Your grace and mercies
+And the love that You bestowed
+I just can't tell
+But I love You, Lord, more and more
+My desire is to please You
+In everything I do
+Just make me more like You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You're my everything
+I am nothing without You
+You are my King and I just want to say
+&quot;Lord, I love You
+And all I want is more of You
+You're wondeful, You're beautiful
+And I'm so in love with You!&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

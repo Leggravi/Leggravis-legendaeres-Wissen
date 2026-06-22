@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Im Anfang war das Wort</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Mark Hayes</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Im Anfang war das Wort
+Und das Wort war bei Gott
+Und Gott selbst war das Wort
+Im Anfang war es bei Gott.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In Ihm war das Leben
+Und das Leben war das Licht
+Es scheint in der Finsternis
+Und sie hat es nicht besiegt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alles kommt von Gott dem Wort
+Alles besteht durch Ihn allein
+Alles ist für Ihm geschaffen
+Alles ist SEIN!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Christus ist das Bild
+Des unsichtbaren Gottes
+Der erstgeborne Sohn
+Vor Anbeginn der Welt</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In IHM ist alles geschaffen
+Was im Himmel und auf Erden ist
+Vor allem andern ist ER
+Und alles besteht in IHM!</lines>
+    </verse>
+  </lyrics>
+</song>

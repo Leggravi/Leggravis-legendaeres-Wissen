@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Are Good</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are God, And I am not,
+So take Your place, Above my life
+With everything, and all I am,
+I’m holding on, Onto Your plan</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My life is not my own,
+So come and take control,
+Cause You alone are good</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are good, All the time,
+And Your love endures forever,
+You are good, All the time,
+You are good.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There’s no other name,
+No other name like Jesus
+There’s no other name,
+No other name like Jesus
+There’s no other name,
+No other name like Jesus
+There’s no other name,
+No other name like Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

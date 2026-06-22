@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Carry the light</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In this world of darkness
+We are given light
+Hope for all the dying
+How will they know
+How will they know
+That Jesus loves them
+And He died to save them</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Carry the light
+Carry the light
+Go and tell the children
+They are precious in His sight
+Carry the light
+Carry the light
+Go and preach the gospel
+'Til there is no more night
+In the name of Jesus Christ
+Carry the light</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Count them by the millions
+Blinded slaves to sin
+Inside they are dying
+How will they know
+How will they know
+That Jesus loves them
+And His heart is breaking</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Go ye into all the world
+Go ye into all the world</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And carry the light the light
+Carry the light
+Go and tell the children
+They are precious in His sight
+Carry the light
+Carry the light
+Go and preach the gospel
+'Til there is no more night
+In the name of Jesus Christ
+Carry the light</lines>
+    </verse>
+    <verse name="v6">
+      <lines>In the name of Jesus Christ
+Carry the light
+'Til there is no more night
+Carry thd light
+In the name of Jesus Christ
+Carry the light
+In the name of Jesus Christ
+Carry the light</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sing Me a Song About Calvary</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing me a song about Calvary,
+Show me Its' suffering in love
+Tell it till each part of my soul sublimes
+Thank God for the old rugged Cross.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There’s an empty tomb in Jerusalem today,
+That plainly to us testifies,
+That He who slept there no longer is dead
+But liveth and reigneth on high.
+And just as sure as He came below
+To suffer and die for my sins;
+Just as sure what I feel in my heart;
+Makes me know He’s soon coming again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>They say soon each mountain
+and each lofty place,
+Will be brought down by God’s will
+Yet in my heart for ever will stand,
+The vision of Golgotha hill.
+Cos that’s where Jesus my
+Saviour and Lord
+Gladly the sacrifice made
+So when I repented and
+came to His Throne
+There I found sins debt
+already was paid.</lines>
+    </verse>
+  </lyrics>
+</song>

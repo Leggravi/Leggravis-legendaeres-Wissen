@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lobpreiset unsern Gott</title>
+    </titles>
+    <authors>
+      <author type="words">Kommunität Gnadenthal</author>
+      <author type="music">Kommunität Gnadenthal</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lobpreiset unsern Gott, singet ihm ein neues Lied,
+der uns aus aller Not in seine Liebe rief!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Freuet euch, ich komm mit Macht und Herrlichkeit. Blikket auf
+und glaubt, mein Tag ist nicht mehr weit. Ich komm.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Er hat uns selbst gesagt: Der Vater hat euch lieb.
+Darum seid unverzagt, stellt euch auf meinen Sieg.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wer meiner Kraft vertraut, wird meine Wunder sehn,
+und meine Herrlichkeit wird allezeit mit ihm gehn.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In der Welt, da habt ihr Angst, doch ich habe sie besiegt!
+Wer meinem Namen traut, der ist es, der mich liebt.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Meine Freude sei mit Euch, auch in Dunkelheit und Streit.
+Und meine Siegesmacht führt euch in Herrlichkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

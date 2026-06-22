@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Then We Shall Be Changed</title>
+    </titles>
+    <authors>
+      <author type="words">Dottie Rambo</author>
+      <author type="music">Dottie Rambo</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We dwell in a house that’s
+fashioned of clay
+Whose foundation is clay
+That will soon pass away
+But my tent will be changed
+Some glorious day for a building
+Eternal that will never pass away</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Then we shall be changed
+oh glorious day
+Changed In a moment for the
+dead shall be raised
+Changed to be like Him
+This old house of clay,
+the trumpet shall sound
+Then we shall be changed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This old house of clay is
+too weak and so frail
+It makes us to stumble and
+falter and fail
+But God’s ever faithful to His
+loved and His own
+Through Jesus He will give us a
+beautiful home.</lines>
+    </verse>
+  </lyrics>
+</song>

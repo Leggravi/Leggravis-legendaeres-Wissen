@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Your Love Is Extravagant</title>
+    </titles>
+    <authors>
+      <author type="words">Darrell Evans</author>
+      <author type="music">Darrell Evans</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your love is extravagant
+Your friendship, it is intimate
+I feel like moving to the rhythm of Your grace
+Your fragrance is intoxicating in our secret place
+Your love is extravagant</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Spread wide in the arms of Christ is the love that covers sin
+No greater love have I ever known You
+considered me a friend
+Capture my heart again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spread wide in the arms of Christ is the love that covers sin
+No greater love have I ever known;
+You considered me a friend
+Capture my heart again
+Your love is extravagant
+Your friendship, it is intimate</lines>
+    </verse>
+  </lyrics>
+</song>

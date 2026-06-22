@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dich zu loben</title>
+    </titles>
+    <authors>
+      <author type="words">Dietrich Georg</author>
+      <author type="music">Dietrich Georg</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dich zu loben, dich zu preisen, reichen keine Menschenleben.
+Dich zu loben, dich zu ehren, reichen keine Weltenmeere.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: Herr, gepriesen sei dein Name, Herr, gepriesen sei dein Name,
+wundervoll ist dein Geheimnis, deine Liebe grenzenlos. :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr wir dürfen dir gehören für ein ganzes Menschenleben.
+Wir sind frei von allen Ketten, du allein kannst uns erretten.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Unsre Schuld hast du genommen, und wir dürfen zu dir kommen.
+Als wir völlig unten waren, durften wir dein Heil erfahren.</lines>
+    </verse>
+  </lyrics>
+</song>

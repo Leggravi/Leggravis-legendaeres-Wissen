@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Saturday Evening</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It is Saturday evening the sun
+is almost gone,
+And we are looking for the
+coming of the Lord,
+The week is past and gone the
+day is almost spent,
+And it’s Saturday evening of time.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Bible is almost fulfilled,
+His coming is at the door,
+We are living in the days He spoke about,
+When the sun shall be darkened
+and the moon won’t give It a light
+And it's Saturday evening of time.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No more will our friends
+have to leave us,
+And fight the wars across the sea
+The stars will shine there forever
+By the one who shed His
+blood at Calvary.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There will be peace on that day
+so they tell me
+For the former things of earth will
+pass away
+There will be no more sorrows
+neither crying
+For God Himself shall wipe
+away our tears.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>They say the walls are made of Jasper
+And they say the streets are pure
+gold
+And they tell me we'll have a
+lovely mansion
+And we’ll meet our loved ones
+those that are gone.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>A Generous Heart</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God loves a generous heart, a generous heart
+Yes, He does
+God loves a generous heart, a generous heart
+Cause that’s a heart like His own heart
+That’s a heart like His own</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There are those who give away
+It seems the more they give, the more they gain
+There are others who hold back
+The more they try to keep, the more they lack
+The more they lack</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God has shown us how to give
+He offered up His Son so we might live
+Jesus gave His precious blood
+To wash us clean and bring us back to God
+Back to God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We can’t out give God
+For He’s the Giver of life
+And ev’ry good thing
+We can’t out give God
+He just keeps pouring out more
+He’s the wonderful King!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Finally Home</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm awaken over this morning
+From a peaceful sleep last night
+to a new sensation I cannot explain
+I'm awake or I am dreamin
+For the thoughts tha fill my mind
+When I slumbered in the night
+had something changed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Then I knew that I had finally reached heaven
+A place that I have dreamed about so long
+I knew that I had finally reached heaven
+For all eternity I'm finally home</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Going quickly to the window
+to open up the blind
+Like I have done at least a thousand times
+Instantly to my amazing
+I will see Him more the light
+And I saw the new Jerusalem foretold</lines>
+    </verse>
+  </lyrics>
+</song>

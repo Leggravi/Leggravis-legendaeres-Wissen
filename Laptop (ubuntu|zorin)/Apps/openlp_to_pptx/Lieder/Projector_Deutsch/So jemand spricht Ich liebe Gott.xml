@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>So jemand spricht: Ich liebe Gott</title>
+    </titles>
+    <authors>
+      <author type="words">Christian Fürchtegott Gellert</author>
+      <author type="music">Machs mit mir, Gott, nach deiner Güt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>So jemand spricht: Ich liebe Gott!
+Und hasst doch seine Brüder,
+Der treibt mit Gottes Wahrheit Spott,
+Und reißt sie ganz darnieder.
+Gott ist die Lieb, und will, dass ich
+Den Nächsten liebe, gleich als mich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wer dieser Erden Güter hat,
+Und sieht die Brüder leiden,
+Und macht den Hungrigen nicht satt,
+Lässt Nackende nicht kleiden;
+Der ist ein Feind der ersten Pflicht,
+Und hat die Liebe Gottes nicht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ein Heil ist unser aller Gut.
+Ich sollte Brüder hassen,
+Die Gott durch seines Sohnes Blut
+So hoch erkaufen lassen?
+Dass Gott mich schuf, und mich versühnt,
+Hab ich dies mehr, als sie, verdient?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vergibst mir täglich so viel Schuld,
+Du Herr von meinen Tagen!
+Ich aber sollte nicht Geduld
+Mit meinen Brüdern tragen,
+Dem nicht verzeihn, dem du vergibst,
+Und den nicht lieben, den du liebst?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Was ich den Nächsten hier getan,
+Dem Kleinsten auch von diesen,
+Das sieht Er, mein Erlöser, an,
+Als hätt ich’s ihm erwiesen.
+Und ich, ich sollt ein Mensch noch sein,
+Und Gott in Brüdern nicht erfreun?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ein unbarmherziges Gericht
+Wird über den ergehen,
+Der nicht barmherzig ist, der nicht
+Die rettet, die ihn flehen.
+Drum gib mir, Gott! durch deinen Geist
+Ein Herz, das dich durch Liebe preist!</lines>
+    </verse>
+  </lyrics>
+</song>

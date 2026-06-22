@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Not by Power, Not by Might</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v1 v2 v3 v1 v1 v2 v4 v1 v1 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Not by power,
+Not by might,
+But by My Spirit,
+Says the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The weapons of our warfare
+Are not of this world
+They are mighty through God
+Mighty through God
+The power of His mercy
+And the power of His love,
+They are stronger than all
+Stronger than all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As we worship in unity
+Jesus the Lord,
+Victory comes in His name
+By His Word</lines>
+    </verse>
+    <verse name="v4">
+      <lines>As we worship in unity
+Jesus the Lord
+Victory comes in His name
+By His Word</lines>
+    </verse>
+    <verse name="v5">
+      <lines>By My Spirit, says the Lord,
+By My Spirit, says the Lord,
+By My Spirit, says the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

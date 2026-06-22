@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Filled With God</title>
+    </titles>
+    <authors>
+      <author type="words">Noel Richards</author>
+      <author type="music">Noel Richards</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Filled with God, yes filled with God.
+Emptied of self and filled with God.
+Filled with God, yes filled with God,
+Pardoned and cleansed and
+  filled with God</lines>
+    </verse>
+  </lyrics>
+</song>

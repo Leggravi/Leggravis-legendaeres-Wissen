@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Burn in Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Burn in me
+Burn in me
+Let the fire of the Holy One
+burn in me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your word's like a fire
+Burning in my soul
+Burn up the dross
+Bring forth the gold</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You feel like a fire
+shut up in my bones
+Consume me Lord
+Make me Your own</lines>
+    </verse>
+  </lyrics>
+</song>

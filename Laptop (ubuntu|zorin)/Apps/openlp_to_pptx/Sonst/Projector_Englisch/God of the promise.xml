@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God of the promise</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Not gonna wait, wait for the walls to fall
+I know a name that will bring them down
+I've got a praise, waking within my soul
+I'm not ashamed to declare it now</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Light of the world, trample the darkness
+Nothing can stop it, You are the God of the promise
+Every word will be accomplished
+Nothing can stop it, You are the God of the promise</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Prepare the way, the King of Glory comes
+Before His name, every fear must bow
+Throw off your chains, Jesus destroyed them all
+Up from the grave, He is with us now</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: The gates of hell will never stand a chance
+Your name prevails, Jesus the great I am
+No word will fail, no weapon formed against
+Your name prevails, Jesus the great I am :/</lines>
+    </verse>
+  </lyrics>
+</song>

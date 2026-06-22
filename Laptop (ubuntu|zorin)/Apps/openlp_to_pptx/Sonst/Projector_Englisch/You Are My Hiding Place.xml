@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Are My Hiding Place</title>
+    </titles>
+    <authors>
+      <author type="words">Michael Ledner</author>
+      <author type="music">Michael Ledner</author>
+      <author type="translation">Du bist mein Zufluchtsort (ich berge mich in deiner Hand)</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are my hiding place
+You always fill my heart
+With songs of deliverance
+Whenever I am afraid
+I will trust in You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will trust in You
+Let the weak say
+I am strong
+In the strength of the Lord
+I will trust in You.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:46">
+  <properties>
+    <titles>
+      <title>Wir wollen alle fröhlich sein in dieser österlichen Zeit</title>
+    </titles>
+    <authors>
+      <author type="words">Medingen (1380)</author>
+      <author type="words">Cyriakus Spangenberg (1568)</author>
+      <author type="music">Hohenfurt</author>
+    </authors>
+    <ccliNo>5212730</ccliNo>
+    <themes>
+      <theme>Ostern</theme>
+      <theme>Auferstehung</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir wollen alle fröhlich sein
+in dieser österlichen Zeit,
+denn unser Heil hat Gott bereit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Es ist erstanden Jesus Christ,
+der an dem Kreuz gestorben ist;
+ihm sei Lob, Ehr zu aller Frist.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Er hat zerstört der Höllen Pfort,
+die Seinen all herausgeführt
+und uns erlöst vom ewgen Tod.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Es singt der ganze Erdenkreis
+dem Gottessohne Lob und Preis,
+der uns erkauft das Paradeis.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Des freu sich alle Christenheit
+und lobe die Dreifaltigkeit
+von nun an bis in Ewigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

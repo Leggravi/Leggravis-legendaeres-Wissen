@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Evidence</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All throughout my history
+Your faithfulness has walked beside me
+The winter storms made way for spring
+In every season, from where I'm standing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I see the evidence of Your goodness
+All over my life, all over my life
+I see Your promises in fulfillment
+All over my life, all over my life</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Help me remember when I'm weak
+Fear may come, but fear will leave
+You lead my heart to victory
+You are my strength and You always will be</lines>
+    </verse>
+    <verse name="v4">
+      <lines>See the cross, the empty grave
+The evidence is endless
+All my sin rolled away
+Because of You, oh, Jesus
+See the cross, the empty grave
+The evidence is endless
+All my sin rolled away
+Because of You, oh, Jesus</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I see the evidence of Your goodness
+All over my life, all over my life
+I see Your promises in fulfillment
+All over my life, all over my life, yeah
+I see the evidence of Your goodness</lines>
+    </verse>
+    <verse name="v6">
+      <lines>All over my life
+All over my life
+I see Your promises in fulfillment
+All over my life, all over my life</lines>
+    </verse>
+    <verse name="v7">
+      <lines>So why should I fear?
+The evidence is here
+Why should I fear?
+Oh, the evidence is here</lines>
+    </verse>
+  </lyrics>
+</song>

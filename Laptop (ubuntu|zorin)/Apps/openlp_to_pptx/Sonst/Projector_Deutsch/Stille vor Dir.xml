@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Stille vor Dir</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stille vor dir, mein Vater.
+Neue Stille vor dir suche ich, Herr.
+Stille vor dir, ich höre.
+Rühre mich an durch dein Wort.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rede du, mein Vater, heute zu mir.
+Worte der Wahrheit kommen von dir.
+Rede du, mein Vater, heute zu mir.
+Du willst mich beschenken.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Stille vor dir ist Gnade.
+Aus der Stille vor dir schöpfe ich Kraft.
+Stille vor dir, ich höre.
+Rühre mich an durch dein Wort.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Rede du, mein Vater, heute zu mir.
+Worte der Wahrheit kommen von dir.
+Rede du, mein Vater, heute zu mir.
+Du willst mich beschenken.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Stille vor dir, will schweigen,
+und ich öffne mein Herz nun für dein Wort.
+Stille vor dir, ich höre.
+Rühre mich an durch dein Wort.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Rede du, mein Vater, heute zu mir.
+Worte der Wahrheit kommen von dir.
+Rede du, mein Vater, heute zu mir.
+Du willst mich beschenken.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Stille vor dir ist Frieden.
+Und ich staune, o Herr, rede wirst du.
+Stille vor dir, ich höre.
+Rühre mich an durch dein Wort.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Rede du, mein Vater, heute zu mir.
+Worte der Wahrheit kommen von dir.
+Rede du, mein Vater, heute zu mir.
+Du willst mich beschenken.</lines>
+    </verse>
+  </lyrics>
+</song>

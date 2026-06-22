@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Überall</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Jacobi</author>
+      <author type="music">Daniel Jacobi</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gesegnet sind die, die mit dir leben
+denn du gehst mit auf all ihren Wegen
+und führst sie von Tälern in das strahlende Licht!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Und wenn wir dann dort bei dir leben
+in deinem Haus um dich zu erheben,
+erstrahlen wir in deinem ewigen Licht!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du regierst über uns!
+Du regierst überall!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In a World of Fear and Turmoil</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In a world of fear and turmoil,
+In a race that seems so hard to
+run,
+Lord, I need Thy rich in-filling
+Even so, Lord Jesus, come.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Even so, Lord Jesus, come
+In my heart that I may see
+Your light;
+Though at times I’ve betrayed
+Thy trust -
+Even so, Lord Jesus, come.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When my eyes shall spun the river,
+When I am gliding through the
+world unknown,
+May I say with all assurance -
+Even so, Lord Jesus, come.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When my hope in Thee is ceasing,
+When my heart is dying in
+restlessness,
+When I am yearning for deliverance
+Even so, Lord Jesus, come.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When I am yearning to do Thy will,
+When I am willing to proclaim Thy
+Name,
+And the problems of life come
+rolling -
+Even so, Lord Jesus, come.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>When my soul is full of troubles,
+And my eyes grow dim thro’ sorrow
+and fear,
+Let me call upon Thy Name -
+Even so, Lord Jesus, come.</lines>
+    </verse>
+  </lyrics>
+</song>

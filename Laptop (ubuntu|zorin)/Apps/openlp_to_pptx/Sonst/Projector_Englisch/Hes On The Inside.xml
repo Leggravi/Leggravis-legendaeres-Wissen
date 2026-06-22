@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He's On The Inside</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's on the inside
+Of those pearly gates.
+He's on the inside of heaven,
+There He waits.
+He'll call for me by name,
+I'll answer and I'll go
+To be with Him who died
+And lives to love me so.</lines>
+    </verse>
+  </lyrics>
+</song>

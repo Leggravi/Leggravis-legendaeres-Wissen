@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Glorious Day</title>
+    </titles>
+    <authors>
+      <author type="words">Sean Curran</author>
+      <author type="music">Sean Curran</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was buried beneath my shame
+Who could carry that kind of weight
+It was my tomb
+Till I met You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I was breathing but not alive
+All my failures I tried to hide
+It was my tomb
+Till I met You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You called my name
+And I ran out of that grave
+Out of the darkness
+Into Your glorious day
+You called my name
+And I ran out of that grave
+Out of the darkness
+Into Your glorious day</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now Your mercy has saved my soul
+Now Your freedom is all I know
+The old made new
+Jesus, when I met You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I needed rescue, My sin was heavy
+But chains break at the weight of Your glory
+I needed shelter, I was an orphan
+Now You call me a citizen of heaven
+When I was broken, You were my healing
+Your love is the air that I'm breathing
+I have a future, My eyes are open</lines>
+    </verse>
+  </lyrics>
+</song>

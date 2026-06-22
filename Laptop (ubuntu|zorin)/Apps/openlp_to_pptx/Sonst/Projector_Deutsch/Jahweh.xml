@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jahweh</title>
+    </titles>
+    <authors>
+      <author type="words">Timo Langner</author>
+      <author type="music">Austin Cobb</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jahweh, ewig treuer Gott ist dein Name.
+Meine Seele singt.
+Jahweh, mein ewig treuer Gott bist du. Oh
+Jahweh, für immer sing ich von deiner Gnade.
+Du warst, du bist und bleibst.
+Jahweh, mein ewig treuer Gott bist du.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wie wunderschön du bist bezeugt die unberührte Welt.
+Und alles was atmet ist deinem Namen unterstellt.
+Du hast kein Anfang, hast kein Ende, du hast schon immer existiert.
+Und aus Liebe gabst du dein Leben damit der Tod die Kraft verliert.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich komm, komm in Lobpreis und Anbetung
+Vor meinen Gott der Höhe, Gott der Nähe, Gott der Stärke.
+Dir gehört mein Lob.
+Ich komm, komm in Lobpreis und Anbetung
+Vor meinen Gott der Zuflucht, der Vergebung,
+König Jesus dir gehört mein Lob.</lines>
+    </verse>
+  </lyrics>
+</song>

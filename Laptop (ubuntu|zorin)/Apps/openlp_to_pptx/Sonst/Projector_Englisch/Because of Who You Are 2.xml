@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Because of Who You Are (2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You spoke the words and all the words came into order
+You waved Your hands and planets filled the empty skies
+You placed the woman and the man inside the garden
+And though they fell they found compassion in Your eyes</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Lord, I stand amazed at the wonder of Your deeds
+And yet a greater wonder brings me to my knees</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, I praise You, because of who You are
+Not just for all the mighty things that You have done
+Lord, I worship You, because of who You are
+You're all the reason that I need to voice my praise
+Because of who You are</lines>
+    </verse>
+  </lyrics>
+</song>

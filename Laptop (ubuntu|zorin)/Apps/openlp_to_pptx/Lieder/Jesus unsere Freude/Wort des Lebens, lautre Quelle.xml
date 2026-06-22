@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:54">
+  <properties>
+    <titles>
+      <title>Wort des Lebens, lautre Quelle</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Spitta (1833)</author>
+      <author type="music">John Zundel</author>
+    </authors>
+    <ccliNo>6221861</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wort des Lebens, laut're Quelle,
+die vom Himmel sich ergießt,
+Lebenskräfte gibst du jedem,
+der dir Geist und Herz erschließt,
+der sich, wie die welke Blume,
+die der Sonnenbrand gebleicht,
+dürstend von dem dürren Lande
+zu der Quelle niederneigt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ohne dich, was ist die Erde?
+Ein beschränktes, finstres Tal.
+Ohne dich, was ist der Himmel?
+Ein verschlossner Freudensaal.
+Ohne dich, was ist das Leben?
+Ein erneuter, finstrer Tod.
+Ohne dich, was ist das Sterben?
+Nachtgraun ohne Morgenrot.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wort des Lebens, du erleuchtest,
+doch erwärmst du auch zugleich;
+eine Hölle offenbarst du,
+aber auch ein Himmelreich.
+Furchtbar schreckest du den Sünder
+aus der dumpfen, trägen Ruh';
+doch mit Liebe deckst du wieder
+jedes Büßers Fehle zu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Einen Richter lehrst du fürchten,
+der mit rechter Waage wägt;
+doch auch einen Vater lieben,
+der mit Langmut alle trägt,
+einen Gott, der den geliebten,
+eingen Sohn zum Opfer gibt,
+der an ihm die Sünde richtet
+und in ihm die Sünder liebt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wort des Lebens, wer dich höret,
+dem versprichst du ewges Heil;
+doch nur dem, der dich bewahret,
+wird das Kleinod einst zuteil.
+Nun, so will ich dich bewahren,
+Schwert des Geistes, Gottes Wort;
+hilf mir hier auf Erden streiten
+und die Kron ererben dort!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, das Wort aus deinem Munde</title>
+    </titles>
+    <authors>
+      <author type="words">Andreas Stoll</author>
+      <author type="music">Wolfgang Weßnitzer</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, das Wort aus Deinem Munde
+Ist so lieblich, süß und hold!
+Gute Botschaft, frohe Kunde,
+Besser als das reinste Gold!
+Deine ew'gen Heilsgedanken,
+Deine Liebe ohne Schranken,
+Dein Herz, das sich zu uns neigt,
+Hast Du völlig uns gezeigt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eins ist not - auf Dich zu hören,
+Auf Dein Wort voll Huld und Heil,
+Zu bewahren Deine Lehren,
+Ist das allerbeste Teil.
+Ja, das Wort, das Du gegeben,
+Es ist Wahrheit, Geist und Leben,
+Unsers Weges helles Licht,
+Wer ihm folgt, der irret nicht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vater, Dank für diese Quelle,
+Lebensmanna, Himmelsgab',
+Diese Leuchte unsrer Seele,
+Diesen guten Wanderstab!
+Dank für diese Kraft der Schwachen,
+Weisheit, Toren klug zu machen,
+Dank für dieses Schwert im Krieg,
+Dank für diesen Weg zum Sieg!</lines>
+    </verse>
+  </lyrics>
+</song>

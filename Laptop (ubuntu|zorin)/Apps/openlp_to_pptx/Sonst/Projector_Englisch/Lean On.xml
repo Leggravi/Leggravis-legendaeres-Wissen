@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lean On</title>
+    </titles>
+    <authors>
+      <author type="words">Bill Withers</author>
+      <author type="music">Bill Withers</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know just how you feel
+When you're too tired to stand up
+I know just how you feel
+I know it's hard to believe
+When you wanna give up
+I know just how you feel</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You can lean on everlasting arms
+When your strength fails and your faith is worn
+You'll be safe here from all alarms
+You can lean on everlasting arms</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know just how you feel
+When you've done all that you can
+And it's still not enough
+There is a peace more real
+There is a place you can rest
+There's Someone you can trust</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: He will hold you up and never let go
+My God will hold you up,
+He'll never let go :/</lines>
+    </verse>
+  </lyrics>
+</song>

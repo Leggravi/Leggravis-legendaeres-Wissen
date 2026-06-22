@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Adonai, mein Herr und Gott</title>
+    </titles>
+    <authors>
+      <author type="words">Werner Finis</author>
+      <author type="music">Tony Sperandeo</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adonai, mein Herr und Gott,
+wunderbarer Retter bist Du.
+Heiliger Gott, unser Zufluchtsort,
+Ewger Vater, Jeschua.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mit ganzem Herzen verehre ich Dich, mein Herr.
+Mit ganzem Herzen, mit allem, was ich bin und hab,
+mit ganzem Herzen verehre ich Dich, mein Herr.
+Über alles lieb ich Dich, über alles lieb ich Dich.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Adonai, mein Herr und Gott,
+wunderbarer Retter bist Du.
+Friedefürst, mein Erlöser,
+über alles lieb ich Dich.</lines>
+    </verse>
+  </lyrics>
+</song>

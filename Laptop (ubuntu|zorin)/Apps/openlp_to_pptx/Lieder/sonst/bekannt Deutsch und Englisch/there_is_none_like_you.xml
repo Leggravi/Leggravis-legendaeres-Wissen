@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 16, 2024, 6:42:37 AM">
+  <properties>
+    <titles>
+      <title>There Is None Like You</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>/: There is none like You
+No one else can touch my heart like You do
+I could search for all eternity long And find,
+there is none like You :/</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Your mercy flows like a river wide
+and healing comes from Your hand
+Suffering children are safe in Your arms,
+There is none like You</lines>
+    </verse>
+    <verse name="V3">
+      <lines>/: There is none like You
+No one else can touch my heart like You do
+I could search for all eternity long
+And find there is none like You :/</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Oh I could search for all eternity long
+And find there is none
+There is none
+There is none like You</lines>
+    </verse>
+  </lyrics>
+</song>

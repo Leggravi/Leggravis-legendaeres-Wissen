@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Lord, Your tenderness</title>
+    </titles>
+    <authors>
+      <author type="words">Graham Kendrick</author>
+      <author type="music">Graham Kendrick</author>
+      <author type="translation">O Herr, deine Sanftheit</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lord, Your tenderness
+Melting all my bitterness
+O Lord, I receive Your love
+O Lord, Your loveliness
+Changing all my ugliness
+O Lord, I receive Your love
+O Lord, I receive Your love
+O Lord, I receive Your love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love Him, I love Him
+Because He first loved me
+And purchased my salvation
+On Calvary's tree.</lines>
+    </verse>
+  </lyrics>
+</song>

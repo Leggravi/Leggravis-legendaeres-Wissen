@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 10, 2019, 10:24:38 PM">
+  <properties>
+    <titles>
+      <title>My Redeemer Is Faithful and True</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>As I looked back
+On the road that I traveled
+I see so many times that
+He's carried me through
+And if there's one thing
+That I learned in my life
+My redeemer is faithful and true,
+My redeemer is faithful and true.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>My Redeemer is faithful and true;
+Everything He has said He will do;
+Every morning His mercies are new;
+My Redeemer is faithful and true.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>My heart rejoices when I read the promise
+There is a place I'm preparing for you
+I know someday I'll see
+My Lord face to face
+For my redeemer is faithful and true.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>And in every situation,
+He has proved His love to me
+When I lack the understanding
+He gives more grace to me.</lines>
+    </verse>
+  </lyrics>
+</song>

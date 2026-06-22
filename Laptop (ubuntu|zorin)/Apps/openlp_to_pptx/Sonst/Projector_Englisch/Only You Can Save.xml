@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Only You Can Save</title>
+    </titles>
+    <authors>
+      <author type="words">Case Crayenord</author>
+      <author type="music">Case Crayenord</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What can I do to change a soul’s desire
+What can I say to set a heart on fire
+Lord it seems my struggle is in vain
+When You’re the only one who brings real change</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I can pray, I can claim
+I can speak in faith
+Try to live in front of them the Christian way
+Bear the sacrifice of love
+Try to give the way You gave
+But only You
+Lord, Only You can save</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I see the hurt, that only You can heal
+You see the heart and everything revealed
+Open up their eyes for mercy’s sake
+And may You be the only choice they make</lines>
+    </verse>
+  </lyrics>
+</song>

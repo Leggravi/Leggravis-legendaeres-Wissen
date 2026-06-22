@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It Matters to the Master</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When life lets you down, and you feel more broken than whole
+When the wounds go deeper than words and you can't tell a soul
+I may not know what you're going through
+May not can make that high mountain move
+But one thing I've found that I really want you to know</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If it matters to you, it matters to the Master
+He wants to share the burdens you bear
+Whisper peace when your world gets shattered
+If it's your greatest joy or your deepest pain
+Or you're really needing an answer
+If it matters to you, it matters to the Master</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Friend, do you think the Maker and giver of life
+Is far too busy to care'bout your trouble and strife?
+He sees the sparrow that falls to the ground
+And He hears the tears that don't make a sound
+If you only knew how precious you are in His sight</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If it's your greatest joy or your deepest pain
+Or you're really needing an answer
+If it matters to you, it doesn't only matter to you
+If it matters to you, it matters to the Master</lines>
+    </verse>
+  </lyrics>
+</song>

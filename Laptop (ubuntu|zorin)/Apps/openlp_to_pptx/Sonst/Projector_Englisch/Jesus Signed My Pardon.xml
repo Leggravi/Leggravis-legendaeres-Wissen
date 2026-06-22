@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Signed My Pardon</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus signed my pardon,
+This I surely know,
+He took my place on Calvary,
+Now I don't have to go;
+All my life I give Him,
+He gave His for me,
+When He signed my pardon,
+There at Calvary.</lines>
+    </verse>
+  </lyrics>
+</song>

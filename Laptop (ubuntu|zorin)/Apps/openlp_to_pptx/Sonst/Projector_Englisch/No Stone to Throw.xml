@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>No Stone to Throw</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>She trembled as she stood there guilty so afraid
+Worthy of the justice the Pharisee proclaimed
+Jesus said let someone sinless cast the stone
+Then He waited in the silence ‘til everyone had gone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>She said He could see the hurt hidden in my heart
+And He could feel the shame of all my sinful scars
+Though He could have just condemned me if He chose
+But the Rock of Ages has no stone to throw</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I made so many choices in the life I call my own
+I built my house on shifting sand and not the cornerstone
+Ill be swept away by the floor tides of regret
+Until the hand of heaven drew me from it’s depths</lines>
+    </verse>
+    <verse name="v4">
+      <lines>'Cause He could see the hurt hidden in my heart
+And He could feel the shame of all my sinful scars
+Though He could have just condemned me if He chose
+But the Rock of Ages has no stone to throw</lines>
+    </verse>
+    <verse name="v5">
+      <lines>His hands are full of mercy, forgiveness, hope and grace
+Their bleeding free with cleansing to pardon you today.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>'Cause He could see the hurt hidden in your heart
+And He could feel the shame of all your sinful scars
+Though He could have just condemned you if He chose
+But the Rock of Ages has no stone to throw</lines>
+    </verse>
+  </lyrics>
+</song>

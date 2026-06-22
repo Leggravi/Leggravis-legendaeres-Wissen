@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord, Lord, Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You saved my soul when I was lost
+You've surely been good to me;
+You saved my soul when I was lost
+You've surely been good to me;
+You saved my soul when I was lost
+You've surely been good to me;
+You have done what this world
+  could not do.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord Jesus Christ
+You've surely been good to me;
+Lord Jesus Christ
+You've surely been good to me;
+Lord Jesus Christ
+You've surely been good to me;
+You have done what this world
+  could not do.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You filled me with the Holy Ghost,
+You've surely been good to me;
+You filled me with the Holy Ghost,
+You've surely been good to me;
+You filled me with the Holy Ghost,
+You've surely been good to me;
+You have done what this world
+  could not do.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You healed my body when I was sick,
+You've surely been good to me;
+You healed my body when I was sick,
+You've surely been good to me;
+You healed my body when I was sick,
+You've surely been good to me;
+You have done what this world
+  could not do.</lines>
+    </verse>
+  </lyrics>
+</song>

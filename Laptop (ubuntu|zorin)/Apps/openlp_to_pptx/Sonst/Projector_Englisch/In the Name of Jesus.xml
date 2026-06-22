@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In the Name of Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Unbekannt</author>
+      <author type="translation">Nur im Namen Jesu</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the name of Jesus
+In the name of Jesus
+We have victory
+In the name of Jesus
+In the name of Jesus
+Demons will have to flee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When we stand in the name of Jesus
+Tell me who can stand before
+In the name of Jesus Jesus
+We have the Victory</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the name of Jesus
+In the name of Jesus
+We have victory
+In the name of Jesus
+In the name of Jesus
+Demons will have to flee</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Who can tell what God can do?
+Who can tell if His love for you?
+In the name of Jesus Jesus
+We have the Victory</lines>
+    </verse>
+  </lyrics>
+</song>

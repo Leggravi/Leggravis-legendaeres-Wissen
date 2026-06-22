@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Open My Eyes, That I May See</title>
+    </titles>
+    <authors>
+      <author type="words">Clara H. Scott</author>
+      <author type="music">Clara H. Scott</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Open my eyes,
+That I may see
+Glimpses of truth
+Thou hast for me;
+Place in my hands
+The wonderful key
+That shall unclasp,
+And set me free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Silently now I wait for Thee,
+Ready my God, Thy will to see;
+Open my eyes, illumine me,
+Spirit Divine!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Open my ears,
+That I may hear
+Voices of truth
+Thou sendest clear;
+And while the wave-notes
+Fall on my ear,
+Everything false
+Will disappear,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Open my mouth,
+And let me bear
+Gladly the warm
+Truth everywhere;
+Open my heart,
+And let me prepare,
+Love with Thy children
+Thus to share.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wirf deine Lasten</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wirf deine Lasten zu Jesus,
+denn er kümmert sich um dich</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Höher höher höher höher höher
+Höher höher heben Jesus höher</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wirf deine Lasten zu Jesus, denn Er kümmert sich
+Wirf deine Lasten zu Jesus, denn Er kümmert sich um dich</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niedriger niedriger niedriger niedriger niedriger
+Unterer unterer Stempel Satan niedriger</lines>
+    </verse>
+  </lyrics>
+</song>

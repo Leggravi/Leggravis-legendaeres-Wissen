@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du hast Gedanken des Friedens</title>
+    </titles>
+    <authors>
+      <author type="words">CVJM München</author>
+      <author type="music">CVJM München</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du hast Gedanken des Friedens, der nie zu Ende sein wird. Du hast Gedanken der Freude, die niemals aufhören wird.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir stimmen dir ein Loblied an, das nie verklingen soll. Zu dir hin schufst du uns, dein Volk, und ewig sind wir dein. Hmm…</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du hast Gedanken der Gnade, leidest, wenn wir fern sind von Dir. Du hast Gedanken der Liebe, ziehst uns wieder hin zu Dir.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du hast Gedanken der Treue, nichts reißt uns aus deiner Hand. Du hast Gedanken der Ruhe, entschieden ist nun der Kampf.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Du hast Gedanken der Freiheit, die wir haben in Bindung an dich. Du hast Gedanken der Schönheit, die leuchtet aus den Augen deines Volks.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Vater, wir wollen dir danken, alle Wort sind für sich zu klein. Wir neigen uns in Anbetung, froh in deiner Nähe zu sein.</lines>
+    </verse>
+  </lyrics>
+</song>

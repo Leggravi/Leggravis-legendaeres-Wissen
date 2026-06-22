@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Get So Thrilled With Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I get so thrilled with Jesus
+Every moment of the day.
+I get so thrilled with Jesus
+He's the truth, the life, the way.
+I get so thrilled with Jesus
+He satisfies my longing soul.
+I get so thrilled with Jesus
+He's the One who makes me whole.</lines>
+    </verse>
+  </lyrics>
+</song>

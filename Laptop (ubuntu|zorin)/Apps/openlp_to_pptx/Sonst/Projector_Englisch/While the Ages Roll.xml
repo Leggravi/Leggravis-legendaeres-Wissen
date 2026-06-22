@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>While the Ages Roll</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Someday this stamm'ring tongue will falter no more,
+And a grander, sweeter song I will sing;
+For I'll join the ransomed choir on heaven's bright shore,
+Forever to praise the King.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And while the ages roll, I'll keep on praising Him,
+And my voice will never tire or grow old.
+And my song shall ever be, &quot;Praise the Lamb who died for me!&quot;
+And I'll sing it while ages shall roll.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When a million years have passed in that wonderful place,
+My song of praise will just have begun;
+For my joy will never end while I look on His face,
+And my song will never be done.</lines>
+    </verse>
+  </lyrics>
+</song>

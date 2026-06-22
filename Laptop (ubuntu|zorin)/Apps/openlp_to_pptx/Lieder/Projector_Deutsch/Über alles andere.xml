@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Über alles andere</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Frey</author>
+      <author type="music">Albert Frey</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Über alles andere bist du erhoben, Herr!
+Wir geben dir den Ehrenplatz über allem anderen, Herr!
+Hier, wo wir grad steh'n und wo auch immer wir hingeh'n:
+Wir geben Dir den Ehrenplatz, und die Welt muss seh'n:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ein siegreicher Held bist Du,
+gerüstet im Panzer des Lichts,
+zertrittst alle finsteren Werke,
+verlieren werden wir nicht!
+Wir triumphieren in Jesus,
+überwinden durch sein Blut!
+Wir geben Dir den Ehrenplatz
+über allem anderen Herr!</lines>
+    </verse>
+  </lyrics>
+</song>

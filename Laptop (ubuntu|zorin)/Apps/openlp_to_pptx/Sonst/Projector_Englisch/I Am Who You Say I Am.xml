@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Am Who You Say I Am</title>
+    </titles>
+    <authors>
+      <author type="words">Ben Fielding</author>
+      <author type="music">Ben Fielding</author>
+      <author type="translation">Ich weiß, wer ich bin</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v4 v7 v5 v5 v8 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who am I that the highest King would welcome me?
+I was lost, but He brought me in,
+Oh His love for me,
+Oh His love for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who the Son sets free,
+Oh, is free indeed,
+I'm a child of God, yes, I am.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Free at last, He has ransomed me,
+His grace runs deep,
+While I was a slave to sin, Jesus died for me,
+Yes, He died for me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Who the Son sets free,
+Oh, is free indeed,
+I'm a child of God, yes, I am,
+In my Father's house,
+There's a place for me,
+I'm a child of God, yes, I am.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I am chosen, not forsaken,
+I am who You say I am,
+You are for me, not against me,
+I am who You say I am.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I am chosen, not forsaken,
+I am who You say I am,
+You are for me, not against me,
+I am who You say I am,
+I am who You say I am.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>In my Father's house,
+There's a place for me,
+I'm a child of God, yes, I am.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>I am chosen, not forsaken,
+I am who You say I am,
+You are for me, not against me,
+I am who You say I am,
+Oh, I am who You say I am,
+Yes, I am who you say I am.</lines>
+    </verse>
+  </lyrics>
+</song>

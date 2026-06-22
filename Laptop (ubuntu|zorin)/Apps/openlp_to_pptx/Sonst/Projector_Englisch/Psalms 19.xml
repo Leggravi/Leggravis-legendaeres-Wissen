@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Psalms 19</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the words of my mouth,
+And the meditation of my heart,
+Be acceptable in thy sight,
+O LORD, my strength,
+And my Redeemer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>More to be desired are they than gold,
+Yea, than much fine gold:
+Sweeter also than honey
+and the honeycomb.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The law of the LORD is perfect,
+Converting the soul:
+The testimony of the LORD is sure,
+Making wise the simple.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The statutes of the LORD are right,
+Rejoicing the heart:
+The commandment of the LORD is pure,
+Enlightening the eyes.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The fear of the LORD is clean,
+Enduring for ever:
+The judgments of the LORD are true
+And righteous altogether.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm Happy in the Lord Anyway</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A storm is raging
+in my life right now,
+But to Satan's oppression
+I refuse to bow;
+I'm gonna say to him,
+&quot;Get thee behind me today,
+I'm happy in the Lord anyway.&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm happy in the Lord anyway,
+And it really doesn't matter
+What comes my way today;
+I'm gonna wear a smile,
+Hold my head up high and say,
+I'm happy in the Lord anyway.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now you know, Satan
+He'll try to keep you down;
+He just loves to take your smile,
+And turn it upside down.
+But through Christ we have a power
+To send him on his way;
+You can be happy
+in the Lord anyway.</lines>
+    </verse>
+  </lyrics>
+</song>

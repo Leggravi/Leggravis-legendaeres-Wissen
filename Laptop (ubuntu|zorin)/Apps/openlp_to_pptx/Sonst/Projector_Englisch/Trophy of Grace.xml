@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Trophy of Grace</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Never was a good man
+It was much deed on the way
+And I know how it feels
+To wanna give up on someday</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I might hold the record
+For the most mistakes made
+But to a man called Jesus
+I'm a trophy of grace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know I don't deserve
+All this love that comes my way
+And He's the one who really knows me
+Still can't believe that I'm okay</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And you may never find my name
+In some of the old thing…
+But He's gat a place to put me
+Cos I'm His trophy of grace</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Now it's just in our nature
+To wander outside the land
+Till pain and disappointment
+It makes it's way into our lives</lines>
+    </verse>
+    <verse name="v6">
+      <lines>But I merit a favor
+It conquers all I've seen the chance
+Oh we becomes God's treasures
+And say things prices turn away…</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I know I don't deserve
+All this love that comes my way
+But I need a one who really knows me
+Still can believes I'm okay</lines>
+    </verse>
+    <verse name="v8">
+      <lines>And you may never find my name
+In some of old things…
+But he's gat a place to put me cos
+I'm his trophy of grace.</lines>
+    </verse>
+  </lyrics>
+</song>

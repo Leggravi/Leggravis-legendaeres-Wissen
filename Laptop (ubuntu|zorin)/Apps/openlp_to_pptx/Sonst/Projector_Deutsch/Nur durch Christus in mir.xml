@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nur durch Christus in mir</title>
+    </titles>
+    <authors>
+      <author type="words">Benjamin Bär</author>
+      <author type="music">Michael Farren</author>
+      <author type="translation">Yet not I but through Christ in me</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Das höchste Gut ist Jesus, mein Erlöser.
+Es gibt nichts mehr, was Gott mir schenken kann,
+er, meine Freud, Gerechtigkeit und Freiheit,
+Liebe so treu, mein Frieden grenzenlos.
+Ich bin gewiss: der Herr ist meine Hoffnung.
+Fest verbunden bin ich nun mit ihm.
+Ich bin sein, er ist mein, wir sind ewig vereint,
+nicht durch mich, nur durch Christus in mir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Die Nacht bricht an, doch ich bin nicht verlassen.
+An meiner Seite ist und bleibt der Herr.
+Ich schau auf ihn in Schwachheit und in Freude,
+denn seine Kraft zeigt sich in meiner Not.
+Ich bin gewiss: mein Hirte wird mich schützen,
+durch das Tal des Todes führt er mich.
+Ja, die Nacht ist besiegt und die Sorge verfliegt
+nicht durch mich, nur durch Christus in mir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich fürchte nichts. Ich weiß: mir ist vergeben,
+die Zukunft fest, das Lösegeld bezahlt.
+Durch Jesu Blut und Leid bin ich begnadigt,
+der Tod besiegt, weil Jesus auferstand.
+Ich bin gewiss: besiegt bleibt meine Sünde,
+denn mein Herr steht ewig für mich ein.
+Von den Ketten befreit, sing ich jetzt: „Ich bin sein!“,
+nicht durch mich, nur durch Christus in mir.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nun folg ich ihm im Leben und im Sterben,
+denn er versprach, dass er nach Haus mich führt.
+Ja, Tag für Tag wird Jesus mich erneuern,
+bis ich voll Freude steh vor seinem Thron.
+Ich bin gewiss: der Herr ist meine Hoffnung.
+Aller Dank und Ehre sei nur ihm!
+Ist mein Lauf dann vollbracht,
+bleibt mein Lied immer noch:
+„Nicht durch mich, nur durch Christus in mir“.</lines>
+    </verse>
+  </lyrics>
+</song>

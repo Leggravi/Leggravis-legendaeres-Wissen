@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Welche Liebe, Welche Güte</title>
+    </titles>
+    <authors>
+      <author type="words">Thomas van Dooren</author>
+      <author type="music">Robert Lowry</author>
+      <author type="translation">Here Is Love (Dim Ond Iesu)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Welche Liebe, welche Güte,
+welch ein Opfer, welch ein Mut,
+als der Heiland und Erlöser
+für uns gab sein kostbar Blut.
+Ewig werden wir ihn preisen,
+singen Lob ihm allezeit.
+Kann man je sein Werk begreifen?
+Ihm sei Dank in Ewigkeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Als er dort für uns am Kreuz hing,
+taten sich die Schleusen auf,
+und die Fluten seiner Güte
+strömten in die Welt hinaus.
+Seine Liebe fließt in Strömen,
+voller Herrlichkeit und Huld
+und sein Frieden, Recht und Gnade
+spricht uns Sünder frei von Schuld!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lass mich all Dein groß Erbarmen
+für mein Leben nehmen an
+und nach Deinem Reich nur trachten,
+dass mein Lieb Dich ehren kann.
+Du allein bist meine Ehre
+und nichts andres dieser Welt.
+Hast mich befreit für Dich zu leben,
+mich Dir geheiligt durch Dich selbst.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dein Geist führt mich in die Wahrheit,
+die mich leitet durch Dein Wort.
+Deine Gnade füllt mein Leben,
+wie ich Dir vertrau, mein Hort.
+Grenzenlos und unermesslich
+schenkst Du Deine Liebe mir
+Und mit aller Macht und Fülle
+zieht sie mein Herz hin zu Dir.</lines>
+    </verse>
+  </lyrics>
+</song>

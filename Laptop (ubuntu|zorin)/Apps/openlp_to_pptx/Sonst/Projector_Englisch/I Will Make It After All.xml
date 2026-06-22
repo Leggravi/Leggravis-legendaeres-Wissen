@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Will Make It After All</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Trials here are sometimes many,
+And often times my feet grow weary
+Till it seems I almost stumble and fall
+But the tender hand that leads me,
+Is the one that keeps me steady
+And I know that I will make it,
+after all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>After all this life is over
+And my burdens have been lifted
+And I stand upon the mountain
+top so tall
+Looking over In that city
+That the Saviour is preparing
+Gives me faith that I will make it,
+after all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>By myself I cannot make it,
+But I know He’s there to help me
+He will hear my prayer if on Him
+I will call
+Keep on trusting and believing,
+Are the words I hear Him whisper
+Just a few more days to labour,
+after all.</lines>
+    </verse>
+  </lyrics>
+</song>

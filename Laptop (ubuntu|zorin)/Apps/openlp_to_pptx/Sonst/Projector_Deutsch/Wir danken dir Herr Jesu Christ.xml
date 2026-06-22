@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir danken dir, Herr Jesu Christ</title>
+    </titles>
+    <authors>
+      <author type="words">Bartholomäus Helder</author>
+      <author type="music">Vom Himmel hoch, da komm ich her</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1) Wir danken dir, Herr Jesu Christ,
+dass du für uns gestorben bist
+und hast uns durch dein teures Blut
+gemacht vor Gott gerecht und gut</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2) und bitten dich, wahr Mensch und Gott:
+Durch deine Wunden, Schmach und Spott
+erlös uns von dem ewgen Tod
+und tröst uns in der letzten Not.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3) Behüt uns auch vor Sünd und Schand
+und reich uns dein allmächtig Hand,
+dass wir im Kreuz geduldig sein,
+uns trösten deiner schweren Pein</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4) und schöpfen draus die Zuversicht,
+dass du uns wirst verlassen nicht,
+sondern ganz treulich bei uns stehn,
+dass wir durchs Kreuz ins Leben gehn.</lines>
+    </verse>
+  </lyrics>
+</song>

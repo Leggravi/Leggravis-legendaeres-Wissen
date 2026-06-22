@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Fill Me Now</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hover o'er me, Holy Spirit,
+Bathe my trembling heart and brow;
+Fill me with Thy hallowed presence,
+Come, Oh come and fill me now.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fill me now, fill me now,
+Jesus, come and fill me now;
+Fill me with Thy hallowed presence,
+Come, Oh come and fill me now.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou canst fill me, gracious Spirit,
+Though I cannot tell Thee how;
+But I need Thee, greatly need Thee,
+Come, Oh come and fill me now.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I am weakness, full of weakness,
+At thy sacred feet I bow;
+Blest, divine, eternal Spirit,
+Fill with pow'r, and fill me now.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Cleanse and comfort,
+Bless and save me,
+Bathe, Oh bathe my heart and brow;
+Thou art comforting and saving,
+Thou art sweetly filling now.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Over And Over</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Baloche</author>
+      <author type="music">Paul Baloche</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've stood on the bank of a wide raging river
+Trusting that I'd get across
+I've made my way through some valleys and deserts
+Believing that I'd never get lost</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've been at the foot of what felt like Mt Everest
+Knowing I'd have the strength for the climb
+Cause through every trail, each test and temptation
+One thing is sure every time</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Over and over again and again
+God is faithful
+Over and over, again and again
+Through it all He's made me able
+To stand and survive
+To come through alive
+When it sure looked like I couldn't win
+Jesus is with me
+So I claim the victory
+Over and over again</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If you ask me why I have no hesitation
+God does what He says He will do
+I'd simply say every battle has taught me
+There's nothing He won't help me through</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So why should I dwell on the hardships and struggles
+When I look just beyond them I see
+The way this will end is with great celebration
+Deep in my heart I believe</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Over and over again and again
+God is faithful
+Over and over, again and again
+Through it all He's made me able
+To stand and survive
+To come through alive
+When it sure looked like I couldn't win
+Jesus is with me
+So I claim the victory
+Over and over again</lines>
+    </verse>
+  </lyrics>
+</song>

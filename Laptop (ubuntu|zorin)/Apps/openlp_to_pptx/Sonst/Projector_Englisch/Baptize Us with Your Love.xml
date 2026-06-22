@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Baptize Us with Your Love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Baptize us with Your Love,
+Enfold us with Your peace,
+Uplift us with Your joy,
+Unite us by Your Spirit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, we long to please You
+To glorify and bless You,
+So we humbly say,
+Father, have Your perfect way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Forgive us for our sin,
+Cleanse us from within,
+Purify our hearts,
+Conform us to Your likeness.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In all of our ways,
+Through each and every day,
+May we be Your hands,
+Reaching out to save the world.</lines>
+    </verse>
+  </lyrics>
+</song>

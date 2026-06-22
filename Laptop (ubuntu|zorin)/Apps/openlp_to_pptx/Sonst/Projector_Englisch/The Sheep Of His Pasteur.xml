@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Sheep Of His Pasteur</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The sheep of His Pasteur
+ have gathered
+To hear what the shepherd
+ would say,
+His voice like the sound
+ of slow waters,
+Came rippling through vessels
+ of clay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Tis the voice that brought
+ forth creation
+And set all the stars in array,
+And speaks Words of life and
+of wisdom,
+In the midst of His people today.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Through prophets, by precious
+ blood purchased,
+Cleansed and surrendered and filled.
+And set in the body for service,
+As the Head of the body hath willed.</lines>
+    </verse>
+  </lyrics>
+</song>

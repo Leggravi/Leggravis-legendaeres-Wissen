@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mit Dir, Herr Jesus, sind wir schon vereint hienieden</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Louis-Jules Delaborde</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mit Dir, Herr Jesus, sind wir schon vereint hienieden.
+Drum mahnst Du uns gesinnt zu sein, wie Du es warst,
+zu tragen Deine Schmach, von Sünd' und Welt geschieden,
+/: bis Du Dich völlig offenbarst, :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Und allezeit bist Du uns nah o welche Freude!
+Bist in der Wüste hier schon unser Lebensquell
+Du führst uns aus und ein, nährst uns auf grüner Weide,
+/: tränkst uns an Wassern, rein und hell. :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du schenkst uns Trost und Kraft, dass wir hier nicht ermatten,
+versäumst uns nie, liebst völlig uns zu jeder Zeit.
+st uns gesammelt unter Deiner Flügel Schatten,
+/: wo stets wir ruhn' in Ewigkeit. :/</lines>
+    </verse>
+  </lyrics>
+</song>

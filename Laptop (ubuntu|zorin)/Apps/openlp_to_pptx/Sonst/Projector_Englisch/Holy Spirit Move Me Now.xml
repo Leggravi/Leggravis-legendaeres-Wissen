@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Holy Spirit Move Me Now</title>
+    </titles>
+    <authors>
+      <author type="words">Charlotte Exon</author>
+      <author type="music">Charlotte Exon</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy Spirit, move me now,
+Make my life whole again,
+Spirit, Move over me,
+Spirit, Move over me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy Spirit, touch me now,
+Make my life whole again
+Spirit, Move over me,
+Spirit, Move over me.</lines>
+    </verse>
+  </lyrics>
+</song>

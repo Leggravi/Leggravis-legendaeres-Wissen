@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dein Wort ist ein warmes helles Licht</title>
+    </titles>
+    <authors>
+      <author type="words">Klaus Heizmann</author>
+      <author type="music">Amy Grant</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dein Wort ist ein warmes helles Licht,
+das mir meinen Weg erhellt.
+Dein Wort gibt mir Kraft und Zuversicht
+und hat mich auf Fels gestellt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bringt die Dunkelheit
+Sorgen Angst und Leid,
+bietest du mir die Hilfe an.
+Dein Wort ist das Licht,
+das die Nacht durchbricht,
+leuchtet auf der Lebensbahn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dein Wort ist ein warmes helles Licht,
+das mir meinen Weg erhellt.
+Dein Wort gibt mir Kraft und Zuversicht
+und hat mich auf Fels gestellt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Trost gibt mir dein Wort,
+Tränen wischt es fort,
+schenkt mir Hoffnung und Sicherheit.
+Es gibt Lebenssinn,
+weist auf Jesus hin,
+nie verliert es Gültigkeit.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dein Wort ist ein warmes helles Licht,
+das mir meinen Weg erhellt.
+Dein Wort gibt mir Kraft und Zuversicht
+und hat mich auf Fels gestellt.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oft verhasst, verlacht,
+dennoch hat es Macht,
+ewig strahlt seine Helligkeit.
+Mag die Welt vergehn,
+dein Wort bleibt bestehn
+bis in alle Ewigkeit.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Dein Wort ist ein warmes helles Licht,
+das mir meinen Weg erhellt.
+Dein Wort gibt mir Kraft und Zuversicht
+und hat mich auf Fels gestellt.</lines>
+    </verse>
+  </lyrics>
+</song>

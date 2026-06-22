@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus I Will Faith First</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Seasons may come and go
+Life passes quickly by
+Constantly face with change
+Come sunshine or winter snow
+Though we may laugh or cry
+Jesus, You stay the same.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If I'm resting or at war
+And Jesus I'll be grateful
+If I'm rich or if I'm poor
+And Jesus, I will thank You,
+If I'm suffering or at peace
+For You and You alone
+I live and breathe</lines>
+    </verse>
+    <verse name="v3">
+      <lines>People will come and go
+I'll have to say goodbye
+Sometimes our world through pain
+But meanwhile my faith will grow
+With thee even flow of time
+Still You remain the same</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will be joyful for You are my God
+And joy is the essence of You
+I'll trust You completely no matter the cost
+For You are the essence of truth.</lines>
+    </verse>
+  </lyrics>
+</song>

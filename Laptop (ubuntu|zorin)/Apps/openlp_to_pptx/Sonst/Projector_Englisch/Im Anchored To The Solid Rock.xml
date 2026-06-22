@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm Anchored To The Solid Rock</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>With all the trouble around me,
+how discouraged I could be,
+yet in my heart there's a deep settled peace
+I have no fear of what may be,
+my Father's promise is holding me
+I have an anchor that's steadfast and true!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have an anchor in my life,
+holding to the solid rock.
+A strong assurance that He gave me
+and I can not be lost.
+Let the storm on the water of this life dash about,
+I'm anchored to the solid rock
+I'm anchored to the solid rock</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And will my soul be satisfied,
+when in His likeness I'll abide
+And with my loved ones I'll feel so at home
+They too were tested and they were tried,
+yet on His promise they rely
+They had an anchor that's steadfast and true!</lines>
+    </verse>
+  </lyrics>
+</song>

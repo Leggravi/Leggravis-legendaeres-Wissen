@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Tell the Angels I’m On My Way</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh Lord hear my cry,
+For some day I know I’ll die
+Tell the angels I’m on my way,
+I am so weary here below,
+Bound beneath this heavy load,
+Tell the angels I’m on my way</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh tell the angels I’m on my way,
+For I’m coming home to stay,
+Tell the angels, I’m on my way,
+On heaven’s peaceful shore,
+Where we’ll never part no more,
+Tell the angels I’m on my way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thank you Lord you heard my plea,
+Saved my soul and rescued me,
+Tell the angels I’m on my way,
+There’s a greater place I know,
+It’s a place I long to go,
+Tell the angels I’m on my way.</lines>
+    </verse>
+  </lyrics>
+</song>

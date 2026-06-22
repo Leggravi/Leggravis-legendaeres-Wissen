@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Im Namen des Vater</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Bernward Hoffmann</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Im Namen des Vaters,
+im Namen des Sohnes,
+im Namen des Heiligen Geistes
+sind wir hier.
+Im Namen des Vaters,
+im Namen des Sohnes,
+im Namen des Heiligen Geistes
+feiern wir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wo zwei oder drei
+sich in deinem Namen treffen,
+bist du mit dabei,
+hier mitten unter uns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wo zwei oder drei
+dich in deinem Namen bitten,
+bist du mit dabei
+und machst dich eins mit uns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wir sammeln uns bei dir.
+wir sammeln uns bei dir.
+wir sammeln uns bei dir.
+wir sammeln uns bei dir</lines>
+    </verse>
+  </lyrics>
+</song>

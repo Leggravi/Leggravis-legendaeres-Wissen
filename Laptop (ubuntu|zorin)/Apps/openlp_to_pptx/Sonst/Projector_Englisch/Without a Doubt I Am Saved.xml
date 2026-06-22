@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Without a Doubt I Am Saved</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Once I served the Lord
+only with my lips
+And I put all my trust
+in my church membership
+And in my soul I was lost,
+earnestly I prayed
+Till I knew without a doubt I’m Saved</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Without a doubt I’m saved
+I have been born again
+Washed In calvary’s flow pure
+and white within.
+Though I once was lost
+Sin had chained me a slave
+But now I know
+without a doubt I’m saved.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is a deep settled peace
+in my happy soul
+My life has an aim
+heaven is my goal
+And the world’s gathering storms
+Cannot make me afraid
+And now I know
+without a doubt I’m saved.</lines>
+    </verse>
+  </lyrics>
+</song>

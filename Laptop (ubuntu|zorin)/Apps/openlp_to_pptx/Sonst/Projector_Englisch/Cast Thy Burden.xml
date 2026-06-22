@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Cast Thy Burden</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cast thy burdens upon the Lord
+And He shall sustain thee
+He shall never suffer the righteous
+to be moved
+As for me, I will call upon God
+And the Lord will save me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Evening and morning and at noon
+will I pray
+And cry aloud
+He shall hear my voice</lines>
+    </verse>
+  </lyrics>
+</song>

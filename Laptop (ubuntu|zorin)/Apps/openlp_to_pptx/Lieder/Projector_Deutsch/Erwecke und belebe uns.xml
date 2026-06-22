@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Erwecke und belebe uns</title>
+    </titles>
+    <authors>
+      <author type="words">Hartmut Handt</author>
+      <author type="music">Horst Krüger</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Erwecke und belebe uns,
+du Geist der Freiheit.
+Erleuchte und bewege uns,
+du heiliger Geist.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du schenkst die Freiheit,
+Gott Vater zu nennen,
+machst uns zu Kindern im neuen Bund.
+Du schenkst die Freiheit,
+Gott Vater zu nennen,
+du füllst mit Bitte und Lob unsern Mund.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du gibst Gewissheit,
+dass Gott durch uns handelt,
+reißt uns aus Trägheit und Angst heraus.
+Du gibst Gewissheit, dass Gott durch uns handelt,
+du stattest mit deinen Gaben uns aus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du bist der Mut,
+der das Leben verwandelt,
+machst Gottes Bild in den Glaubenden neu.
+Du bist der Mut,
+der das Leben verwandelt,
+in dir bleibt Gott dem Geschaffenen treu.</lines>
+    </verse>
+  </lyrics>
+</song>

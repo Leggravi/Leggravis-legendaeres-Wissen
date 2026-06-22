@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thank You for the Storm</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's a blessing when I see the dark clouds parting
+When the rain is gone and sun is breaking through
+I anticipate when life will just be normal
+Just to close my weary eyes and rest in You
+My heart can rest so easy when there's blue skies
+When the wind is gone and rain is not in sight
+How I long to hang my sword Above the mantle
+Away from harm and distant from the fight</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But I wouldn't know Your peace without the hard times
+Or be thankful for relief without the pain
+I wouldn't love the light if it were not for the darkness
+Or appreciate the sun without the rain
+How could I understand forgiveness without failure?
+Or feel the warmth of love without the bitter cold
+How could I hold Your healing hands without affliction?
+And be blessed to see Your mercies all unfold
+Sure, it's a blessing to be safe, secure, and warm
+But Lord I want to thank you for the storm</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Imagine as Peter sat in prison
+He may have paced the floor with chains around his feet
+And in his mind the devil taunt it as he whispers
+&quot;The battles lost and this is your defeat&quot;
+But then his mind went back to that night in the tempest
+When the master spoke and winds and seas obeyed
+And he remembered that storm calming all around him
+He could rest in that dark prison unafraid
+And say…</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If my life were free of trials
+Lord I'd lose my view of You
+There's sweet trophies that remind me of all You do
+Sure it's a blessing to be safe, secure, and warm
+But Lord I want to thank You for the storm</lines>
+    </verse>
+  </lyrics>
+</song>

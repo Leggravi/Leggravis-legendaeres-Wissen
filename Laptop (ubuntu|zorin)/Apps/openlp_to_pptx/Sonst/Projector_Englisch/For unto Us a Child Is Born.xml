@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>For unto Us a Child Is Born</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Georg Friedrich Händel</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For unto us a Child is born
+A Son is given, A Son is given
+For unto us a Child is born
+A Son is given, A Son is given
+The Messiah, Oh to see Him</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To see Him high and lifted up
+Shining in the light of Your glory
+Pour out Your power and love
+As we sing Holy Holy Holy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To see Him high and lifted up
+Shining in the light of Your glory
+Pour out Your power and love
+As we sing Holy Holy Holy
+You are high and lifted up
+Shining in the light of Your glory
+Lord pour out Your power and love
+As we sing Holy Holy Holy</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Holy Holy Holy
+Holy Holy Holy
+Holy Holy Holy
+Holy Holy Holy</lines>
+    </verse>
+    <verse name="v5">
+      <lines>For unto us a Child is born
+Holy, Holy, Holy,
+For unto us a Child is born
+Holy, Holy, Holy,
+For unto us a Child is born
+Holy, Holy, Holy,
+For unto us a Child is born
+Holy, Holy, Holy.</lines>
+    </verse>
+  </lyrics>
+</song>

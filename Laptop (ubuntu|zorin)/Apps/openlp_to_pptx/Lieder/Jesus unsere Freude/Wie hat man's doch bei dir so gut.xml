@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:18">
+  <properties>
+    <titles>
+      <title>Wie hat man's doch bei dir so gut</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Wilhelm Leschke (1845)</author>
+      <author type="music">Was Gott tut, das ist wohlgetan</author>
+    </authors>
+    <ccliNo>6222664</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wie hat man's doch bei dir so gut,
+du Brunnquell edler Gaben!
+Wer still an deinem Herzen ruht,
+kann voll G'nüge haben.
+Du lenkst den Sinn vom Staube hin
+zu deinen ew'gen Höhen
+und lehrst die Welt verschmähen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wie hat man's doch bei dir so gut
+in dunklen Leidenstagen!
+Man singt dein Lob mit frohem Mut,
+wenn andre trostlos klagen;
+fühlt, dass das Leid in dieser Zeit
+der Frucht in jenem Reiche,
+der Wonne dort nicht gleiche.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wie hat man's doch bei dir so gut,
+wenn man dein Wort vollbringet,
+und wenn der Glaube an dein Blut
+zur Heiligung uns dringet.
+Mit welcher Ruh ergötzest du
+Selbst bei der Schwachheit Fehlen
+die dir geweihten Seelen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wie hat man's doch bei dir so gut,
+wenn man dir treu verbleibet,
+wenn bis zum Tod aus deiner Hut
+nicht Wohl noch Weh uns treibet.
+Voll Dank und Preis entschlummern leis
+in deinem Schoß die Treuen,
+dort ewig sich zu freuen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:25">
+  <properties>
+    <titles>
+      <title>Der du, o Gott, im Himmel bist</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Jakob Spener (1705)</author>
+      <author type="music">Nun freue dich, du Christenheit</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Der du, o Gott im Himmel bist,
+o guter, lieber Vater!
+Bei dir allein die Hilfe ist,
+du Tröster und Berater.
+Dich flehen wir jetzt herzlich an,
+dich, dessen Allmacht alles kann,
+du wirst uns gerne hören.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir haben diese Freudigkeit
+durch deinen Sohn empfangen.
+Durch Christus ist uns Heil bereit',
+dass wir die Hilf erlangen.
+Um diese Hilfe flehen wir,
+lass wohlgefallen, Höchster,
+dir jetzt unsre sieben Bitten:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dein Name stets geheiligt werd,
+dein Reich lass uns erfreuen,
+dein Will gescheh auch hier auf Erd'.
+Gib Frieden, Brot, Gedeihen;
+all unsre Sünden uns verzeih,
+steh uns in der Versuchung bei,
+erlös uns von dem Bösen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dies alles, Vater, werde wahr.
+Du wollest es erfüllen.
+Erhör und hilf uns immerdar,
+um Jesus Christi willen;
+denn dein, o Herr, ist allezeit,
+von Ewigkeit zu Ewigkeit,
+das Reich, die Macht und Ehre.</lines>
+    </verse>
+  </lyrics>
+</song>

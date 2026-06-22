@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 7, 2025, 10:19:52 AM">
+  <properties>
+    <titles>
+      <title>Every Step I Take</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>There is a resting place
+in the center of His grace,
+I long to be in it so should you;
+So Lord guide my way I pray,
+in this Laodicean day,
+I only want to do
+what You want me to do.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Lord, with every step I take,
+With every move I make;
+Let Your Holy Spirit be my guide,
+Let me always heed Your voice,
+When I have to make a choice,
+I want Your perfect will for my life.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>There are times
+we think we're right,
+Think we have a green light;
+But we find ourselves
+in God's permissive will.
+But oh what glory
+and what beauty,
+To be in the line of duty,
+His perfect will
+I always want to fill.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Sub Chorus:
+I don't ever want to be caught
+Doing God a service
+without His will;
+Cause I know
+that He has a plan for me,
+I know that there is
+wonders to fulfill, I will.</lines>
+    </verse>
+  </lyrics>
+</song>

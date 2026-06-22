@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Draw Me Near</title>
+    </titles>
+    <authors>
+      <author type="words">Jeff Nelson</author>
+      <author type="music">Jeff Nelson</author>
+      <author type="translation">Zieh mich zu dir</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father God I come into Your presence
+With all my heart I come to sing Your praises
+I want to fill Your embrace
+Your love and Your grace
+With a passion in my heart
+I desire to seek Your face</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Draw me near Your presence Oh Lord
+Draw me near To You our loving God
+I long for You my heart
+Worship You alone
+Draw me near Your presence Oh Lord</lines>
+    </verse>
+  </lyrics>
+</song>

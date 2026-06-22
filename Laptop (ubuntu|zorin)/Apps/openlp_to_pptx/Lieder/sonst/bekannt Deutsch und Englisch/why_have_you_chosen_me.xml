@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jun 27, 2021, 2:37:49 PM">
+  <properties>
+    <titles>
+      <title>Why Have You Chosen Me</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Why have You chosen me
+Out of millions Your child to be
+You know all the wrongs that I've done
+Oh, how could You pardon me
+To forgive my iniquity, to save me
+You gave Jesus Your Son</lines>
+    </verse>
+    <verse name="C2">
+      <lines>But Lord help me be
+What You want me to be
+Your Word I will strive to obey
+My life I now give
+For You I will live
+And walk by Your side
+All the way</lines>
+    </verse>
+    <verse name="V3">
+      <lines>I am amazed to know that our God,
+So great, could love me so
+Is willing and wanting to bless
+His love is so wonderful
+His mercy so bountiful
+I can't understand it, I confess</lines>
+    </verse>
+  </lyrics>
+</song>

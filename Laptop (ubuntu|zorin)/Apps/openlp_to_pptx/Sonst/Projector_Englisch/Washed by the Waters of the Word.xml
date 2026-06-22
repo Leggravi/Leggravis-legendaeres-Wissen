@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Washed by the Waters of the Word</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do you know what it is
+Not to have one guilty feeling
+Not to wonder where you're going when you die?
+Not condemned of the past,
+Not afraid of what tomorrow holds in store
+And know the reason why?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yes that's just how it is
+When you go down in the water
+'Cause by faith you believe
+In what you heard
+It's no impossible dream
+You can start over clean
+When you're washed
+By the water of the Word.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Are you washed by the water
+Washed by the water of the word?
+Are you washed by the water
+Washed by the water of the word?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It's like being born again
+With a whole new life to live
+Never having to look back
+To what you've been
+Cause according to the Lord,
+You've just started your existence
+And where He's concerned
+There never was a sin</lines>
+    </verse>
+    <verse name="v5">
+      <lines>For when God looks your way
+He no longer sees a sinner
+But a saint who's been washed
+White as snow
+Not by anything we've done
+But by the blood of God's own Son
+Are you washed
+By the water of the Word?</lines>
+    </verse>
+  </lyrics>
+</song>

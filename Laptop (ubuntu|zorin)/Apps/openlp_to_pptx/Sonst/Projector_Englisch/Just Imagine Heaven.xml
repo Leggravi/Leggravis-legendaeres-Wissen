@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Just Imagine Heaven</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Just imagine heaven, what God's kingdom will be like
+Where we will live forever - no more pain, or tears or strife.
+Some folks may think of heaven - just a distant dream beyond some stars.
+It's just as real as Jesus promised, just as near to us as our own hearts.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Some call it cannan land, some say it's beulah land.
+It's called peace beyond that old river, a place not made by hands.
+It's that great celestial city with mansions round God's throne,
+but for all who know my Lord, they call it Home.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Can you imagine living in God's beautiful new Jerusalem?
+You see, one of these days it's gonna all be over
+when these weary hearts are gonna find rest in Him.
+we'll awake from all our dreams, and we'll meet our Savior
+face to face.
+You know, He will receive us as His children, smile and say
+&quot;Welcome Home, to stay.&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

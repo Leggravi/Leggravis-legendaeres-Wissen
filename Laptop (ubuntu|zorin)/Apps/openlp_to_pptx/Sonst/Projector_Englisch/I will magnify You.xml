@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I will magnify You</title>
+    </titles>
+    <authors>
+      <author type="words">Bob Fitts</author>
+      <author type="music">Bob Fitts</author>
+      <author type="translation">Preisen will ich Dich</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will magnify You
+I will glorify You
+I will lift my hands and
+Worship my King
+So take your rightful place Lord
+Jesus you're my Saviour
+I will magnify you
+And glorify your name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus you are my Lord
+And I crown you King
+The redeemer of all
+Your life an offering
+Death could not hold you down
+By your blood I'm free
+All creation rejoice
+And proclaim His victory</lines>
+    </verse>
+  </lyrics>
+</song>

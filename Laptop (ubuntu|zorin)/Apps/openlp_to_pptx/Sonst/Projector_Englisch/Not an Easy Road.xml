@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Not an Easy Road</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It’s not an easy road
+We are trav’ling to heaven,
+For many are the thorns on the way;
+It’s not an easy road,
+But the Savior is with us,
+His presence gives us joy ev’ry day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No, no, it’s not an easy road,
+No, no, it’s not an easy road;
+But Jesus walks beside me
+And brightens the journey,
+And lightens ev’ry heavy load.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It’s not an easy road,
+There are trials and troubles
+And many are the dangers we meet;
+But Jesus guards and keeps
+So that nothing can harm us,
+And smooths the rugged path for our feet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tho’ I am often footsore
+And weary from travel,
+Tho’ I am often bowed down with care,
+Well a better day is coming
+When home in the glory
+We’ll rest in perfect peace over there.</lines>
+    </verse>
+  </lyrics>
+</song>

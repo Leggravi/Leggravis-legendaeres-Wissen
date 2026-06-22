@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Du Lamm Gottes, Du hast auf Golgatha</title>
+    </titles>
+    <authors>
+      <author type="words">Dora Rappard</author>
+      <author type="music">Dora Rappard</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Du Lamm Gottes, Du hast auf Golgatha
+herrlich gesieget. Amen, Halleluja!
+Du hast erworben Heil für die ganze Welt
+und hast aufs völligste gezahlt das Lösegeld.
+Du riefst mit lauter Stimm durch's Todes Nacht:
+&quot;Es ist vollbracht! Es ist vollbracht!&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Wort des Lebens, hier kann mein Glaube ruhn,
+auf diesen Felsen kann ich mich gründen nun.
+Ewig vollkommen ist unsers Gottes Heil;
+nimm es, o Sünder, an, so wird dir's ganz zuteil;
+nichts kannst du machen mehr, Er hat's gemacht:
+Es ist vollbracht! Es ist vollbracht!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Wort des Sieges! Wenn mir der Satan naht,
+blick ich zum Helden, der ihn zertreten hat.
+In Jesu Wunden bin ich erlöst und frei,
+sein lauter Todesruf ist nun mein Siegesschrei.
+Nicht soll mich fesseln mehr des Feindes Macht.
+Es ist vollbracht! Es ist vollbracht!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, mein Heiland, Dir sag ich Preis und Dank!
+O Überwinder, hör meinen Lobgesang!
+In deiner Gnade hüll ich mich tief hinein,
+in deinem teuren Blut bin ich gerecht und rein.
+Ehr sei dem Lamm, das rief, da es geschlacht:
+&quot;Es ist vollbracht! Es ist vollbracht!&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

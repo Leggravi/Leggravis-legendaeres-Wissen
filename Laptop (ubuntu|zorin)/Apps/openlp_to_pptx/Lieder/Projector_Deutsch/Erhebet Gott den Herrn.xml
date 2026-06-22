@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Erhebet Gott, den Herrn</title>
+    </titles>
+    <authors>
+      <author type="words">Gitta Leuschner</author>
+      <author type="music">Rick Ridings</author>
+      <author type="translation">Exalt the Lord our God</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Erhebet Gott, den Herrn.
+Erhebet Gott, den Herrn.
+Und betet an vor Seinem Thron.
+Betet an vor Seinem Thron.
+Heilig ist Er!
+Heilig ist Er!</lines>
+    </verse>
+  </lyrics>
+</song>

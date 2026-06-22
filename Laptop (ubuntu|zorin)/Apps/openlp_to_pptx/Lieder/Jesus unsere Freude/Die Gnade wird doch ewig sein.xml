@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:08">
+  <properties>
+    <titles>
+      <title>Die Gnade wird doch ewig sein</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Friedrich Hiller (1767)</author>
+      <author type="music">Nun danket all und bringet Ehr</author>
+    </authors>
+    <ccliNo>6222107</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Die Gnade wird doch ewig sein,
+die Wahrheit doch gewiss,
+bräch auch des Himmels Feste ein
+und sänk in Finsternis.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gott ist kein Mensch, den etwas reut,
+und sein Wort bricht er nie;
+die Gnade währt nicht kurze Zeit,
+auf ewig währet sie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hat er uns Gnade zugesagt,
+so bleibt er fest dabei;
+und wenn uns Furcht und Zweifel plagt,
+so bleibt er doch getreu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mein Herz, so stelle dich getrost
+auf diese Gnade hin,
+dass Gott mich ewig nicht verstößt,
+weil ich in Jesus bin.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In Jesus liegt der Gnade Grund,
+da nimmt der Glaube teil;
+mein Heiland, an dem Kreuz verwundt,
+macht meine Seele heil.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O Gnade, dass mein Glaube dich
+recht herzhaft fassen könnt,
+so lang, bis meine Seele sich
+von meinem Leibe trennt.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Herr, deine Gnade mache mich
+in mir recht arm und klein;
+denn nur in dir allein kann ich
+erst groß und herrlich sein.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Herr, lasse nichts von mir geschehn,
+die Gnade sei denn mit;
+lass deine Gnade mit mir gehn
+bis zu dem letzten Schritt.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Kommt dann dein großer Tag herbei,
+so lass im Auferstehn,
+dass deine Gnade ewig sei,
+mich dich im Himmel sehn.</lines>
+    </verse>
+  </lyrics>
+</song>

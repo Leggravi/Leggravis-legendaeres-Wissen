@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Closer</title>
+    </titles>
+    <authors>
+      <author type="words">Trish Morgan</author>
+      <author type="music">Trish Morgan</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a rainbow of mercy around You
+It's calling me closer, closer
+The blood of Your Son has made me a way
+A way to come closer, closer</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For You delight in showing me mercy
+And you desire me to draw near
+Now You have caused me to come and approach you
+And I am blessed among men</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now there is one thing I will desire
+And there is one thing I will seek
+That I may behold You in all of your glory
+To gaze on the beauty of the King</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Only Real Peace</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The only real peace that I have,
+Dear Lord is in you
+The only real peace that I have,
+Dear Lord is in you,
+with all life's frustrations
+I need you
+I know that I do
+The only real peace that I have,
+Dear Lord is in you</lines>
+    </verse>
+  </lyrics>
+</song>

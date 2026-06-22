@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich habe einen herrlichen Heiland</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich hab einen herrlichen Heiland,
+Er hilft mir, wo immer ich geh;
+ich muss seine Wunden bezeugen
+dass jeder, jeder sie seh.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Drum soll jeder es sehn,
+drum soll jeder es sehn
+Ich hab einen herrlichen Heiland,
+ja, jeder, jeder soll´s sehn!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sein liebendes Herz mich beglücket,
+seitdem ich so nah Ihm darf stehn.
+Er, Er ist der schönste von allen;
+ach, dass doch alle es sähn!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Er hilft mir, wenn Satan mit Schlingen
+und Fallstrick am Wege steht;
+ich muss seine Siegesmacht rühmen,
+damit ihr alle es seht.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mein Lieben, mein Leben mein Alles
+ist Sein, und ich diene Ihm gern,
+Ihm, der mich so herrlich errettet,
+Ihm, meinem herrlichen Herrn.</lines>
+    </verse>
+  </lyrics>
+</song>

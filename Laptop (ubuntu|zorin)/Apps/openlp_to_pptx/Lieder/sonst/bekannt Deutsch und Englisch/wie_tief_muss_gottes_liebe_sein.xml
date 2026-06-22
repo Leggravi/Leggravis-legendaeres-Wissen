@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jun 17, 2022, 11:09:01 AM">
+  <properties>
+    <titles>
+      <title>Wie tief muss Gottes Liebe sein</title>
+    </titles>
+    <verseOrder>V1 V2 V3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Wie tief muss Gottes Liebe sein
+Er liebt uns ohne Maßen
+Hat seinen Sohn an unsrer Statt
+Für alles büßen lassen
+Als alle Sünde auf ihm lag
+Der Vater sein Gesicht verbarg
+Als er, der Auserwählte, starb
+Gab er uns neues Leben</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Ich schaue auf den Mann am Kreuz
+Kann meine Schuld dort sehen
+Und voll Beschämung sehe ich
+Mich bei den Spöttern stehen
+Für meine Sünden hing er dort
+Sie brachten ihn ums Leben
+Sein Sterben hat sie ausgelöscht
+Ich weiß, mir ist vergeben</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Ich werde keiner Macht der Welt
+Und keiner Weisheit trauen
+Auf Jesu Tod und Auferstehn
+Will ich mein Leben bauen
+Ich hab das alles nicht verdient
+Ich leb durch seine Gnade
+Sein Blut bezahlt für meine Schuld
+Damit ich Leben habe</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="May 13, 2021, 9:37:44 PM">
+  <properties>
+    <titles>
+      <title>Shepherd of My Soul</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Shepherd of my soul
+I give You full control,
+Wherever You may lead I will follow.
+I have made the choice
+To listen for Your voice,
+Wherever You may lead I will go.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Be it in a quiet pasture
+Or by a gentle stream,
+The Shepherd of my soul is by my side.
+Should I face a mighty mountain
+Or a valley dark and deep,
+The Shepherd of my soul will be my guide.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Shepherd of my soul
+Oh You have made me whole,
+Where’er I hear You call
+How my tears flow.
+How I feel Your love
+How I want to serve
+I gladly give my heart
+to You, O Lord.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Be it in the flowing river
+Or in the quiet night,
+The Shepherd of my soul
+is by my side.
+Should I face the stormy weather
+Or the dangers of this world.
+The Shepherd of my soul
+will be my guide.</lines>
+    </verse>
+  </lyrics>
+</song>

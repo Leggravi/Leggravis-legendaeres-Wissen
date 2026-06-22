@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Faithful Over a Few Things</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You must be faithful,
+Over a few things,
+To be ruler over many things,
+Bet thou faithful, unto death,
+And God will give you a crown of life.
+And God will give you a crown of life.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So if you have a song to sing,
+Faithfully sing that song
+If you have some love to show,
+Show it the whole day long</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If you have a kind word to say,
+Try to say it, each and every day
+If you have not a prayer to pray,
+Pray on in Jesus name</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Be ye steadfast, unmovable,
+Always abounding
+In the work of God</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Know that your labor, is not in vain,
+You shall receive a just reward
+Be thou faithful,
+And God will give you a crown of life,
+And God will give you a crown of life.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Well done,
+Good and faithful servant, well done!
+Be thou faithful,
+And God will give you a crown of life,
+And God will give you a crown of life.</lines>
+    </verse>
+  </lyrics>
+</song>

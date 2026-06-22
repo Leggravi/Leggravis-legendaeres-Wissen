@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I've Got My Mind Made Up</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: I've got my mind made up,
+I've got my heart fixed right,
+I'm going with Jesus all the way. :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Am I a soldier of the cross,
+A follower of the Lamb,
+And shall I fear to own His cause,
+Or blush to speak His name?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/: I've got my mind made up,
+I've got my heart fixed right,
+I'm going with Jesus all the way :/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Must I be carried to the skies,
+On flowery bed of ease,
+While others fought to win the prize,
+And sailed the bloody seas?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Are there no foes for me to face?
+Must I not stem the flood?
+Is this vile world friend to grace,
+To help me on to God?</lines>
+    </verse>
+  </lyrics>
+</song>

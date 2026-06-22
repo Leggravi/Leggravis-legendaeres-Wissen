@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Blessed Day of Motherhood</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O blessèd day of motherhood!
+We lift our hearts in praise,
+To thank the Source of every good:
+Thy joy crowns all our days.
+O God, our Father, bless this day,
+Enrich its golden store
+Of blessèd mother love, and may
+Thy children Thee adore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O gracious day of motherhood!
+Our faith, by God increased,
+Hath each alluring foe withstood;
+Our souls He hath released.
+O God, our Father, bless this day,
+Enrich its golden store
+Of gracious mother love, and may
+Thy children Thee adore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O precious day of motherhood!
+Teach us in Christ to find
+The greater gifts of brotherhood;
+Bring peace to all mankind.
+O God, our Father, bless this day,
+Enrich its golden store
+Of precious mother love, and may
+Thy children Thee adore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O wondrous day of motherhood!
+Thy love to all abound;
+Beside the cross once Mary stood;
+Again let love be crowned.
+O God, our Father, bless this day,
+Enrich its golden store
+Of wondrous mother love, and may
+Thy children Thee adore.</lines>
+    </verse>
+  </lyrics>
+</song>

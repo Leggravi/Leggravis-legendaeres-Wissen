@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hope in the Night</title>
+    </titles>
+    <authors>
+      <author type="words">Brian Arthur Wren</author>
+      <author type="music">Charles Haizlipp Webb</author>
+      <author type="translation">Frau in kalter Nacht</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When your dreams don't come true
+And you don't know what to do
+Wondering how life could be so cruel
+I have felt the pain like you
+And I have made it through
+By holding on to Someone
+Who wants to hold you too</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is hope in the night
+When the darkness hides the day
+There's hope for your heart
+When the fears hide your faith
+Listen to the One who says
+Everything will be alright
+Don't give up,
+There is hope in the night</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There are tears in your eyes
+From all the pain inside
+You can't see the rainbow through the rain
+The sun will shine again
+Your broken heart will mend
+Joy is in the morning
+So just hang on'til then</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Look beyond the hopelessness you'll see
+Oh, pray to God above and just believe</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There is hope in the night
+When the darkness hides the day
+There's hope for your heart
+When the fears hide your faith
+Listen to the One who says
+Everything will be alright
+Don't give up, don't give up
+Don't give up,
+There is hope in the night</lines>
+    </verse>
+  </lyrics>
+</song>

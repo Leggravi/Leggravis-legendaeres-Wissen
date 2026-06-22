@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Apr 13, 2019, 11:32:05 PM">
+  <properties>
+    <titles>
+      <title>Leben aus der Quelle</title>
+    </titles>
+    <verseOrder>C1 C1 V2 V2 C1 C1 V3 V3 C1 C1 V4 V4 C1 C1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="C1">
+      <lines>Leben aus der Quelle, Leben nur aus dir,
+Leben aus der Quelle des Lebens.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Und du erforscht mich, veränderst mein Denken,
+nur noch aus dir will ich leben, oh Herr.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Hilfst mir zu schweigen und auf dich zu warten,
+nur noch aus dir will ich leben, oh Herr.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Willst mich gebrauchen, als Salz für die Erde,
+nur noch aus dir will ich leben, oh Herr.</lines>
+    </verse>
+  </lyrics>
+</song>

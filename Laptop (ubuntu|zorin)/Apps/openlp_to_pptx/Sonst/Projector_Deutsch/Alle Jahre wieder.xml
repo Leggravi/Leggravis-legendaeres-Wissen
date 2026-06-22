@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Alle Jahre wieder</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Wilhelm Hey</author>
+      <author type="music">Stephen Janetzko</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alle Jahre wieder
+Kommt das Christuskind
+Auf die Erde nieder
+Wo wir Menschen sind</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kehrt mit seinem Segen
+Ein in jedes Haus
+Geht auf allen Wegen
+Mit uns ein und aus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Steht auch mir zur Seite
+Still und unerkannt
+Dass es treu mich leite
+An der lieben Hand</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alle Jahre wieder
+Kommt der Weihnachtsmann
+Hat so viele Gaben
+Wie er tragen kann</lines>
+    </verse>
+  </lyrics>
+</song>

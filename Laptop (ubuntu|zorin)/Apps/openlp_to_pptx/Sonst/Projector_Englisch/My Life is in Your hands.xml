@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Life is in Your hands</title>
+    </titles>
+    <authors>
+      <author type="words">Richard Cimino</author>
+      <author type="music">Richard Cimino</author>
+      <author type="translation">Die Hände durchbohrt (Meine Liebe ist Dein)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You don't have to worry
+And don't you be afraid
+Joy comes in the morning
+Troubles they don't last always
+For there's a friend in Jesus
+Who will wipe your tears away
+And if your heart is broken
+Just lift your hands and say</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh
+I know that I can make it
+I know that I can stand
+No matter what may come my way
+My life is in your hands</lines>
+    </verse>
+    <verse name="v3">
+      <lines>With Jesus I can take it
+With Him I know I can stand
+No matter what may come my way
+My life is in your hands</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So when your tests and trials
+They seem to get you down
+And all your friends and loved ones
+Are nowhere to be found
+Remember there's a friend in Jesus
+Who will wipe your tears away
+And if you heart is broken
+Just lift your hands and say</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh
+I know that I can make it
+I know that I can stand
+No matter what may come my way
+My life is in your hands</lines>
+    </verse>
+    <verse name="v6">
+      <lines>With Jesus I can take it
+With Him I know I can stand
+No matter what may come my way
+My life is in your hands</lines>
+    </verse>
+  </lyrics>
+</song>

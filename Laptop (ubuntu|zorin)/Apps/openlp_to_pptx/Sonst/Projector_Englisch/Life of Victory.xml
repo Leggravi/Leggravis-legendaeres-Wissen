@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Life of Victory</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can live a life, a life of victory,
+I can live a life, a life of victory x 2
+The name of Jesus set me free
+I can live a life, a life of victory.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You come to me with a sword
+and a javelin
+come to you in the name of the
+Lord
+And I’ll have victory, victory, victory
+in the Lord Victory, victory, victory
+in the Lord
+My victory will come from no other,
+My victory will come from the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There are rivers to climb on your
+way to heaven
+You climb them in the Name of the Lord,
+There are mountains to climb
+on your to way to heaven
+You climb them in the Name of the Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You may be tempted by the
+things of this world
+Refuse them in the Name of the Lord
+You may be deserted
+by all your friends
+Your comfort will come from the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

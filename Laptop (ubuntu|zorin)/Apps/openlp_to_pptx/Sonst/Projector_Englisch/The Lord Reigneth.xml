@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Lord Reigneth</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord reigneth, the Lord reigneth.
+Blessed be the name of our God.
+The Lord reigneth, the Lord reigneth.
+Blessed be the name of our God.
+Let the heavens be glad
+And the earth rejoice,
+Let men say among the nations:
+The Lord reigneth, the Lord reigneth,
+Blessed be the name of our God.</lines>
+    </verse>
+  </lyrics>
+</song>

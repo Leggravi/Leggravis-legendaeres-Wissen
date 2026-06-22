@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Well Done</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What will it be like when my pain is gone
+And all the worries of this world just fade away?
+What will it be like when You call my name
+And that moment when I see You face to face</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm waiting my whole life to hear You say</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Well done, well done
+My good and faithful one
+Welcome to the place where you belong
+Well done, well done
+My beloved child
+You have run the race and now you're home
+Welcome to the place where you belong</lines>
+    </verse>
+    <verse name="v4">
+      <lines>What will it be like when tears are washed away
+And every broken thing will finally be made whole?
+What will it be like when I come into Your glory
+Standing in the presence of a love so beautiful?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I'm waiting my whole life for that day
+I will live my life to hear You say</lines>
+    </verse>
+    <verse name="v6">
+      <lines>What will it be like when I hear that sound?
+All of heaven's angels crying out
+Singing holy, holy, holy are You, Lord
+Singing holy, holy, holy are You, Lord
+Singing holy, holy, holy are You, Lord
+Waiting my whole life for that day
+Until then I'll live to hear You say</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Well done, well done
+My good and faithful one
+Welcome to the place where you belong
+Well done, well done
+My beloved child
+You have run the race and now you're home
+Welcome to the place where you belong
+Well done</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 29, 2024, 9:58:32 PM">
+  <properties>
+    <titles>
+      <title>There Is a Fountain Filled with Blood</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4 V5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>There is a fountain filled with blood
+Drawn from Immanuel's veins;
+And sinners, plunged beneath that flood,
+Lose all their guilty stains,
+Lose all their guilty stains,
+Lose all their guilty stains;
+And sinners, plunged beneath that flood,
+Lose all their guilty stains.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>The dying thief rejoiced to see
+That fountain in his day;
+And there may I, though vile as he,
+Wash all my sins away,
+Wash all my sins away,
+Wash all my sins away,
+And there may I, though vile as he,
+Wash all my sins away.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Thou dying Lamb, Thy precious blood
+Shall never lose its power,
+Till all the ransomed church of God
+Be saved, to sin no more,
+Be saved, to sin no more,
+Be saved, to sin no more;
+Till all the ransomed church of God
+Be saved, to sin no more.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>For since by faith I saw the stream
+Thy flowing wounds supply,
+Redeeming love has been my theme,
+And shall be till I die,
+And shall be till I die,
+And shall be till I die,
+Redeeming love has been my theme,
+And shall be till I die.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Then in a nobler, sweeter song,
+I'll sing Thy power to save,
+When this poor lisping, stammering tongue
+Lies silent in the grave,
+Lies silent in the grave,
+Lies silent in the grave,
+When this poor lisping, stammering tongue
+Lies silent in the grave.</lines>
+    </verse>
+  </lyrics>
+</song>

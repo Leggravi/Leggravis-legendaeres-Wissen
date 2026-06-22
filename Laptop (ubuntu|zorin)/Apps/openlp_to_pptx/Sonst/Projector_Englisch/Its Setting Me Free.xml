@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It's Setting Me Free</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's setting me free,
+This Holy Ghost power;
+It's setting me free, this very hour;
+It's down in my soul,
+It's making me whole
+It's setting me free, free, free,
+This Holy Ghost power.</lines>
+    </verse>
+  </lyrics>
+</song>

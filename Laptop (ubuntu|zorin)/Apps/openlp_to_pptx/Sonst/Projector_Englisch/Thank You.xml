@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thank You</title>
+    </titles>
+    <authors>
+      <author type="words">Jesus Army</author>
+      <author type="music">Jesus Army</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thank you for Your kindness
+Thank you for Your mercy
+Thank you for the cross
+Thank you for the price You paid</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thank you for salvation
+Thank you for unending grace
+Thank you for Your hope
+Thank you for this life You gave</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is no one like You
+There is no one like You, God
+All my hope is in You
+Jesus, Jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thank you for Your promise
+Thank you for Your favour
+And thank you for Your love
+And everything You've done for me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There is no one like You
+There is no one like You, God
+All my hope is in You
+Jesus, Jesus
+Jesus, Jesus</lines>
+    </verse>
+    <verse name="v6">
+      <lines>To Your name, we give all the glory
+To Your name, we give all the praise
+And You're alive, our God everlasting
+So let Your face shine on us</lines>
+    </verse>
+    <verse name="v7">
+      <lines>'Cause there is no one like You
+There is no one like You, God
+And all my hope is in You
+Jesus, Jesus (Jesus)
+Jesus, Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

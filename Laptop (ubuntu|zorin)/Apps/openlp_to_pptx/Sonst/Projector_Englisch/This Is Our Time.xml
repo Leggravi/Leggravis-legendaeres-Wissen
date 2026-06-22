@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Is Our Time</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v5 v5 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here and now make it loud
+At the top of our lungs
+There's a sound breaking out
+Lord for all that You've done</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And now, we're turning our, turning our hearts to You
+And no, we'll never stop, never stop loving You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This will be the best time of our lives
+As we encounter Your love again
+Here with You our hearts will come alive
+As we declare Your praises
+Woa-oh-oh-oh, woa-oh-oh-oh
+As we declare Your praises
+Woa-oh-oh-oh, woa-oh-oh-oh</lines>
+    </verse>
+    <verse name="v4">
+      <lines>From the start here we are
+To collide with Your love
+Every heart, set apart
+Just to be where You are</lines>
+    </verse>
+    <verse name="v5">
+      <lines>This is our time
+This is our place
+This is our moment to lift Your name</lines>
+    </verse>
+  </lyrics>
+</song>

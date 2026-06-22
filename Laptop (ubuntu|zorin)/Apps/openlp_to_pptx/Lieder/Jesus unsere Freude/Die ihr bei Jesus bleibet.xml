@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:31">
+  <properties>
+    <titles>
+      <title>Die ihr bei Jesus bleibet</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Friedrich Hiller (1762)</author>
+      <author type="music">Nun lasst uns Gott dem Herren Dank sagen</author>
+    </authors>
+    <ccliNo>5216547</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Die ihr bei Jesu(s) bleibet,
+indem sein Wort euch treibet,
+die ihr nicht von ihm gehet,
+dieweil ihr Wunder sehet:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Was speist euch doch, ihr Armen?
+Das göttliche Erbarmen;
+das segnet ganz verborgen
+auch ohne eure Sorgen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn wir von Tag zu Tagen,
+was da ist, überschlagen
+und rechnen dann die Menge,
+so sind wir im Gedränge.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Doch wenn wir mit Vertrauen
+ihm auf die Hände schauen,
+so nähret allerwegen
+uns ein geheimer Segen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wie dieses mag geschehen,
+das kann man nicht verstehen;
+allein man sieht am Ende,
+es ging durch Gottes Hände.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Man wundert sich und preiset
+den Herrn, der so gespeiset;
+man glaubt von Herzensgrunde
+und dankt mit frohem Munde.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Kommt her und singt zusammen:
+Wir rühmen deinen Namen.
+Du, Gott, bist unser König,
+dir sind wir untertänig.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich singe Dir ein Liebeslied</title>
+    </titles>
+    <authors>
+      <author type="words">Irene Heidenreich</author>
+      <author type="music">Craig Musseau</author>
+      <author type="translation">I sing a simple song of love (Arms of love)</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich singe Dir ein Liebeslied, Dir, mein Retter, Dir mein Jesus.
+Du hast so viel für mich getan,
+mein Erlöser, kostbarer Jesus.
+My loving Savior, my precious Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mein Herz ist froh, denn Du nennst mich ganz Dein.
+My heart is glad that You've called me Your own.
+Es gibt keinen Ort, wo ich lieber wär
+There's no place I'd rather be than</lines>
+    </verse>
+    <verse name="v3">
+      <lines>als in Deinem liebenden Arm, in Deinem liebenden Arm.
+Halte mich fest, ganz nah bei Dir, in Deinem Arm.</lines>
+    </verse>
+  </lyrics>
+</song>

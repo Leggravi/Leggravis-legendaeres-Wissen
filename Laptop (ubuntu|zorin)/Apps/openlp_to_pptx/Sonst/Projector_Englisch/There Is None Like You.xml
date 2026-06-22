@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There Is None Like You</title>
+    </titles>
+    <authors>
+      <author type="words">Lenny LeBlanc</author>
+      <author type="music">Lenny LeBlanc</author>
+      <author type="translation">Keiner ist wie du (Niemand sonst berührt mein Herz so wie du)</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is none like You
+No one else can touch my life (heart)
+Like you do,
+And I have search for all eternity long
+And (I) find there is none like You.</lines>
+    </verse>
+  </lyrics>
+</song>

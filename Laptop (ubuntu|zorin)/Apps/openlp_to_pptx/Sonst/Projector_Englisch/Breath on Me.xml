@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Breath on Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Breathe on me, breath of God
+Love and life that makes me free
+Breathe on me, breath of God
+Fan the flame within me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Teach my heart, heal my soul
+Speak the mind that in Christ we know
+Take me to Your sanctuary
+Breathe on me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Speak to me, voice of God
+Soft and still, inside my heart (speak to me)
+Speak to me, word of God
+Comfort, heal, restore with light</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Teach my heart and heal my soul
+Speak the mind that in Christ we know
+Take me to Your sanctuary (teach my heart)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Teach my heart (and heal my soul), heal my soul
+Speak the mind that in Christ we know (take me to)
+Take me to Your sanctuary (teach my heart)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Teach my heart (and heal my soul), heal my soul
+Speak the mind that in Christ we know
+Take me to Your sanctuary
+Breathe on me, breathe on me
+Breathe on me
+(Breathe on me)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Breathe on me (take me to Your sanctuary)
+Breathe on me (take me to Your sanctuary)
+Breathe on me</lines>
+    </verse>
+  </lyrics>
+</song>

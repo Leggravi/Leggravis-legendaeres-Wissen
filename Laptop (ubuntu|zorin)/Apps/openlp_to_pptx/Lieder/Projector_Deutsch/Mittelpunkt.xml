@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mittelpunkt</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Königlich strahlt Dein Licht
+Du bist ewiglich
+Niemand kommt Dir gleich
+Sanftmütig führst Du mich
+Hin zu Deinem Licht
+Ich darf bei Dir sein</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sei Du der Mittelpunkt in meinem Leben
+Der Mittelpunkt in meinem Herzen
+Ich gehöre Dir
+Sei Du der Mittelpunkt in meiner Schwäche
+Der Mittelpunkt in meiner Stärke
+Ich gehöre Dir</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich will Dir nah sein
+Ich werd' Dir folgen
+Mein ganzes Leben in Dir verlieren</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich gehöre Dir
+Ich gehöre Dir
+Ich gehöre Dir
+Ich gehöre Dir</lines>
+    </verse>
+  </lyrics>
+</song>

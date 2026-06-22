@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:40">
+  <properties>
+    <titles>
+      <title>Jesu, geh voran auf der Lebensbahn</title>
+    </titles>
+    <authors>
+      <author type="words">Nikolaus Ludwig Graf von Zinzendorf (1725)</author>
+      <author type="words">Christian Gregor (1778)</author>
+      <author type="music">Seelenbräutigam, Jesus, Gotteslamm!</author>
+    </authors>
+    <ccliNo>5210127</ccliNo>
+    <themes>
+      <theme>Lebensweg</theme>
+      <theme>Nachfolge</theme>
+      <theme>Leid</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, geh voran
+auf der Lebensbahn!
+Und wir wollen nicht verweilen,
+dir getreulich nachzueilen;
+führ uns an der Hand
+bis ins Vaterland.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Soll's uns hart ergehn,
+lass uns feste stehn
+und auch in den schwersten Tagen
+niemals über Lasten klagen;
+denn durch Trübsal hier
+geht der Weg zu dir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rühret eigner Schmerz
+irgend unser Herz,
+kümmert uns ein fremdes Leiden,
+o so gib Geduld zu beiden;
+richte unsern Sinn
+auf das Ende hin.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ordne unsern Gang,
+Jesu, lebenslang.
+Führst du uns durch rauhe Wege,
+gib uns auch die nöt'ge Pflege;
+tu uns nach dem Lauf
+deine Türe auf.</lines>
+    </verse>
+  </lyrics>
+</song>

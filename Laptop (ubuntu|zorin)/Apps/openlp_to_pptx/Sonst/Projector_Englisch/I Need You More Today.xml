@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Need You More Today</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There are decisions I can't make on my own
+And there are trials I can't face all alone
+But you said you'd walk with me
+Down life's troubled road
+And you said, &quot;Come unto Me,
+I'll bear your heavy load.&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I need you more today
+Than I did yesterday
+Mountains are higher
+Rivers are wider
+I need you more today
+Than I did yesterday
+Help me remember
+I need you more today</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I wake up in the morning
+And I fear to face the day
+Let me feel your gentle hand
+Leading the way
+Yesterday has come and gone
+With those trials far behind
+But I'm ever learning, Lord,
+And every day I find</lines>
+    </verse>
+  </lyrics>
+</song>

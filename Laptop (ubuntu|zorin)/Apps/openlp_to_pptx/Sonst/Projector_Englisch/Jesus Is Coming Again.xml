@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Is Coming Again</title>
+    </titles>
+    <authors>
+      <author type="words">Volker Dymel</author>
+      <author type="music">Volker Dymel</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Marvelous message we bring
+Glorious carol we sing
+Wonderful word of the King
+Jesus is coming again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Coming again, coming again
+Maybe morning, maybe noon,
+Maybe evening and maybe soon
+Coming again, coming again
+Oh what a wonderful day it will be
+Jesus is coming again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Forest and flower exclaim
+Mountain and meadow the same
+All earth and heaven proclaim
+Jesus is coming again</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Standing before Him at last
+Trial and trouble all past
+Crowns at His feet we will cast
+Jesus is coming again</lines>
+    </verse>
+  </lyrics>
+</song>

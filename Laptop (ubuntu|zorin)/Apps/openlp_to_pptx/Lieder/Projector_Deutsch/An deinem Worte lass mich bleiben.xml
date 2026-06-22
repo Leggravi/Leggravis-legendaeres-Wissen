@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>An deinem Worte lass mich bleiben</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Johann Anastasius Freylinghausen</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>An deinem Worte lass mich bleiben;
+denn Wahrheit ist Dein Wort Allein;
+und lass auf meinem Lebenswege
+es meines Fußes Leuchte sein.
+Wenn Erd' und Himmel auch vergehen:
+Dein Wort bleibt ewig fest bestehen:
+es wird kein Strich, kein Jota fallen,
+Dein Wort nuss in Erfüllung gehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr, Deine Gnade mir genüge,
+in Deinem Frieden lass mich ruhn;
+und alles was ich red' und wirke,
+lass mich zu Deinem Preise tun.
+Steh mir zur Seit', wenn ich soll ziehen,
+reich Du mir Kraft, wenn ich beschwert;
+und will der Feind mir alles rauben,
+sei Gnad' und Friede mir vermehrt!</lines>
+    </verse>
+  </lyrics>
+</song>

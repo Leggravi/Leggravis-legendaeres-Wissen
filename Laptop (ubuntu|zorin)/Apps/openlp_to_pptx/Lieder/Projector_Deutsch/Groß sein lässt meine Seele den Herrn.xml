@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Groß sein lässt meine Seele den Herrn</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Martin Schraufstetter</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Groß sein lässt meine Seele den Herrn, denn er ist mein Retter.
+Groß sein lässt meine Seele den Herrn, denn er ist mein Heil.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Laut rühmt meine Seele Gottes Macht und Herrlichkeit,
+und mein Geist frohlockt in meinem Retter und Herrn.
+Denn sein Auge hat geschaut auf seine kleine Magd.
+Und nun singen alle Völker mit mir im Chor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Denn der Starke hat Gewaltiges an mir getan,
+und sein Name leuchtet auf in herrlichem Glanz.
+Er gießt sein Erbarmen aus durch alle Erdenzeit
+über jeden, der im Herzen Vater ihn nennt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Große Taten führt er aus mit seinem starken Arm.
+Menschen voller Stolz und Hochmut treibt er davon.
+Die die Macht missbrauchen, stößt er hart von ihrem Thron
+und erhebt, die niedrig sind und arm in der Welt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hungernde lädt er zum Mahle ein an seinen Tisch,
+doch mit leeren Händen schickt er Reiche nach Haus.
+Seines Volkes Israel nimmt gütig er sich an,
+wie er Abraham und allen Vätern verhieß.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ehre sei dem Vater, der uns einlädt in sein Reich,
+Ehre sei dem Sohne, der die Liebe uns zeigt.
+Ehre sei dem Geiste, der die Einheit uns verleiht,
+wie im Anfang, so auch jetzt und alle Zeit</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You’re My Bestfriend</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You placed gold on my finger
+You brought love like I've never known
+You gave life to our children
+And to me a reason to go on</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're my bread when I'm hungry
+You're my shelter from troubled winds
+You're my anchor in life's ocean
+But most of all you're my best friend</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I need hope and inspiration
+You're always strong when I'm tired and weak
+I could search this whole world over
+You'd still be everything that I need</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You're my bread when I'm hungry
+You're my shelter from troubled winds
+You're my anchor in life's ocean
+But most of all you're my best friend</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You're my bread when I'm hungry
+You're my shelter from troubled winds
+You're my anchor in life's ocean
+But most of all you're my best friend</lines>
+    </verse>
+  </lyrics>
+</song>

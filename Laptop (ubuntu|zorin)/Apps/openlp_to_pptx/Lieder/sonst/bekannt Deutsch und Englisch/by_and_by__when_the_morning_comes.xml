@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Nov 6, 2024, 8:19:36 PM">
+  <properties>
+    <titles>
+      <title>By and by, When the Morning Comes</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2 V5 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>We are tossed and driven on the restless sea of time;
+Somber skies and howling tempests oft succeed a bright sunshine;
+In that land of perfect day, when the mists have rolled away,
+We will understand it better by and by.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>By and by, when the morning comes,
+When the saints of God are gathered home,
+We’ll tell the story how we overcome,
+For we’ll understand it better by and by.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>We are often destitute of the things that life demands,
+Want of food and want of shelter, thirsty hills and barren lands;
+But we're trusting in the Lord, and according to His Word,
+We will understand it better by and by.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Trials dark on every hand, and we cannot understand
+All the ways that God could lead us to that blessed promised land;
+But He guides us with His eye, and we’ll follow till we die,
+For we’ll understand it better by and by.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Temptations, hidden snares often take us unawares,
+And our hearts are made to bleed for many a thoughtless word or deed;
+And we wonder why the test when we try to do our best,
+But we’ll understand it better by and by.</lines>
+    </verse>
+  </lyrics>
+</song>

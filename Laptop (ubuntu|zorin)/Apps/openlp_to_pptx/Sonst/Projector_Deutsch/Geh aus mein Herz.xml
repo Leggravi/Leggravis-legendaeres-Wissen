@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Geh aus mein Herz</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Gerhardt</author>
+      <author type="music">Hartmut Bietz</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Geh aus, mein Herz und suche Freud
+in dieser lieben Sommerzeit
+an deines Gottes Gaben;
+schau an der schönen Gärten Zier
+und siehe, wie sie mir und dir
+sich ausgeschmückte haben,
+sich ausgeschmückte haben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich selber kann und mag nicht ruhn,
+des großen Gottes großes Tun
+erweckt mir alle Sinnen;
+ich singe mit, wenn alles singt,
+und lasse, was dem Höchsten klingt,
+aus meinem Herzen rinnen,
+aus meinem Herzen rinnen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hilf mir und segne meinen Geist
+mit Segen, der vom Himmel fleußt,
+dass ich dir stetig blühe;
+gib, dass der Sommer deiner Gnad
+in meiner Seele früh und spät
+viel Glaubensfrüchte ziehe
+viel Glaubensfrüchte ziehe.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I got saved</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3 v3 v6 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a river of gladness
+That pours from Emmanuel's veins
+This sinner was plunged beneath the flood
+And got saved</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Since then I walk in forgiveness
+All of my guilt was erased
+The chains of the past
+Are broken at last
+I got saved
+Oh, I got saved</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm undone by the mercy of Jesus
+I'm undone by the goodness of the Lord
+I'm restored and made right
+He got a hold of my life
+I've got Jesus
+How could I want more</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I've received nothing but goodness
+I've tested and tasted Your grace
+I was so lost
+'Til I fell at the cross
+And got saved
+Oh, I got saved</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The love of God
+Gave me His pardon (gave me his pardon)
+The love of God
+Won't let me stay the same (oh, I'll never be the same)
+The love of God
+Pulls me up higher (higher)
+His will is stronger
+That's why I got saved (saved)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I've got Jesus
+How could I want more</lines>
+    </verse>
+  </lyrics>
+</song>

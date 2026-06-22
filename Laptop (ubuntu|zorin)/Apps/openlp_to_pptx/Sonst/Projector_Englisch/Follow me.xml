@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Follow me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Follow me, follow me, leave your home and family,
+Leave your fishing nets and boats upon the shore.
+Leave the seed that you have sown,
+Leave the crops that you have grown,
+Leave the people you have known and follow me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The foxes have their holes, and the swallows have their nests,
+But the son of man has no place to lay down.
+I do not offer comfort, I do not offer wealth,
+But in me will all happiness be found.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If you would follow me, you must leave old ways behind.
+You must take my cross and follow on my path.
+You may be far from loved ones, you may be far from home,
+But my father will welcome you at last.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Although I go away you will never be alone.
+For the spirit will be there to comfort you.
+Though all of you may scatter, each follow his own path,
+Still the spirit of love will lead you home.</lines>
+    </verse>
+  </lyrics>
+</song>

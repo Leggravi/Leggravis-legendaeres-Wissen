@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>So Be It Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v6 v6 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>So be it Lord
+Should You lead me to the desert
+Or to storms that I can't weather
+That bring me to my end</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So be it Lord
+I find You're all I've ever needed
+'Cause You'll meet me on my knees
+And I'll up once again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let it be done to me according to Your Word
+There is a reason why You placed me on this earth
+Whatever it takes, whatever You ask
+Let Your will come to pass
+Let it be done to me according to Your Word</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So be it Lord
+From the prisons to the palace
+To the one or to the masses
+I wanna see Your kingdom come</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So be it Lord
+For Your fame and for Your glory
+I will run the race before me
+Until I hear Well Done</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I know You're good always
+My God, You're good always
+Your love is good always
+And You're not letting go</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Let it be done to me according to Your Word
+There is a reason why You placed me on this earth
+Whatever it takes, whatever You ask
+Let Your will come to pass
+Let it be done to me according to Your Word
+Let it be done to me according to Your Word</lines>
+    </verse>
+  </lyrics>
+</song>

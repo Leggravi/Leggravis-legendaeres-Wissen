@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Groß und wunderbar</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Gerhard Schnitter</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Groß und wunderbar sind all’ Deine Werke
+O Herr Gott allmächt’ger Schöpfer.
+Gerecht und wahr sind, alle Deine Wege,
+König der Völker bist Du.
+Wer sollte Dich nicht fürchten
+und Deinen Namen preisen?
+Du allein, Herr bist heilig, Du nur allein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alle Völker werden Dich anbeten, Herr,
+denn Deine Herrlichkeit wird offenbart sein.
+Hallelujah! Hallelujah! Hallelujah! Amen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>La la la la la…</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Power in Prayer</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v3 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Some just see someone
+Down on their knees
+Talkin' to the air
+Words lost on a breeze</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Some just see tear drops
+Fallin' to the floor
+Just a waste of time
+Not anything more</lines>
+    </verse>
+    <verse name="v3">
+      <lines>But it's a direct line to the throne room
+Where you can find someone who cares
+And if you need some proof, I can tell you
+There is power, power in prayer</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I can tell you 'bout the time
+The Lord gave me peace
+With trouble all around
+He calmed the storm in me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And I remember when I cried out
+He saved my soul, yeah
+Some have their doubts
+But I know that I know, that I know</lines>
+    </verse>
+    <verse name="v6">
+      <lines>That it's a direct line to the throne room
+Where you can find someone who cares
+And if you need some proof, I can tell you
+There is power, power in prayer</lines>
+    </verse>
+    <verse name="v7">
+      <lines>He's always listening (ah-ooh)
+And that don't change (ah-ooh)
+Don't miss this moment (ah-ooh)
+To call on His name</lines>
+    </verse>
+    <verse name="v8">
+      <lines>But it's a direct line to the throne room (oh, yes it is)
+Where you can find, you can find someone who cares
+And if you need some proof, I can tell you
+There is power, power in prayer</lines>
+    </verse>
+  </lyrics>
+</song>

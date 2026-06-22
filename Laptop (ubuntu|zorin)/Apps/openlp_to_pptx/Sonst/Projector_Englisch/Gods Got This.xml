@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God’s Got This</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can hear it in your voice, I can see it in your eyes
+It's tearing at your heart, it's weighing on your mind
+I know the road you're on'cause I've been in your shoes
+But there's only One who's strong enough to carry you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God's got this, it's in His hands
+So let go of all the things that you can't understand
+He knows your fears, He hears your prayers
+And when you're on your knees you're not alone, He's always there
+His love is true no matter what it is
+Whatever you're going through God's got this</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We worry about our kids, we worry about our jobs
+We worry about the bills that never seem to stop
+No matter what you've said, no matter what you've done
+There's no mistake too big for His mercy and His love</lines>
+    </verse>
+  </lyrics>
+</song>

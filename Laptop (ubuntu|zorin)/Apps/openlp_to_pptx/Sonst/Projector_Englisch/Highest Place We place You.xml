@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Highest Place (We place You)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We place You
+On the highest place,
+For You
+Are the great High Priest;
+We place You
+High above all else,
+And we come to You
+And worship at Your feet.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, Heiland meiner Seele</title>
+    </titles>
+    <authors>
+      <author type="words">Friedrich Heinrich Christian Schwarz</author>
+      <author type="music">Charles Wesley</author>
+      <author type="translation">Jesus, lover of my soul</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Heiland meiner Seele,
+lass an deine Brust mich fliehn,
+da die Wasser näher rauschen,
+und die Wetter höher ziehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Birg mich in den Lebensstürmen,
+bis vollendet ist der Lauf;
+führe mich zum sichern Hafen,
+nimm dann meine Seele auf.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Andre Zuflucht hab ich keine;
+zagend hoff ich nur auf dich.
+Lass, o lass mich nicht alleine,
+hebe, Herr, und stärke mich!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nur zu dir steht mein Vertrauen,
+dass kein Übel mich erschreckt;
+mit dem Schatten deiner Flügel
+sei mein wehrlos Haupt bedeckt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gnad um Gnade, volle Sühnung
+sind in dir, o Jesu, mein.
+Lass die Heilung mich durchströmen,
+nimm gereinigt mich hinein.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Du bist ja des Lebens Quelle,
+die den Durst auf ewig stillt.
+Sei der Born in meinem Herzen,
+der zum ew'gen Leben quillt.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>O wie gut ist's, dir vertrauen,
+Jesu, dir ergeh ich mich,
+selig droben dich zu schauen,
+dein zu bleiben ewiglich!</lines>
+    </verse>
+  </lyrics>
+</song>

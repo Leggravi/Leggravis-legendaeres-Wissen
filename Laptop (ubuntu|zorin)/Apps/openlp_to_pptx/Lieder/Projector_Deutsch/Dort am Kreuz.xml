@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dort am Kreuz</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v3 v3 v4 v4 v4 v4 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wie kann ich dir jemals danken Herr,
+für das Opfer das du hast.
+Deine Liebe hast du offenbart,
+als du für meine Sünde startet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Durch dein Blut hast du mich rein gemacht
+und der Weg zu Gott ist frei.
+Alles alte ist Vergangenheit,
+ich bin von aller Schuld befreit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dort am Kreuz gab die Liebe alles hin.
+Dort am Kreuz kann ich dein Gnade sehn!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du hast mich erlöst, der Tod ist besiegt!
+Nichts kann mich trennen von dir,
+weil du mich liebst.</lines>
+    </verse>
+  </lyrics>
+</song>

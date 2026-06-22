@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:31">
+  <properties>
+    <titles>
+      <title>Wollt ihr wissen, was mein Preis</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Christoph Schwedler (1741)</author>
+      <author type="music">Johann Balthasar Reimann</author>
+    </authors>
+    <ccliNo>5578096</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wollt ihr wissen, was mein Preis?
+Wollt ihr lernen, was ich weiß?
+Wollt ihr sehn mein Eigentum?
+Wollt ihr hören, was mein Ruhm?
+Jesus, der Gekreuzigte!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wer ist meines Glaubens Grund?
+Wer stärkt und erweckt den Mund?
+Wer trägt meine Straf und Schuld?
+Wer schafft mir des Vaters Huld?
+Jesus, der Gekreuzigte!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wer ist meines Lebens Teil,
+meines Geistes Kraft und Heil?
+Wer macht heilig uns gerecht?
+Wer macht mich zu Gottes Knecht?
+Jesus, der Gekreuzigte!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wer ist meines Leidens Trost?
+Wer schützt, wenn der Feind erbost?
+Wer erquickt mein mattes Herz?
+Wer verbindet meinen Schmerz?
+Jesus, der Gekreuzigte!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wer ist meines Todes Tod?
+Wer hilft in der letzten Not?
+Wer versetzt mich in sein Reich?
+Wer macht mich den Engeln gleich?
+Jesus, der Gekreuzigte!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wer ist meines Leidens Trost?
+Wer schützt, wenn der Feind erbost?
+Wer erquickt mein mattes Herz?
+Wer verbindet meinen Schmerz?
+Jesus, der Gekreuzigte!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Und so wisst ihr, was ich weiß:
+ihr wisst meinen Zweck und Preis.
+Glaubt, lebt, duldet, sterbet dem,
+der uns Gott macht angenehm:
+Jesus, dem Gekreuzigten!</lines>
+    </verse>
+  </lyrics>
+</song>

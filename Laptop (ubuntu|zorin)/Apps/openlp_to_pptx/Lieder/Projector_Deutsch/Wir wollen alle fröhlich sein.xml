@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir wollen alle fröhlich sein</title>
+    </titles>
+    <authors>
+      <author type="words">Valentin Triller</author>
+      <author type="music">Erich Gruber</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1) Wir wollen alle fröhlich sein
+in dieser österlichen Zeit,
+denn unser Heil hat Gott bereit'.
+Halleluja, Halleluja, Halleluja, Halleluja.
+Gelobt sei Christus, Marien Sohn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2) Es ist erstanden Jesus Christ,
+der an dem Kreuz gestorben ist;
+ihm sei Lob, Ehr zu aller Frist
+Halleluja, Halleluja, Halleluja, Halleluja.
+Gelobt sei Christus, Mari</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3) Er hat zerstört der Höllen Pfort,
+die Seinen all herausgeführt
+und uns erlöst vom ewgen Tod.
+Halleluja, Halleluja, Halleluja, Halleluja.
+Gelobt sei Christus, Marien Sohn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4) Es singt der ganze Erdenkreis
+dem Gottessohne Lob und Preis,
+der uns erkauft das Paradeis.
+Halleluja, Halleluja, Halleluja, Halleluja.
+Gelobt sei Christus, Marien Sohn.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5) Des freu sich alle Christenheit
+und lobe die Dreifaltigkeit
+von nun an bis in Ewigkeit.
+Halleluja, Halleluja, Halleluja, Halleluja.
+Gelobt sei Christus, Marien Sohn.</lines>
+    </verse>
+  </lyrics>
+</song>

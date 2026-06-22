@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Sins We're Higher Than the Mountain</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My Sins Were Higher Than The Mountain,
+When The Lord Sanctified Me.
+My Sins Were Higher Than The Mountain,
+When The Lord Sanctified Me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Singing “Glory Hallelujah!”,
+When The Fire Came Down;
+When The Fire Came Down,
+When The Fire Came Down.
+Singing “Glory Hallelujah!”,
+When The Fire Came
+When The Lord Sanctified Me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My Sins Were Deeper Than The Ocean,
+When The Lord Sanctified Me.
+My Sins Were Deeper Than The Ocean,
+When The Lord Sanctified Me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My Sins Were Flowing Like A River,
+When The Lord Sanctified Me.
+My Sins Were Flowing Like A River,
+When The Lord Sanctified Me.</lines>
+    </verse>
+  </lyrics>
+</song>

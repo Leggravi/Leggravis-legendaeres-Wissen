@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Clouds Without Rain</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's been awhile of sunny days
+Waiting for a rain to ease my pain
+Rain brings blessing to feed my soul
+And I believed in my heart and I know
+Yes I know, yes I know</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I look up in the sky
+and seems getting dark
+Clouds are now above my head
+Feel the coolness starts
+But the clouds just pass by
+The sun returns as time goes by
+My hope is gone, my hope is gone</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Like a cloud and wind without rain
+Is a man who boasts on His name
+Received the gift
+but has no power to give
+Midnight cloud in the southern sky
+Full of pride to shower the night
+As dawn comes down,
+Rain is gone, rain is gone</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I long for this treasure that I missed
+Salvation of my soul
+is gone like a mist
+Are you feeling alright
+for the gift that you keep?
+Or you're a man of cloud
+A man of cloud</lines>
+    </verse>
+  </lyrics>
+</song>

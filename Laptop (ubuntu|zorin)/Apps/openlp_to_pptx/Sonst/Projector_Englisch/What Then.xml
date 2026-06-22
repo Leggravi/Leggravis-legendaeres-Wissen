@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What Then?</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the great plants of our cities have turned out their last finished work,
+When our merchants have sold their last yard of goods and dismissed the last tired clerk,
+When our banks have raked in their last dollar and paid the last dividends,
+When the Judge of the earth say, “closed for the night,” and asks for a balance – What Then?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What then? What then?
+When the great Book is opened, what then?
+When the ones that’s rejecting this Message tonight,
+Will be asked to give a reason – What Then?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the choir has sung its last song and the preacher has said his last prayer,
+When the people have heard their last sermon and the sound has died out in the air,
+When the Bible lies closed on the altar and the pews are all empty of folks,
+And each one stands facing his record and the great Book is opened – What Then?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When the actors have played their last drama and the mimic has made his last fun,
+When the film has flashed its last film and the billboard displayed its last run,
+When the crowds seeking pleasure have vanished and all the liquor stores and beer joints have been closed,
+And the salesman sold his last drink and gone out in the darkness,
+When the trumpet of ages is sounded and we stand before Him – What Then?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When the bugle call sinks into silence and the long marching columns stand still,
+And the captain repeats his last orders,
+And the flag has been hauled from the mast.
+And the wounded afield checked in and a world that rejects its Saviour is asked for a reason – What Then?</lines>
+    </verse>
+  </lyrics>
+</song>

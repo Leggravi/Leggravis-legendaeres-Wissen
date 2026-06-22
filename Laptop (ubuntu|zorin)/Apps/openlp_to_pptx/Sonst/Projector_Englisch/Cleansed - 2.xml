@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Cleansed - 2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here at the altar Where I run to rest
+Where I wait resurrection; The touch of Your breath
+I die now, daily, so that I may live
+In the grace that belongs to all who are born-again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am cleansed, I am washed, I am sanctified,
+I am Holy Ghost filled and water baptized,
+I am right with my God For all time,
+Cause Jesus my Savior’s alive.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Here at the table where children are fed,
+We are filled with the mercy Of the Lamb and the Bread,
+I feast now, daily, cause I’ve learned to live
+In the grace that belongs to all who are born-again.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Glory, Glory,
+This is what is called glory.</lines>
+    </verse>
+  </lyrics>
+</song>

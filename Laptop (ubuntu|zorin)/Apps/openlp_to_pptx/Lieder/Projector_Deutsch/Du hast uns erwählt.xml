@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du hast uns erwählt</title>
+    </titles>
+    <authors>
+      <author type="words">Barbara Werner</author>
+      <author type="music">William K. Brehm</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du hast uns erwählt
+Du hast uns erwählt als Dein heiliges Volk
+Ein Königreich von Priestern, ganz Dein Eigen zu sein.
+Du hast uns erwählt Deiner Stimme zu gehorchen,
+Deinen Bund zu halten und Dir heilig zu sein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: Einfach so hast Du uns erwählt,
+ohne Grund hast Du uns geliebt,
+unverdient hast Du uns beschenkt, so groß! :/
+mit Deiner Liebe, Güte und Barmherzigkeit,
+mit Deiner Gnade, Würde und Herrlichkeit</lines>
+    </verse>
+    <verse name="v3">
+      <lines>denn Du bist Herr und König, Gott!
+denn Du bist Herr und König, Gott!
+denn Du bist Herr und König, Gott!
+Und wir dürfen Dein sein!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alles, was der Herr gesagt hat, wollen wir von Herzen tun!
+Alles, was der Herr gesagt hat, wollen wir von Herzen tun!
+Ja, wir wollen Dir gehorchen! Ja, wir wollen Dir vertrau’n!
+Ja, wir wollen sein Dein Eigen und Dein Königreich hier bau’n!
+Denn Du bist Herr und König, Gott!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Alles, was der Herr gesagt hat, wollen wir von Herzen tun!
+Alles, was der Herr gesagt hat, wollen wir von Herzen tun!
+Denn Du bist Herr und König, Gott!
+Denn Du bist Herr und König, Gott!
+Denn Du bist Herr und König, Gott!
+Und wir dürfen Dein sein!</lines>
+    </verse>
+  </lyrics>
+</song>

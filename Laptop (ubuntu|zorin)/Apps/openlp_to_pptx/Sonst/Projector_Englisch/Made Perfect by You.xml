@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Made Perfect by You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We were often consumed by the world,
+That sometimes we forget your word,
+A prompt of grace from above
+In imperfections we find love,
+But deep in our hearts recall that were his part.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh Lord, keep us in your arms,
+Let us feel your warmth,
+Your sufficient grace is all we should embrace
+Oh Lord, mould as us you are,
+Test us through the fire,
+Imperfect but made perfect by you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the shadow and doubts starts to fall,
+But then, we hear a voice that gently calls,
+A prompt of grace from above in imperfections we find love,
+Through struggles we have grown it's a victory that we own.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Everyday though our flesh is tested
+Through the word's quickening power
+Our weaknesses well become our testimony</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh Lord through your saving grace,
+We're victorious in this race,
+He knows us well In him we will dwell.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh Lord, mould as us your are,
+Test us through the fire,
+Imperfect but made perfect by you (2×),
+Not by mine but by your spirit Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

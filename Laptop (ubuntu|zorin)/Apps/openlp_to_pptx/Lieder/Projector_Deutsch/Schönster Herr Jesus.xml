@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Schönster Herr Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Schönster Herr Jesu,
+Herrscher aller Enden,
+Gottes und Marien Sohn,
+dich will ich lieben,
+dich will ich ehren,
+du meiner Seele Freud und Kron.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Schön sind die Blumen,
+schön sind die Menschen
+in der frischen Jugendzeit;
+sie müssen sterben,
+müssen verderben:
+doch Jesus lebt in Ewigkeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alle die Schönheit
+Himmels und der Erden
+ist verfasst in dir allein.
+Nichts soll mir werden
+lieber auf Erden
+als du, der schönste
+Jesus mein.</lines>
+    </verse>
+  </lyrics>
+</song>

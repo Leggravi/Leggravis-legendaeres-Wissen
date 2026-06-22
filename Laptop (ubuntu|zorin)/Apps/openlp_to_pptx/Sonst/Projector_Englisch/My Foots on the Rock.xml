@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Foot's on the Rock</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I started out to win this race
+To serve the Lord and to look upon His face.
+But the way's been long and the way's been rough,
+But there's one thing for certain, I've got my mind made up.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've got my foot on the Rock and my mind's made up.
+Though I walk through the lonely valley, though I drink from the bitter cup.
+When the devil comes a-knockin' showin' me an easier way,
+I stand right square on my feet, I throw my head in the air,
+I look him straight in the eye, I say, my foot's on the Rock and my mind's made up!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now Job was a man who was tempted in every way,
+The devil took his family, he lay sick night and day.
+His wife she came a-sayin', &quot;Curse God, you've had enough!&quot;
+He said, &quot;You talk like a foolish woman, I've got my mind made up.&quot;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The devil he will tempt you and fill your way with strife,
+He'll make you sick in body, even try to take your life.
+Just put your trust in Jesus and say, &quot;Lord, I've had enough.&quot;
+The Lord will say, &quot;Move on, Satan, he's got his mind made up.&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

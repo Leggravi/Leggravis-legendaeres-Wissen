@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Day by day</title>
+    </titles>
+    <authors>
+      <author type="words">Stephen Schwartz</author>
+      <author type="music">Stephen Schwartz</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Day by day, and with each passing moment,
+Strength I find to meet my trials here;
+Trusting in my Father’s wise bestowment,
+I’ve no cause for worry or for fear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He, whose heart is kind beyond all measure,
+Gives unto each day what He deems best,
+Lovingly its part of pain and pleasure,
+Mingling toil with peace and rest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Every day the Lord Himself is near me,
+With a special mercy for each hour;
+All my cares He fain would bear and cheer me,
+He whose name is Counselor and Pow’r.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The protection of His child and treasure
+Is a charge that on Himself He laid;
+“As thy days, thy strength shall be in measure, ”
+This the pledge to me He made.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>3. Help me then, in every tribulation,
+So to trust Thy promises, O Lord,
+That I lose not faith’s sweet consolation,
+Offered me within Thy holy Word.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Help me, Lord, when toil and trouble meeting,
+E’er to take, as from a father’s hand,
+One by one, the days, the moments fleeting,
+Till with Christ the Lord I stand.</lines>
+    </verse>
+  </lyrics>
+</song>

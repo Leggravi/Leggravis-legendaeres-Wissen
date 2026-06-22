@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Aug 28, 2021, 5:17:34 PM">
+  <properties>
+    <titles>
+      <title>Just to Be a Blessing</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>I'd travel far to tell the good news of God's love
+And show the world His pow'r is yet the same
+Though often times most people do not seem to care
+There's always someone who'll listen and be blessed</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Just to be a blessing I'd go on a journey
+I'd climb up the highest mountain
+And cross the deep blue sea
+I'd leave home and family
+I'd go where the Spirit leads me
+I'm giving my life away just to be a blessing</lines>
+    </verse>
+    <verse name="V3">
+      <lines>I never cared for preaching High theology
+To share God's love is good enough for me
+When sinners find the way to perfect liberty
+I give God glory for He's just using me</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:09">
+  <properties>
+    <titles>
+      <title>Mir ist Erbarmung widerfahren</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Friedrich Hiller (1767)</author>
+      <author type="music">Georg Neumark</author>
+    </authors>
+    <ccliNo>4939083</ccliNo>
+    <themes>
+      <theme>Erlösung</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mir ist Erbarmung widerfahren,
+Erbarmung, deren ich nicht wert;
+das zähl ich zu dem Wunderbaren,
+mein stolzes Herz hat's nie begehrt.
+Nun weiß ich das und bin erfreut
+und rühme die Barmherzigkeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich hatte nichts als Zorn verdienet
+und soll bei Gott in Gnaden sein;
+Gott hat mich mit sich selbst versühnet
+und macht durchs Blut des Sohns mich rein.
+Wo kam dies her, warum geschieht's?
+Erbarmung ist's und weiter nichts.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Das muss ich dir, mein Gott, bekennen,
+das rühm ich, wenn ein Mensch mich fragt;
+ich kann es nur Erbarmung nennen,
+so ist mein ganzes Herz gesagt.
+Ich beuge mich und bin erfreut
+und rühme die Barmherzigkeit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dies lass ich kein Geschöpf mir rauben,
+dies soll mein einzig Rühmen sein;
+auf dies Erbarmen will ich glauben,
+auf dieses bet ich auch allein,
+auf dieses duld ich in der Not,
+auf dieses hoff ich noch im Tod.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gott, der du reich bist an Erbarmen,
+reiß dein Erbarmen nicht von mir
+und führe durch den Tod mich Armen
+durch meines Heilands Tod zu dir;
+da bin ich ewig recht erfreut
+und rühme die Barmherzigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Es ist vollbracht</title>
+    </titles>
+    <authors>
+      <author type="words">Clara Reinl</author>
+      <author type="music">Clara Reinl</author>
+    </authors>
+    <verseOrder>v4 v1 v2 v3 v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Unverändert
+Du bleibst derselbe über Raum und Zeit
+Unbezwingbar
+Kein and'rer Name ist dir jemals gleich</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kein Weg war zu weit
+Du nahmst all meine Schuld mit dir ans Kreuz
+(Du gehst für mich ans Kreuz!)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wie kann ich jemals versteh'n
+Was du am Kreuz für mich gabst
+Ja, es ist vollbracht
+Ich stehe staunend vor dir
+Geliebt, lebendig und frei
+Wer ist so wie du?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>König des Lebens
+Du bringst Erlösung
+Du bist genug für mich
+Mehr als genug für mich
+Jesus, dein Name
+Steht über allem
+Dir geb ich alles hin
+Dir geb ich alles hin</lines>
+    </verse>
+  </lyrics>
+</song>

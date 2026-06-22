@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It’s Warm Inside His Arms</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Every year as I grow older,
+the world becomes a little colder,
+My sinful life once filled
+with strife has been transformed,
+My sinful past I still remember,
+but it becomes a little dimmer,
+Co’s its sweet,
+so bright and warm inside His arms.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Do you hide your face in shame,
+Every time you hear His name
+For the way you’ve rejected
+Him each day,
+Repent of all your misbehaviour
+Love and trust the blessed Saviour,
+Corn its sweet, so bright and
+warm inside His arms.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If you’ve spent your whole life waiting
+Doubting Him and hesitating
+Worldly pleasures for you
+have lost their charms,
+In spite of all the time you've wasted,
+Or the dirty life you’ve tasted
+Still its sweet so bright and
+warm inside His arms.</lines>
+    </verse>
+  </lyrics>
+</song>

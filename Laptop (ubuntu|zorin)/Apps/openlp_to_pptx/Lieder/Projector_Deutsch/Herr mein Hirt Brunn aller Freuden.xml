@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, mein Hirt, Brunn aller Freuden</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Gerhardt</author>
+      <author type="music">Johann Georg Ebeling</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, mein Hirt, Brunn aller Freuden,
+Du bist mein,
+ich bin Dein
+niemand kann uns scheiden.
+Ich bin Dein, weil Du Dein Leben
+und Dein Blut,
+mir zugut,
+hast dahin gegeben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nimmer kann ich mehr erbeben.
+Deine Huld
+nahm die Schuld,
+gab mir ew'ges Leben.
+Freudig darf ich aufwärts schauen
+hier in Streit,
+Not und Leid,
+darf auf Dich ich trauen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du kannst mich ja nicht mehr lassen,
+Deine Lieb',
+die Dich trieb,
+wird mich stets umfassen.
+Drum sei Dir auch Preis und Ehre,
+teurer Hort
+hier und dort
+in der Heil'gen Chöre!</lines>
+    </verse>
+  </lyrics>
+</song>

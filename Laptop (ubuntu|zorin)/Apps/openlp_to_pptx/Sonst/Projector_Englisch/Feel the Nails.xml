@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Feel the Nails</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>They tell me Jesus died
+For my transgressions
+And He paid the price a long,
+long time ago
+When He died for me
+On a hilll called Calvary
+And there's something else
+I want to know</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Does He still feel the nails
+Every time I fail?
+And He hear the crowd
+Cry crucify again?
+Am I causing Him pain
+And I know I've got to change
+I just can't bear
+The thought of hurting Him</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It seems that I'm so good
+At breaking promises
+And I treat His precious grace
+So carelessly
+But each time He forgives
+What if He relives
+The agony He felt on that tree</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Holy, holy, holy is the Lord
+Holy, holy, holy is the Lord</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Do You still feel the nails every time I fail
+Have I crucified You Jesus with my sin
+And I'm tired of playing games
+And I really want to change
+I just can't bear the thought
+of hurting Him</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Holy, holy, holy is the Lord
+Holy, holy, holy is the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

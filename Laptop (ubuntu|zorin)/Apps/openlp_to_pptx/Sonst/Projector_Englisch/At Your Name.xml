@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>At Your Name</title>
+    </titles>
+    <authors>
+      <author type="words">Tim Hughes</author>
+      <author type="music">Tim Hughes</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>At Your name, the mountains shake and crumble
+At Your name, the oceans roar and tumble
+At Your name, angels will bow, the earth will rejoice
+Your people cry out</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord of all the earth
+We shout Your name, shout Your name
+Filling up the skies
+With endless praise, endless praise
+Yahweh, Yahweh
+We love to shout Your name, oh Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>At Your name, the morning breaks in glory
+At Your name, creation sings Your story
+At Your name, angels will bow, the earth will rejoice
+Your people cry out</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There is no one like our God
+We will praise You, praise You
+There is no one like our God
+We will sing, we will sing</lines>
+    </verse>
+  </lyrics>
+</song>

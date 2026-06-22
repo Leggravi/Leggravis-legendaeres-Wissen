@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Blessing and Honor</title>
+    </titles>
+    <authors>
+      <author type="words">Clyde Holt</author>
+      <author type="music">Clyde Holt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To the One To the Lamb
+To our King upon the throne
+To the Christ To our Savior
+To the risen Son of God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Blessing and honor
+Glory and power
+Salvation belongs to our God
+Blessing and honor
+Now and forever
+Salvation belongs to our God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Blessing and honor Blessing and honor
+To our hope, our Redeemer</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For the sacrifice You made
+From our hearts to the heavens
+For Your glory we proclaim</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So Holy So Worthy
+So Great is Your Name
+That the earth will adore You
+And shout out Your fame</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Blessing and honor
+Blessing and honor</lines>
+    </verse>
+  </lyrics>
+</song>

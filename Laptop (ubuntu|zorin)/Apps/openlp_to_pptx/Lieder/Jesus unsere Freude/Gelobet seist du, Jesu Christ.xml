@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:37">
+  <properties>
+    <titles>
+      <title>Gelobet seist du, Jesu Christ</title>
+    </titles>
+    <authors>
+      <author type="words">Medingen (1380)</author>
+      <author type="words">Martin Luther (1524)</author>
+      <author type="music">Medingen</author>
+    </authors>
+    <ccliNo>5208263</ccliNo>
+    <themes>
+      <theme>Weihnachten</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gelobet seist du, Jesu Christ,
+dass du Mensch geboren bist
+von einer Jungfrau, das ist wahr;
+des freuet sich der Engel Schar.
+Kyrieleis. (Halleluja)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Des ewgen Vaters einig Kind
+jetzt man in der Krippe findt;
+in unser armes Fleisch und Blut
+verkleidet sich das ewig Gut.
+Kyrieleis.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Den aller Welt Kreis nie beschloss,
+der liegt in Marien Schoß;
+er ist ein Kindlein worden klein,
+der alle Ding erhält allein.
+Kyrieleis.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Das ewig Licht geht da herein,
+gibt der Welt ein neuen Schein;
+es leucht wohl mitten in der Nacht
+und uns des Lichtes Kinder macht.
+Kyrieleis.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Der Sohn des Vaters, Gott von Art,
+ein Gast in der Welt hier ward
+und führt uns aus dem Jammertal,
+macht uns zu Erben in seim Saal.
+Kyrieleis.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Er ist auf Erden kommen arm,
+dass er unser sich erbarm
+und in dem Himmel mache reich
+und seinen lieben Engeln gleich.
+Kyrieleis.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Das hat er alles uns getan,
+sein groß Lieb zu zeigen an.
+Des freu sich alle Christenheit
+und dank ihm des in Ewigkeit.
+Kyrieleis.</lines>
+    </verse>
+  </lyrics>
+</song>

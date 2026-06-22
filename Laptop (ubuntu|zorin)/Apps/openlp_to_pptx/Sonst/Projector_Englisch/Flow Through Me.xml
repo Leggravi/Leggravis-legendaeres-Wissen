@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Flow Through Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Flow through me, Holy Spirit,
+Flow through me;
+Flow through me, Holy Spirit
+Flow through me.
+As I lift my hands to worship,
+And to magnify Thy name,
+Flow through me, Holy Spirit.
+Flow through me.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Road I Travel On</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Suddenly it dawned upon me, that this road I travel on
+Is a pathway un-returning that my life will soon be gone
+Yet even now as I’m held captive, Christ’s name I only praise
+These trials I’m facing last but few days</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For I know, I fought a good fight
+I know that I’ve kept the faith
+Even though my destruction is at hand
+I can sing because I see the truth has set me free
+And I know I will live with him one day, eternally</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Even though it all seems hopeless
+Even though I am tightly bound
+I am strengthened, my mind is free
+I know I am heaven bound</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For I know, I fought a good fight
+And I know I’ve kept the faith
+Even though my destruction is at hand
+I can sing because I see the truth has set me free
+And I know I will live with him one day, eternally.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When Jesus comes again,
+one bright and shining day
+He’ll take me by the hand
+and I know I’ll hear him say</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Welcome home my precious child
+Welcome home my beloved friend
+Even though the darkness often seemed too great
+I rejoice because you’ve proved that you are strong and true
+So come and enter in and live with me, eternally</lines>
+    </verse>
+  </lyrics>
+</song>

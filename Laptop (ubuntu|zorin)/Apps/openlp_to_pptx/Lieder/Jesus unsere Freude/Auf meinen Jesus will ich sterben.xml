@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:04">
+  <properties>
+    <titles>
+      <title>Auf meinen Jesus will ich sterben</title>
+    </titles>
+    <authors>
+      <author type="words">Salomon Franck (1716)</author>
+      <author type="music">Langenöls</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Auf meinen Jesus will ich sterben,
+der neues Leben mir gebracht
+und mich zu Gottes Kind und Erben
+durch sein unschuldig Blut gemacht.
+Mein Jesus ist mein Trost allein;
+auf Jesus schlaf ich selig ein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Auf meinen Jesus will ich sterben,
+in seinen Wunden stirbt sich's gut.
+Er lässt mich nimmermehr verderben,
+ich bin erkauft mit seinem Blut.
+Mein Jesus ist mein Trost allein;
+Auf Jesus schlaf ich selig ein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Auf meinen Jesus will ich sterben,
+er bleibt, wenn alles mich verlässt.
+Er starb, das Leben zu erwerben;
+an ihm hält sich mein Glaube fest.
+Mein Jesus ist mein Trost allein;
+auf Jesus schlaf ich selig ein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Auf dich, Herr Jesus, will ich sterben;
+ach, hilf mir aus der letzten Not,
+und lasse mich den Himmel erben,
+versüße mir den bittern Tod!
+Du bist mein höchster Trost allein;
+auf dich nur schlaf ich selig ein.</lines>
+    </verse>
+  </lyrics>
+</song>

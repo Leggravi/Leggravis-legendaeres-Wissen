@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Is Our Father</title>
+    </titles>
+    <authors>
+      <author type="words">Freda Kimmey</author>
+      <author type="music">Freda Kimmey</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As a father has compassion
+On his children
+So the Lord has compassion
+On those who fear Him
+We will call out to Him
+As our father
+He is Our God
+He is The Rock
+He is Our Saviour</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though father and mother
+forsake us
+The Lord himself will recieve
+us
+He'll teach us His ways
+He's Our father
+He is Our God
+He is The Rock
+He is Our Saviour.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God sets the lonely in families
+Leads forth the prisoners with
+singing
+Father to the fatherless
+Defender of widows
+He is Our God
+He is The Rock
+He is Our Saviour</lines>
+    </verse>
+  </lyrics>
+</song>

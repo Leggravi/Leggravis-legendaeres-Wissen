@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh The Blood Of Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">John Gibson</author>
+      <author type="music">John Gibson</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, the blood of Jesus,
+Oh, the blood of Jesus,
+Oh, the blood of Jesus,
+It washes white as snow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm thankful for the blood
+ of Jesus,
+I'm thankful for the blood
+ of Jesus,
+I'm thankful for the blood
+ of Jesus,
+It washes white as snow.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Need You More, I Need You Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v6 v7 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I need you more, more than yesterday, I need you more,
+More than words can say, I need you more,
+Than ever before I need you Lord, I need you, Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>More than the air I breathe,
+More than the song I sing
+More than the next heartbeat,
+More than anything</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And Lord as time goes by, I'll be by your side,
+Cause I never want to go back to my old life</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I need you more, more than yesterday, I need you more,
+More than words can say, I need you more,
+Than ever before I need you more, I need you, Lord</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I need you more, more than yesterday, I need you Lord
+More than words can say, I need you more, God,
+Than ever before I need you Lord, I need you Lord</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I need you more, God, more than yesterday I need you more,
+So much more than words can say I need you more,
+Than ever before, I need you, Lord, I need you lord</lines>
+    </verse>
+    <verse name="v7">
+      <lines>/: We give you the highest praise
+We give you the highest praise
+We give you the highest praise
+We give you the highest praise :/ x3</lines>
+    </verse>
+    <verse name="v8">
+      <lines>More than the air I breathe,
+More han the song I sing
+More than anything, I need you more
+More than the air that I breathe
+More than any song I could ever sing
+So much more than anything,
+I need you more</lines>
+    </verse>
+    <verse name="v9">
+      <lines>More than the air I breathe,
+More than the song I sing
+More than anything, I need you Lord
+More than the air I breathe
+More than the song I sing,
+More than anything
+I need you more</lines>
+    </verse>
+    <verse name="v10">
+      <lines>/: More than the air I breathe,
+More than the song I sing
+More than anything,
+I need you more :/ x3</lines>
+    </verse>
+  </lyrics>
+</song>

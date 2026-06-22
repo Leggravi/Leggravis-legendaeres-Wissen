@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Beautiful Love</title>
+    </titles>
+    <authors>
+      <author type="words">George Gill</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3 v6 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>They cursed and laughed, You did not fight
+A thousand men yelled, &quot;Crucify!&quot;
+As crimsoned stained, I filled You mind
+You looked upon me with delight</lines>
+    </verse>
+    <verse name="v2">
+      <lines>From throne to cross You came to die
+A crown for thorns to bring new life
+With every nail I filled You mind
+You looked upon me with delight</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh what love
+How can it be
+From that cross You looked at me
+Oh what love
+Poured out for me
+What a beautiful love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your death gave way to glorious light
+And tore away the chains that bind
+Now sons and daughters in Your eyes
+You looked upon us with delight</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Love so glorious
+Came down unashamed,
+You called me Yours
+Caught up in Your grace, You're all I need
+There's nothing more beautiful than Your love</lines>
+    </verse>
+    <verse name="v6">
+      <lines>What a beautiful love
+What a beautiful love</lines>
+    </verse>
+  </lyrics>
+</song>

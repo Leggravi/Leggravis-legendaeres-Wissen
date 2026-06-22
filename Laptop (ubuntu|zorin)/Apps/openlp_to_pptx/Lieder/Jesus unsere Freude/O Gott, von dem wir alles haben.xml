@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:01">
+  <properties>
+    <titles>
+      <title>O Gott, von dem wir alles haben</title>
+    </titles>
+    <authors>
+      <author type="words">Kaspar Neumann (1711)</author>
+      <author type="music">O, dass ich tausend Zungen hätte</author>
+    </authors>
+    <themes>
+      <theme>Erntedank</theme>
+      <theme>Erntezeit</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Gott, von dem wir alles haben,
+die Welt ist ein sehr großes Haus;
+du aber teilest deine Gaben
+recht wie ein Vater drinnen aus.
+Dein Segen macht uns alle reich;
+ach lieber Gott, wer ist dir gleich?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wer kann die Menschen alle zählen,
+die heut' bei dir zu Tische geh'n?
+Und doch lässt du es keinem fehlen;
+denn du weißt allen vorzusteh'n
+und schaffest, dass ein jedes Land
+sein Brot bekommt aus deiner Hand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du machst, dass man auf Hoffnung säet
+und endlich auch die Frucht genießt.
+Der Wind, der durch die Felder wehet,
+die Wolke, die das Land begießt,
+des Himmels Tau, der Sonne Strahl
+sind deine Diener allzumal.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und also wächst des Menschen Speise,
+der Acker selbst wird ihm zu Brot;
+es mehret sich vielfält'ger Weise,
+was anfangs schien, als wär' es tot,
+bis in der Ernte jung und alt
+erlanget seinen Unterhalt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nun, Herr, was soll man mehr bedenken?
+Der Wunder sind hier gar zu viel.
+So viel, als du, kann niemand schenken,
+und dein Erbarmen hat kein Ziel;
+denn immer wird uns mehr beschert,
+als wir zusammen alle wert.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wir wollen es auch nie vergessen,
+was uns dein Segen träget ein;
+ein jeder Bissen, den wir essen,
+soll deines Namens Denkmal sein,
+und Herz und Mund soll lebenslang,
+für unsere Nahrung sagen Dank.</lines>
+    </verse>
+  </lyrics>
+</song>

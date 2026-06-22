@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Tochter Zion</title>
+    </titles>
+    <authors>
+      <author type="words">Brigitte Kahlenborn</author>
+      <author type="music">Brigitte Kahlenborn</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tochter Zion, freue dich!
+Jauchze laut, Jerusalem!
+Sieh, dein König kommt zu dir!
+Ja, er kommt, der Friedensfürst.
+Tochter Zion, freue dich!
+Jauchze laut, Jerusalem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hosianna, Davids Sohn,
+sei gesegnet deinem Volk!
+Gründe nun dein ew’ges Reich.
+Hosianna in der Höh’.
+Hosianna, Davids Sohn,
+sei gesegnet deinem Volk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hosianna, Davids Sohn,
+sei gegrüßet, König mild!
+Ewig steht dein Friedensthron,
+du, des ew’gen Vaters Kind.
+Hosianna, Davids Sohn,
+sei gegrüßet, König mild!</lines>
+    </verse>
+  </lyrics>
+</song>

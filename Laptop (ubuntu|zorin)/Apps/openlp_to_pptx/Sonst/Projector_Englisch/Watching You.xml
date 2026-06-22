@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Watching You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All along on the road to the
+ soul's true abode,
+There's an Eye watching you;
+Every step that you take,
+this Great Eye is awake,
+There's an Eye watching you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Watching you, watching you,
+Everyday mind the course
+ you pursue;
+Watching you, watching you,
+There's an all-seeing Eye
+ watching you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As you make life's great flight,
+keep the path way of right,
+There's an Eye watching you;
+God will warn not to go
+ in the path of the foe,
+There's an Eye watching you.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fix your mind on the goal,
+that sweet home of the soul,
+There's an Eye watching you;
+Never turn from the way
+to the kingdom of day,
+There's an Eye watching you.</lines>
+    </verse>
+  </lyrics>
+</song>

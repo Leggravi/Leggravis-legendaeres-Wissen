@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I’ll Meet You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will meet you in the morning, by the bright river side,
+When all sorrow has drifted away;
+I’ll be standing at the portals, when the gates open wide,
+At the close of life’s long, dreary day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’ll meet you in the morning with a “How do you do,”
+And we’ll sit down by the river and with rapture “auld” acquaintance renew,
+You’ll know me in the morning, by the smiles that I wear,
+When I meet you in the morning, in the city that is built foursquare.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will meet you in the morning, in the sweet by and by,
+And exchange the old cross for a crown;
+There will be no disappointments and nobody shall die,
+In that land, e’er the sun goeth down.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will meet you in the morning, at the end of the way,
+On the streets of that city of gold;
+Where we all can be together and be happy for aye,
+While the years and the ages shall roll.</lines>
+    </verse>
+  </lyrics>
+</song>

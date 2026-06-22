@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>König ist Jesus allein!</title>
+    </titles>
+    <authors>
+      <author type="words">Helga Poppe</author>
+      <author type="music">Helga Poppe</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>König ist Jesus allein!
+Preist Ihn, ihr Engel und rühmt ihn, ihr Menschen; denn König ist Jesus allein</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(R):Und er ist würdig zu nehmen: Kraft und Reichtum, Weisheit,
+Stärke und Ehre, Preis und Lob. König ist Jesus allein!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sieger ist Jesus allein...
+
+ Retter ist Jesus allein ...</lines>
+    </verse>
+  </lyrics>
+</song>

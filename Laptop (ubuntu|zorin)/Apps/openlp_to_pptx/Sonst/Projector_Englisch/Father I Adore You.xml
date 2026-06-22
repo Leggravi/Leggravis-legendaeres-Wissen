@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Father, I Adore You</title>
+    </titles>
+    <authors>
+      <author type="words">Terrye Coelho</author>
+      <author type="music">Terrye Coelho</author>
+      <author type="translation">Herr, mein ganzes Leben (Kanon)</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father, I adore You
+And lay my life before You,
+How I love You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, I adore You,
+And lay my life before You,
+How I love You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spirit, I adore You,
+And lay my life before You,
+How I love You</lines>
+    </verse>
+  </lyrics>
+</song>

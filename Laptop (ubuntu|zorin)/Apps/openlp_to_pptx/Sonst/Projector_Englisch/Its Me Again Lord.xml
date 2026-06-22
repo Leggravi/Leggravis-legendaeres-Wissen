@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It's Me Again, Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v7 v3 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's me again, Lord, with a prayer
+I need an answer it's me again lord
+with a problem I cannot solve</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I don't mean to bother you
+there is something that I must do
+I need your help to go through
+it's me again lord, it's me again lord,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It's me again, Lord, with a prayer.
+I need an answer,
+It's me again, Lord,
+with a problem, I cannot solve.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I don't mean to bother you
+there is something that I must do
+I need your help to go through
+It's me again, Lord,
+It's me again, Lord.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>it's me again lord with a pain
+I need your healing
+it's me again lord with a burden
+I cannot heal as I go from day to day
+keep me lord rest thine stray
+I need your help everyday
+It's me again, Lord,
+It's me again, Lord.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I don't mean to bother you
+there is something
+that I must do
+I need your help
+to go through
+It's me again, Lord,
+It's me again, Lord.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>it's me again lord with a door
+I cannot open its me again lord
+will you please open it for me
+There are hills That I have to climb
+In Your word Your help I find,
+I need Your help all the time
+It's me again, Lord,
+It's me again, Lord,</lines>
+    </verse>
+    <verse name="v8">
+      <lines>I don′t need to bother You
+I got something that I must do
+I need Your help To go through
+I need Your help To go through
+I need Your help To go through
+It's me again, Lord,
+It′s me again, Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lobt Gott, ihr Christen allzugleich</title>
+    </titles>
+    <authors>
+      <author type="words">Nikolaus Herman</author>
+      <author type="music">Nikolaus Herman</author>
+      <author type="translation">Let all together praise our God</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lobt Gott, ihr Christen alle gleich,
+in seinem höchsten Thron,
+der heut schließt auf sein Himmelreich
+und schenkt uns seinen Sohn,
+und schenkt uns seinen Sohn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er kommt aus seines Vaters Schoß
+und wird ein Kindlein klein,
+er liegt dort elend, nackt und bloß
+in einem Krippelein,
+in einem Krippelein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Er entäußert sich all seiner G'walt,
+wird niedrig und gering
+und nimmt an eines Knechts Gestalt,
+der Schöpfer aller Ding,
+der Schöpfer aller Ding.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Er wechselt mit uns wunderlich:
+Fleisch und Blut nimmt er an
+und gibt uns in seins Vaters Reich
+die klare Gottheit dran,
+die klare Gottheit dran.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Er wird ein Knecht und ich ein Herr;
+das mag ein Wechsel sein!
+Wie könnt es doch sein freundlicher,
+das herze Jesulein,
+das herze Jesulein!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Heut schließt er wieder auf die Tür
+zum schönen Paradeis;
+der Cherub steht nicht mehr dafür.
+Gott sei Lob, Ehr und Preis,
+Gott sei Lob, Ehr und Preis!</lines>
+    </verse>
+  </lyrics>
+</song>

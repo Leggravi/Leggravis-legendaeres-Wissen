@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Meister wir kommen dir entgegen</title>
+    </titles>
+    <authors>
+      <author type="words">Eva Biegner</author>
+      <author type="music">Eva Biegner</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meister wir kommen dir entgegen.
+Meister wir laufen dir entgegen,
+denn bei dir sind wir daheim.
+Ganz nah an Deinem Herzen woll'n wir sein.
+Deine rechte Hand, sie birgt in sich
+für uns Dein Leben.
+Deine Linke, sie ist angefüllt
+mit Gnade und mit Segen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>El Schadai, Elohim und Adonai.</lines>
+    </verse>
+  </lyrics>
+</song>

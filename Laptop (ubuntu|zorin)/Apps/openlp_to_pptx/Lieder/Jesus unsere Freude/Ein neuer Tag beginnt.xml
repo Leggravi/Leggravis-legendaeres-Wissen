@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:55">
+  <properties>
+    <titles>
+      <title>Ein neuer Tag beginnt</title>
+    </titles>
+    <authors>
+      <author type="words">Helga Poppe (1977)</author>
+      <author type="music">Helga Poppe</author>
+    </authors>
+    <themes>
+      <theme>Anbetung</theme>
+      <theme>Morgen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Warst die ganze Nacht mir nah, dafür will ich danken.
+Herr, jetzt bin ich für dich da, diese Stunde ist dein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Noch ist alles um mich still, und ich kann dich hören.
+Was mir heut begegnen will, du bereitest mich vor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Was mir Angst und Sorgen schafft, das kann ich dir
+sagen. Du selbst gibst mir deine Kraft, denn ich bin zu schwach.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du begegnest mir im Wort, Herr, ich kann dich
+schauen. Du scheuchst alles Sorgen fort, erhebst mir das Haupt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Herr, ich weiß, der Weg ist gut, auf dem du mich leitest,
+sinkt mir manchmal auch der Mut, du selbst gehst voran.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Und so gehn wir in den Tag ganz froh und bereitet,
+was mir auch begegnen mag, ich bin nie allein.</lines>
+    </verse>
+  </lyrics>
+</song>

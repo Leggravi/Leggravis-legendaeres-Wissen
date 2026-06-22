@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dir gehört mein Lob</title>
+    </titles>
+    <authors>
+      <author type="words">Kai Peters</author>
+      <author type="music">Matt Redman</author>
+      <author type="translation">Blessed Be Your Name</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dir gehört mein Lob, wenn dein Segen in Strömen fließt,
+du mir mehr als genügend gibst, dir gehört mein Lob.
+Und dir gehört mein Lob, auch wenn ich mich verloren fühl
+in der Wüste und ohne Ziel, dir gehört mein Lob.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeder Segen, den du schenkst, wird zum Lob für dich,
+und selbst wenn ich im Dunkeln steh Herr, gilt das für mich.
+Jesus, dir gehört all mein Lob, dir gehört mein Lob.
+Jesus, dir gehört all mein Lob, deinen Namen preise ich, Herr.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dir gehört mein Lob, wenn die Sonne am Himmel scheint,
+es &quot;das Leben gut mit mir meint&quot;, dir gehört mein Lob.
+Und dir gehört mein Lob, wenn der Weg auch nicht einfach ist,
+sich mein Lobpreis mit Leiden mischt, dir gehört mein Lob.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Egal, was du mir gibst, egal, was du mir nimmst,
+du bist und bleibst mein Gott, nur dir gehört mein Lob.</lines>
+    </verse>
+  </lyrics>
+</song>

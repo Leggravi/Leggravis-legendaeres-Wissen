@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:13">
+  <properties>
+    <titles>
+      <title>Lang nach eines Lichtes Schimmer</title>
+    </titles>
+    <authors>
+      <author type="words">Johanna Meyer (1883)</author>
+      <author type="music">Ira D. Sankey</author>
+    </authors>
+    <ccliNo>5787739</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lang nach eines Lichtes Schimmer
+spähten wir in dunkler Nacht,
+doch wir sanken tiefer immer
+in der Sünde finstre Macht.
+O wo ist die starke Rechte,
+voll von heilger Gotteskraft,
+die aus einem Sündenknechte
+einen neuen Menschen schafft?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Siehe da, voll Huld und Gnaden
+kam der Heiland Jesus her.
+Sprach: Ich heile deinen Schaden,
+komm und sündige nicht mehr!
+Jesu Liebe kann erretten,
+Seine Hand ist stark und treu,
+Er zerbricht der Sünde Ketten
+und macht alles, alles neu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Unsre Güter, unsre Gaben
+hatte Sündendienst verheert;
+Mut und Hoffnung war begraben,
+unsre beste Kraft verzehrt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ach, was konnten wir Ihm geben,
+der so viel für uns getan!
+Nichts als ein verarmtes Leben,
+doch Er sah es gnädig an.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Und die Herzen, schuldbeklommen,
+die wir Armen Ihm gebracht,
+hat Er liebreich angenommen
+und sie rein und still gemacht.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Herr, mit Deinem Angesichte
+leite Du uns immerfort,
+dass sich unser Wandel richte
+nur nach Deinem Sinn und Wort!</lines>
+    </verse>
+  </lyrics>
+</song>

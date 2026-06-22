@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Is Passing This Way</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Is there a heart that is waiting,
+Longing for pardon today?
+Hear the glad message proclaiming,
+Jesus is passing this way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus is passing this way,
+This way, today;
+Jesus is passing this way,
+Is passing this way today.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Is there a heart that has wandered?
+Come with thy burden today;
+Mercy is tenderly pleading,
+Jesus is passing this way.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Is there a heart that is broken?
+Weary and sighing for rest?
+Come to the arms of the Savior,
+Pillow thy head on His breast.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Come to thy only Redeemer,
+Come to His infinite love;
+Come to the gate that is leading
+Homeward to mansions above.</lines>
+    </verse>
+  </lyrics>
+</song>

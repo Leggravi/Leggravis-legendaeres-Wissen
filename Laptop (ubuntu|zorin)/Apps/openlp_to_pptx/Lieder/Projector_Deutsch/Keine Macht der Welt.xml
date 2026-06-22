@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Keine Macht der Welt</title>
+    </titles>
+    <authors>
+      <author type="words">Thea Eichholz-Müller</author>
+      <author type="music">Thea Eichholz-Müller</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Keine Macht der Welt,
+keine Kraft die zählt,
+keine Macht der Welt trennt mich von deiner Liebe,
+keine Macht der Welt,
+keine Kraft der Welt,
+keine Macht der Welt trennt mich von dir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wenn die Liebe zu dir,
+an ihr Grenzen stößt,
+schreib ichs in mein Herz,
+deine Liebe ist größer. (größer)
+Ist mein Glaube ein Halm,
+den der Wind umbläst,
+schreib ichs in mein Herz,
+deine Liebe ist stärker. (stärker)
+Du kannst was uns trennt verbinden,
+alle Mauern überwinden,
+Du rufst meinen Namen laut,
+Du hälst den, der auf dich baut.</lines>
+    </verse>
+  </lyrics>
+</song>

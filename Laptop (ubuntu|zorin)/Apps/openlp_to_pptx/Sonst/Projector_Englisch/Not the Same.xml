@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Not the Same</title>
+    </titles>
+    <authors>
+      <author type="words">Pat Barrett</author>
+      <author type="music">Pat Barrett</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Not the same ever since the Savior found me
+Not the same since He turned my life around
+My sins have been washed by His blood
+Praise His name I’m not the same!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Old things have passed away
+Behold, all things are new
+I’m a new creation, forgiven through and through
+My past has been erased through Jesus I am free
+And by His saving grace there’s been a change in me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will not be conformed to this world and its ways
+He renews my spirit with mercy everyday
+He gives me peace of mind and life abundantly
+I will not be turning back, I’ve tasted victory!</lines>
+    </verse>
+  </lyrics>
+</song>

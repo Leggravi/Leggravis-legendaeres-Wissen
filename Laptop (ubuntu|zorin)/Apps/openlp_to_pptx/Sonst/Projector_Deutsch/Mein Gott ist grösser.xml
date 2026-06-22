@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mein Gott ist grösser</title>
+    </titles>
+    <authors>
+      <author type="words">Markus Muntean</author>
+      <author type="music">Markus Muntean</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Egal wie hoch der Berg, egal wie stark der Feind
+Ich weiß, mein Gott hat gesiegt.
+Wie hoch die Mauern sind und Sorgen mich bedrängen
+Ich weiß, alle Ketten zersprengen</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lehre mich immer mehr zu verstehen wer du bist
+Die Gewissheit tief in mir, dass du der Sieger bist.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und ja ich weiß, mein Gott ist größer. Er hält alles in der Hand.
+Und ich weiß, er kämpft meine Kämpfe. Er ist Sieger in Ewigkeit
+Mein Gott ist größer,
+ja mein Gott ist größer!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Egal wie hoch der Berg, egal wie stark der Feind
+Ich weiß, mein Gott hat gesiegt.
+Wie hoch die Mauern sind und Sorgen mich bedrängen
+Ich weiß, alle Ketten zersprengen</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lehre mich immer mehr zu verstehen wer du bist
+Die Gewissheit tief in mir, dass du der Sieger bist.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Und ja ich weiß, mein Gott ist größer. Er hält alles in der Hand.
+Und ich weiß, er kämpft meine Kämpfe. Er ist Sieger in Ewigkeit
+Mein Gott ist größer,
+ja mein Gott ist größer!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mein Gott ist größer als Lüge, Größer als Hass, größer als Tod und Gewalt,
+Größer als jeder Aufstand, größer als Angst. Mein Gott ist der Größte.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mein Gott ist der Größte, mein Gott ist der Größte.
+Mein Gott ist der Größte</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Und ja ich weiß, mein Gott ist größer. Er hält alles in der Hand.
+Und ich weiß, er kämpft meine Kämpfe. Er ist Sieger in Ewigkeit
+Mein Gott ist größer,
+ja mein Gott ist größer!</lines>
+    </verse>
+  </lyrics>
+</song>

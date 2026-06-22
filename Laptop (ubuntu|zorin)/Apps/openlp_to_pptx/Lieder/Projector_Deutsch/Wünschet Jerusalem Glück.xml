@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wünschet Jerusalem Glück</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wünschet Jerusalem Glück!
+Wünschet Jerusalem Glück!  
+Wünschet Jerusalem Glück</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Es möge wohl gehen denen, die dich lieben!
+Es möge Friede sein in deinen Mauern.
+Es möge wohl gehen denen, die dich lieben
+und sichre Ruhe in deinen Palästen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Um meiner Brüder und Freunde willen
+will ich dir Frieden wünschen.
+Um des Hauses des HERRN willen,
+will ich Segen für dich erbitten.</lines>
+    </verse>
+  </lyrics>
+</song>

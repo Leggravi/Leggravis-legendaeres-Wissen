@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Christ lag in Todesbanden</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Luther</author>
+      <author type="music">Martin Luther</author>
+      <author type="translation">Christ Jesus lay in death’s strong bands</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christ lag in Todesbanden,
+für unsre Sünd gegeben,
+der ist wieder erstanden
+und hat uns bracht das Leben.
+Des wir sollen fröhlich sein,
+Gott loben und dankbar sein
+und singen Halleluja.
+Halleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Den Tod niemand zwingen konnt
+bei allen Menschenkindern;
+das macht alles unsre Sünd,
+kein Unschuld war zu finden.
+Davon kam der Tod so bald
+und nahm über uns Gewalt,
+hielt uns in seim Reich gefangen.
+Halleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus Christus, Gottes Sohn,
+an unser Statt ist kommen
+und hat die Sünd abgetan,
+damit dem Tod genommen
+all sein Recht und sein Gewalt;
+da bleibt nichts denn Tods Gestalt,
+den Stachel hat er verloren.
+Halleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Es war ein wunderlich Krieg,
+da Tod und Leben ’rungen;
+das Leben behielt den Sieg,
+es hat den Tod verschlungen.
+Die Schrift hat verkündet das,
+wie ein Tod den andern fraß,
+ein Spott aus dem Tod ist worden.
+Halleluja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hier ist das recht Osterlamm,
+davon wir sollen leben,
+das ist an des Kreuzes Stamm
+in heißer Lieb gegeben.
+Des Blut zeichnet unsre Tür,
+das hält der Glaub dem Tod für,
+der Würger kann uns nicht rühren.
+Halleluja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>So feiern wir das hoh Fest
+mit Herzensfreud und Wonne,
+das uns der Herr scheinen lässt.
+Er ist selber die Sonne,
+der durch seiner Gnaden Glanz
+erleucht’ unsre Herzen ganz;
+der Sünden Nacht ist vergangen.
+Halleluja.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Wir essen und leben wohl,
+zum süßen Brot geladen;
+der alte Sau’rteig nicht soll
+sein bei dem Wort der Gnaden.
+Christus will die Kost uns sein
+und speisen die Seel allein;
+der Glaub will keins andern leben.
+Halleluja</lines>
+    </verse>
+  </lyrics>
+</song>

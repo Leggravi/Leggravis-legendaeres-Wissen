@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Der Tag vergeht</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">August Rücker</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Der Tag vergeht und kommt nie mehr zurück,
+nichts bleibt bestehn, nichts bleibt bestehn.
+Die Sonne sinkt und mancher Traum vom Glück
+wird bald vergehn, wird bald vergehn.
+Doch was du nimmst und was du gibst
+bestätigt nur, dass du uns liebst;
+wenn wir dich, Herr, so oft auch nicht verstehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Heute und morgen bin ich geborgen,
+wie auch die Zeit verrinnt.
+Hoffnung und Leben wirst du mir geben,
+Herr, denn ich bin dein Kind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Der Abend kommt, die Zeit hält niemals an,
+sie geht dahin, sie geht dahin.
+Still fragt die Nacht: Wie wird das Ende sein,
+was ist der Sinn, was ist der Sinn?
+Was man verdrängt und dennoch ahnt
+ist Gottes Stimme die uns mahnt.
+In seiner Hand ist Ende und Beginn.</lines>
+    </verse>
+  </lyrics>
+</song>

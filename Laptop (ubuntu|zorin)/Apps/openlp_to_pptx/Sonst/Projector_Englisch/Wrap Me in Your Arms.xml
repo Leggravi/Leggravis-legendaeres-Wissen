@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wrap Me in Your Arms</title>
+    </titles>
+    <authors>
+      <author type="words">Tore W. Aas</author>
+      <author type="music">Tore W. Aas</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a God who loves me
+Who wraps me in His arms
+And that is the place where I'm changed
+And that's where I belong</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take me to that place Lord
+To that secret place where
+I can be with You
+You can make me like You
+Wrap me in Your arms
+Wrap me in Your arms
+Wrap me in your arms</lines>
+    </verse>
+  </lyrics>
+</song>

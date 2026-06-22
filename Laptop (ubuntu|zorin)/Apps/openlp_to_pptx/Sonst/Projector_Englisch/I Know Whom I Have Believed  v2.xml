@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Know Whom I Have Believed – v2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know not why God’s wondrous grace
+to me is daily shown,
+nor why, with mercy, Christ in love
+redeemed me for his own.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But “I know whom I have believed,
+and am persuaded that he is able
+to keep that which I’ve committed
+unto him against that day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know not how this saving faith
+to me he did impart,
+nor how believing in his word
+wrought peace within my heart.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I know not how the Spirit moves,
+convincing us of sin,
+revealing Jesus through the Word,
+creating faith in him.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I know not when my Lord may come,
+at night or noon-day fair,
+nor if I’ll walk the vale with him,
+or meet him in the air.</lines>
+    </verse>
+  </lyrics>
+</song>

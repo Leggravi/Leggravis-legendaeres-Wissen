@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>So groß ist der Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Arne Kopfermann</author>
+      <author type="music">Ed Cash</author>
+      <author type="translation">How Great Is Our God (The Splendor Of The King)</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ein König voller Pracht,
+voll Weisheit und voll Macht.
+Die Schöpfung betet an, die Schöpfung betet an.
+Er kleidet sich in Licht. Das Dunkel hält ihn nicht
+und flieht, sobald er spricht, und flieht, sobald er spricht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So groß ist der Herr, sing mit mir.
+So groß ist der Herr.
+Ihn preisen wir.
+So groß, so groß ist der Herr.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Von Anbeginn der Zeit bis in die Ewigkeit
+bleibt er derselbe Gott, bleibt er derselbe Gott.
+als Vater, Sohn und Geist, den alle Schöpfung preist,
+als Löwe und als Lamm, als Löwe und als Lamm</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So groß ist der Herr, sing mit mir.
+So groß ist der Herr.
+Ihn preisen wir.
+So groß, so groß ist der Herr.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sein Name sei erhöht, denn er verdient das Lob.
+Wir singen laut: So groß ist der Herr.</lines>
+    </verse>
+  </lyrics>
+</song>

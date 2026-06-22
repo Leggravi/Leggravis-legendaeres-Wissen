@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Blessing</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Brown</author>
+      <author type="music">Chris Brown</author>
+      <author type="translation">Der Herr segne dich</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v2 v3 v4 v5 v4 v5 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord bless you
+And keep you
+Make His face shine upon you
+And be gracious to you
+The Lord turn his
+Face toward you
+And give you peace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amen, amen, amen,
+Amen, amen, amen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>May His favor be upon you
+And a thousand generations
+And your family and your children
+And their children, and their children</lines>
+    </verse>
+    <verse name="v4">
+      <lines>May His presence go before you
+And behind you and beside you
+All around you and within you
+He is with you, He is with you</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In the morning, In the evening
+In your coming, and your going
+In your weeping, and rejoicing
+He is for you, he is for you</lines>
+    </verse>
+    <verse name="v6">
+      <lines>He is for you</lines>
+    </verse>
+  </lyrics>
+</song>

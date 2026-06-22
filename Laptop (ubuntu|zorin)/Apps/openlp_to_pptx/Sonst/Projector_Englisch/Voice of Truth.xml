@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Voice of Truth</title>
+    </titles>
+    <authors>
+      <author type="words">Steven Curtis Chapman</author>
+      <author type="music">Steven Curtis Chapman</author>
+      <author type="translation">Die Stimme seiner Wahrheit</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh what I would do to have
+A kind of faith it takes to climb out
+of this boat Im in
+On to the crushing waves
+To step out of my comfort zone
+Into the realm of the unknown where Jesus is
+And He's holding out His hand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But the waves are calling out my name
+And they laugh at me
+Reminding me of all the times
+I've tried before and failed
+The waves keep on telling me
+Time and time again,
+&quot;Boy you'll never win! You'll never win!&quot;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>But the Voice of Truth tells me a different story
+The voice of truth says, &quot;Do not be afraid&quot;
+The voice of truth says, &quot;This is for My glory&quot;
+out of all the voices calling out to me
+I will choose to listen and believe the voice of truth</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh what I will do to have a kind of strength
+it takes to stand before the giant
+with just a sling and a stone
+surrounded by the sound of a thousand
+warriors shaking in their armour
+wishing they'd have a strength to stand</lines>
+    </verse>
+    <verse name="v5">
+      <lines>But the giant's calling out my name
+and he laughs at me
+Reminding me of all the times
+I've tried before and failed
+The giant keeps on telling me
+Time and time again, &quot;Boy, you'll never win!&quot;
+&quot;You'll never win&quot;</lines>
+    </verse>
+    <verse name="v6">
+      <lines>But the stone was just the right size
+To put the giant on the ground
+And the waves they don't seem so high
+From on top of them looking down
+I will soar with the wings of eagles
+When I stop and listen to the sound of Jesus
+Singing over me</lines>
+    </verse>
+  </lyrics>
+</song>

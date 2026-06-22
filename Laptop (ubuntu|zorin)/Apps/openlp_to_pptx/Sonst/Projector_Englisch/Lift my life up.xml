@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lift my life up</title>
+    </titles>
+    <authors>
+      <author type="words">Brian Doerksen</author>
+      <author type="music">Brian Doerksen</author>
+      <author type="translation">Ich schaue auf, Herr, zu den Bergen</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You brought me this far
+So why would I question you now
+You have provided so why would I start to doubt?
+I've never been stranded, abandoned or left here to fight alone
+So I'm giving you control</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I lift my life, lift my life up
+I give it all in surrender
+I lift my heart, lift my heart up
+You can have it forever
+All my dreams, all my plans
+Lord I leave it in your hands
+I lift my life, lift my life up</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Have your way in me
+Have your way in me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If peace is a river then let it sweep over me
+If I'm under fire I know it's refining me
+When I hear you calling out I follow now wherever the road may go
+I know you're leading me home</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Take my life and let it be all for you
+Take my life and let it be all for you</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I lift my life, lift my life up
+I give it all in surrender
+I lift my heart, lift my heart up
+(take my life)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I lift my life, lift my life up
+I give it all in surrender
+(take my heart)
+I lift my heart, lift my heart up
+You can have it forever
+All my dreams, all my plans
+Lord I leave it in your hands
+I lift my life, lift my life up</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Have your way with me
+Have your way with me
+Have your way with me
+Have your way with me</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Take my life and let it be all for you</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hard love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Trading punches with the heart of darkness
+Going to blows with your fear incarnate
+Never gone until it's stripped away
+A part of you has gotta die today</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the morning you gon' need an answer
+Ain't nobody gonna change the standard
+It's not enough to just feel the flame
+You've gotta burn your old self away</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hold on tight a little longer
+What don't kill ya, makes ya stronger
+Get back up, 'cause it's a hard love
+You can't change without a fallout
+It's gon' hurt, but don't you slow down
+Get back up, 'cause it's a hard love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You know the situation can't be right
+And all you ever do is fight
+But there's a reason that the road is long
+It takes some time to make your courage strong</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When the wolves come and hunt me down
+I will face them all and stand my ground
+'Cause there's a fire burnin' in me
+They will see my strength in this love I found
+Oh</lines>
+    </verse>
+    <verse name="v6">
+      <lines>It's a hard love, it's a hard love, it's a hard love, it's a hard love
+Oh, it's a hard love, it's a hard love, it's a hard love, it's a hard love
+Oh, it's a hard love, it's a hard love, it's a hard love, it's a hard love</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hold on tight a little longer
+What don't kill ya, makes ya stronger
+Get back up, 'cause it's a hard love
+You can't change without a fallout
+It's gon' hurt, but don't you slow down
+Get back up, 'cause it's a hard love
+'Cause it's a hard love</lines>
+    </verse>
+  </lyrics>
+</song>

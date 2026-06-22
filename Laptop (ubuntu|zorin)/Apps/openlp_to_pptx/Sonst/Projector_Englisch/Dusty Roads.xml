@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dusty Roads</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I think of you Jesus
+Walking earths dusty sands
+And every step you took
+Was for the good of all men
+Then finally you gave your all
+You bore every sin
+Thank God you'll never have to do it again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And there'll be no more dusty roads
+for your precious feet
+No more worn sandals
+No more desert heat
+There'll be no more beatings
+No more shame to go thru
+There'll be no more bloodshed
+No more calvary for you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I think of you Jesus
+Walking on the streets of gold
+A position so deserving
+A King's title you hold
+In a Kingdom with no end
+It's so fitting for you
+Lord when I think of Heaven
+I think of all you went thru</lines>
+    </verse>
+  </lyrics>
+</song>

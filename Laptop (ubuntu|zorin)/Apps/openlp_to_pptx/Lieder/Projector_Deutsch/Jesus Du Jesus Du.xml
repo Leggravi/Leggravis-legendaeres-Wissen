@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Du, Jesus Du</title>
+    </titles>
+    <authors>
+      <author type="words">Rolf Troche</author>
+      <author type="music">Rolf Troche</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus Du, Jesus Du!
+Du bist meiner Seele Ruh'!
+Bist mein Trost auf meiner Reise,
+Meine Kraft und meine Speise;
+Führst dem Vaterhaus mich zu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Inniglich, inniglich
+Sehnet meine Seele sich!
+O wann werd' ich zu Dir kommen,
+Wo ich, dieser Welt entnommen,
+Schaue, o mein Jesus, Dich?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nicht mehr lang, nicht mehr lang,
+O welch himmlisch froher Klang!
+Bald werd' ich Dich schauend loben,
+Herr, mit allen Heil'gen droben.
+Dann tönt ew'ger Lobgesang.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Was wird's sein, was wird's sein,
+Führest Du mich droben ein!
+Wo nicht Sünd' und Welt mehr störet,
+Nie ein Seufzer wird gehöret, –
+Ewig werd' ich bei Dir sein!</lines>
+    </verse>
+  </lyrics>
+</song>

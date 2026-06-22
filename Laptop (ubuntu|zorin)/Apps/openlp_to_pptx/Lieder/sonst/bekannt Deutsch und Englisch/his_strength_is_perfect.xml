@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Apr 19, 2020, 1:25:49 PM">
+  <properties>
+    <titles>
+      <title>His Strength Is Perfect</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>I can do all things through Christ who gives me strength,
+But sometimes I wonder what He can do through me;
+No great success to show, no glory of my own,
+Yet in my weakness he is there to let me know…</lines>
+    </verse>
+    <verse name="C2">
+      <lines>His strength is perfect when our strength is gone,
+He'll carry us when we can't carry on,
+Raised in His power, the weak become strong;
+His strength is perfect, his strength is perfect.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>We can only know the power that He holds,
+When we truly see how deep our weakness goes.
+His strength in us begins where ours comes to an end;
+He hears our humble cry and proves again.</lines>
+    </verse>
+  </lyrics>
+</song>

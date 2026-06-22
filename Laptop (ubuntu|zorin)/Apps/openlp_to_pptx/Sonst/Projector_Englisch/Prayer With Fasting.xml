@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Prayer With Fasting</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On Sinai Mount with radiant face
+To intercede for Heaven’s grace
+Upon the stubborn wayward race
+He (Moses) fasted.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Once lifted from the miry clay
+When opposition came His way
+David the King would often pray
+With fasting.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Daniel possessed a visions gift
+He told the troubled king his dream
+Had light on God’s prophetic scheme
+Through fasting.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The prophetess in the temple court
+Beheld the Babe the two had brought
+For Him she longed and sought and
+prayed
+With fasting.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So shall they fast when I am gone
+Was this no word to act upon
+Thus you should live and watch
+and pray
+With fasting.</lines>
+    </verse>
+  </lyrics>
+</song>

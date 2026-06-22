@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Welcome</title>
+    </titles>
+    <authors>
+      <author type="words">Hans Christian Jochimsen</author>
+      <author type="music">Hans Christian Jochimsen</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Welcome, welcome, welcome,
+Holy Ghost we welcome Thee,
+Come with power this very hour,
+Holy Ghost we welcome Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

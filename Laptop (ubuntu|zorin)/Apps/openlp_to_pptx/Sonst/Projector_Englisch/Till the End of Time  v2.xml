@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Till the End of Time – v2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In perfect time
+you came into my life
+In your arms,
+I have survived
+as you hold me
+Till the end of time</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are the calm
+of the stormy nights
+Your gentle love,
+have raised me up
+as you hold me
+Till the end of time</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Till the end of time,
+I swear to you I care
+Till the end of time,
+my vow endures like the ocean
+Till the end of time, I love you more</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In perfect time
+you came into my life
+Like the morning sun,
+you gave me hope
+as I hold on
+Till the end of time</lines>
+    </verse>
+  </lyrics>
+</song>

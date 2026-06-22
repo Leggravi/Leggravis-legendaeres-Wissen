@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Grace changes everything</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v2 v4 v4 v4 v4 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From darkness to light
+From death into life
+His grace changes everything
+From broken to whole
+Stained to whiter than snow
+His grace changes everything
+His grace changes everything</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's no sin too great
+There's no pain too deep
+The cross declares it is done
+There's no shame too real
+That His love won't heal
+Forever the victory is won</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He has broken the chains
+He has conquered the grave
+His grace changes everything
+And by the power of His blood
+We are daughters and sons
+His grace changes everything
+His grace changes everything</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It is finished
+It is finished
+The victory is won
+It is finished
+It is finished
+The victory is won</lines>
+    </verse>
+  </lyrics>
+</song>

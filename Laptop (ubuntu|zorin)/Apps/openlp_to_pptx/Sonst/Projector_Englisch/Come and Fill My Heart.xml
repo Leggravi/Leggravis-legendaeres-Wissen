@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come and Fill My Heart</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3 v3 v6 v3 v3 v7 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Free, I long to be free
+I long for the day I believe
+That all you say you see in me is true
+That's hard for me to do
+It's hard for me to die to myself
+And trust my life to someone else</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So come, empty me out
+I'm no good without
+You inside of me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come and fill my heart with hope
+Come and fill my life with love
+Come and fill my soul with strength to carry on
+Because from here the climb is steep, the road is long
+Come and fill my days with dreams (Come and help me to believe)
+Empty me of all the empty things that I hold on to
+Come and fill my heart with you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I need you in my life
+Need you like the air that I breathe
+You become the very heart of me
+And I, I can't believe my eyes
+I can't believe the dream that I've found
+Lord your love has turned my world around</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So come, fill up my heart till I am like you are
+So deep inside of me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Search me Lord, try my heart
+Come and take me now and make me new
+So Lord that the world will see you in my life</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Come and fill my days with dreams
+Empty me of all the empty things that I hold on to,
+Come and fill my heart with you</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:25">
+  <properties>
+    <titles>
+      <title>Hast du eine Sorgenlast</title>
+    </titles>
+    <authors>
+      <author type="words">Dora Rappard (1893)</author>
+      <author type="music">Carl Maria von Weber</author>
+    </authors>
+    <ccliNo>4345048</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hast du eine Sorgenlast,
+die dir raubet Fried und Rast,
+Jesu Herz dir offen steht:
+Mach aus Sorgen ein Gebet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glühet tief in deiner Brust
+irdischer Hoffnung süße Lust,
+achte fein, wo Jesus geht,
+werde stille im Gebet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bist du traurig und allein,
+drückt dich bittre Seelenpein,
+dein Erbarmer dich versteht;
+suche Tröstung im Gebet!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Droht des Feindes Macht und List,
+flieh zu dem, der Sieger ist,
+und von seiner Majestät
+ziehe Kraft an im Gebet!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Willst du Jesu Diener sein,
+sorg im stillen Kämmerlein,
+dass sein Geist dich rein umweht,
+hole Weisung im Gebet!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Was dein Herze auch bewegt,
+ob sich Schmerz, ob Wonne regt,
+flieh zu Jesus früh und spät,
+mach aus allem ein Gebet!</lines>
+    </verse>
+  </lyrics>
+</song>

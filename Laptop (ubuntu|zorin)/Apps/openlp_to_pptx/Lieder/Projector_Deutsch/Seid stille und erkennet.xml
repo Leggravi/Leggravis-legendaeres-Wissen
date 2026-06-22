@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Seid stille und erkennet</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Seid stille und erkennet, daß ich GOTT bin.
+Seid stille und erkennet, daß ich GOTT bin.
+Seid stille und erkennet, daß ich GOTT bin.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich bin der Herr, Dein Gott, der dich heilt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja, Dir, o Herr, vertraue ich.</lines>
+    </verse>
+  </lyrics>
+</song>

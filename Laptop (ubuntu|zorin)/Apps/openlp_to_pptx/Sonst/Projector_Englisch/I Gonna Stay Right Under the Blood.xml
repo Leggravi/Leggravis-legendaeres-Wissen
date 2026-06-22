@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Gonna Stay Right Under the Blood</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I gonna stay right under the blood,
+I gonna stay right under the blood,
+I gonna stay right under the blood,
+Where the devil can do me no harm.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No harm, no harm, no harm,
+No harm, no harm, no harm,
+No harm, no harm, no harm,
+Where the devil can do me no harm.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I gonna live right under the blood,
+I gonna live right under the blood,
+I gonna live right under the blood,
+Where the devil can do me no harm.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Am gonna pray right under the blood,
+Am gonna pray right under the blood,
+Am gonna pray right under the blood,
+Where the devil can do me no harm.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Am gonna walk…</lines>
+    </verse>
+  </lyrics>
+</song>

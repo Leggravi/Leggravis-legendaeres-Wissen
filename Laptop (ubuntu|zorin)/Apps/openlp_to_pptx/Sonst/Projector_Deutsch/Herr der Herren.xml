@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr der Herren</title>
+    </titles>
+    <authors>
+      <author type="words">Ulrich Parzany</author>
+      <author type="music">Jimmy Owens</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr der Herren, dir sei Lob und Ehre, Halleluja!
+Jesus, Friedefürst und König, halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

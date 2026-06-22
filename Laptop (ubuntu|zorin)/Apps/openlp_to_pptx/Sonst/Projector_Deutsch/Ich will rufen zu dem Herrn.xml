@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich will rufen zu dem Herrn</title>
+    </titles>
+    <authors>
+      <author type="words">Gitta Leuschner</author>
+      <author type="music">Michael O´Shields</author>
+      <author type="translation">I Will Call Upon The Lord</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich will rufen zu dem Herrn, Ihm allein sei Lob und Ehr. 
+|: So entreißt er mich meinen Feinden :|
+|: Der Herr lebt, gepriesen sei mein Fels,
+ich will den Gott, der mich erlöst hat, hoch erheben :|</lines>
+    </verse>
+  </lyrics>
+</song>

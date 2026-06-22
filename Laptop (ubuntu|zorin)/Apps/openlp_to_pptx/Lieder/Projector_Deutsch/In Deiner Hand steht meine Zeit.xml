@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In Deiner Hand steht meine Zeit</title>
+    </titles>
+    <authors>
+      <author type="words">Andreas Fett</author>
+      <author type="music">Heinrich Fransen</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In Deiner Hand steht meine Zeit.
+Du bist der Fels der Ewigkeit.
+Der feste Grund im schlimmsten Sturm,
+wenn alles wankt, mein starker Turm.
+Welche große Liebe, welche Macht!
+Die Angst vergeht, es weicht die Nacht.
+Du bist mein Tost, mein Halt, mein Licht.
+In Deiner Liebe lebe ich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Die Fülle Gottes wurde arm
+in einem Kind, das hilflos kam.
+Das Heilsgeschenk, die Gnadentat
+litt unter Neid, Hass und Verrat.
+Doch als der Liebling Gottes starb,
+nahm Gottes Zorn Er mit ins Grab.
+Ja, meine Schuld nimmst Du auf Dich.
+Durch Deinen Tod belebst Du mich.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dort in der Gruft vom Feind bewacht,
+lagst Du, das Licht, in Todesnacht.
+Doch Du standst auf, o welch ein Tag!
+Leer ist das Grab, in dem Er lag!
+Und weil Du Gottes Plan vollbracht,
+verliert die Sünde alle Macht.
+Die Finsternis wird überstrahlt.
+Weg ist die Schuld, mit Blut bezahlt!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Im Leben Heil, im Tod Gewinn.
+Du bist mein Ziel, mein Lebenssinn.
+Vom ersten Schrei zum letzten Wort
+nimmt niemand meinen Heiland fort.
+Nicht Todesmacht, nicht Satans Bann
+reißt jemals mich aus Seiner Hand.
+Herr, bis Du kommst, bleibst Du mir treu.
+An Dich gebunden bin ich frei.</lines>
+    </verse>
+  </lyrics>
+</song>

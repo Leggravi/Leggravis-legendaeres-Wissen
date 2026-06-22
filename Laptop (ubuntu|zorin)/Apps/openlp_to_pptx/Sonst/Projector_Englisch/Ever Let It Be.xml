@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ever Let It Be</title>
+    </titles>
+    <authors>
+      <author type="words">Jonas Myrin</author>
+      <author type="music">Jonas Myrin</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ever let it be that I would praise You,
+Ever let it be that I would please You,
+Never let it be that I will turn away.
+Ever let it be that I would love You,
+Never let there be any gods above You,
+Ever let it be that I will sing Your praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Always and forever keep me
+ walking in Your way,
+Never let me go astray.
+Always and forever lead me,
+I need You day by day.
+Ever let it be, ever let it be,
+Ever let it be that I will sing Your praise.</lines>
+    </verse>
+  </lyrics>
+</song>

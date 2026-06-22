@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>At Your feet</title>
+    </titles>
+    <authors>
+      <author type="words">Mark Hall</author>
+      <author type="music">Mark Hall</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>She brought You oil,
+the purest gift she had
+You washed her soul
+with her tears
+Though more than
+a thousand years
+have passed
+I still weep at how much
+that woman's just like me
+And how much I want to be</lines>
+    </verse>
+    <verse name="v2">
+      <lines>At Your feet
+Where I feel Your Spirit cover me
+And the darkest of my sins,
+they are forgiven
+What would You ask of me,
+I'd give up everything
+Just so I can be at Your feet</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know one day
+I will open up my eyes
+To the wonders of Heaven foretold
+And I'll see that glorious
+mansion on high
+But, I'll be content just to see
+Your face
+If I can just find my place</lines>
+    </verse>
+  </lyrics>
+</song>

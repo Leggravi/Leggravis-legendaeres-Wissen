@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wunderbar, dass Du, der Sohn, gekommen</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Herrnhut</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wunderbar, dass Du, der Sohn, gekommen,
+für uns Mensch geworden bist,
+unsre Sünden hast auf Dich genommen,
+uns zum Heil, Herr Jesus Christ.
+Nur durch Glauben könne wir’s verstehen,
+nur anbetend solche Liebe sehen,
+die so unser hat gedacht,
+ein so großes Werk vollbracht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dir, o Herr, wir Lob, Anbetung bringen,
+der für uns das Kreuz ertrug;
+Schmerz und Todeswehen Dich umfingen
+als Dich traf der Sünde Fluch.
+Groß ist Deine Huld und nicht zu fassen;
+Du, Herr, konntest dort am Kreuz erblassen,
+damit uns, so sündger Art,
+Gottes Liebe offenbart!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wunderbar, o Herr, ist Deine Liebe,
+alle ihre Freundlichkeit;
+das das Herz darein versenket bliebe
+in Anbetung allezeit.
+damit Deine Gand und Liebesfülle
+sich uns immer mehr und mehr enthülle
+und Dir dann aus aller Mund
+Dank erschallt von Herzensgrund.</lines>
+    </verse>
+  </lyrics>
+</song>

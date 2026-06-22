@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 12, 2019, 8:38:13 PM">
+  <properties>
+    <titles>
+      <title>This is Just What Heaven Means to Me</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2 V5 C2 V6 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>A country where no twilight shadows deepen,
+Unending days where night shall never be.
+A city where no storm clouds ever gather,
+Now this is just what Heaven means to me.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>What will it be when we get over yonder
+And join the throng upon the glassy sea
+To greet our loved ones
+And crowned Christ forever,
+Oh, this is just what Heaven means to me.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>A place where there is no misunderstanding,
+And from all enmity and strife we're free.
+No unkind words to wound the heart are spoken,
+Now this is just what Heaven means to me.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>What will it be when we get over yonder
+And join the throng upon the glassy sea
+To greet our loved ones
+And crowned Christ forever,
+Oh, this is just what Heaven means to me.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>And when at last we see the face of Jesus,
+Before whose image other loves all flee.
+And when they crown Him Lord of all I'll be there,
+Now this is just what Heaven means to me.</lines>
+    </verse>
+    <verse name="V6">
+      <lines>What will it be when we get over yonder
+And join the throng upon the glassy sea
+To greet our loved ones
+And crowned Christ forever,
+Oh, this is just what Heaven means to me</lines>
+    </verse>
+  </lyrics>
+</song>

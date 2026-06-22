@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Fass meine Hand!</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fass meine Hand! Ich bin so schwach und hilflos
+dass keinen Schritt ich wage ohne Dich
+Fass meine Hand! Und dann, o lieber Heiland
+kann Furcht und Leiden nicht mehr ängsten mich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fass meine Hand! Und zieh mich näher zu Dir,
+denn Deinem Herzen möchte nah ich sein.
+Fass meine Hand, ich möchte anders irren
+vom graden Wege ginge ich allein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fass meine Hand! Der Weg liegt dunkel vor mir,
+wenn mir Dein Angesicht nicht zugewandt.
+Wenn Himmelslicht den finstern Pfad erhellet,
+o Wonne, dann zu gehn an Deiner Hand.</lines>
+    </verse>
+  </lyrics>
+</song>

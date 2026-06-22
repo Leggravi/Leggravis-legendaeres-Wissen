@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herbei oh ihr gläubigen</title>
+    </titles>
+    <authors>
+      <author type="words">Friedrich Heinrich Ranke</author>
+      <author type="music">John Francis Wade</author>
+      <author type="translation">O come, all ye faithful</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herbei, o ihr Gläubigen,
+fröhlich triumphierend,
+o kommet, o kommet nach Bethlehem!
+Sehet das Kindlein, uns zum Heil geboren!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O lasset uns anbeten, o lasset uns anbeten,
+o lasset uns anbeten den König!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herbei, o ihr Gläubigen,
+fröhlich triumphierend,
+o kommet, o kommet nach Bethlehem!
+Sehet das Kindlein, uns zum Heil geboren!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du König der Ehren,
+Herrscher der Heerscharen
+verschmähst nicht, zu ruhen in Mariens Schoß.
+Gott, wahrer Gott, von Ewigkeit geboren!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kommt, singt dem Herren,
+o ihr Engelchöre,
+frohlocket, frohlocket, ihr Seligen:
+Ehre sei Gott im Himmel und auf Erden!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dir, der du bist heute
+Mensch für uns geboren,
+o Jesu, sei Ehre und Preis und Ruhm!
+Dir, Fleisch gewordnes Wort des ew’gen Vaters!</lines>
+    </verse>
+  </lyrics>
+</song>

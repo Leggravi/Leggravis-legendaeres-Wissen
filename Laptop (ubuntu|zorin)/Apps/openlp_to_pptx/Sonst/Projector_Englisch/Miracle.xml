@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Miracle</title>
+    </titles>
+    <authors>
+      <author type="words">The Regez Sisters</author>
+      <author type="music">The Regez Sisters</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v3 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've heard all the stories
+Hundreds of times
+The light and the glory
+The wonders and signs
+I never imagined
+Or dared to believe
+That something so holy
+Could happen for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But standing here with you
+No way I could deny
+The God who walked on waves
+Sent you to change my life</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I used to think
+Miracles had to be
+Water turned to wine
+Or the parting of the sea
+But when I look in your eyes
+I see Heaven break through
+And it's making me believe
+My miracle is you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My words can't explain it
+But my heart knows it's real
+'Cause my broken pieces
+Have started to heal
+Like truth for a doubter
+Like sight for the blind
+Your love shows me power
+From something divine</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, I used to think
+Miracles had to be
+Water turned to wine
+Or the parting of the sea
+But when I look in your eyes
+I see Heaven break through
+And it's making me believe
+My miracle is you
+Ooh, it's you, Ooh, ooh</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Somehow you were the answer
+To all the prayers I prayed
+I guess that's what they meant by
+Mysterious ways</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Yeah, it's easy to believe
+My miracle is you
+Ooh, it's you</lines>
+    </verse>
+  </lyrics>
+</song>

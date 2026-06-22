@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Das ist Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Larissa Leuschner (Zimmermeyer)</author>
+      <author type="music">Regula Salathé</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vor deinem Kreuz stehe ich, Herr
+falle vor dir auf die Knie.
+Ich sehe auf dich, wie du für mich stirbst,
+begreifen werd ich es wohl nie.
+Dein Leben gibts du demütig hin,
+gehst deinen Weg nun allein.
+Du trägst die Last der ganzen Welt,
+wie groß muss dein Herz für mich sein?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Das ist Jesus,
+so ist nur Jesus,
+so ist nur Jesus allein.
+Das ist Jesus,
+so ist nur Jesus,
+so ist nur Jesus allein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vor deinem Thron werde ich sein,
+gehe vor dir auf die Knie.
+Ich schaue auf dich, geblendet vom Licht,
+begreifen werd ich es wohl nie.
+Die ganze Welt beugt sich vor dir,
+du bist der Herr aller Zeit.
+Was mich heute quält, hat dort keinen Raum,
+in deiner Herrlichkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

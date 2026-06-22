@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come Fill my World</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come fill my world, 
+Come fill my life
+Come take my hand
+Come walk with me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Without clouds 
+the rain won’t come
+Without rain the grass won’t grow
+Without sun the flowers die
+Without God we cannot be</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Without eyes 
+we cannot see
+Without hands 
+we cannot touch
+Without heart 
+we cannot love
+Without GOD we cannot be</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Without bread 
+we cannot live
+Without friends 
+we cannot share
+Without joy we cannot hope
+Without GOD we cannot be.</lines>
+    </verse>
+  </lyrics>
+</song>

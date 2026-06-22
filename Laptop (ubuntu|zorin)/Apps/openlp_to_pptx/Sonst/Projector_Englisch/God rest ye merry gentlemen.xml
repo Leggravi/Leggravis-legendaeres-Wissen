@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God rest ye merry gentlemen</title>
+    </titles>
+    <authors>
+      <author type="words">England</author>
+      <author type="music">England</author>
+      <author type="translation">Es wird nicht immer dunkel sein</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God rest you merry, gentlemen,
+let nothing you dismay,
+remember Christ our Savior
+was born on Christmas day,
+to save us all from Satan's pow'r
+when we were gone astray;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O tidings of comfort and joy, comfort and joy,
+O tidings of comfort and joy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From God our heav'nly Father,
+a blessed angel came;
+and unto certain shepherds
+brought tidings of the same:
+how that in Bethlehem was born
+the son of God by name,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>&quot;Fear not, then,&quot; said the angel,
+&quot;let nothing you affright;
+this day is born a Savior
+of a pure virgin bright,
+to free all those who trust in him
+from Satan's pow'r and might.&quot;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The shepherds at those tidings
+rejoiced much in mind,
+and left their flocks a-feeding,
+in tempest, storm, and wind,
+and went to Bethlehem straightway,
+the Son of God to find.</lines>
+    </verse>
+  </lyrics>
+</song>

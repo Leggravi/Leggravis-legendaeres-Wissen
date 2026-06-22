@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Still (Message Version)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>&quot;Time is no more&quot;
+The Shout went forth
+The Voice of Resurrection
+The last Trump of God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the time of trouble
+He shall hide me
+He shall set me up upon a rock
+In the secret of His tabernacle
+I will be still, and know
+I am His Bride</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Mystery Cloud
+The wrath of God
+Revealed sign from Heaven
+But mercy to His Bride</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He that is unjust will be unjust still
+He that is filthy, filthy still
+He that is righteous,
+Still be righteous
+He that is holy, holy still.</lines>
+    </verse>
+  </lyrics>
+</song>

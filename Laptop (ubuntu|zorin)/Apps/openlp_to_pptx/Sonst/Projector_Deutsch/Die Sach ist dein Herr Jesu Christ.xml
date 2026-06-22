@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Die Sach ist dein, Herr Jesu Christ</title>
+    </titles>
+    <authors>
+      <author type="words">Samuel Preiswerk</author>
+      <author type="music">Landshut</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Die Sach ist Dein, Herr Jesu Christ,
+die Sach, an der wir stehn.
+Und weil es Deine Sache ist,
+kann sie nicht untergehn.
+Allein das Weizenkorn, bevor
+es fruchtbar sprosst zum Licht empor,
+wird sterbend in der Erde Schoß
+vorher vom eignen Wesen los;
+im Sterben los, vom eignen Wesen los.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du gingst, ü Jesus, unser Haupt,
+durch Leiden himmelan
+und führest jeden, der da glaubt,
+mit Dir die gleiche Bahn.
+Wohlan, so führ uns allzugleich
+zum Teil am Leiden und am Reich;
+führ uns durch Deines Todes Tor
+samt Deiner Sach zum Licht empor;
+zum Licht empor durch Deines Todes Tor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du starbest selbst als Weizenkorn
+und sankest in das Grab.
+Belebe denn, o Lebensborn,
+die Welt, die Gott Dir gab;
+send Boten aus in jedes Land,
+dass bald Dein Name werd bekannt,
+Dein Name voller Seligkeit.
+Auch wir stehn Dir zum Dienst bereit;
+zum Dienst bereit, zum Dienst in Kampf und Streit.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, ich komme zu Dir</title>
+    </titles>
+    <authors>
+      <author type="words">Andrea Gleiß</author>
+      <author type="music">Andrea Gleiß</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, ich komme zu Dir,
+und ich steh' vor Dir, so wie ich bin
+Alles was mich bewegt lege ich vor Dich hin.
+Herr, ich komme zu Dir,
+und ich schütte mein Herz bei Dir aus.
+Was mich hindert ganz bei Dir zu sein räume aus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Meine Sorgen sind Dir nicht verborgen,
+Du wirst sorgen für mich.
+Voll Vertrauen will ich auf Dich schauen.
+Herr, ich baue auf Dich!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gib mir ein neues ungeteiltes Herz.
+Lege ein neues Lied in meinen Mund.
+Fülle mich neu mit Deinem Geist,
+denn Du bewirkst ein Lob in mir.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Deiner Worte wollen wir gedenken</title>
+    </titles>
+    <authors>
+      <author type="words">Johannes Warns</author>
+      <author type="music">Herrnhut</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deiner Worte wollen wir gedenken,
+so wie es Dein Mund gebot:
+Glaubende ins Wasser zu versenken
+durch die Taufe in den Tod,
+heil'ges Bild des Sterbens und Vergehens
+und in Christus Wiederauferstehens!
+Lass, o Herr, was  wir hier sehen,
+auch im Innersten geschehn!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sel'ge Wirkung Deines blut'gen Sterbens,
+Deines Kreuzes bitt'rer Qual!
+Dieser Welt der Sünde und Verderbens
+starbst Du ein für allemal;
+doch Du lebst, bist siegreich auferstanden
+und führst alle aus der Sünde Banden,
+die im Glauben auf Dich sehn,
+lässt sie mit Dir auferstehn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nun, so wollen wir uns Dir verschreiben,
+der Du uns für Dich erwarbst;
+wollen gern der Welt gekreuzigt bleiben,
+nie vergessen, dass Du starbst.
+Auf dass wir hinfort nicht mehr uns leben,
+nein, auf alle Weise Dich erheben,
+sei's durch Leben oder Tod,
+auferstand'ner Herr und Gott!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The 99</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v6 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can feel the earth slipping from my feet
+Got lost chasing dreams that I can't seem to reach
+But You never stopped chasing me
+I've been hiding from my past
+Wasting time ticking fast
+Thought I was out of reach
+But You never stopped chasing me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You would search the whole world over to find me (to find me)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's no place You wouldn't go
+You're searching high and low
+You leave the ninety-nine to lead me home
+I can't outrun Your love
+There's no road that's long enough
+You leave the ninety-nine to lead me home
+There's no place You wouldn't go
+Theres no place You wouldn't go</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I can hear the sound of struggle fade away
+When I hear You call my name
+And I can finally see
+What You see when You look at me
+You're convinced I'm worth it all
+Nailed the proof up on the cross
+So I can finally see</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You would search the whole world over to find me (to find me)
+You would search the whole world over to find me (to find me)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>There's no place You wouldn't go
+You're searching high and low
+You leave the ninety-nine to lead me home
+I can't outrun Your love
+There's no road that's long enough
+You leave the ninety-nine to lead me home
+There's no place You wouldn't go</lines>
+    </verse>
+  </lyrics>
+</song>

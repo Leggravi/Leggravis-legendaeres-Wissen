@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Soon and very soon</title>
+    </titles>
+    <authors>
+      <author type="words">Andraé Crouch</author>
+      <author type="music">Andraé Crouch</author>
+      <author type="translation">Bald schon kann es sein (dass wir Gott als König sehn)</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Soon and very soon,
+We are going to see the King,
+Soon and very soon,
+We are going to see the King.
+Soon and very soon,
+We are going to see the King,
+Hallelujah, hallelujah,
+We are going to see the King.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No more crying there,
+We are going to see the King,
+No more crying there,
+We are going to see the King.
+No more crying there,
+We are going to see the King,
+Hallelujah, Hallelujah,
+We are going to see the King.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No more dying there,
+We are going to see the King,
+No more dying there,
+We are going to see the King.
+No more dying there,
+We are going to see the King,
+Hallelujah, Hallelujah,
+We are going to see the King.</lines>
+    </verse>
+  </lyrics>
+</song>

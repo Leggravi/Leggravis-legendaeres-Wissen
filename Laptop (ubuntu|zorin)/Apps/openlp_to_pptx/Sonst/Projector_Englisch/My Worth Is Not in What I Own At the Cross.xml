@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Worth Is Not in What I Own (At the Cross)</title>
+    </titles>
+    <authors>
+      <author type="words">Keith Getty</author>
+      <author type="music">Keith Getty</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My worth is not in what I own
+Not in the strength of flesh and bone
+But in the costly wounds of love
+At the cross</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My worth is not in skill or name
+In win or lose, in pride or shame
+But in the blood of Christ that flowed
+At the cross.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I rejoice in my Redeemer
+Greatest Treasure,
+Wellspring of my soul
+I will trust in Him, no other.
+My soul is satisfied in Him alone.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>As summer flowers we fade and die
+Fame, youth and beauty hurry by
+But life eternal calls to us
+At the cross.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I will not boast in wealth or might
+Or human wisdom’s fleeting light
+But I will boast in knowing Christ
+At the cross.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Two wonders here that I confess
+My worth and my unworthiness
+My value fixed – my ransom paid
+At the cross.</lines>
+    </verse>
+  </lyrics>
+</song>

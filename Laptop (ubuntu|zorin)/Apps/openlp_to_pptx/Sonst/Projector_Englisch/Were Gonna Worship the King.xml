@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We’re Gonna Worship the King</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v1 v1 v2 v3 v3 v2 v3 v4 v3 v1 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We’re gonna worship the King
+We’re gonna praise His name
+We’re gonna lift up holy hands
+We’re gonna worship the King</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We’re gonna praise Him in the morning
+Praise Him in the night
+Praise Him all day long
+We’re gonna lift up the mighty name of Jesus
+You'll hear me singing this song</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We’re gonna worship the King (Worship the King)
+We’re gonna praise His name
+We’re gonna lift up holy hands
+We’re gonna worship the King</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We’re gonna worship the King (Worship)
+We’re gonna praise His name
+We’re gonna lift up holy hands
+We’re gonna worship the King</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We're gonna lift up holy hands
+We're gonna worship the King
+We're gonna lift up holy hands
+We're gonna worship the King</lines>
+    </verse>
+  </lyrics>
+</song>

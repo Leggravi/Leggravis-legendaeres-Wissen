@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, öffne mir die Herzenstür</title>
+    </titles>
+    <authors>
+      <author type="words">Gotha</author>
+      <author type="music">Herr Jesu Christ, dich zu uns wend</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, öffne mir die Herzenstür,
+zieh mein Herz durch dein Wort zu dir,
+lass mich dein Wort bewahren rein,
+lass mich dein Kind und Erbe sein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dein Wort bewegt des Herzens Grund,
+dein Wort macht Leib und Seel gesund,
+dein Wort ists, das mein Herz erfreut,
+dein Wort gibt Trost und Seligkeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ehr sei dem Vater und dem Sohn,
+dem Heilgen Geist in einem Thron;
+der Heiligen Dreieinigkeit
+sei Lob und Preis in Ewigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

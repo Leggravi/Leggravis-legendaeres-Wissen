@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Are United in Jesus Christ</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are united in Jesus Christ
+We are the soldiers of the light
+We don’t wrestle flesh and blood
+But principalities of the dark
+We do our marching to one beat
+Crushing the enemy under our feet
+We are mighty in our stand
+With God’s word in our hands.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In our hearts, we have a vision
+We have made our decision
+To show the Father’s love
+With great power from above.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let us reach this generation
+Every tribe and every nation
+For we’ve overcome the world
+By the blood of Christ The Lamb.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The Lord our God is a sword and shield
+We fight our battles on our knees.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We do our marching to one beat
+Crushing the enemy under our feet
+We are mighty in our stand
+With God’s word in our hands.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>We are mighty in our stand
+With God’s word in our hands.
+We are mighty in our stand
+With God’s word in our hands.
+We are mighty!</lines>
+    </verse>
+  </lyrics>
+</song>

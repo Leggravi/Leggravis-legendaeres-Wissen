@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dein Reich komme</title>
+    </titles>
+    <authors>
+      <author type="words">Sybille Fritsch</author>
+      <author type="music">Hans-Jürgen Hufeisen</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dein Reich komme,
+Dein Wille geschehe, wie im Himmel, so auf Erden:
+Jetzt ist der Tag, jetzt ist die Stunde da,
+jetzt ist die Zeit der Erfüllung!
+Komme in Kraft, komme in Deiner Macht,
+komme in Herrlichkeit! Dein Reich komme, o Herr!</lines>
+    </verse>
+  </lyrics>
+</song>

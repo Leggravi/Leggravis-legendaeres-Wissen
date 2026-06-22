@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Der Herr erhört Gebet, welch unverdiente Güte</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Bernhard Garve</author>
+      <author type="music">O Gott, du frommer Gott</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Der Herr erhört Gebet,
+welch unverdiente Güte!
+Auch ich darf früh und spät
+Mit kindlichem Gemüte
+zum Thron der Liebe nahn,
+die nie mein Flehn verwarf,
+und stündlich dort empfahn,
+was ich zum Heil bedarf.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hört, was die Liebe spricht!
+Sie selbst macht Mut zum Flehen:
+Kommt, bittet, Zweifelt nicht,
+die Bitte soll geschehen!
+Ja, was ihr im Gebet,
+ob's groß sei oder klein,
+in meinem Namen fleht,
+glaubt mir: Ich will's verleihn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Herr, mit frohem Dank
+glaub ich, was Du verheißen,
+und nichts soll lebenslang
+mir diesen Trost entreißen.
+Im Glauben ohne Scheu
+schick ich mein Flehn Dir zu:
+mach mich als Beter treu!
+Fürs Amen sorgest Du.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Maranatha</title>
+    </titles>
+    <authors>
+      <author type="words">Ateliers et Presses de Taizé</author>
+      <author type="music">Jacques Berthier</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist der Erste und der Letzte,
+du bist der Anfang und das Ende,
+der Gegenwärtige und Kommende,
+der Helle Morgenstern.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist der treue und Wahrhaftige,
+du bist das Lamm und auch der Löwe.
+Du bist der König aller Könige,
+der Herr aller Herrn.
+Und der Geist und die Braut sie rufen: komm!
+Wer es hört, der rufe: komm!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Maranatha komm, Herr Jesus.
+Maranatha, komme bald.
+Maranatha, komm, Herr Jesus.
+Maranatha, komme bald.</lines>
+    </verse>
+  </lyrics>
+</song>

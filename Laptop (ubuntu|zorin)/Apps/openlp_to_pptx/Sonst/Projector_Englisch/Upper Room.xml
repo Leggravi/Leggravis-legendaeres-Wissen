@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Upper Room</title>
+    </titles>
+    <authors>
+      <author type="words">Benjamin Hastings</author>
+      <author type="music">Benjamin Hastings</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Help me Holy Ghost,
+I need You more than anything,
+All my best ideas are Yours,
+So what am I but what You make of me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So help me God,
+Breathe on my weakness,
+For all I want is to be like Jesus,
+I don't have much,
+But what I have is Yours to use,
+So make my whole life Your upper room.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Help me Holy Ghost,
+I need You more than I can say,
+May Your thoughts become my own,
+Till the Father's will be done in me.</lines>
+    </verse>
+  </lyrics>
+</song>

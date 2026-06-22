@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Born, Born, Born Again</title>
+    </titles>
+    <authors>
+      <author type="words">Wes Campbell</author>
+      <author type="music">Wes Campbell</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Born born born again
+I'm glad I'm born again (x2)
+Born of the water
+Spirit and the blood
+Thank God I'm born again (x2)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Seht her, sein Knecht</title>
+    </titles>
+    <authors>
+      <author type="words">Andreas Fett</author>
+      <author type="music">Southern Folk Melody</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Seht her, Sein Knecht ans Kreuz gehängt,
+entehrt, entblößt, entstellt,
+der Seine Herrlichkeit verschenkt.
+Er tut, was Gott gefällt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er ist Sein ausgestreckter Arm,
+ein Spross aus dürrem Feld;
+der unsern Jammer auf sich nahm.
+Gott selbst hat Ihn erwählt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fürwahr, Er trug die Missetat,
+die ganze Schuld der Welt,
+der leidend für die Feinde bat,
+den man für schuldig hält.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Er schwieg geduldig wie ein Schaf,
+Verbrechern beigesellt;
+damit nicht uns Sein Urteil traf,
+hat Er sich hingestellt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Weil Er den Kelch der Leiden trank,
+das Lösegeld gestellt,
+bringt Ihm Lohn der Mühsal Dank;
+erhebt Ihn als den Held!</lines>
+    </verse>
+  </lyrics>
+</song>

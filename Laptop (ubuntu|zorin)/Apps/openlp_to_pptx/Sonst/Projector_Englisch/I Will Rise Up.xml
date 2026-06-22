@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Will Rise Up</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v2 v3 v4 v3 v3 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You're calling me to a deeper place
+You're calling me to come away
+This is the day that you have made
+To walk in your love and your grace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will sing to you my king
+Forever and ever</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will rise up, and worship your holiness
+I will sing a song of your faithfulness
+From the mountain, to the valleys
+Your love will be my peace
+And I'll sing of your love for me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will sing of your love…</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I will rise up,
+and worship you, worship you.
+I will rise up,
+and worship you, worship you.
+I will rise up,
+and worship you, worship you.</lines>
+    </verse>
+  </lyrics>
+</song>

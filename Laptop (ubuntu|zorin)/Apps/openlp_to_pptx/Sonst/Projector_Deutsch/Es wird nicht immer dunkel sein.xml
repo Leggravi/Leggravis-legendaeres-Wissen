@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Es wird nicht immer dunkel sein</title>
+    </titles>
+    <authors>
+      <author type="words">Manfred Siebald</author>
+      <author type="music">England</author>
+      <author type="translation">God Rest You Merry Gentlemen</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es wird nicht immer dunkel sein, so klingt seit alter Zeit
+das Wort der Hoffnung hell hinein in Menschentraurigkeit.
+Und halten auch die Hirten noch im Finstern ängstlich Wacht,
+hat doch Gott schon den Himmel aufgemacht in der Nacht,
+hat doch Gott schon längst den Himmel aufgemacht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kann so viel Licht im Dinkel sein und so viel heller Schall?
+Der Engel lädt die Hirten ein zu Jesus in den Stall.
+Sie ahnen, während rings der Himmel laut vor Freude lacht:
+Gott hat sich zu uns Menschen aufgemacht in der Nacht.
+Gott hat sich zu seinen Menschen aufgemacht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Da wo die tiefsten Schatten sind, lässt Gottes Licht sich sehn.
+Noch ist es klein so wie das Kind, vor dem die Hirten stehn.
+Sie haben nichts als nur verzagte Herzen mitgebracht.
+Aber Gott hat den Himmel aufgemacht in der Nacht.
+Gott hat heute seinen Himmel aufgemacht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Es wird nicht immer dunkel sein, hat uns das Kind gezeigt,
+auch wenn bis heut die Finsternis vor unsern Augen steigt.
+Doch wer das Licht bei Jesus sucht noch in der tiefsten Nacht,
+der hat sich schon zum Himmel aufgemacht, hat bei Nacht
+sich auf Erden schon zum Himmel aufgemacht</lines>
+    </verse>
+  </lyrics>
+</song>

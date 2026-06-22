@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Es kommt ein Schiff geladen</title>
+    </titles>
+    <authors>
+      <author type="words">Straßburg</author>
+      <author type="music">Köln</author>
+      <author type="translation">A ship is coming laden</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es kommt ein Schiff,
+geladen bis an sein' höchsten Bord,
+trägt Gottes Sohn voll Gnaden,
+des Vaters ewig's Wort.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Das Schiff geht still im Triebe,
+es trägt ein’ teure Last;
+das Segel ist die Liebe,
+der Heilig’ Geist der Mast.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Der Anker haft' auf Erden,
+da ist das Schiff am Land.
+Das Wort tut Fleisch uns werden,
+der Sohn ist uns gesandt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zu Bethlehem geboren
+im Stall ein Kindelein,
+gibt sich für uns verloren;
+gelobet muß es sein.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Und wer dies Kind mit Freuden
+umfangen, küssen will,
+muß vorher mit ihm leiden
+groß’ Pein und Marter viel,</lines>
+    </verse>
+    <verse name="v6">
+      <lines>danach mit ihm auch sterben
+und geistlich aufersteh’n,
+ewig’s Leben zu erben,
+wie an ihm ist gescheh’n.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Maria, Gottes Mutter,
+gelobet musst du sein.
+Jesus ist unser Bruder,
+das liebe Kindelein</lines>
+    </verse>
+  </lyrics>
+</song>

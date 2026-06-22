@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>That Day Is Coming</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>That day is coming before you know it
+That day is coming, it's almost here
+We shall behold Him in all His glory
+That day is coming, He shall appear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Maybe tomorrow, maybe today
+We'll hear ol' Gabriel call us away
+It seems we've been waiting for a long, long time
+Keeping our eyes toward the Eastern skies
+Just any minute, we'll be telling this world goodbye</lines>
+    </verse>
+    <verse name="v3">
+      <lines>People get ready, it won't be long
+We will be moving to our new home
+In a moment, in the twinkling of an eye
+We'll leave our troubles and our cares behind
+This world will lose its hold and we will fly (Fly)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We'll be walking down the street and it will turn to gold
+Sit by the crystal sea with the saints of old
+Sounds too good to be true but it's going to happen to me and you
+Happen to me and you</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We shall behold Him in all His glory
+That day is coming, that day is coming
+That day is coming
+He shall appear, He shall appear.</lines>
+    </verse>
+  </lyrics>
+</song>

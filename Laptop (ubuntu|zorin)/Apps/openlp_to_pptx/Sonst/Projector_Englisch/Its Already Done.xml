@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It's Already Done</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's already done,
+It's already done,
+The battle is over,
+Victory is won,
+It's already done.
+(I'm already healed…)
+(My family is healed…)
+(We have overcomed…)</lines>
+    </verse>
+  </lyrics>
+</song>

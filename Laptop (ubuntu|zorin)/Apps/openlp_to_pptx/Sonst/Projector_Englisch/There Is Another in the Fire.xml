@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There Is Another in the Fire</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Davenport</author>
+      <author type="music">Chris Davenport</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a grace when the heart is under fire
+Another way when the walls are closing in
+And when I look at the space between
+Where I used to be and this reckoning
+I know I will never be alone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There was another in the fire
+Standing next to me
+There was another in the waters
+Holding back the seas
+And should I ever need reminding
+Of how I've been set free
+There is a cross that bears the burden
+Where another died for me
+There is another in the fire</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All my debt left for dead beneath the waters
+I'm no longer a slave to my sin anymore
+And should I fall in the space between
+What remains of me and this reckoning
+Either way I won't bow
+To the things of this world
+And I know I will never be alone</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There is another in the fire
+Standing next to me
+There is another in the waters
+Holding back the seas
+And should I ever need reminding
+What power set me free
+There is a grave that holds no body
+And now that power lives in me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There is another in the fire
+There is another in the fire
+There is another in the fire
+There is another in the fire</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I can see the light in the darkness
+As the darkness bows to him
+I can hear the roar in the heavens
+As the space between wears thin
+I can feel the ground shake beneath us
+As the prison walls cave in
+Nothing stands between us
+Nothing stands between us</lines>
+    </verse>
+    <verse name="v7">
+      <lines>There is no other name
+But the name that is Jesus
+He who was and still is
+And will be through it all
+So come what may in the space between
+All the things unseen
+And this reckoning
+I know I will never be alone</lines>
+    </verse>
+    <verse name="v8">
+      <lines>There'll be another in the fire
+Standing next to me
+There'll be another in the waters
+Holding back the seas
+And should I ever need reminding
+How good You've been to me
+I'll count the joy come every battle
+'Cause I know that's where You'll be</lines>
+    </verse>
+  </lyrics>
+</song>

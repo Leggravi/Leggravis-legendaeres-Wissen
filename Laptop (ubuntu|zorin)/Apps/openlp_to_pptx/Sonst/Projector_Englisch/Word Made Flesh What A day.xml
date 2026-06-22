@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Word Made Flesh/ What A day</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I see the Word made flesh again
+In these last days
+God and man forever to stay
+What a glorious revelation
+Just to know and understand
+That Christ came down
+And united with man.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is coming a day
+When no heartaches shall come,
+No more clouds in the sky,
+No more tears to dim the eye;
+All is peace forevermore
+On that happy golden shore,
+What a day, glorious day
+That will be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What a day that will be
+When my Jesus I shall see,
+When I look upon His face,
+The One who saved me by His grace;
+When He takes me by the hand,
+And leads me through
+The Promised Land,
+What a day, glorious day
+That will be.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There'll be no sorrow there,
+No more burdens to bear,
+No more sickness, no pain,
+No more parting over there;
+And forever I will be
+With the One who died for me,
+What a day, glorious day
+That will be.</lines>
+    </verse>
+  </lyrics>
+</song>

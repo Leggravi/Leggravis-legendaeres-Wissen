@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, unsre starke Festung</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Jacobi</author>
+      <author type="music">Nancy Gordon</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, unsre starke Festung,
+Gegründet in Dir steh‘n wir.
+Jesus, unsre starke Festung,
+Dein Wort ist wahr, wir vertrauen Dir
+Dein Wort ist wahr, wir vertrauen Dir</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir haben Hoffnung [wir haben Hoffnung]
+Wir haben Zukunft [wir haben Zukunft]
+Dein Plan ist gut für uns [Dein Plan ist gut für uns]
+Das wissen wir, [das wissen wir]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dein Wort ist ewig treu. [Dein Wort ist ewig treu]
+wirksam und mächtig [wirksam und mächtig]
+Jesus du setzt uns frei [Jesus du setzt uns frei]
+Das wissen wir, [das wissen wir]</lines>
+    </verse>
+  </lyrics>
+</song>

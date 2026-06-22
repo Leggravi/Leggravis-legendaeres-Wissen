@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You're the answer to my prayers</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Once in a lifetime
+You find that someone else
+Who knows you better
+Than you even know yourself
+You're that connection
+That makes my heart complete
+You keep my soul in balance
+You are my harmony</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I say the grace
+You say amen
+We are each other's compliment
+This is a perfect love we share
+You're the answer to my prayer</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You know my question
+Before I even ask
+I know when to let you cry
+And when to make you laugh
+Sometimes we say the most
+When no words have been said
+You even sing the songs
+I hear playing in my head</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And all that I need
+Is all that I have
+My lover
+My other half</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I say the grace
+You say amen
+We are each other's compliment
+This is a perfect love we share
+You're the answer to my prayer
+This is a perfect love we share
+You're the answer to my prayer</lines>
+    </verse>
+  </lyrics>
+</song>

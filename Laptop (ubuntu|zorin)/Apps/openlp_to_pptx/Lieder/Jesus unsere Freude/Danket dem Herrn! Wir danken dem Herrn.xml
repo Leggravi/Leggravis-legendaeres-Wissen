@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:59">
+  <properties>
+    <titles>
+      <title>Danket dem Herrn! Wir danken dem Herrn</title>
+    </titles>
+    <authors>
+      <author type="words">Karl Friedrich Wilhelm Herrosee (1810)</author>
+      <author type="music">Karl Friedrich Schulz</author>
+    </authors>
+    <ccliNo>4822066</ccliNo>
+    <themes>
+      <theme>Dank</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Danket dem Herrn!
+Wir danken dem Herrn, denn Er ist freundlich
+und Seine Güte währet ewiglich,
+sie währet ewiglich, sie währet ewiglich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lobet den Herrn!
+Ja, lobe den Herrn, auch meine Seele;
+vergiss es nicht, was Er dir Guts getan,
+was Er dir Guts getan, was Er dir Guts getan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sein ist die Macht!
+Allmächtig ist Gott, Sein Tun ist weise,
+und Seine Huld ist jeden Morgen neu,
+ist jeden Morgen neu, ist jeden Morgen neu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Groß ist der Herr!
+Ja, groß ist der Herr, Sein Nam' ist heilig,
+und alle Welt ist Seiner Ehre voll,
+ist Seiner Ehre voll, ist Seiner Ehre voll.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Betet Ihn an! Anbetung dem Herrn!
+Mit hoher Ehrfurcht werd auch
+von uns Sein Name stets genannt,
+Sein Name stets genannt, Sein Name stets genannt.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Singet dem Herrn!
+Lobsinget dem Herrn in frohen Chören;
+denn Er vernimmt auch unsern Lobgesang,
+auch unsern Lobgesang, auch unsern Lobgesang.</lines>
+    </verse>
+  </lyrics>
+</song>

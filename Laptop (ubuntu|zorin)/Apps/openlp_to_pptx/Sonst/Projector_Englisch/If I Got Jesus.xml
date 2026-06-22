@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>If I Got Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v5 v6 v2 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've had a dollar to my name,
+I've had friends that walked away,
+And I've even lost myself a time or two,
+There were bridges crossed and burned,
+But through all the wreckage I have learned,
+There is one thing that I can never lose.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If I got Jesus,
+I've got all that I could ever need,
+Take the world away from me,
+And I'll be okay.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If I got Jesus,
+There's a hope that's living deep inside,
+A joy that I could never hide
+And a safe place to fall,
+If I got Jesus, I got it all, mmm.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I've seen weakness turn to strength,
+I've seen failures met with grace,
+And it's not from what I've done, it's Christ in me,
+A miracle I can't explain,
+Oh, he's given me his name,
+I'm the richest man that I could ever be.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>If I got Jesus,
+There's a hope that's living deep inside,
+A joy that I could never hide
+And a safe place to fall,
+If I got Jesus, I got it all, oh.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Someday that trumpet's gonna sound
+And the King of Heaven will ride upon the clouds coming down,
+I'll hit my knees, oh Lord, then sings my soul,
+I'm going home.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>If I got Jesus,
+There's a hope that's living deep inside,
+A joy that I could never hide,
+And a safe place to fall,
+If I got Jesus, I got it all.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>If I got Jesus,
+I got it all, mm,
+Mm-mm.</lines>
+    </verse>
+  </lyrics>
+</song>

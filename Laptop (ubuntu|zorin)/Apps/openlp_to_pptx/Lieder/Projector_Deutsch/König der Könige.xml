@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>König der Könige</title>
+    </titles>
+    <authors>
+      <author type="words">Werner Finis</author>
+      <author type="music">Manal Samir</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>König der Könige,
+was taten sie dir?
+König der Könige,
+was taten sie dir?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sie drückten dir die Krone aus Dornen auf dein Haupt,
+sie warfen dich zum Lohne der Liebe in den Staub.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sie schlugen mit den Fäusten dein edles Angesicht,
+sie spotteten und höhnten, du wehrtest ihnen nicht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gegeisselt, festgebunden, gebückt unter dem Kreuz,
+den Leib voll tiefer Wunden, genagelt an das Holz!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Du heil'ger Sohn des Vaters verblutet unerkannt,
+doch bricht in deinem Tode das neue Leben an.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>König der Könige, das tatest du uns!
+König der Könige, das tatest du uns!</lines>
+    </verse>
+  </lyrics>
+</song>

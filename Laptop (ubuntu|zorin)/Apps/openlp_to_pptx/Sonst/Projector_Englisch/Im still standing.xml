@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm still standing</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You gave me courage to believe
+That all your goodness I will see
+And if it had not been for You
+Standing on my side, where would I be?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If not for Your goodness, if not for Your grace
+I don't know where I would be today
+If not for Your kindness, I never could say
+I'm still standing</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If not for Your mercy, if not for Your love
+I most likely would have given up
+If not for Your favor, I never could say
+I'm still standing but by the grace of God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To You I lift my offering
+And set my heart on higher things
+For if it had not been for You
+Standing on my side, where would I be?</lines>
+    </verse>
+  </lyrics>
+</song>

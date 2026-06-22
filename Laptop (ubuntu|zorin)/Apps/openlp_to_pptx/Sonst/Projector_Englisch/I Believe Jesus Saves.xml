@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Believe Jesus Saves</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am coming to Jesus for rest,
+Rest, such as the purified know;
+My soul is athirst to be blest,
+To be washed and made
+  whiter than snow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I believe Jesus saves,
+And His blood washes
+  whiter than snow;
+I believe Jesus saves,
+And His blood washes
+  whiter than snow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In coming, my sin I deplore,
+My weakness and poverty show;
+I long to be saved evermore,
+To be washed and made
+  whiter than snow.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To Jesus I give up my all,
+Every treasure and idol I know;
+For His fullness of blessing I call,
+Till His blood washes
+  whiter than snow</lines>
+    </verse>
+  </lyrics>
+</song>

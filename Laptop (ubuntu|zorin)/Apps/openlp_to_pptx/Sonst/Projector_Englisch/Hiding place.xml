@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hiding place</title>
+    </titles>
+    <authors>
+      <author type="words">Jared Anderson</author>
+      <author type="music">Jared Anderson</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are my hiding place
+I run to You
+I need Your mercy and grace
+To see me through
+So I'll run to You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are my strength Oh God
+You will uphold me
+You are my shield Oh God
+You will protect me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are my hiding place
+I run to You
+I need Your mercy and grace
+To see me through
+So I'll run to You
+So I'll run to You
+I'll run to You</lines>
+    </verse>
+  </lyrics>
+</song>

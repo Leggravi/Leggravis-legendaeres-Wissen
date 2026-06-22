@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Stronger Wind Than This</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Strong winds are blowing, with an unrelenting force
+People running to and fro, they don't know what's going on
+Men's hearts are failing, because of turmoil in the land
+Church doors are closing; preachers just can't take a stand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's gonna take a stronger wind than this,
+to keep me from my promises
+It's gonna take a stronger wind than this,
+to turn me around
+It's gonna take a stronger wind than this,
+because my feet are on solid ground</lines>
+    </verse>
+    <verse name="v3">
+      <lines>People are searching for the true and living God
+There's a famine in the land, and the word seems null and void
+They have eyes but cannot see; they have ears but cannot hear
+If they'd only knew scripture, they'd know Jesus Christ is here</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bridge
+It's gonna take a stronger wind than this,
+to keep me from my promises
+It's gonna take a stronger wind than this,
+to turn me around
+It's gonna take a stronger wind than this,
+to keep this eagle down</lines>
+    </verse>
+    <verse name="v5">
+      <lines>People are living no different than the world
+Claiming to know the Lord, but truly serving other gods
+They call on him day and night, but they don't produce the life
+Annointed ones at the end time, rejecting the only Christ</lines>
+    </verse>
+  </lyrics>
+</song>

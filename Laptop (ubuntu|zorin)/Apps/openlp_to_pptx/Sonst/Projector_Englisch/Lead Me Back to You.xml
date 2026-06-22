@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lead Me Back to You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>City lights burn bright in the dark of night;
+Footsteps echo the chilly wind.
+I have walked the dead end of this road;
+I am lonely and cold.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>City lights give me no more delight;
+No more meaning in all I do.
+Thought I could live without You;
+Now I'm lonely and cold.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Father, Father, lead me back to You.
+Your soothing presence is all I need.
+I am lost and cold within myself;
+Warm me with Your embrace.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Shadows come and stay at the break of light;
+Dread has risen from the dead.
+Doves take flight and won't come back again;
+I am restless and scared.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tempests roar and rage inside of me;
+Murky water wash dreams away.
+Where is hope that I may hope again?
+I am restless and scared.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Father, Father, lead me back to You;
+Do not hide Your face from me.
+Fill my ears with Your comforting voice;
+And make my soul rejoice.</lines>
+    </verse>
+  </lyrics>
+</song>

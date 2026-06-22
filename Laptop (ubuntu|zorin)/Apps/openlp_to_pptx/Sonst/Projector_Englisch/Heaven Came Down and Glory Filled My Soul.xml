@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heaven Came Down and Glory Filled My Soul</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O what a wonderful, wonderful day
+Day I will never forget
+After I’d wandered in darkness away
+Jesus my Saviour I met
+O what a tender, compassionate friend
+He met the need of my heart
+Shadows dispelling, with joy I am telling
+He made all the darkness depart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Heaven came down and glory filled my soul
+(filled my soul)
+When at the cross my Saviour made me whole
+(made me whole)
+My sins were washed away
+And my night was turned to day
+Heaven came down and glory filled my soul</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Born of the Spirit with life from above
+Into God’s family divine
+Justified fully through Calvary’s love
+O what a standing is mine
+And the transaction so quickly was made
+When as a sinner I came
+Took of the offer of grace He did proffer
+He saved me, O praise His dear name</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now I’ve a hope that will surely endure
+After the passing of time
+I have a future in heaven for sure
+There in those mansions sublime
+And it’s because of that wonderful day
+When at the cross I believed
+Riches eternal and blessings supernal
+From His precious hand I received</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist Christus</title>
+    </titles>
+    <authors>
+      <author type="words">Andrea Adams-Frey</author>
+      <author type="music">Andrea Adams-Frey</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist mein Schild und meine Burg
+Und in dir will ich bleiben
+Ich geb mich dir
+Du bist genug
+Dein Licht wird mich bekleiden
+Du bist der Fels, auf dem ich steh
+Und du bist meine Ehre
+Vor Freude strahlen, die dich sehen
+Du bist's, dem ich gehöre</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist Christus
+Die Hoffnung auf Herrlichkeit
+Christus
+Der Anfang der Ewigkeit
+Und du lebst in mir
+Und ich leb in dir</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du bist der Weinstock, der mich trägt
+Und ich bin wie die Rebe
+Bleib ich in dir auf meinem Weg
+Wächst Frucht in meinem Leben
+Die Welt ist vollet Angst und Not
+Du hast sie überwunden
+So halt ich fest an meinem Gott
+Ich hab mein Heil gefunden</lines>
+    </verse>
+  </lyrics>
+</song>

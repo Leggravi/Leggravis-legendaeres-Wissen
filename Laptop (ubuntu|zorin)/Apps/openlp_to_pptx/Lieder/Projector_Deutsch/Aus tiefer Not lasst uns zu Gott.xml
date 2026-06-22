@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Aus tiefer Not lasst uns zu Gott</title>
+    </titles>
+    <authors>
+      <author type="words">Michael Weiße</author>
+      <author type="music">Aus tiefer Not schrei ich zu dir</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1) Aus tiefer Not lasst uns zu Gott
+von ganzem Herzen schreien,
+bitten, dass er aus seiner Gnad
+uns woll vom Übel befreien
+und alle Sünd und Missetat,
+die unser Fleisch begangen hat,
+als Vater uns verzeihen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2) O Gott und Vater, sieh doch an
+uns Armen und Elenden,
+die wir sehr übel han getan
+mit Herzen, Mund und Händen;
+verleih uns, dass wir Buße tun
+und sie in Christus, deinem Sohn,
+zur Seligkeit vollenden.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3) Zwar unsre Schuld ist groß und schwer,
+von uns nicht auszurechnen;
+doch dein Barmherzigkeit ist mehr,
+die kein Mensch kann aussprechen:
+die suchen und begehren wir
+und hoffen, du lässt es an dir
+uns nimmermehr gebrechen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4) Du willst nicht, dass der Sünder sterb
+und zur Verdammnis fahre,
+sondern dass er dein Gnad erwerb
+und sich darin bewahre;
+so hilf uns nun, o Herre Gott,
+auf dass uns nicht der ewge Tod
+in Sünden widerfahre.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5) Wir opfern uns dir arm und bloß,
+durch Reue tief geschlagen;
+o nimm uns auf in deinen Schoß
+und lass uns nicht verzagen.
+O hilf, dass wir getrost und frei
+ohn arge List und Heuchelei
+dein Joch zum Ende tragen.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6) Sprich uns durch deine Boten zu,
+gib Zeugnis dem Gewissen,
+stell unser Herz durch sie zur Ruh,
+tu uns durch sie zu wissen,
+wie Christus vor deim Angesicht
+all unsre Sachen hab geschlicht’:
+den Trost lass uns genießen.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>7) Erhalt in unsers Herzens Grund
+deinen göttlichen Samen
+und hilf, dass wir den neuen Bund
+in deines Sohnes Namen
+vollenden in aller Wahrheit,
+also der Krone der Klarheit
+teilhaftig werden. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

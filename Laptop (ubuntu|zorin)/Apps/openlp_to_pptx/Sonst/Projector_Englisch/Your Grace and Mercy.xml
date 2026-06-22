@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Your Grace and Mercy</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your grace and mercy brought me through
+I'm living this moment because of You
+I want to thank You and praise You too
+Your grace and mercy brought me through</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thank You for saving a sinner like me
+To tell the world salvation is free
+There were times when I just didn't do right
+But You watched over me all day and night</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your grace and mercy brought me through
+I'm living this moment because of You
+I want to thank You and praise You too</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your grace and mercy brought me through
+Justice demanded that I should die
+But grace and mercy said
+Oh no, oh no, oh no
+We've already paid the price
+I once was blind
+But thank God I can see
+It was because grace and mercy
+Came along and rescued me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Your grace and mercy brought me through
+I'm living this moment because of You
+I want to thank You and praise You too
+Your grace and mercy, your grace and mercy
+Your grace and mercy brought me through</lines>
+    </verse>
+  </lyrics>
+</song>

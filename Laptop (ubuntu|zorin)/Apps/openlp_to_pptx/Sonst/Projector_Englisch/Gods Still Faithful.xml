@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God's Still Faithful</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the mountain looks so tall
+You′re faith seems so small
+Your back's against the wall
+There′s a God above
+Who's looking down in love,
+He's always been faithful and true!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He is a friend who sticks closer than a brother
+And He knows your pain like no other!
+So don′t be afraid, Step out in Faith
+And call upon His name!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God′s still faithful
+In the midst of it all
+He's faithful!
+When the earth beneath your feet
+Gives way in defeat
+He′s faithful!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When it's just too much for you
+And you don′t know what to do
+God will carry you through!
+When hope is all gone
+AND you've no strength to go on
+God′s still FAITHFUL!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh now FAITHFUL is He,
+When your faith is weak
+And you've lost all your peace
+When your whole world is shattered
+Nothing else matters
+Life just doesn't mean anything</lines>
+    </verse>
+    <verse name="v6">
+      <lines>God′s a present help
+In your time of trouble
+When everything around you has crumbled
+He will never change
+He will will remain forever the same!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Oh… God′s still faithful!
+It the midst of it all
+He's faithful!
+When the earth beneath your feet
+Gives way in defeat
+He′s faithful (oh yes He is)</lines>
+    </verse>
+    <verse name="v8">
+      <lines>When it's just too much for you
+And you don′t know what to do
+God will carry you through
+When hope is all gone
+And you've no strength to hold on</lines>
+    </verse>
+    <verse name="v9">
+      <lines>God′s still faithful!
+When it's just too much for you
+And you don't know what to do
+God will carry you through
+When hope is all gone
+And you′ve no strength to hold on
+GOD′S STILL FAITHFUL!!'</lines>
+    </verse>
+  </lyrics>
+</song>

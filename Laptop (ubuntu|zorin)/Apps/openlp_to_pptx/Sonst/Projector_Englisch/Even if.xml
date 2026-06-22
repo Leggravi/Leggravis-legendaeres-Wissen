@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Even if</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>They say sometimes you win some
+Sometimes you lose some
+And right now, right now I'm losing bad
+I've stood on this stage night after night
+Reminding the broken it'll be alright
+But right now, oh right now I just can't</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's easy to sing
+When there's nothing to bring me down
+But what will I say
+When I'm held to the flame
+Like I am right now</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know You're able and I know You can
+Save through the fire with Your mighty hand
+But even if You don't
+My hope is You alone</lines>
+    </verse>
+    <verse name="v4">
+      <lines>They say it only takes a little faith
+To move a mountain
+Good thing
+A little faith is all I have right now
+But God, when You choose
+To leave mountains unmovable
+Give me the strength to be able to sing
+It is well with my soul</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I know You're able and I know You can
+Save through the fire with Your mighty hand
+But even if You don't
+My hope is You alone
+I know the sorrow, and I know the hurt
+Would all go away if You'd just say the word
+But even if You don't
+My hope is You alone</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You've been faithful, You've been good
+All of my days
+Jesus, I will cling to You
+Come what may
+‘Cause I know You're able
+I know You can</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I know You're able and I know You can
+Save through the fire with Your mighty hand
+But even if You don't
+My hope is You alone
+I know the sorrow, and I know the hurt
+Would all go away if You'd just say the word
+But even if You don't
+My hope is You alone</lines>
+    </verse>
+    <verse name="v8">
+      <lines>It is well with my soul
+It is well, it is well with my soul</lines>
+    </verse>
+  </lyrics>
+</song>

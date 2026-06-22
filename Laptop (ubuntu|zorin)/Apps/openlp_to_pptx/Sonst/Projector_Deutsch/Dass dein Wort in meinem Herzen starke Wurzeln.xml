@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dass dein Wort in meinem Herzen starke Wurzeln</title>
+    </titles>
+    <authors>
+      <author type="words">Theo Lehmann</author>
+      <author type="music">Jörg Swoboda</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dass dein Wort in meinem Herzen
+starke Wurzeln schlägt
+und dein Geist in meinem Leben
+gute Früchte trägt, deine Kraft
+durch mich die Welt zu deinem Ziel bewegt,
+Herr, du kannst dies Wunder tun.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gut gemeint und schlecht gemacht,
+oberflächlich ausgedacht ist so vieles.
+Es verdorrt ohne dein Wort.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Erst komm ich und dann komm ich.
+Pausenlos geht es um mich.
+Was mich aus dem Strudel reißt,
+ist, Herr, dein Geist.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ist die Weiche falsch gestellt,
+wird am Schluss das Ziel verfehlt.
+Dass ein Mensch die Umkehr schafft,
+wirkt deine Kraft.</lines>
+    </verse>
+  </lyrics>
+</song>

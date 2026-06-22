@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let us grow</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let us grow, let us grow, let us grow into his truth
+Let us grow, led by love,
+let us be led by love to the truth
+And in everything grow to Christ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And in everything grow to Christ
+And in everything grow to Christ who is the head
+And in everything grow to Christ who is the head
+of the body
+The head of the body
+He is the head of the body
+The head of the body  JESUS</lines>
+    </verse>
+  </lyrics>
+</song>

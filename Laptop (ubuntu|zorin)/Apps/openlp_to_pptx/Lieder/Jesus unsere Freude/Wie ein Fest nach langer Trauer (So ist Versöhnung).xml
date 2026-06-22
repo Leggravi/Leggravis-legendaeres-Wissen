@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:49">
+  <properties>
+    <titles>
+      <title>Wie ein Fest nach langer Trauer (So ist Versöhnung)</title>
+    </titles>
+    <authors>
+      <author type="words">Jürgen Werth (1988)</author>
+      <author type="music">Johannes Nitsch</author>
+    </authors>
+    <ccliNo>4334114</ccliNo>
+    <themes>
+      <theme>Friede</theme>
+      <theme>Vertrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wie ein Fest nach langer Trauer,
+wie ein Feuer in der Nacht.
+Ein offnes Tor in einer Mauer,
+für die Sonne auf gemacht.
+Wie ein Brief nach langem Schweigen,
+wie ein unverhoffter Gruß.
+Wie ein Blatt an toten Zweigen
+ein-ich-mag-dich-trotzdem-Kuss.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wie ein Regen in der Wüste,
+frischer Tau auf dürrem Land.
+Heimatklänge für vermisste,
+alte Feinde Hand in Hand.
+Wie ein Schlüssel im Gefängnis,
+wie in Seenot - Land in Sicht.
+Wie ein Weg aus der Bedrängnis
+wie ein strahlendes Gesicht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wie ein Wort von toten Lippen,
+wie ein Blick der Hoffnung weckt.
+Wie ein Licht auf steilen Klippen,
+wie ein Erdteil neu entdeckt.
+Wie der Frühling, der Morgen,
+wie ein Lied wie ein Gedicht.
+Wie das Leben, wie die Liebe,
+wie Gott selbst das wahre Licht</lines>
+    </verse>
+  </lyrics>
+</song>

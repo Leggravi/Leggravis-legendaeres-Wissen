@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Auf, Seele, auf und säume nicht</title>
+    </titles>
+    <authors>
+      <author type="words">Michael Müller</author>
+      <author type="music">Lobt Gott, ihr Christen alle gleich (allzugleich)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1) Auf, Seele, auf und säume nicht,
+es bricht das Licht herfür;
+der Wunderstern gibt dir Bericht,
+der Held sei vor der Tür,
+der Held sei vor der Tür.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2) Geh weg aus deinem Vaterhaus
+zu suchen solchen Herrn
+und richte deine Sinne aus
+auf diesen Morgenstern,
+auf diesen Morgenstern.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3) Gib acht auf diesen hellen Schein,
+der aufgegangen ist;
+er führet dich zum Kindelein,
+das heißet Jesus Christ,
+das heißet Jesus Christ.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4) Drum mache dich behände auf,
+befreit von aller Last,
+und lass nicht ab von deinem Lauf,
+bis du dies Kindlein hast,
+bis du dies Kindlein hast.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5) Halt dich im Glauben an das Wort,
+das fest ist und gewiss;
+das führet dich zum Lichte fort
+aus aller Finsternis,
+aus aller Finsternis.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6) Ach sinke du vor seinem Glanz
+in tiefste Demut ein
+und lass dein Herz erleuchten ganz
+von solchem Freudenschein,
+von solchem Freudenschein.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>7) Gib dich ihm selbst zum Opfer dar
+mit Geiste, Leib und Seel
+und singe mit der Engel Schar:
+„Hier ist Immanuel,
+hier ist Immanuel. “</lines>
+    </verse>
+    <verse name="v8">
+      <lines>8) Hier ist das Ziel, hier ist der Ort,
+wo man zum Leben geht;
+hier ist des Paradieses Pfort,
+die wieder offen steht,
+die wieder offen steht.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>9) Hier fallen alle Sorgen hin,
+zur Lust wird alle Pein;
+es wird erfreuet Herz und Sinn
+in diesem Jesulein,
+in diesem Jesulein.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>10) Der zeigt dir einen andern Weg,
+als du vorher erkannt,
+den stillen Ruh und Friedenssteg
+zum ewgen Vaterland,
+zum ewgen Vaterland.</lines>
+    </verse>
+  </lyrics>
+</song>

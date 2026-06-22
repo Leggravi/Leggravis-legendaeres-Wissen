@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The battle is the Lord's</title>
+    </titles>
+    <authors>
+      <author type="words">Doug Horley</author>
+      <author type="music">Doug Horley</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a source in time of needs
+That gives me hope, that brings me peace
+In every trial, through every test
+My saviour stands in my defence
+(Hallelujah)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So When The Road You Walk
+Leaves You Tired And Worn
+All Your Strength Is gone
+And Your Heart Feels Torn
+Remember God Is greater Than the Storm
+Take Courage For the battle is the Lords.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And When The Waters Rise
+He Calls My Name And bids me come
+Out On The Wave, He Holds My Hand
+Lest I should I falter, And Makes Me Stand
+Out On The Water</lines>
+    </verse>
+  </lyrics>
+</song>

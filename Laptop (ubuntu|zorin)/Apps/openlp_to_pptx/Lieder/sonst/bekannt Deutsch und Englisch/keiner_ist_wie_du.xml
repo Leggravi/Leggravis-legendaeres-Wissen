@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 25, 2018, 10:27:13 PM">
+  <properties>
+    <titles>
+      <title>Keiner ist wie du</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Keiner ist wie du!
+Niemand sonst berührt mein Herz so wie du.
+Wo auch immer ich noch suchte, o Herr,
+es bleibt:
+Keiner ist wie du!</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Erbarmen fließt wie ein weiter Strom,
+und Heilung strömt aus deiner Hand.
+Kinder mit Wunden
+sind sicher bei dir.
+Keiner ist wie du!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord You Have My Heart</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Smith</author>
+      <author type="music">Martin Smith</author>
+      <author type="translation">Herr, hier ist mein Herz (ich streck mich aus nach dir)</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord You have my heart
+and I will search for yours
+Jesus take my life and lead me on.
+Oh Lord You have my heart
+and I will search for yours
+Let me be to you a sacrifice</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I will praise You Lord
+And I will sing of love come down
+And as You show Your face
+We'll see your glory here</lines>
+    </verse>
+  </lyrics>
+</song>

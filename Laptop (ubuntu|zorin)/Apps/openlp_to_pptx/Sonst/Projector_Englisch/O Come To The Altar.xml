@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Come To The Altar</title>
+    </titles>
+    <authors>
+      <author type="words">Mack Brock</author>
+      <author type="music">Mack Brock</author>
+      <author type="translation">Komm heute zum Vater</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Are you hurting and broken within?
+Overwhelmed by the weight of your sin?
+Jesus is calling
+Have you come to the end of yourself
+Do you thirst for a drink from the well?
+Jesus is calling</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O come to the altar
+The Father's arms are open wide
+Forgiveness was bought with
+The precious blood of Jesus Christ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Leave behind your regrets and mistakes
+Come today, there's no reason to wait
+Jesus is calling
+Bring your sorrows and trade them for joy
+From the ashes, a new life is born
+Jesus is calling</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh what a Savior
+Isn't He wonderful?
+Sing Hallelujah, Christ is risen
+Bow down before Him
+For He is Lord of all
+Sing Hallelujah, Christ is risen</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bear your cross as you wait for the crown
+Tell the world of the treasure you found</lines>
+    </verse>
+  </lyrics>
+</song>

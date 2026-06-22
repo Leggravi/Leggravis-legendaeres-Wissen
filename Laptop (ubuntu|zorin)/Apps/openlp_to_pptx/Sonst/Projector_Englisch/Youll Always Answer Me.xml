@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You'll Always Answer Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Many times she called out to You
+Son of David, hear my plea
+Unworthy of the children's bread
+You still met her need
+And like her, I'm unworthy but
+I've heard you call me child
+So by faith I will wait on You, and know that all the while</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You always answer me, right in my hour of need
+Not always how I think You should,
+But always for my good
+You always answer me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It seemed the heavens were unopened
+When I called upon Your name
+Even so, come quickly Lord
+In earnest hope, I pray for
+But my lowly expectations,
+Your plans they were no match
+Though broken when you finally came
+You gave more than I asked</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And how I know You will is that You've always been true
+To Your word, You've always heard and led this willing one
+So be it unto me, according to Thy word
+According to Thy way, Thy will be done</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Not always how I think You should
+Not always what I want, but right when I need it
+You're an on time God, and I'm thankful for it</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You always answer me (3x)</lines>
+    </verse>
+  </lyrics>
+</song>

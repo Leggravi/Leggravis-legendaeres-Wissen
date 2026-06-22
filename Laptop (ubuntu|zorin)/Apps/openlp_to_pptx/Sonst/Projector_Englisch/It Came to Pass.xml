@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It Came to Pass</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sickness must be present
+for healing to take place
+Lives must be broken
+so they can be restored
+We must stop looking
+at our hard times like they
+were dead end roads
+but avenues to prove He is Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It didn't come to stay; it came to pass.
+The Lord will move
+that mountain if you'll ask.
+The trials that we see today won't last.
+It didn't come to stay, it came to pass.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If I should live by sight
+I would be beaten down,
+because I can't see past
+These walls of circumstances.
+But faith will be my substance
+And my hope is in the Lord,
+and He will turn my sorrow into dance
+Oh-oh he has turned
+my sorrow into dance.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>'Cause weeping
+may endure for the night,
+But I will find the joy,
+Tomorrow, tomorrow</lines>
+    </verse>
+  </lyrics>
+</song>

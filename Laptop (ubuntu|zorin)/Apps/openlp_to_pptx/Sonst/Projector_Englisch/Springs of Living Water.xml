@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Springs of Living Water</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Drinking at the springs of living water,
+Happy now am I, my soul they satisfy;
+Drinking at the springs of living water,
+Oh wonderful and bountiful supply.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh sinner, won't you come today to Calvary?
+A fountain there is flowing deep and wide;
+The Saviour now invites you to the water free,
+Where thirsting spirits can be satisfied.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>How sweet the living water from the hills of God,
+It makes me glad and happy all the way;
+Now glory, grace and blessing mark the path I've trod,
+I'm shouting Hallelujah every day.</lines>
+    </verse>
+  </lyrics>
+</song>

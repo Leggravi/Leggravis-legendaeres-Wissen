@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Blessed Assurance</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessed assurance, all is well
+Things be seem so impossible
+But I know God cannot fail
+Just look back and see
+How many times you were at the end
+And God delivered you
+With His mighty hand
+Blessed assurance, all is well</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You have considered me
+When the world despised me
+You have purchased me
+When I thought I couldn’t be loved
+Lord I just want to say
+How much I love You
+I lift my hands to praise and
+thank You
+For I know all of Your promises
+You will fulfill</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You may be believing
+For your unsaved loved ones
+For total healing when the
+Doctor says nothing else can be done
+But my Redeemer’s the Physician
+His report says it’s a finished work
+So claim every inch of ground
+The devil stole from you
+All in God’s Name</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This is my story, this is my song
+Praising my Saviour
+All the day long
+This is my story, this is my song
+Praising my Saviour
+All the day long</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Blessed assurance all the day long
+Praising my Saviour all the day long
+Blessed assurance, all is well</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Fear Not, I Bring to You (There Were Shepherds in the Fields)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There were shepherds in the fields
+Watching by night,
+When an angel of the LORD
+Appeared with great light,
+They were so afraid
+Of what the moment would bring,
+But this messenger of God
+Had good news to sing,
+Good news to sing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fear Not, I bring to you glad tidings of joy,
+Behold in Bethlehem a sweet baby boy
+Sent down from Heaven,
+Hallelujah, He's LORD,
+Fear Not, I bring to you glad tidings of joy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Two thousand years have come and gone
+Since that dark night,
+But this troubled world of ours
+Could still use the light,
+Christians need to let them know,
+The Savior has come,
+Jesus Christ has conquered fear
+Let's tell everyone,
+Tell everyone!</lines>
+    </verse>
+  </lyrics>
+</song>

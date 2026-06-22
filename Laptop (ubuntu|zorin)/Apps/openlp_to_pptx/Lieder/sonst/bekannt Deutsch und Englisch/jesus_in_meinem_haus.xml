@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 15, 2019, 7:18:37 PM">
+  <properties>
+    <titles>
+      <title>Jesus in meinem Haus</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Danke, Vater, für das Leben, das du gibst,
+dass du deinen Sohn gabst und mich unbegreiflich liebst.
+Hast mich gerettet und mich neu gemacht.
+Danke Gott, für Jesus in mir.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Ich bin froh mit Jesus in meinem Haus.
+Gut zu wissen: jederzeit ist er hier.
+Mein Leben lang, Jesus in mir in meinem Haus,
+für allezeit und in Ewigkeit.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Danke, dass du meinem Leben Zukunft gibst.
+Ich darf neu beginnen, weil du meine Schuld vergibst.
+Ich gehe vorwärts, denn ich weiß bestimmt:
+Jesus ist bei mir jeden Tag.</lines>
+    </verse>
+  </lyrics>
+</song>

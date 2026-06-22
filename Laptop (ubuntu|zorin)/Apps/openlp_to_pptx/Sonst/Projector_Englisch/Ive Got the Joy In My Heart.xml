@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I've Got the Joy In My Heart</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've got the joy, joy, joy, joy down in my heart
+Where?
+Down in my heart!
+Where?
+Down in my heart!
+I've got the joy, joy, joy, joy down in my heart
+Down in my heart to stay</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I'm so happy
+So very happy
+I've got the love of Jesus in my heart
+Down in my heart
+And I'm so happy
+So very happy
+I've got the love of Jesus in my heart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I've got the peace, peace, peace, peace down in my heart
+Where?
+Down in my heart!
+Where?
+Down in my heart!
+I've got the peace, peace, peace, peace down in my heart
+Down in my heart to stay</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And I'm so happy
+So very happy
+I've got the love of Jesus in my heart
+Down in my heart
+And I'm so happy
+So very happy
+I've got the love of Jesus in my heart.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I've got the Jesus, Jesus, Jesus, Jesus down in my heart
+Where?
+Down in my heart!
+Where?
+Down in my heart!
+I've got theJesus, Jesus, Jesus, Jesus down in my heart
+Down in my heart to stay</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And I'm so happy
+So very happy
+I've got the love of Jesus in my heart
+Down in my heart
+And I'm so happy
+So very happy
+I've got the love of Jesus in my heart.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When God Is Silent</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When God is silent and we don't know
+The way before us that we ought to go
+When we've attempted to do his will
+And yet his silence continues still (yet still)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Then it's time to trust! Yes it's time to remember
+That the Lord is faithful to his own (to his own)
+If we hope we shall yet be praising once again
+For his silence never means that were alone</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When God is silent and all seems lost
+As der the waves our boat is tempest tossed
+When answers fail us and doubts arise,
+But God seems distant, hid from our eyes!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He is in the mountain praying that our faith will never fail,
+Though our souls be sifted trough
+O'er the wind and waves we soon shall see him coming to prevail
+We can trust Him for His promises are true. They are true!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>No, His silence never means that were alone
+He will never ever leave us alone!</lines>
+    </verse>
+  </lyrics>
+</song>

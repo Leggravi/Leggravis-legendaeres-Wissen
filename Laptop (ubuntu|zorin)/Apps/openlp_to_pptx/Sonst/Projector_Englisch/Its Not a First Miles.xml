@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It's Not a First Miles</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's not the first mile that you'll be judged by,
+For you may stumble along the way;
+But you'll grow stronger in faith and courage
+As Jesus walks with you from day to day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's not the first mile that's so important
+It's the last mile when day is done.
+Then you'll see Jesus in all His splendor,
+And He will have for you the crown you've won.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Upon this journey from earth to heaven
+You'll have to watch for the tempter's snare;
+Just keep on praying to your Redeemer,
+He will protect you with His loving care.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There may be times when you have a burden
+That grows too heavy along the road;
+If you will let Him, the blessed Savior
+Will be so glad to bear your heavy load.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It’s Harvest Time</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It’s harvest time and I can hear
+the combine coming,
+To gather in the grain
+and take it home;
+The tares will all be burned
+because God’s Word says so
+I’m so glad aren’t you glad too
+it’s harvest time.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now God sent us a prophet
+In this end-time age,
+To tell us of the coming
+of the Lord
+He said we must go back
+to our fathers faith,
+Or we’ll perish with the
+guilty if we fail</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now it seems there’s a lot of
+action all around us,
+And the people will say why do
+you stand so still,
+If they’d only know the Message
+of the hour,
+They’d know we're wheat
+that's ripening in the Master’s field.</lines>
+    </verse>
+  </lyrics>
+</song>

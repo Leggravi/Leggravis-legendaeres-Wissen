@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Am Only In This Message by Cgrace</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There are many others
+God could have chosen
+That are more learned than I
+Who know the every movement
+Of the stars in the sky
+But he looked deeper than the appearance
+And he saw me sitting there
+I'm only in this message by Grace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm only in this message by grace
+It is only by grace
+That I run in this race
+I don't know why my Lord God chose me
+But I'm thankful anyway
+I'm only in this message by grace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now don't worry if you don't have
+A Master's degree
+God sees your deep desire
+And he wants you to be
+By his precious side in glory
+Eternally
+It's not by works
+But by his wonderful grace</lines>
+    </verse>
+  </lyrics>
+</song>

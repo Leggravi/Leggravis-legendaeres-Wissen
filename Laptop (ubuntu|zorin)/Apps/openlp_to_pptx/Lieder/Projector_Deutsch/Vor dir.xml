@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Vor dir</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vor Dir, kommt mein Herz zur Ruhe,
+Vor Dir, atmet meine Seele auf,
+Vor Dir, fallen meine Masken ab,
+Vor Dir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vor Dir, werden meine Sorgen klein,
+Vor Dir, werden meine Wunden heil,
+Vor Dir, mach ich meine Fäuste auf,
+Vor Dir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In Deinem Licht will ich leben,
+Und Deinen Willen tun.
+Deinen Wegen folgen,
+Dir mein Leben anvertraun.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vor Dir, darf ich Deine Wahrheit sehn,
+Vor Dir, müssen alle Schatten fliehn,
+Vor Dir, stehe ich in Deinem Sieg,
+Vor Dir.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In Deinem Licht will ich leben,
+Und Deinen Willen tun.
+Deinen Wegen folgen,
+Dir mein Leben anvertraun.</lines>
+    </verse>
+  </lyrics>
+</song>

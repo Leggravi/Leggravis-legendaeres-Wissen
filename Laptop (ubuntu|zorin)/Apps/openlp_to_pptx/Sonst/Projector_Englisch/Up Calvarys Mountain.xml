@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Up Calvary’s Mountain</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Up calvary’s mountain
+one dreadful morn,
+Walked Christ my Saviour,
+weary and worn
+Facing for sinners,
+death on the cross
+That He might save them,
+from endless loss.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Blessed Redeemer,
+precious Redeemer
+Seems now I see Him on calvary’s tree
+Wounded and bleeding,
+for sinners pleading,
+Blind and unheeding, dying for me!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh how I love Him Saviour and friend
+How can my praises ever find end,
+Through years unnumbered,
+on heaven’s shore My tongue
+shall praise Him for ever more.</lines>
+    </verse>
+  </lyrics>
+</song>

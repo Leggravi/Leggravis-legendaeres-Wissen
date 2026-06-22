@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Faithful One</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Bowater</author>
+      <author type="music">Chris Bowater</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Faithful one, so unchanging
+Ageless one,
+You're my rock of peace
+Lord of all, I depend on You
+I call out to You, again and again
+I call out to You, again and again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are my rock in times of trouble
+You lift me up when I fall down
+All through the storm
+Your love is the anchor
+My hope is in You alone</lines>
+    </verse>
+  </lyrics>
+</song>

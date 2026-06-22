@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Beulah Land, I'm Longing for You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm kind of homesick for a country,
+to which I've never been before
+No sad goodbyes will there be spoken
+for time won't matter anymore</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beulah Land I'm longing for you,
+and someday on thee I'll stand
+There my home shall be eternal.
+In Beulah Land, Sweet Beulah land.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm looking now across that river,
+to where my faiths'gonna end in sight
+There's just a few more days to labour,
+then I will take my heavenly flight.</lines>
+    </verse>
+  </lyrics>
+</song>

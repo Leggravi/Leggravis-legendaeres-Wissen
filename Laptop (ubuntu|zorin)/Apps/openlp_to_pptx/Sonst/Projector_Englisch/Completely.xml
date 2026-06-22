@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Completely</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The secret of life is letting go
+The secret of love is letting it show
+In all that I do
+In all that I say
+Right here in this moment</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The power of prayer is in a humble cry
+The power of change is in giving my life
+I’m laying it down, down at Your feet
+Right here in this moment</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Take my heart, take my soul
+I surrender everything to your control
+And let all this is within me lift up
+ to You and say
+I am yours and yours alone
+Completely</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The journey of life is a search for truth
+This journey of faith is following you
+Every step of the way
+Through the joy and the pain
+Right here in this moment</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Take my heart
+Take my soul
+I surrender everything to your control
+And let all that is within me lift up to you and say
+I am yours and yours alone
+Completely</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Right here, right now, and for the rest of my life
+Hear me say</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I am yours and yours alone
+Completely</lines>
+    </verse>
+  </lyrics>
+</song>

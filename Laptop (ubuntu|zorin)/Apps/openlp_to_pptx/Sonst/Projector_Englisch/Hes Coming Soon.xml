@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He's Coming Soon</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In these, the closing days of time,
+What joy the glorious hope affords,
+That soon oh, wondrous truth
+sublime!
+He shall reign, King of kings
+and Lord of lords.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He's coming soon,
+He's coming soon;
+With joy we welcome His returning;
+It may be morn,
+It may be night or noon,
+We know He's coming soon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The signs around, in earth and air,
+Or painted on the starlit sky,
+God's faithful witnesses declare
+That the coming of the Savior
+draweth nigh.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The dead in Christ who'neath us lie.
+In countless numbers, all shall rise
+When through the portals of the sky
+He shall come to prepare our Paradise.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And we who, living, yet remain,
+Caught up, shall meet our faithful Lord;
+This hope we cherish not in vain,
+But we comfort one another by this word.</lines>
+    </verse>
+  </lyrics>
+</song>

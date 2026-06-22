@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>One Heartbeat at a Time</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You're up all night with a screaming baby
+You run all day at the speed of life
+And every day you feel a little bit less
+Like the beautiful woman you are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So you fall into bed when you run out of hours
+And you wonder if anything worth doing got done
+Oh, maybe you just don't know
+Or maybe you've forgotten</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You, you are changing the world
+One little heartbeat at a time
+Making history with every touch and every smile
+Oh, you, you may not see it now
+But I believe that time will tell
+How you, you are changing the world
+One little heartbeat at a time
+With every &quot;I know you can do it&quot;
+Every tear that you kiss away
+So many little things that seem to go unnoticed
+They're just like the drops of rain over time
+They become a river</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And you, you are changing the world
+One little heartbeat at a time
+Making history with every touch and every smile
+Oh, you, you may not see it now
+But I believe that time will tell
+How you, you are changing the world
+One little heartbeat at a time</lines>
+    </verse>
+  </lyrics>
+</song>

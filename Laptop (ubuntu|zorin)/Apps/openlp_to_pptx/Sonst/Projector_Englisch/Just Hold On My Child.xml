@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Just Hold On My Child</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>They sent for Jesus, your friend's about to die
+But tarried He still on behind
+So they laid Lazarus in the tomb
+And they said their last good-byes
+Then coming down the road was Jesus
+Right on time.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Just hold on my child
+Because He's not too far away
+And He knows your needs before you pray
+So when your feet are weary
+From those mountains you have climbed
+Look ahead, here comes Jesus
+Right on time</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I've struggled through life's deserts
+They were so hot and dry
+Till it seemed all hope was gone
+And I would die
+And I wondered where was He
+Is He still a friend of mine
+Then coming down the road was Jesus
+Right on time</lines>
+    </verse>
+  </lyrics>
+</song>

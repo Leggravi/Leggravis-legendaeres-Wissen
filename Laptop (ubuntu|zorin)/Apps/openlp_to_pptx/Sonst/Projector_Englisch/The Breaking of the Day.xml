@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Breaking of the Day</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>'Tis almost time for the Lord to come,
+I hear the people say;
+The stars of heav'n are growing dim:
+It must be the breaking of the day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, it must be the breaking of the day,
+O, it must be the breaking of the day;
+The night is almost gone,
+The day is coming on:
+O, it must be the breaking of the day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The signs foretold in the sun and moon,
+In earth and sea and sky,
+Aloud proclaim to mortal men,
+That the coming of the Master
+  draweth nigh.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It must be time for the waiting church
+To cast her pride away,
+With girded loins and burning lamps
+To look for the breaking of the day.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There must be those in the field of sin,
+Far from the fold astray,
+Who once were happy in Jesus' love,
+And looking for the breaking of the day.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Go quickly out in the streets and lanes,
+And in the broad highway,
+And call the maimed, the halt and blind,
+To be ready for the breaking of the day.</lines>
+    </verse>
+  </lyrics>
+</song>

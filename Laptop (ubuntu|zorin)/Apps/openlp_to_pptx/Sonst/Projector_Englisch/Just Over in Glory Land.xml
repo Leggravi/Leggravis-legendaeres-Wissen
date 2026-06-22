@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Just Over in Glory Land</title>
+    </titles>
+    <authors>
+      <author type="words">James W. Acuff</author>
+      <author type="music">Emmet Sidney Dean</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’ve a home prepared where
+the saints abide,
+Just over in the glory land;
+And I long to be by my Saviour’s
+side,
+Just over in glory land.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Just over in the glory land,
+I’ll join the happy angel band,
+Just over in the glory land;
+Just over in the glory land,
+There with the mighty host I’ll
+stand,
+Just over in the glory land.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I am on my way to those
+mansions fair,
+Just over in the glory land;
+There to sing God’s praise
+and His glory share,
+Just over in the glory land.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>What a joyful thought that my
+Lord I'll see,
+Just over in the glory land;
+And with kindred saved, there
+forever be,
+Just over in the glory land.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>With the blood-washed throng
+I will shout and sing,
+Just over in the glory land;
+Glad hosannas to Christ,
+The Lord and King,
+Just over in the glory land.</lines>
+    </verse>
+  </lyrics>
+</song>

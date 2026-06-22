@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Holy Is The Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Kelly Green</author>
+      <author type="music">Kelly Green</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy is the Lord
+And mighty is His name.
+King of Heaven
+Yet down to earth He came.
+Angels sing His praise
+All earth shall do the same.
+Holy is the Lord
+And mighty is His name.</lines>
+    </verse>
+  </lyrics>
+</song>

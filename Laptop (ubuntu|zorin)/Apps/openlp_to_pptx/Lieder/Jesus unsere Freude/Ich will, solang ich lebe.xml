@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:16">
+  <properties>
+    <titles>
+      <title>Ich will, solang ich lebe</title>
+    </titles>
+    <authors>
+      <author type="words">Cornelius Becker (1602)</author>
+      <author type="words">Günter Balders (2002)</author>
+      <author type="music">Heinrich Schütz</author>
+    </authors>
+    <ccliNo>4829038</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich will, so lang ich lebe, rühmen den Herren mein,
+im Herzen stets mir schwebe das Lob der Ehren sein;
+mein Mund soll allezeit des Herren Ruhm verkünden,
+dass Elende empfinden in Trübsal, Trost und Freud,
+in Trübsal, Trost und Freud.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lasst uns beisammen stehen, ihr lieben Christenleut,
+des Herren Nam erhöhen in Lieb und Einigkeit.
+Ich rief in meiner Not; als in Gefahr mein Leben,
+den Feinden übergeben, half mir der treue Gott,
+half mir der treue Gott.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All, die im Glauben stehen, sieht Gott in Gnaden an,
+lässt sie mit ihrem Flehen zu seinem Herzen nahn.
+Sein Antlitz ist gericht', zu tilgen von der Erden
+all, die erfunden werden, dass sie ihn fürchten nicht,
+dass sie ihn fürchten nicht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Viel muss der G'rechte leiden, das ist des Herren Will;
+doch wird's verkehrt in Freuden mit Gnad, drum halt nur still!
+Gott fasst in seine Huld all seine treuen Knechte,
+die halten seine Rechte, löst sie von aller Schuld,
+löst sie von aller Schuld.</lines>
+    </verse>
+  </lyrics>
+</song>

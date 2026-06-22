@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Je und je geliebt</title>
+    </titles>
+    <authors>
+      <author type="words">Helga Poppe</author>
+      <author type="music">Helga Poppe</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deine Tränen brechen mir mein Herz
+Deine Schuld war und ist mein Schmerz
+Doch mein Erbarmen ist da, mein liebes Kind
+Siehst du nicht, wie alle Wege meine Wege sind</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Weinend kamst du, doch lachend wirst du gehn
+Ein Herz voll Freude und Glück will ich dir geben
+Ich will dich leiten und ebne Wege dir
+Siehst du nicht, ich geb mein Wort, ich wache über dir</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich habe dich je und je geliebt
+Ich, der dich immer wieder zu sich zieht
+Meine Güte wird immer mit dir sein
+Ich bin dein Gott, ich bring dich heim
+Ich bin dein Gott, ich bring dich heim</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du darfst singend in deine Zukunft gehn
+Und die Welt mit neuen Augen sehn
+Ich geb dir Frieden, Trost und Neubeginn
+Siehst du nicht, dein Leben führt nun immer zu mir hin</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ich habe dich je und je geliebt
+Ich, der dich immer wieder zu sich zieht
+Meine Güte wird immer mit dir sein
+Ich bin dein Gott, ich bring dich heim
+Ich bin dein Gott, ich bring dich heim</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Stell dir Wegweiser auf
+Damit du dich nicht mehr verläufst
+Setz dir Steinmale und richte deinen Sinn
+Auf die Straße, an deren Wegrand Blumen blühen
+Es gibt Glück nach allem Leiden
+Ich verwandle deine Trauer in Freude</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ich habe dich je und je geliebt
+Ich, der dich immer wieder zu sich zieht
+Meine Güte wird immer mit dir sein
+Ich bin dein Gott, ich bring dich Heim
+Ich bin dein Gott, ich bring dich Heim</lines>
+    </verse>
+  </lyrics>
+</song>

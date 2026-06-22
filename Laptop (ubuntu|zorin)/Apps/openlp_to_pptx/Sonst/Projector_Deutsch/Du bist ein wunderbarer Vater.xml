@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist ein wunderbarer Vater</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist ein wunderbarer Vater.
+Du bist ein wunderbarer Gott.
+Du bist ein wunderbarer Heiland und mein Erlöser in der Not.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist ein wunderbarer Hirte.
+Du leitest mich an Deiner Hand.
+Bei Dir allein bin ich ganz sicher,
+geborgen bis in Ewigkeit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Meine Seele erhebet den Herrn.
+Und mein Geist freut sich in Dir, mein Gott.
+Du hast großes an mir getan.
+Der du mächtig und heilig bist.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Darum will ich vor Dir tanzen,
+darum will ich mich freu'n!
+Darum jauchze ich zu Dir, mein Gott!
+Und ich gebe Dir mein Leben,
+meinem großen König hin,
+diene Dir mit Freuden.</lines>
+    </verse>
+  </lyrics>
+</song>

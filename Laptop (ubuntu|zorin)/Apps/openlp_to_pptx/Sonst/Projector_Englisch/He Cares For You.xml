@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Cares For You</title>
+    </titles>
+    <authors>
+      <author type="words">Mark Beswick</author>
+      <author type="music">Mark Beswick</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Someone to care,
+Someone to share
+All your troubles
+like no other can do;
+He'll come down from the sky
+Brush the tears from your eyes;
+You're His child and He cares for you.</lines>
+    </verse>
+  </lyrics>
+</song>

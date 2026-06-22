@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Still Love Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Feeling unworthy of your grace
+Feeling unworthy of the price you paid for me
+Even when I fall your love paid it all
+I don't deserve you, I don't deserve you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know I get weak
+But in you I am strong
+Your love paid it all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know you still love me, you still love me
+You still love me even when I fall
+You still love me, I know you still love me
+You still love me even when I fall</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Feeling unworthy of your grace
+Feeling unworthy of the price you paid for me
+Even when I fall your love paid it all
+I don't deserve you, I don't deserve it</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, I know I get weak
+But in you I am strong
+And your love paid it all</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I'm not perfect, I don't deserve it
+You didn't change your mind, left my past behind, oh
+See I'm not perfect but still you call me worthy
+You didn't change your mind, left my past behind, Lord
+See I'm not perfect and no, I don't deserve it
+You didn't change your mind, left my past behind, oh
+See I'm not perfect but Lord, you still you call me worthy
+You didn't change your mind, left my past behind</lines>
+    </verse>
+    <verse name="v7">
+      <lines>You still love me, I know you still love me
+You still love me even when I fall
+You still love me, I know you still love me
+You still love me even when I fall
+You still love me, oh, I know I'm not perfect</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ooo, I know I don't deserve it
+But you call me, but you call me
+You call me worthy
+I make mistakes everyday, I make mistakes everyday
+But you're right there and you love me
+And you love me, and you love me
+Through it all, through it all
+Oh, you love me Jesus
+Thank you for loving me Jesus
+I don't deserve
+You still love me</lines>
+    </verse>
+  </lyrics>
+</song>

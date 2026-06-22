@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:44">
+  <properties>
+    <titles>
+      <title>Wir danken dir, Herr Jesu Christ, dass du für uns gestorben bist</title>
+    </titles>
+    <authors>
+      <author type="words">Christoph Fischer (1568)</author>
+      <author type="music">Nikolaus Herman</author>
+    </authors>
+    <ccliNo>5209475</ccliNo>
+    <themes>
+      <theme>Dank</theme>
+      <theme>Passion</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir danken dir, Herr Jesu Christ,
+dass du für uns gestorben bist
+und hast uns durch dein teures Blut
+gemacht vor Gott gerecht und gut</lines>
+    </verse>
+    <verse name="v2">
+      <lines>und bitten dich, wahr Mensch und Gott:
+Durch deine Wunden, Schmach und Spott
+erlös uns von dem ewgen Tod
+und tröst uns in der letzten Not.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Behüt uns auch vor Sünd und Schand
+und reich uns dein allmächtig Hand,
+dass wir im Kreuz geduldig sein,
+uns trösten deiner schweren Pein</lines>
+    </verse>
+    <verse name="v4">
+      <lines>und schöpfen draus die Zuversicht,
+dass du uns wirst verlassen nicht,
+sondern ganz treulich bei uns stehn,
+dass wir durchs Kreuz ins Leben gehn.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="May 3, 2020, 11:52:47 AM">
+  <properties>
+    <titles>
+      <title>Der Einzige</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Heilig bist Du, Herr
+Du bist heilig, Herr
+Du sitzt auf dem Thron
+Zu Deinen Füßen fühl ich mich wohl
+Kniend vor Deinem Thron</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Staunend singe ich zu Dir:
+Du bist heilig
+Deine Herrlichkeit strahlt so schön
+Mein Blick hebt sich zu Dir und sieht:
+Du bist heilig
+Deine Schönheit wird nie vergehen</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Würdig bist Du, Herr
+Du bist würdig, Herr
+Du sitzt auf dem Thron
+Für alle Zeiten bleibst Du mein Gott
+Herrschend auf Deinem Thron</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Du bist der Einzige,
+Dem dieses Lob gehört,
+Heilig bist Du</lines>
+    </verse>
+  </lyrics>
+</song>

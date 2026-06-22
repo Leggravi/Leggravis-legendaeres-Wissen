@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Desperate for More</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will never be,
+Never be Satisfied
+So here I am,
+Fill me up with your Presence
+I will never be,
+Never be Satisfied
+So here I am,
+Fill me up with your Presence</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’m Desperate for more,
+Desperate for more
+Desperate for more
+And more and more
+Of you Lord [x4]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fill my Cup Lord
+I Lift it up Lord
+Come and Quench
+The Thirsting of my Soul
+Bread of Heaven
+Fill me till I overflow
+Fill my Cup, Fill it up
+And make me whole</lines>
+    </verse>
+  </lyrics>
+</song>

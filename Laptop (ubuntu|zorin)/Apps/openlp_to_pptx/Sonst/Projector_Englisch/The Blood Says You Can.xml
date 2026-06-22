@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Blood Says You Can</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You may have wandered
+From the path you were on
+Found yourself lonely and lost
+A long way from home
+The guilt deep inside says
+That you've gone too far this time
+That you can't be forgiven
+And there's no need to try – but?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The blood says you can
+Put the past all behind
+Your sin will be covered
+And your pardon signed
+Satan tells you it's hopeless
+And that you can't go back home again
+But the Father is waiting with arms open wide
+The blood says you can</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We've all made our choices
+That became our mistakes
+And stood in the ashes, the bridges we've burned
+The pain and heartaches
+But the blood of Jesus
+Does what nothing else can do
+There's a place called forgiveness
+And there's room there for you – cause?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When you're reminded of mistakes that you've made
+Just remember the price has been paid – and?</lines>
+    </verse>
+  </lyrics>
+</song>

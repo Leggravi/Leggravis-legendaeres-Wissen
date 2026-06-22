@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Glory To The Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Micha Keding</author>
+      <author type="music">Micha Keding</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who holds the heavens
+ in His hands?
+Who made the stars
+By the word of His power,
+Who put the spirit in man,
+And causes all the earth
+ to cry out glory?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glory to the Lord,
+Worship Him,
+The God of our salvation.
+Glory to the Lord,
+Honor Him,
+He reigns, He rules the nations
+He is righteous and worthy
+To be worshipped and adored.
+Lift your voices and give
+Glory to the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who holds the righteous
+ by the hand?
+Who is the way in this
+ marvelous hour?
+Who stirs the heart of man,
+And causes all the saints
+ to cry out glory?</lines>
+    </verse>
+  </lyrics>
+</song>

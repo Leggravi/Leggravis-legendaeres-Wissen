@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Mar 18, 2020, 6:27:38 PM">
+  <properties>
+    <titles>
+      <title>Seligstes Wissen, Jesus ist mein</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Seligstes Wissen, Jesus ist mein!
+Köstlichen Frieden bringt es mir ein.
+Leben von oben, ewiges Heil,
+völlige Sühnung ward mir zuteil.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Lasst mich's erzählen, Jesus zur Ehr;
+wo ist ein Heiland, größer als er?
+Wer kann so segnen, wer so erfreun?
+Keiner als Jesus! Preis ihm allein!</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Ihm will ich leben, o welche Freud!
+Herrliche Gaben Jesus mir beut:
+Göttliche Leitung, Schutz in Gefahr,
+Sieg über Sünde reicht er mir dar.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Völlig sein eigen! Nichts such ich mehr;
+Jesus, er stillet all mein Begehr.
+Treu will ich dienen ihm immerdar,
+bis ich gelang zur oberen Schar.</lines>
+    </verse>
+  </lyrics>
+</song>

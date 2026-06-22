@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>How I Praise Thee, Precious Savior</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How I praise Thee, precious Savior,
+That Thy love laid hold of me;
+Thou hast saved and cleansed and filled me,
+That I might Thy channel be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Channels only, blessed Master,
+But with all Thy wondrous grace,
+Flowing through us, Thou canst use us
+Every hour in every place.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Just a channel, full of blessing,
+To the thirsty hearts around;
+To tell out Thy full salvation,
+All Thy loving message sound.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Emptied that Thou shouldest fill me,
+A clean vessel in Thine hand;
+With no strength but as Thou givest
+Graciously with each command.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Witnessing Thy grace to save me,
+Setting free from self and sin;
+Thou hast bought me to possess me,
+In Thy fulness, Lord, come in.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O Lord, fill now with Thy Spirit
+Hearts that full surrender know;
+That the streams of living water
+From our inner man may flow.</lines>
+    </verse>
+  </lyrics>
+</song>

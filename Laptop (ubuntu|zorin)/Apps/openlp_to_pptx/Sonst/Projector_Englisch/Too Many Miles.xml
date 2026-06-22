@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Too Many Miles</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Too many miles behind me
+Too many trials are past
+Too many tears help me to
+remember
+That there’s too much to gain to lose.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Too many sunsets lie behind
+the mountain
+Too many rivers my feet have
+walked through
+Too many treasures are waiting
+over yonder,
+(But) There’s too much to gain
+to lose.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I crossed the hot burning desert,
+Struggling the right roads to choose
+Somewhere up ahead
+there are cool clear waters
+And defeat is one word I'll never use</lines>
+    </verse>
+  </lyrics>
+</song>

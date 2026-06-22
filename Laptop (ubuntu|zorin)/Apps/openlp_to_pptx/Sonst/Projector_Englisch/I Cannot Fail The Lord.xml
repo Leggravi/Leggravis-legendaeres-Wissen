@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Cannot Fail The Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord of my life,
+He has never failed;
+On my own I could never succeed.
+This One I've come to know,
+There's so much I owe;
+And I cannot fail the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I cannot fail the Lord.
+I cannot fail the Lord.
+He has never failed me yet,
+Every promise He has kept;
+And I cannot fail the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And things, when they are done,
+In His Name are won;
+In the past, I didn't trust God,
+I trusted in myself;
+Now I know I have His help,
+And I cannot fail the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

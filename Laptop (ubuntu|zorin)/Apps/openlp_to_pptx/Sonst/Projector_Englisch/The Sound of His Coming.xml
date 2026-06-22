@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Sound of His Coming</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can hear the sound of His coming everywhere
+In the headlines resounding by the score
+It may be another earthquake or just another war
+But to every child of God it's something more
+And when I hear the sound of marching
+Hear the song of battle cry
+Then I know my Lord is coming
+Even now it may be nigh</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I can hear the sound of His coming everywhere
+They're getting louder and louder each day
+And they'll crescendo until that great and final sound
+When the trumpet shall call me away</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I can hear the sound of fig leaves
+Rustling in the summer breeze
+As I see the Lord restore Jerusalem
+And I can hear a sound from Heaven
+As a rushing mighty wind
+As God pours His spirit out upon all men
+And when I hear revival sound
+Not just here but everywhere
+Then I know it's almost over
+I can feel it in the air</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And they'll crescendo until that great and final sound
+When the trumpet shall call me away</lines>
+    </verse>
+  </lyrics>
+</song>

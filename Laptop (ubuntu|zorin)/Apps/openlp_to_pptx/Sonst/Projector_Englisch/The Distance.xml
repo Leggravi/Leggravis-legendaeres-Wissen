@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Distance</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A million miles between earth and God's blue heaven
+Sometimes we think that God is that far
+We think the stormy clouds hides the rising sun
+God is not far, it's just a prayer away</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The distance between the problem is the solution
+It's the distance between the knees and the floor
+The shortcut the reach God in his throne of mercy
+To walk up with him, bended our knees
+The distance between the problem is the solution
+It's the distance between the knees and the floor</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We think go wrong it's no seem nobody cares
+Sometimes we think, God is ignoring us
+The answer to prayer seems to be outreach
+He never fail if you call on his name</lines>
+    </verse>
+  </lyrics>
+</song>

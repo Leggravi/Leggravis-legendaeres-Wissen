@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du sollst ein Segen sein</title>
+    </titles>
+    <authors>
+      <author type="words">Fabian Vogt</author>
+      <author type="music">Fabian Vogt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du sollst ein Segen sein,
+Gottes heller Widerschein.
+Zeig der Welt, was Liebe ist,
+weil du gesegnet bist.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du sollst ein, Du sollst ein Segen sein,
+Du sollst ein, Du sollst ein Segen sein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du sollst ein Segen sein,
+Schwachen neue Kraft verleihn.
+Zeig der Welt, was Hoffnung ist,
+weil du gesegnet bist.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du sollst ein, Du sollst ein Segen sein,
+Du sollst ein, Du sollst ein Segen sein.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Du sollst ein Segen sein,
+Menschen von der Angst befrein.
+Zeig der Welt, was Glauben ist,
+weil du gesegnet bist.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Du sollst ein, Du sollst ein Segen sein,
+Du sollst ein, Du sollst ein Segen sein.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Du sollst ein Segen sein,
+Wunden heilen, Schuld verzein.
+Zeig der Welt, was Gnade ist,
+weil du gesegnet bist.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Du sollst ein, Du sollst ein Segen sein,
+Du sollst ein, Du sollst ein Segen sein.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Du sollst ein Segen sein, 
+wo die Menschen sich entzwein.
+Zeig der Welt, was Frieden ist, 
+weil du gesegnet bist.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Du sollst ein, Du sollst ein Segen sein,
+Du sollst ein, Du sollst ein Segen sein.</lines>
+    </verse>
+  </lyrics>
+</song>

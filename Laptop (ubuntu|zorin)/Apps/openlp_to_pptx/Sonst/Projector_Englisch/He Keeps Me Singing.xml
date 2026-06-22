@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Keeps Me Singing</title>
+    </titles>
+    <authors>
+      <author type="words">Luther Burgess Bridgers</author>
+      <author type="music">Luther Burgess Bridgers</author>
+      <author type="translation">Ich bin nicht mehr einsam</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's within my heart a melody
+Jesus whispers sweet and low,
+Fear not, I am with thee, peace, be still
+In all of life's ebb and flow</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, Jesus, Jesus!
+Sweetest Name I know,
+Fills my every longing,
+Keeps me singing as I go</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Feasting on the riches of His grace,
+Resting'neath His shelt'ring arm,
+Always looking on His smiling face,
+That is why I shout and sing</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Soon He's coming back to welcome me,
+Far beyond the starry sky
+I shall wing my flight to worlds unknown,
+I shall reign with Him on high</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus, Jesus, Jesus!
+Sweetest Name I know,
+Fills my every longing,
+Keeps me singing as I go
+Keeps me singing as I go
+Keeps me singing as I go</lines>
+    </verse>
+  </lyrics>
+</song>

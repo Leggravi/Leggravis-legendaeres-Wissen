@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Great Is the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Sayburn</author>
+      <author type="music">Chris Sayburn</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a Name I love to hear, it falls like music on my ear,
+It’s the Name of Jesus Christ the Lord;
+He came from the Father in Heaven above,
+He died on the cross just to show us His love;
+Jesus, yes, Jesus is His Name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Great is the Lord! Great is the Lord!
+Great is the Father, great is the Son,
+Great is the Holy Ghost, and these three are One;
+Jesus, yes, Jesus is His Name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He is the dear Saviour of men,
+He gave His own life just to free us from sin,
+It’s the Name of Jesus Christ the Lord;
+The wonderful Counselor, the Man from Galilee,
+He calmed the angry waters and He walked on the sea;
+Jesus, yes, Jesus is His Name.</lines>
+    </verse>
+  </lyrics>
+</song>

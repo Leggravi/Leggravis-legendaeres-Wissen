@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:02">
+  <properties>
+    <titles>
+      <title>Hilf, Herr Jesu, lass gelingen</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Rist (1642)</author>
+      <author type="music">Joachim Neander</author>
+    </authors>
+    <ccliNo>5221130</ccliNo>
+    <themes>
+      <theme>Sterben</theme>
+      <theme>Silvester</theme>
+      <theme>Neujahr</theme>
+      <theme>Jahreswechsel</theme>
+      <theme>Jahreswende</theme>
+      <theme>Jahresende</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hilf, Herr Jesus, lass gelingen,
+hilf, das neue Jahr geht an;
+lass es neue Kräfte bringen,
+dass aufs Neu ich wandeln kann.
+Neues Glück und neues Leben
+wollest du aus Gnaden geben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Was ich sinne, was ich mache,
+das gescheh in dir allein;
+wenn ich schlafe, wenn ich wache,
+wollest du, Herr, bei mir sein;
+geh ich aus, wollst du mich leiten;
+komm ich heim, steh mir zur Seiten.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lass dies sein ein Jahr der Gnaden,
+lass mich büßen meine Sünd',
+hilf, dass sie mir nimmer schaden,
+und ich bald Verzeihung find,
+Herr, in dir; denn du, mein Leben,
+kannst die Sünd' allein vergeben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herr, du wollest Gnade geben,
+dass dies Jahr mir heilig sei
+und ich christlich könne leben
+ohne Trug und Heuchelei,
+dass ich noch allhier auf Erden
+fromm und selig möge werden.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus richte mein Beginnen,
+Jesus bleibe stets bei mir,
+Jesus zäume mir die Sinnen,
+Jesus sei nur mein Begier,
+Jesus sei mir in Gedanken,
+Jesus lasse nie mich wanken!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesu, lass mich fröhlich enden
+dieses angefangne Jahr.
+Trage stets mich auf den Händen,
+stehe bei mir in Gefahr.
+Freudig will ich dich umfassen,
+wenn ich soll die Welt verlassen.</lines>
+    </verse>
+  </lyrics>
+</song>

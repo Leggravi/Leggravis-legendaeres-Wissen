@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God Will Make a Way</title>
+    </titles>
+    <authors>
+      <author type="words">Don Moen</author>
+      <author type="music">Don Moen</author>
+      <author type="translation">Gott zeigt mir den Weg</author>
+    </authors>
+    <verseOrder>v1 v2 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God will make a way
+When there seems to be no way
+He works in ways we cannot see
+He will make a way for me
+He will be my guide
+Hold me closely to His side
+With love and strength for each new day
+He will make a way
+He will make a way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>By a road in the wilderness
+He leads me
+Rivers in the desert will I see
+Heaven and earth will fade
+But His word will still remain
+He will do something new today.</lines>
+    </verse>
+  </lyrics>
+</song>

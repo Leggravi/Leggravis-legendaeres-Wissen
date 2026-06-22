@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Great is Your mercy</title>
+    </titles>
+    <authors>
+      <author type="words">Don Moen</author>
+      <author type="music">Don Moen</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thank You for Your mercy
+Thank You for Your grace
+Thank You for Your Blood
+That's made a way
+To come into Your presence
+And glorify Your Name
+Lord, I stand amazed at what I see</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Great is Your mercy toward me
+Your loving kindness toward me
+Your tender mercies I see
+Day after day
+Forever faithful to me
+Always providing for me
+Great is Your mercy toward me
+Great is Your grace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your promises are ageless
+Your Love will never end
+To a thousand generations
+Your covenant will stand
+Showing grace and mercy
+To those who fear Your name
+Establishing Your righteousness and praise</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Great is Your mercy toward me
+Great is Your grace
+Great is Your mercy toward me
+Great is Your grace</lines>
+    </verse>
+  </lyrics>
+</song>

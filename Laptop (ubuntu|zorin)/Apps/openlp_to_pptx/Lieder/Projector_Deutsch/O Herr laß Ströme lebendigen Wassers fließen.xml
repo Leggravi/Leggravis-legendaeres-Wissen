@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Herr, laß Ströme lebendigen Wassers fließen</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Frey</author>
+      <author type="music">Albert Frey</author>
+      <author type="translation">Living Water</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Herr, laß Ströme lebendigen Wassers fließen von mir.
+O Herr, laß Ströme lebendigen Wassers fließen von mir.
+O Herr, laß Ströme lebendigen Wassers fließen von mir.
+Schenk mir Glaube, wie die Schrift es sagt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Es werden Ströme lebendigen Wassers fließen von Dir!
+Es werden Ströme lebendigen Wassers fließen von Dir!
+Es werden Ströme lebendigen Wassers fließen von Dir!
+Wenn du glaubst, wie die Schrift es sagt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Durch Glauben weichen Dämonen und Kranke werden geheilt,
+durch Glauben weichen Dämonen und Kranke werden geheilt,
+durch Glauben weichen Dämonen und Kranke werden geheilt,
+wenn du glaubst, wie die Schrift es sagt!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dein Glaube hat dir geholfen, will Jesus sagen zu Dir,
+dein Glaube hat dir geholfen, will Jesus sagen zu Dir,
+dein Glaube hat dir geholfen, will Jesus sagen zu Dir,
+wenn du glaubst, wie die Schrift es sagt!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nichts ist unmöglich bei Gott, alles vermag er zu tun,
+nichts ist unmöglich bei Gott, alles vermag er zu tun,
+nichts ist unmöglich bei Gott, alles vermag er zu tun,
+wenn du glaubst, wie die Schrift es sagt!</lines>
+    </verse>
+  </lyrics>
+</song>

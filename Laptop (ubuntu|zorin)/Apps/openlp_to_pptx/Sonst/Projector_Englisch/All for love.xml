@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All for love</title>
+    </titles>
+    <authors>
+      <author type="words">Mia Fieldes</author>
+      <author type="music">Mia Fieldes</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All for love the Father gave
+For only love could make a way
+All for love the heavens cried
+For love was crucified</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh how many times, have I broken Your heart
+But still You forgive if only I ask
+And how many times, have You heard me pray
+Draw near to me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Everything I need is You
+My beginning, my forever
+Everything I need is You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let me sing all for love
+I will join the angels song
+Ever holy is the Lord
+King of Glory, King of all</lines>
+    </verse>
+    <verse name="v5">
+      <lines>All for a love a Saviour prayed
+Abba Father have Your way
+Though they know not what they do
+Let the Cross draw man to You</lines>
+    </verse>
+  </lyrics>
+</song>

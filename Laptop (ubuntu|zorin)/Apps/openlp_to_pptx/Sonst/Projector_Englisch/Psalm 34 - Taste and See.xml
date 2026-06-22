@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Psalm 34 - Taste and See</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I sought the Lord
+and He answered me
+and delivered me
+from every fear</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Those who look on Him
+are radiant
+They'll never be ashamed
+They'll never be ashamed</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This poor man cried
+and the Lord heard me
+and saved me from
+my enemies</lines>
+    </verse>
+    <verse name="v4">
+      <lines>the Son of God
+surrounds His saints
+He will deliver them
+He will deliver them</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Magnify the Lord in me
+come exalt His name together
+Glorify the Lord with me
+come exalt His name forever</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Taste and see
+that the Lord is good
+Oh bless us here
+who hides in Him</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Oh fear the Lord
+Oh all you saints
+He'll give you everything
+He'll give you everything</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Magnify the Lord with me
+Come exalt His name together
+Glorify the Lord with me
+Come exalt His name forever</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Let us bless the Lord
+every day and night
+neverending praise
+may our incense rise</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Like a fire, the Lord in me
+Come exalt His name together
+Glorify the Lord with me
+Come exalt His name forever</lines>
+    </verse>
+  </lyrics>
+</song>

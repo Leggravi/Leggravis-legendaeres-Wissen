@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Offering</title>
+    </titles>
+    <authors>
+      <author type="words">Dwight Liles</author>
+      <author type="music">Dwight Liles</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The sun cannot compare to the glory of Your love
+There is no shadow in Your presence
+No mortal man would dare to stand before Your throne
+Before the Holy One of heaven</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's only by Your blood
+And it's only through Your mercy
+Lord, I come</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I bring an offering
+Of worship to my King
+No one on earth deserves
+The praises that I sing</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, may You receive
+The honor that You're due
+O Lord, I bring an offering to You
+I bring an offering to You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>To You, my King, I bring an offering to You, Lord
+Oh my King, Jesus, my King
+I bring an offering to You, to You, my King
+Oh, it's the least that I can do
+Sacrifice of praise, offering, thanks and gratitude
+To You, my King, to You</lines>
+    </verse>
+  </lyrics>
+</song>

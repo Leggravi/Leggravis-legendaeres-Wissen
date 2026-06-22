@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Holy Spirit – V2</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v2 v2 v3 v3 v3 v2 v2 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is nothing worth more
+That will ever come close
+No thing can compare
+You're our living hope
+Your presence Lord
+I've tasted and seen
+Of the sweetest of love
+When my heart becomes free
+And my shame is undone
+Your presence Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy spirit, You are welcome here
+Come flood this place and fill the atmosphere
+Your glory, God, is what our hearts long for
+To be overcome by Your presence, Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let us become more aware of Your presence
+Let us experience the glory of Your goodness</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Holy Spirit Come rest on us
+You're all we want</lines>
+    </verse>
+  </lyrics>
+</song>

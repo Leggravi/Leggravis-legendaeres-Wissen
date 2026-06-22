@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Apr 19, 2021, 1:40:39 PM">
+  <properties>
+    <titles>
+      <title>Create in Me a Clean Heart</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Create in me a clean heart, oh God,
+And renew a right spirit within me;
+Create in me a clean heart, oh God,
+And renew a right spirit within me.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Cast me not away from Thy presence, Oh Lord,
+And take not Thy Holy Spirit from me;
+Restore unto me the joy of Thy salvation,
+And renew a right spirit within me.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Create in me a clean heart, oh God
+That I might serve you,
+Create in me a clean heart, oh God
+That I might be in You</lines>
+    </verse>
+    <verse name="V4">
+      <lines>So fill me, and heal me
+and bring me back to You
+create in me a clean heart, oh God
+that I might serve You</lines>
+    </verse>
+  </lyrics>
+</song>

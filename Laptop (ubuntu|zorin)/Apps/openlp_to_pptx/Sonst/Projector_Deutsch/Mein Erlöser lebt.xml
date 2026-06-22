@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mein Erlöser lebt</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Danny Plett</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich weiß, er hat mich befreit.
+Sein Blut bedeckt meine Schuld.
+Ja, ich weiß! Ja, ich weiß!
+Er nahm die Schande auf sich,
+Von Schmerzen heilte Er mich.
+Ja, ich weiß! Ja, ich weiß!
+Lasst alle hören:
+Mein Herr besiegte das Grab!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mein Erlöser lebt! Mein Erlöser lebt!
+Mein Erlöser lebt! Mein Erlöser lebt
+Du nimmst die Last mir.
+Ich steh auf mit Dir.
+Ich laufe Dir entgegen, Herr
+und sehe: Dein Reich kommt!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Am a Soldier Bound to Glory</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm a soldier bound for Glory,
+I’m a soldier going home;
+Come and hear me tell my story,
+All who love the Saviour, come.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love Jesus, hallelujah!
+I love Jesus, yes, I do;
+I love Jesus, he’s my Saviour,
+Jesus smiles and loves me too.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will tell you what induced me
+In the glorious fight to start;
+‘Twas the Saviour’s loving kindness
+Overcame and won my heart.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When I first commenced my warfare
+Many said I’d run away;
+But they all have been deceived,
+In the fight I am today.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I’m a wonder unto many,
+God alone the change has wrought;
+Here I raise my Ebenezer,
+Hither by his help I’m brought.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>When to death’s dark, swelling river,
+Like a warrior I shall come,
+Then I mean to shout salvation!
+And go singing glory! home.</lines>
+    </verse>
+  </lyrics>
+</song>

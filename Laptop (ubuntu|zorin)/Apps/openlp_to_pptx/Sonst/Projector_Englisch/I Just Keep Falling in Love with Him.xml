@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Just Keep Falling in Love with Him</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I just keep falling in love with Him
+Over and over and over and over again
+I keep falling in love with Him
+Over and over and over and over again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He gets sweeter and sweeter as the days go by
+Oh what a love between my Lord and I
+I keep falling in love with Him
+Over and over and, over and over again</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I first fell in love with Jesus,
+I gave Him all my heart
+And I thought I couldn’t love him more
+than I did right at the start.
+But now I look back over the mountains,
+and the valleys where I’ve been
+And It makes me know I love Him so much
+more than I did then</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He keeps loving and forgiving me over and
+Over and over and over and over again
+He keeps loving and forgiving me over and
+Over and over and over and over again</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Freuet euch allezeit</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Gottfried Burger</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Freuet euch allezeit,
+freut euch in dem Herrn!
+Freuet euch allezeit,
+freut euch in dem Herrn!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zeigt allen Gottes Freundlichkeit,
+Gott lädt doch alle ein.
+Der Herr ist nahe, seid bereit,
+sperrt nicht die Freude ein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sorgt euch um nichts, Gott ist doch da.
+Ihr dürft wie Kinder sein.
+Was wir ihm sagen, hört er ja;
+wir haben Grund zum Freu'n.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hüllt euch in Gottes Frieden ein,
+vertraut nur seiner Macht,
+dann könnt ihr ganz geborgen sein,
+euch freu'n auch in der Nacht.</lines>
+    </verse>
+  </lyrics>
+</song>

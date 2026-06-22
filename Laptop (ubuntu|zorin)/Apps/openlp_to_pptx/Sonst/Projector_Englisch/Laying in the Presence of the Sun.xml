@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Laying in the Presence of the Sun</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh Lord, here I am,
+Laying in the presence of the sun
+Let the rays from the golden cross
+Shine on me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We see the signs in the earth and sky
+Time is at hand
+Fearful signs and roaring waves
+Time is at hand</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I look and see the fig tree blooming
+Time is at hand
+The bride tree has been restored
+Time is at hand</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The seed has become the seed again
+The shuck has pulled away
+The bride is called and sealed away
+The rapture is at hand</lines>
+    </verse>
+    <verse name="v5">
+      <lines>It's harvest time, and I must get ripe
+Lord, hear my prayer
+The stature of a perfect man,
+Lord, that's my cry</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Behold! The Bridegroom cometh!
+Arise and trim your lamps
+Riding through the midnight hour
+The prophet cried. He's here.</lines>
+    </verse>
+  </lyrics>
+</song>

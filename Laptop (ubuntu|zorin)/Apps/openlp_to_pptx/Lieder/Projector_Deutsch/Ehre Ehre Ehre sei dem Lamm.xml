@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ehre, Ehre, Ehre sei dem Lamm!</title>
+    </titles>
+    <authors>
+      <author type="words">Wort des Glaubens München</author>
+      <author type="music">Larry Dempsey</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ehre, Ehre, Ehre sei dem Lamm!
+Ehre, Ehre, Ehre sei dem Lamm!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Denn Deine Herrlichkeit erfüllt die ganze Welt.
+Lamm Gottes auf dem Thron
+In Ewigkeit verkünden wir Dein Lob.
+Lamm Gottes auf dem Thron</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Blessed Be the Name of the Lord (2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessed be the Name of the Lord
+He is worthy to be praised and adored
+So we lift up holy hands in one accord
+Singing, &quot;Blessed be the Name!
+Blessed be the Name!
+Blessed be the Name of the Lord!&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Worthy, You are worthy,
+King of kings, Lord of lords,
+You are worthy.
+Worthy, You are worthy,
+King of kings, Lord of lords,
+I worship you.</lines>
+    </verse>
+  </lyrics>
+</song>

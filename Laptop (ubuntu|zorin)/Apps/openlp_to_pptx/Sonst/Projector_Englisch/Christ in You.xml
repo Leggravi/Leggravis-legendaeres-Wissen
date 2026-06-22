@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Christ in You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've been on you for so long
+I've been praying for you for so long
+Now you're here beside me
+I can't imagine, God gave me you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Seeking from a deep deep water
+Now I found a treasure it's you
+Oh I love you not because I want you
+Oh I love you not because your awesome
+Oh I love you not because I need you
+But I love you because I see Christ in you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise God, He gave me you (4x)</lines>
+    </verse>
+  </lyrics>
+</song>

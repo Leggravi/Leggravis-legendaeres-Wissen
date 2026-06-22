@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:36">
+  <properties>
+    <titles>
+      <title>Freu dich, Erd und Sternenzelt</title>
+    </titles>
+    <authors>
+      <author type="words">Leitmeritz (1844)</author>
+      <author type="words">Johannes Pröger (1950)</author>
+      <author type="music">Böhmen</author>
+    </authors>
+    <ccliNo>5855393</ccliNo>
+    <themes>
+      <theme>Weihnachten</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Freu dich, Erd und Sternenzelt, Halleluja;
+Gottes Sohn kam in die Welt, Halleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Seht, der schönste Rose Flor, Halleluja,
+sprießt aus Jesses Zweig empor, Halleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Engel zu den Hirten spricht: Halleluja,
+freut euch sehr und fürcht' euch nicht, Halleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hört's, ihr Menschen groß und klein, Halleluja,
+Friede soll auf Erden sein. Halleluja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ehr sei Gott im höchsten Thron, Halleluja,
+der uns schenkt sein' lieben Sohn, Halleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

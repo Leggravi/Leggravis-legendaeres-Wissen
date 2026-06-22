@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Share your faith</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are gathered here as a family
+Sharing love, sharing peace and pardon
+But outside this holy place
+Are so many lost in sin
+If we keep our love inside these walls
+How will they ever know
+That the words we say are true
+That the God we serve is real</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Share your faith, share the peace and joy you know
+Share the light in a world of darkness
+Share the truth that can set of all people free
+Be the love of Christ, let Him live in you and me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As the ones who’ve gone before us
+Walked in faith, may we boldly follow
+Trusting in our eternal God
+Who is with us still today
+Joining hands and hearts and lives as one
+To make the message known
+That the words we say are true
+That the God we serve is real</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Be the love of Christ
+Let Him live in you and me</lines>
+    </verse>
+  </lyrics>
+</song>

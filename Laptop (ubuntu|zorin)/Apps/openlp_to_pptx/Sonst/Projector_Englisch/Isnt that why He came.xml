@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Isn't that why He came</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Born in Bethlehem's tiny, crowded town
+Raised in Nazareth, a King without a crown
+He sat with sinners, the lowly, and the lame
+Some didn't understand, but He was not ashamed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isn't that why He came
+A poor, lost world to save
+To carry all our shame
+And heal the hurt away
+Bring hope to the hopeless
+Shield them from the blame
+Oh, isn't that why he came</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dressed in tattered clothes, homeless and abused
+Only Heaven knows the things that he's been through
+It would've been easier to turn and walk away
+But Calvary compels our hearts to stay</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For the rich man in a mansion
+For the beggar on the street
+For the one who needs compassion
+For the strong and for the weak</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Isn't that why He came
+A poor, lost world to save
+To carry all our shame
+And heal the hurt away
+Bring hope to the hopeless
+Shield them from the blame
+Oh, isn't that why he came
+Oh, isn't that why he came</lines>
+    </verse>
+  </lyrics>
+</song>

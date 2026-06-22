@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Eins ist not! Ach Herr, dies eine</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Heinrich Schröder</author>
+      <author type="music">Adam Krieger</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eins ist not! Ach Herr, dies Eine
+lehre mich erkennen doch;
+alles andre, wie's auch scheine,
+ist ja nur ein schweres Joch,
+darunter das Herze sich naget und plaget,
+und dennoch kein wahres Vergnügen erjaget.
+Erlang ich dies Eine, das alles ersetzt,
+so werd ich mit einem in allem ergötzt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Seele, willst du dieses finden,
+such's bei keiner Kreatur;
+lass, was irdisch ist, dahinten,
+schwing dich über die Natur.
+Wo Gott und die Menschheit in Einem vereinet,
+wo alle vollkommene Fülle erscheinet,
+da, da ist das beste, notwendigste Teil,
+mein ein und mein alles, mein seligstes Heil.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aller Weisheit höchste Fülle
+in Dir ja verborgen liegt.
+Gib nur, dass sich auch mein Wille
+fein in solche Schranken fügt,
+worinnen die Demut und Einfalt regieret
+und mich zu der Weisheit, die himmlisch ist, führet.
+Ach, wenn ich nur Jesum recht kenne und weiß,
+so hab' ich der Weisheit vollkommenen Preis.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nichts kann ich vor Gott ja bringen,
+als nur Dich, mein höchstes Gut;
+Jesus, es muss mir gelingen
+durch Dein heil'ges, teures Blut.
+Die höchste Gerechtigkeit ist mir erworben,
+da Du bist am Stamme des Kreuzes gestorben;
+die Kleider des Heils ich da habe erlangt,
+worinnen mein Glaube in Ewigkeit prangt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Drum auch, Jesus, Du alleine
+sollst mein Ein und Alles sein;
+prüf, erfahre, wie ichs meine
+tilge allen Heuchelschein.
+Sieh, ob ich auf bösem, betrüglichem Stege,
+und leite mich, Höch ster, auf ewigem Wege;
+gib, dass ich nichts achte, nicht Leiden noch Tod,
+nur Jesus gewinne, dies Eine ist not.</lines>
+    </verse>
+  </lyrics>
+</song>

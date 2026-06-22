@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Are Bigger Than What People Say</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are bigger than what people say Jehovah
+(You are bigger than what people say)
+You are bigger than what people say Jehovah
+(You are bigger than what people say)</lines>
+    </verse>
+  </lyrics>
+</song>

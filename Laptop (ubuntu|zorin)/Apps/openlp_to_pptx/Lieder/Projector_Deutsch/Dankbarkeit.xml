@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dankbarkeit</title>
+    </titles>
+    <authors>
+      <author type="words">Julian Hirt</author>
+      <author type="music">Toni Schake</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist der Vater der mich sieht,
+der jedes Haar gezählt hat
+Du bist der Vater der mich liebt,
+der mich für sich erwählt hat
+Ich will das schätzen was du gibst,
+mich nicht daran gewöhnen
+In allem Guten find ich dich,
+im Wahren und im Schönen</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du fühlst mich mit Dankbarkeit,
+du machst meine Seele weit,
+Vater im Himmel, alles verdank ich dir
+Du fühlst mich mit Dankbarkeit,
+schenkst mir meine Lebenszeit
+Vater im Himmel, für alles dank ich dir</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenn mir das Leben etwas nimmt,
+die Sicherheit wanken
+Dann gilt auch deine Güte bleibt,
+auch dann will ich dir danken.
+Wenn mir das Leben etwas gibt,
+mich überrascht mit Freude.
+Dann weiß ich, ich hab's nicht verdient,
+doch ich genieß es heute.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Für alles dank ich dir,
+für alles dank ich dir.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, geh voran</title>
+    </titles>
+    <authors>
+      <author type="words">Nikolaus Ludwig Graf von Zinzendorf</author>
+      <author type="music">Seelenbräutigam, Jesus, Gotteslamm!</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, geh voran
+auf der Lebensbahn!
+Und wir wollen nicht verweilen,
+dir getreulich nachzueilen;
+führ' uns an der Hand
+bis ins Vaterland.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Soll's uns hart ergehn,
+lass uns feste stehn
+und auch in den schwersten Tagen
+niemals über Lasten klagen;
+denn durch Trübsal hier
+geht der Weg zu dir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rühret eigner Schmerz
+irgend unser Herz,
+kümmert uns ein fremdes Leiden,
+o so gib Geduld zu beiden;
+richte unsern Sinn
+auf das Ende hin.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ordne unsern Gang,
+Jesus, lebenslang.
+Führst du uns durch rauhe Wege,
+gib uns auch die nöt'ge Pflege;
+tu uns nach dem Lauf
+deine Türe auf.</lines>
+    </verse>
+  </lyrics>
+</song>

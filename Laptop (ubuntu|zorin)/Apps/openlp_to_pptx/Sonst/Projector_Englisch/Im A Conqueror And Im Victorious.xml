@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm A Conqueror And I'm Victorious</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm a conqueror I'm victorious
+I am reigning with Jesus
+I am seated in Heavenly places
+In Him in Him</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Because the Kingdom of God is within me
+I know no defeat only victory
+Because the Kingdom of God is within me
+I know no defeat only strength and power</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We are a people of power
+We are a people of praise</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We are a people of promise
+Jesus has risen</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He’s conquered the grave
+Risen, yes, born again</lines>
+    </verse>
+    <verse name="v6">
+      <lines>We walk in the power
+of His name</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Power to be the sons of God
+Sons of God, sons of God
+We are the sons, hey
+Sons of God, hey, hey, hey</lines>
+    </verse>
+  </lyrics>
+</song>

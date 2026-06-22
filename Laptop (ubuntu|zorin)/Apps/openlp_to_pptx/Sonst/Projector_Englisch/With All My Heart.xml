@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>With All My Heart</title>
+    </titles>
+    <authors>
+      <author type="words">Arne Kopfermann</author>
+      <author type="music">Arne Kopfermann</author>
+      <author type="translation">Von ganzem Herzen</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Every now and then and for eternity
+God bless the day when He gave me you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Every now and then and for a lifetime
+I bless this day and cherish your faith in me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm gonna pray with you, walk with you, stay with you until the end
+I'm gonna laugh with you, cry with you, breathe with you all my days
+The road may be rough, vague and dark, bleak and tough
+I promise to cherish you with all my heart</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In all my dreams, my earnest hope
+I wish you well every minute, every day</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In all my dreams, my dearest friend
+May the Lord protect you in every way</lines>
+    </verse>
+  </lyrics>
+</song>

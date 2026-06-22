@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Year of Jubilee &amp; Jehovah Jireh My Provider</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v1 v2 v3 v4 v5 v6 v3 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We will celebrate sing unto the Lord,
+We will sing to Him a new song,
+We will celebrate sing unto the Lord,
+We will sing to Him a new song.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Shalom, Shalom,
+Shalom, Shalom,
+Shalom, Shalom,
+Jerusalem, Jerusalem, Jerusalem, Shalom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This is the year of Jubilee,
+When the lame shall walk,
+And the blind shall see,
+And the Lord will set the captive free,
+This is the year of Jubilee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hallelujah, Hallelujah, Hallelujah,
+Hallelujah, Hallelujah, Hallelujah!
+Hallelujah, Hallelujah, Hallelujah,
+Hallelujah, Hallelujah, Hallelujah!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jerusalem, Jerusalem, Shalom,
+Jerusalem, Jerusalem, Shalom,
+Jerusalem, Jerusalem, Shalom,
+Jerusalem, Jerusalem, Jerusalem, Shalom.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I will celebrate sing unto the Lord,
+I will sing to Him a new song,
+I will celebrate sing unto the Lord,
+I will sing to Him a new song.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jehovah Jireh My provider,
+His grace is sufficient,
+For me, for me, for me,
+Jehovah Jireh My provider,
+His grace is sufficient for me.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>My God shall supply all my needs,
+According to his riches in glory,
+He will give His angels,
+Charge over me,
+Jehovah Jireh cares,
+For me, for me, for me,
+Jehovah Jireh cares for me.</lines>
+    </verse>
+  </lyrics>
+</song>

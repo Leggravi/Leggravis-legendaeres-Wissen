@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Holy Is The Lamb</title>
+    </titles>
+    <authors>
+      <author type="words">Tore W. Aas</author>
+      <author type="music">Tore W. Aas</author>
+      <author type="translation">Heilig ist das Lamm Gottes</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We fall down, we lay our crowns
+at the feet of Jesus,
+The greatness of mercy and love
+at the feet of Jesus;
+And we cry, Holy, holy, holy,
+And we cry, Holy, holy, holy,
+And we cry, Holy, holy, holy,
+Is the Lamb.</lines>
+    </verse>
+  </lyrics>
+</song>

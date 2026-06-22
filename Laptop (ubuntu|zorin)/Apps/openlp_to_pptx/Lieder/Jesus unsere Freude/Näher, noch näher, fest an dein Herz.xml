@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:24">
+  <properties>
+    <titles>
+      <title>Näher, noch näher, fest an dein Herz</title>
+    </titles>
+    <authors>
+      <author type="words">Hedwig von Redern (1904)</author>
+      <author type="music">Lelia Naylor Morris</author>
+    </authors>
+    <ccliNo>4344355</ccliNo>
+    <themes>
+      <theme>Heiligung</theme>
+      <theme>Hingabe</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Näher, noch näher, fest an dein Herz
+ziehe mich, Jesu, durch Freude und Schmerz!
+Birg mich aus Gnaden in deinem Zelt,
+schirme und schütze mich, Heiland der Welt,
+schirme und schütze mich, Heiland der Welt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Näher, noch näher! Nichts hab ich hier,
+nichts was als Opfer, Herr, tauget vor dir;
+ach, nur ein sündges Herze ist mein,
+Jesus, mein König, o wasche mich rein!
+Jesus, mein König, o wasche mich rein!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Näher, noch näher! Ganz in den Tod
+gebe ich willig, mein Heiland und Gott,
+was deinen Segen hemmte in mir:
+weltliche Freuden und irdische Zier,
+weltliche Freuden und irdische Zier.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Näher, noch näher, völliger frei,
+bis alles eigene Ringen vorbei,
+bis all mein Leben dein Abglanz ist
+und du, Herr Jesu, mein alles mir bist!
+Und du, Herr Jesu, mein alles mir bist!</lines>
+    </verse>
+  </lyrics>
+</song>

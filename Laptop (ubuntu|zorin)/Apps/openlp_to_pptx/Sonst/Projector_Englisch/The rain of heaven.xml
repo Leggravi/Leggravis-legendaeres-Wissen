@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The rain of heaven</title>
+    </titles>
+    <authors>
+      <author type="words">David Fellingham</author>
+      <author type="music">David Fellingham</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Like a dry and thirsty land
+Crying for a drop of rain
+That’s how I used to fill the emptiness inside
+As the deer that’s hurt and wounded Runneth for the water brooks
+That’s how my soul longs to come before my God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’m crying let the rain of heaven (showers of blessings) fall upon my thirsty soul
+Let the rain of heaven (showers of blessings) fall on me
+Blessed Holy Spirit won't you come and fill my soul
+Let the rain of heaven fall on me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I’ve tried to seek and searched but cannot find
+On all those things this world could give
+But still my soul keeps on thirsting to be satisfy
+There's a deep calls to the deep
+There has to be a deep respond
+Lord please open the windows of heaven for me.</lines>
+    </verse>
+  </lyrics>
+</song>

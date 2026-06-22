@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Are My Father</title>
+    </titles>
+    <authors>
+      <author type="words">Marty Sampson</author>
+      <author type="music">Marty Sampson</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It doesn't matter where I run, You're there for me
+It doesn't matter what I've done Your love's for me
+You wipe away the tears, You lift me when i fall
+My life is safe by the mercy of Your grace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It doesn't matter where I go, You walk with me
+It doesn't matter when I fall, You cover me
+You wipe away the tears, You lift me when i fall
+My life is safe by the mercy of Your grace</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are my Father, provider
+You're my deliverer
+Your mercies embrace me, surround me
+Through Your everlasting love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Father I worship You
+Father I worship You</lines>
+    </verse>
+  </lyrics>
+</song>

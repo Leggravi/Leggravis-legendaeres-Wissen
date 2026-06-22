@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:16">
+  <properties>
+    <titles>
+      <title>Ich will dich lieben, meine Stärke</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Scheffler (1657)</author>
+      <author type="words">Angelus Silesius (1657)</author>
+      <author type="music">Georg Joseph</author>
+    </authors>
+    <ccliNo>5225758</ccliNo>
+    <themes>
+      <theme>Nachfolge</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich will dich lieben, meine Stärke,
+ich will dich lieben, meine Zier;
+ich will dich lieben mit dem Werke
+und immerwährender Begier!
+Ich will dich lieben, schönstes Licht,
+bis mir das Herze bricht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich will dich lieben, o mein Leben,
+als meinen allerbesten Freund;
+ich will dich lieben und erheben,
+solange mich dein Glanz bescheint;
+ich will dich lieben, Gottes Lamm,
+als meinen Bräutigam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ach, dass ich dich so spät erkannte,
+du hochgelobte Schönheit du,
+dass ich nicht eher mein dich nannte,
+du höchstes Gut und wahre Ruh;
+es ist mir leid, ich bin betrübt,
+dass ich so spät geliebt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich lief verirrt und war verblendet,
+ich suchte dich und fand dich nicht;
+ich hatte mich von dir gewendet
+und liebte das geschaffne Licht.
+Nun aber ists durch dich geschehn,
+dass ich dich hab ersehn.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ich danke dir, du wahre Sonne,
+dass mir dein Glanz hat Licht gebracht;
+ich danke dir, du Himmelswonne,
+dass du mich froh und frei gemacht;
+ich danke dir, du güldner Mund,
+dass du mich machst gesund.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Erhalte mich auf deinen Stegen
+und lass mich nicht mehr irregehn;
+lass meinen Fuß in deinen Wegen
+nicht straucheln oder stillestehn;
+erleucht mir Leib und Seele ganz,
+du starker Himmelsglanz.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ich will dich lieben, meine Krone,
+ich will dich lieben, meinen Gott;
+ich will dich lieben ohne Lohne
+auch in der allergrößten Not;
+ich will dich lieben, schönstes Licht,
+bis mir das Herze bricht.</lines>
+    </verse>
+  </lyrics>
+</song>

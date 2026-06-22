@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Feb 7, 2021, 8:26:34 PM">
+  <properties>
+    <titles>
+      <title>There is Power in the Blood</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2 V5 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Would you be free from the burden of sin?
+There's power in the blood, power in the blood;
+Would you o'er evil a victory win?
+There's wonderful power in the blood.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>There is power, power, wonder-working power
+In the blood of the Lamb.
+There is power, power, wonder-working power
+In the precious blood of the Lamb.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Would you be free from your passion and pride?
+There's power in the blood, power in the blood;
+Come for a cleansing to Calvary's tide;
+There's wonderful power in the blood.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Would you be whiter, much whiter than snow?
+There's power in the blood, power in the blood;
+Sin stains are lost in its life giving flow;
+There's wonderful power in the blood.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Would you do service for Jesus your King?
+There's power in the blood, power in the blood;
+Would you live daily His praises to sing?
+There's wonderful power in the blood.</lines>
+    </verse>
+  </lyrics>
+</song>

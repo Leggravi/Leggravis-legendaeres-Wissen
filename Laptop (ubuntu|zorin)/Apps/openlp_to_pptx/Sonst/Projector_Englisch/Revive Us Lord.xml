@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Revive Us Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Arne Kopfermann</author>
+      <author type="music">Arne Kopfermann</author>
+    </authors>
+    <verseOrder>v1 v1 v2 v1 v3 v1 v4 v5 v5 v6 v5 v7 v5 v8 v8 v5 v8 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Revive us Lord
+Revive us Lord
+By Your power and Your Grace
+Revive us Lord
+Revive us Lord
+Holy Spirit fills this place</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We need a Holy Ghost revival
+Nothing else will do
+Nothing but Spirit Lord
+Can our hearts renew
+As we turn to You and seek Your Holy face
+Pour out Your Spirit in this place</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Revive us Lord Revive us Lord
+Revive us Lord Revive us Lord
+Revive us Lord Revive us Lord
+Revive us Lord Revive us Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Revive us Lord
+Revive us Lord
+By Your power and Your Grace
+Revive us Lord
+Revive us Lord
+Holy Spirit Holy Spirit
+Holy Spirit fills this place</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Give God the glory
+Give God the glory
+Give God the glory
+And He will give you
+And He will give you
+And He will give you
+The victory</lines>
+    </verse>
+    <verse name="v6">
+      <lines>When I was lost in the world of sin
+That's when my Jesus came and He took me in yes He did
+And I give Him all my problems
+And I'm His forever more
+We need to give God all of the praise</lines>
+    </verse>
+    <verse name="v7">
+      <lines>See Satan is so busy trying to deceive you
+He wants to stop you if He can
+But you don't have to give up
+Let Jesus give you victory
+We need to give Him give Him all the praise</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Satan the blood of Jesus is against you
+Satan the blood of Jesus is against you
+Satan the blood of Jesus is against you
+So let us give God
+So let us give God
+So let us give God
+All of the praise</lines>
+    </verse>
+  </lyrics>
+</song>

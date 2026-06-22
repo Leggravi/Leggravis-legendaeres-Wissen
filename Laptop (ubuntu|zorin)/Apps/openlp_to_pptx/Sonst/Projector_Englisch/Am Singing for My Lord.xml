@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Am Singing for My Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Am singing for my Lord,
+everywhere I go
+Singing of His wondrous love that
+the world may know,
+How He saved a wretch like me by
+His death at calvary
+Am singing for my Lord, everywhere
+I go.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Am singing for the lost just
+because I know
+Jesus Christ whose precious blood
+washes white as snow
+If my song to Him can bring one lost
+soul I'll gladly sing,
+Am singing for my Lord
+everywhere I go.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Am singing for the saints,
+as they journey home
+Soon they’ll reach that better land
+never more to roam
+Soon I’ll join with them and sing,
+praises to my God and King
+Am singing for my Lord,
+everywhere I go.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Am singing though sometimes,
+heavy with the load
+For this world is not my friend
+to the grace of God
+Yet I’ll sing the whole day long,
+praises to my God and King
+Am singing for my Lord,
+everywhere I go.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What Was His Purpose for You?</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord is coming just for you,
+Why can't you be ready,
+The life you spend He offers you free,
+Then have you thought of the cost.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What was His purpose for you on earth?
+Why did He die for you (and me)?
+The moments are passing but stop to think,
+What have you done with God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your life is meant for His life alone,
+Why give yourself to the world?
+He sighed He paid by bearing your sins,
+Just serve Him alone.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Just give me courage in hardest times,
+Determination for challenging tasks,
+Sufficient grace is what I need,
+To overcome always.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Don't harden your soul in sins deceit,
+Provocation should not be your guide,
+For Christ the Lord went toiling on earth,
+And was the image of God.</lines>
+    </verse>
+  </lyrics>
+</song>

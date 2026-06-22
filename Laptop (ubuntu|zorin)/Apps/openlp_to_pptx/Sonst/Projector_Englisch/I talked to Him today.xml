@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I talked to Him today</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He was lead to Golgotha on the outskirts of town
+There nailed to a rugged cross as His mockers gathered round
+The sky spoke like thunder when He finally bowed His head
+He who had given life now hung there dead
+Then His mom and some friends came to carry Him away
+They were trying to speak through a broken heart that only tears could say
+The sun said cast no shadow on the world's darkest day
+And with one last look they laid Him in the grave</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But I talked to Him today and my cares all fell away
+He made me feel like life had just begun
+He said all of my trials can be turned into triumph
+Through the victory that He's already won
+And I talked to Him today and the comfort that He gave
+Filled me with desire to tell the world that on Calvary He died
+But right now He is alive, I know because I talked to Him today</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mary Magdalene came breathless to the place where Peter lay
+He was searching through His broken heart
+Trying to find the faith to pray
+But as He heard her joyful story his sorrow could not stay
+And his hope sprang up through the words he heard he'll say</lines>
+    </verse>
+    <verse name="v4">
+      <lines>She said I talked to Him today and my cares all fell away
+He made me feel like life had just begun
+He said all of my trials can be turned into triumph
+Through the victory that He's already won
+And I talked to Him today and the comfort that He gave
+Filled me with desire to tell the world that on Calvary He died
+But right now He is alive, I know because I talked to Him today</lines>
+    </verse>
+    <verse name="v5">
+      <lines>That on Calvary I've died
+But right now He is alive, I know because I talked to Him today</lines>
+    </verse>
+  </lyrics>
+</song>

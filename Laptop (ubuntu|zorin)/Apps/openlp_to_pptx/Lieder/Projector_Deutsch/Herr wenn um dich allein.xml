@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, wenn um dich allein</title>
+    </titles>
+    <authors>
+      <author type="words">Rudolf Brockhaus</author>
+      <author type="music">Johann Crüger</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, wenn um Dich allein
+Die Herzen sich bewegen,
+Dann fließt wie Himmelstau
+Herab Dein reicher Segen.
+Drum ziehe uns mit Macht
+Auch jetzt zu Dir empor,
+Gib Stille des Gemüts,
+Und heil'ge Mund und Ohr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verscheuche gnädiglich
+Des Feindes böse Mächte,
+Erfüll' mit Deinem Geist
+Die Seele Deiner Knechte!
+Ja, lege Deine Kraft
+In jedes Wort hinein,
+Und lasse Herz und Sinn
+Auf Dich gerichtet sein!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Lives On</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Already healed
+Already filled
+Already forgiven
+The price has been paid.
+I've been crucified with him on th0at tree
+And now the life of Christ
+Lives on in me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He tarried in Gethsemane
+He prayed for you and me
+He broke through all barriers
+The hour had come
+To lay His life to lead to victory
+For me to live is Christ
+And to die is gain
+For I can never be the same</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Where are thy accusers
+For Your sins are under the blood
+Something has happened
+A resurrected life we now live
+We don't want to ask
+&quot;Is it I Lord&quot;
+But your will must be done.</lines>
+    </verse>
+  </lyrics>
+</song>

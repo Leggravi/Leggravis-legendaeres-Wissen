@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You Lift Me Up</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord I lift my hands to worship
+There's no other way
+to make it through the day.
+When the enemy comes like a flood
+I know You raise a standard
+I know You'll lift me up</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You lift me up, Yes Lord
+You surely lift me up
+(No matter what comes our way)
+You lift me up, Yes Lord
+You surely lift me up</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I feel like I'm unworthy
+It's seems so hard to pray
+'cause of the pressure of the day.
+Then I think of Jonah in the belly of the fish
+Is getting down to pray</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You lift me up, Yes Lord
+You surely lift me up
+(From the belly of the fish)
+You lift him up, Yes Lord
+You surely lift them up
+(From the valley of the shadow)
+of death</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There's nothing without a purpose
+God always has a reason for the things that we go through.
+So whether you on the mountain or low down in the valley.
+There's one thing we must do</lines>
+    </verse>
+    <verse name="v6">
+      <lines>We'll keep His Word
+We will keep His Word
+(No matter what we go through)
+We keep His Word
+We will keep His Word</lines>
+    </verse>
+    <verse name="v7">
+      <lines>When you walk with God
+You walk alone, You walk alone
+(Don't you worry, you may cry
+He won't leave you,
+he'll be right by your side.)</lines>
+    </verse>
+    <verse name="v8">
+      <lines>No peril, no sword, no depth, no life
+No, no death, no principalities,
+No power will be able to separate us
+from this love that's in Christ Jesus
+He will be your friend
+Right until the end?</lines>
+    </verse>
+    <verse name="v9">
+      <lines>When you walk with God
+You walk alone
+You walk alone</lines>
+    </verse>
+  </lyrics>
+</song>

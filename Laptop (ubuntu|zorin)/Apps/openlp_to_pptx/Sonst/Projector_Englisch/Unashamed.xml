@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Unashamed</title>
+    </titles>
+    <authors>
+      <author type="words">Doug McKelvey</author>
+      <author type="music">Doug McKelvey</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have not much To offer You
+Not near what You deserve
+But still I come
+Because Your cross
+Has placed in me my worth</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, Christ my King of sympathy
+Whose wounds secure my peace
+Your grace extends
+To call me friend
+Your mercy sets me free</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I know I'm weak
+I know I'm unworthy
+To call upon Your name
+But because of grace
+Because of Your mercy
+I stand here unashamed</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I can't explain This kind of love
+I'm humbled and amazed
+That You'd come down
+From heavens heights
+And greet me face to face</lines>
+    </verse>
+  </lyrics>
+</song>

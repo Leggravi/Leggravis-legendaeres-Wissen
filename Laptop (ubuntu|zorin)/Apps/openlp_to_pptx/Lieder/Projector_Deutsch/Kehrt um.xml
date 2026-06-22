@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Kehrt um</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>So lebe nicht mehr ich
+Sondern Christus lebt in mir.
+Sein Geist bezeugt es Euch:
+Im Namen Jesu reden wir.
+Durch seinen Geist ich red,
+Was in Gottes Herzen steht:
+Er hat euch schon vergeben,
+Nehmt an sein neues Leben!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kehrt um, nehmt die Erlösung an!
+Kehrt um, er hat's für euch getan!
+Kehrt um, kehrt um, bekennt es laut!
+Kehrt um, weil Jesus auferstand!
+Kehrt um, weil seinen Geist er gab,
+Kehrt um, kehrt um und glaubt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So wird auch euch zuteil
+Gottes Geist und Gottes Heil,
+Dass Jesus in euch lebt
+Und bezeugt: er hat gesiegt!
+So breitet sich es aus
+Gottes Reich mit Saus und Braus
+In deinem Herz und Haus,
+Und überall rufs laut hinaus:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So lebt ihr nicht mehr selbst,
+Sondern Christus lebt in Euch.
+Das bezeugt sein heil'ger Geist,
+Der stets zum Vater weist.
+Durch seinen Geist ihr lebt,
+Was in Gottes Plänen steht.
+Er hat euch schon vergeben,
+So nehmt an sein neues Leben!</lines>
+    </verse>
+  </lyrics>
+</song>

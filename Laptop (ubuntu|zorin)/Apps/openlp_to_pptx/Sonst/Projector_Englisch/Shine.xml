@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Shine</title>
+    </titles>
+    <authors>
+      <author type="words">Steve Fee</author>
+      <author type="music">Steve Fee</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Like a candle,
+High on a hill,
+I will, I will, I will shine for You
+Like a lighthouse,
+On the ocean blue,
+I will, I will, I will shine for You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will shine, I will shine for You,
+Giving praise, in everything I do,
+I will shine, for all the world to see,
+You're the, shining light in me,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Like a bright star,
+In the night,
+I will, I will, I will shine for You,
+Like a moonbeam,
+Shining through,
+I will, I will, I will shine for You,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will shine, I will shine for you,
+Giving praise, in everything I do,
+I will shine, for all the world to see,
+Your the, shining light in me,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>No bushel,
+No dark night,
+No rain clouds gonna hide my light,
+And my whole world through,
+I'm gonna shine for you,
+Til' the whole world sees,
+Jesus in me!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Like a candle,
+High on a hill,
+I will, I will, I will shine for you,
+Like a lighthouse,
+On the ocean blue,
+I will, I will, I will shine for you,</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I will shine, I will shine for you,
+Giving praise, in everything I do,
+I will shine, for all the world to see,
+You're the shining light in me,</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We thank thee</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We thank Thee each morning for a newborn day
+Where we may work the fields of new mown hay
+We thank Thee for the sunshine
+And the air that we breathe
+Oh Lord we thank Thee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We thank Thee for the rivers that run all day
+We thank Thee for the little birds that sing away
+We thank Thee for the trees
+And the deep blue sea
+Oh Lord we thank Thee</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh yes we thank Thee Lord
+For every flower that blooms
+Birds that sing, fish that swim
+And the light of the moon</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We thank Thee every day
+As we kneel and pray
+That we were born with eyes
+To see these things</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We thank Thee for the fields
+Where the clovers grow
+We thank Thee for the pastures
+Where the cattle may roam
+We thank Thee for Thy love so pure and free
+Oh Lord we thank Thee</lines>
+    </verse>
+    <verse name="v6">
+      <lines>We thank Thee every day
+As we kneel and pray
+That we were born with eyes
+To see these things, yea</lines>
+    </verse>
+    <verse name="v7">
+      <lines>We thank Thee for the fields
+Where the clovers grow
+We thank Thee for the pastures
+Where the cattle may roam
+We thank Thee for Thy love so pure and so free
+Oh Lord we thank Thee</lines>
+    </verse>
+  </lyrics>
+</song>

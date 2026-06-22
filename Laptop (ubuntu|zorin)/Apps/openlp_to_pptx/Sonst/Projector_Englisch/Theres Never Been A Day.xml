@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There's Never Been A Day</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's never been a day
+Like this day to me,
+There's never been a day
+Like this day I see,
+There's never been a light
+That shines so bright
+As this day, this glorious day.</lines>
+    </verse>
+  </lyrics>
+</song>

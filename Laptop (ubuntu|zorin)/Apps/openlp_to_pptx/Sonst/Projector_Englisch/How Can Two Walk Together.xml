@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>How Can Two Walk Together</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It all started in the garden
+of Eden,
+When the first two were born
+in sin
+Now Cain was the seed
+of the serpent
+And Abel was the true seed
+of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How can two walk together,
+Unless they both agree,
+One believes In trinity doctrine
+And the other believes
+In one God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now Cain looked for fame
+and beauty,
+While Abel sought the face
+of God,
+Now they tried to walk together
+But they found they could not agree.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Those two spirits that
+started in Eden,
+Still rule over man’s heart today
+One spirit will give you
+worldly wisdom
+And the other the true
+Word of God.</lines>
+    </verse>
+  </lyrics>
+</song>

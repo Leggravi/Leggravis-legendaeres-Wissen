@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Circuit Rider</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The circuit-rider preacher went riding through the land,
+With a rifle on his shoulder and a Bible in his hand;
+He told the prairie people of a blessed Promised Land,
+As he went riding, singing along.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Leaning, leaning,
+Leaning on the everlasting arm;
+Leaning, leaning,
+Leaning on the everlasting arm.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He preached the coming judgment of fire and brimstone;
+And a glorious, endless Heaven of the justified alone,
+As he rode across the mountains you could hear him sing this song,
+As he went riding on.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There is power, power, wonder – working power,
+In the blood of the Lamb;
+There is power, power, wonder-working power,
+In the precious blood of the Lamb.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>His rifle’s old and rusty, and it’s hanging on the wall;
+His Bible’s worn and dusty, and it’s seldom touched at all:
+But his Message from this Bible will meet us at Judgment Day,
+For God’s Truth keeps marching on.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Glory! glory, hallelujah!
+Glory! glory, hallelujah!
+Glory! glory, hallelujah!
+His Truth is marching on.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, Lord of Heaven</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Lord of Heaven
+I do not deserve
+The grace that You have given
+Or the promise of Your word
+Lord, I stand in wonder
+At the sacrifice You made
+With mercy beyond measure
+My debt You freely paid</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your love is deeper than any ocean
+Higher than the heavens
+Reaches beyond the stars in the sky
+Jesus, Your love has no bounds
+Jesus, Your love has no bounds</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, Lord of Heaven
+I do not deserve
+The grace that You have given
+Or the promise of Your word
+Lord, I stand in wonder
+At the sacrifice You made
+With mercy beyond measure
+My debt You freely paid</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your love is deeper than any ocean
+Higher than the heavens
+Reaches beyond the stars in the sky</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Your love is deep, Your love is wide
+Your love is great, Your love is high
+Your love is all we ever need
+Your love is all we ever need</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Your love is deeper than any ocean
+Higher than the heavens
+Reaches beyond the stars in the sky
+Your love is deeper than any ocean
+Higher than the heavens
+Reaches beyond the stars in the sky
+Jesus, Your love has no bounds
+Jesus, Your love has no bounds</lines>
+    </verse>
+  </lyrics>
+</song>

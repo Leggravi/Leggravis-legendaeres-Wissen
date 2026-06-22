@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There's Been A Change In Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's been a change in me
+Since Jesus set me free;
+I've been to Calvary,
+I'm born again;
+I can not turn around,
+My feet are on solid ground;
+One day I'll wear a crown,
+O what a change.</lines>
+    </verse>
+  </lyrics>
+</song>

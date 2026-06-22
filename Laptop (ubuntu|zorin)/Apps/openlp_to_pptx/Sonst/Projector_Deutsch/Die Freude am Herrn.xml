@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Die Freude am Herrn</title>
+    </titles>
+    <authors>
+      <author type="words">Wolfgang Dennenmoser</author>
+      <author type="music">Twila Paris</author>
+      <author type="translation">The joy of the Lord will be my strength</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Die Freude am Herrn ist meine Kraft.
+Die Freude am Herrn ist meine Kraft.
+Die Freude am Herrn ist meine Kraft.
+Die Freude am Herrn ist meine Kraft.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Es gibt lebendiges Wasser und ich dürst nich mehr.
+Es gibt lebendiges Wasser und ich dürst nich mehr.
+Es gibt lebendiges Wasser und ich dürst nich mehr.
+Die Freude am Herrn ist meine Kraft.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich bin sein Kind geworden, und ich liebe ihn.
+Ich bin sein Kind geworden, und ich liebe ihn.
+Ich bin sein Kind geworden, und ich liebe ihn.
+Die Freude am Herrn ist meine Kraft.</lines>
+    </verse>
+  </lyrics>
+</song>

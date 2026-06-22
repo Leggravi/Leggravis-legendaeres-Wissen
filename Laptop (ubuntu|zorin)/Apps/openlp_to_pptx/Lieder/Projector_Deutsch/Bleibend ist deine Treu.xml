@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Bleibend ist deine Treu</title>
+    </titles>
+    <authors>
+      <author type="words">Wolfgang Zorn</author>
+      <author type="music">William M. Runyan</author>
+      <author type="translation">Great is Thy faithfulness</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bleibend ist deine Treu, o Gott mein Vater
+Du kennst nicht Schatten, noch wechselt Dein Licht.
+Du bist derselbe, der du warst vor Zeiten
+An deiner Gnade es niemals gebricht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bleibend ist deine Treu, bleibend ist deine Treu
+Morgen für Morgen dein Sorgen ich seh.
+All meinen Mangel hast du mir gestillet
+Bleibend ist deine Treu wo ich auch geh.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ob es der Frühling ist, ob Herbst, ob Winter
+Ob ich den Sommer seh in seiner Pracht.
+Du hast die Welt dir geschaffen zum Zeugnis
+Dir nur zum Ruhm und zum Preis deiner Macht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Frieden und ewges Heil, Freude die Fülle
+Fließt allen Menschen vom Kreuze herzu.
+Gott gibt im Fleische sein Liebstes für Sünder
+Führet im Opfer die Schöpfung zu Ruh.</lines>
+    </verse>
+  </lyrics>
+</song>

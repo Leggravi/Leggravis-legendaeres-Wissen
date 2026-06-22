@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What Sin?</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It happened so long ago
+And I cried out for mercy back then
+I plead the blood of Jesus
+Begged him to forgive my sin,
+But I still can't forget it
+It just won't go away,
+So I wept again, &quot;Lord wash my sin,&quot;
+But this is all He'd say.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What sin, what sin?
+That's as far away
+as the east is from the west.
+What sin, what sin?
+It was gone the very minute you confessed,
+Buried in the sea of forgetfulness.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The heaviest thing you'll carry
+Is a load of guilt and shame,
+You were never meant to bear them,
+So let them go in Jesus' name,
+Our God is slow to anger,
+Quick to forgive our sin,
+So let Him put them under the blood,
+Don't bring them up again,
+Cause He'll just say,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord, please deliver me
+from my accusing memory,
+Nothing makes me weep this way,
+Then when I hear you say.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Brunn alles Heils dich ehren wir</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Tersteegen</author>
+      <author type="music">Herr Gott, dich loben alle wir</author>
+      <author type="translation">O Fount of blessing, we adore</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1) Brunn alles Heils dich ehren wir
+und öffnen unsern Mund vor dir;
+aus deiner Gottheit Heiligtum
+dein hoher Segen auf uns komm.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2) Der Herr, der Schöpfer, bei uns bleib,
+er segne uns nach Seel und Leib,
+und uns behüte seine Macht
+vor allem Übel Tag und Nacht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3) Der Herr, der Heiland, unser Licht,
+uns leuchten lass sein Angesicht,
+dass wir ihn schaun und glauben frei,
+dass er uns ewig gnädig sei.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4) Der Herr, der Tröster, ob uns schweb,
+sein Antlitz über uns erheb,
+dass uns sein Bild wird eingedrückt,
+und geb uns Frieden unverrückt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5) Gott Vater, Sohn und Heilger Geist,
+o Segensbrunn, der ewig fleußt:
+durchfließ Herz, Sinn und Wandel wohl,
+mach uns deins Lobs und Segens voll!</lines>
+    </verse>
+  </lyrics>
+</song>

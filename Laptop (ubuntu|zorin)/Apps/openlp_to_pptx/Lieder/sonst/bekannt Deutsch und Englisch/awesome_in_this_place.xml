@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Mar 7, 2020, 3:27:44 PM">
+  <properties>
+    <titles>
+      <title>Awesome In This Place</title>
+    </titles>
+    <verseOrder>V1 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>As I come into Your presence,
+Past the gates of praise,
+Into Your sanctuary,
+'Til we're standing face to face.
+I look upon Your countenance;
+I see the fullness of Your grace,
+And I can only bow down and say:</lines>
+    </verse>
+    <verse name="C2">
+      <lines>You are awesome in this place,
+Mighty God;
+You are awesome in this place,
+Abba, Father.
+You are worthy of all praise,
+To You our lives we raise!
+You are awesome in this place,
+Mighty God.</lines>
+    </verse>
+  </lyrics>
+</song>

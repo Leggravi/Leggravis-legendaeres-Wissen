@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Worship</title>
+    </titles>
+    <authors>
+      <author type="words">Ed Cash</author>
+      <author type="music">Ed Cash</author>
+      <author type="translation">Wir sind hier, um anzubeten</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>And here we are,
+Lifting our hands to You;
+Here we are,
+Giving You thanks for all You do.
+As we praise and worship
+Your Holy name,
+You are here, dwelling within
+ our praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I feel the pull, I hear the call,
+And I know His Spirit's moving me,
+To give my all;
+He speaks to me, and I agree,
+Lord, please come and take control,
+I feel the pull.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The anchor holds though
+the ship is battered
+The anchor holds
+though the sails are torn
+I have fallen down on my knees
+As I face the raging seas
+The anchor holds in spite of the storm</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come Holy Spirit
+Fall afresh on me
+Fill me with Your power
+Satisfy my need
+Only You can make me whole
+Give me strength
+And make me grow
+Come Holy Spirit
+Fall afresh on me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mercy rewrote my life.
+Mercy rewrote my life.
+I should have fallen,
+My soul cast down,
+But Mercy rewrote my life.</lines>
+    </verse>
+  </lyrics>
+</song>

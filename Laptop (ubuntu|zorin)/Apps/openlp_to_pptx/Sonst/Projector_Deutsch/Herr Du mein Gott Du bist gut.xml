@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr Du mein Gott Du bist gut!</title>
+    </titles>
+    <authors>
+      <author type="words">Helga Poppe</author>
+      <author type="music">Helga Poppe</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr Du mein Gott Du bist gut!
+Herr Du mein Gott Du bist gut!
+Herr ich weiß keinen, keinen außer Dir,
+der dieses Wortes würdig wär,
+Du bist gut!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr Du mein Gott Du bist treu!
+Herr Du mein Gott Du bist treu!
+Herr ich weiß keinen, keinen außer Dir,
+der dieses Wortes würdig wär,
+Du bist treu!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr Du mein Gott Du bist stark!
+Herr Du mein Gott Du bist stark!
+Herr ich weiß keinen, keinen außer Dir,
+der dieses Wortes würdig wär,
+Du bist stark!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herr Du mein Gott Du bist schön!
+Herr Du mein Gott Du bist schön!
+Herr ich weiß keinen, keinen außer Dir,
+der dieses Wortes würdig wär,
+Du bist schön!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Herr Du mein Gott Du bist Groß!
+Herr Du mein Gott Du bist Groß!
+Herr ich weiß keinen, keinen außer Dir,
+der dieses Wortes würdig wär,
+Du bist Groß!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Herr Du mein Gott Du bist reich!
+Herr Du mein Gott Du bist reich!
+Herr ich weiß keinen, keinen außer Dir,
+der dieses Wortes würdig wär,
+Du bist Groß!</lines>
+    </verse>
+  </lyrics>
+</song>

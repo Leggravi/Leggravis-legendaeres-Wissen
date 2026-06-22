@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Will Never Go Back Anymore (2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I remember what the Lord has done
+I will never go back anymore (Hallellujah)
+When I remember what the Lord has done
+I will never go back anymore</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No No No No No No No No No
+I will never go back anymore
+No No No No No No No No No
+I will never go back anymore</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So many things have happened in my life
+But they'd never turn me away
+You have been my joy and my strength
+I will never go back anymore</lines>
+    </verse>
+  </lyrics>
+</song>

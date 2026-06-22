@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Deep in my heart</title>
+    </titles>
+    <authors>
+      <author type="words">Roger Cressey</author>
+      <author type="music">Roger Cressey</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Deep in my heart
+there's a song for Jesus.
+Deep in my heart
+there's a song for Him.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Sing a new song,
+sing a song for Jesus.
+Sing a new song,
+sing a song for Him.</lines>
+    </verse>
+  </lyrics>
+</song>

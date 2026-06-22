@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ihr Kinderlein kommet</title>
+    </titles>
+    <authors>
+      <author type="words">Christoph von Schmid</author>
+      <author type="music">Johann Abraham Peter Schulz</author>
+      <author type="translation">O come, little children</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ihr Kinderlein, kommet, o kommet doch all!
+Zur Krippe her kommet in Bethlehems Stall,
+und seht, was in dieser hochheiligen Nacht
+der Vater im Himmel für Freude uns macht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O seht in der Krippe, im nächtlichen Stall,
+seht hier bei des Lichtleins hellglänzendem Strahl
+in reinlichen Windeln das himmlische Kind,
+viel schöner und holder, als Engel es sind!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Da liegt es, ihr Kinder, auf Heu und auf Stroh,
+Maria und Joseph betrachten es froh;
+die redlichen Hirten knien betend davor,
+hoch oben schwebt jubelnd der Engelein Chor</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O beugt, wie die Hirten, anbetend die Knie;
+erhebet die Hände und danket wie sie!
+Stimmt freudig, ihr Kinder, wer sollt' sich nicht freu'n?
+Stimmt freudig zum Jubel der Engel mit ein</lines>
+    </verse>
+  </lyrics>
+</song>

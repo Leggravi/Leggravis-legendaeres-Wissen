@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nimm mein Leben, nimm es ganz</title>
+    </titles>
+    <authors>
+      <author type="words">G. Förster</author>
+      <author type="music">Hedy West</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nimm mein Leben, nimm es ganz, immer größer sei dein Glanz,
+denn du hast mich ja erkauft mit deinem Blut.
+Nimm mich hin, nimm mich hin, du allein bist mein Gewinn,
+denn du hast mich ja erkauft mit deinem Blut.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nimm die Augen, dass sie sehn, wie dein Wille kann geschehn.
+Leite mich mit deinem Blick – niemals zurück.
+Du bist groß, du bist groß, ja, ich komm nicht von dir los.
+Leite mich mit deinem Blick – niemals zurück.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nimm den Mund, damit ich sag, dass es bald wird heller Tag,
+wenn du kommst, in Herrlichkeit König zu sein.
+Deine Botschaft leg hinein, ich will ganz durchlässig sein,
+bis du kommst, in Herrlichkeit König zu sein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nimm mein Herz, zieh du drin ein, du allein sollst Herrscher sein.
+Nimm mein Wollen und mein Tun – zu deinem Ruhm.
+Mein Verlangen geb ich dir, es gehört nicht länger mir.
+Nimm mein Wollen und mein Tun – zu deinem Ruhm.</lines>
+    </verse>
+  </lyrics>
+</song>

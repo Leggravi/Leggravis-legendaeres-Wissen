@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Cover Me</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Cooper</author>
+      <author type="music">Martin Cooper</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Peace of God… Cover me
+Cover me… Cover me…
+Peace of God. Cover me…
+Through the Storm. Cover me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Only in You I am safe
+Only in You I'm secure
+Only in You I find peace
+So Cover me… Cover me…</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cover me when I am hurting
+Cover me when I'm not strong
+Cover me when I am going through
+The Storm…
+Cover me when all seems hopeless
+Cover me when my faith is gone
+Let the Peace that passes all I understand
+Cover Me… Cover Me…</lines>
+    </verse>
+  </lyrics>
+</song>

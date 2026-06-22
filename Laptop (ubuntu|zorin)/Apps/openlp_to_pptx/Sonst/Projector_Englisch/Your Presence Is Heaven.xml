@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Your Presence Is Heaven</title>
+    </titles>
+    <authors>
+      <author type="words">Israel Houghton</author>
+      <author type="music">Israel Houghton</author>
+      <author type="translation">Mit dir kommt der Himmel zu mir</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who is like You Lord in all the earth
+Matchless love and beauty, endless worth
+Nothing in this world will satisfy
+Jesus You're the cup that won't run dry</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your presence is Heaven to me
+Your presence is Heaven to me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Treasure of my heart and of my soul
+In my weakness You are merciful
+Redeemer of my past and present wrongs
+Holder of my future days to come</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your presence is Heaven to me
+Your presence is Heaven to me
+Your presence is Heaven to me
+Your presence is Heaven to me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh Jesus, oh Jesus
+Your presence is Heaven to me
+Oh Jesus, oh Jesus
+Your presence is Heaven to me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>All my days on earth I will await
+The moment that I see You face to face
+Nothing in this world will satisfy
+'Cause Jesus You're the cup that won't run dry
+Nothing in this world will satisfy
+Jesus You're the cup that won't run dry
+Jesus You're the cup that won't run dry</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Your presence is Heaven to me
+Your presence is Heaven to me
+Your presence is Heaven to me
+Your presence is Heaven to me</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Oh Jesus, oh Jesus
+Your presence is Heaven to me
+Oh Jesus, oh Jesus
+Your presence is Heaven to me</lines>
+    </verse>
+  </lyrics>
+</song>

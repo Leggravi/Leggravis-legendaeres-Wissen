@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dunkelheit bedeckt alle Völker der Welt</title>
+    </titles>
+    <authors>
+      <author type="words">Thomas Csanády</author>
+      <author type="music">Jean-Marc Morin</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dunkelheit bedeckt alle Völker der Welt, auf, Jerusalem, werde Licht!
+Dunkelheit bedeckt alle Völker der Welt, auf, Jerusalem, werde Licht!
+Blick empor, schaue aus, beben soll dein herz und sich öffnen weit
+Auf den Armen trägt man die Töchter herbei, deine Söhne kommen von fern</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jerusalem, Jerusalem, leg dein Gewand der Trauer ab!
+Jerusalem, Jerusalem, singe und tanze deinem Gott!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Völker wandern hin, bringen Weihrauch und Gold, Herden von Kamelen sind dein
+Völker wandern hin, bringen Weihrauch und Gold, Herden von Kamelen sind dein
+
+Von weit her kommen sie, prachtvoll ist dein Glanz, deine Herrlichkeit
+Weihrauch steigt empor, weithin schallt Gottes Lob. Ruhmreich sind die Taten des Herrn</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jerusalem, Jerusalem, leg dein Gewand der Trauer ab!
+Jerusalem, Jerusalem, singe und tanze deinem Gott!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jubelt in der Stadt, alle die ihr sie liebt, fröhlich sollt ihr sein und euch freu'n!
+Jubelt in der Stadt, alle die ihr sie liebt, fröhlich sollt ihr sein und euch freu'n!
+
+&quot;Stadt des Herrn&quot; nennt man dich, ewig leuchtet dir Gott der Herr als Licht. Zion singe laut, denn dein König bringt dir Freudenöl statt Trauergewand</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jerusalem, Jerusalem, leg dein Gewand der Trauer ab!
+Jerusalem, Jerusalem, singe und tanze deinem Gott!
+Jerusalem, Jerusalem, leg dein Gewand der Trauer ab!
+Jerusalem, Jerusalem, singe und tanze deinem Gott!</lines>
+    </verse>
+  </lyrics>
+</song>

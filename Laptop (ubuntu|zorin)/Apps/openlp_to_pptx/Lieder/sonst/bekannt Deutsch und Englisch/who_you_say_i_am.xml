@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Aug 22, 2019, 3:49:20 PM">
+  <properties>
+    <titles>
+      <title>Who You Say I Am</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C4 V5 C4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Who am I that the highest King
+Would welcome me
+I was lost but He brought me in
+Oh His love for me
+Oh His love for me</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Who the Son sets free
+Oh is free indeed
+I’m a child of God
+Yes I am</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Free at last
+He has ransomed me
+His grace runs deep
+While I was a slave to sin
+Jesus died for me
+Yes He died for me</lines>
+    </verse>
+    <verse name="C4">
+      <lines>Who the Son sets free
+Oh is free indeed
+I’m a child of God
+Yes I am
+In my Father’s house
+There’s a place for me
+I’m a child of God
+Yes I am</lines>
+    </verse>
+    <verse name="V5">
+      <lines>I am chosen
+Not forsaken
+I am who You say I am
+You are for me
+Not against me
+I am who You say I am</lines>
+    </verse>
+  </lyrics>
+</song>

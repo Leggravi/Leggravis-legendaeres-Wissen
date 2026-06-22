@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Saves (2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Every drop of blood that touched the ground
+Cried Jesus saves, Jesus saves.
+A world of sin rejoiced to hear the sound
+Jesus saves, Jesus saves.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallelujah am redeemed
+I've been pardoned full and free,
+All because the blood still speaks,
+Jesus saves, Jesus saves.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Even the spear that pierced His side
+Cried Jesus saves, Jesus saves.
+The message of His Arms scretched open wide
+Cried Jesus saves, Jesus saves.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All the Host of heaven now proclaims
+Jesus saves, Jesus saves.
+And in the book of life besides my name
+is Jesus saves, Jesus saves.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We have heard the joyful sound
+Jesus saves, Jesus saves.
+Spread the tidings all around,
+Jesus saves, Jesus saves.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 11, 2024, 6:17:22 PM">
+  <properties>
+    <titles>
+      <title>He Will Be Faithful to the End</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>When I'm feeling afraid, full of uncertainty,
+When the plans that I've made, all fall apart,
+When the future's unclear, and all that I can do is wait,
+There is a promise echoing in my heart.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>(That) He will be faithful to the end,
+He will provide time and time again,
+He will be faithful, so faithful to the end
+And He will be there when all else fades,
+His love is stronger than my pain,
+He will be faithful, faithful to the end.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>There is grace I can't measure,
+Mercy I don't deserve,
+There's forgiveness that's endless for me
+Oh, what a blessed assurance,
+To know how deeply I'm loved
+And I'm always reminded that He will be all I need
+All I need.</lines>
+    </verse>
+  </lyrics>
+</song>

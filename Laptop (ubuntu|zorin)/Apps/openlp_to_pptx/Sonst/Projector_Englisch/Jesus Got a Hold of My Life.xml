@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Got a Hold of My Life</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus got a hold of my life and he won′t let me go
+Jesus got into my heart, He got into my soul
+Well, I used to be, oh, so sad
+But now I'm free and glad
+′Cause Jesus got a hold of my life and He won't let me go</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sometimes I remember how I used to be livin′ in sin
+I tried to act happy and free but I wasn't within
+Well, I fooled a lot of friends of mine
+They thought I had some peace of mind
+But I never had a thing until I opened up and let Jesus in</lines>
+    </verse>
+  </lyrics>
+</song>

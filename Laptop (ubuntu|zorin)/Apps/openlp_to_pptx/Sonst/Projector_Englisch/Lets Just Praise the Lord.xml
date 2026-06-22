@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let's Just Praise the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">William J. Gaither</author>
+      <author type="music">William J. Gaither</author>
+      <author type="translation">Herr, hab Dank für deine Liebe</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let's just praise the Lord, praise the Lord,
+Let's just lift our hearts toward heaven and praise the Lord,
+Let's just praise the Lord, praise the Lord,
+Let's just lift our hearts toward heaven and praise the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

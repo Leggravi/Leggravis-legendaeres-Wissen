@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, The Sweetest Name</title>
+    </titles>
+    <authors>
+      <author type="words">Tommy Coomes</author>
+      <author type="music">Tommy Coomes</author>
+      <author type="translation">Jesus, in deinem Namen ist die Kraft</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus is the sweetest
+ name I know,
+And He's just the same
+As His lovely name.
+That's the reason
+Why I love Him so,
+For Jesus is the sweetest
+ name I know.</lines>
+    </verse>
+  </lyrics>
+</song>

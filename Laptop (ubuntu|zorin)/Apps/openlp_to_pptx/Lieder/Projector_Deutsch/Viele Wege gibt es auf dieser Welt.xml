@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Viele Wege gibt es auf dieser Welt</title>
+    </titles>
+    <authors>
+      <author type="words">Thomas Eger</author>
+      <author type="music">Thomas Eger</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v3 v4 v7 v8 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Viele Wege gibt es auf dieser Welt,
+doch einen nur können wir gehn.
+Und die Frage, die sich mir dadurch stellt,
+ist, welchen Weg ich nehm.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Soll ich den Weg gehen, der mir gefällt?
+Such ich einen, der mir recht bequem,
+doch nicht, was ich denke und wünsche zählt.
+Wie Er führt, will ich gehn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Weise mir, Herr, Deinen Weg,
+dass ich wandle in Deiner Wahrheit!
+Lass mich's erkennen, o Herr, und bekennen,
+dass Du nie einen Fehler machst!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Weise mir, Herr, Deinen Weg,
+dass ich wandle in Deiner Wahrheit!
+|: Und all mein Sinnen und alles Beginnen
+möcht ich, dass Du, Herr, überwachst. : |</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Manche Frage stellt sich im Leben mir,
+doch fehlt oft die Antwort dazu.
+Und ich frage Freunde, frag dort und hier
+und forsche ohne Ruh.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Es bleibt vieles, was keine Antwort hat,
+bleibt vieles, was rätselhaft ist.
+Darum frag ich Gott, meinen Herrn, um Rat
+im Namen Jesu Christ.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Lasst uns immer handeln nach Jesu Sinn,
+so wie es die Bibel uns sagt!
+Unser Weg führt dann nur zum Himmel hin,
+wenn man nach Jesus fragt.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Überall soll Er unser Hirte sein,
+ganz gleich, ob man über uns lacht.
+Wenn Er bei uns ist, sind wir nie allein,
+am Tag und in der Nacht.</lines>
+    </verse>
+  </lyrics>
+</song>

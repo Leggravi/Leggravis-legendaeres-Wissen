@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gethsemane</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus climbed the hill
+To the garden still
+His steps were heavy and slow
+Love and a prayer
+Took Him there
+To the place only He could go</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gethsemane
+Jesus loves me
+So He went willingly
+To Gethsemane</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He felt all that was sad, wicked or bad
+All the pain we would ever know
+While His friends were asleep
+He fought to keep
+His promise made long ago</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The hardest thing that ever was done
+The greatest pain that ever was known
+The biggest battle that ever was won
+This was done by Jesus
+The fight was won by Jesus</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gethsemane
+Jesus loves me
+So he gives His gift to me
+From Gethsemane</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh Glory To God</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh glory to God He lifted me up
+He lifted me up I know.
+He reached down His hand
+And He lifted me up
+And that's why I love Him so.</lines>
+    </verse>
+  </lyrics>
+</song>

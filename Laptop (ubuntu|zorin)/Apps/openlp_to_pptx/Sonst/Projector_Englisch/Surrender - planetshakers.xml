@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Surrender - planetshakers</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All that I am is Yours
+All that I have is Yours
+I give You my heart and soul
+Lord, I'm Yours</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord everyday is Yours
+Lord every breath is Yours
+I'm giving my life to You
+Lord I'm Yours</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You alone are worthy of all praise
+You alone are worthy of all praise</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I surrender all to You
+I surrender all to You
+I am nothing without You
+Jesus Christ, take my life
+It's all for You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You're worthy of all praise
+You're worthy of all praise
+Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

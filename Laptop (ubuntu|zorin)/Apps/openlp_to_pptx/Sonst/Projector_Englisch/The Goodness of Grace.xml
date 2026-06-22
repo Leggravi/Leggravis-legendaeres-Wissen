@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Goodness of Grace</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v2 v2 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come you broken, heavy laden
+Come you helpless, come you in despair
+Come be blessed, come be saved
+Come, believe, come receive the goodness of God’s grace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God’s grace is amazing, the lifeline of my soul
+God’s grace is faithful, Jesus conquered all
+By grace, He died, so I may live
+By grace, I am saved</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come you weary, hope and be free
+Come you helpless, lift your misery
+Come be blessed, come be saved
+Come believe, come receive the goodness of God’s grace</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I’m Looking Away to Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Born to be a super sign
+In this great and final age,
+When the whole world is falling apart again,
+The prudent minds search for solutions,
+Which we know they cannot find,
+We know the answers lie
+Beyond this dimension of time.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm looking away To Jesus,
+He's the only way, Sweet Jesus,
+I'm looking away,
+I'm Looking away to Him</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Born to live in a super sense,
+Far beyond what man can perceive.
+The Word of God is what our hearts would only believe;
+Looking to the unseen,
+We see a brighter and better world,
+So on the promises of God,
+Is what we'd anchor our souls.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Born To Overcome this wrecked world
+That Satan has deceived,
+The promises of God is what we'd only believe;
+His word has power to transform
+By the renewing of your mind;
+To see the judgements of God,
+We're at the end of time.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Born to be a super race,
+Abraham's royal seed.
+Upon the bread of life is what we'd always feed;
+Looking for a city whose maker and builder is God,
+We Know that soon we'll reign
+With Jesus Christ our Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

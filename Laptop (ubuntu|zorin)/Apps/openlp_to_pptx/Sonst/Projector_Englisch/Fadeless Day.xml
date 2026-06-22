@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Fadeless Day</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the land of fadeless days
+Lies the city four square
+It shall never pass away
+And there is no night there</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: God shall wipe away all tears
+There's no death, no pain no fear
+(And they count time not by years
+For there is no night there) :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There they need no sunshine bright
+In the city four square
+For the Lamb is all the light
+And there is no night there</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There the gates shall never close
+In that city four square
+There life's crystal river flows
+And there is no night there</lines>
+    </verse>
+  </lyrics>
+</song>

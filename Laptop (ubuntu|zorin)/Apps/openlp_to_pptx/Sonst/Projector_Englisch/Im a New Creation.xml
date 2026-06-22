@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I’m a New Creation</title>
+    </titles>
+    <authors>
+      <author type="words">Dave Bilbrough</author>
+      <author type="music">Dave Bilbrough</author>
+      <author type="translation">Ich bin von neu’m geboren</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh Hallelujah, He redeemed me,
+I am born again to win,
+I thank God He justified me
+Of His fullness have we all received of Him.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm a new creation,
+I'm a brand new man.
+Old things are passed away,
+I've been born again.
+More than a conqueror
+That's who I am,
+I'm a new creation
+I'm a brand new man!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I've Received the Christ of Calva'ry
+I have no sense of Sin
+We have a oneness and a Fellwship
+Delivered from Authority of Sin</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God has Wrought for Me Redemption
+One that Covers Every Need
+Perfectly He's Restored Our Fellowship
+With no sense of Guilt or Memory</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Born again -
+There's really been a change in me!
+Born again, just like Jesus said.
+Born again - and all because of Calvary,
+I'm glad, so glad
+That I've been born again.</lines>
+    </verse>
+  </lyrics>
+</song>

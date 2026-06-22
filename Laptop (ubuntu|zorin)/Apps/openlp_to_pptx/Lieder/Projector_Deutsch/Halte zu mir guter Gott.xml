@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Halte zu mir guter Gott</title>
+    </titles>
+    <authors>
+      <author type="words">Rolf Krenzer</author>
+      <author type="music">Ludger Edelkötter</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Halte zu mir, guter Gott, heut den ganzen Tag. 
+Halt die Hände über mich, was auch kommen mag.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Halte zu mir, guter Gott, heut den ganzen Tag. 
+Halt die Hände über mich, was auch kommen mag.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du bist jederzeit bei mir, wo ich geh und steh 
+spür ich wenn ich leise bin, dich in meiner Näh.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Halte zu mir, guter Gott, heut den ganzen Tag. 
+Halt die Hände über mich, was auch kommen mag.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gibt es Ärger oder Streit und noch mehr Verdruss 
+weiß ich doch, du bist nicht weit, wenn ich weinen muss.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Halte zu mir, guter Gott, heut den ganzen Tag. 
+Halt die Hände über mich, was auch kommen mag.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Meine Freude, meinen Dank, alles sag ich dir. 
+Du hälst zu mir guter Gott, spür ich tief in mir.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Halte zu mir, guter Gott, heut den ganzen Tag. 
+Halt die Hände über mich, was auch kommen mag.</lines>
+    </verse>
+  </lyrics>
+</song>

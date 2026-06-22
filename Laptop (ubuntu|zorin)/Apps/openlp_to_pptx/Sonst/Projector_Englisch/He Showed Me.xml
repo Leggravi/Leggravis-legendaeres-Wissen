@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Showed Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He showed me His hands
+That were marred by my sinning,
+He showed me His feet
+That were nailed to the tree;
+I then saw His brow and His
+  side deeply wounded
+And now I love Jesus
+  and Jesus loves me.</lines>
+    </verse>
+  </lyrics>
+</song>

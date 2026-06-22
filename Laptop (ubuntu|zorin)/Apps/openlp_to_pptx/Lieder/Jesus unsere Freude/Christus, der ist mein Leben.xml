@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:20:04">
+  <properties>
+    <titles>
+      <title>Christus, der ist mein Leben</title>
+    </titles>
+    <authors>
+      <author type="words">Jena (1608)</author>
+      <author type="music">Melchior Vulpius</author>
+    </authors>
+    <ccliNo>5209705</ccliNo>
+    <themes>
+      <theme>Sterben</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christus, der ist mein Leben,
+Sterben ist mein Gewinn;
+dem tu ich mich ergeben,
+mit Fried fahr ich dahin.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mit Freud fahr ich von dannen
+zu Christ, dem Bruder mein,
+auf dass ich zu ihm komme
+und ewig bei ihm sei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich hab nun überwunden
+Kreuz, Leiden, Angst und Not;
+durch seine heilgen Wunden
+bin ich versöhnt mit Gott.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wenn meine Kräfte brechen,
+mein Atem geht schwer aus
+und kann kein Wort mehr sprechen:
+Herr, nimm mein Seufzen auf!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wenn mein Herz und Gedanken
+zergehn als wie ein Licht,
+das hin und her tut wanken,
+wenn ihm die Flamm gebricht:</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Alsdann fein sanft und stille
+lass mich, Herr, schlafen ein
+nach deinem Rat und Willen,
+wann kommt mein Stündelein.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>An dir lass gleich den Reben
+mich bleiben allezeit
+und ewig bei dir leben
+in Himmelswonn und Freud.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Christus, der ist mein Leben
+und Sterben mein Gewinn;
+dem hab ich mich ergeben,
+mit Freuden fahr ich hin.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mit Freud geh ich von hinnen
+zu meinem Heiland ein,
+dass ich ihn mag gewinnen
+und ewig bei ihm sein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Da hab ich überwunden
+Kreuz, Leiden, Angst und Not;
+durch seine heilgen Wunden
+bin ich versöhnt mit Gott.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ach lass mich an Dir kleben
+wie eine Klett am Kleid
+und ewig bei Dir leben
+in Himmels Wonn und Freud!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wenn ich da bei Dir wohne,
+wo man Dich würdig preist,
+preis ich vor Deinem Throne
+Dich, Vater, Sohn und Geist!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Pain and grief</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pain and grief and poverty still in
+Bitterness and anxiety, the sin
+Draw me down in the mud again;
+Darkness and the loneliness brake in
+In my heart now I'm a part from Him
+I am crawling and I felt the shame;
+But I find His hand again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: Carry me through, Jesus. :/ x6</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I can felt the heavy chain on me
+I am cold and shuddering: Oh Je'
+I am crying: Jesus save, save me!
+Then a love I never felt before
+Lifts me up and give me strength and more
+Then I hear: I'll never let you go!
+I thank you my sweet Jesus for making me hole!</lines>
+    </verse>
+  </lyrics>
+</song>

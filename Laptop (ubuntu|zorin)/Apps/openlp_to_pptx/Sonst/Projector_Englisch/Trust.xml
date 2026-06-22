@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Trust</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You told me to love
+Somebody like I love myself
+You call me to do these
+Things with You I won't fail
+I can do the impossible,
+Reach the unreachable
+You provide miracles everyday
+I surrender it all there's
+Power in Your name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You love me, and I love You,
+You are for me, I believe You
+God You got me,
+And I trust You, I trust you
+With You I can roar
+Like a lion, face the giants
+Walk through the fire
+Cause I know You're with me
+Jesus, I trust You, I trust You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I won't deny the grace
+You have for me
+Oh, Jesus your love
+Is sweet it sets me free
+Nothing's impossible,
+Love is unstoppable
+I'm seeing miracles everyday
+I surrender it all there's
+Power in Your name
+Your mighty name</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'm gonna trust You right now,
+Right now, right now
+I'm gonna trust You right now,
+Right now, right now
+I'm gonna trust You right now,
+Right now, right now
+I'm gonna trust You right now,
+Right now, right now</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus, You love me, and I love You,
+You are for me, I believe You
+God You got me,
+And I trust You, I trust You
+With You I can roar like a lion,
+Face the giants
+Walk through the fire cause
+I know You're with me
+Jesus, I trust you, I trust you
+I trust you, Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

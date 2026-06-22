@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Saviour's Love / I Stand Amazed / How Marvelous</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I stand amazed in the presence
+Of Jesus the Nazarene,
+And wonder how he could love me,
+A sinner, condemned, unclean.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How marvelous! How wonderful!
+And my song shall ever be;
+How marvelous! How wonderful!
+Is my Savior's love for me!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He took my sins and my sorrows,
+He made them his very own;
+He bore the burden to Calv'ry,
+And suffered and died alone.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When with the ransomed in glory
+His face I at last shall see,
+'Twill be my joy through the ages
+To sing of his love for me.</lines>
+    </verse>
+  </lyrics>
+</song>

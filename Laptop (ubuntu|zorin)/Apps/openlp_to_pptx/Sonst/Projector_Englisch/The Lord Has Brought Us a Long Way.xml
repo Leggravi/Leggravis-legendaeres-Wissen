@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Lord Has Brought Us a Long Way</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Now I want you to picture,
+Jesus on the cross
+The nails on His hands and
+on His feet,
+The thorns on His head,
+Have you ever asked the
+question suppose it was you
+All the great pains on the
+cross to bear,
+Just to save another man.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(Oh) the Lord has brought
+us a long way,
+A long way from sin And we
+have been appointed servants
+of the Lord We have come a
+long way,
+a long way from sin Because we
+have a message from the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now I want to tell you from the
+Word of God,
+The answer to the question that is
+In your mind
+The reason that Jesus died was to
+Save us from sin
+The great pain He had to bear
+just to save you and me.</lines>
+    </verse>
+  </lyrics>
+</song>

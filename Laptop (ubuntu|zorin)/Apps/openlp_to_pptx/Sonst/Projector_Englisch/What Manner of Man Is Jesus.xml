@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What Manner of Man Is Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What Manner Of Man Is Jesus Halleluiah!
+What Manner of man is Jesus Halleluiah!
+What Manner of man is Jesus Halleluiah!
+What Manner of man is Jesus Halleluiah!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He healed the broken hearts Hallelujah!
+He healed the broken hearts Hallelujah!
+He healed the broken hearts Hallelujah!
+He healed the broken hearts Hallelujah!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He mend the broken hearts Hallelujah!
+He mend the broken hearts Hallelujah!
+He mend the broken hearts Hallelujah!
+He mend the broken hearts Halleluiah!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He makes the blind to see Halleluiah!
+He makes the blind to see Halleluiah!
+He makes the blind to see Halleluiah!
+He makes the blind to see Hallelujah!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He set the captive free Halleluiah!
+He set the captive free Hallelujah!
+He set the captive free Hallelujah!
+He set the captive free Hallelujah!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hallelujah Halleluiah Amen
+Halleluiah Halleluiah Amen
+Hallelujah Halleluiah Amen
+Halleluiah Halleluiah Amen</lines>
+    </verse>
+  </lyrics>
+</song>

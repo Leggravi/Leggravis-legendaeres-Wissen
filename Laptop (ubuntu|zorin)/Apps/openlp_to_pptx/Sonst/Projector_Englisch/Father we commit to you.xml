@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Father we commit to you</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God before us god beside
+God within us abide
+God in heaven and in this place
+Father we commit to you this day</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God in pleasure god in paint
+God in ever remain
+God in gladness and God in strive
+Father we commit to you our lives</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For we know, that you are faithful
+Through the stillness and the storm
+For you've been with us from the start
+Father we commit to you our hearts</lines>
+    </verse>
+  </lyrics>
+</song>

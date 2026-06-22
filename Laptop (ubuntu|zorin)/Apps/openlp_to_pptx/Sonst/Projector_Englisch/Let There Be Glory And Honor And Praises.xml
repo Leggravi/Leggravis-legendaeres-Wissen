@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let There Be Glory And Honor And Praises</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let there be glory
+and honor and praises,
+Glory and honor to Jesus!
+Glory and honor,
+Glory and honor to Him.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Is Always At Home</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When sorrow comes your way
+And your blue skies turn to grey
+No matter where you may roam
+He’ll be your nearest friend
+And He’ll go with you to the end
+You will always find God at home.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He is always at home,
+He’s always at home,
+Just knock and you’ll find Him
+at home.
+Your neighbours and your Friends
+May go away for long weekends
+But you’ll always find
+God at home.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When it comes life fleeting breath
+And you face the hand of death
+No more of this earth you’ll roam
+He’ll be your faithful guide
+And He’ll stay right by your side
+You will always find God at home.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Just Cry Out for Mercy</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You seem so uncertain
+Just where to begin
+You're afraid of betrayal,
+But you're needing a friend,
+You say your situation
+Is entirely your fault
+Thro one foolish error
+It seems all is lost</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Just cry out for mercy
+Jesus still saves
+Though we're not worthy
+He'll never turn you away
+And if you're lonely
+He'll hear when you pray
+Just cry out for mercy
+Jesus still saves</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A moment of weakness
+And a life of regret
+Oh it's never easy
+To forgive and forget
+Your accusers around you
+They point fingers of men
+But He won't condemn you
+If you'll just whisper His Name</lines>
+    </verse>
+  </lyrics>
+</song>

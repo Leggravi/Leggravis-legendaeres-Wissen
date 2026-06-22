@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Dec 30, 2019, 11:42:54 AM">
+  <properties>
+    <titles>
+      <title>Master of the Wind</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>My boat of life sails on a troubled sea,
+Ever there's a wind in my sail;
+But I have a Friend, who watches over me,
+When the breeze turns into a gale.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>I know the Master of the wind,
+I know the Maker of the rain;
+He can calm the storms
+and make the sun to shine again,
+I know the Master of the wind.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Sometimes I soar like an eagle to the sky,
+Among the peaks my soul can be found;
+An unexpected storm may drive me from the height,
+It may bring me low, but it'll never bring me down.</lines>
+    </verse>
+  </lyrics>
+</song>

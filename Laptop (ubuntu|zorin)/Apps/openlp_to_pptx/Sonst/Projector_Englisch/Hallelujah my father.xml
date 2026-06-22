@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hallelujah, my father</title>
+    </titles>
+    <authors>
+      <author type="words">Tim Cullen</author>
+      <author type="music">Tim Cullen</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallelujah, my father, for giving us your son;
+Sending him into the world to be given up for men,
+Knowing he’ll be wounded and crucified on earth.
+Hallelujah, my father, in his death is my birth;
+Hallelujah, my father, in his life is my life.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallelujah, Lord Jesus, for including us in you;
+Taking all our life with you for your dying on the cross.
+There for we may living by your resurrection birth.
+Hallelujah, Lord Jesus, just in you is all worth.
+Hallelujah, Lord Jesus, in your life is my life.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelujah, my father, Hallelujah, my Lord;
+Thank you for your life is in us and for our life is in you.
+Holy and united, we will glorify your name.
+Hallelujah forever, hallelujah, you’re the same.
+Hallelujah forever glorified be thy name.</lines>
+    </verse>
+  </lyrics>
+</song>

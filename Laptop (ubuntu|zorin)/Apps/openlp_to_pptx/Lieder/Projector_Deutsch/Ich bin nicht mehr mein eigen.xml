@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich bin nicht mehr mein eigen</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Alexander Weichert</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich bin nicht mehr mein Eigen.
+Ihm hab ich mich geschenkt,
+dem sich die Welten neigen,
+der alle Dinge lenkt.
+Dem hab ich mich ergeben,
+der treu die Seinen liebt,
+der seinen Sohn gegeben,
+in ihm mir alles gibt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich bin nicht mehr mein Eigen.
+Weil Christus für mich starb,
+will ihm die Knie ich beugen,
+der Leben mir erwarb.
+Wenn stets zu ihm ich käme,
+der tief erquicken kann,
+aus seiner Fülle nähme,
+wie selig wär ich dann!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich bin nicht mehr mein Eigen;
+er, Christus, ist mein Herr.
+Nie will ich dies verschweigen;
+mein höchstes Gut ist er.
+Ich fürchte keine Feinde,
+nicht Spott und Hohn der Welt,
+ich leb in der Gemeinde,
+die sich zu Jesus hält.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich bin nicht mehr mein Eigen;
+dem Herrn bin ich getauft.
+Froh will ich den bezeugen,
+der teuer mich erkauft.
+Auf ihn nur will ich sehen,
+dem ich zu Eigen bin,
+mit ihm nur will ich gehen
+zur ewgen Heimat hin.</lines>
+    </verse>
+  </lyrics>
+</song>

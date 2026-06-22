@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Starker Turm</title>
+    </titles>
+    <authors>
+      <author type="words">Kristin Reinhardt</author>
+      <author type="music">Kristin Reinhardt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, ich suche deine Ruhe,
+Fern vom Getöse dieser Welt.
+Ich hör jetzt auf mit allem was ich tue,
+Und tu das eine, das im Leben zählt.
+Ich geh im Geist jetzt vor dir auf die Knie
+Und höre auf die Stimme meines Herrn!
+Führe du mein Innerstes zur Ruhe
+Und lass dein Feuer meine Hast verzehrn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist ein starker Turm,
+Du bist das Auge im Sturm!
+Du sprichst zum aufgewühlten Meer
+Meiner Seele in mir, Herr,
+Friede mit dir, Friede mit dir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr, ich suche deinen Frieden,
+Das was die Welt nicht geben kann,
+In Harmonie und tief versöhnt zu leben,
+Denn das fängt erst in deiner Nähe an!
+Ich löse mich von allen Ambitionen
+Und werd so still wie ein grad gestilltes Kind!
+Denn du hast mehr für mich als Illusionen,
+Dein Rat für mich verweht nicht mit dem Wind!</lines>
+    </verse>
+  </lyrics>
+</song>

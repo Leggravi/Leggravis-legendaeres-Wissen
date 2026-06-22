@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich preise dich, bestaune deine Güte</title>
+    </titles>
+    <authors>
+      <author type="words">Michael Ackermann</author>
+      <author type="music">Michael Ackermann</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich preise Dich, bestaune Deine Güte.
+Ich bete Dich an, mein Herz gehört Dir.
+Ich preise Dich, bewundre Deine Schönheit.
+Ich bete Dich an und danke Dir;
+Denn das, was Du getan hast, kann sonst keiner tun.
+Deine Liebe trägt mich und Gnade fließt von Deinem Thron,
+fließt von Deinem Thron.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Know God That You Know</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There were times in my life,
+When God seems not to be around
+All the pains and sorrows
+I take it all alone</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know God that You know
+The sorrows in my heart
+The tears that flow
+But I know You'll be there
+I know God that you know</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Every night my tears are falling
+Everyday I keep on fighting
+Everywhere I keep on praying
+To help me to stand still</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When the pain begins to strike me
+I almost forget Your love for me
+But I know You'll always be there
+To help me and hear my prayer</lines>
+    </verse>
+  </lyrics>
+</song>

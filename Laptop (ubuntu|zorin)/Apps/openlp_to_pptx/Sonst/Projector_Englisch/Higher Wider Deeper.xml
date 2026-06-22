@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Higher Wider Deeper</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How beautiful this love
+You would lay down your crown
+Surrender your throne in Heaven
+So that I could be found</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How awesome is this love
+That conquered the grave
+Love that can move the mountains
+Yet knows me by name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It's unbreakable
+It's undeniable
+Nothing will ever
+Separate us</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your love is higher
+Than the skies up above
+Your love is wider
+Than what I can dream of
+Your love is deeper
+It's the greatest of all</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Your love is higher
+Than the skies up above
+Your love is wider
+Than what I can dream of
+Your love is deeper
+It's the greatest of all
+Greatest of all</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Holy are you Father
+A love like no other
+So vast like the universe
+Is your love, is your love</lines>
+    </verse>
+  </lyrics>
+</song>

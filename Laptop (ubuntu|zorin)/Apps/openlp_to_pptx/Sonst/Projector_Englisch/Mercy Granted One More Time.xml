@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mercy Granted One More Time</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In your bed you begged for forgiveness
+Cried a river full of tears
+You still feel grief and sorrow
+Inside you're filled with fear
+The temptation's quiet whisper
+In it's subtle secret way
+Will find you at your weakest
+And again cause you to stray</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let it go, give it to Jesus
+Let it go, the guilt you feel inside
+There's no need for you to be defeated
+When there's nothing left for you to hide
+For His Blood destroyed the traces
+That sin had left behind
+Walk on in His forgiveness
+Mercy granted one more time</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You don't have to feel so useless
+Forget what's in the past
+Hold to your salvation
+You can count on it to last
+Let God's Spirit lead you
+To perfect peace and more
+The joy that you are missing
+He'll soon restore. .</lines>
+    </verse>
+  </lyrics>
+</song>

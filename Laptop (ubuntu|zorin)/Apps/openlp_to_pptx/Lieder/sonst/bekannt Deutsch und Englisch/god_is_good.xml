@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Mar 31, 2021, 7:40:59 PM">
+  <properties>
+    <titles>
+      <title>God is Good</title>
+    </titles>
+    <verseOrder>C1 V2 C1 V3 C1 V4 C1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="C1">
+      <lines>God is good all the time,
+He puts a song of praise
+in this heart of mine.
+God is good all the time,
+Through the darkest night
+His light will shine.
+God is good, God is good
+all the time.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>If you're walking through the valley
+And there are shadows all around,
+Do not fear, He will guide you,
+He will keep you safe and sound,
+'Cause He has promised to never leave
+you nor forsake you,
+And His Word is true.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>We were sinners so unworthy,
+Still for us He chose to die,
+Filled us with His Holy Spirit,
+Now we can stand and testify
+That His love is everlasting
+And His mercies, they will never end!</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Though I may not understand
+All the plans You have for me,
+My life is in Your hands,
+And through the eyes of faith
+I can clearly see.</lines>
+    </verse>
+  </lyrics>
+</song>

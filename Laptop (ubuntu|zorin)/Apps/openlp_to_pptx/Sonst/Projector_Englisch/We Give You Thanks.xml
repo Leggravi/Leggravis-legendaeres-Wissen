@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Give You Thanks</title>
+    </titles>
+    <authors>
+      <author type="words">Mark Hayes</author>
+      <author type="music">Mark Hayes</author>
+      <author type="translation">Dank sei dir, Gott, du machst uns reich</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I wanna say thanks, thanks
+I give you thanks
+For all You've done
+I am so blessed
+My soul has found rest
+Oh Lord, I give You thanks</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We wanna say thanks, thanks
+We give you thanks
+For all You've done
+We are so blessed
+Our souls have found rest
+Oh Lord, we give You thanks</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I wanna say praise, praise
+I give you praise
+For all You've done
+I am so blessed
+My soul has found rest
+Oh Lord, I give You praise</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thank You, Lord
+For the strength You give
+To simply carry on
+Thru life's toils and tests
+The worst and best
+You never left me alone
+You'll always ride beside me
+And hear me when I pray
+And since I first began
+You've been my dearest friend
+I give You all my praise</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I wanna say thanks, thanks
+I give you thanks
+For all You've done
+I am so blessed
+My soul has found rest
+Oh Lord, I give You thanks</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I give you thanks for this moment
+And I will continually
+For each day I live
+You've praise to give
+I'm blessed abundantly
+I can't forget that moment
+When in my life You made such change
+And since the spirit came
+I've not been the same
+I just wanna give You thanks</lines>
+    </verse>
+  </lyrics>
+</song>

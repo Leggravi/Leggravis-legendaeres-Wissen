@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ein Licht geht uns auf</title>
+    </titles>
+    <authors>
+      <author type="words">Eckart Bücken</author>
+      <author type="music">Detlev Jöcker</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ein Licht geht uns auf in der Dunkelheit,
+Durchbricht die Nacht und erhellt die Zeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Licht der Liebe Lebenslicht,
+Gottes Geist verläßt uns nicht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ein Licht weis den Weg, der zur Hoffnung führt,
+Erfüllt den Tag, daß es jeder spürt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Licht der Liebe Lebenslicht,
+Gottes Geist verläßt uns nicht.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ein Licht macht uns froh, wir sind nicht allein,
+An jedem Ort wird es bei uns sein.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Licht der Liebe Lebenslicht,
+Gottes Geist verläßt uns nicht.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ein Licht steckt uns an, macht uns selbst zu Licht. 
+Wir fürchten uns, weil wir leuchten nicht.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Licht der Liebe Lebenslicht,
+Gottes Geist verläßt uns nicht.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Have Crosssed the Riven Veil</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have crossed the riven veil
+where the glory never fails,
+Hallelujah, Hallelujah;
+I have crossed the riven veil
+where the glory never fails,
+For I'm living in the presence
+of the King.</lines>
+    </verse>
+  </lyrics>
+</song>

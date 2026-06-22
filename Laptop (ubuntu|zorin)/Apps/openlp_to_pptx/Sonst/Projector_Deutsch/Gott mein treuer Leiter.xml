@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gott, mein treuer Leiter</title>
+    </titles>
+    <authors>
+      <author type="words">Julius Anton von Poseck</author>
+      <author type="music">Johann Crüger</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott, mein treu er Leiter,
+Deine Macht reicht weiter
+als die Macht der Welt.
+Du willst selbst mich schützen
+darf auf Dich mich stützen,
+o Du starker Held.
+Steh mir bei, erhalt' mich treu,
+lass mich trauen Deinem Walten,
+fest an Dir mich halten.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich bin auf der Reise
+scheinbar eine Waise,
+müd' und unterdrückt.
+Doch in allen Stunden
+wird in Dir gefunden
+Ruh', die mich erquickt.
+Ungekannt, in fremdem Land
+gehe ich auf allen Wegen,
+Herr, in Deinem Segen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Seh' ich alles scheiden,
+geht's durch Kampf und Leiden,
+Du erquickest mich.
+Ich will dankbar werden,
+hab' genug auf Erden,
+habe ich nur Dich.
+Ruhig, still in Deinen Will'
+allezeit mich zu ergeben,
+bleibe hier mein Leben</lines>
+    </verse>
+  </lyrics>
+</song>

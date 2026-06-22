@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God’s Word Is True</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Listen my friend
+to these words of mine,
+There is an answer to every
+problem you’ll find,
+They’re found in the Bible
+the true Word of God,
+In there is Eternal Life
+to all that believe,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God’s Word Is true,
+He will never fail you,
+If you’ll walk in the Light,
+He’ll see you through,
+Like all of God’s prophets
+that before us have been,
+This prophets fulfilled
+the words that were written
+of them.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is a promise
+to us in this day,
+That a mighty prophet is to come
+our way,
+And we find this promise in
+Malachi 4,
+And we must believe it
+so that God can restore.</lines>
+    </verse>
+  </lyrics>
+</song>

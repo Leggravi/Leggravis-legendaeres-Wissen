@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Glaube an Gott</title>
+    </titles>
+    <authors>
+      <author type="words">Robert Ochs</author>
+      <author type="music">Johannes Klehr</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meine Mutter sagte oft wenn du nicht weiter weißt
+Weine nicht es gibt ein Licht das Hoffnung heißt</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glaube an Gott wenn du mal Sorgen hast
+Glaube an Gott er nimmt dir deine Last
+Er weiß den Weg den er dir vorbestimmt
+Das jeder Tag für dich ein gutes Ende nimmt</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Viele stehen morgens auf und fanden keinen Schlaf
+Weil das Schicksal und das Glück ihr Leben böse traf
+Viele fragen oft ob es sich lohnt dass man noch lebt
+Sage dir nur dass es weiter geht</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Glaube an Gott wenn du mal Sorgen hast
+Glaube an Gott er nimmt dir deine Last
+Er weiß den Weg den er dir vorbestimmt
+Das jeder Tag für dich ein gutes Ende nimmt</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Viele hetzen durch den Tag und finden keine Ruh
+Sehn den Regenbogen nicht dann schlägt das Schicksal zu
+Denn ein Mensch den du geliebt er kommt nicht mehr nach Haus
+Und doch ist für dich nicht alles aus</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Glaube an Gott wenn du mal Sorgen hast
+Glaube an Gott er nimmt dir deine Last
+Er weiß den Weg den er dir vorbestimmt
+Das jeder Tag für dich ein gutes Ende nimmt</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Das jeder Tag für dich ein gutes Ende nimmt</lines>
+    </verse>
+  </lyrics>
+</song>

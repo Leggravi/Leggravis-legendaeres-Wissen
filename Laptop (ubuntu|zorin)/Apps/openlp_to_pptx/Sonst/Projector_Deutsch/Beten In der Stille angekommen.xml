@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Beten (In der Stille angekommen)</title>
+    </titles>
+    <authors>
+      <author type="words">Christoph Zehendner</author>
+      <author type="music">Manfred Staiger</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v4 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In der Stille angekommen,
+werd' ich ruhig zum Gebet.
+Große Worte sind nicht nötig,
+denn Gott weiß ja, wie´s mir geht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Danken und loben, bitten und fleh'n.
+Zeit mit Gott verbringen.
+Die Welt mit off'nen Augen sehn.
+Reden, hören, fragen, versteh'n.
+Zeit mit Gott verbringen.
+Die Welt mit seinen Augen sehn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In der Stille angekommen,
+leg ich meine Masken ab.
+Und ich sage Gott ganz ehrlich,
+was ich auf dem Herzen hab.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In der Stille angekommen,
+schrei' ich meine Angst heraus.
+Was mich quält und mir den Mut nimmt,
+all das schütt ich vor Gott aus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In der Stille angekommen,
+nehm' ich dankbar, was er gibt.
+Ich darf zu ihm &quot;Vater&quot; sagen,
+weil er mich unendlich liebt.</lines>
+    </verse>
+  </lyrics>
+</song>

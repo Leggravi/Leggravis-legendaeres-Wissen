@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We'll Not Leave Our Little Ones Behind</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We'll not leave our little ones behind.
+For our Father had them in mind.
+Some are weak and some are feeble,
+Others may not feel they're able.
+We'll not leave a single one behind.</lines>
+    </verse>
+  </lyrics>
+</song>

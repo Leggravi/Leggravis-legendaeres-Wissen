@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dem, der uns liebt</title>
+    </titles>
+    <authors>
+      <author type="words">Lukas Di Nunzio</author>
+      <author type="music">Lukas Di Nunzio</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dem, der uns liebt
+und uns von unsern Sünden gewaschen hat
+in Seinem Blut,
+und uns gemacht hat zu einem Königtum,
+zu Priestern Seinem Gott und Vater:
+Ihm sei die Herrlichkeit und die Macht
+von Ewigkeit zu Ewigkeit!
+Amen, Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

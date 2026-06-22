@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Totus Tuus (Totally Yours)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As I stand on the ground where you stood
+And I walk in your footsteps,
+I imagine the way that you felt
+And the thoughts you were thinking,
+Could you see my face in the crowd
+And that I loved you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Totus Tuus, Totally yours,
+Totus Tuus, Totally yours,
+The rock and the lamb,
+The Lord and the man,
+Totus Tuus, Totally yours.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You told us that people must be free,
+Every heart must be open,
+You said that justice is the key,
+But it takes our love to turn it,
+You said that you believed in me,
+You said you loved me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And we will follow you,
+Yes, we will follow you wherever you lead,
+For we believe your message is true,
+And we will follow you,
+Yes, we will follow you wherever you lead
+For we believe your message is true.</lines>
+    </verse>
+  </lyrics>
+</song>

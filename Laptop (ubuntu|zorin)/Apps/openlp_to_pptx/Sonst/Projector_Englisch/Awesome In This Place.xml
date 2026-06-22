@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Awesome In This Place</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v2 v3 v4 v5 v6 v7 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here in this house of the great King
+We come together now to worship Him
+This house is built on Christ our rock
+Cannot be shaken, cannot be shaken</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God is awesome in this place
+We sense His presence as we sing His praise
+There is power here for a miracle
+Set the captives free, make the broken whole</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God is awesome, He's so awesome
+God is awesome in this place</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I've found where I belong, I'm a living stone
+In this house I will grow
+I've found where I belong, I'm a living stone
+In this house we will grow</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I've found where I belong, I'm a living stone
+In this house I will grow
+I've found where I belong, I'm a living stone
+In this house I will grow</lines>
+    </verse>
+    <verse name="v6">
+      <lines>There is power here for a miracle
+Set the captives free and the broken whole</lines>
+    </verse>
+    <verse name="v7">
+      <lines>God is awesome, He's so awesome
+God is awesome, He's so awesome
+God is awesome, He's so awesome
+God is awesome in this place</lines>
+    </verse>
+  </lyrics>
+</song>

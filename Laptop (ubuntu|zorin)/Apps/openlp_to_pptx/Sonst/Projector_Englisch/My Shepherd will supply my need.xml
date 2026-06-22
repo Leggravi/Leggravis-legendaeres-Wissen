@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Shepherd will supply my need</title>
+    </titles>
+    <authors>
+      <author type="words">Isaac Watts</author>
+      <author type="music">Amerika</author>
+      <author type="translation">Mein Hirte ist der Herr in Not</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My Shepherd will supply my need,
+Jehovah is His name.
+In pastures fresh He makes me feed
+Beside the living stream.
+He brings my wand’ring spirit back
+When I forsake His ways,
+And leads me, for His mercy’s sake,
+In paths of truth and grace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I walk through the shades of death,
+Thy presence is my stay;
+A word of Thy supporting breath
+Drives all my fears away.
+Thy hand in sight of all my foes
+Doth still my table spread;
+My cup with blessings over flows,
+Thine oil anoints my head.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The sure provisions of my God
+Attend me all my days;
+O may Thy house be mine abode
+And all my work be praise.
+There would I find a settled rest
+While others go and come;
+No more a stranger or a guest,
+But like a child at home.</lines>
+    </verse>
+  </lyrics>
+</song>

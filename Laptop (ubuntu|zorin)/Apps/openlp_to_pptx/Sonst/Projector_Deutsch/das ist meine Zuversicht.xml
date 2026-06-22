@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>das ist meine Zuversicht</title>
+    </titles>
+    <authors>
+      <author type="words">Brigitte Herbster</author>
+      <author type="music">Peter van Woerden</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>|:Das ist meine Zuversicht, dass Du mich liebst, o Herr :|
+Du hast mich errettet, darum kann ich mich von Herzen freun.
+ich will dem Herrn lobsingen, denn er ist so gut zu mir.</lines>
+    </verse>
+  </lyrics>
+</song>

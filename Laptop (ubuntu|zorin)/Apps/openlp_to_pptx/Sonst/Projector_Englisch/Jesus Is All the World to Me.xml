@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Is All the World to Me</title>
+    </titles>
+    <authors>
+      <author type="words">Judy Bailey</author>
+      <author type="music">Judy Bailey</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus is all the world to me,
+My life, my joy, my all;
+He is my strength from day to day,
+Without Him I would fall.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I am sad to Him I go,
+No other one can cheer me so;
+When I am sad He make me glad,
+He's my Friend.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus is all the world to me,
+And true to Him I'll be;
+O how could I this Friend deny,
+When He's so true me?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Following Him I know I'm right,
+He watches o'er me Day and night;
+Following Him by day and night,
+He's my Friend.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus is all the world to me,
+I want no better friend;
+I trust Him now, I'll trust when
+Life's fleeting days shall end.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Beautiful life with such a Friend;
+Beautiful life that has no end;
+Eternal life, eternal joy,
+He's my Friend.</lines>
+    </verse>
+  </lyrics>
+</song>

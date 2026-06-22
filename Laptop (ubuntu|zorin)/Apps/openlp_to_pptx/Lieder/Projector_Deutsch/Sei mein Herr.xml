@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sei mein Herr</title>
+    </titles>
+    <authors>
+      <author type="words">Matthias Pöschl</author>
+      <author type="music">Petra Deinhofer</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sei mein Herr mächt'ger Gott, sei mein Herr 
+(2x). Ergreife Du mein Herz, laß Dein Reich entstehn,
+bau dort deinen Thron, dein Wille soll geschehn!
+|: Sei mein Herr, mächt'ger Gott, sei mein Herr :|</lines>
+    </verse>
+  </lyrics>
+</song>

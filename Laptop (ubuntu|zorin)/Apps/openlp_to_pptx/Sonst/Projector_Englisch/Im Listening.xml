@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm Listening</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When You speak, confusion fades
+Just a word and suddenly I'm not afraid
+'Cause You speak and freedom reigns
+There is hope in every single word You say</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I don't wanna miss one word You speak
+'Cause everything You say is life to me
+I don't wanna miss one word You speak
+Quiet my heart, I'm listening</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When sorrows roar and troubles rage
+You whisper peace when I don't have the words to say
+I won't lose hope when storms won't break
+You keep Your word, oh and Your promises will keep me safe</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your ways are higher
+You know just what I need
+I trust You, Jesus
+You see what I cannot see</lines>
+    </verse>
+  </lyrics>
+</song>

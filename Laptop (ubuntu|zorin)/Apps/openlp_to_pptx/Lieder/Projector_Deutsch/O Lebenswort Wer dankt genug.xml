@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Lebenswort! Wer dankt genug</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Friedrich Hiller</author>
+      <author type="music">Martin Luther</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lebenswort! wer dankt genug,
+Dass Du im Fleisch gekommen,
+Und nach der Liebe tiefstem Zug
+Das Knechtsbild angenommen!
+Du schämtest Dich der Sünder nicht,
+Gingst selber für sie ins Gericht
+Und starbst für ihre Sünden.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kein Mensch dies Wunder fassen kann,
+Kein Engel kann's verstehen.
+Der Glaube schaut's und betet an,
+Bewundert, was geschehen.
+Drum sei Dir unser Lob geweiht,
+Denn Dir, dem Herrn der Herrlichkeit,
+Lob, Ehr' und Ruhm gebühret.</lines>
+    </verse>
+  </lyrics>
+</song>

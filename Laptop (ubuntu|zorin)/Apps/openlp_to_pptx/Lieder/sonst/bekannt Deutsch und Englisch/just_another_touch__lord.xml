@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 27, 2019, 6:32:01 PM">
+  <properties>
+    <titles>
+      <title>Just Another Touch, Lord</title>
+    </titles>
+    <verseOrder>V1 V2 V3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Just another touch, Lord, from You,
+To help in hard trials I go through;
+Though dark may be the night,
+You'll send a ray of light,
+When I get a touch, Lord, from You</lines>
+    </verse>
+    <verse name="V2">
+      <lines>To get a touch from the Lord is so real,
+To get a touch from the Lord is so real,
+If you draw nigh to Him,
+He will draw nigh to thee
+To get a touch from the Lord is so real</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Hallelujah… hallelujah…
+Jesus is coming, He's coming again
+Hallelujah… hallelujah…
+Jesus is coming again</lines>
+    </verse>
+  </lyrics>
+</song>

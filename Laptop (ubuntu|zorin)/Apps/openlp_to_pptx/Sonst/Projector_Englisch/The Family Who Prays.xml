@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Family Who Prays</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The family who prays will never be parted
+Their circle in heaven unbroken shall stand
+God will say enter, my good faithful servants
+The family who prays never shall part</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Satan has parted fathers and mothers
+Filling their hearts with his envy and hate
+Heading their pathways down to destruction
+Leaving their children like orphans to stray</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wars and</lines>
+    </verse>
+  </lyrics>
+</song>

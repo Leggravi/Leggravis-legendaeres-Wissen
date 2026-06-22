@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 14, 2020, 5:48:27 PM">
+  <properties>
+    <titles>
+      <title>Vater, ich will dich preisen</title>
+    </titles>
+    <verseOrder>C1 V2 C1 V3 C1 V4 C1 V5 C1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="C1">
+      <lines>Vater, ich will dich preisen,
+denn dein Wort ist wunderbar.
+wunderbar und vollkommen.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Jeden Morgen staun ich neu
+was dein Wort enthält</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Ich erkenne, dein Wort hält,
+stets was es verspricht</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Ja, in Zeit und Ewigkeit,
+hat dein Wort Bestand.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Freude, Kraft, Mut, Zuversicht,
+all das schenkt dein Wort</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Peace in the Midst of the Storm</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Even though the winds aren't still
+And the waves continue tossing me
+From the storm I call His name
+For relief from things distressing me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now so quietly it comes
+Strength to find my course again
+Though He does so much for me
+His sweetest gift will always be</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Peace in the midst of the storm
+Peace in the midst of the storm
+I cry to Him for mercy
+And His great love takes the form
+Of peace in the midst of the storm</lines>
+    </verse>
+    <verse name="v4">
+      <lines>What tomorrows hold, will they hold
+Joy and sadness coming day by day
+But I will not be afraid
+Though I know some storms
+Will come my way</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let my enemy be sure
+I will not be lost at sea
+There will never come a time
+That with prayer l cannot find</lines>
+    </verse>
+  </lyrics>
+</song>

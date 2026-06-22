@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord, I Come</title>
+    </titles>
+    <authors>
+      <author type="words">Nigel Briggs</author>
+      <author type="music">Nigel Briggs</author>
+      <author type="translation">Komm, Herr, komm</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, I come, I confess
+Bowing here I find my rest,
+Without you I fall apart
+You're the one that guides my heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord I need you, all I need you,
+Every hour I need you
+My one defense my righteousness,
+Oh, God how I need you
+So teach myself Christ to you.</lines>
+    </verse>
+  </lyrics>
+</song>

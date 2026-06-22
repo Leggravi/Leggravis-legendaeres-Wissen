@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mit weitem Horizont</title>
+    </titles>
+    <authors>
+      <author type="words">Birgit Dörnen</author>
+      <author type="music">Birgit Dörnen</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v2 v3 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Großer Gott und Vater, Lehre mich, doch mit deinen Augen sehn.
+Lass mich niemals hinter meinen engen Grenzen stehn,
+deine Größe, deine Weite spürn. Da wo deine Liebe wohnt,
+lass mich leben, lass mich sein mit weitem Horizont,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dass deine Liebe hier mein Handeln prägt,
+deine Größe meinen Mut bewegt,
+deine Allmacht meine Grenzen sprengt
+und mein Glaube weiter denkt,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dass deine Freude mehr zum Klingen bringt,
+meine Hoffnung über Mauern springt,
+mein Vertrauen deine Treue schätzt
+und mein Beten einen Berg versetzt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mach mein Herz für andre Menschen weit,
+lass mich werben für die Ewigkeit.
+Lass mich leben, wo die Liebe wohnt,
+und mit weitem Horizont.</lines>
+    </verse>
+  </lyrics>
+</song>

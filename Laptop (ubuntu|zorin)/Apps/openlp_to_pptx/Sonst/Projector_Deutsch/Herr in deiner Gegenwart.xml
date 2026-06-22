@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, in deiner Gegenwart</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Pepper</author>
+      <author type="music">Martin Pepper</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, in deiner Gegenwart stehen wir vor Dir und beten Dich an.
+Deine Macht und Herrlichkeit
+werde offenbar unter uns.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, durch Dein teures Blut
+hast du uns frei gemacht und von Krankheit und Schuld erlöst.
+Wir erheben Dich, o Herr,
+wir preisen Deine Macht.
+Vater, wir lieben Dich.</lines>
+    </verse>
+  </lyrics>
+</song>

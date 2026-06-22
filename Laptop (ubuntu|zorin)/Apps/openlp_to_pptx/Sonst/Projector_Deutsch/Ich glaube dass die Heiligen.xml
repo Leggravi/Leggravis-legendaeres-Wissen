@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich glaube, dass die Heiligen</title>
+    </titles>
+    <authors>
+      <author type="words">1)</author>
+      <author type="music">Johann Crüger</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich glaube, dass die Heiligen
+Im Geist Gemeinschaft haben,
+weil sie in einer Gnade stehn
+und eines Geistes Gaben.
+So viele Christus nennet sein,
+die haben alles Gut gemein
+und alle Himmelsschätze.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ein Himmel, eine Seligkeit,
+ein Vorbild und ein Hoffen,
+ein Recht, ein Vaterherz im Leid,
+ein Segen steht uns offen.
+Uns führt e in Weg dem Himmel zu,
+wir hoffen all auf eine Ruh
+allein durch einen Glauben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So trägt ein Glied des andern Last
+um seines Hauptes willen.
+Wer seiner Brüder Lasten fasst,
+lernt das Gesetz erfüllen.
+Der Herr voran als Vorbild geht,
+Sein königlich Gebot besteht
+in einem Wörtlein: Liebe.</lines>
+    </verse>
+  </lyrics>
+</song>

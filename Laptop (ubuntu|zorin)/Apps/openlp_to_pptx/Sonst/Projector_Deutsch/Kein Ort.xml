@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Kein Ort</title>
+    </titles>
+    <authors>
+      <author type="words">Jonathan Fabian</author>
+      <author type="music">Will Reagan</author>
+      <author type="translation">Set a fire</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kein Ort wo ich lieber wär!,
+kein Ort wo ich lieber wär,
+kein Ort wo ich lieber wär,
+als ganz nah bei dir, ganz nah bei dir, Herr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fach ein Feuer an tief in mir
+das ich nicht mehr halt und nicht kontrollier!
+Ich will mehr von dir Gott!
+Ich will mehr von dir Gott!</lines>
+    </verse>
+  </lyrics>
+</song>

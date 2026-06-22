@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let There Be Praise</title>
+    </titles>
+    <authors>
+      <author type="words">Dick Tunney</author>
+      <author type="music">Dick Tunney</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let there be praise
+Let there be joy in our hearts
+Sing to the Lord
+Give Him the glory
+Let there be praise
+Let there be joy in our hearts
+Forevermore let His love fill the air
+And let there be praise
+Let there be praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He inhabits the praise of His people
+And dwells deep within
+The peace that He gives none can equal
+His love it knows no end
+So lift your voices with gladness sing
+Proclaim through all the earth
+That Jesus Christ is King</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the Spirit of God is within us
+We will overcome
+In our weakness His strength will defend us
+When His praise is on our tongue
+So lift your voices with gladness sing
+Proclaim through all the earth
+That Jesus Christ is King</lines>
+    </verse>
+  </lyrics>
+</song>

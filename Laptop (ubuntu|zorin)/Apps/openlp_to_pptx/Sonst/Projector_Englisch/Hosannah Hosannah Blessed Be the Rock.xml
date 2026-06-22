@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hosannah (Hosannah! Blessed Be the Rock)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: Oh, magnify the Lord with me,
+For He is worthy to be praised. :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: Hosanna! Blessed be the Rock,
+Blessed be the Rock of my Salvation! :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/: Glory, glory to His name,
+He lives and reigns forevermore. :/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: Jehovah Jireh is His name
+For He provideth all my needs. :/</lines>
+    </verse>
+  </lyrics>
+</song>

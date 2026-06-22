@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God Is Greater Than the Need</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know from where you're standing
+That mountain seems too high to climb
+And the valley you just came through
+Has made you wonder why
+Before you loose faith just think about His grace
+You'll find it's more sufficient so believing He'll make a way</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God is greater than the need
+Bigger than the problem
+No matter how bad it seems
+I know that He can solve it,
+Just trust Him and believe
+He can do anything
+For He's greater,
+He is greater than the need.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Unanswered questions you've stored back in your mind
+And the smile you wear was only but there
+To disguise the pain inside
+But this ain't the first trial and you know it won't be the last
+So if you have made it before you can make it again
+Just keep going and don't look back.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Just trust Him and believe
+He can do anything
+For He's greater,
+He is greater than the need</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:19">
+  <properties>
+    <titles>
+      <title>Aber der Herr ist immer noch größer</title>
+    </titles>
+    <authors>
+      <author type="words">Gerhard Schnitter (1977)</author>
+      <author type="words">Elisabeth Schnitter (1977)</author>
+      <author type="music">Gerhard Schnitter</author>
+    </authors>
+    <ccliNo>4347479</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wellen der Angst kommen auf mich zu,
+beklemmen und hemmen, nehmen mir die Ruh.
+Angst vor dem Leben und der Einsamkeit,
+dem Sterben, dem Alltag und der freien Zeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wellen der Schuld überrollen mich,
+bedrücken, blockieren und vermehren sich.
+Schuld durch mein Handeln, Reden und mein Sein
+an Gott und dem Nächsten und an mir allein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wellen des Leides fesseln meinen Blick,
+verdunkeln und lähmen, ziehen mich zurück.
+Leid durch Entbehrung, Hoffnungslosigkeit,
+durch Bosheit, durch Gräber
+und durch Krankheitszeit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wellen der Sorge strömen durch den Tag,
+sie treiben und quälen, werden mir zur Plag.
+Sorge ums Dasein, um das Lebensglück,
+um Aufstieg und Ehre und um mein Geschick.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Durch alle Wellen trägt er mich an Land.
+Geborgen, voll Freude fass ich seine Hand.
+Ist auch das Brausen übermächtig groß:
+Er geht auf den Wellen, und er lässt nicht los.</lines>
+    </verse>
+  </lyrics>
+</song>

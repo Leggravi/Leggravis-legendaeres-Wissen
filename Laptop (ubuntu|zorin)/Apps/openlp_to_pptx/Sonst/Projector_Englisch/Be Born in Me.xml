@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Be Born in Me</title>
+    </titles>
+    <authors>
+      <author type="words">Bernie Herms</author>
+      <author type="music">Bernie Herms</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Everything inside me cries for order
+Everything inside me wants to hide
+Is this shadow, an angel or a warrior?
+If God is pleased with me, why am I so terrified?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Someone tell me I am only dreaming
+Somehow help me see with Heaven's eyes
+And before my head agrees, my heart is on it's knees
+Holy is He, blessed am I</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Be born in me, be born in me
+Trembling heart, somehow I believe
+That You chose me
+I'll hold you in the beginning
+You will hold me in the end
+Every moment in the middle
+Make my heart your Bethlehem
+Be born in me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All this time we've waited for the promise
+All this time You've waited for my arms
+Did You wrap yourself inside the unexpected
+So we might know that love would go that far?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I am not brave
+I'll never be
+The only thing my heart can offer is a vacancy
+I'm just a girl
+Nothing more
+I am willing, I am Yours</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Be born in me, be born in me
+I'll hold you in the beginning
+You will hold me in the end
+Every moment in the middle
+Make my heart your Bethlehem
+Be born in me</lines>
+    </verse>
+  </lyrics>
+</song>

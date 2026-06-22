@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come As You Are</title>
+    </titles>
+    <authors>
+      <author type="words">David Crowder</author>
+      <author type="music">David Crowder</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come as you are'
+Come and drink from the Living
+waters
+That flowed from His hands
+Flowed from His side.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come as you are
+Come and bathe in the healing
+water
+Cleansing from sin
+Releasing new life.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Draw near to Him
+And He'll draw near to you
+He's been waiting for You
+to call on His Name
+So come, come as you are</lines>
+    </verse>
+  </lyrics>
+</song>

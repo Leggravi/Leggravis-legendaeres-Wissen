@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Seek Ye First the Kingdom of God</title>
+    </titles>
+    <authors>
+      <author type="words">Karen Lafferty</author>
+      <author type="music">Karen Lafferty</author>
+      <author type="translation">Trachtet zuerst nach Gottes Reich</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Seek ye first the kingdom of God
+And His righteousness
+And all these things shall be added unto you
+Hallelu, Hallelujah!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Halleluia, Halleluia,
+Halleluia, Hallelu, Halleluia.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Man does not live by bread alone
+But by every word
+That proceeds from the mouth of God
+Hallelu, Hallelujah!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ask, and it shall be given unto you
+Seek and ye shall find
+Knock, and the door shall be opened unto you
+Hallelu, Hallelujah!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All Who Are Thirsty</title>
+    </titles>
+    <authors>
+      <author type="words">Ateliers et Presses de Taizé</author>
+      <author type="music">Ateliers et Presses de Taizé</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All who are thirsty
+All who are weak
+Come to the fountain
+Dip your heart in the stream of life
+Let the pain and the sorrow
+Be washed away
+In the waves of His mercy
+As deep cries out to deep (we sing)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come, Lord Jesus come
+Come, Lord Jesus come
+Come, Lord Jesus come
+Come, Lord Jesus come</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Won't you come?
+Won't you come?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nothing but your will for me, I am only free when you're here</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/: Nothing but your will for me, I am only free when you're here
+Come, Lord Jesus come :/ x4</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Fest stehet die Gemeinde</title>
+    </titles>
+    <authors>
+      <author type="words">Samuel John Stone</author>
+      <author type="music">Samuel Sebastian Wesley</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fest stehet die Gemeinde
+gebaut auf Jesus Christ,
+sie, die des großen Gottes
+erneute Schöpfung ist;
+vom Himmel kam Er nieder,
+erwarb sie Sich als Braut,
+hat Sich mit Seinem Leben
+ihr ewig angetraut.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Erkorn aus allen Völkern,
+doch als ein Volk gezählt;
+ein Herr ist's und ein Glaube,
+ein Geist, der sie beseelt;
+und einen heilgen Namen
+ehrt sie; ein heilges Mahl,
+und eine Hoffnung teilt sie
+kraft Seiner Gnadenwahl.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verfolgt und angefochten
+in manchem Kampf und Streit,
+hofft nach der Offenbarung
+sie auf die Friedenszeit:
+Sie harrt, bis sich ihr Sehnen
+erfüllt in Herrlichkeit
+und nach den großen Siegen
+beginnt die Ruhezeit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Schon hier ist sie verbunden
+mit dem, der ist und war,
+und hat im Geist Gemeinschaft
+mit der erlösten Schar.
+Bald werden wir ihr folgen,
+zu Jesus rufen wir,
+dass wir mit ihr den Vater
+dort preisen für und für.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:04">
+  <properties>
+    <titles>
+      <title>Unser Mund, der ist voll Jubel</title>
+    </titles>
+    <authors>
+      <author type="words">Kommunität Gnadenthal (1972)</author>
+      <author type="music">Kommunität Gnadenthal</author>
+    </authors>
+    <themes>
+      <theme>Anbetung</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir preisen deine Güte,
+die jeden Morgen neu,
+mit der du uns behütest.
+Wie groß ist deine Treu!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir richten unsre Blicke
+zu dir, dreieinger Gott,
+und gehen nicht zurücke.
+Nur dir gebührt das Lob.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Was unsre Augen sehen,
+schuf deine Wunderhand.
+Vor dir vereint wir stehen,
+du knüpfst das Liebesband.</lines>
+    </verse>
+  </lyrics>
+</song>

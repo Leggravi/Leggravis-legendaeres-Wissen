@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jehova mein Versorger</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jehova Jireh mein Versorger,
+Seine Gnade ist genug für mich
+Der Herr versorgt mich mit Gaben
+gemäß seines Reichtums in Herrlichkeit.
+Er befiehlt den Engeln, sie wachen über mich
+Jehova jireh sorgt für mich,
+Jehova jireh sorgt für mich.</lines>
+    </verse>
+  </lyrics>
+</song>

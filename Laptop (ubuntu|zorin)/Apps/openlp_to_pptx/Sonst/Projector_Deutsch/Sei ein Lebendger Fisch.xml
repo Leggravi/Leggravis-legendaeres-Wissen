@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sei ein Lebend'ger Fisch</title>
+    </titles>
+    <authors>
+      <author type="words">Margret Birkenfeld</author>
+      <author type="music">Margret Birkenfeld</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sei ein lebend'ger Fisch,
+schwimme doch gegen den Strom!
+auf, und wag es frisch:
+Freude und Sieg ist dein Lohn</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nur die toten Fische schwimmen immer mit dem Strom,
+lassen sich mit allen andern treiben,
+haben weder Kraft noch Mut, was anderes zu tun,
+wollen in der grossen Masse bleiben</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Habe doch den Mut, auch einmal anders zu sein,
+als die meisten Leute um dich her,
+Wenn sie dich auch alle als nicht ganz normal verschrein,
+frage du nur: was will denn der HERR?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Doch aus eigner Kraft wirst du nie ein lebend'ger Fisch.
+bitte GOTT um Kraft an jedem Tag.
+glaub', dass auch in deinem Leben JESUS Sieger ist,
+und du staunst was er zu tun vermag!</lines>
+    </verse>
+  </lyrics>
+</song>

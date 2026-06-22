@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>A Few More Years Shall Roll</title>
+    </titles>
+    <authors>
+      <author type="words">Horatius Bonar</author>
+      <author type="music">Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A few more years shall roll
+A few more seasons come,
+And we shall be with those that
+rest
+Asleep within the tomb.
+Then, O my Lord, prepare
+My soul for that great day;
+Oh, wash me in Thy precious blood,
+And take my sins away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A few more suns shall set
+O’er these dark hills of time,
+And we shall be where suns are not -
+A far serener clime.
+Then, O my Lord, prepare
+My soul for that bright day;
+Oh, wash me in Thy precious blood
+And take my sins away.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A few more storms shall beat
+On this wild rocky shore,
+And we shall be where tempests
+cease,
+And surges swell no more.
+Then, O my Lord, prepare
+My soul for that calm day;
+Oh, wash me in Thy precious
+blood,
+And take my sins way.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A few more struggles here,
+A few more partings o’er,
+A few more toils, a few more tears,
+And we shall weep no more.
+Then, O my Lord, prepare
+My soul for that blest day;
+Oh, wash me in Thy precious
+blood,
+And take my sins away.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>‘Tis but a little while
+And He shall come again,
+Who died that we might live - who lives
+That we with Him may reign:
+Then, O my Lord, prepare My soul
+for that glad day;
+Oh, wash me in Thy precious blood,
+And take my sins away.</lines>
+    </verse>
+  </lyrics>
+</song>

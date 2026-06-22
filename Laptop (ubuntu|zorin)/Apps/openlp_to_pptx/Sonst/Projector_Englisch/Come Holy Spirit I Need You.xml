@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come Holy Spirit I Need You</title>
+    </titles>
+    <authors>
+      <author type="words">Joachim Dierks</author>
+      <author type="music">Joachim Dierks</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, Holy Spirit, I need You
+Come, Holy Spirit, I pray
+Come with Your strength
+And Your power
+Come in Your own special way</lines>
+    </verse>
+  </lyrics>
+</song>

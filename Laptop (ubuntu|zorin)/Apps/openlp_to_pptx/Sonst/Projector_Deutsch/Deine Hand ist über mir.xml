@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Deine Hand ist über mir</title>
+    </titles>
+    <authors>
+      <author type="words">Andreas Volz</author>
+      <author type="music">Andreas Volz</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deine Hand ist über mir
+und ich stehe unter deinem Schutz.
+Deine Hand ist über mir.
+Deine Hand ist unter mir
+und ich berge mich darin.
+Deine Hand ist unter mir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: Und ich falle niemals tiefer,
+als in deine Hand.
+Falle niemals tiefer,
+als in deine Hand. :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Deine Hand ist hinter mir,
+und du gibst mir deine Kraft.
+Deine Hand ist hinter mir.
+Deine Hand ist vor mir,
+und du ebnest mir den Weg.
+Deine Hand ist vor mir.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und ich falle niemals tiefer,
+als in deine Hand.
+Falle niemals tiefer,
+als in deine Hand.</lines>
+    </verse>
+  </lyrics>
+</song>

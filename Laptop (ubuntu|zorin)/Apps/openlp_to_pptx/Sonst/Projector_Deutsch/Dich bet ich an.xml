@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dich bet ich an</title>
+    </titles>
+    <authors>
+      <author type="words">Kommunität Gnadenthal</author>
+      <author type="music">Kommunität Gnadenthal</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dich bet ich an in Ewigkeit.
+Dich bet ich an, schönster Jesus.
+Dich bet ich an, mein König und Herr,
+du majestätisches Wesen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du Abglanz aller Herrlichkeit,
+du Licht der ewigen Sonne,
+du strahlst in unsre finstere Zeit
+und führst uns alle zum Lichte.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du leidest Not in dieser Welt,
+du starbst in Spott und in Schanden.
+Du hast den Sieg am Kreuz vollbracht.
+Dich bet ich an, du Lamm Gottes.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du dringst in unsre Bitterkeit.
+Du nimmst auf dich alle Sünde.
+Du bist der Heiland unserer Welt.
+Du neigst dich tief zu uns nieder.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Komm, liebster Jesus, fülle uns
+mit deinem Heiligen Geiste!
+Du gabst dein Leben für uns dahin,
+so sollst du meines auch haben.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ich freue mich, dein Kind zu sein.
+Ich freu mich, dir zu gehören.
+Nichts kann mich trennen von dir, mein Herr.
+In dir bin ich ganz geborgen.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Anbetung dir, du Gottessohn,
+Anbetung dir, heil'ger Vater,
+Anbetung dir, du Heiliger Geist,
+König und Herr aller Zeiten!</lines>
+    </verse>
+  </lyrics>
+</song>

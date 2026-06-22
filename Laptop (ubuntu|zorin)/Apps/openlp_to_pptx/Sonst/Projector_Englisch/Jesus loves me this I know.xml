@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus loves me, this I know</title>
+    </titles>
+    <authors>
+      <author type="words">Anna Bartlett Warner</author>
+      <author type="music">William Batchelder Bradbury</author>
+      <author type="translation">Jesus liebt mich ganz gewiss</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus loves me, this I know,
+For the Bible tells me so;
+Little ones to Him belong,
+They are weak but He is strong.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yes, Jesus loves me,
+Yes, Jesus loves me,
+Yes, Jesus loves me,
+The Bible tells me so.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God Knows Best</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our Father knows what's best for us
+So why should we complain
+We always want the sunshine
+But He knows there must be rain
+Our Father tests us often
+With suffering and with sorrow
+He tests us, not to punish us,
+But to help us meet tomorrow</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God knows best, God knows best
+He knows what's best
+for you &amp; me
+So trust in full surrender
+God knows best, God knows best
+Our Father knows what is best
+For you and me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For our Father loves His children
+And to Him all things are plain
+So He never sends us pleasure
+When the soul's deep need is pain
+So whenever we are troubled
+And when everything goes wrong
+It is just God working in us
+To make our spirit strong</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Trust in the Lord with all your heart,
+Lean not unto thine own understanding,
+In all thy ways acknowledge Him
+And He shall direct your path</lines>
+    </verse>
+  </lyrics>
+</song>

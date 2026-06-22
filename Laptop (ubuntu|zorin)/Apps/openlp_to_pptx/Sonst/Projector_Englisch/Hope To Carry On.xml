@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hope To Carry On</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Love has come
+Love has come
+Love has come
+And it's given me hope to carry on</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I can see Jesus hanging on the cross
+I can see Jesus hanging on the cross
+I can see Jesus hanging on the cross
+He came looking for the lost</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I can hear Jesus saying Father forgive
+I can hear Jesus saying Father forgive
+I can hear Jesus saying Father forgive
+What a thing He did</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bridge
+I can see love
+Love is all I want to see
+Love could make a beggar rich
+He could set prisoner free
+I know He could do it for you
+God knows He did it for me
+I can see love
+Love is all I want to show you
+Love love's the only way to go love
+Love is all a man might need to know
+This I know</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You know Peter put away his sword
+I can see Peter he's putting away his sword
+I can see Peter he put away his sword
+He won't fight no more</lines>
+    </verse>
+  </lyrics>
+</song>

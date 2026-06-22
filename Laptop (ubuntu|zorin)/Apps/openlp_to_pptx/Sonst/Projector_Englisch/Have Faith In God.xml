@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Have Faith In God</title>
+    </titles>
+    <authors>
+      <author type="words">Geoff Bullock</author>
+      <author type="music">Geoff Bullock</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Have faith in God
+Have faith in God
+Have faith in God for the answer
+Have faith in God</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sicher in Jesu Armen, sicher an Seiner Brust</title>
+    </titles>
+    <authors>
+      <author type="words">Dora Rappard</author>
+      <author type="music">William H. Doane</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sicher in Jesu Armen,
+sicher an seiner Brust,
+ruhend in seiner Liebe,
+da find ich Himmelslust.
+Mit holder Hirtenstimme
+ruft mir mein Heiland zu:
+Lass ab vom eignen Ringen,
+an meinem Herzen ruh!&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sicher in Jesu Armen, sicher an seiner Brust,
+ruhend in seiner Liebe, da find ich Himmelslust.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sicher in Jesu Armen,
+los von der Sorge Qual,
+sicher vor Satans Stürmen
+in Jesu Wundenmal,
+frei von dem Druck des Kummers,
+frei von des Zweifels Pfad,
+nur noch ein wenig Prüfung,
+nur etwas Tränensaat!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sicher in Jesu Armen,
+los von der Sorge Qual,
+sicher vor Satans Stürmen
+in Jesu Wundenmal!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus, des Herzens Zuflucht,
+Jesus, du starbst für mich!
+Sicher auf diesen Felsen
+stütz ich mich ewiglich.
+Hier will ich stille warten,
+bis dass vergeht die Nacht,
+bis an dem goldnen Ufer
+leuchtend der Tag erwacht.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesus, des Herzens Zuflucht,
+Jesus, du starbst für mich!
+Sicher auf diesen Felsen
+stütz ich mich ewiglich.</lines>
+    </verse>
+  </lyrics>
+</song>

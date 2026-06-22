@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Every Praise</title>
+    </titles>
+    <authors>
+      <author type="words">John David Bratton</author>
+      <author type="music">John David Bratton</author>
+    </authors>
+    <verseOrder>v1 v1 v1 v1 v2 v2 v3 v4 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Every praise is to our God.
+Every word of worship with one accord
+Every praise every praise is to our God.
+Sing hallelujah to our God
+Glory hallelujah is due our God
+Every praise every praise is to our God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God my Savior
+God my Healer
+God my Deliverer
+Yes He is, yes He is</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God my Savior
+God my Healer
+God my Deliverer
+Yes He is, yes He is, yes He is, yes He is
+Yes He is, yes He is, yes He is, yes He is</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Every praise is to our God.
+Every word of worship with one accord
+Every praise, every praise, every praise, every praise
+Every praise, every praise, every praise, every praise
+Every praise, every praise, every praise, every praise
+All of my worship, every praise,
+Every praise, every praise
+When you see me dancing, every praise
+Every praise, every praise
+When you see me shoutin', every praise
+Every praise, every praise, every praise, every praise
+Every praise, every praise, to our god
+Is to our God</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Every praise is to our God.
+Every word of worship with one accord
+Every praise, every praise, every praise, every praise
+Every praise, every praise, every praise, every praise
+Every praise, every praise, every praise, every praise
+All of my worship, every praise,
+Every praise, every praise
+When you see me dancing, every praise
+Every praise, every praise
+When you see me shoutin', every praise
+Every praise, every praise, I got to praise you, every praise
+Every praise, every praise, I got to thank him, every praise
+Every praise, every praise, He's been so good, every praise
+Every praise, every praise, He's been so kind, every praise
+Every praise, every praise, every praise, every praise</lines>
+    </verse>
+  </lyrics>
+</song>

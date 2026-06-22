@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Is Living In Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lonely years I had lived them,
+My life had no meaning'til I heard about Calvary.
+Then I knelt down in prayer.
+The Lord met me there now Jesus He's living in me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He's in my feet when I'm walking,
+In my tongue when I'm talking,
+In my eyes and now I can see.
+He's in the songs that I'm singing,
+In my heart His joy is ringing, Jesus Is Living In Me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Through the valleys, He has brought me,
+To the top of the mountain and over life's troubled sea
+Now I sing for His glory, songs that
+Tell the Great Story'cause Jesus Is Living In Me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yes, my Jesus Is Living In Me</lines>
+    </verse>
+  </lyrics>
+</song>

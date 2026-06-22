@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come With Me</title>
+    </titles>
+    <authors>
+      <author type="words">Spiritual</author>
+      <author type="music">Spiritual</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v3 v7 v8 v3 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Where's that greener grass you've been looking for
+You can't see it anywhere anymore
+You've been knocking down fences just to find it</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It seems no matter how hard you try
+You can't fill the void you have inside
+With anything in the world says it's enough
+You know that it will never be enough</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So come with me
+And I will show you Jesus
+And He will give you
+More than you could ask or imagine</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come with me
+If you're looking for a Savior
+If you're looking for a friend
+I know someone you should meet
+So come with me
+Come with me, yeah, yeah, yeah</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tired of every day being just another day
+You can't take it anymore anyway
+You've done everything in your power to change it</lines>
+    </verse>
+    <verse name="v6">
+      <lines>It seems no matter how much you do
+Well, all your plans keep falling through
+Your new wings to get you off the ground, yeah
+For every time the world has let you down</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Come with me
+If you're looking for a Savior
+If you're looking for a friend
+I know someone you should meet</lines>
+    </verse>
+    <verse name="v8">
+      <lines>I'm not claiming to hold all the answers
+But I'm holding on to the one who does
+Come with me
+And I will show you Jesus</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Come with me
+If you're looking for a Savior
+If you're looking for a friend
+I know someone you should meet
+Someone you should meet</lines>
+    </verse>
+    <verse name="v10">
+      <lines>So come with me
+Come with me, yeah
+Come with me, yeah
+And I will show you Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Mar 31, 2021, 9:04:21 PM">
+  <properties>
+    <titles>
+      <title>Ins Wasser fällt ein Stein</title>
+    </titles>
+    <verseOrder>V1 V2 V3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Ins Wasser fällt ein Stein,
+Ganz heimlich, still und leise;
+Und ist er noch so klein,
+Er zieht doch weite Kreise.
+Wo Gottes große Liebe
+In einen Menschen fällt,
+Da wirkt sie fort
+In Tat und Wort
+Hinaus in uns're Welt.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Ein Funke, kaum zu seh'n,
+Entfacht doch helle Flammen;
+Und die im Dunkeln steh'n,
+Die ruft der Schein zusammen.
+Wo Gottes große Liebe
+In einem Menschen brennt,
+Da wird die Welt
+Vom Licht erhellt;
+Da bleibt nichts,
+Was uns trennt.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Nimm Gottes Liebe an.
+Du brauchst dich nicht allein zu müh'n,
+Denn seine Liebe kann
+In deinem Leben Kreise zieh'n.
+Und füllt sie erst dein Leben,
+Und setzt sie dich in Brand,
+Gehst du hinaus,
+Teilst Liebe aus,
+Denn Gott füllt dir die Hand.</lines>
+    </verse>
+  </lyrics>
+</song>

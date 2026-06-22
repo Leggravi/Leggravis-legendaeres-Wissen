@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mögen sich die Wege vor deinen Füßen ebnen</title>
+    </titles>
+    <authors>
+      <author type="words">überliefert</author>
+      <author type="music">Günter Schwarze</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mögen sich die Wege vor deinen Füßen ebnen,
+mögest du den Wind im Rücken haben,
+und bis wir uns wieder sehn, und bis wir uns wieder sehn,
+möge Gott seine schützende Hand über dir halten.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Möge warm die Sonne auch dein Gesicht bescheinen,
+Regen sanft auf deine Felder fallen,
+und bis wir uns wieder sehn, und bis wir uns wieder sehn,
+möge Gott seine schützende Hand über dir halten.</lines>
+    </verse>
+  </lyrics>
+</song>

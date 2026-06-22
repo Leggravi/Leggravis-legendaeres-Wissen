@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Das sei alle meine Tage meine Sorg und meine Frage</title>
+    </titles>
+    <authors>
+      <author type="words">Friedrich August Tholuck</author>
+      <author type="music">Johann Georg Christian Störl</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Das sei alle meine Tage
+meine Sorge, meine Frage:
+ob der Herr in mir regiert?
+Ob ich in der Gnade bleibe?
+Ob ich zu dem Ziele gehe?
+Ob ich folge, wie Er führt?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ob ich sorglos nichts versäume?
+Nichts aus Lässigkeit verträume?
+Ob mein Herz sich nicht zerstreut?
+Ob mich jegliches Versehen,
+deren täglich viel geschehen,
+immer auch empfindlich reut?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ob mir Jesus alles werde?
+ob mich das Geräusch der Erde
+nie ums stille Seligsein
+im Genuss der Gnade bringe?
+Ob ich trachte, streb' und ringe,
+Jesus ähnlicher zu sein?</lines>
+    </verse>
+  </lyrics>
+</song>

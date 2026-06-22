@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>So You Would Come</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Before the world began
+You were on His mind
+And every tear you cry
+Is precious in His eyes
+Because of His great love
+He gave His only Son
+Everything was done
+So you would come</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nothing you can do
+Could make Him love you more
+And nothing that you've done
+Could make Him close the door
+Because of His great love
+He gave His only Son
+Everything was done
+So you would come</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come to the Father
+Though your gift is small
+Broken hearts, broken lives
+He will take them all
+The power of the Word
+The power of His blood
+Everything was done
+So you would come</lines>
+    </verse>
+  </lyrics>
+</song>

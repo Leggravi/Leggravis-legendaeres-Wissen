@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Eyes of Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Helen Howarth Lemmel</author>
+      <author type="music">Helen Howarth Lemmel</author>
+      <author type="translation">Schau vor allem auf Jesus</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sometimes it seems God′s a million miles away,
+Too busy for a creature such as I,
+And then I think of how He sees each sparrow fall
+I call on Him and find that He is nigh</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The eyes of Jesus are upon each footstep that I take
+His ears are always open when I pray
+His hands are always there to help me lift my heavy load
+His heart is broken every time I stray</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In valleys low, I look toward the mountains high
+And praise the Lord that caused this world to be
+To think that God so great will hold me safe within His arms
+What love that He should ever care for me?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>His heart is broken every time I stray</lines>
+    </verse>
+  </lyrics>
+</song>

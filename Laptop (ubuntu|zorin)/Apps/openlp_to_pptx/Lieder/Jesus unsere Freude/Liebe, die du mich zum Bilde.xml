@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:17">
+  <properties>
+    <titles>
+      <title>Liebe, die du mich zum Bilde</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Scheffler (1657)</author>
+      <author type="words">Angelus Silesius (1657)</author>
+      <author type="words">Frankfurt (1695)</author>
+      <author type="music">Johann Gottlieb Naumann</author>
+    </authors>
+    <ccliNo>5226269</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Liebe, die du mich zum Bilde
+deiner Gottheit hast gemacht,
+Liebe, die du mich so milde
+nach dem Fall hast wiederbracht:
+Liebe, dir ergeb ich mich,
+dein zu bleiben ewiglich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Liebe, die du mich erkoren,
+eh ich noch geschaffen war,
+Liebe, die du Mensch geboren
+und mir gleich wardst ganz und gar:
+Liebe, dir ergeb ich mich,
+dein zu bleiben ewiglich.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Liebe, die für mich gelitten
+und gestorben in der Zeit,
+Liebe, die mir hat erstritten
+ewge Lust und Seligkeit:
+Liebe, dir ergeb ich mich,
+dein zu bleiben ewiglich.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Liebe, die du Kraft und Leben,
+Licht und Wahrheit, Geist und Wort,
+Liebe, die sich ganz ergeben
+mir zum Heil und Seelenhort:
+Liebe, dir ergeb ich mich,
+dein zu bleiben ewiglich.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Liebe, die mich hat gebunden
+an ihr Joch mit Leib und Sinn,
+Liebe, die mich überwunden
+und mein Herz hat ganz dahin:
+Liebe, dir ergeb ich mich,
+dein zu bleiben ewiglich.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Liebe, die mich ewig liebet
+und für meine Seele bitt',
+Liebe, die das Lösgeld gibet
+und mich kräftiglich vertritt:
+Liebe, dir ergeb ich mich,
+dein zu bleiben ewiglich.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Liebe, die mich wird erwecken
+aus dem Grab der Sterblichkeit,
+Liebe, die mich wird umstecken
+mit dem Laub der Herrlichkeit:
+Liebe, dir ergeb ich mich,
+dein zu bleiben ewiglich.</lines>
+    </verse>
+  </lyrics>
+</song>

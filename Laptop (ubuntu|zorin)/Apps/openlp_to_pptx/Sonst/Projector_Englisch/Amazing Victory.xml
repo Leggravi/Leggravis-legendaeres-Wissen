@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Amazing Victory</title>
+    </titles>
+    <authors>
+      <author type="words">Mike Busbee</author>
+      <author type="music">Mike Busbee</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When you feel the world is going down
+Your hope and future dreams turn around</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Don’t lose your faith
+Stand up and praise
+Let your faith arise
+And see His mighty power</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Victory is Yours! Victory is Yours!
+His word and power will prevail His promises will never fail
+Walk with faith and not by sight Your Victory is coming through</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Declare His promises in you
+He’s faithful to do it for you
+You will see all glorious things Receive Amazing Victory</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nothing to fear, God’s there for you
+Nothing to fear, He’ll go with you Walk with faith and not by sight You’ll be victorious!</lines>
+    </verse>
+  </lyrics>
+</song>

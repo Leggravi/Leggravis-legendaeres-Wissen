@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:08">
+  <properties>
+    <titles>
+      <title>Ach mein Herr Jesu</title>
+    </titles>
+    <authors>
+      <author type="words">Christian Gregor (1767)</author>
+      <author type="music">Friedrich Ferdinand Flemming</author>
+    </authors>
+    <ccliNo>4939148</ccliNo>
+    <themes>
+      <theme>Dank</theme>
+      <theme>Gnade</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ach mein Herr Jesus, wenn ich dich nicht hätte,
+und wenn dein Blut nicht für die Sünder redt'e,
+wo sollt ich Ärmster unter den Elenden
+mich sonst hinwenden?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich wüsste nicht wo ich vor Jammer bliebe;
+denn wo ist solch ein Herz wie deins voll Liebe?
+Du; du bist meine Zuversicht alleine,
+sonst weiß ich keine!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich bin in Wahrheit eins der schlechtsten Wesen,
+das du dir lieber Heiland auserlesen,
+und was du tust, das sind Barmherzigkeiten
+auf allen Seiten.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hättst du dich nicht zuerst an mich gehangen,
+ich wär von selbst dich wohl nicht suchen gangen;
+drum sucht'st du mich und nahmst mich voll Erbarmen
+in deine Arme.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nun dank ich dir vom Grunde meiner Seelen,
+dass du nach deinem ewigen Erwählen
+auch mich zu deiner Blutgemeine brachtest
+und selig machtest.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hör niemals auf, dich so zu offenbaren,
+wie wir's bis an den heutgen Tag erfahren;
+verherrliche an uns, Herr, deinen Namen
+ohn Ende! Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

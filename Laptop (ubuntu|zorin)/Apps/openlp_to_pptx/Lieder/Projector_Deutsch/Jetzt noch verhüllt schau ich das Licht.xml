@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jetzt noch verhüllt schau ich das Licht</title>
+    </titles>
+    <authors>
+      <author type="words">Annie von Wethern-Viebahn</author>
+      <author type="music">William J. Kirkpatrick</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jetzt noch verhüllt schau ich das Licht
+von Jesu Gnadenangesicht,
+doch droben einst, nach kurzer Frist,
+werd ich ihn sehen, wie er ist.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Und dann wird alles offenbar,
+was mir verhüllt und dunkel war.
+Und jubelnd sing ich dort am Thron
+das Lied des Lammes, Gottes Sohn!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jetzt noch verhüllt erscheinen mir
+des Vaters Weg und Führung hier,
+doch droben werd ich deutlich schaun,
+wie gut es ist, ihm zu vertraun.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jetzt noch verhüllt und doch wie schön,
+im Glauben wartend aufwärts sehn,
+bis sich der Wolkenschleier teilt
+und unsre Seele zu ihm eilt.</lines>
+    </verse>
+  </lyrics>
+</song>

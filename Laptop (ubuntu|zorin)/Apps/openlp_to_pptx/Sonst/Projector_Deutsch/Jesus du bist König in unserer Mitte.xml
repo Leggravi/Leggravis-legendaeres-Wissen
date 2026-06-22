@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, du bist König in unserer Mitte</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, du bist König in unserer Mitte
+Du regierst durch deinen Geist
+Du hast deine Feinde überwunden
+nun sitzt du auf deinem Thron</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist König,
+König aller Ewigkeit
+Du bist König,
+von ganzem Herzen beten wir dich an</lines>
+    </verse>
+  </lyrics>
+</song>

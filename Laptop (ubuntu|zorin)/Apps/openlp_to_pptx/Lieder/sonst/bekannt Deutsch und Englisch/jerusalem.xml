@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 9, 2024, 7:31:14 PM">
+  <properties>
+    <titles>
+      <title>Jerusalem</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2 V5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>John saw a city that could not be hidden,
+John saw the city, oh yes he did,
+John caught a glimpse of the golden throne,
+Tell me all about it, go right on,
+Around the throne he saw the crystal sea,
+There's got to be more, what will it be,
+I want to go to that city he saw
+New Jerusalem.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Jerusalem,
+I want to walk your streets that are golden,
+And I want to run where the angels have trod,
+Jerusalem,
+I want to rest on the banks of your river,
+In that city, the city of God.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>John saw the lion lay down by the lamb,
+I want to know everything about that land,
+John saw the day but he did not see night,
+The lamb of God well, he must be the light,
+And he saw the saints worship the great I am,
+Crying worthy, worthy is the lamb,
+I want to go to that city he saw
+New Jerusalem.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Jerusalem, Jerusalem,
+Sing for the night is over,
+Hosanna in the highest,
+Hosanna forever,
+Forever more.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>The city of God,
+Jerusalem, Jerusalem,
+The city of God, is the city of God.</lines>
+    </verse>
+  </lyrics>
+</song>

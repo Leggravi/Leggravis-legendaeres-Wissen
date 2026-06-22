@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Näher zu dir</title>
+    </titles>
+    <authors>
+      <author type="words">Samuel Harfst</author>
+      <author type="music">Samuel Harfst</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Man sagt, du wohnst auf hohen Bergen
+Man sagt, du thronst weit überm Meer
+Man sucht nach dir dort bei den Sternen
+Doch du wohnst nicht weg von hier</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wir zieh'n zu dir auf vielen Straßen
+Aus Nord und Süd, Ost und West
+Es ist nicht weit zu deinen Kammern
+Weil du dich von uns finden lässt</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Näher, näher zu dir, näher mein Gott zu dir
+Näher, näher zu dir, näher mein Gott zu dir</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Von vorn und von hinten fest umschlossen
+Hast du die Hand auf mich gelegt
+Das Öl der Heilung ausgegossen
+Und Ewigkeit ins Herz gesät</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Du hast die Augen eines Vaters
+Die Sehnsucht lässt mich nicht mehr gehn
+Wie könnt ich jemals von dir lassen
+Und dein Gesicht nicht vor mir sehn</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Näher, näher zu dir, näher mein Gott zu dir
+Näher, näher zu dir, näher mein Gott zu dir</lines>
+    </verse>
+  </lyrics>
+</song>

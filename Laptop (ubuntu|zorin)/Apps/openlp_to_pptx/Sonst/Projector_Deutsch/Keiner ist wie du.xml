@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Keiner ist wie du</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Hans Jochen Fröhlich</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Keiner ist wie du!
+Niemand sonst berührt mein Herz so wie du.
+Wo auch immer ich noch suchte, o Herr,
+es bleibt:
+Keiner ist wie du!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Erbarmen fließt wie ein weiter Strom,
+und Heilung strömt aus deiner Hand.
+Kinder mit Wunden
+sind sicher bei dir.
+Keiner ist wie du!</lines>
+    </verse>
+  </lyrics>
+</song>

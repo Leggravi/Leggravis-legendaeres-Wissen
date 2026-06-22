@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Is anything too hard for God?</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's out of your hands
+You've done all you can do
+You've given God the problem
+It's no longer up to you
+You've prayed the prayer of faith
+You're standing on God's truth
+While you're waiting on the answer
+He has a question for you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Is anything too hard for God?
+Who's got a problem, beyond His power to solve?
+Are there situations He's not the master of?
+Is anything too hard for god?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Only believe trust His word
+You'll see, his plans
+Are now unfolding performing perfectly
+It's clear how much He loves you
+Look at all He's done
+For all your questions there's really only me</lines>
+    </verse>
+  </lyrics>
+</song>

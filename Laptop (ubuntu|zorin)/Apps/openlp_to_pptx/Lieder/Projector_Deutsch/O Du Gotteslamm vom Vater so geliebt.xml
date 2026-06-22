@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Du Gotteslamm, vom Vater so geliebt</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Du Gotteslamm, vom Vater so geliebt,
+das sich für die Schuld der Welt zum Sühneopfer gibt:
+Erbarme dich unser, erbarme dich unser,
+erbarme dich unser, o Herr.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Du Gotteslamm, vom Vater so geliebt,
+das sich für die Schuld der Welt zum Brot des Lebens gibt:
+Erbarme Dich unser, erbarme Dich unsere,
+erbarme Dich unser o Herr.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Du Gotteslamm, vom Vater so geliebt,
+das sich für die Schuld der Welt zum Kelch des Heiles gibt:
+Gib uns Deinen Frieden, gib uns Deine Frieden,
+gib uns Deinen Frieden, o Herr!</lines>
+    </verse>
+  </lyrics>
+</song>

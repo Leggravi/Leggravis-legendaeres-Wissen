@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Worship The Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Al Gordon</author>
+      <author type="music">Al Gordon</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Worship the Lord,
+In His presence we stand.
+He cares for you
+And He understands.
+Come Holy Spirit
+And speak to us now,
+Grace, joy and peace
+And love abound.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He is Worthy,
+Worthy, Worthy,
+Worthy is the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He is Mighty,
+Mighty, Mighty,
+Mighty is the Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He is Holy,
+Holy, Holy,
+Holy is the Lord.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He is Faithful,
+Faithful, Faithful,
+Faithful is the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

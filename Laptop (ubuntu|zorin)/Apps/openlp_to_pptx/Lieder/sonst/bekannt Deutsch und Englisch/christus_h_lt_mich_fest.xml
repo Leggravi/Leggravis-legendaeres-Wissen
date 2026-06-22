@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="May 17, 2020, 1:21:24 PM">
+  <properties>
+    <titles>
+      <title>Christus hält mich fest</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Wenn mein Glaube schwinden will,
+Hält mich Christus fest.
+Satans List wird mir zu viel,
+Christus hält mich fest.
+Alleine kann ich nicht bestehn
+Auf dem Lebensweg.
+Alleine müsste ich vergehn,
+Christus hält mich fest.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Christus hält mich fest.
+Christus hält mich fest.
+Mein Erlöser liebt mich sehr,
+Christus hält mich fest.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Jesus nimmt den Sünder an;
+Christus hält mich fest.
+Keine Macht mich trennen kann;
+Christus hält mich fest.
+Meine Seele bleibt bewahrt,
+Sein Versprechen gilt.
+Denn er hat den Preis bezahlt;
+Christus hält mich fest.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Für mich ging er in den Tod;
+Christus hält mich fest.
+Jetzt steh ich gerecht vor Gott;
+Christus hält mich fest.
+Mit ihm werd ich auferstehn;
+Christus hält mich fest.
+Ihn mit eignen Augen sehn,
+Wenn er wiederkommt.</lines>
+    </verse>
+  </lyrics>
+</song>

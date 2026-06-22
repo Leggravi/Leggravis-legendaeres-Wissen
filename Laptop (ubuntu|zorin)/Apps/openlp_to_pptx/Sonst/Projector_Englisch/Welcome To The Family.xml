@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Welcome To The Family</title>
+    </titles>
+    <authors>
+      <author type="words">Debby Kerner Rettino</author>
+      <author type="music">Debby Kerner Rettino</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Welcome to the family
+We're glad that you have come
+To share your life with us
+As we grow in love and
+May we always be to you
+What God would have us be
+A family always there
+To be strong and to lean on</lines>
+    </verse>
+    <verse name="v2">
+      <lines>May we learn to love each other
+More with each new day
+May words of love be on our lips
+In everything we say
+May the Spirit melt our hearts
+And teach us how to pray
+That we might be a true family</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Welcome to the family
+We're glad that you have come
+To share your life with us
+As we grow in love and
+May we always be to you
+What God would have us be
+A family always there
+To be strong and to lean on</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To be strong and to lean on
+To be strong and to lean on</lines>
+    </verse>
+  </lyrics>
+</song>

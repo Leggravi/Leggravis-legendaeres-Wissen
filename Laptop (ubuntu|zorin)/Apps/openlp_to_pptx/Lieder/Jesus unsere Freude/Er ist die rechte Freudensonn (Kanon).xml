@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:32">
+  <properties>
+    <titles>
+      <title>Er ist die rechte Freudensonn (Kanon)</title>
+    </titles>
+    <authors>
+      <author type="words">Georg Weissel (1623)</author>
+      <author type="music">Paul Ernst Ruppel</author>
+    </authors>
+    <ccliNo>4929646</ccliNo>
+    <themes>
+      <theme>Advent</theme>
+      <theme>Kanon</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Er ist die rechte Freudensonn,
+bringt mit sich lauter Freud und Wonn.
+Gelobet sei mein Gott!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All unsre Not zum End er bringt,
+derhalben jauchzt, mit Freuden singt:
+Gelobet sei mein Gott!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dein Heilger Geist uns führ und leit
+den Weg zur ewgen Seligkeit.
+Gelobet sei mein Gott!</lines>
+    </verse>
+  </lyrics>
+</song>

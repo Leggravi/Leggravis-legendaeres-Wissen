@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Do You Know Grace</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was down as low as one could go,
+I had no strength of my own;
+Everything I worked for all my life,
+Everything I loved was gone;
+The lowest valley of my life.
+I was flat on my face,
+But then the great hand of Jesus
+Reached down and picked me up,
+Oh yes! I know grace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Do you know grace,
+Amazing grace?
+Have you heard how sweet the sound?
+There are many dangers, toils and snares,
+We’ve already come,
+Look where you came from
+And where you are,
+And I’ll ask you, “Do you know grace? ”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When it comes time for Him to take His Bride,
+To that evergreen shore,
+And He chooses you and I
+To live in that land forever more;
+When we’ve been there ten thousand years,
+And you see me in that place,
+Oh! you could ask me this question again,
+I’ll say, “Yes! I remember grace. ”</lines>
+    </verse>
+  </lyrics>
+</song>

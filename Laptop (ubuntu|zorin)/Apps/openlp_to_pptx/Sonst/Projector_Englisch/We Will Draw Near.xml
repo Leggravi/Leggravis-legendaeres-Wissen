@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Will Draw Near</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We will darw near to You,
+Jesus, we hear You calling.
+There is no fear
+There in Your perfect love.
+We will draw near to You
+Knowing that as we do
+You will draw near,
+You will draw near to us.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We want to be like Mary
+Who found the better part.
+We want to be like John
+Who laid his head upon Your heart.
+We are not content
+To worship from afar,
+Draw us near to Your heart,
+ Oh God.
+(You will draw near,
+You will draw near to us.)</lines>
+    </verse>
+  </lyrics>
+</song>

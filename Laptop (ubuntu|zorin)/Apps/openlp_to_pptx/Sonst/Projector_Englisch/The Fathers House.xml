@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Father's House</title>
+    </titles>
+    <authors>
+      <author type="words">Arne Kopfermann</author>
+      <author type="music">Arne Kopfermann</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6 v2 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sometimes on this journey
+I get lost in my mistakes
+What looks to me like weakness
+Is a canvas for Your strength
+And my story isn't over
+My story's just begun
+And failure won't define me
+'Cause that's what my Father does
+Yeah, failure won't define me
+'Cause that's what my Father does</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ooh, lay your burdens down
+Ooh, here in the Father's house
+Check your shame at the door
+'Cause it ain't welcome anymore
+Ooh, you're in the Father's house</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Arrival's not the end game
+The journey's where you are
+You never wanted perfect
+You just wanted my heart
+And the story isn't over
+If the story isn't good
+And failure's never final
+When the Father's in the room
+And failure's never final
+When the Father's in the room</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yeah, you're in the Father's house
+Yeah, yeah</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Prodigals come home
+The helpless find hope
+Love is on the move
+When the Father's in the room
+Prison doors fling wide
+The dead come to life
+Love is on the move
+When the Father's in the room
+Miracles take place
+The cynical find faith
+And love is breaking through
+When the Father's in the room</lines>
+    </verse>
+    <verse name="v6">
+      <lines>The Jericho walls are quaking
+Strongholds now are shaking
+Love is breaking through
+When the Father's in the room
+I said, love is breaking through
+When the Father's in the room</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Yeah, lay your burdens down
+Ooh, here in the Father's house
+Check your shame at the door
+(Check your shame at the door) (welcome anymore)
+Ooh, you're in the Father's house</lines>
+    </verse>
+  </lyrics>
+</song>

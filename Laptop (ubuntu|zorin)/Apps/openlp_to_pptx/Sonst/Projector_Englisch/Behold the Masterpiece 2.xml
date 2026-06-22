@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Behold the Masterpiece (2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have looked at the picture
+for so long
+But that painted fire
+Could never keep me warm
+Until the Holy Spirit came
+Ang gave new sight
+Then what so long
+Had been a picture
+So newly came alive</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Behold the Masterpiece,
+Unveiled in the end;
+Almighty God Himself
+Dwelling in flesh again
+She's marching up,
+in step, in line;
+Behold the Word,
+Behold the Bride.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hewn of earth
+And before the Master laid
+To become the vision
+He had foreordained
+And as time chipped off
+the part He did not need
+She became so much like Him
+He cried, &quot;Speak!&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

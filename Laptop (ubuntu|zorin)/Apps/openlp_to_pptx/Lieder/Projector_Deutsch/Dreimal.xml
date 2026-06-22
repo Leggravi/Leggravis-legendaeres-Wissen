@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dreimal</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Werd ich dir folgen, was auch geschieht?
+Werd ich dir treu sein, wenn keiner mich sieht?
+Kann ich mein Kreuz tragen, den schmalen Weg gehn?
+Und mich selbst verleugnen, dem Stolz widerstehen?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dreimal werde ich schwach,
+dreimal leugne ich dich,
+dreimal fragst du mich nur
+'Liebst du mich? '</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du weißt alles Herr,
+du weißt, das ich dich liebe,
+selbst wenn alles fällt,
+so weiß ich doch ich bliebe,
+in deiner Liebe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Werd ich dir folgen, ans Ende der Welt?
+Alles verlassen, was mich noch hält?
+Werd ich im Kampf bis zum Ende bestehen?
+Die Hände am Pflug und nicht mehr rückwärts sehn?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dreimal werde ich schwach,
+dreimal leugne ich dich,
+dreimal fragst du mich nur
+'Liebst du mich? '</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Du weißt alles Herr,
+du weißt, das ich dich liebe,
+selbst wenn alles fällt,
+so weiß ich doch ich bliebe,
+in deiner Liebe.</lines>
+    </verse>
+  </lyrics>
+</song>

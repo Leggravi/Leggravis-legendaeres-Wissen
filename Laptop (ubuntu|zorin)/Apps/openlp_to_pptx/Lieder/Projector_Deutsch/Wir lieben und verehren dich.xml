@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wir lieben und verehren dich</title>
+    </titles>
+    <authors>
+      <author type="words">Gitta Leuschner</author>
+      <author type="music">Gee Baas</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: Wir lieben und verehren dich, Christus, unser König :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: Und wir folgen dir zusammen, :/
+Christus unser König.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/: Und wir geben dir die Ehre, :/
+Christus unser König</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/: Und wir geben unser Leben, :/
+Christus unserm König.</lines>
+    </verse>
+  </lyrics>
+</song>

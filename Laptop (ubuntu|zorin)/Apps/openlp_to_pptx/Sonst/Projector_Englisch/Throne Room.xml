@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Throne Room</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v3 v4 v5 v8 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dream after dream,
+You are speaking to me,
+Breathing, word after word,
+Of kingdom come.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here at Your feet,
+I can see the unseen,
+Truly, one look at You,
+And I'm undone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I run to, the Throne Room,
+I run to, the Throne Room.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And I fall on my face
+With angels and saints,
+And all I can say is
+Holy, Holy, Holy Are You God.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My heart can't contain,
+The weight of Your Name,
+And all I can say is,
+Holy, Holy, Holy Are You.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Grace upon grace,
+All my, fear falls away,
+Only, Your perfect love,
+For me remains.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Time after time,
+You stay, close by my side,
+Burning, fire inside,
+I can't contain.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>I run to the Throne Room
+Before You, the only One,
+I run to the Throne Room
+Before You, I'm overcome,
+I run to the Throne Room
+Before You, the only One,
+I run to the Throne Room
+Before You, I'm overcome.</lines>
+    </verse>
+  </lyrics>
+</song>

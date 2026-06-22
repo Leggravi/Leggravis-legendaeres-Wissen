@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Blesser of Blessings</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, You multiplied some fish and some bread
+What a miracle the multitude was fed
+We want to be blessed like that little lad
+When He came to You and gave all he had.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, You are the Blesser of blessings
+Lord, You are the Giver of all gifts
+Lord, You are our Jehovah Jireh and
+You will supply all our needs</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From ages and time so many will say,
+You are faithful Lord to your people everyday
+You said if we knock,
+You will open the door
+If we seek we'll find your riches and more.</lines>
+    </verse>
+  </lyrics>
+</song>

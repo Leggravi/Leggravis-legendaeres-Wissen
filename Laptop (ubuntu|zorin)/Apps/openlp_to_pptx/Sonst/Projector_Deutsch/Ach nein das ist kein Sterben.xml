@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ach nein, das ist kein Sterben</title>
+    </titles>
+    <authors>
+      <author type="words">Hedwig von Redern</author>
+      <author type="music">Melchior Vulpius</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ach nein, das ist kein Sterben,
+wenn Christen heimwärts geh'n,
+es ist nur ein Verwandeln
+vom Glauben in das Sehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Es ist ein Aufwärtsschwingen
+dahin, wo sie zu Haus,
+von Fremdlingschaft zur Freiheit,
+zur Ruh vom Weltgebraus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sie gehn vom Erdendunkel
+ins helle, schöne Licht;
+sie tauschen Kreuz mit Krone
+vor Jesu Angesicht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ach nein, das ist kein Sterben,
+Es ist Triumph und Glück!
+Drum lasst sie uns nicht halten,
+Nicht sehnen sie zurück.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sie sind vorangegangen,
+wir bleiben draußen stehn,
+es ist nur um ein Kleines,
+dann kommt ein Wiedersehen.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Das Perlentor bleibt offen,
+bis Gott spricht: Nun ist's Zeit!
+Und unser harrend Hoffen,
+wird Schau'n und Seligkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

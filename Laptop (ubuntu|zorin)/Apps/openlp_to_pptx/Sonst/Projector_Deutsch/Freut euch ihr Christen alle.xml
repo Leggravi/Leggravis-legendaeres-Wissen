@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Freut euch, ihr Christen alle</title>
+    </titles>
+    <authors>
+      <author type="words">Ernst Heinrich Gebhardt</author>
+      <author type="music">Franz Wilhelm Abt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1) Freut euch, ihr Christen alle,
+Gott schenkt uns seinen Sohn;
+lobt ihn mit großem Schalle,
+er sendet auch vom Thron
+des Himmels seinen Geist,
+der uns durchs Wort recht lehret,
+des Glaubens Licht vermehret
+und uns auf Christus weist.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2) Er lässet offenbaren
+als unser höchster Hort
+uns, die wir Toren waren,
+das himmlisch Gnadenwort.
+Wie groß ist seine Güt!
+Nun können wir ihn kennen
+und unsern Vater nennen,
+der uns allzeit behüt’.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3) Verleih, dass wir dich lieben,
+o Gott von großer Huld,
+durch Sünd dich nicht betrüben,
+vergib uns unsre Schuld,
+führ uns auf ebner Bahn,
+hilf, dass wir dein Wort hören
+und tun nach deinen Lehren:
+das ist recht wohlgetan.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4) Von oben her uns sende
+den Geist, den edlen Gast;
+der stärket uns behände,
+wenn uns drückt Kreuzeslast.
+Tröst uns in Todespein,
+mach auf die Himmelstüre,
+uns miteinander führe
+zu deinem Freudenschein!</lines>
+    </verse>
+  </lyrics>
+</song>

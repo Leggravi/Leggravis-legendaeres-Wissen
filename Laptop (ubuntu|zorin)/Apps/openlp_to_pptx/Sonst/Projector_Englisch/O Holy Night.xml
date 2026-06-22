@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Holy Night</title>
+    </titles>
+    <authors>
+      <author type="words">Placide Cappeau</author>
+      <author type="music">Adolphe Adam</author>
+      <author type="translation">Heilige Nacht, in der der Herr geboren</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O holy night! The stars are brightly shining,
+It is the night of the our Saviour's birth.
+Long lay the world in sin and error pining.
+'Til He appeared and the Spirit felt its worth.
+A thrill of hope the weary world rejoices,
+For yonder breaks a new and glorious morn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fall on your knees! O hear the angel voices!
+O night divine, O night when Christ was born.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Truly He taught us to love one another,
+His law is love and His gospel is peace.
+Chains he shall break, for the slave is our brother.
+And in His name all oppression shall cease.
+Sweet hymns of joy in grateful chorus raise we,
+Let all within us praise His holy name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Christ is the Lord! O Praise His name forever.
+His power and glory ever more proclaim!
+O night divine, O night when Christ was born.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fall on your knees! O hear the angels' voices!
+O night divine, O night when Christ was born.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Christ is the Lord! O Praise His name forever.
+His power and glory ever more proclaim!
+O night divine, O night when Christ was born.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let’s Talk About Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Herbert Buffum</author>
+      <author type="music">Herbert Buffum</author>
+      <author type="translation">Wir singen von Jesus</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let’s talk about Jesus.
+The King of kings is He,
+The Lord of lords, Supreme
+Throughout Eternity;
+The great I AM, the Way,
+The Truth, the Life, the Door;
+Let’s talk about Jesus
+More and more.</lines>
+    </verse>
+  </lyrics>
+</song>

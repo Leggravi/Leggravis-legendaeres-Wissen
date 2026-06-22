@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>They Can’t Crown My Saviour</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I may not have fortune,
+I may net have fame
+But when He opens His Book,
+He will find my name,
+And perhaps my neighbour,
+will meet me there,
+But they can’t crown my Jesus,
+until I get there.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>chorus
+On the coronation day,
+in that land far away
+The marriage supper with the angels
+we will share
+But there’s one
+thing am sure
+That I know they can’t do,
+They can’t crown my Saviour
+until I get there.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You may be very rich,
+or you may be poor
+You may have to eat
+at the rich man’s door
+But remember some day,
+heavens glory we’ll share
+But they can’t crown Jesus,
+until I get there.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God is Here (Let the broken)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In Your presence, there is fullness of life
+And healing flowing, for body soul and mind
+God of miracles, God of the impossible is here
+God is here</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God is here
+Let the broken hearted rejoice
+(Lift up your head)
+God is here
+Let the sick say I am well
+(All sufficient One)
+God is here
+Let the weak say I am strong (let the weak say I am strong)
+God is here
+His wonders to perform</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich komm zu dir Jesus (Lobpreis Medley 1)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich komm zu dir Jesus mit Singen, Halleluja.
+Ich komm an den Thron der Gnade, Halleluja.
+Dort schenkst du mir dein Erbarmen, Halleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Höher, höher, jeden Tag.
+Höher, höher, jeden Tag.
+Herrlichkeit und Ehr', das bring ich dir,
+Herrlichkeit und Ehr', du bist der große Gott.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I come to you singing Jesus. Alleluja.
+to the throne of grace. Alleluja
+You give me your mercy there. Alleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Higher, higher every day.
+Higher, higher every day.
+Glory and honor, i'll you that.
+Glory and honor, you are the great God.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In Your Presence, Such Joy</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In Your presence,
+There is fullness of joy;
+At Your right hand,
+There are pleasures evermore;
+You surround us with Your favor, O Lord;
+The earth is full of Your goodness;
+The earth is filled with Your Love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Exceedingly, abundantly,
+Far above all we could ever ask or think;
+Exceedingly, abundantly,
+You give us all things to enjoy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The earth is full of Your glory;
+The earth is filled with Your Love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Such joy,
+Such unspeakable joy,
+Such peace and everlasting peace
+Such love, pure and holy love
+Spirit have Your way in me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There's a peace that floods my soul,
+When the Spirit of the Lord is in control;
+And there's a joy, no bounds can hold,
+When the Spirit blows a fresh wind
+through my soul.
+Holy Spirit flow through me
+Touch my heart and there will,
+There will be</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Nov 15, 2020, 6:14:18 PM">
+  <properties>
+    <titles>
+      <title>So bist nur du</title>
+    </titles>
+    <verseOrder>V1 V2 C3 V4 C3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Wasser wird Wein, Blinde sehn,
+Brot wird vermehrt, Lahme gehn.
+So bist nur du, Herr, du allein.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Licht scheint in dunkelste Nacht,
+Armen wird Hoffnung gebracht.
+So bist nur du, Herr, du allein.</lines>
+    </verse>
+    <verse name="C3">
+      <lines>Gott, du bist größer, Gott, du bist stärker,
+Gott, du stehst höher als alles andre.
+Gott, unser Heiler, starker Befreier,
+so bist nur du.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Und steht uns Gott zur Seite,
+was kann uns jemals hindern?
+Und steht uns Gott zur Seite,
+wer kann uns widerstehn?
+Und steht uns Gott zur Seite,
+was kann uns jemals hindern?
+Und steht uns Gott zur Seite,
+wer kann uns widerstehn,
+wer kann uns widerstehn?</lines>
+    </verse>
+  </lyrics>
+</song>

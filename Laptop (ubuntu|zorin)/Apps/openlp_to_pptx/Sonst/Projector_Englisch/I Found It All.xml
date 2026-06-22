@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Found It All</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I thought it might be in my name
+ a shining legacy
+I thought it might be in a goal
+ for success to follow me
+I thought it might be in a plan
+ to sail across the seas
+But I didn't find what I really need</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I found it all when I lost everything
+And gave my life to serve a risen king
+I found the truth that I'd been searching for
+I found it all when I found the Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm letting go of all my ways
+ I think are best for me
+I'm laying down all my ideas
+of what I think my life should be
+I'm leaving everything
+ I am right at Jesus' feet
+For it's here I find everything I need</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I found the truth that I'd been searching for
+I found it all when I found the Lord
+I found it all</lines>
+    </verse>
+  </lyrics>
+</song>

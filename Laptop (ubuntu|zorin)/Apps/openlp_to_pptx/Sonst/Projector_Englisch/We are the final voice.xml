@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We are the final voice</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We've lingered on this mountain for too long
+Let's walk worthy of the calling,
+Take our position in God's word
+Under Joshua commission,
+adopted sons in the Ephesians
+So take up on the armor of God
+O little eagles, we're now led by the Dove.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are the final voice,
+Mighty Gentile warriors
+From dust to stars, chosen ones
+In His image we will stand.
+For we are She and She is Him,
+riding this trail again
+The culmination of the Book of Acts
+In the second ride, we are the revival.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The prophet had a vision
+Standing in the sun
+&quot;When the evening shadows fall
+You'll be back again
+Will there be another revival,
+Will I see another time?
+From the West will come the White Horse rider I will ride this trail again.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When the enemy comes in like a flood
+Fills our mind with fear and doubt
+We'll stand undefiled, our robes pure and white
+The Lord has risen up a standard!</lines>
+    </verse>
+  </lyrics>
+</song>

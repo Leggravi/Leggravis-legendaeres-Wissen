@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There Is No Mountain</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've been on the mountain and the valley so low
+And it seems I'd never had a place to go
+Then I meet Jesus, now he is mine
+Now there's no mountain that we can't climb.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is no mountain that we can’t climb
+When I say we, I mean Jesus and I
+‘cause I have Jesus, I need not worry
+There is no mountain we cannot climb.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I was in despair and trouble beseech me
+Tears filled my eyes and I could not see
+But I trusted Jesus and his love divine
+There is no mountain that we can't climb.</lines>
+    </verse>
+  </lyrics>
+</song>

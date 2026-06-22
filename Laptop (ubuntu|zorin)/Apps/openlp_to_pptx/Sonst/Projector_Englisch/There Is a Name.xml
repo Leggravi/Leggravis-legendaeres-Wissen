@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There Is a Name</title>
+    </titles>
+    <authors>
+      <author type="words">Becky Drake</author>
+      <author type="music">Becky Drake</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v1 v2 v4 v5 v6 v7 v6 v7 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a name
+Sinless, pure and just
+Righteous Son of God
+In You we place our trust</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is a name
+Precious lamb of God
+Mighty One and Holy
+His Name is Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Heaven's proclaim
+His righteousness</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your Name is power, Jesus!
+You're worthy, Jesus!
+Glory to the highest!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You are our Saviour, Jesus!
+Redeemer, Jesus!
+Glory to the highest!
+We sing glory to the highest!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You are mighty to save
+You have conquered the grave
+You are greater above all names</lines>
+    </verse>
+    <verse name="v7">
+      <lines>You are Lord of Lords
+You are King of all kings
+You are greater above all names</lines>
+    </verse>
+  </lyrics>
+</song>

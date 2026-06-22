@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="May 11, 2021, 6:17:09 PM">
+  <properties>
+    <titles>
+      <title>You Are My Hiding Place</title>
+    </titles>
+    <verseOrder>V1 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>You are my hiding place
+You always fill my heart
+With songs of deliverance
+Whenever I am afraid
+I will trust in You</lines>
+    </verse>
+    <verse name="C2">
+      <lines>I will trust in You
+Let the weak say
+I am strong
+In the strength of the Lord
+I will trust in You.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>One of These Mornings</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sometimes when I see the sun
+rising, I am so surprised that I'm still here.
+I just can′t wait to wake up in heaven,
+and I know that day, that day is very near.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm going, one of these mornings to a land with never a night,
+oh yes I'm going,
+one of these mornings, Wear the robe of spotless White.
+One of these mornings I′ll be flying high,
+one of these mornings I'm going to say goodbye</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sometimes when I see the sun rising,
+I am so surprised that I'm still here.
+I just can′t wait to wake up in heaven,
+and I know that day, that day is very near.</lines>
+    </verse>
+  </lyrics>
+</song>

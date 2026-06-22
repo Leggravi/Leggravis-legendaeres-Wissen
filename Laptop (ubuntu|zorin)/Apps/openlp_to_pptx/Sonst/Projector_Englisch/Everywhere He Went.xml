@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Everywhere He Went</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Everywhere He went
+He was doing good,
+He gave beatitudes,
+fed the multitude-
+Everywhere He could;
+When the crippled saw Him,
+They started walking;
+The dumb were talking as they should
+Everywhere He went,
+my Lord was doing good.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus opened blind eyes,
+He heard the faint cry,
+He raised the dead and calmed
+the sea;
+Jesus mighty helper,
+He cleansed the lepers,
+And set the captive spirit free.
+Though the world denied Him,
+They crucified Him,
+Still He abides with us today,
+And His mighty power
+Is just the same today.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Well, I've been reading,
+And I’ve been feeding
+Upon that blessed Word of God -
+Marvellous the Story,
+So full of glory
+It tells the path that Jesus trod;
+He was man’s deliverer,
+A sin forgiver, and every problem
+Understood:
+Everywhere He Went,
+My Lord Was doing good.</lines>
+    </verse>
+  </lyrics>
+</song>

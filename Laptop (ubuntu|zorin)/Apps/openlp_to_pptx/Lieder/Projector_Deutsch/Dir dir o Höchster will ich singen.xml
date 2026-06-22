@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dir, dir, o Höchster will ich singen</title>
+    </titles>
+    <authors>
+      <author type="words">Bartholomäus Crasselius</author>
+      <author type="music">Hamburg</author>
+      <author type="translation">Almighty God, let me adore you</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dir, dir, o Höchster, will ich singen,
+denn wo ist doch ein solcher Gott wie du?
+Dir will ich meine Lieder bringen;
+ach gib mir deines Geistes Kraft dazu,
+daß ich es tu im Namen Jesu Christ,
+so wie es dir durch ihn gefällig ist.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zieh mich, o Vater, zu dem Sohne,
+damit dein Sohn mich wieder zieh zu dir;
+dein Geist in meinem Herzen wohne
+und meine Sinne und Verstand regier,
+dass ich den Frieden Gottes schmeck und fühl
+und dir darum im Herzen sing und spiel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verleih mir, Höchster, solche Güte,
+so wird gewiss mein Singen recht getan;
+so klingt es schön in meinem Liede,
+und ich bet dich in Geist und Wahrheit an.
+So hebt dein Geist mein Herz zu dir empor,
+dass ich dir Psalmen sing im höhren Chor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Denn der kann mich bei dir vertreten
+mit Seufzern, die ganz unaussprechlich sind;
+der lehret mich recht gläubig beten,
+gibt Zeugnis meinem Geist, daß ich dein Kind
+und ein Miterbe Jesu Christi sei,
+daher ich »Abba, lieber Vater! « schrei.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Was mich dein Geist selbst bitten lehret,
+das ist nach deinem Willen eingericht'
+und wird gewiss von dir erhöret,
+weil es im Namen deines Sohns geschicht,
+durch welchen ich dein Kind und Erbe bin
+und nehme von dir Gnad um Gnade hin.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wohl mir, daß ich dies Zeugnis habe!
+Drum bin ich voller Trost und Freudigkeit
+und weiß, daß alle gute Gabe,
+die ich von dir verlanget jederzeit,
+die gibst du und tust überschwenglich mehr,
+als ich verstehe, bitte und begehr.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Wohl mir, ich bitt in Jesu Namen,
+der mich zu deiner Rechten selbst vertritt,
+in ihm ist alles Ja und Amen,
+was ich von dir im Geist und Glauben bitt.
+Wohl mir, Lob dir jetzt und in Ewigkeit,
+dass du mir schenkest solche Seligkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

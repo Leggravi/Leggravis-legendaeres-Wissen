@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 15, 2019, 6:32:42 PM">
+  <properties>
+    <titles>
+      <title>Oh How I Love Jesus</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2 V5 C2 V6 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>There is a name I love to hear,
+I love to sing its worth;
+It sounds like music in mine ear,
+The sweetest name on earth.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Oh how I love Jesus,
+Oh how I love Jesus,
+Oh how I love Jesus,
+Because He first loved me.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>It tells me of a Savior's love,
+Who died to set me free;
+It tells me of His precious blood;
+The sinner's perfect plea.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>It tells me what my Father hath
+In store for every day,
+And though I tread a darksome path,
+Yields sunshine all the way.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>It tells of One whose loving heart
+Can feel my deepest woe,
+Who in each sorrow bears a part,
+That none can bear below.</lines>
+    </verse>
+    <verse name="V6">
+      <lines>To me, You are so wonderful,
+To me, You are so wonderful,
+To me, You are so wonderful,
+Because You first loved me.</lines>
+    </verse>
+  </lyrics>
+</song>

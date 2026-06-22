@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Paid in Full (I've Done the Work I Came to Do)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>See our Savior hung between two thieves.
+Hear the soldiers mock His name.
+See His followers as they cry in disbelief,
+This could not be the reason why He came.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>See Him realize His life is through.
+And see the love burn from His eyes.
+Behold the temple veil as it is torn in two.
+And hear the One on Calvary as He cries</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Paid in full, I've done the work I came to do.
+Paid in full, I've paid love's final price for you.
+When all hell tries to tell you that you'll never win,
+Just remember that the debt for your sin is paid in full.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>See His children torn between two ways.
+Some still choose to mock His Name.
+Hear His followers now as they can boldly say,
+We are the reason that He came.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>See the ones who trust themselves alone,
+To do what only Christ can do.
+Through Jesus' blood alone we may approach the Father's throne,
+And hear the words that He still calls to you</lines>
+    </verse>
+  </lyrics>
+</song>

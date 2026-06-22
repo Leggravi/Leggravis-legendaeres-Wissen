@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All the Way</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All the way, I'm going all the way,
+All the way, I'm going all the way,
+All the way, I'm going all the way,
+I'm going all the way with the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've made my choice, I'm going all the way,
+I've made my choice, I'm going all the way,
+I've made my choice, I'm going all the way,
+I'm going all the way with the lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I've made my decision, I'm going all the way,
+I've made my decision, I'm going all the way,
+I've made my decision, I'm going all the way,
+I'm going all the way with the Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No turning back, I'm going all the way,
+No turning back, I'm going all the way,
+No turning back, I'm going all the way,
+I'm going all the way with the Lord.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I've draw the line I'm going all the way,
+I've draw the line I'm going all the way,
+I've draw the line I'm going all the way,
+I'm going all the way with the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

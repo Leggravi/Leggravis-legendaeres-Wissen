@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Old Fashioned Meeting</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, how well I remember
+in the old-fashioned days,
+When some old-fashioned
+people had
+some old-fashioned ways;
+In the old-fashioned meetings,
+as they tarried there,
+In the old-fashioned manner,
+How God answered their prayer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Twas an old-fashioned meeting,
+In an old-fashioned place,
+Where some old-fashioned
+people had some
+old-fashioned grace:
+As an old-fashioned sinner
+I began to pray,
+And God heard me,
+and saved me in the
+old-fashioned way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There was singing,
+such singing of those
+old-fashioned airs!
+There was power, such power in those
+old-fashioned prayers,
+An old-fashioned conviction
+made the sinner pray,
+And the Lord, heard and
+saved him,
+In the old-fashioned way.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Well, they say it is better,
+Things have changed
+don’t you know,
+And the people in general,
+seem to think it is so;
+And they call me old-fashioned
+when I dare to say,
+That I like it far better in
+the old-fashioned way.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>If the Lord never changes,
+as the fashions of men,
+If He’s always the same, why,
+He is old-fashioned then!
+As an old-fashioned sinner saved
+thro’ old time grace,
+Oh, I’m sure He will take me to an
+old-fashioned place.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord, I'm Ready to Go</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Through the valleys of this life I have wondered
+And I′ve worked for Jesus all along the way
+But now life's evening sun, for me is setting
+I have reached the ending of my way</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, I′ve been faithful in the service you have given
+And the harvest of the fields, Lord, I have done
+But now, my steps are growing weary
+Lord, I'm waiting, I'm ready to go home</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Looking back upon the life I′ve lived for Jesus
+I can see how he has blessed me all the way
+And each tear I shed just helped to keep me humble
+And each burden only taught me how to pray</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Though I hate to leave so many friends behind me
+And the parting of our way will break my heart
+But I'll wait for them inside the gates of heaven
+Where the children of God will never part</lines>
+    </verse>
+    <verse name="v5">
+      <lines>But now, my steps are growing weary
+Lord, I'm waiting, I′m ready to go home
+Lord I'm waiting, I'm ready to go home</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Surely, I Will</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If working and praying
+have any reward
+Then surely some morning
+I’ll meet my Dear Lord,
+With God as my pilot,
+I'll climb the high ill,
+And if anyone makes it all the way Lord,
+Surely I will.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Surely I will, surely I will
+If anyone makes it all the way Lord,
+Surely I will,
+On top of mount Zion way up on the hill
+If anyone makes it all the way Lord,
+Surely I will.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>With faith as my weapon,
+and hope as my stay
+Though baffles are all over, am well
+on my way.
+Though I may grow weary,
+am travelling still
+And if anyone makes it
+all the way Lord, Surely I will.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God Sacrificed</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God sacrificed for me and you (thank you Jesus)
+God died on the cross for us (and He did it all)
+He did it all for me and you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God loves us, God loves us
+That he sacrificed, that he died on the cross for us
+God loves us, God loves us
+He did it all for me and you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thank you Jesus, Thank you Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

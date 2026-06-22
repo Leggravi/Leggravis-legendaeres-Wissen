@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sing, Sing</title>
+    </titles>
+    <authors>
+      <author type="words">Rudolf Vogelgsang</author>
+      <author type="music">Kerry Banett</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing, sing, sing
+And make music with the heavens,
+We will sing, sing, sing,
+Grateful that You hear us,
+When we shout Your praise,
+Lift high the name of Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>What's not to love about You?
+Heaven and Earth adore You,
+Kings and kingdoms bow down,
+Son of God, You are the One,
+You are the One.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are the love that frees us,
+You are the light that leads us like a fire burning,
+Son of God, You are the One,
+You are the One we're living for.</lines>
+    </verse>
+  </lyrics>
+</song>

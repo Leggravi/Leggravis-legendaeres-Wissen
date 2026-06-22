@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Better than</title>
+    </titles>
+    <authors>
+      <author type="words">Marty Sampson</author>
+      <author type="music">Marty Sampson</author>
+      <author type="translation">Besser als</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v4 v3 v1 v5 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It’s gonna be better than
+Better than
+Better than I could dream</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your goodness can’t be stopped
+Your love is better than I ever thought
+Your mercy saved my soul
+Your kindness came down to make me whole</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I prophesy into tomorrow
+We will see the goodness of our God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>One seed can move a mountain
+One yes can change it all
+One moment in Your presence
+That’s all I ever want</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You turn ashes into beauty
+Mourning into joy
+That’s who You are God
+That’s who You are
+You can move the tallest mountain
+With the smallest seed
+That’s what You do God
+That’s what You do</lines>
+    </verse>
+  </lyrics>
+</song>

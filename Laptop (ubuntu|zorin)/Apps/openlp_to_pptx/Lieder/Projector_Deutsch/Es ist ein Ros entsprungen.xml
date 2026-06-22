@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Es ist ein Ros entsprungen</title>
+    </titles>
+    <authors>
+      <author type="words">Mainz</author>
+      <author type="music">Köln</author>
+      <author type="translation">Lo, how a Rose e'er blooming</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es ist ein Ros entsprungen aus einer Wurzel zart,
+Wie uns die Alten sungen, von Jesse kam die Art,
+Und hat ein Blümlein bracht, mitten im kalten Winter,
+wohl zu der halben Nacht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Das Röslein, das ich meine, davon Jesaias sagt,
+Hat uns gebracht alleine Marie, die reine Magd.
+Aus Gottes ewgem Rat hat sie ein Kind geboren,
+wohl zu der halben Nacht.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Das Röselein so kleine, das duftet uns so süß,
+Mit seinem hellen Scheine vertreibts die Finsterniss.
+Wahr Mensch und wahrer Gott; hilft uns aus allem Leide,
+rettet von Sünd und Tod.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lob, Ehr sei Gott dem Vater, dem Sohn und heilgen Geist!
+Maria, Gottesmutter, sei hoch gebenedeit!
+Der in der Krippen lag, der wendet Gottes Zoren,
+wandelt die Nacht in Tag.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O Jesu, bis zum Scheiden aus diesem Jamerthal
+Laß dein Hilf uns geleiten hin in der Engel Saal,
+In deines Vaters Reich, da wir dich ewig loben:
+o Gott, uns das verleih!</lines>
+    </verse>
+  </lyrics>
+</song>

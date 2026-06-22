@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Past the Curtain of Time</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There’s a curtain that’s drawn between earth and Heaven,
+And just beyond lies a beautiful clime
+Where the evils of this life no longer can touch me;
+Lord, let me look past the curtain of time.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, let me look past the curtain of sorrows and fear.
+Let me view that sunny bright clime;
+It would strengthen my faith and would banish all fear;
+Lord, let me look past the curtain of time.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I’m helpless, alone, and I want to see Jesus,
+And hear the sweet harbor bells chime,
+Where my friends and dear loved ones are waiting for me;
+Lord, let me look past the curtain of time.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I’m so homesick and blue, and I want to see Jesus,
+I would like to hear those sweet harbor bells chime;
+It would brighten my path and would vanish all fear;
+Lord, let me look past the curtain of time.</lines>
+    </verse>
+  </lyrics>
+</song>

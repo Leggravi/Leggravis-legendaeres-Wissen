@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Here I Am to Worship</title>
+    </titles>
+    <authors>
+      <author type="words">Tim Hughes</author>
+      <author type="music">Tim Hughes</author>
+      <author type="translation">Ich will dich anbeten (Licht dieser Welt)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Light of the world,
+You stepped down into darkness,
+Opened my eyes, let me see
+Beauty that made this heart adore You,
+Hope of a life spent with You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So, here I am to worship,
+Here I am to bow down
+Here I am to say that You’re my God!
+You’re altogether lovely, altogether worthy,
+Altogether wonderful to me!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>King of all days,
+Oh so highly exalted,
+Glorious in Heaven above,
+Humbly You came to the earth You created,
+All for love’s sake became poor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I’ll never know how much it cost
+To see my sin upon that cross!
+I’ll never know how much it cost
+To see my sin upon that cross!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Call upon the name of The Lord and be saved
+Call upon the name of The Lord and be saved
+Call upon the name of The Lord and be saved</lines>
+    </verse>
+  </lyrics>
+</song>

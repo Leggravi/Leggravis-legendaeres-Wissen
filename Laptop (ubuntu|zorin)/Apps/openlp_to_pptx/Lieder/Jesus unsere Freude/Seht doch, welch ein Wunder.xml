@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:39">
+  <properties>
+    <titles>
+      <title>Seht doch, welch ein Wunder</title>
+    </titles>
+    <authors>
+      <author type="words">Gieselheid Czeschin (1988)</author>
+      <author type="music">Christel Schröder</author>
+    </authors>
+    <ccliNo>5037771</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus ist der Friedefürst! Keiner ist ihm gleich.
+Er versöhnte uns am Kreuz. Komm in sein Friedensreich!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus ist der Gottessohn! Keiner ist ihm gleich.
+Er besiegte Hass und Tod. Komm in sein Friedensreich!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus Christ heißt: Wunder-Rat! Keiner ist ihm gleich.
+Öffne seinem Plan dein Herz! Komm in sein Friedensreich!</lines>
+    </verse>
+  </lyrics>
+</song>

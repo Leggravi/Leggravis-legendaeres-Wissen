@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Was There</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Before the moon or the sun,
+or the time had begun,
+Before that God ever said
+Let there be Light,
+Before there was a grain of sand,
+I was in the Master’s plan,
+I was there, hallelujah,
+I was there.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Before this earth did appear,
+or there was an atmosphere,
+Before there ever was a star
+to grace the sky,
+When the sons of God did sing,
+praise and Glory to the King
+I was there,
+hallelujah I was there.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When my Saviour gave His life,
+shed His Blood and paid the price,
+When mountains shook and the veil
+was rent in twain,
+When the spear did pierce His side,
+He was travailing for His Bride,
+I was there, hallelujah, I was there.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now as I walk this earthly race
+My faith is anchored in my God
+And I'll not fear as through this valley
+I must cross
+Christ is living in my heart
+His Word has said He will not depart
+And He is there,
+hallelujah, He is there.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Till the trump of God should sound,
+Calling me to higher realms,
+My eyes are fixed on Jesus Christ
+My Lord and King,
+Soon He’ll call His waiting Bride,
+to be ever at His side,
+Then I’ll be there,
+Oh hallelujah, I’ll be there.</lines>
+    </verse>
+  </lyrics>
+</song>

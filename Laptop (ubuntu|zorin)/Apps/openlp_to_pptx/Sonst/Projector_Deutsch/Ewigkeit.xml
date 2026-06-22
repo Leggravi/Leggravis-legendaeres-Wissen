@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ewigkeit</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich sehne mich nach einem Ort
+Wo alles Leid ein Ende hat
+Denn was ich mit den Augen seh'
+Kann meine Seele nicht versteh'n</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich weiß: du hast den besten Plan
+Auf den ich mich verlassen kann
+Auf jedem noch so schweren Weg
+Schau ich auf das, was nie vergeht</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Die Ewigkeit ist mein Zuhause
+Du hast sie mir ins Herz gelegt
+Auch wenn ich sterben werde, weiß ich
+Dass meine Seele ewig lebt
+Und diese Hoffnung wird mich tragen
+Bis ich dir gegenüber steh</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich weiß: ich bin nur zu Besuch
+Denn wahre Heimat gibst nur du
+Als Bürger deines Himmelreichs
+Werd' ich für immer bei dir sein</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mit Fokus auf die Ewigkeit
+Leb ich für das, was ewig bleibt
+Das Ziel vor Augen, Tag für Tag
+Bis ich den Lauf vollendet hab</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ich werd dir gegenüber stehn</lines>
+    </verse>
+  </lyrics>
+</song>

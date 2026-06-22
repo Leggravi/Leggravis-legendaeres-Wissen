@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Fall In This Place</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Take me to that place Lord
+Where there's nothing else but me and You
+Longing for Your presence
+I know that You're calling me to You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here I stand
+And long for Your embrace
+Nothing else
+Could ever take Your place</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come Holy Spirit
+Fall in this place
+I need more and more of You
+Fill me again with the power of Your Spirit
+Lord I'm crying out for more and more of You</lines>
+    </verse>
+  </lyrics>
+</song>

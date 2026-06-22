@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm gonna be gone</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This old world ain't getting better, everyday it's getting worse
+So much fighting and confusion going on down here on earth
+But I won't let it bother me cause I'm not here to stay.
+The lord is going to call me home and I'll be called away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Were gonna be gone in the twinkling of an eye
+Were gonna be gone won't have time to say goodbye
+Maybe, morning, night, or noon.
+For I know it can't be too soon.
+For I know, I know, I'm gonna be gone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It could be just any morning,
+It could be at night or noon,
+I don't know just when He's coming,
+But I know He's coming soon.
+I can say with calm assurance,
+This old world is not my home,
+One day your going to look for me,
+But I'll be called away.</lines>
+    </verse>
+  </lyrics>
+</song>

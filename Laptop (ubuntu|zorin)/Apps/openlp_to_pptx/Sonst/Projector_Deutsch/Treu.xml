@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Treu</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bleibst an meiner Seite,
+du schämst dich nicht für mich.
+Du weißt, ich bin untreu
+und dennoch gehst du nicht
+Du stehst zu unserer Freundschaft
+Obwohl ich schwierig bin,
+hältst du mir die Treue,
+gehst mit mir durch dick und dünn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist treu Herr,
+an jedem neuen Tag.
+Du bist treu Herr,
+auch wenn ich versag,
+bist du treu Herr.
+Unerschütterlich hält deine Treue mich,
+Du bleibst mir treu.</lines>
+    </verse>
+  </lyrics>
+</song>

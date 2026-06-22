@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Why Can't We</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He lies awake there all alone most every night
+Looking back on all of his mistakes
+Wishing through the tears that he could just go back
+'Cause there's a lot of things he'd like to change
+He just can't forgive himself and forget
+Even though God already did</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If He can love someone and find the good within
+In spite of what they've done, no matter where they've been
+If He can let it go and set the debtor free
+If He can keep forgiving you and me
+Why can't we</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There've been times I've been so hurt by someone else
+I didn't wanna give a second chance
+I let all the bitterness take control
+And took grace into my own hands
+But even Jesus said, &quot;Whoever's done no wrong
+Let him throw the first stone&quot;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He was hated and rejected, betrayed by those He trusted
+Even hanging on the cross, He said, &quot;Father, please forgive them&quot;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>If He can love someone and find the good within
+In spite of what they've done, no matter where they've been
+If He can let it go and set the debtor free
+If He can keep forgiving you and me
+Why can't we
+Why can't we</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Beyond Tomorrow</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I long to gain my treasures waiting,
+Up on the other shore,
+Beyond tomorrow,
+Beyond tomorrow,
+A land without a heavy burden;
+Where dear ones for us wait,
+Beyond tomorrow, beyond tomorrow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beyond tomorrow
+My skies will all be blue
+Beyond tomorrow
+My dreams come true
+There’ll be no sorrow
+Beyond tomorrow
+For Christ will be with me
+Throughout eternity.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A starry crown and robes of glory,
+Are waiting there for me,
+Beyond tomorrow, beyond tomorrow
+But most of all the face of Jesus
+Is what I want to see,
+Beyond tomorrow, beyond tomorrow.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Just over chilly Jordan river,
+Inside the pearly gates,
+Beyond tomorrow, beyond tomorrow
+A land without a heavy burden
+Where dear ones for us wait,
+Beyond tomorrow, beyond tomorrow.</lines>
+    </verse>
+  </lyrics>
+</song>

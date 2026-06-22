@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm Longing For Jesus To Come</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm longing for that glorious day
+When Jesus shall come back,
+I long to see His blessed face.
+When all the saints
+Throughout the ages
+Shall be gathered home
+The ones who trusted in His grace</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm longing for Jesus to come back
+I long for Jesus Christ my King
+To come and take me
+To my home beyond the skies,
+Up there where angels shout and sing.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sometimes the road
+Seems rough and hard,
+The pathway seems so long,
+But He is ever by my side.
+He whispers loving words to me
+And tells me to be strong,
+That He will always lead and guide.</lines>
+    </verse>
+  </lyrics>
+</song>

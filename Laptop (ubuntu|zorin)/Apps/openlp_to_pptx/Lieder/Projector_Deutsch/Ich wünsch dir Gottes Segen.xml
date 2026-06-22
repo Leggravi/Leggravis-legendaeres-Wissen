@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich wünsch dir Gottes Segen</title>
+    </titles>
+    <authors>
+      <author type="words">Jennifer Pepper</author>
+      <author type="music">Jennifer Pepper</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich wünsch dir Gottes Segen,
+ich wünsch dir seine Nähe, seine Kraft,
+ein reich erfülltes Leben,
+über dem die Hand des Höchsten wacht,
+Liebe und Wärme,
+Gelassenheit in allem, was du tust,
+dass du auch in Stürmen sicher
+und im Frieden mit dir ruhst.
+Ich wünsch dir diesen Segen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich wünsch dir Gottes Segen,
+Geborgenheit in Vater, Sohn und Geist,
+Glaube wie ein Feuer,
+das wärmt, und nicht in den Augen beißt,
+Sehnsucht und Hoffnung,
+Menschen, die dich in die Weite führen,
+Freunde, die dich tragen,
+Gedanken, die die Seele inspirieren.
+Ich wünsch dir diesen Segen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gott segne dich, behüte dich,
+erfülle dich mit Geist und Licht.
+Gott segne dich!
+Erhebe dich und fürchte nichts,
+denn du lebst vor seinem Angesicht,
+Gott segne dich!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich wünsch dir Gottes Segen,
+entfalte alles, was du in dir spürst,
+die Dinge, die dir liegen,
+auch wenn du mal gewinnst und mal verlierst.
+Wag neue Wege,
+probier dich einfach immer wieder aus,
+lass dich nicht verbiegen,
+lebe mutig, offen, geradeaus.
+Ich wünsch dir diesen Segen!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gott segne dich, behüte dich,
+erfülle dich mit Geist und Licht.
+Gott segne dich!
+Erhebe dich und fürchte nichts,
+denn du lebst vor seinem Angesicht,
+Gott segne dich!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Manchmal ist die Hand
+vor unseren Augen gar nicht mehr zu sehen,
+und wir hoffen nur noch,
+dieses Dunkel irgendwie zu überstehen.
+Doch kein Schatten, den wir spüren,
+kann das Licht in uns zerstören!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>/: Gott segne dich, behüte dich,
+erfülle dich mit Geist und Licht.
+Gott segne dich!
+Erhebe dich und fürchte nichts,
+denn du lebst vor seinem Angesicht,
+Gott segne dich! :/</lines>
+    </verse>
+  </lyrics>
+</song>

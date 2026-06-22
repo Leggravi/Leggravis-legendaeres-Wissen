@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>One More Song For You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As long as there is time,
+and one breath left in me
+There will always
+be one more song for you
+And as Long as there is room,
+for one more voice in praise
+And a need, for a word of love and truth
+To help my brother through
+there’ll be one more song for you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You were there with your songs of laughter
+Words of hope for my fears
+But what are songs when no one will sing them
+What are words when no one hears.
+There were times Life became a question
+When I asked, no one knew
+‘til I found the answer in you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Love is in the air around me
+hope abounds everywhere
+Living life in the arms of Jesus
+Learning how to really care.
+Everyday is filled with purpose
+All the old is made new
+And I know I owe it all to you</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>What Did He Do</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh listen tour wondrous story
+Counted once among the lost
+Yet, one came down from Heaven's glory,
+Saving us at awful cost.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who saved us from eternal loss?
+Who but God's son up on the cross
+What did He do?
+Where is He now?
+In heaven interceding.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No angel could our place have taken
+Highest of the high though he,
+The loved one on the cross forsaken was
+One of the God -head Three</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And yet this wondrous tale proceedeth,
+Stirring heart and tongue a flame
+As our High Priest in Heaven pleadeth,
+And Christ Jesus is His name.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Will you surrender to this saviour?
+To His sceptre humbly bow
+You, too, shall come to know His favour
+He will save you, save you now.</lines>
+    </verse>
+  </lyrics>
+</song>

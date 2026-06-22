@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sweeter As The Days Go By</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sweeter as the days go by,
+Sweeter as the days go by,
+Richer, fuller, deeper,
+Jesus' love is sweeter,
+Sweeter as the days go by.</lines>
+    </verse>
+  </lyrics>
+</song>

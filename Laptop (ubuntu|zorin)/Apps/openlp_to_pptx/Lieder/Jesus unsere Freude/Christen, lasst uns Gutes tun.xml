@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:47">
+  <properties>
+    <titles>
+      <title>Christen, lasst uns Gutes tun</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Friedrich Hiller (1767)</author>
+      <author type="music">Meinen Jesus lass ich nicht</author>
+    </authors>
+    <ccliNo>6223003</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christen, lasst uns Gutes tun,
+Gutes, und nicht müde werden!
+Wann es Zeit ist, wird man ruhn
+o wie sanft von den Beschwerden;
+aber ruhen nicht allein:
+dort wird auch die Ernte sein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O dass wir in unsrer Zeit
+auf die Ewigkeit hin lernten!
+Wer hier kärglich ausgestreut,
+wird auch wieder kärglich ernten;
+wer hier reichlich Gutes tut,
+sammelt dort auch reiches Gut.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lehr, o Gott, mich Gutes tun
+und im Treusein nicht erliegen!
+Denn die Zeit dazu ist nun;
+und sie wird so schnell verfliegen.
+Wenn man gleich was Kleines tut:
+ist's nur gut, so ist es gut.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Stelle mir die Ernte für,
+dass ich darf auf Hoffnung säen!
+Was wir tun - und tun es dir,
+lässt du nicht umsonst geschehen;
+hat man kein Verdienst davon,
+gibt die Gnade dennoch Lohn.</lines>
+    </verse>
+  </lyrics>
+</song>

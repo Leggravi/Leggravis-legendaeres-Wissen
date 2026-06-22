@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God Our Help In Ages Past</title>
+    </titles>
+    <authors>
+      <author type="words">Isaac Watts</author>
+      <author type="music">William Croft</author>
+      <author type="translation">Gott, Zuflucht der Vergangenheit</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O God, our help in ages past,
+our hope for years to come,
+our shelter from the stormy blast,
+and our eternal home.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Under the shadow of thy throne,
+still may we dwell secure;
+sufficient is thine arm alone,
+and our defense is sure.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Before the hills in order stood,
+or earth received her frame,
+from everlasting, thou art God,
+to endless years the same.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A thousand ages, in thy sight,
+are like an evening gone;
+short as the watch that ends the night,
+before the rising sun.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Time, like an ever rolling stream,
+bears all who breathe away;
+they fly forgotten, as a dream
+dies at the opening day.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>O God, our help in ages past,
+our hope for years to come;
+be thou our guide while life shall last,
+and our eternal home.</lines>
+    </verse>
+  </lyrics>
+</song>

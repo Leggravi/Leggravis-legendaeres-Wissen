@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich sing dir mein Lied</title>
+    </titles>
+    <authors>
+      <author type="words">Fritz Baltruweit</author>
+      <author type="music">Brasilien</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich sing dir mein Lied, in ihm klingt mein Leben. 
+Die Töne, den Klang hast du mir gegeben   
+von Wachsen und Werden, von Himmel und Erde,   
+du Quelle des Lebens. Dir sing ich mein Lied.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich sing dir mein Lied, in ihm klingt mein Leben.   
+Den Rhythmus, den Schwung, hast du mir gegeben 
+von deiner Geschichte, in die du uns mitnimmst,   
+du Hüter des Lebens. Dir sing ich mein Lied.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich sing dir mein Lied, in Ihm klingt mein Leben.
+Die Tonart, den Takt hast du mir gegeben
+von Nähe, die heil macht – wir können dich finden,
+du Wunder des Lebens. Dir sing ich mein Lied.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich sing dir mein Lied, in ihm klingt mein Leben.
+Die Höhen, die Tiefen hast du mir gegeben.
+Du hältst uns zusammen trotz Streit und Verletzung,
+du Freundin des Lebens. Dir sing ich mein Lied.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ich sing dir mein Lied, in ihm klingt mein Leben.   
+Die Töne, den Klang hast du mir gegeben 
+von Zeichen der Hoffnung auf steinigen Wegen,   
+du Zukunft des Lebens. Dir sing ich mein Lied.</lines>
+    </verse>
+  </lyrics>
+</song>

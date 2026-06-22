@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sing Halleluja</title>
+    </titles>
+    <authors>
+      <author type="words">Peter Bleiler</author>
+      <author type="music">Peter Bleiler</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing Halleluja unserm Herrn,
+sing Halleluja unserm Herrn,
+Sing Halleluja, sing Halleluja,
+sing Halleluja unserm Herrn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus erstand aus seinem Grab,
+Jesus erstand aus seinem Grab,
+Jesus erstand, Jesus erstand.
+Jesus erstand aus seinem Grab.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus lebt in uns, seinem Leib,
+Jesus lebt in uns, seinem Leib,
+Jesus lebt in uns, Jesus lebt in uns.
+Jesus lebt in uns seinem Leib.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus kommt bald in Herrlichkeit,
+Jesus kommt bald in Herrlichkeit,
+Jesus kommt bald, Jesus kommt bald.
+Jesus kommt bald in Herrlichkeit.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus ist König, Herr der Welt,
+Jesus ist König, Herr der Welt,
+Jesus ist König, Jesus ist König,
+Jesus ist König, Herr der Welt.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 17, 2020, 5:31:10 PM">
+  <properties>
+    <titles>
+      <title>Ein Leben für Gott</title>
+    </titles>
+    <verseOrder>C1 V2 C1 V3 C1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="C1">
+      <lines>Ein Leben gegeben für den Herrn der Welt
+Ein Leben gegeben für das was wirklich zählt
+Ein Leben für Gott, für ihn allein, das soll mein Leben sein
+Ein Leben für Gott, für ihn allein, das soll mein Leben sein</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Herr weise Du mir Deinen Weg.
+Zeig mir die Welt mit deinen Augen.
+Lass mich erkennen, was dir wichtig ist.
+Gebrauche mich in dieser Welt.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Herr zeige Du mir Deinen Plan.
+In meiner Schwachheit lass mich glauben,
+Und wenn ich falle, heb' mich wieder auf.
+Gebrauche mich in dieser Welt.</lines>
+    </verse>
+  </lyrics>
+</song>

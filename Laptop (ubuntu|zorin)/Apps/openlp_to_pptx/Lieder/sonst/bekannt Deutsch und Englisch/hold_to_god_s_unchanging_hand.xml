@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 27, 2019, 6:41:56 PM">
+  <properties>
+    <titles>
+      <title>Hold To God's Unchanging Hand</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2 V5 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Time is filled with swift transition,
+Naught of earth unmoved can stand,
+Build your hopes on things eternal,
+Hold to God's unchanging hand!</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Hold to God's unchanging hand!
+Hold to God's unchanging hand!
+Build your hopes on things eternal,
+Hold to God's unchanging hand!</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Trust in Him who will not leave you,
+Whatsoever years may bring,
+If by earthly friends forsaken,
+Still more closely to Him cling!</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Covet not this world's vain riches,
+That so rapidly decay,
+Seek to gain the heavenly treasures,
+They will never pass away!</lines>
+    </verse>
+    <verse name="V5">
+      <lines>When your journey is completed,
+If to God you have been true,
+Fair and bright the home in glory,
+Your enraptured soul will view!</lines>
+    </verse>
+  </lyrics>
+</song>

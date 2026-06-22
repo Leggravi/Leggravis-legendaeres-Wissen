@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lehre mich glauben, Herr, lehre mich flehn</title>
+    </titles>
+    <authors>
+      <author type="words">Gotthelf Bernhardt Kühn</author>
+      <author type="music">Benjamin Mansell Ramsey</author>
+      <author type="translation">Teach me Thy way, O Lord</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lehre mich glauben, Herr, lehre mich flehn!
+Kindlich vertrauensvoll lehre mich flehn!
+Segne, o Herr, dein Kind, dass es, von Lieb entzündt,
+Seelen für dich gewinnt! Lehre mich flehn!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lehre mich glauben, Herr, lehre mich flehn!
+Zeig mir der Seelen Wert; lehre mich flehn!
+Herr, o mein Heiland, gib Weisheit mir, Kraft und Lieb!
+In deines Geistes Trieb lehre mich flehn!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lehre mich glauben, Herr, lehre mich flehn!
+Eilend die Zeit vergeht, lehre mich flehn!
+Sieh meine Schwachheit an, nimm mir des Kleinmuts Bann,
+dass ich obsiegen kann, lehre mich flehn!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lehre mich glauben, Herr, lehre mich flehn!
+Jesus, du kommst ja bald, lehre mich flehn!
+O, dass du gnädig dann mein Werk kannst schauen an,
+dass ich bestehen kann, lehre mich flehn!</lines>
+    </verse>
+  </lyrics>
+</song>

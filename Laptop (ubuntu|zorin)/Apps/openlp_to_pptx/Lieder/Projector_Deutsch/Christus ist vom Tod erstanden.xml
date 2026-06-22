@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Christus ist vom Tod erstanden!</title>
+    </titles>
+    <authors>
+      <author type="words">Günter Balders</author>
+      <author type="music">Schweden</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christus ist vom Tod erstanden!
+Wer da glaubt, hebt sein Haupt
+und wird nicht zuschanden;
+ist's doch ein lebend'ges Hoffen:
+Durch den Sohn steht zum Thron
+uns der Zugang offen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Christus ist vom Tod erstanden!
+Seine Kraft Leben schafft,
+löst von Todesbanden.
+Wird der Leib dem Grab zum Raube,
+Jesus lebt und erhebt
+ihn einst aus dem Staube.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Christus ist vom Tod erstanden!
+Weine nicht, nun ist Licht,
+nun ist Trost vorhanden.
+Streckt der Tod Dein Liebstes nieder:
+Jesus liebt, und Er gibt
+Dir die Teuren wieder.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Christus ist vom Tod erstanden!
+Jede Stund' macht es kund
+in den fernsten Landen.
+Wort des Heils für alle Zeiten,
+Siegeswort, töne fort
+durch die Ewigkeiten!
+gehd bais boT</lines>
+    </verse>
+  </lyrics>
+</song>

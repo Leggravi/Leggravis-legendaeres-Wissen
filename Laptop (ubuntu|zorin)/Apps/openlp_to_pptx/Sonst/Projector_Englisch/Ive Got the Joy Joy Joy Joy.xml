@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I’ve Got the Joy, Joy, Joy, Joy</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’ve got the joy, joy, joy, joy
+Down in my heart (Where?)
+Down in my heart (Where?)
+Down in my heart!
+I’ve got the joy, joy, joy, joy
+Down in my heart,
+Down in my heart to stay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I’m so happy, so very happy
+I’ve got the love of Jesus in my heart;
+And I’m so happy, so very happy
+I’ve got the love of Jesus in my heart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I’ve got the love of Jesus, love of Jesus
+Down in my heart (Where?)
+Down in my heart (Where?)
+Down in my heart!
+I’ve got the love of Jesus, love of Jesus
+Down in my heart,
+Down in my heart to stay.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I’ve got the peace that passes understanding,
+Deep down in the depths of my heart (Where?)
+Deep down in the depths of my heart (Where?)
+Deep down in the depths of my heart!
+I’ve got the peace that passes understanding
+Deep down in the depths of my heart,
+Deep down in my heart to stay.</lines>
+    </verse>
+  </lyrics>
+</song>

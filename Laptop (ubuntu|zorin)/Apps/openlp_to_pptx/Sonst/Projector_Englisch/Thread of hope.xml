@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thread of hope</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The woman needed healing of that dreaded disease
+Her money brought physicians
+But only Jesus could bring relief
+And though her last thread of hope
+It was worn down to a strand
+Her heart held onto faith
+Till she could touch him with her hand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cause when your hanging by a thread
+Still you can climb life's mountain
+Though the cliffs are rough and ragged
+You can cope
+If you should slip and reach rope's end
+You'll find the him of his garment
+So don't let go of that last thread of hope</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Is that you hanging onto a frayed and fragile faith
+And are you clinging to the rocks
+Above a canyon of dismay
+Reach out for the lifeline it will never break into
+Hold fast don't lose heart
+For once again god will pull you through</lines>
+    </verse>
+  </lyrics>
+</song>

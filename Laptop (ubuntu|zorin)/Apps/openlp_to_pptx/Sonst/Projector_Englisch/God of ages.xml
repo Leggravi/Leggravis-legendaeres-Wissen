@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God of ages</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel C. Roberts</author>
+      <author type="music">George W. Warren</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God of ages
+Bringing glory here
+You are good You are good
+Son of righteousness
+You are all I seek
+With all my heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Giver of life
+Hope for the lost
+Is in You
+All of the earth
+Shines with Your light
+Your glory
+You are the God who lives
+You are the God who heals
+You are my hope my everything</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In Your promise
+And Your faithfulness
+I will trust all my days
+King forever
+Reign in majesty
+Be glorified</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Giver of life
+Hope for the lost
+Is in You
+All of the earth
+Shines with Your light
+Your glory
+You are the God who lives
+You are the God who heals
+You are my hope my everything</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You brought salvation to us
+Offered Your peace to the world
+You are my Lord my everything</lines>
+    </verse>
+    <verse name="v6">
+      <lines>/: I'll trust in You
+I'll trust in You
+I'll trust in You
+With all of my heart :/</lines>
+    </verse>
+    <verse name="v7">
+      <lines>/: You are the God who lives
+You are the God who heals
+You are my hope my everything
+You brought salvation to us
+Offered Your peace to the world
+You are my Lord my everything :/</lines>
+    </verse>
+  </lyrics>
+</song>

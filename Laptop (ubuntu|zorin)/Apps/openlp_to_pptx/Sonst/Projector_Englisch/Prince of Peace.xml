@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Prince of Peace</title>
+    </titles>
+    <authors>
+      <author type="words">Robert Gay</author>
+      <author type="music">Robert Gay</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My heart a storm, clouds raging deep within
+The Prince of peace came bursting through the wind
+The violent sky held its breath
+And in Your light I found rest</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tearing through the night
+Riding on the storm
+Staring down the fight
+My eyes found Yours
+Shining like the sun
+Striding through my fear
+The Prince of peace met me there
+You heard my prayer</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hope like the sunlight piercing through the dark
+The Prince of peace came and broke into my heart
+The violent cross, the empty grave
+And in Your light I found grace</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tearing through the night
+Riding on the storm
+Staring down the fight
+My eyes found Yours
+Shining like the sun
+Striding through my fear
+The Prince of peace met me there
+You're always there
+And You hear my prayer</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Your love surrounds me when my thoughts wage war
+When night screams terror, there Your voice will roar
+Come death or shadow, God I know Your light will meet me there</lines>
+    </verse>
+    <verse name="v6">
+      <lines>When fear comes knocking, there You'll be my guard
+When day breeds trouble, there You'll hold my heart
+Come storm or battle, God I know Your peace will meet me there</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Again and again
+Oh, be still my heart
+I know that You are God</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Oh, fear no evil
+For I know You are here</lines>
+    </verse>
+    <verse name="v9">
+      <lines>And my soul will know Your love surrounds me when my thoughts wage war
+When night screams terror, there Your voice will roar
+Come death or shadow, God I know Your light will meet me there</lines>
+    </verse>
+    <verse name="v10">
+      <lines>And my soul will know When fear comes knocking, there You'll be my guard
+When day breeds trouble, there You'll hold my heart
+Come storm or battle, God I know Your peace will meet me there</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Oh, be still my heart
+And my soul will ever know that You are God
+And You heard my prayer</lines>
+    </verse>
+  </lyrics>
+</song>

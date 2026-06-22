@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Es ist niemand zu groß</title>
+    </titles>
+    <authors>
+      <author type="words">Manfred Siebald</author>
+      <author type="music">Manfred Siebald</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es ist niemand zu groß, es ist niemand zu klein,
+es ist niemand zu arm oder reich.
+Es ist niemand zu einfach und niemand zu fein,
+seine Liebe gilt für alle gleich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gott öffnet jedem die Tür,
+jedem der ihn fragt.
+Er nimmt die Schuld und gibt Liebe dafür,
+denn er hat es uns gesagt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Es ist niemand zu gut, es ist niemand zu schlecht,
+es ist niemand zu frech oder scheu.
+Es ist niemand zu schuldig und niemand zu gerecht;
+Seine Liebe macht uns völlig neu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Es macht einer schon früh und ein andrer erst spät
+von dem Angebot Gottes Gebrauch.
+Mancher wartet zu lange, bis es nicht mehr geht.
+Warte nicht, sonst verpasst du es auch.</lines>
+    </verse>
+  </lyrics>
+</song>

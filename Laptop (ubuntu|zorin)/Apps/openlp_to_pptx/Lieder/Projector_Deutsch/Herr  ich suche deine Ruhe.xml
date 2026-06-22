@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr , ich suche deine Ruhe</title>
+    </titles>
+    <authors>
+      <author type="words">Martin Pepper</author>
+      <author type="music">Martin Pepper</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr , ich suche deine Ruhe fern vom Getöse dieser Welt 
+Ich hör jetzt auf mit allem, was ich tue und tu das eine, das im Leben zählt:
+Ich geh im Geist jetzt vor dir auf die Knie und höre auf die Stimme meines Herrn.
+Führe Du mein innerstes zur Ruhe und lass dein Feuer meine Hast verzehrn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>® Du bist ein starker Turm, du bist das Auge im Sturm.
+Du sprichst zum aufgewühlten Meer meiner Seele in mir, Herr:
+Friede mit dir, Friede mit dir!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herr ich suche deinen Frieden, das , was die Welt nicht geben kann;
+|:n Harmonie und tief versöhnt zu leben,denn das fängt erst in deiner Nähe an.
+Ich löse mich von allen Ambitionen, und werde still wie ein grad gestilltes Kind.
+Denn du hast mehr für mich als Illusionen; dein Rat für mich verweht nicht mit dem Wind 
+®</lines>
+    </verse>
+  </lyrics>
+</song>

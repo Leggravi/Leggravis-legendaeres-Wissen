@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thou didst leave Thy throne</title>
+    </titles>
+    <authors>
+      <author type="words">Emily Steele Elliot</author>
+      <author type="music">Timothy Richard Matthews</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thou didst leave Thy throne and Thy kingly crown,
+When Thou camest to earth for me;
+But in Bethlehem’s home was there found no room
+For Thy holy nativity:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, come to my heart, Lord Jesus!
+There is room in my heart for Thee;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Heaven’s arches rang when the angels sang,
+Proclaiming Thy royal degree;
+But of lowly birth cam’st Thou, Lord, on earth,
+And in great humility:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The foxes found rest, and the birds had their nest
+In the shade of the forest tree;
+But Thy couch was the sod, O Thou Son of God,
+In the deserts of Galilee:</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Thou camest, O Lord, with the living Word
+That should set Thy people free;
+But with mocking scorn, and with crown of thorn,
+They bore Thee to Calvary:</lines>
+    </verse>
+    <verse name="v6">
+      <lines>When heaven’s arches shall ring, and her choirs shall sing
+At Thy coming to victory,
+Let Thy voice call me up, saying, “Yet there is room,
+There is room at My side for thee! ”</lines>
+    </verse>
+    <verse name="v7">
+      <lines>And my heart shall rejoice, Lord Jesus!
+When Thou comest and callest for me;</lines>
+    </verse>
+  </lyrics>
+</song>

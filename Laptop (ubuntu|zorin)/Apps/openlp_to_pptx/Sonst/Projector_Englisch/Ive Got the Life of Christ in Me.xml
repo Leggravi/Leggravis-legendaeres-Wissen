@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I've Got the Life of Christ in Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've got the life of Christ in me
+I've got the life of Christ in me
+I've got His life, His nature
+And His ability
+I've got the life of Christ in me</lines>
+    </verse>
+  </lyrics>
+</song>

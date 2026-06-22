@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Am Going to a City</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am going to a city,
+Where the streets with gold are laid,
+Where the tree of life is blooming;
+And the roses never fade.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here they bloom but for a season
+Soon their beauty is decayed,
+I am going to a city (am going)
+Where the roses never fade.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In this world we have our troubles,
+Satan’s snares we must evade,
+Will be free from all temptations,
+Where the roses never fade.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Loved ones gone to be with Jesus,
+in their robes of white arrayed;
+They are waiting for my coming
+Where the roses never fade.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Abraham who was our father,
+Travelled day by day in faith;
+He was looking for a city,
+Where the roses never fade.</lines>
+    </verse>
+  </lyrics>
+</song>

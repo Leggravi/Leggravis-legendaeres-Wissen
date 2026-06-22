@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Majestät</title>
+    </titles>
+    <authors>
+      <author type="words">Peter Eltermann</author>
+      <author type="music">John Chisum</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v6 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hier bin ich, klein vor deiner Herrlichkeit,
+Deine Gnade hat mich befreit!
+Hier bin ich, kenne meine Sünde gut,
+Doch du machst mich rein durch dein Blut.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich fand ja
+Die allergrößte Liebe da,
+Wo du dein Leben gabst,
+Das größte Opfer warst.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Majestät! Majestät!
+Ich bin wie deine Gnade mich fand:
+Leer, und dennoch leb ich in deiner Hand.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hier bin ich, demütig weil du mich liebst,
+Vergeben kann ich, weil du vergibst!
+Hier bin ich, ich weiß nur dich verlangt nach mir,
+Geheiligt durch das Feuer in dir.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ich fand ja
+Die allergrößte Liebe da,
+Wo du dein Leben gabst,
+Das größte Opfer warst.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Majestät! Majestät!
+Ich bin wie deine Gnade mich fand:
+Leer, und dennoch leb ich in deiner Hand!
+Majestät! Majestät!
+Verändert bin ich für alle Zeit
+In der Nähe deiner Herrlichkeit
+Majestät</lines>
+    </verse>
+  </lyrics>
+</song>

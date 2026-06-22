@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Majestät, herrliche Majestät</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Hofrichter</author>
+      <author type="music">Jack W. Hayford</author>
+      <author type="translation">Majesty, worship His Majesty</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Majestät, herrliche Majestät,
+dir sei Ehre Herrlichkeit und Lob!
+Majestät, herrliche Majestät,
+von dir fließt Kraft in großer Macht zu deinem Volk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hebt ihn hoch, hebt ihn hoch,
+den Namen Jesus.
+Macht ihn groß, kommt und verehrt Christus den Herrn.
+Majestät, herrliche Majestät,
+Jesus du starbst,
+bliebst nicht im Grab, Halleluja</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Herrlichkeit, preist seine Herrlichkeit
+Jesus Christus sei
+Lob und Ehre gebracht.
+Herrlichkeit, preist seine Herrlichkeit
+Herrlichkeit, Herrschaft und
+Herrlichkeit, fließen vom Thron
+von Gottes Sohn in seiner Macht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Darum auf!
+Lobet den höchsten Namen Jesus.
+Er allein wird König sein für alle Zeit.
+Herrlichkeit, preist seine Herrlichkeit
+Jesus, ist Herr. Keiner als er
+Betet ihn an.</lines>
+    </verse>
+  </lyrics>
+</song>

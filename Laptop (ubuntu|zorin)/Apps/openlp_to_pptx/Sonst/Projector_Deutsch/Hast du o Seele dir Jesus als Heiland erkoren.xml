@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hast du, o Seele, dir Jesus als Heiland erkoren?</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Stralsund</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hast du, o Seele, dir Jesus als
+Heiland erkoren?
+Bist du errettet durch Ihn und von
+neuem geboren?
+Gott ist ja Licht,
+vor Ihm bestehen wir nicht.
+Kamst du zu Ihm als verloren?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus errettet, nur Jesus führt
+Sünder zum Leben.
+Kein andrer Name war jemals
+den Menschen gegeben.
+Hier ist nur Heil;
+komm, dir wird Gnade zuteil!
+Ewig musst sonst du erbeben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O wie so glücklich sind alle,
+die Zuflucht schon nahmen,
+die an dem Tag des Heiles
+zu Jesus hinkamen!
+Gib Ihm dein Herz,
+bring Ihm die Schuld und den Schmerz!
+Komme zu Jesus doch! Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

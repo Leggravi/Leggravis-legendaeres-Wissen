@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>His Eye Is On The Sparrow</title>
+    </titles>
+    <authors>
+      <author type="words">Civilla Durfee Martin</author>
+      <author type="music">Charles H. Gabriel</author>
+      <author type="translation">Wenn ich nur Jesus habe</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Why should I feel discouraged,
+Why should the shadows come,
+Why should my heart be lonely
+And long for Heav'n and home?
+When Jesus is my portion,
+My constant Friend is He:
+His eye is on the sparrow,
+And I know He cares for me;
+His eye is on the sparrow,
+And I know He watches me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I sing because I'm happy, (I’m happy)
+I sing because I'm free, (I’m free)
+For His eye is on the sparrow,
+And I know He watches me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>&quot;Let not your heart be troubled,&quot;
+His tender word I hear,
+And resting on His goodness,
+I lose my doubts and fear;
+Though by the path He leads me
+But one step I may see:
+His eye is on the sparrow,
+And I know He watches me;
+His eye is on the sparrow,
+And I know He watches me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Whenever I am tempted,
+Whenever clouds arise,
+When songs give place to sighing,
+When hope within me dies,
+I draw the closer to Him,
+From care He sets me free:
+His eye is on the sparrow,
+And I know He cares for me;
+His eye is on the sparrow,
+And I know He watches me.</lines>
+    </verse>
+  </lyrics>
+</song>

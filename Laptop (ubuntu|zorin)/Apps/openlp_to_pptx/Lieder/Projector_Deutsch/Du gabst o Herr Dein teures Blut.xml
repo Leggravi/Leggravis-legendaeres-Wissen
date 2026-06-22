@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du gabst, o Herr, Dein teures Blut</title>
+    </titles>
+    <authors>
+      <author type="words">Julius Anton von Poseck</author>
+      <author type="music">Martin Luther</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du gabst, o Herr, Dein teures Blut,
+Du trugest still der Feinde Wut,
+Befreitest uns von Sünd' und Tod
+Und wurdest unser Weg zu Gott.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dein Lieben, Herr, ist grenzenlos,
+Und was Du gibst, so göttlich groß!
+Doch größer noch als alles ist,
+Dass Du, Herr, selber unser bist.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und völlig wird das Herz gestillt
+Und unsre Freude ganz erfüllt,
+Wenn wir, Herr, Dir entgegen gehn
+Und in der Herrlichkeit Dich sehn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du bist's, den unsre Seele liebt,
+Der Leben uns und alles gibt.
+Drum komm, erfüll' das heiße Flehn
+Und laß uns dort Dein Antlitz sehn!</lines>
+    </verse>
+  </lyrics>
+</song>

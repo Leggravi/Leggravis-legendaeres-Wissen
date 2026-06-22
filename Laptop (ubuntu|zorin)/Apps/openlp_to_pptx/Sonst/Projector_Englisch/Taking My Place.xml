@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Taking My Place</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>So many people in this life
+Are filled with pain and strife,
+Wondering just
+what the future holds for them;
+But, there's no doubt in this mind,
+In my brand new home I'll find.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm takin' my place over Jordan wide,
+I'm takin' my place on the other side;
+Takin' my place on the other shore,
+Where we'll live forevermore;
+Yeah, when I reach eternity
+There'll be a placed prepared for me;
+It's only by His amazing grace
+that I'll be takin' my place.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It may be in the sacred choir,
+Praising God is my desire,
+I'll worship Him forever and a day;
+And how I'll know I'm in that place
+Is by the smile on His face,
+When he holds me
+in His lovin' arm of grace.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bridge:
+Goin' home, I'm goin' home
+There's nothin' to hold me here;
+I've caught a glimpse
+of that heavenly home,
+This is my place. I'm goin' home.</lines>
+    </verse>
+  </lyrics>
+</song>

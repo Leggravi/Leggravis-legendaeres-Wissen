@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:56">
+  <properties>
+    <titles>
+      <title>Gott des Himmels und der Erden</title>
+    </titles>
+    <authors>
+      <author type="words">Heinrich Albert (1642)</author>
+      <author type="music">Heinrich Albert</author>
+    </authors>
+    <ccliNo>4353487</ccliNo>
+    <themes>
+      <theme>Morgenlieder</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott des Himmels und der Erden,
+Vater, Sohn und Heilger Geist,
+der es Tag und Nacht lässt werden,
+Sonn und Mond uns scheinen heißt,
+dessen starke Hand die Welt
+und was drinnen ist, erhält:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gott, ich danke dir von Herzen,
+dass du mich in dieser Nacht vor Gefahr,
+Angst, Not und Schmerzen
+hast behütet und bewacht,
+dass des bösen Feindes List
+mein nicht mächtig worden ist.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lass die Nacht auch meiner Sünden
+jetzt mit dieser Nacht vergehn;
+o Herr Jesu, lass mich finden
+deine Wunden offen stehn,
+da alleine Hilf und Rat
+ist für meine Missetat!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hilf, dass ich mit diesem Morgen
+geistlich auferstehen mag
+und für meine Seele sorgen,
+dass, wenn nun dein großer Tag
+uns erscheint und dein Gericht,
+ich davor erschrecke nicht.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Führe mich, o Herr, und leite
+meinen Gang nach deinem Wort;
+sei und bleibe du auch heute
+mein Beschützer und mein Hort.
+Nirgends als bei dir allein
+kann ich recht bewahret sein.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Meinen Leib und meine Seele
+samt den Sinnen und Verstand,
+großer Gott, ich dir befehle
+unter deine starke Hand. Herr,
+mein Schild, mein Ehr und Ruhm,
+nimm mich auf, dein Eigentum.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Deinen Engel zu mir sende,
+der des bösen Feindes Macht,
+List und Anschläg von mir wende
+und mich halt in guter Acht,
+der auch endlich mich zur Ruh
+trage nach dem Himmel zu!</lines>
+    </verse>
+  </lyrics>
+</song>

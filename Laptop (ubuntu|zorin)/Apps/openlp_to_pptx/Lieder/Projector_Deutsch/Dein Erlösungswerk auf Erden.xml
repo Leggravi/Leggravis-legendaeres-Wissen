@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dein Erlösungswerk auf Erden</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Jakob Rambach</author>
+      <author type="music">Wilhelm Brockhaus</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dein Erlösungswerk auf Erden
+Hast, o Jesu, Du vollbracht.
+Was vollendet sollte werden,
+Das vollführtest Du mit Macht.
+Du bist selbst für uns gestorben,
+Hast uns ew'ges Heil erworben,
+Und Dein siegreich Auferstehn
+Lässt uns als Befreite gehn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alle Namen Deiner Frommen
+Trägst Du jetzt auf Deiner Brust.
+Alle, die zu Dir gekommen,
+Pflegest Du mit Lieb' und Lust.
+Du vertrittst, die an Dich glauben,
+Drum wird niemand sie Dir rauben,
+Und beim Vater richtet'st Du
+Ihnen eine Wohnung zu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drum, Herr Jesu, Dir gebühret
+Dank, Anbetung, Preis und Ruhm.
+Hast uns siegreich ausgeführet
+Aus der Welt ins Heiligtum,
+Wo Dein Volk anbetend dienet,
+Dessen Schuld Dein Blut gesühnet,
+Dessen Dienst, durch Dich geweiht,
+Gott zur Ehr' und Herrlichkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

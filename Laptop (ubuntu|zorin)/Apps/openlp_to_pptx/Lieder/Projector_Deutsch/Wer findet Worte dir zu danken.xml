@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wer findet Worte, dir zu danken?</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Wilhelm Brockhaus</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wer findet Worte, Dir zu danken?
+O Vater, Deine Lieb' ist groß,
+Ist unaussprechlich, ohne Schranken:
+Du gabst den Sohn aus Deinem Schoß.
+Du gabst Ihn hin, den Eingebornen,
+Du sandtest Ihn zu uns herab,
+Für Deine Feinde, die Verlornen,
+Gabst Du Ihn hin in Tod und Grab.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O wohl uns, dass Du voll Erbarmen,
+Dass Du, o Gott, die Liebe bist,
+Dass wir in treuen Vaterarmen
+So sicher ruhn durch Jesum Christ!
+In Ihm gabst Du uns Heil und Leben,
+Ja, alles - o wer liebt so sehr!
+Ein Gott, der Seinen Sohn gegeben,
+Ein solcher Gott versagt nichts mehr.</lines>
+    </verse>
+  </lyrics>
+</song>

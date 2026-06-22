@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Love You So Much</title>
+    </titles>
+    <authors>
+      <author type="words">Paul Jannuzzelli</author>
+      <author type="music">Paul Jannuzzelli</author>
+      <author type="translation">Herr, ich lieb dich so sehr</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v2 v3 v3 v1 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hear this praises from a grateful heart
+Each time I think of You, the praises start
+Love You so much, Jesus
+Love You so much</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, I love You, my soul sings
+In Your presence, carried on Your wings
+Love You so much, Jesus
+Love You so much</lines>
+    </verse>
+    <verse name="v3">
+      <lines>How my soul longs for You
+Longs to worship You forever
+In Your power and majesty
+Lift my hands, lift my heart
+Lift my voice towards the heavens
+For You are my sun and shield</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Love You so much, Jesus
+Love You so much.</lines>
+    </verse>
+  </lyrics>
+</song>

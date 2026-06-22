@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 5, 2020, 9:59:02 PM">
+  <properties>
+    <titles>
+      <title>Amazing Love</title>
+    </titles>
+    <verseOrder>V1 V2 V3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>I'm forgiven
+Because You were forsaken
+I'm accepted, You were condemned
+I'm alive and well,
+Your Spirit is within me
+Because You died and rose again</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Amazing love, how can it be
+That You, my King, would die for me?
+Amazing love, I know it's true
+It's my joy to honor You
+In all I do, I honor You</lines>
+    </verse>
+    <verse name="V3">
+      <lines>We sing, You are my King
+You are my King
+Jesus, You are my King</lines>
+    </verse>
+  </lyrics>
+</song>

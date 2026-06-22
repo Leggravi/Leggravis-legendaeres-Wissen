@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ain't God Good?</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For 40 long years, God's people
+Journeyed in the wilderness
+Searchin for Canaan,
+That blessed promise land
+They never went too hungry
+Nor they never got too thirsty
+The more that God kept blessing them,
+The more they would complain</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ain't God good to give us
+so many blessings?
+Undeserving, that's what we are
+We ought to thank Him,
+love and praise Him
+A little more today
+and a whole lot more tomorrow</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the times that we live,
+so many are unthankful
+And many more, they fail to see
+that God has given all
+Never having time for God,
+they're always busy working
+To pay for cars, new homes, TV's,
+and carpet wall to wall.</lines>
+    </verse>
+  </lyrics>
+</song>

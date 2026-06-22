@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>No Greater Love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You loved me,
+When I was so unlovely,
+You sought me
+When I was lost;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You showed me
+How much You really loved me,
+When You bought me
+At the highest cost</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's no greater love than this,
+There's no greater love than this,
+That a man would give his life for a friend;
+There's no higher sacrifice
+Than a man would give his life,
+You have paid
+A precious price for me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You chose me,
+When I was so unworthy
+You cleansed me
+With Your own blood;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You clothed me
+With righteousness and mercy,
+And You crowned me
+With Your steadfast love</lines>
+    </verse>
+    <verse name="v6">
+      <lines>There's no greater love than this,
+There's no greater love than this,
+That a man would give his life for a friend;
+There's no higher sacrifice
+Than a man would give his life,
+You have paid
+A precious price for me</lines>
+    </verse>
+    <verse name="v7">
+      <lines>You have paid
+A precious price for me…</lines>
+    </verse>
+  </lyrics>
+</song>

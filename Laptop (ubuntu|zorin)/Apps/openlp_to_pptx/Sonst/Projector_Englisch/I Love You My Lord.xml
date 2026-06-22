@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Love You, My Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Randy Thomas</author>
+      <author type="music">Sam Oliver Scott</author>
+      <author type="translation">Ich will dich preisen, Herr, vielmehr als bisher</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I love You, my Lord,
+with all of my heart.
+You are my everything,
+You're the reason I sing.
+I love You, I love You,
+My Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love you, My Bride
+For you're in my heart
+Before the world ever began
+You were in my great plan
+I love you, I love you
+My Bride</lines>
+    </verse>
+  </lyrics>
+</song>

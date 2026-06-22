@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Aug 2, 2025, 9:29:31 PM">
+  <properties>
+    <titles>
+      <title>This Is Amazing Grace</title>
+    </titles>
+    <verseOrder>V1 V2 C3 V4 V5 C3 V6 C7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Who breaks the power of sin and darkness?
+Whose love is mighty and so much stronger?
+The King of Glory, the King above all kings.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Who shakes the whole earth with holy thunder?
+And leaves us breathless in awe and wonder?
+The King of Glory, the King above all kings.</lines>
+    </verse>
+    <verse name="C3">
+      <lines>This is amazing grace
+This is unfailing love
+That You would take my place
+That You would bear my cross
+You laid down Your life
+That I would be set free
+Oh, Jesus, I sing for
+All that You've done for me</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Who brings our chaos back into order?
+Who makes the orphan a son and daughter?
+The King of Glory, the King of Glory.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Who rules the nations with truth and justice?
+Shines like the sun in all of its brilliance?
+The King of Glory, the King above all kings.</lines>
+    </verse>
+    <verse name="V6">
+      <lines>Worthy is the Lamb who was slain
+Worthy is the King who conquered the grave
+Worthy is the Lamb who was slain
+Worthy is the King who conquered the grave
+Worthy is the Lamb who was slain
+Worthy is the King who conquered the grave
+Worthy is the Lamb who was slain
+Worthy, worthy, worthy</lines>
+    </verse>
+    <verse name="C7">
+      <lines>This is amazing grace
+This is unfailing love
+That You would take my place
+That You would bear my cross
+You laid down Your life
+That I would be set free
+Oh, Jesus, I sing for
+All that You've done for me
+All that You've done for me</lines>
+    </verse>
+  </lyrics>
+</song>

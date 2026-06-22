@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Feb 10, 2020, 8:21:31 PM">
+  <properties>
+    <titles>
+      <title>Peace in the Valley</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Well, I'm tired and so weary,
+But I must go along;
+Till the Lord comes and calls
+Me away, oh, yes;
+Well the morning is bright
+And the Lamb is the Light;
+And the night, night is as fair
+As the day, oh yes.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>There will be peace in the valley
+For me some day;
+There will be peace in the valley
+For me, oh, Lord, I pray;
+There'll be no sadness, no sorrow,
+no trouble I'll see;
+There will be peace
+In the valley for me.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>There the flow'rs will be blooming,
+And the grass will be green;
+And the skies will be clear
+And serene, oh, yes;
+Well the sun ever beams,
+In this valley of dreams;
+And no clouds there will ever
+Be seen, oh, yes.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Well, the bear will be gentle,
+And the wolf will be tame;
+And the lion shall lay down
+By the lamb, oh, yes;
+Well the beast from the wild,
+Shall be led by a little child;
+And I'll be changed, changed
+From this creature that I am, oh, yes.</lines>
+    </verse>
+  </lyrics>
+</song>

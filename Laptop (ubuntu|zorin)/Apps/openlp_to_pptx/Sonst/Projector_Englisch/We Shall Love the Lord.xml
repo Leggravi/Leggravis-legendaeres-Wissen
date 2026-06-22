@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Shall Love the Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We shall love the Lord
+With all our hearts,
+We shall love the Lord
+With all our souls,
+We shall love the Lord
+With all our minds,
+With all our hearts, with all our souls,
+With all our minds.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, I love you
+For all the things you are,
+Lord, I love you
+For all the things you do,
+Lord, I love you
+Help me to love you more,
+With all our hearts, with all our souls, with all our minds.</lines>
+    </verse>
+  </lyrics>
+</song>

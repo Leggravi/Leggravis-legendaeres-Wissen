@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Good grace</title>
+    </titles>
+    <authors>
+      <author type="words">Joel Houston</author>
+      <author type="music">Joel Houston</author>
+      <author type="translation">Gnädig (Menschen, kommt zusammen)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>People
+Come together
+Strange as neighbours
+Our blood is one
+Children
+Of generations
+Of every nation
+Of kingdom come</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Don’t let your heart be troubled
+Hold your head up high
+Don’t fear no evil
+Fix your eyes on this one truth
+God is madly in love with you
+Take courage
+Hold on
+Be strong
+Remember where our help comes from</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus
+Our redemption
+Our salvation
+Is in His blood
+Jesus
+Light of heaven
+Friend forever
+His kingdom come</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Swing wide
+All you heavens
+Let the praise go up
+As the walls come down
+All creation
+Everything with breath
+Repeat the sound
+All His children
+Clean hands
+Pure hearts
+Good grace
+Good God
+His Name is Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

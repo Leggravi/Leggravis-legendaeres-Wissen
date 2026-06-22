@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Is Lord, He Is Lord</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He is Lord, He is Lord,
+He is risen from the dead
+And he is Lord.
+Every knee shall bow,
+Every tongue confess
+That Jesus Christ is Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are Lord, You are Lord,
+You have risen from the dead
+And You are Lord.
+Every knee shall bow,
+Every tongue confess
+That You are Christ our Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He is King, he is King,
+He will draw all nations to him,
+He is King;
+And the time shall be
+when the world shall sing,
+That Jesus Christ is King.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He is love, he is love,
+He has shown us by his life
+that he is love;
+All his people sing
+with one voice of joy
+That Jesus Christ is love.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He is life, he is life;
+He has died to set us free
+and he is life;
+And he calls us all
+to live evermore,
+For Jesus Christ is life.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>He will come, He will come,
+He has promised in His Word
+that He will come,
+Some glad day or night
+with great power and might
+The risen Lord will come.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Come, Lord, come,
+Come, Lord, come,
+You have promised in Your Word
+that You will come,
+Some glad day or night
+with great power and might
+Oh come, Lord Jesus, come.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Rest for your soul (Are you tired and troubled...) </title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v4 v6 v7 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Are you tired and troubled?
+Weighed down
+by a heavy load?
+Praying for change,
+searching for faith
+Waiting on a miracle</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Are you drowning in questions?
+Can't believe where
+the road has lead
+There's one who knows,
+the heavy you hold
+And He says</lines>
+    </verse>
+    <verse name="v3">
+      <lines>&quot;Come to me
+All who are weary
+and heavy burdened
+All who are hurting</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come to me
+I'll be your shelter
+My yoke is easy,
+My load is light
+And you can find
+Rest for your soul
+Rest for your soul&quot;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There's a peace that
+can hold you
+And a power greater
+than your own
+When you feel so small,
+back to the wall
+That's when Jesus calls</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You were never meant
+to carry that weight alone,
+You were never meant
+to carry it on your own,
+Come to the cross,
+Lay it at the feet of Jesus</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Come to the cross,
+Lay it at the feet of Jesus
+There is one who knows,
+The heavy you hold
+And He says</lines>
+    </verse>
+  </lyrics>
+</song>

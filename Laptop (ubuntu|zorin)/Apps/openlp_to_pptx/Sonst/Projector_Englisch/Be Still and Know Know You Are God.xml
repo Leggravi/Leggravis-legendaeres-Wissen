@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Be Still and Know Know You Are God</title>
+    </titles>
+    <authors>
+      <author type="words">John L. Bell</author>
+      <author type="music">John L. Bell</author>
+    </authors>
+    <verseOrder>v1 v2 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have faced many mountains
+Been through trials
+And shed many tears
+When I look around and it all seems hopeless
+I won't fear
+I won't fear</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'll be still and know
+Know You are God
+You're right here with me
+Through all my troubles
+I'll be still and know
+Know You are God
+You are the light and rest for my soul
+You're God and I'll be still and know</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You're a well, That never runs dry
+No valley too deep, No mountain too high
+You are my strength
+And You are my guide
+Lord You're in control
+So I'll be still and know
+You're a well, That never runs dry
+No valley too deep
+No mountain too high
+You are my strength
+And You are my guide
+Lord You're in control, So I</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'll be still and know
+Know You are God
+You're right here with me
+Through all my troubles
+I'll be still and know
+Know You are God
+You are the light and rest for my soul
+You're God and I'll be still and know
+I'll be still, Oh yeah
+I'll be still and know
+Not gonna move, Gonna be still
+Oh yeah, Be still and know</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When my heart feels anxious
+It's Your voice that calms every storm
+When I find myself crying all through the night
+You remind me
+You remind me</lines>
+    </verse>
+  </lyrics>
+</song>

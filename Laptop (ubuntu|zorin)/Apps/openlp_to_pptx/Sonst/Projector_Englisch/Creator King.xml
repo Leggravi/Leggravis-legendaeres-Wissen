@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Creator King</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You who made the mountains and the sea
+Measured out the universe and You made me
+Echoes of the voice that called the worlds to be
+Reach throughout the ages and now speak to me
+You're my Creator King</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You who made the valleys and the skies
+Displayed Your love on far horizons and before my eyes
+You who lit the stars and set the dawn in time
+Called them all by name and now You whisper mine
+You're my Creator King</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who am I that You are mindful of me? Yeah
+Who am I that You sent Your love on me?
+You're my Creator King</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You who made the darkness and the light
+Sun and moon to watch the day and guard the night
+The hand that stretched the Heavens like a canopy
+Reaches down to cover and watch over me
+You're my Creator King</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Who am I? Who am I that You are mindful of me?
+Who am I that You sent Your love on me?
+Who am I that You are mindful of me?
+Who am I that You sent Your love on me? Yeah
+You're my Creator King,</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You're my Creator King
+You're my Creator King,
+You're my Creator King</lines>
+    </verse>
+  </lyrics>
+</song>

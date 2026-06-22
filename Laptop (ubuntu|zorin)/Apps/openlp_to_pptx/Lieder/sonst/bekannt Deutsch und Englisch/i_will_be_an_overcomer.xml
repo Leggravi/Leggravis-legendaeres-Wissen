@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="May 6, 2025, 5:19:47 PM">
+  <properties>
+    <titles>
+      <title>I Will Be an Overcomer</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>In the battle I'm fighting
+That brings me to my knees;
+When I feel alone and stranded,
+And no one seems to see,
+I won't let this valley steal my faith
+Sin won't have the victory;
+I'll stand upon the Word of God,
+I will overcome with Him.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>I will triumph in the trials
+I will glory in the cross;
+I will stand upon the mountain,
+Walk through the fire untouched;
+Though the world may rise against me,
+My strength is in the Lord;
+I will be an overcomer
+For He has overcome the world.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Problems maybe great
+But my God is greater still;
+So I'll walk out on this valley
+And proclaim the Father's will;
+And when it feels just like the end
+He will open up the door;
+I know that I shall overcome
+And be much stronger than before.</lines>
+    </verse>
+  </lyrics>
+</song>

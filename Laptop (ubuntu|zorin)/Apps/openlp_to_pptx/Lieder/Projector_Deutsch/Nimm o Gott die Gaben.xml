@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nimm, o Gott, die Gaben</title>
+    </titles>
+    <authors>
+      <author type="words">Angeregt durch den Umstand, dass im Musical die Abendmahls-Szene besungen wird, und durch die Eingängigkeit der Melodie ist schon bald – von einem unbekannt gebliebenen Autor – ein Gabenlied zur Messfeier entstanden, das in leicht variierenden Fassungen überliefert wird, die jedoch allesamt sprachliche und vor allem theologische Mängel aufweisen. R. Weber hat einen neuen Text unterlegt, ebenfalls als Gabenbereitungslied konzipiert: Die bereitgestellten Gaben von Brot und Wein werden zum Zeichen der Lebenshingabe Jesu. Die Singenden und Betenden halten mit diesen Gaben Gott ihr Leben mit allen Höhen und Tiefen hin und bitten dabei um Verwandlung und Heiligung durch seinen Geist.</author>
+      <author type="music">Andrew Lloyd Webber</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nimm, o Gott die Gaben, die wir bringen.
+Nimm uns selber an mit Brot und Wein.
+Alles Mühen, Scheitern und Gelingen
+wollen wir vertrauend dir, unserm Vater weihn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus hat sich für uns hingegeben,
+durch die Zeit bewahrt in Brot und Wein.
+Nimm als Lob und Dank auch unser Leben,
+schließ uns in die Hingabe deines Sohnes ein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nimm uns an, sei du in unserer Mitte,
+wandle unser Herz wie Brot und Wein.
+Sei uns nah und höre unsere Bitte,
+neu und ganz geheiligt von deinem Geist zu sein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wie die vielen Körner und die Trauben,
+eins geworden nun als Brot und Wein.
+Lass uns alle, die wir an dich glauben,
+eine Opfergabe als deine Kirche sein.</lines>
+    </verse>
+  </lyrics>
+</song>

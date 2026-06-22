@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Song I Sing for You</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a song in my heart that I keep
+Sufficient Grace that He has for me
+Who is unworthy of His great Love
+Yet He impart His Mercy for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now I know the reason He chose me
+Existed in eternity with Thee
+That's why O Lord Thou doest Love me
+A sinner and a wretch such as I</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What can I offer to You Precious Lord Jesus Christ?
+There is none but a song and I will sing to You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And this song I sing for You
+I bestow it all for Your Glory,
+with the life that came Lord from You</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Unto You Lord I give honor
+The adoration, worship and praise
+O be Thou glorified
+Be Thou exalted in my life
+I surrender my all to You</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Now I know the reason He chose me
+Existed in eternity with Thee
+That's why O Lord Thou doest Love me
+A sinner and a wretch such as I</lines>
+    </verse>
+  </lyrics>
+</song>

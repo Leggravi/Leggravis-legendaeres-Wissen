@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ein lieblich Los ist uns gefallen</title>
+    </titles>
+    <authors>
+      <author type="words">Philipp Spitta</author>
+      <author type="music">Johann Ludwig Friedrich Hainlin</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ein lieblich Los ist uns gefallen,
+ein schönes Erbteil uns beschert;
+lasst Lob und Preis dem Herrn erschallen,
+Er ist es wert, dass man Ihn ehrt;
+aus Gnaden hat Er uns erwählt
+und uns zu Seinem Volk gezählt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Er hat sich unser angenommen,
+Ihn jammert unser gar zu sehr.
+Weil wir zu Ihm nicht konnten kommen,
+kam Er zu uns von oben her;
+es war die wundervollste Lieb',
+die Ihn zu uns ins Elend trieb.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Er sah an uns nichts Ehrenwertes,
+nicht Tugend und nicht Würdigkeit,
+nein, nur Entstelltes und Verkehrtes,
+nur Sünde, Krankheit, Schmach und Leid
+und keinen, der in solcher Not
+uns Hilfe und Erlösung bot.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Da nahm der Leiden unsers Falles
+Er selbst, der Herr, Sich hilfreich an,
+gab selbst Sich uns und damit alles,
+was sich ein Herz nur wünschen kann,
+die Kindschaft und das Kindesteil,
+im ew'gen Leben ew'ges Heil.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O Herr, wir sind viel zu geringe
+der Güte, die Du uns getan;
+wir stehn und schauen solche Dinge
+beschämt und mit Erstaunen an.
+Die Liebe, die mit Gnade krönt,
+hat ewig uns mit Gott versöhnt.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wir hoffen nichts als lauter Gutes
+aus Deiner reichen Liebeshand
+und gehen nun getrosten Mutes
+durch dieses trübe Nebelland,
+als Kinder hier, als Erben einst dort,
+wo Du uns mit Dir vereinst.</lines>
+    </verse>
+  </lyrics>
+</song>

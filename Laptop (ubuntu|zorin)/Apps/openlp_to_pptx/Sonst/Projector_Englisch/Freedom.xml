@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Freedom</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm not a prisoner anymore
+My stolen joy has been restored
+He broke the chains
+That once held me
+The Son has made me free indeed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Freedom to worship, freedom to praise
+Freedom to walk in a sweeter way
+Freedom to sing, freedom to dance
+I have been given a second chance
+I'm not going back
+To the enemy's kingdom
+I tasted freedom</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His love destroyed the cage of sin
+With just one touch of You again
+No longer bound by enemy
+Each day I let His freedom reign</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 10, 2019, 10:24:26 PM">
+  <properties>
+    <titles>
+      <title>My God Is Awesome</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>My God is awesome
+He can move the mountains
+Keep me in the valley
+HIde me from the rain
+My God is awesome
+Heals me when im broken
+Strength where I've been weakened
+Forever He will reign</lines>
+    </verse>
+    <verse name="C2">
+      <lines>My God is awesome
+Awesome, awesome, awesome
+My God is awesome
+Awesome, awesome, awesome</lines>
+    </verse>
+    <verse name="V3">
+      <lines>My God is awesome
+Saviour of the whole world
+Giver of salvation
+By His stripes Iam healed
+My God is awesome
+Today Iam forgiven
+His grace is why I'm living
+Praise His holy name</lines>
+    </verse>
+    <verse name="V4">
+      <lines>My God is awesome
+Awesome, awesome, awesome
+My God is awesome
+Awesome, awesome, awesome</lines>
+    </verse>
+  </lyrics>
+</song>

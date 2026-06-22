@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Es ist köstlich dem Herrn zu danken</title>
+    </titles>
+    <authors>
+      <author type="words">Gitta Leuschner</author>
+      <author type="music">Marion Warrington</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es ist köstlich dem Herrn zu danken.
+Deinen Namen zu besingen höchster Gott,
+von deiner Güte zu erzählen schon am Morgen.
+Deine Treue rühmen auch bei Nacht.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Der Gerechte wird grünen wie ein Palmbaum
+und wird wachsen wie eine Zeder am Libanon zu zeigen,
+dass Du gerecht bist. Du bist mein Fels,
+und kein Unrecht findet man an Dir.</lines>
+    </verse>
+  </lyrics>
+</song>

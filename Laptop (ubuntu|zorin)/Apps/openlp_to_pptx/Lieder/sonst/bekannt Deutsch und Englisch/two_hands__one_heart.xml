@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 4, 2021, 8:54:41 PM">
+  <properties>
+    <titles>
+      <title>Two Hands, One Heart</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>What can I give, what can I bring
+That would be pleasing to my King
+I'll give my heart, not just a part
+I'm lifting up my everything
+Well it's all I have to offer
+And it's all I have to give</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Two hands, one heart
+One life to offer You
+Two hands, one heart
+That's what I give to You</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Use me today, I know You can
+Lord, I surrender to Your plan
+You made this heart,
+You made these hands
+Take me and use me as I am
+Well it's all I have to offer
+And it's all I have to give</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Little becomes a lot
+when it's in Your hands
+Take me and make me more like You
+Well, it may not seem like much
+But with the Master's touch
+I know that I'll be more like You</lines>
+    </verse>
+  </lyrics>
+</song>

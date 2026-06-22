@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>As for Me and My House</title>
+    </titles>
+    <authors>
+      <author type="words">Jim Bailey</author>
+      <author type="music">Jim Bailey</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When God delivered Israel from bondage that day,
+By a prophet a Pillar of Fire to guide them on their way,
+But true to man's nature and just like today,
+They looked back toward Egypt and in their hearts fell away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As for me and my house we'll serve only the Lord,
+We'll walk in His Footsteps believe only His Word,
+We'll raise up our children in the fear of the Lord,
+And there'll arise not a generation that knows not the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When Joshua led them over to that promised land,
+They were happy and rejoicing enemies fell at their hands,
+But when Joshua's days were ended and he lay down his sword,
+There arose a generation that knew not the Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let us fight the good fight from day to day,
+And like Moses said to Pharaoh we're off going out to pray,
+A Lamb for a house with the Blood all applied,
+We will claim our whole families to march by our side.</lines>
+    </verse>
+  </lyrics>
+</song>

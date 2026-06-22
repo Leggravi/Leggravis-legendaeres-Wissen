@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He's Everything To Me</title>
+    </titles>
+    <authors>
+      <author type="words">Ralph Carmichael</author>
+      <author type="music">Ralph Carmichael</author>
+      <author type="translation">In den Sternen Gottes Werk ich seh</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's everything, He's everything to me;
+He's everything, He's everything to me;
+For He's my father, my mother, my sister and my brother,
+He's everything to me.</lines>
+    </verse>
+  </lyrics>
+</song>

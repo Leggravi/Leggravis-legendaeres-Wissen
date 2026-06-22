@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sacrifice of Praise (We Bring the Sacrifice of Praise)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord we've come into your house
+and we've gathered in your name
+it's a privileged to be here
+we're so very glad we came
+we can sense your holy presence
+and the warmth of your embrace
+as we lift our hearts in worship
+we bring the sacrifice of praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We bring the sacrifice of praise
+Into the house of the Lord
+We bring the sacrifice of praise
+Into the house of the Lord
+And we offer up to You
+The sacrifices of thanksgiving
+And we offer up to You
+The sacrifices of joy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord you've taught us in your words
+to gives thanks in everything
+you'll provide a place of refuge
+beneath the shadow of your wings
+so we purpose to obey you
+and to walk in all your ways
+Lord in every situation
+We bring the sacrifice of praise</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Dem, der die Liebe ist</title>
+    </titles>
+    <authors>
+      <author type="words">Klaus Heizmann</author>
+      <author type="music">Klaus Heizmann</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dem, der die Liebe ist, gilt unser Lobgesang.
+Dem, der die Güte ist, singen wir Dank.
+Liebe, die sich verschenkt ohne Ansehen der Person,
+Güte, die ewig macht unser Leben reich.
+Liebe unfassbar tief. Güte unfassbar groß!
+Wir stehen staunend vor dir, du großer Gott,
+und nehmen Tag für Tag Liebe und Güte aus deiner Hand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dem, der die Freude ist, gilt unser Lobegesang.
+Dem, der die Treue ist, singen wir Dank.
+Freude, die Tiefen hat, die nicht oberflächlich ist,
+Treue, die ewig hält, gibt unserm Leben Sinn.
+Freude, unfassbar schön. Treue, unfassbar fest!
+Wir stehen staunend vor dir, du großer Gott,
+und nehmen Tag für Tag Freude und Treue aus deiner Hand.</lines>
+    </verse>
+  </lyrics>
+</song>

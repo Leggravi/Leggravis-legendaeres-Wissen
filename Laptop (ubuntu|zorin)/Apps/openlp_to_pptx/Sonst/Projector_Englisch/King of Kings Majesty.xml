@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>King of Kings, Majesty</title>
+    </titles>
+    <authors>
+      <author type="words">Jarrod Cooper</author>
+      <author type="music">Jarrod Cooper</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>King of kings, Majesty
+God of Heaven living in me
+Gentle Saviour, closest friend
+Strong Deliverer, beginning and end
+All within me falls at Your throne</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your Majesty, I can but bow
+I lay my all before You now
+In royal robes I don't deserve
+I live to serve Your Majesty.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Earth and Heaven worship You
+Love eternal, Faithful and True
+Who bought the nations, ransomed souls
+Brought this sinner near to Your throne
+All within me cries out in praise.</lines>
+    </verse>
+  </lyrics>
+</song>

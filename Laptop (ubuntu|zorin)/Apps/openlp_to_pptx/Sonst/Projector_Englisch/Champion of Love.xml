@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Champion of Love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ladies and gentlemen,
+May I have your attention?
+I want to introduce to you
+In this corner of the good and the right,
+Stands a Champion robed in white
+His height exceeds the heavens,
+His weight outweighs the world
+His reach reaches everywhere,
+His age is evermore</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He's higher than the highest
+He's greater than the great
+No one could ever take His crown away
+He's more mighty than the mightiest
+He reigns from above
+He's the all-time undisputed,
+Undefeated champion of love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He left His hometown to enter this arena,
+To raise His hands in victory for me
+An angry crowd crucified
+This King who wore their crown,
+As they gladly watched the champion going down
+Oh but I will never count Him out, for I'm a witness of
+The day He rose to reclaim
+The title &quot;Champion of Love&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

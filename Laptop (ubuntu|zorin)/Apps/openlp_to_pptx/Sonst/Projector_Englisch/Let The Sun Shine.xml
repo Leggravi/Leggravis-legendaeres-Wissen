@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let The Sun Shine</title>
+    </titles>
+    <authors>
+      <author type="words">Tore W. Aas</author>
+      <author type="music">Tore W. Aas</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a little life
+inside the seed of God,
+And in the Son,
+it will spring up from the sod;
+It is the rising of the Son,
+And I can feel His power
+to press on.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let the Son shine down on me,
+'Til the radiance of Your Word,
+in me, I see.
+In Your light, all darkness flees,
+Let the Son shine down on me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the presence
+of the Son of Man
+We can grow i
+n the image of I AM.
+There'll be light
+about the evening time,
+Calling, &quot;Bride, come up hither,
+RISE AND SHINE.&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

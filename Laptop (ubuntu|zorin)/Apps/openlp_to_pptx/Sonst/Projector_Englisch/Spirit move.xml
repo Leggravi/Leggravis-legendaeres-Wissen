@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Spirit move</title>
+    </titles>
+    <authors>
+      <author type="words">Amanda Cook</author>
+      <author type="music">Amanda Cook</author>
+      <author type="translation">Bewege uns neu</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I feel it in my bones, You're about to move
+I feel it in the wind, You're about to ride in
+You said that You would pour Your spirit out
+You said that You would fall on sons and daughters
+So come</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I feel it in my bones, You're about to move
+I feel it in the wind, You're about to ride in
+You said that You would pour Your spirit out
+You said that You would fall on sons and daughters</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So like the rain, come drench us in love
+And let Your glory rush in like a flood</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And we are fixed on this one thing
+To know Your goodness and see Your glory.
+We're transformed by this one thing
+To know Your presence and see Your beauty</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I can see it now, Your kingdom come
+I can hear it now, the sounds of heaven.
+You said that if we ask, we'll receive
+So we are asking for the greater measure.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>So like the rain, come drench us in love
+Let Your power rush in like a flood</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Yeah, we are fixed on this one thing
+To know Your goodness, see Your glory
+Oh, we're transformed by this one thing
+To know Your presence and see Your beauty</lines>
+    </verse>
+    <verse name="v8">
+      <lines>So come and blow on through
+Spirit move, we're ready for You
+To come and blow on through
+And come and do what only You can do</lines>
+    </verse>
+    <verse name="v9">
+      <lines>So come and blow on through, yes
+And Spirit move, we're ready for You
+To come and blow on through
+And come and do, yeah, what only You can do</lines>
+    </verse>
+    <verse name="v10">
+      <lines>And we are fixed on this one thing
+To know Your goodness and see Your glory
+Oh, we're transformed by this one thing
+To know Your presence and see Your beauty</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Oh, we are fixed on this one thing
+To know Your goodness and see Your glory
+Oh, we're transformed by this one thing
+To know Your presence and see Your beauty</lines>
+    </verse>
+  </lyrics>
+</song>

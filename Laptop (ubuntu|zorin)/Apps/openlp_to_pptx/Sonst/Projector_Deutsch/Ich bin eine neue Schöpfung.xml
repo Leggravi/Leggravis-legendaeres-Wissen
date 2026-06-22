@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich bin eine neue Schöpfung</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich bin eine neue Schöpfung,
+durch Jesu Blut gereinigt,
+durch Gottes Gnade bin ich frei.
+Ich dank Dir für Deine Gnade,
+mein Herz ist voller Freude,
+durch Gottes Gnade bin ich frei!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich will Dich loben, Herr!
+Ich will dich preisen, Herr!
+Und ich will singen von dem,
+was Du getan!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gottes Liebe kennt keine Grenzen,
+er liebt alle Menschen!
+Durch Gottes Gnade bin ich frei!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All Things Working As He Has Planned</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God knew me, before the world began,
+Back before time, God placd me in His hand,
+The thoughts of God eternal, manifested in this age,
+If you can see the thoughts of God,
+You'll see many things.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You'll see many things, God wants you to see,
+For He has a plan for you and for me,
+So why be discouraged, God had you in His mind,
+All things are working as He has planned.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When troubles comes and things go wrong,
+And you don't know what to do,
+Remember in His Word He said, these things must happen to you,
+The Lord tries the righteous but He brings them safely through,
+For He has a plan for me and for you.</lines>
+    </verse>
+  </lyrics>
+</song>

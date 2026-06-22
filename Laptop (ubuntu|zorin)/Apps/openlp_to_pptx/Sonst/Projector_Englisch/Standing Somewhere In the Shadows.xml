@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Standing Somewhere In the Shadows</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Are there crosses too heavy to carry?
+And burdens too heavy to bear?
+Are there heartaches and tears and anguish?
+And no one who sees and cares?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Standing somewhere in the shadows
+You’ll find Jesus,
+He’s a Friend who always cares and understands.
+Standing somewhere in the shadows You’ll find Him,
+And you’ll know Him by the nail prints in His Hands.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Are there shadows of deep disappointment?
+And trust that has proven untrue?
+As the darkness of night settles round you?
+As your hope and your faith waver through?</lines>
+    </verse>
+  </lyrics>
+</song>

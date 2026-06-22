@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Aug 27, 2019, 5:28:31 PM">
+  <properties>
+    <titles>
+      <title>Ach mein Herr Jesu, wenn ich dich nicht hätte</title>
+    </titles>
+    <verseOrder>V1 V2 V3 V4 V5 V6 V7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Ach mein Herr Jesu, wenn ich dich nicht hätte,
+Und wenn dein Blut nicht für die Sünder redte
+- Wo sollt ich Ärmster unter den Elenden
+Mich sonst hinwenden.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Ich wüsste nicht wo ich vor Jammer bliebe.
+Denn wo ist solch ein Herz wie deins voll Liebe.
+Du, du bist meine Zuversicht alleine,
+Sonst weiss ich keine.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Ich bin in Wahrheit eins der schlechtsten Wesen
+Das du dir lieber Heiland auserlesen.
+Und was du tust, das sind Barmherzigkeiten
+Auf allen Seiten.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Hättst du dich nicht zuerst an mich gehangen
+- Ich wär von selbst dich wohl nicht suchen gangen.
+Du suchtest mich und nahmst mich voll Erbarmen
+In deine Arme.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Nun dank' ich dir vom Grunde meiner Seelen
+Dass du nach deinem ewigen Erwählen
+Auch mich zu deiner Kreuzgemeine brachtest
+Und selig machtest.</lines>
+    </verse>
+    <verse name="V6">
+      <lines>Hör niemals auf, dich so zu offenbaren,
+Wie wir's bis an den heutgen Tag erfahren;
+Verherrliche an uns, Herr, deinen Namen
+Ohn' Ende! Amen.</lines>
+    </verse>
+    <verse name="V7">
+      <lines>Die Summa deiner köstlichen Gedanken
+Voll Langmut, voller Huld und ohne Wanken
+Beugt meine Seel in Staub und ist daneben
+Mein Trost und Leben.</lines>
+    </verse>
+  </lyrics>
+</song>

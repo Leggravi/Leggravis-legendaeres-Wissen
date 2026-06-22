@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:22">
+  <properties>
+    <titles>
+      <title>Gott wohnt in einem Lichte</title>
+    </titles>
+    <authors>
+      <author type="words">Jochen Klepper (1938)</author>
+      <author type="music">Straßburg</author>
+    </authors>
+    <ccliNo>6300256</ccliNo>
+    <themes>
+      <theme>Vertrauen</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott wohnt in einem Lichte, dem keiner nahen kann.
+Von seinem Angesichte trennt uns der Sünde Bann.
+Unsterblich und gewaltig ist unser Gott allein,
+will König tausendfaltig, Herr aller Herren sein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Und doch bleibt er nicht ferne, ist jedem von uns nah.
+Ob er gleich Mond und Sterne und Sonnen werden sah,
+mag er dich doch nicht missen in der Geschöpfe Schar,
+will stündlich von dir wissen und zählt dir Tag und Jahr.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Auch deines Hauptes Haare sind wohl von ihm gezählt.
+Er bleibt der Wunderbare, dem kein Geringstes fehlt.
+Den keine Meere fassen und keiner Berge Grat,
+hat selbst sein Reich verlassen, ist dir als Mensch genaht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Er macht die Völker bangen vor Welt- und Endgericht
+und trägt nach dir Verlangen, lässt auch den Ärmsten nicht.
+Aus seinem Glanz und Lichte tritt er in deine Nacht:
+Und alles wird zunichte, was dir so bange macht.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nun darfst du in ihm leben und bist nie mehr allein,
+darfst in ihm atmen, weben und immer bei ihm sein.
+Den keiner je gesehen noch künftig sehen kann,
+will dir zur Seite gehen und führt dich himmelan.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jun 23, 2025, 2:09:03 PM">
+  <properties>
+    <titles>
+      <title>When I Look into Your Holiness (I Worship You)</title>
+    </titles>
+    <verseOrder>V1 V2 V3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>When I look into Your holiness,
+When I gaze into Your loveliness,
+When all things that surround,
+Become shadows in the light of You</lines>
+    </verse>
+    <verse name="V2">
+      <lines>When I found the joy of reaching Your heart,
+When my will becomes enthroned in Your love,
+When all things that surround become shadows in the light of You</lines>
+    </verse>
+    <verse name="V3">
+      <lines>I worship You, I worship You!
+The reason I live is to worship You.
+I worship You, I worship You!
+The reason I live is to worship You.</lines>
+    </verse>
+  </lyrics>
+</song>

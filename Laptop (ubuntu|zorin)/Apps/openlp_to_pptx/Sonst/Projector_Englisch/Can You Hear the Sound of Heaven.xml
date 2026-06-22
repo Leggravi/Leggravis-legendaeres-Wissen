@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Can You Hear the Sound of Heaven</title>
+    </titles>
+    <authors>
+      <author type="words">Joe Blustin</author>
+      <author type="music">Joe Blustin</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hear the sound of heaven
+Like the sound of many waters
+It's the sound of worship
+Coming from the throne
+Cries of adoration
+As men from every nation
+Lift their voice
+To make His glory known</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Singing holy holy holy are You Lord
+Holy holy holy are You Lord
+The elders and angels bow
+The redeemed worship You now
+Holy holy holy are You Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We worship You
+With lips of adoration</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We worship You
+As a company of praise
+Let this temple be a place
+Where your glory is embrace
+As we stand in awe and worship You</lines>
+    </verse>
+  </lyrics>
+</song>

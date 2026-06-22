@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Go Tell It on the Mountain</title>
+    </titles>
+    <authors>
+      <author type="words">Spiritual</author>
+      <author type="music">Spiritual</author>
+      <author type="translation">Geht, ruft es von den Bergen</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Go, tell it on the mountain
+Over the hills and everywhere,
+Go, tell it on the mountain
+That Jesus Christ is born.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>While shepherds kept their watching
+O'er silent flocks by night
+Behold throughout the heavens
+There shone a Holy light</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The shepherds feared and trembled
+When, lo! Above the Earth
+Rang out the angel chorus
+That hailed our Savior's birth</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Down in a lowly manger
+Our humble Christ was born
+And brought us all salvation
+That blessed Christmas morn</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Go, tell it on the mountain
+Over the hills and everywhere
+Go, tell it on the mountain
+That Jesus Christ is born
+That Jesus Christ is born</lines>
+    </verse>
+  </lyrics>
+</song>

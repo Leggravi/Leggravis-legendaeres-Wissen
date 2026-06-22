@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>But If There Is No God</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There are those who live around us
+Who say God does not exist
+They claim I can’t feel His presence
+In my heart he does not live</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But so if there is no God
+Then explain the mountains
+If there is no God
+Then explain the sea
+Tell me there’s no higher power
+Then I’ll tell you what
+Jesus did for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He took upon Himself my sorrow
+He took my old desires away
+He placed my feet
+On a rock that’s stable
+He lives and reigns
+He is alive today</lines>
+    </verse>
+  </lyrics>
+</song>

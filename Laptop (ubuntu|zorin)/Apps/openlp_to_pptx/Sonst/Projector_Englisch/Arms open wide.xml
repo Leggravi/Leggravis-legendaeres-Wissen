@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Arms open wide</title>
+    </titles>
+    <authors>
+      <author type="words">Rita Baloche</author>
+      <author type="music">Rita Baloche</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Take my life I lay it down
+At the cross where I am found
+All I have I give to You oh God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take my hands and make them clean
+Keep my heart in purity
+That I may walk in all You have for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh here I stand
+Arms open wide
+Oh I am Yours
+And You are mine</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Take my moments and my days
+Let each breath that I take
+Be ever only for You oh God</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My whole life is Yours
+I give it all
+Surrendered to Your Name
+And forever I will pray
+Have Your way
+Have Your way</lines>
+    </verse>
+  </lyrics>
+</song>

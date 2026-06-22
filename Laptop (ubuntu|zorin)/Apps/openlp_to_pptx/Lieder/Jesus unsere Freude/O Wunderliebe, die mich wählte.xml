@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:08">
+  <properties>
+    <titles>
+      <title>O Wunderliebe, die mich wählte</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Gottfried Herrmann (1742)</author>
+      <author type="music">Georg Neumark</author>
+    </authors>
+    <ccliNo>6222066</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Wunderliebe, die mich wählte
+vor allem Anbeginn der Welt
+und mich zu ihren Kindern zählte,
+für welche sie das Reich bestellt!
+O Vaterhand, o Gnadentrieb,
+der mich ins Buch des Lebens schrieb.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Der Grund der Welt war nicht geleget,
+der Himmel war noch nicht gemacht,
+so hat Gott schon de Trieb geheget,
+der mir das Beste zugedacht;
+da ich noch nicht geschaffen war,
+da reicht er mir schon Gnade dar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sein Ratschluss war, ich sollte leben
+durch seinen eingebornen Sohn.
+Den wollt er mir zum Mittler geben,
+den macht er mir zum Gnadenthron,
+in dessen Blute sollt ich rein,
+geheiliget und selig sein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Im sichern Schatten deiner Flügel
+find ich die ungestörte Ruh.
+Der feste Grund hat dieses Siegel:
+Wer dein ist, Herr, denn kennest du.
+Lass Erd und Himmel untergehn,
+dies Wort der Wahrheit bleibet stehn.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ach, könnt ich dich nur besser ehren,
+welch frohes Loblied stimmt ich an!
+Es sollten Erd und Himmel hören,
+was du, mein Gott, an mir getan.
+Nichts ist so köstlich, nichts so schön
+als, höchster Vater, dich erhöhn.</lines>
+    </verse>
+  </lyrics>
+</song>

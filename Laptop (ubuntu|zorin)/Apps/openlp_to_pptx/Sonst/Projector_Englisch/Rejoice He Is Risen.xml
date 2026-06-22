@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Rejoice (He Is Risen)</title>
+    </titles>
+    <authors>
+      <author type="words">Moira Austin</author>
+      <author type="music">Moira Austin</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a time for mourning
+There is a time to grieve
+There is a time to just let go, a time to leave</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But this is a time for laughter
+This is a time for cheer
+You see the tomb is empty
+Jesus is not here</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rejoice, He risen, Rejoice He is living
+Rejoice, He has given, His life so rejoice
+Rejoice, His blood has cleansed is
+Rejoice, He has redeemed us and
+Called as his own
+So Rejoice</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He took my sin upon Him, He even took my pain
+Upon the cross, He died His loss has been my gain
+So let all rejoice in Jesus, Who are made new in Him
+Let us rejoice in Him, Who freed us from our Sin</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He holds the keys to unlock Death and Hell
+He holds the keys to His kingdom as well</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Will Meet You There</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You have called us to Your table,
+Love is waiting there,
+Spread before us, Heaven's table, tenderly prepared,
+Broken there the Bread of Life,
+flowing there the Healing Wine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We will meet You there and we'll find grace,
+To help in time of need, oh,
+We will meet You there and seek Your face,
+Bowing on our knees, and we'll cry, &quot;Holy, holy, holy!&quot;
+We will meet You there.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All are welcome at Your table, hope is waiting there,
+Whosoever to Your table, find Your tender care,
+Broken there the Bread of Life, flowing there the Healing Wine.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Shall Know Him</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Standing somewhere in the shadows
+you'll find Jesus,
+He's the One who always cares
+and understands;
+Standing somewhere in the shadows
+you will find Him,
+And you'll know Him in the nail prints
+in His hands.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I shall know Him, I shall know Him,
+As redeemed by His side
+I shall stand;
+I shall know Him, I shall know Him
+By the prints of the nails in His hands.</lines>
+    </verse>
+  </lyrics>
+</song>

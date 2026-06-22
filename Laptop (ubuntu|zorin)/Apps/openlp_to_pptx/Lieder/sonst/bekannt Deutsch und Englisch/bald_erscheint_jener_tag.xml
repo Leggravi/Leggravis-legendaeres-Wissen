@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Apr 11, 2020, 12:50:04 PM">
+  <properties>
+    <titles>
+      <title>Bald erscheint jener Tag</title>
+    </titles>
+    <verseOrder>V1 C2 V3 V4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Bald erscheint jener Tag, wo kein Herzeleid wird sein,
+keine Trübsal, keine Not, keine Träne, Angst und Tod.
+Friede herrscht in jenem Land, keine Sünde ist bekannt,
+welch ein Tag, glorreicher Tag wird das sein!</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Welch ein Tag wird das sein,
+wenn einst Jesus mich führt heim,
+meinen Heiland dann ich seh,
+der aus Gnaden mich erseh’n.
+Und Er nimmt mich bei der Hand,
+führt mich ins verheiß’ne Land.
+Welch ein Tag, glorreicher Tag wird das sein!</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Keine Sorgen sind dort, Fried’ und Freud’ erfüllt den Ort,
+keine Krankheit noch Leid, dort man jauchzet allezeit.
+Und für immer darf ich sein, mit dem Heiland dort vereint,
+welch ein Tag, glorreicher Tag wird das sein!</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Bald erscheint jener Tag, da der Herr der Herrlichkeit,
+kommt zurück auf diese Erd, dass sein Reich gegründet wird’.
+Alle die Ihm treu gedient, werden dort mit Ehr’ gekrönt.
+Welch ein Tag, glorreicher Tag wird das sein!</lines>
+    </verse>
+  </lyrics>
+</song>

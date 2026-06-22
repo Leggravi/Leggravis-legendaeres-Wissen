@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Preist Adonai</title>
+    </titles>
+    <authors>
+      <author type="words">Guido Baltes</author>
+      <author type="music">Paul Baloche</author>
+      <author type="translation">Praise Adonai (Who is like Him)</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wer ist wie Er
+Der Löwe und das Lamm
+Auf dem höchsten Thron
+Berge und Meer
+Beugen sich vor Ihm
+Dem Herrn der Herrlichkeit</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Preist Adonai
+Vom frühen Morgen an
+Bis zum Sonnenuntergang
+Preist Adonai
+Alle Völker dieser Welt
+Alle Engel singen
+Preist den Herrn</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Preist Adonai
+Vom frühen Morgen an
+Bis zum Sonnenuntergang
+Preist Adonai
+Alle Völker dieser Welt
+Alle Engel singen
+Preist Ihn</lines>
+    </verse>
+  </lyrics>
+</song>

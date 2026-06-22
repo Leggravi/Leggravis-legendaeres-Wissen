@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Someday We Will Be in Heaven</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Someday we will be in heaven
+Standing in the presence of the Lord
+He will reward those who obey Him
+Accept those who accept Him in their heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Are you ready now to face Jesus?
+Are you doing now His will?
+Are You keeping all
+His commandments that He gave You
+Are you ready now to face the Lord?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Don't waste the time that
+He had gave You
+Spend each day with Jesus in your heart
+Praying always in the spirit
+Always giving glory to the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

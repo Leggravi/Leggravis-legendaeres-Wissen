@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Hold My Hand</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As I travel through this pilgrim land
+There is a friend who walks with me
+Leads me safely through the sinking sand
+It is the Christ at Calvary.
+This would be my prayer, dear Lord, each day
+You help me do the best I can
+For I need Thy light to guide me day and night
+Blessed Jesus, hold my hand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, hold my hand
+For I need Thee every hour
+Through this pilgrim land
+Protect me by Thy power.
+Hear my feeble plea
+O Lord, look down on me
+When I kneel in prayer
+I hope to meet You there
+Blessed Jesus, hold my hand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let me travel in the light divine
+That I may see the blessed way
+Keep me that I may be wholly Thine
+And sing 'Redemption's Song' some day.
+I will be a soldier brave and true
+And ever firmly take a stand
+As I onward go and daily meet the foe
+Blessed Jesus, hold my hand.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When I wander thru the valley dim
+Toward the setting of the sun,
+Lead me safely to the land of rest
+If a crown of life have won.
+I have put my faith in Thee, dear Lord
+That I may reach the golden strand
+There's no other friend on whom I can depend
+Blessed Jesus, hold my hand.</lines>
+    </verse>
+  </lyrics>
+</song>

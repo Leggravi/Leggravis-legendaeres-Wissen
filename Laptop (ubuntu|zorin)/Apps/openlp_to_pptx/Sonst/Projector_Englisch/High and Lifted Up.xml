@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>High and Lifted Up</title>
+    </titles>
+    <authors>
+      <author type="words">Mike Guglielmucci</author>
+      <author type="music">Mike Guglielmucci</author>
+      <author type="translation">Du bist hoch erhoben, Herr (Herr der ganzen Welt und aller Himmel)</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>High and lifted up in all His glory,
+High and lifted up in robes of white;
+Coming back to rule and reign forever,
+High and lifted up is Jesus Christ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Faces</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I dreamed my life was done I stood before God's son
+It was time to see what my reward would be
+With love He reviewed my life
+To count what was done for Christ
+For that was what would last eternally</lines>
+    </verse>
+    <verse name="v2">
+      <lines>See I'd done my best to share that Jesus really cares
+And He would save if they would just believe
+Oh, but seldom did harvest come so few did I see won
+Until the Lord said, turn around and see</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Then He showed me the faces of the ones who'd come because of me
+So many faces that my life had led to Calvary, all those years I thought nobody saw
+As I labored in lowly places
+That's when Jesus smiled and showed me all the faces</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He said through you did not see the yield
+You were faithful to plow the field
+At other times you helped me plant the seed
+No matter how small the task you did just as I asked
+And thanks to you these souls have been set free</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And for those years you thought nobody saw as you labored in lowly places
+One day He'll smile and showed you all the faces</lines>
+    </verse>
+  </lyrics>
+</song>

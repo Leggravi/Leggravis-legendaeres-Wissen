@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Be Thou supreme, O Jesus Christ</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Be Thou supreme, O Jesus Christ,
+Thy love has conquered me;
+Beneath Thy Cross I die to self,
+And live alone to Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be Thou supreme, O Jesus Christ,
+Nor creed, nor form, nor word,
+Nor holy Church, nor human love,
+Compare with Thee, my Lord!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Be Thou supreme, O Jesus Christ,
+My inmost being fill;
+So shall I think as Thou dost think,
+And will as Thou dost will.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Be Thou supreme, O Jesus Christ,
+Thy life transfigure mine;
+And through this veil of mortal flesh,
+Lord, let Thy splendor shine.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4. Be Thou supreme, O Jesus Christ,
+My soul exults in Thee;
+To be Thy slave, to do Thy will,
+Is my felicity.</lines>
+    </verse>
+  </lyrics>
+</song>

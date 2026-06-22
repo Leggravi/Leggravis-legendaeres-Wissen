@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Good God Almighty</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can't count the times I've called Your name some broken night
+And You showed up and patched me up like You do every time
+I get amnesia, I forget that You keep coming around
+Yeah, ain't no way You'll ever let me down (me down)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Good God almighty I hope You'll find me
+Praising Your name no matter what comes
+'Cause I know where I'd be without Your mercy
+So I keep praising Your name at the top of my lungs</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tell me, is He good? (He's good)
+Tell me, is He God? (He's God)
+He is good God Almighty</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You say Your love goes on forever, that Your mercy never stops
+So why would I assume You'd be somebody that You're not
+Like sun in the morning, I know You're gonna be there every day
+So what on earth could make me be afraid? (Afraid)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tell me, is He good? (He's good)
+Tell me, is He God? (He's God)
+He is good God almighty</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Praise Him in the morning
+Praise Him in the noontime
+Praise Him when the sun goes down
+Love Him in the morning
+Love Him in the noontime
+Love Him when the sun goes down</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Good God almighty
+I hope You'll find me (hope You'll find me)
+Praising Your name no matter what comes (no matter what comes)
+'Cause I know where I'd be without Your mercy
+So I keep praising Your name at the top of my lungs
+Tell me, is He good? (He's good)
+Tell me, is He God? (He's God)
+He is good God almighty</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Jesus in the morning
+Jesus in the noontime
+Jesus when the sun goes down
+Jesus in the morning
+Jesus in the noontime
+Jesus when the sun goes down</lines>
+    </verse>
+  </lyrics>
+</song>

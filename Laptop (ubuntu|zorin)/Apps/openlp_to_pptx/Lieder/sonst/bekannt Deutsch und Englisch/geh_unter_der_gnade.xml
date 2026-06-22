@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Nov 5, 2018, 7:24:33 PM">
+  <properties>
+    <titles>
+      <title>Geh unter der Gnade</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="C1">
+      <lines>Geh unter der Gnade,
+geh mit Gottes Segen,
+geh mit seinem Frieden,
+was auch immer du tust.
+Geh unter der Gnade,
+hör auf Gottes Worte,
+bleib in seiner Nähe,
+ob du wachst oder ruhst.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Alte Stunden, alte Tage,
+lässt du zögernd nur zurück.
+Wohlvertraut wie alte Kleider
+sind sie dir durch Leid und Glück.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Neue Stunden, neue Tage,
+zögernd nur steigst du hinein.
+Wird die neue Zeit dir passen,
+ist sie dir zu groß, zu klein?</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Gute Wünsche, gute Worte,
+wollen dir Begleiter sein.
+Doch die besten Wünsche münden
+alle in den einen ein:</lines>
+    </verse>
+  </lyrics>
+</song>

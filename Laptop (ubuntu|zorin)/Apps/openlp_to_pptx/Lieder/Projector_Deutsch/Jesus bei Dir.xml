@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus bei Dir</title>
+    </titles>
+    <authors>
+      <author type="words">Daniel Kallauch</author>
+      <author type="music">Daniel Kallauch</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bei dir wird meine Seele still.
+Bei dir kommt mein Herz zur Ruhe.
+Bei dir wird meine Seele satt.
+Bei dir bin ich zu Haus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist das Brot von dem ich lebe.
+Du bist der Fels auf dem ich stehen kann.
+Du bist der Weg auf dem ich gehe.
+Du bist das Licht auch in tiefster Nacht.
+Jesus, Jesus, Jesus bei dir!
+Jesus, Jesus, Jesus bei dir!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du bist die Wahrheit, die ich glaube.
+Du bist die Tür, die mir offen steht.
+Du bist der Hirte, dem ich folge.
+Du bist der Herr, der alle Welt regiert.
+Jesus, Jesus, Jesus regiert!
+Jesus, Jesus, Jesus regiert!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du bist der König, dem ich diene.
+Du bist der Herr dem ich ganz gehör'.
+Du bist Jesus, den ich liebe.
+Mein Leben lang sei Dir alle Ehr'.
+Jesus, Jesus, Jesus Dir allein.
+Jesus, Jesus, Jesus, Dir allein.</lines>
+    </verse>
+  </lyrics>
+</song>

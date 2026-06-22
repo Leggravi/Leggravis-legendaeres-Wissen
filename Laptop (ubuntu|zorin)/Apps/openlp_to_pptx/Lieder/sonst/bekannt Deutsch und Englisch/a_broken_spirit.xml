@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jan 7, 2025, 11:37:57 AM">
+  <properties>
+    <titles>
+      <title>A Broken Spirit</title>
+    </titles>
+    <verseOrder>V1 V2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>A broken spirit and a contrite heart
+You will not despise,
+You will not despise
+You desire truth
+In the inward parts
+A broken spirit and a contrite heart</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Lord, my heart is prone to wander
+Prone to leave, the God I love
+Here’s my heart, Lord take and seal it
+Seal it for, Your courts above.</lines>
+    </verse>
+  </lyrics>
+</song>

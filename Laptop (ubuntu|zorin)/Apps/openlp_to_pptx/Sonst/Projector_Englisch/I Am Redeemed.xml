@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Am Redeemed</title>
+    </titles>
+    <authors>
+      <author type="words">Tony Humphries</author>
+      <author type="music">Tony Humphries</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was a slave in a foreign land
+So very far from the Father's loving hand
+He rescued me, one glorious day
+He brought me out, paid a debt I could not pay</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am redeemed, I am redeemed
+Jesus loosed the chains of sin and set me free
+I am redeemed, I am redeemed
+Jesus loosed the chains of sin and set me free</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Still I live, in a foreign land
+Now I'm free according to redemptions plan
+Soon I'll join the robed in white, the redeemed
+We'll sing a song the holy angels, cannot sing</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Some glorious morning they will come from all nations,
+from every generation. Side by side they will march into the
+celestial city of Jehova and in perfect harmony they will begin
+humming a brand new song. A song composed by God
+Himself, arranged for His children. And as the saved by grace
+approach the land of their dreams, the host of Heaven will
+step aside. Even the angels will be silent. For they cannot
+sing this new song. For this song is reserved for voices that
+once cried out for a redeemer. Those washed in the blood
+of the Lamb.&quot;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I am redeemed, by love divine
+Glory, glory Christ is mine, He's mine
+All to him, I now resign
+Jesus loosed the chains of sin and set me free.
+My Jesus loosed the chains of sin and set me free.</lines>
+    </verse>
+  </lyrics>
+</song>

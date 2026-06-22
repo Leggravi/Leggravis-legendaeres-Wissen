@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Surrounded</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v4 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a table that You've prepared for me
+In the presence of my enemies
+It's Your body and Your blood You shed for me
+This is how I fight my battles</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This is how I fight my battles</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I believe You've overcome
+And I will lift my song of praise for what You've done</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This is how I fight my battles
+This is how I fight my battles
+This is how I fight my battles
+This is how</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In the valley I know that you're with me
+Surely Your goodness and your mercy follows me
+My weapons are praise and thanksgiving
+This is how I fight my battles</lines>
+    </verse>
+    <verse name="v6">
+      <lines>It may look like I'm surrounded but I'm surrounded by You</lines>
+    </verse>
+  </lyrics>
+</song>

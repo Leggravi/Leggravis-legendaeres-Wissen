@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wenn meine Sünd’ mich kränken</title>
+    </titles>
+    <authors>
+      <author type="words">Justus Gesenius</author>
+      <author type="music">Leipzig</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1) Wenn meine Sünd’ mich kränken,
+o mein Herr Jesu Christ,
+so lass mich wohl bedenken,
+wie du gestorben bist
+und alle meine Schuldenlast
+am Stamm des heilgen Kreuzes
+auf dich genommen hast.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2) O Wunder ohne Maßen,
+wenn man’s betrachtet recht:
+es hat sich martern lassen
+der Herr für seinen Knecht;
+es hat sich selbst der wahre Gott
+für mich verlornen Menschen
+gegeben in den Tod.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3) Was kann mir denn nun schaden
+der Sünden große Zahl?
+Ich bin bei Gott in Gnaden,
+die Schuld ist allzumal
+bezahlt durch Christi teures Blut,
+dass ich nicht mehr darf fürchten
+der Hölle Qual und Glut.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4) Drum sag ich dir von Herzen
+jetzt und mein Leben lang
+für deine Pein und Schmerzen,
+o Jesu, Lob und Dank,
+für deine Not und Angstgeschrei,
+für dein unschuldig Sterben,
+für deine Lieb und Treu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5) Herr, lass dein heilig Leiden
+mich reizen für und für,
+mit allem Ernst zu meiden
+die sündliche Begier,
+dass mir nie komme aus dem Sinn,
+wie viel es dich gekostet,
+dass ich erlöset bin.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6) Mein Kreuz und meine Plagen,
+sollt’s auch sein Schmach und Spott,
+hilf mir geduldig tragen;
+gib, o mein Herr und Gott,
+dass ich verleugne diese Welt
+und folge dem Exempel,
+das du mir vorgestellt.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>7) Lass mich an andern üben,
+was du an mir getan;
+und meinen Nächsten lieben,
+gern dienen jedermann
+ohn Eigennutz und Heuchelschein
+und, wie du mir erwiesen,
+aus reiner Lieb allein.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>8) Lass endlich deine Wunden
+mich trösten kräftiglich
+in meiner letzten Stunden
+und des versichern mich:
+weil ich auf dein Verdienst nur trau,
+du werdest mich annehmen,
+dass ich dich ewig schau.</lines>
+    </verse>
+  </lyrics>
+</song>

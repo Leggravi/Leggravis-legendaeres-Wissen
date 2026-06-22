@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Victory Is Mine</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Victory is mine, victory is mine,
+Victory today is mine.
+I told Satan,
+&quot;Get Ye behind,&quot;
+Victory today is mine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Joy is mine, joy is mine
+Joy today is mine
+I told Satan
+&quot;Get Ye behind&quot;
+Victory today is mine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Happiness is mine, happiness is mine
+Happiness today is mine
+I told satan
+&quot;Get Ye behind&quot;
+Happiness today is mine</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Healing is mine, healing is mine
+Healing today is mine
+I told satan
+&quot;Get Ye behind&quot;
+Healing today is mine.</lines>
+    </verse>
+  </lyrics>
+</song>

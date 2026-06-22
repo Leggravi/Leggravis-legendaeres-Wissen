@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Take the Name of Jesus With You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Take the name of Jesus with you,
+Child of sorrow and of woe;
+It will joy and comfort give you,
+Take it then where’er you go.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/: Precious name! Oh, how sweet!
+Hope of earth and joy of heav’n; :/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Take the name of Jesus ever,
+As a shield from every snare.
+If temptations round you gather,
+Breathe that holy name in prayer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, the precious Name of Jesus!
+How it thrills our souls with joy,
+When His loving arms receive us,
+And His songs our tongues employ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>At the Name of Jesus bowing,
+Falling prostrate at His feet,
+King of kings in heav’n we’ll crown Him,
+When our journey is complete.</lines>
+    </verse>
+  </lyrics>
+</song>

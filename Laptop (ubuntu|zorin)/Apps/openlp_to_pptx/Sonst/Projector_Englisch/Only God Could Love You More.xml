@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Only God Could Love You More</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I ask the Lord for someone
+And I always knew
+That in God's time and in God's way
+It would be someone like you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All my hopes and all my dreams
+Were suddenly fulfilled
+It's almost unbelievable
+Our love was in His will</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Only God could Love you more
+For He gave me this love I have for you
+What a blessing to know He's your Lord
+For only God could love you more than I do</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'm tempted to be saying
+That we met by chance
+But God was there at every turn
+In every circumstance</lines>
+    </verse>
+    <verse name="v5">
+      <lines>To share this life God gave me
+Seems such a fearful task,
+But every moment we have shared
+Is more than I could ask</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Only God could love you more
+For He gave me this love I have for you
+What a blessing to know He's your Lord
+For only God could love you more than I do</lines>
+    </verse>
+    <verse name="v7">
+      <lines>For only God could love you more than I do</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>A Parent's Prayer</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord I want my kids to know
+A straight and narrow road
+But the world is waging war
+Against their soul,
+This I know
+Lord I want my kids to win
+Over the power of sin
+But I can’t control their choices
+That they make,
+So this I pray</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hold their hearts when I’m not there
+When trials come to test their faith
+Let ‘em know the power of prayer
+Hold their lives in your hands
+When the world tries to push them down
+Provide the grace to stand
+Hold them close when I can’t</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord I want my kids to be living life victoriously
+Yet I know that there’s no win without a war.
+Yes, there’s a war
+Lord I am trying to let go
+All of my earthly control
+So that heaven has the strongest voice today,
+So this I pray</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord, you know I try the best I can
+But there’s one thing that I understand
+I am not the savior they need to know
+And I am not so blind that I can’t see
+That the greatest place for them to be
+It’s not my arms but in your mighty hand
+Mighty hand</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hold them close when I can’t
+Oooh, hold them close</lines>
+    </verse>
+  </lyrics>
+</song>

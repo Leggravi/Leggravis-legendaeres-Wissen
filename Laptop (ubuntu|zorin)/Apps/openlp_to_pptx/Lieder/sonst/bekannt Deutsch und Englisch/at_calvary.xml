@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Feb 1, 2023, 8:44:50 PM">
+  <properties>
+    <titles>
+      <title>At Calvary</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2 V5 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Years I spent in vanity and pride,
+Caring not my Lord was crucified,
+Knowing not it was for me He died
+On Calvary.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>Mercy there was great, and grace was free;
+Pardon there was multiplied to me;
+There my burdened soul found liberty,
+At Calvary.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>By God's Word at last my sin I learned;
+Then I trembled at the law I'd spurned,
+Till my guilty soul imploring turned
+To Calvary.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Now I've given to Jesus everything,
+Now I gladly own Him as my King,
+Now my raptured soul can only sing
+Of Calvary.</lines>
+    </verse>
+    <verse name="V5">
+      <lines>Oh, the love that drew salvation's plan!
+Oh, the grace that brought it down to man!
+Oh, the mighty gulf that God did span
+At Calvary!</lines>
+    </verse>
+  </lyrics>
+</song>

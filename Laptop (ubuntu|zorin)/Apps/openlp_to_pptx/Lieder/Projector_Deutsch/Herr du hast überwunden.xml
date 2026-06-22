@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Herr, du hast überwunden</title>
+    </titles>
+    <authors>
+      <author type="words">Julius Anton von Poseck</author>
+      <author type="music">Melchior Vulpius</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herr, Du hast überwunden
+des Feindes Macht und Spott.
+Wir haben Heil gefunden,
+mit uns ist unser Gott.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Der Fried' ist uns erstritten,
+uns quälet' Furcht nicht mehr,
+Du hast für uns gelitten.
+Anbetung Dir und Ehr'!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In Deines Grabes Staube
+liegt unsre Schuld bedeckt,
+und froh bekennt der Glaube,,
+dass uns kein Feind mehr schreckt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Auch kann uns nichts mehr scheiden
+von Deiner Lieb', o Herr,
+nicht Schmach, noch Kampf, noch Leiden.
+O Dir sei Preis und Ehr'!</lines>
+    </verse>
+  </lyrics>
+</song>

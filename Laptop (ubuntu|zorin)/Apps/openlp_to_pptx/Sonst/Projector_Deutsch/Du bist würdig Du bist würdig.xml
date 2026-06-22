@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist würdig, Du bist würdig</title>
+    </titles>
+    <authors>
+      <author type="words">Unbekannt</author>
+      <author type="music">Pauline Michael Mills</author>
+      <author type="translation">Thou art worthy</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist würdig, Du bist würdig, Du bist würdig, o Gott.
+du bist würdig von uns zu nehmen, Preis und Ehre und Dank.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Denn Du schufst das All und durch Dich kam das Leben,
+in Dir ist die Fülle die Kraft.
+Du bist würdig, von uns zu nehmen, Preis und Ehre und Dank.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Denn du bis das Lamm, das für uns ward geschlachtet,
+du hast uns den Vater erkauft.
+​Du bist würdig, von uns zu nehmen, Preis und Ehre und Dank.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du hast uns erlöst und befreit und gereinigt,
+Dein Tod hat uns Leben gebracht!
+Du bist würdig, von uns zu nehmen, Preis und Ehre und Dank.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Denn du bist der Herr, der die Erde erneuert,
+du baust dir das ewige Reich.
+Du bist würdig, von uns zu nehmen, Preis und Ehre und Dank.</lines>
+    </verse>
+  </lyrics>
+</song>

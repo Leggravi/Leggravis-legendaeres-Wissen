@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Are Free</title>
+    </titles>
+    <authors>
+      <author type="words">Jonas Myrin</author>
+      <author type="music">Jonas Myrin</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v5 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chains are broken, 'cause You have spoken,
+It is finished on the cross,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now I'm living in Your freedom,
+Jesus You have set me free,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>By the power of Your Spirit,
+Every captive is released,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For this purpose, I am living,
+Jesus You have set me free,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nothing's going to hold me back,
+No, nothing's going to keep me down,
+Jesus has set me free, I'm free indeed.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I will give You praise
+With everything I am I'll praise,
+Whatever may come my way,
+You have won the victory, You set me free.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I'm surrounded by Your goodness,
+I am covered by Your grace,</lines>
+    </verse>
+    <verse name="v8">
+      <lines>My heart is grateful, forever thankful,
+'Cause Jesus You have set me free.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>We are free, we are free
+And we have the victory.
+We are free, we are free
+And we have the victory.</lines>
+    </verse>
+  </lyrics>
+</song>

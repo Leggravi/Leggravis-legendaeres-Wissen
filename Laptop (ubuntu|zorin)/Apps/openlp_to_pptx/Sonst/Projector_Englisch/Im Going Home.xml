@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I'm Going Home</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm going home,
+On the road home.
+Going back to God where I belong.
+Heaven and earth will embrace,
+Glory to God! I'll see His face!
+I'm going back to God
+Where I belong.</lines>
+    </verse>
+  </lyrics>
+</song>

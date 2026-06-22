@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Flowers</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Well blue skies and hillsides
+feel so far away
+And I wrote in my notebook
+that I've seen better days,
+Than the ones as of late,
+I can't bear the weight.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The rain won't stop pouring
+down my window pane
+And I haven't left my bedroom in 76 days,
+I wish something would change,
+Cause I'm losing faith.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So I brought it up in a desperate prayer,
+Lord, why are you keeping me here?
+Then He said to me,
+Child I'm planting seeds,
+I'm a good God,
+and I have a good plan,
+So trust that I'm holding a watering can,
+And someday you'll see,
+That flowers grow in the valley.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So whatever the reason
+I'm barely getting by
+I'll trust it's a season
+knowing that you're by my side
+Every step of the way
+And I'll be okay.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Cause I brought it up in a desperate prayer,
+Lord, why are you keeping me here?
+Then He said to me,
+Child I'm planting seeds,
+I'm a good God and I have a good plan,
+So trust that I'm holding a watering can,
+And someday you'll see,
+That flowers grow in the valley.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>When I'm on the mountain,
+and looking down below,
+I'll see a valley of flowers,
+that needed time to grow,
+And I'll thank you for the rain,
+The hurt and days of pain.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>And I'll bring it up in a grateful prayer,
+Thank you Jesus for keeping me there,
+You know just what I need
+And you've planted seeds,
+Cause you're a good God
+with a real good plan,
+And you hold my world,
+And a watering can,
+So I can have peace,
+Cause flowers grow in the valley.</lines>
+    </verse>
+  </lyrics>
+</song>

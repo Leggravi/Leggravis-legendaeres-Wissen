@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Nach des Tages Last</title>
+    </titles>
+    <authors>
+      <author type="words">Kommunität Gnadenthal</author>
+      <author type="music">Kommunität Gnadenthal</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nach des Tages Last
+suchen wir Ruhe in Dir.
+Du Herr Jesus hast
+den wahren Frieden bei Dir.
+Du warst mit uns diesen Tag,
+hast uns gesegnet ohne Ende.
+Alle Arbeit, Freud und Klag
+legen wir jetzt in Deine Hände.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du sahst unser Tun,
+o Herr, Du hast es erfüllt,
+lässt uns in Dir ruh‘n,
+von deinem Segen umhüllt.
+Herr, wir geben Dir zurück
+den ganzen Tag mit seinen Mühen.
+Du allein bist unser Glück,
+willst uns durch alles zu Dir ziehen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nach des Tages Last
+finden wir Ruhe in Dir.
+Du, Herr, schenkst uns Rast
+und tiefen Frieden mit Dir.
+Du allein bist unser Ziel,
+darum erheben wir die Hände:
+Deine Gnade, Deine Treu
+lass uns anbeten ohne Ende!</lines>
+    </verse>
+  </lyrics>
+</song>

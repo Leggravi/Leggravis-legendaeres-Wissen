@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Love the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Lincoln Brewster</author>
+      <author type="music">Lincoln Brewster</author>
+      <author type="translation">Liebe Gott, den Herrn</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Love the Lord, your God, with all your heart
+With all your soul, with all your mind
+And with all your strength
+Love the Lord, your God, with all your heart
+With all your soul, with all your mind
+And with all your strength</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With all your heart, with all your soul
+With all your mind, with all your strength
+Love the Lord, your God, with all your heart
+With all your soul, with all your mind
+And with all your strength</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will serve the Lord with all my heart
+With all my soul, with all my mind
+And with all my strength
+I will serve the Lord with all my heart
+With all my soul, with all my mind
+And with all my strength</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will love You, sing it out (I will love You)
+I will praise You, lift hm up (I will praise You)
+I will serve You, Lord (I will serve You)
+I will trust You, Lord (I will trust You)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>With all my heart, with all my soul
+With all my mind, with all my strength
+With all my heart, with all my soul
+With all my mind, with all my strength</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I will love You, Lord, with all my heart
+With all my soul, with all my mind, and with all my strength
+I will love You, Lord, with all my heart
+With all my soul, with all my mind, and with all my strength
+I will love You, Lord, with all my heart
+With all my soul, with all my mind, and with all my strength</lines>
+    </verse>
+  </lyrics>
+</song>

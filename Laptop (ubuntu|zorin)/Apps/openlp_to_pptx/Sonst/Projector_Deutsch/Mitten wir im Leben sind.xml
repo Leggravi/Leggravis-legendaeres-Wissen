@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mitten wir im Leben sind</title>
+    </titles>
+    <authors>
+      <author type="words">Salzburg</author>
+      <author type="music">Johann Walter</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mitten wir im Leben sind
+mit dem Tod umfangen.
+Wer ist, der uns Hilfe bringt,
+dass wir Gnad erlangen?
+Das bist du, Herr, alleine.
+Uns reuet unsre Missetat,
+die dich, Herr, erzürnet hat.
+Heiliger Herre Gott,
+heiliger starker Gott,
+heiliger barmherziger Heiland,
+du ewiger Gott:
+lass uns nicht versinken
+in des bittern Todes Not.
+Kyrieleison.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mitten in dem Tod anficht
+uns der Hölle Rachen.
+Wer will uns aus solcher Not
+frei und ledig machen?
+Das tust du, Herr, alleine.
+Es jammert dein Barmherzigkeit
+unsre Klag und großes Leid.
+Heiliger Herre Gott,
+heiliger starker Gott,
+heiliger barmherziger Heiland,
+du ewiger Gott:
+lass uns nicht verzagen
+vor der tiefen Hölle Glut.
+Kyrieleison.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mitten in der Hölle Angst
+unsre Sünd’ uns treiben.
+Wo solln wir denn fliehen hin,
+da wir mögen bleiben?
+Zu dir, Herr Christ, alleine.
+Vergossen ist dein teures Blut,
+das g’nug für die Sünde tut.
+Heiliger Herre Gott,
+heiliger starker Gott,
+heiliger barmherziger Heiland,
+du ewiger Gott:
+lass uns nicht entfallen
+von des rechten Glaubens Trost.
+Kyrieleison.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Hope Is in the Lord</title>
+    </titles>
+    <authors>
+      <author type="words">Robin Mark</author>
+      <author type="music">Robin Mark</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I stand in awe within
+The presence of the Lord
+In whom the wisdom
+Of the ages lies
+For whom the raging
+Of the sea subsides
+The Living Sacrifice
+The only source of life</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My hope is in the Lord
+From this time on
+And ever-more
+My hope is in the Lord
+Forever-more</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His tender mercies come
+With every rising sun
+To meet the sinner in
+His brokenness
+To offer healing
+And forgiveness
+And those who trust in Him
+Will find their hearts at rest</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ye Must Be Born Again</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A ruler once came to Jesus by night
+To ask Him the way of salvation and light
+The Master made answer in words ture and plain
+&quot;Ye must be born again&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>&quot;Ye must be born again
+Ye must be born again
+I verily, verily say unto thee
+Ye must be born again.&quot;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ye children of men, attend to the word
+So solemnly uttered by Jesus the Lord
+And let not this message to you be in vain
+&quot;Ye must be born again&quot;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh ye who would enter that glorious rest
+And sing with the ransomed the song of the blest
+The life everlasting if ye would obtain
+&quot;Ye must be born again&quot;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A dear one in heaven thy heart yearns to see
+At the beautiful gate may be watching for thee
+Then list to the note of this solemn refrain
+&quot;Ye must be born again&quot;</lines>
+    </verse>
+  </lyrics>
+</song>

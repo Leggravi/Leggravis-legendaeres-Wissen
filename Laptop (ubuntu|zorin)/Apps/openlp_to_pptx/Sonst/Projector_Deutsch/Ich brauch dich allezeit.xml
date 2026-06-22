@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich brauch dich allezeit</title>
+    </titles>
+    <authors>
+      <author type="words">Walter Rauschenbusch</author>
+      <author type="music">Robert Lowry</author>
+      <author type="translation">I need Thee every hour</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich brauch dich allezeit, du gnadenreicher Herr,
+dein Name ist mein Hort, dein Blut mein Freudenmeer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich brauch dich, o ich brauch dich, Jesu, ja, ich brauch dich,
+ich muss dich immer haben, Herr, segne mich!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich brauch dich allezeit, o Jesu, steh mir bei,
+dass ich bis in den Tod dir bleibe stets getreu!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich brauch dich allezeit, in Freude wie im Leid;
+du bist mein Sonn und Schild jetzt und in Ewigkeit.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ich brauch dich allezeit, führ mich nur, wie du willst;
+ich harre auf dein Wort, bis du es ganz erfüllst.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ich brauch dich allezeit, Herr Jesu, Gottes Sohn;
+mit dir ererb ich einst des ewgen Lebens Kron.</lines>
+    </verse>
+  </lyrics>
+</song>

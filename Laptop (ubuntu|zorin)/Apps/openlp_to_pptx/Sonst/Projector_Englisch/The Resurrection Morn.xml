@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Resurrection Morn</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh what a day will soon take place
+When the redeemed of Adam's race
+In an instant will all be transformed
+They'll come from near some from afar
+On past the moon beyond the stars
+What a sight on that great happy morn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Then sea and land give up their dead
+The earth too long has been their bed
+Released they rise through the air
+They'll come and join as magnet drawn
+To gather round that great white throne
+Behold their King waiting there</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The trump will sound amens resound
+The saints will rise up from the ground
+Such singing and shouting
+We've run the race, we'll see His face
+And start to sing amazing grace
+What a sight on that resurrection morn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then row on row they'll fall in line
+Their perfect garments snowy white
+They'll march in and claim their own land
+Their home at last the King will say,
+&quot;These are my own for these are they
+Washed white in the blood of the lamb.&quot;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The mighty band will start to play
+The hallelujah chorus that day
+All glory to the King of all kings
+The tears of joy will start to flow
+Because I've chosen long ago
+To be there when the saints start to sing</lines>
+    </verse>
+  </lyrics>
+</song>

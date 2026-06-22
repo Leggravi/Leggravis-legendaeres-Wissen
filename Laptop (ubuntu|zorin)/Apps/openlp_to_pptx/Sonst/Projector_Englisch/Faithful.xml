@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Faithful</title>
+    </titles>
+    <authors>
+      <author type="words">Chris Bowater</author>
+      <author type="music">Chris Bowater</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Faithful, forever You are faithful
+Father to the fatherless
+You uphold the one who feels forsaken
+You are faithful, God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Faithful, forever You are faithful
+Lover of the wounded heart
+You defend the poor and the forgotten
+You are faithful, God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I will sing to the maker of Heaven and Earth
+God, You reign forever and Your will endure
+Faithful and true is the name of the Lord
+You are faithful, God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Faithful, forever You are faithful
+Shelter for the fragile soul
+You lift us up, You hold us all together
+You are faithful, God</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You are there in every season of my soul
+You are there, You're the anchor that will hold
+You are there, in the valley of the shadows
+You are faithful, God</lines>
+    </verse>
+  </lyrics>
+</song>

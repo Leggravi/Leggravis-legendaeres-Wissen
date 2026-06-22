@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Undevided Heart</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Brokenness has brought me to my knees
+Face to face with all that's dark in me
+I can barely see You through my shame
+Jesus come and wash me white again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Flood me with Your healing light
+Help me choose what's true and right</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Give me an undivided heart
+I want to love You with every part
+Give me an undivided soul
+I want to be Yours alone Yours alone</lines>
+    </verse>
+    <verse name="v4">
+      <lines>At the cross I find Your open arms
+Reminding me there's grace for all I've done
+With Your blood You wipe away my past
+Taking on Yourself my sin and scars</lines>
+    </verse>
+    <verse name="v5">
+      <lines>By Your power help me change
+Break off every single chain</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You make all things new
+So take my ashes and make them something beautiful
+Do what only You can do
+Take my ashes and make them something beautiful</lines>
+    </verse>
+  </lyrics>
+</song>

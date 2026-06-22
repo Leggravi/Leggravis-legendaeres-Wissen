@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There Have Been Kings</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There have been kings
+with riches untold
+They have worn crowns
+of diamonds and gold
+But there was a King
+who was better than them all
+And the crown that He wore
+was a crown of thorns.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A crown of thorns
+was placed upon His head
+He hang on the cross
+until He was dead
+The sky was dark
+with the raging storms
+When they crowned the King of Kings
+With a crown of thorns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>They were so cruel
+to my Saviour and King
+He died for our sins,
+salvation to bring
+He is the King of Kings,
+the greatest ever born
+And the crown that He wore
+was a crown of thorns.</lines>
+    </verse>
+  </lyrics>
+</song>

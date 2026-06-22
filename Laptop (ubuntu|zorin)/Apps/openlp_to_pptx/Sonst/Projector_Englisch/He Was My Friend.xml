@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He Was My Friend</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God sent me a friend
+Who was bold and not afraid
+He had a simple friendship
+But a prophet's material he was made</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He was my friend my friend my friend (2X)
+He was my friend He was my friend (2X)
+He was my friend</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He brought me a simple Message
+and he told me, Only believe
+The bride of Jesus Christ
+She will never be decieved
+By Churches, people or men
+who have problems with my friend</lines>
+    </verse>
+    <verse name="v4">
+      <lines>With my friend, my friend, my friend (2X)
+With my friend, he was my friend (2X)
+With my friend</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There in the spoken Word is a promise
+By my friend
+And one of these days,
+he will ride this trail again</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I'll see my friend, my friend my friend (2X)
+I'll see my friend, I'll see my friend, (2X)
+I'll see my friend</lines>
+    </verse>
+  </lyrics>
+</song>

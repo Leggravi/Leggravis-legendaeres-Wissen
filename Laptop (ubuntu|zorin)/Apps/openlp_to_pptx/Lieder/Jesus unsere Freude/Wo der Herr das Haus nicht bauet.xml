@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:50">
+  <properties>
+    <titles>
+      <title>Wo der Herr das Haus nicht bauet</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Adam Lehmus (1762)</author>
+      <author type="music">Basler Gesangsbuch</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wo der Herr das Haus nicht bauet,
+wo man's ihm nicht anvertrauet,
+wo man selbst sich helfen will,
+steht das Werk beizeiten still.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alles Schaffen und Bestreben,
+alles Sorgen, Rennen, Beben
+tut es nicht, wenn's Gott nicht tut,
+Gott und seine treue Hut.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Euer Rechnen, Sorgen, Ringen
+wird euch doch kein Glück erzwingen!
+Wer sich selber Hilfe schafft,
+der verschmähet Gottes Kraft.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zieht Gott im Gebet zu Rate,
+mühet euch um Gottes Gnade,
+lebt und liebt in ihn euch ein,
+dann wird euer Werk gedeihn.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sorgt nicht für den andern Morgen;
+lernt für eure Seele sorgen,
+trachtet nach der Ewigkeit;
+Gott ist nahe jederzeit.</lines>
+    </verse>
+  </lyrics>
+</song>

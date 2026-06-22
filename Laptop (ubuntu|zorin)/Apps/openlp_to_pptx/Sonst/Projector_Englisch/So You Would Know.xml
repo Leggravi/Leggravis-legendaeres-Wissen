@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>So You Would Know</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How many times must I prove how much I love you?
+How many ways must My love for you I show?
+How many times must I rescue you from trouble
+For you to know just how much I love you?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Didn't I wake you up this morning,
+You were clothed in your right mind?
+When you walked up on a problem,
+Didn't I step right in on time?
+When you got weak along life's journey
+My angel carried you
+So you would know just how much I love you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>How many days must I be a fence all around you?
+How many nights must I wipe your tears away?
+How many storms must I bring you safely through
+For you to know just how much I love you?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Didn't I put food on your table,
+Show up when the bills were due?
+When the pains were racking your body,
+Didn't I send healing down to you?
+When you were lost in sin and sorrow
+I died to set you free,
+So you would know just how much I love you.</lines>
+    </verse>
+  </lyrics>
+</song>

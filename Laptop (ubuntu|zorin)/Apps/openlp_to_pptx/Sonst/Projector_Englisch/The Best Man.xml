@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Best Man</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have always dreamed to be that superhero
+To fly right in and somehow save the day
+And I have always wanted to be more than I could be
+But seemed to fall and somehow lose my way</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But the day Your love stepped in
+Was the day my life began</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Cause You'll make me shine, You'll make me soar
+You'll make me everything I never was and so much more
+You give me strength, You let me stand
+And I don't have to move a mountain but I know I can
+'Cause You make me the best man, ooh yeah</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Even through my weakness, You know who I am
+And You give me amazing grace that I don't understand
+And there are no words that could ever describe
+The glory of the beauty of You in my life</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Because You gave Your love to me
+I'm the best that I can be</lines>
+    </verse>
+    <verse name="v6">
+      <lines>'Cause You make me shine, You make me soar
+You make me everything I never was and so much more
+You give me strength, You let me stand
+And I don't have to move a mountain but I know I can
+'Cause You make me the best man</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I will never be the same
+'Cause You have changed everything
+From the man I was
+To the man that's standing by Your side</lines>
+    </verse>
+    <verse name="v8">
+      <lines>'Cause You'll make me shine, You'll make me soar
+You'll make me everything I never was and so much more
+You give me strength, You let me stand
+And I don't have to move a mountain but I know I can
+'Cause You make me
+Oh, 'cause You make me the best man</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Oh, the best man, yeah yeah</lines>
+    </verse>
+  </lyrics>
+</song>

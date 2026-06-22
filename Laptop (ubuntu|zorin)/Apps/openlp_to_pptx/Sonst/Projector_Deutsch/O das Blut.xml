@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O das Blut</title>
+    </titles>
+    <authors>
+      <author type="words">Juri Friesen</author>
+      <author type="music">Thomas Miller</author>
+      <author type="translation">O the blood</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O das Blut von Jesus
+:|:o das Blut von Jesus :|: es wäscht so weiß wie Schnee. Es wäscht :|: weiß
+,:|: weisser noch als Schnee, das Blut vom Kreuz unsers Herrn!</lines>
+    </verse>
+  </lyrics>
+</song>

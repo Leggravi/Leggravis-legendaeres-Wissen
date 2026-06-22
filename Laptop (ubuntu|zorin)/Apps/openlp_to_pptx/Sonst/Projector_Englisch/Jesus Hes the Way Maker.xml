@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus He's the Way Maker</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus he's the way maker x3
+Now one day he made a way Oh glory
+When I was lost in sin
+He came and took me in
+One day he made a way for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I saw the Lord x2
+He was high and lifted up
+And His train filled the temple x2
+The angels cried holy
+The angel cried holy is the Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now one day the sun refused to shine
+Down in this sinful life of mine
+I cried both night and day
+That Jesus would make a way
+He hear my humble prayer
+And He answered right then and there
+Now one day He made a way for me</lines>
+    </verse>
+  </lyrics>
+</song>

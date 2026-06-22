@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Oct 30, 2018, 12:35:55 PM">
+  <properties>
+    <titles>
+      <title>Bahnt einen Weg unserm Gott</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Bahnt einen weg unserm Gott, der uns erlöst aus der not.
+Er ist der König der Könige. er hat am kreuz gesiegt durch seinen Tod.</lines>
+    </verse>
+    <verse name="V2">
+      <lines>Bahnt einen weg unserm Gott,
+der uns erwählt als sein Volk
+Mit ihm zu herrschen in Ewigkeit,
+öffnet die herzen und macht euch Bereit.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Dein reich komme, o Herr, wir erheben dich in deiner macht.
+Dir sei ehre und Ruhm und Majestät. deine Herrlichkeit ist hier.</lines>
+    </verse>
+  </lyrics>
+</song>

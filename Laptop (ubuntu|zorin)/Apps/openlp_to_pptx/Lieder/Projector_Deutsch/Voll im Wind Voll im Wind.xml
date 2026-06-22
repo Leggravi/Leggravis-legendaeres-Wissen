@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Voll im Wind Voll im Wind</title>
+    </titles>
+    <authors>
+      <author type="words">Uwe Lal</author>
+      <author type="music">Uwe Lal</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Voll im Wind Voll im Wind und voll im Leben,
+Spaß und Action soll es geben.
+Leben reichlich, Leben pur,
+voll auf Kurs in Gottes Spur!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gottes Haus hat bunte Farben,
+Langeweile muss nicht sein.
+Fantasie ist hoch willkommen,
+Jeder bringt sich gern mit ein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gottes Haus hat offne Türen,
+Jeder soll willkommen sein.
+Freunde finden, die dich mögen,
+Helles Lachen lädt uns ein.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gottes Haus ist voller Leben, Feiern,
+Lachen, fröhlich sein.
+Gottes Wort bringt uns zusammen,
+Sei dabei und steig mit ein.</lines>
+    </verse>
+  </lyrics>
+</song>

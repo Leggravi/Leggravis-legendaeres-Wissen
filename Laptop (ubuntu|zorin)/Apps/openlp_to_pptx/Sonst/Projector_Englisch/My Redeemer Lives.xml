@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Redeemer Lives</title>
+    </titles>
+    <authors>
+      <author type="words">Charles Wesley</author>
+      <author type="music">Chris Eaton</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v1 v2 v3 v4 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know he rescued my soul,
+His blood has covered my sin,
+I believe, I believe,
+My shame He's taken away,
+My pain is healed in his name,
+I believe, I believe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'll raise a banner,
+My Lord has conquered the grave.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My redeemer lives,
+My redeemer lives,
+My redeemer lives,
+My redeemer lives.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You lift my burdens,
+I'll rise with You,
+I'm dancing on this mountain top,
+To see your kingdom come.</lines>
+    </verse>
+  </lyrics>
+</song>

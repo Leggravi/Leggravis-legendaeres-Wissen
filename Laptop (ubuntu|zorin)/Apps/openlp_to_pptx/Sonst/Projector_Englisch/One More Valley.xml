@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>One More Valley</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I'm tossed on life's sea and the waves cover me
+And the dark clouds won't let the sunshine through
+Then a voice seems to say, &quot;Child, there'll be brighter day
+Don't allow the storm to hide sweet Heaven's view.&quot;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Cause you've got one more valley, one more hill
+And you got one more trial, one more tear
+One more curve in life's road, one more mile left to go
+You can lay down your heavy load when you get home.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now, don't let Satan see your tears, learn to smile through your fears
+Hold your head up high and give the world a smile
+You just be grateful everyday, its gonna be worth it all one day
+'Cause it all will be over after while.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>It Seems to Me</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It seems to me this is the day,
+When men’s hearts in sins are
+swayed,
+And their eyes are turning blind
+Loving sin with all their might.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But as for me I will serve the
+Lord
+With all my heart and all my
+mind
+Keep looking up to God’s own
+Word
+For my comfort there I find.
+Yes my comfort there I find.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>How glad I am that I’ve been saved
+From sin and shame that kept
+me a slave
+Now I can soar above the world
+For my strength comes from above.</lines>
+    </verse>
+  </lyrics>
+</song>

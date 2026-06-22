@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>For Me Christian</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For me, a Christian, the earth is an exile;
+But all is well, But all is well.
+One must walk from peril to peril;
+But all is well, But all is well.
+Why the tears, the earth or the boredom?
+Christ is with me tomorrow as today;
+Soon in heaven, I will be wholly His
+Yes, all is well. Yes, all is well.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tears, work, mourning, sad here below;
+But all is well. But all is well.
+I approach Canaan with each step;
+Yes, all is well. Yes, all is well.
+The world and its deceptive charm
+Vainly seek to hold my heart in its bonds
+I move forward in peace with my eyes
+On my Savior Yes, all is well, yes, all is well.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>One more day, and I will reach the goal;
+Yes, all is well. Yes, all is well.
+And I will see the land of salvation;
+Yes, all is well. Yes, all is well.
+One more day, the world will pass
+O pilgrim, walk without tiring:
+Soon in God you will find rest.
+Yes, all is well. Yes, all is well.</lines>
+    </verse>
+  </lyrics>
+</song>

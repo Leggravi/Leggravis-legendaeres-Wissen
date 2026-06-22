@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let The Dew Of Heaven</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the dew of heaven fall
+Upon my thirsty soul,
+Let the dew of heaven fall on me.
+Let the Holy Spirit
+Come and take complete control,
+Let the dew of heaven fall on me.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lobt froh den Herrn</title>
+    </titles>
+    <authors>
+      <author type="words">Siegfried Goes</author>
+      <author type="music">Gerhard Schmeling</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lobt froh den Herrn,
+ihr jugendlichen Chöre!
+Er höret gern
+ein Lied zu Seiner Ehre:
+|: Lobt froh den Herrn!: |</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Es schallt empor
+zu Deinem Heiligtume
+aus unserm Chor
+ein Lied zu Deinem Ruhme,
+|: zu Dir empor, zu Dir empor!: |</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir stammeln hier,
+doch hörst Du unser Lallen
+zum Preise Dir
+mit Vaterwohlgefallen.
+Dir jauchzen wir, Dir singen wir!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Einst kommt die Zeit,
+wo Dich auf tausend Weisen
+in Herrlichkeit
+erlöste Sünder preisen
+von Ewigkeit zu Ewigkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

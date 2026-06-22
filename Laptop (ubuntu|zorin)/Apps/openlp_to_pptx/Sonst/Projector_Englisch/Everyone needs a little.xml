@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Everyone needs a little</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come all ye weary and ye broken
+Come to the table of the Lord
+Come sing the song of the forgiven
+Come lay your burden on the word</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come and find peace
+Everyone needs a little rest
+Everyone needs a little joy
+And a song to sing in the darkest night
+And life even when it gets you down
+Hope will turn it all around
+But love is the greatest of these
+Everyone needs a little</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sing all ye saints and ye sinners
+Call upon the mercy of the Lord
+Come sing the song of redemption
+Sing about the hope that is to come</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He will lift you up
+He will lift you up higher than sorrow
+He will lift you up
+And cover your soul with healing</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Peace
+Everyone needs a little rest
+Everyone needs a little joy
+And a song to sing in the darkest night</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And life even when it gets you down
+Hope will turn it all around
+But love is the greatest of these
+Everyone needs a little
+Everyone needs a little
+Everyone needs a little</lines>
+    </verse>
+  </lyrics>
+</song>

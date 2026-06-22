@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There's So Much Grace</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>East went looking for west, but never found him,
+Guilt went looking for my past, but only found love,
+I heard about a sea where sin sinks like stones,
+There's no floor there just mercy down below.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's so much grace,
+There's so much grace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I heard about a Man with holes in his hands,
+He can hide mountains of sin in them,
+His smile destroyed my religion,
+His love shakes down my prison.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I could run for all my days
+But I'd never run away
+There's no mistake I could make
+That could ever make You change</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There's so much grace
+There's so much grace
+In the arms of the Father
+There's so much grace
+(There's so much grace)
+There's so much grace
+(There's so much grace)
+There's so much grace, (So much grace)
+There's so much grace (So much grace)
+There's so much grace</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wave after wave,
+All this grace,
+Washes over me,
+Washes over me,
+So much grace.</lines>
+    </verse>
+  </lyrics>
+</song>

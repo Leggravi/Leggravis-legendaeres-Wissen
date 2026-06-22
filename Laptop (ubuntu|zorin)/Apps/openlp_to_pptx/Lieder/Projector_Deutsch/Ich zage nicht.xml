@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich zage nicht</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Wilhelm Greef</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich zage nicht!
+Du bist’s, zu dem ich flehe,
+Mein Auge blickt zu Deiner heil’gen Höhe;
+Dir traut mein Herz mit Kindes-Zuversicht.
+Ich zage nicht!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich zage nicht!
+Von Feinden hier umgeben,
+Wird Deine Kraft mich stets im Kampf beleben;
+Du bist mein Stab – nicht Stärke mir gebricht.
+Ich zage nicht!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich zage nicht!
+Mit Dir ich alles trage,
+Getrost machst Du mein Herz in jeder Lage.
+Voll Liebe strahlt Dein Vater-Angesicht.
+Ich zage nicht!</lines>
+    </verse>
+  </lyrics>
+</song>

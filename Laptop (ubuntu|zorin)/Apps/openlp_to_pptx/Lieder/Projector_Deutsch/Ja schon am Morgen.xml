@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ja schon am Morgen</title>
+    </titles>
+    <authors>
+      <author type="words">Horst Wallis</author>
+      <author type="music">Horst Wallis</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ja schon am Morgen preise ich Dich
+und auch am Mittag lobsinge ich dir,
+und noch am Abend soll mein Mund
+soll mein Mund sein voller Lob zu Dir!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sing, sing, sing, sing: Halleluja!
+Sing, sing, sing, sing: Gloria!
+Sing, sing, sing, sing: Halleluja!
+Unser Gott ist der Herr.</lines>
+    </verse>
+  </lyrics>
+</song>

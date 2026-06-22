@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Burdens are Lifted at Calvary</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Days are filled with sorrow and care
+Hearts are lonely and drear
+Burdens are lifted at Calvary
+Jesus is very near</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Burdens are lifted at Calvary
+Calvary, Calvary
+Burdens are lifted at Calvary
+Jesus is very near</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cast your care on Jesus today
+Leave your worry and fear
+Burdens are lifted at Calvary
+Jesus is very near</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Troubled soul, the Savior can feel
+Every heartache and tear
+Burdens are lifted at Calvary
+Jesus is very near.</lines>
+    </verse>
+  </lyrics>
+</song>

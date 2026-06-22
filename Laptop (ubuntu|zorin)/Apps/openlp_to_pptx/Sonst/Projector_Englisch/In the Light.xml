@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In the Light</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I keep trying to find a life
+On my own, apart from you
+I am the king of excuses
+I've got one for every selfish thing that I'll do</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, what's going on inside of me?
+I despise my own behavior
+This only serves to confirm my suspicions
+I'm still a man in need of a Saviour</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I wanna be in the light as you are in the light
+I wanna shine like the stars in the heavens
+Oh, Lord be my light and be my salvation
+All I want is to be in the light
+All I want is to be in the light</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The disease of the self runs through my blood
+Is a cancer fatal to the soul
+Every attempt on my behalf has failed
+To bring the sickness under control</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In the light, in the light
+In the light, in the light, in the light
+In the light, in the light
+In the light, in the light, in the light</lines>
+    </verse>
+    <verse name="v6">
+      <lines>In the light, you are in the light
+In the light, wanna shine like the stars in the heavens
+In the light, [Incomprehensible] 3. 47
+In the light, in the light</lines>
+    </verse>
+    <verse name="v7">
+      <lines>All I want, all I want, all I want
+All I want, all I want, all I want
+In the light of love, in the light of love
+All I want, all I want, all I want</lines>
+    </verse>
+  </lyrics>
+</song>

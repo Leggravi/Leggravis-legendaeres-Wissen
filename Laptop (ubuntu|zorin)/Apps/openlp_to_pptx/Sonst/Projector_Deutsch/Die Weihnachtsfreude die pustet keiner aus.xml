@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Die Weihnachtsfreude die pustet keiner aus</title>
+    </titles>
+    <authors>
+      <author type="words">Manfred Siebald</author>
+      <author type="music">Jimmi Haskell</author>
+    </authors>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Die Weihnachtsfreude die pustet keiner aus
+Die Weihnachtsfreude hangt nicht am Baum zu Haus
+Gott kam zu uns auf die Welt, wurde so wie wir
+Wir wolln uns freuen, denn Jesus ist jetzt hier</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Die Welt war voller Tranen, Hass und Schmerz und Leid
+Menschen waren traurig uber all den Streit
+Doch weil uns Gott so lieb hat, gab er uns seinen Sohn
+Das war die erste Weihnacht - heut singen wir davon</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gott lasst uns nicht alleine. Er weis, es ist so schwer
+Ohne ihn zu leben, und so kommt er her
+Wir wissen, dass er bei uns ist, denn Jesus macht uns klar
+Gott schenkt sich uns zu Weihnachten und bleibt das ganze Jahr</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus, dir wir Dankeslieder singen</title>
+    </titles>
+    <authors>
+      <author type="words">Elberfeld</author>
+      <author type="music">Elberfeld</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesu, Dir wir Dankeslieder singen,
+Reichlich strömt für uns die Gnadenflut.
+Dir wir Preis und Lob und Ehre bringen.
+Du, o Jesu, machtest alles gut.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alle unsre Sünden sind vernichtet,
+Droben spricht für uns Dein kostbar Blut.
+Ja, der Gnadenthron ist aufgerichtet,
+Du, o Jesu, machtest alles gut.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Deine Gnade, Deine Huld wir kennen,
+Weil das Herz in Deiner Liebe ruht.
+Kann auch niemand Deine Fülle nennen,
+Du, o Jesu, machtest alles gut.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Du gingst hin, die Stätt' uns zu bereiten,
+Süße Hoffnung stärkt der Pilger Mut,
+Und Dein Geist wird uns hier treu geleiten.
+Du, o Jesu, machtest alles gut.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dann, wenn schauend wir Dir Ehre bringen,
+Jeder müde Kämpfer siegreich ruht,
+Werden ewig sel'ge Herzen singen:
+Du, o Jesu, machtest alles gut!</lines>
+    </verse>
+  </lyrics>
+</song>

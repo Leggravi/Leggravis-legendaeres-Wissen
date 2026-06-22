@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Der Kluge baut sein Haus</title>
+    </titles>
+    <authors>
+      <author type="words">Anton Schulte</author>
+      <author type="music">Amerika</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Der Kluge baut sein Haus auf Felsengrund,
+Der Kluge baut sein Haus auf Felsengrund,
+Der Kluge baut sein Haus auf Felsengrund,
+und der Regen kam herab.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Der Regen fiel und die Flut kam hoch,
+Der Regen fiel und die Flut kam hoch,
+Der Regen fiel und die Flut kam hoch,
+doch das Haus auf dem Felsen blieb stehn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Der Narr aber hat auf Sand gebaut,
+Der Narr aber hat auf Sand gebaut,
+Der Narr aber hat auf Sand gebaut,
+und der Regen kam herab.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Der Regen fiel und die Flut kam hoch,
+Der Regen fiel und die Flut kam hoch,
+Der Regen fiel und die Flut kam hoch,
+und das Haus auf dem Sand fiel um.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So bau dein Haus auf dem Haus Jesus Christ,
+So bau dein Haus auf dem Haus Jesus Christ,
+So bau dein Haus auf dem Haus Jesus Christ,
+und der Segen strömt herab.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Der Segen strömt herab und Gebet steigt auf
+Der Segen strömt herab und Gebet steigt auf
+Der Segen strömt herab und Gebet steigt auf
+so bau dein Haus auf den Herrn.</lines>
+    </verse>
+  </lyrics>
+</song>

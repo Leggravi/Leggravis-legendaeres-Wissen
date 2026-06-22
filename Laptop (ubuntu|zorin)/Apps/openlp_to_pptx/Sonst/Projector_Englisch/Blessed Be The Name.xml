@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Blessed Be The Name</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+      <author type="translation">Dir gehört mein Lob</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All praise to Him who reigns above,
+In majesty supreme,
+Who gave His Son for man to die,
+That He might man redeem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Blessed be the name,
+Blessed be the name,
+Blessed be the name of the Lord;
+Blessed be the name,
+Blessed be the name,
+Blessed be the name of the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His name above all names shall stand,
+Exalted more and more,
+At God the Father's own right hand,
+Where angel hosts adore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>His name shall be the Counselor,
+The mighty Prince of Peace;
+Of all earth's kingdoms Conqueror,
+Whose reign shall never cease.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Redeemer, Savior, Friend of man,
+Once ruined by the fall,
+Thou hast devised salvation's plan,
+For Thou hast died for all.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Magnify the name,
+Magnify the name
+Magnify the name of the Lord;
+Magnify the name,
+Magnify the name
+Magnify the name of the Lord.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>There's healing in the name,
+Healing in the name
+Healing in the name of the Lord;
+There's healing in the name,
+Healing in the name
+Healing in the name of the Lord.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Jesus is the name,
+Jesus is the name,
+Jesus is the name of the Lord;
+Jesus is the name,
+Jesus is the name,
+Jesus is the name of the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

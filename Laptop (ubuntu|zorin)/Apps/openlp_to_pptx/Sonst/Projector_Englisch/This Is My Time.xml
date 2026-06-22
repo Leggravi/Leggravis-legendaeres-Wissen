@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Is My Time</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is my time,
+this is the end time,
+I can't think of any better day
+that I'd rather live;
+Gonna let the world know,
+won't wait for tomorrow,
+I'm gonna let my little light shine,
+'Cause this is my time.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I think of all the saints
+who've gone before,
+They lived and testified
+about the Lord;
+They had their chance
+to do their part,
+To serve the Lord
+with all their heart;
+Now the time is ours
+to hold the sword.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To be there watching
+Moses part the sea,
+To stand and fight
+with David's army;
+I'd love to live in Jesus' day,
+But if I had to choose my way,
+This is sure the time
+that I would be.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'm gonna preach the Word
+and work while it is day,
+I'm gonna say the things
+that He would have me say;
+I'm gonna shine the light
+in my family,
+I'm gonna lift Him up
+for all the world to see,
+See Him down in me.</lines>
+    </verse>
+  </lyrics>
+</song>

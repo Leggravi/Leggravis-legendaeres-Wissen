@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Jul 5, 2020, 6:25:13 PM">
+  <properties>
+    <titles>
+      <title>Big Enough</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>I've got a heart that's full of faith-filled helplessness
+There are mountains ahead that I can't move by myself
+But I know when I'm weak He's strong
+When I can barely breathe there's still a song
+Even though it's hard right now
+I'm not here on my own</lines>
+    </verse>
+    <verse name="C2">
+      <lines>So when it seems it can't be done
+I know God is big enough
+I can run the race I'm called to run
+Cause I know God is big enough
+He'll finish everything He starts
+He'll meet us right here where we are
+And I can feel faith rising up
+Cause I know God is big enough</lines>
+    </verse>
+    <verse name="V3">
+      <lines>There were days when the shadows of doubt make me feel small
+I'll declare that I don't stand in my strength at all
+Cause I won't live a day you didn't plan
+Every single moment is in your hands
+Even if the whole world shakes
+You're the rock on which I stand</lines>
+    </verse>
+    <verse name="V4">
+      <lines>Bigger than the fear that surrounds me
+Bigger than the chains that have bound me
+Bigger than the story my past could tell
+Bigger than the weight of tomorrow
+Bigger than the hurt and the sorrow
+Bigger than the lies I've told myself</lines>
+    </verse>
+    <verse name="C5">
+      <lines>So when it seems it can't be done
+I know God is big enough
+I can run the race I'm called to run
+Cause I know God is big enough
+He'll finish everything He starts
+He'll meet us right here where we are
+And I can feel faith rising up</lines>
+    </verse>
+  </lyrics>
+</song>

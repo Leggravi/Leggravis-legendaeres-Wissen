@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich in Dir, Du in mir</title>
+    </titles>
+    <authors>
+      <author type="words">Albert Knapp</author>
+      <author type="music">Johann Schop</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich in Dir, Du in mir,
+komm Geist Gottes und wohne in mir,
+komm und wirke in mir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Geist der Liebe</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Geist der Freude</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:37">
+  <properties>
+    <titles>
+      <title>Herbei, o ihr Gläubigen (Adeste fideles)</title>
+    </titles>
+    <authors>
+      <author type="words">Friedrich Heinrich Ranke (1823)</author>
+      <author type="music">John Francis Wade</author>
+    </authors>
+    <ccliNo>4345691</ccliNo>
+    <themes>
+      <theme>Weihnachten</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herbei, o ihr Gläub'gen, fröhlich triumphieret,
+o kommet, o kommet nach Bethlehem!
+Sehet das Kindlein, uns zum Heil geboren!
+O lasset uns anbeten,
+o lasset uns anbeten,
+o lasset uns anbeten den König!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du König der Ehren, Herrscher der Heerscharen,
+verschmähst nicht zu ruhn in Marien Schoß,
+Gott, wahrer Gott von Ewigkeit geboren.
+O lasset uns anbeten,
+o lasset uns anbeten,
+o lasset uns anbeten den König!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kommt, singet dem Herren, singt, ihr Engelchöre!
+Frohlocket, frohlocket, ihr Seligen:
+"Ehre sei Gott im Himmel und auf Erden!"
+O lasset uns anbeten,
+o lasset uns anbeten,
+o lasset uns anbeten den König!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ja, dir, der du heute Mensch für uns geboren,
+Herr Jesu, sei Ehre und Preis und Ruhm,
+dir, fleischgewordnes Wort des ewgen Vaters!
+O lasset uns anbeten,
+o lasset uns anbeten,
+o lasset uns anbeten den König!</lines>
+    </verse>
+  </lyrics>
+</song>

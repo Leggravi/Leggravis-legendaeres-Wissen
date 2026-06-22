@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Prince of Salvation</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Just when my life was drifting
+Jesus came along,
+With His loving arms of mercy
+made my weakened body strong
+With His Power I’m now rejoicing,
+His Spirit made this sinner new,
+He touched me and
+He can touch you too.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He’s the Prince of Salvation
+the Master of your soul,
+And He’s there just for the asking,
+to cleanse and make you whole,
+So If you’re lost in darkness,
+There’s a Lighthouse for you,
+He touched me and
+He can touch you too.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the trials of life seem heavy,
+Just remember Calvarys road,
+And the way He must have suffered,
+Yet He still helps with each load
+So keep your hearts door open,
+And let my Jesus walk through
+He touched me and He can touch
+you too.</lines>
+    </verse>
+  </lyrics>
+</song>

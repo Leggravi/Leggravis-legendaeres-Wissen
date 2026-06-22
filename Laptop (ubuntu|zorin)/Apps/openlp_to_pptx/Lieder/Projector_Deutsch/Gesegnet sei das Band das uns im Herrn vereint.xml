@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gesegnet sei das Band, das uns im Herrn vereint</title>
+    </titles>
+    <authors>
+      <author type="words">Julius Carl Grimmell</author>
+      <author type="music">Hans Georg Nägeli</author>
+      <author type="translation">Blest Be The Tie That Binds</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gesegnet sei das Band, das uns im Herrn vereint!
+Geknüpft von Christi Liebeshand, bleibts fest, bis er erscheint.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vor unsers Vaters Thron steigt ernstlich unser Flehn,
+in Leid und Freud ein Herz, ein Geist, so klingts dem Vater schön.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wir tragen jede Last mit Schwergeprüften gern;
+des Mitleids Tränen fließen oft vereint vor unserm Herrn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Und scheiden wir allhier, so gibt's uns tiefen Schmerz,
+doch bleiben wir im Geist vereint und pilgern himmelwärts.</lines>
+    </verse>
+  </lyrics>
+</song>

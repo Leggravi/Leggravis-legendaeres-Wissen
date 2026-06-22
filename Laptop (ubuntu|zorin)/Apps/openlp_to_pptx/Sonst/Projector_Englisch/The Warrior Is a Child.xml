@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Warrior Is a Child</title>
+    </titles>
+    <authors>
+      <author type="words">Twila Paris</author>
+      <author type="music">Twila Paris</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lately I've been winning battles left and right
+But even winners can get wounded in the fight
+People say that I'm amazing
+I'm strong beyond my years
+But they don't see inside of me
+I'm hiding all the tears</lines>
+    </verse>
+    <verse name="v2">
+      <lines>They don't know that I come
+Running home when I fall down
+They don't know who picks me up
+When no one is around
+I drop my sword and cry for just a while
+'Cause deep inside this armor
+The warrior is a child</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Unafraid because His armor is the best
+But even soldiers need a quiet place to rest
+People say that I'm amazing
+I never face retreat
+But they don't see the enemy
+That lay me at his feet</lines>
+    </verse>
+  </lyrics>
+</song>

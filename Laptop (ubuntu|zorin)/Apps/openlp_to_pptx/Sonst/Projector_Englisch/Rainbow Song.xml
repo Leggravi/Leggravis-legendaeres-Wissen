@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Rainbow Song</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If I was a rainbow
+I'd show my colors for You
+If I was a songbird
+I'd sing my song for You
+And if You take the
+sun and the moon
+Take away the
+stars at night
+Your faithful Word
+will always be my light.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beautiful such a miracle
+That You would give up
+Heaven just for me
+All I wanna do is fall
+more in love with You,
+This world doesn't
+owe me anymore
+And one thing that I do know for sure.</lines>
+    </verse>
+  </lyrics>
+</song>

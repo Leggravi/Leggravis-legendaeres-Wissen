@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Faith will lead you</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v3 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He built a house on the sand
+Glittering from the morning sun
+He’s not aware that its days are numbered
+When the storm hits the ground</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He gambles on stones and thorns
+Sowing seeds on nowhere land
+He doesn't realise these hinders
+Faith grows thin and couldn’t yield</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Don’t take your faith for granted
+It’s not a cloth when you want it
+Cause faith is sacred
+Give the best to God with your faith
+Fill with love and take care of it
+Faith will lead you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>She runs a house of chaos
+Filled with pride and arrogance
+She’s not aware that its days are numbered
+When the Master returns</lines>
+    </verse>
+    <verse name="v5">
+      <lines>She’s focused on gems and stones
+Material things that she adored
+Not realising that these hinders
+Faith won’t grow anymore</lines>
+    </verse>
+  </lyrics>
+</song>

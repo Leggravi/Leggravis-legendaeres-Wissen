@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Wants Me for a Sunbeam</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus wants me for a sunbeam,
+To shine for him each day,
+In every way try to please him,
+At home, at school, at play.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A sunbeam, a sunbeam,
+Jesus wants me for a sunbeam;
+A sunbeam, a sunbeam,
+I’ll be a sunbeam for him</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus wants me to be loving
+And kind to all I see,
+Showing how pleasant and happy
+His little one may be.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will ask Jesus to help me
+To keep my heart from sin;
+Ever reflecting his goodness,
+And always shine for him.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I’ll be a sunbeam for Jesus,
+I can if I but try,
+Serving him moment by moment,
+Then live with him on high.</lines>
+    </verse>
+  </lyrics>
+</song>

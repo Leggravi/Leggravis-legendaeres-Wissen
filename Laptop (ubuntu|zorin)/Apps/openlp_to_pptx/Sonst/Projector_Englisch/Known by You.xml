@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Known by You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I could search all this world
+I’d still find there is no one like You
+I could gain everything
+In the end all is lost without You
+Oh Jesus, all that I desire</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I want to know You,
+I want to know You,
+I want to know You,
+And be known by You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I’m gonna love You
+Give all my heart to You
+I want to know You
+And be known by You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I am whole, I’m complete
+I’m content just to stay in this place
+All my guilt, all my shame
+Washed away in Your river of grace,
+Oh, Jesus, all that I desire.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My devotion, my affection, all my worship
+I pour it out, I pour it out on You</lines>
+    </verse>
+  </lyrics>
+</song>

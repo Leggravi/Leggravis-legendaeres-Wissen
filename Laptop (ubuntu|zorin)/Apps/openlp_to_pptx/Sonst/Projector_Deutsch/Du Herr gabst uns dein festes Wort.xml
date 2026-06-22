@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du, Herr, gabst uns dein festes Wort</title>
+    </titles>
+    <authors>
+      <author type="words">Lutz Hoffmann</author>
+      <author type="music">Spiritual</author>
+      <author type="translation">It's Me Oh Lord (Standing In The Need Of Prayer)</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du, Herr, gabst uns dein festes Wort,
+gib uns allen deinen Geist.
+Du gehst nicht wieder von uns fort,
+gib uns allen deinen Geist.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bleibe bei uns alle Tage bis ans Ziel der Welt.
+Gib uns allen deinen Geist.
+Gib das Leben, das im Glauben die Gemeinde hält,
+gib uns allen deinen Geist.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Deinen Atem gabst du uns jetzt schon als Unterpfand,
+gib uns allen deinen Geist.
+Denn als Kinder deines Vaters sind wir anerkannt,
+gib uns allen deinen Geist.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nähr die Kirche - alle Glieder - stets mit deiner Kraft,
+gib uns allen deinen Geist.
+Stärk uns täglich immer wieder in der Jüngerschaft,
+gib uns allen deinen Geist.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Von den Mächten dieser Welt sind wir hart bedrängt,
+gib uns allen deinen Geist.
+Doch im Glauben hast du uns schon Gottes Kraft geschenkt,
+gib uns allen deinen Geist.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Immer wieder will ich singen: Gib uns deinen Geist!
+Gib uns allen deinen Geist.
+Der die Herzen, auch die trägen, mit der Freude speist.
+Gib uns allen deinen Geist.</lines>
+    </verse>
+  </lyrics>
+</song>

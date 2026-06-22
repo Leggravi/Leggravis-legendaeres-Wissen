@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God Is Not A Man</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God is not a man, that He should lie;
+Neither the son of man, that He should
+ repent:
+Hath He said, and shall He not do it?
+Or hath He spoken,
+And shall He not make it good?
+Behold I have received commandment
+ to bless:
+And He hath blessed;
+And I cannot reverse it.
+For God is not a man, that He should lie,
+Neither the son of man that He should
+ repent.</lines>
+    </verse>
+  </lyrics>
+</song>

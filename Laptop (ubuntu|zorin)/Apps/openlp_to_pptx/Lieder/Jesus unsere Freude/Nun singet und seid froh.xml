@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:38">
+  <properties>
+    <titles>
+      <title>Nun singet und seid froh</title>
+    </titles>
+    <authors>
+      <author type="words">Hannover (1646)</author>
+      <author type="music">Wittenberg</author>
+    </authors>
+    <ccliNo>4344960</ccliNo>
+    <themes>
+      <theme>Weihnachten</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nun singet und seid froh,
+jauchzt alle und sagt so:
+Unsers Herzens Wonne
+liegt in der Krippen bloß
+und leucht’ doch als die Sonne
+in seiner Mutter Schoß.
+Du bist A und O.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sohn Gottes aus der Höh,
+nach dir ist mir so weh.
+Tröst mir mein Gemüte,
+o Kindlein zart und rein,
+durch alle deine Güte,
+o liebstes Jesulein.
+Zeuch mich hin nach dir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Groß ist des Vaters Huld,
+der Sohn tilgt unsre Schuld.
+Wir warn all verloren
+durch Sünd und Eitelkeit,
+so hat er uns erworben
+die ewig Himmelsfreud.
+Eia, wärn wir da!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wo ist der Freuden Ort?
+Nirgends mehr denn dort,
+da die Engel singen
+mit den Heilgen all
+und die Psalmen klingen
+im hohen Himmelssaal.
+Eia, wärn wir da!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Victory Is Yours</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our fight is with weapons unseen
+Your enemies crash to their knees
+As we rise up in worship
+When trials unleash like a flood
+The battle belongs to our God
+As we cry out in worship</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The victory is Yours
+You're riding on the storm
+Your name is unfailing
+Though kingdoms rise and fall
+Your throne withstands it all
+Your name is unshaken</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What hell meant to break me has failed
+Now nothing will silence my praise
+I will cry out in worship
+The walls of the prison will shake
+The chain-breaking King will rise to save
+As we cry out in worship</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The victory is Yours
+You're riding on the storm
+Your name is unfailing
+Though kingdoms rise and fall
+Your throne withstands it all
+Your name is unshaken
+Oh, it's unshaken</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You roar like thunder
+Nothing can tame
+God, all-powerful, all-powerful
+We pull down heaven
+With shouts of praise
+God, all-powerful, all-powerful
+You roar like thunder
+Nothing can tame
+God, all-powerful, all-powerful
+We pull down heaven
+With shouts of praise
+God, all-powerful, all-powerful</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You roar like thunder
+Nothing can tame
+God, all-powerful, all-powerful
+We pull down heaven
+With shouts of praise
+God, all-powerful, all-powerful</lines>
+    </verse>
+  </lyrics>
+</song>

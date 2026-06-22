@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Fight for us</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v7 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your name is our battle cry
+Your name is the banner we’re lifting high
+Your name is our victory
+You fight for us, Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We boldly face our fears
+They’re no longer welcome here
+There’s power in Your name
+We’re standing unafraid
+We rise in Your endless strength</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your name is our battle cry
+Your name is the banner we’re lifting high
+Your name is our victory
+You fight for us
+Jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We walk in confidence
+Nothing can stand against
+Lord, You are on our side
+You’re mighty in the fight
+We call down Your holy fire</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Your name is our battle cry
+Your name is the banner we’re lifting high
+Your name is our victory
+You fight for us
+Jesus</lines>
+    </verse>
+    <verse name="v6">
+      <lines>There’s no weapon that can prosper
+No war that we can face
+That hasn’t been defeated
+In Jesus’ name
+There’s no hell that comes against us
+No enemy too great
+That hasn’t been defeated
+In Jesus’ name</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Your name is our battle cry
+Your name is the banner we’re lifting high
+Your name is our victory
+You fight for us
+Jesus
+Your name is our battle cry
+Your name is the banner we’re lifting high
+Your name is our victory
+You fight for us
+You fight for us</lines>
+    </verse>
+    <verse name="v8">
+      <lines>There’s no weapon that can prosper (no weapon)
+No war that we can face
+That hasn’t been defeated
+In Jesus’ name (Jesus' name)
+There’s no hell that comes against us (no enemy)
+No enemy too great
+That hasn’t been defeated
+In Jesus’ name</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Your name is our battle cry
+You fight for us
+Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

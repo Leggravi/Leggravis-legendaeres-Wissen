@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Apr 1, 2020, 6:14:17 PM">
+  <properties>
+    <titles>
+      <title>This I Believe</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2 C2 V5 V6 C2 C2 V7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Our Father everlasting
+The all creating One
+God Almighty
+Through Your Holy Spirit
+Conceiving Christ the Son
+Jesus our Savior</lines>
+    </verse>
+    <verse name="C2">
+      <lines>I believe in God our Father
+I believe in Christ the Son
+I believe in the Holy Spirit
+Our God is three in one
+I believe in the resurrection
+That we will rise again
+For I believe in the name of Jesus</lines>
+    </verse>
+    <verse name="V3">
+      <lines>Our Judge and our Defender
+Suffered and crucified
+Forgiveness is in You
+Descended into darkness
+You rose in glorious life
+Forever seated high</lines>
+    </verse>
+    <verse name="V4">
+      <lines>I believe in You
+I believe You rose again
+I believe that Jesus Christ is Lord
+I believe
+And I believe in You
+I believe You rose again
+I believe that Jesus Christ is Lord</lines>
+    </verse>
+    <verse name="V5">
+      <lines>For I believe in the name of Jesus
+For I believe in the name of Jesus</lines>
+    </verse>
+    <verse name="V6">
+      <lines>We believe in love, Jesus
+I believe in life eternal
+I believe in the virgin birth
+I believe in the saints' communion
+And in Your holy Church
+I believe in the resurrection
+When Jesus comes again
+For I believe, in the name of Jesus
+Come on!</lines>
+    </verse>
+    <verse name="V7">
+      <lines>For I believe in the name of Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

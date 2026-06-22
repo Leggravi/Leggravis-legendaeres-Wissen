@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Alive and breathing (What holds your heart) </title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What holds your heart,
+What stirs your soul,
+What matters come to mind.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The cares you keep,
+The thoughts you think,
+It's not all wasted time,
+Seek and you will find.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Joy still comes
+in the morning,
+Hope still walks
+with the hurting,
+If you're still alive
+and breathing,
+Praise the Lord!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Don't stop dancing
+and dreaming,
+There's still Good News
+worth repeating,
+So lift your head
+and keep singing,
+Praise the Lord!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Years roll by,
+We wonder why,
+We lost our way
+from home.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Our Father finds,
+The child inside,
+We had left 
+for growing old,
+Awake, awake,
+Awake my soul.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Joy still comes
+in the morning,
+Hope still walks
+with the hurting,
+If you're still alive
+and breathing,
+Praise the Lord!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Don't stop dancing
+and dreaming,
+There's still Good News
+worth repeating,
+So lift your head
+and keep singing
+Praise the Lord!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Let everything, 
+let everything,
+Let everything
+Praise the Lord!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>In the working,
+In the waiting,
+Praise the Lord!</lines>
+    </verse>
+    <verse name="v11">
+      <lines>In the blessing,
+In the breaking,
+Come on,
+Praise the Lord!</lines>
+    </verse>
+    <verse name="v12">
+      <lines>In the dying,
+The rising,
+Let it praise the Lord,
+Let it praise the Lord.
+Praise the Lord!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>You have been good to me</title>
+    </titles>
+    <authors>
+      <author type="words">Tré Sheppard</author>
+      <author type="music">Tré Sheppard</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I stop and think of all He's done
+ I must confess He is good
+ And when I look at where
+ He's brought me from
+ I must confess He is good</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I see all His love for me
+ I can't keep silent, I've got to sing
+ Lord from the depths of my soul I proclaim
+ That You have been good to me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You have been good to me
+ Over and over Your mercies I see
+ So good to me, forever faithful
+ You have been good to me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And when I think of healing
+ That He gives
+ I must confess He is good
+ And when I look at all
+ That He forgives
+ I must confess He is good</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When I remember
+ How He saved my soul
+ Brought light to my dark
+ Made me every bit whole
+ I just can't help
+ But to tell the whole world
+ My God You've been good to me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You have been good to me
+ Over and over Your mercies I see
+ So good to me
+ Forever faithful
+ You have been good to me</lines>
+    </verse>
+    <verse name="v7">
+      <lines>You have been good to me (Ohhh)
+ You have been good to me
+ So good
+ You have been good to me
+ You have been good to me (Ohhh)
+ You have been good to me
+ So good
+ You have been good
+ Oh, You have been good to me</lines>
+    </verse>
+    <verse name="v8">
+      <lines>You have been good to me
+ Over and over your mercies I see
+ So good to me
+ Forever faithful
+ You have been good to me</lines>
+    </verse>
+    <verse name="v9">
+      <lines>So good
+ You have been good
+ You have been good to me
+ (Ohh) You have been good to me</lines>
+    </verse>
+  </lyrics>
+</song>

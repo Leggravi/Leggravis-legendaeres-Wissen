@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Am Just a Prayer Away</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know that there are times in you life
+when the wheels just seem to turn,
+and uncertainties about your tomorrow seem to grow.
+One thing you should remember
+and you should always know
+out of everyone who loves you,
+I love you the most.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am just a prayer away,
+call my name with your heart
+and I'll hear every word you say.
+When you cry at night,
+I'll wipe the tears away,
+just pray my love,
+and I'll be there right away.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You will never have to wonder about my love,
+just put your faith and trust in my care.
+I will always be there to hold you in my arms,
+when you're afraid don't worry,
+I'll protect you from the storm.
+Out of everyone who loves you,
+I love you the most.</lines>
+    </verse>
+  </lyrics>
+</song>

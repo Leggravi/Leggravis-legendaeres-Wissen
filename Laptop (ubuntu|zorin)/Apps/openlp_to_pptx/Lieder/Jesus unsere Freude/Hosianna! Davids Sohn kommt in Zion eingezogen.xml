@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:18:32">
+  <properties>
+    <titles>
+      <title>Hosianna! Davids Sohn kommt in Zion eingezogen</title>
+    </titles>
+    <authors>
+      <author type="words">Benjamin Schmolck (1712)</author>
+      <author type="music">Meinen Jesus lass ich nicht</author>
+    </authors>
+    <ccliNo>5748974</ccliNo>
+    <themes>
+      <theme>Palmsonntag</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hosianna! Davids Sohn
+kommt in Zion eingezogen.
+Auf, bereitet ihm den Thron,
+setzt ihm tausend Ehrenbogen;
+streuet Palmen, machet Bahn,
+dass er Einzug halten kann.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hosianna, sei gegrüßt!
+Komm, wir gehen dir entgegen.
+Unser Herz ist schon gerüst’,
+will sich dir zu Füßen legen.
+Zieh zu unsern Toren ein,
+du sollst uns willkommen sein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hosianna, Friedefürst,
+Ehrenkönig, Held im Streite!
+Alles, was du schaffen wirst,
+das ist unsre Siegesbeute.
+Deine Rechte bleibt erhöht,
+und dein Reich allein besteht.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hosianna, lieber Gast!
+Wir sind deine Reichsgenossen,
+die du dir erwählet hast.
+Ach, so lass uns unverdrossen
+deinem Zepter dankbar sein,
+herrsche du in uns allein!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hosianna! Steh uns bei,
+o Herr, hilf, lass wohlgelingen,
+dass wir ohne Heuchelei
+dir das Herz zum Opfer bringen.
+Du nimmst keinen Jünger an,
+der dir nicht gehorchen kann.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hosianna nah und fern!
+Eile, bei uns einzugehen!
+Du Gesegneter des Herrn,
+warum willst du draußen stehen?
+Hosianna! Bist du da?
+Ja, du kommst, Halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

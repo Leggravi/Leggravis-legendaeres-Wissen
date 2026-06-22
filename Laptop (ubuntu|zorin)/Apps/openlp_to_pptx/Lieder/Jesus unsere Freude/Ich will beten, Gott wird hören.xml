@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:26">
+  <properties>
+    <titles>
+      <title>Ich will beten, Gott wird hören</title>
+    </titles>
+    <authors>
+      <author type="words">Gottfried Gottschling (1720)</author>
+      <author type="music">Loys Bourgeois</author>
+    </authors>
+    <ccliNo>4828943</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich will beten, Gott wird hören,
+denn er hat es zugesagt.
+Mich soll Zweifel nicht betören,
+und ich werde nicht verzagt,
+wenn er nicht zu hören scheint;
+denn ich weiß wohl, wie ers meint:
+es soll die Geduld sich mehren.
+Ich will beten, Gott wird hören.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich will beten, Gott wird geben,
+denn von ihm kommt alles her.
+Aus der Fülle kann man heben
+als aus einem reichen Meer,
+was für Leib und Seel ist not.
+Droben lebt der reiche Gott,
+der hat Segen, Brot und Leben.
+Ich will beten, Gott wird geben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich will beten, Gott wird schonen,
+wenn mich mein Gewissen quält,
+weil viel Sünden in mir wohnen.
+Ach, wer merkt, wie oft er fehlt!
+Gott, der keinem Sünder flucht,
+wenn er herzlich Gnade sucht,
+wird mir nach Verdienst nicht lohnen.
+Ich will beten, Gott wird schonen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ich will beten, Gott wird retten.
+Ich will, neigt mein Lebenslicht,
+in des Vaters Schoß mich betten
+mit Gebet und Zuversicht.
+Wer im Glauben beten kann,
+den nimmt Gott in Gnaden an,
+reißt ihn aus des Todes Ketten.
+Ich will beten, Gott wird retten.</lines>
+    </verse>
+  </lyrics>
+</song>

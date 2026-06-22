@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Du bist mein Gott, ich will dich preisen</title>
+    </titles>
+    <authors>
+      <author type="words">Gitta Leuschner</author>
+      <author type="music">Tony Hopkins</author>
+      <author type="translation">Thou art my God</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich will dich preisen, Herr und ew’ger Gott,
+Mit Psalmen und mit all meinen Gebeten.
+Weil du befreit hast mich von dieser Welt,
+Das Böse und die Qualen überwunden.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mein Herr, ich will für alles dankbar sein,
+In allen Dingen bleiben stets gehorsam.
+Denn lieben kann ich nur durch dich, o Herr,
+Und würdig sein, nur dir zu Ehren.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du bist mein Vater, ich bin jetzt dein Kind,
+Du hältst mich fest in deinen starken Händen.
+In Liebe lehrst und züchtigst, Herr, du mich,
+Umgürtest mich mit Wahrheit an den Lenden.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Von deiner Liebe bin ich stets erfüllt,
+Vom Himmelreich, das du mir hast bereitet.
+Denn leben kann ich nur durch dich, mein Fürst,
+Von deinem Geist bin ich immer geleitet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mein Herr, ich will für alles dankbar sein,
+In allen Dingen bleiben stets gehorsam.
+Denn lieben kann ich nur durch dich, o Herr,
+|: Und würdig sein, nur dir zu Ehren. : |</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Heard the Bells on Christmas Day</title>
+    </titles>
+    <authors>
+      <author type="words">Henry Wadsworth Longfellow</author>
+      <author type="music">John Baptiste Calkin</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I heard the bells on Christmas day
+Their old familiar carols play
+And mild and sweet their songs repeat
+Of peace on Earth, good will to men</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And the bells are ringing (peace on Earth)
+Like a choir they're singing (peace on Earth)
+In my heart I hear them (peace on Earth)
+Peace on Earth, good will to men</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And in despair I bowed my head
+&quot;There is no peace on Earth&quot;, I said
+For hate is strong and mocks the song
+Of peace on Earth, good will to men.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>But the bells are ringing (peace on Earth)
+Like a choir singing (peace on Earth)
+Does anybody hear them? (Peace on Earth)
+Peace on Earth, good will to men.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Then rang the bells more loud and deep
+God is not dead, nor doth He sleep
+(Peace on Earth, Peace on Earth)
+The wrong shall fail, the right prevail
+With peace on Earth, good will to men.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Then ringing, singing on its way
+The world revolved from night to day
+A voice, a chime, a chant sublime
+Of peace on Earth, good will to men</lines>
+    </verse>
+    <verse name="v7">
+      <lines>And the bells, they're ringing (peace on Earth)
+Like a choir they're singing (peace on Earth)
+And with our hearts, we'll hear them (peace on Earth)
+Peace on Earth, good will to men</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Do you hear the bells, they're ringing? (Peace on Earth)
+The light, the angels singing (peace on Earth)
+Open up your heart and hear them (peace on Earth)
+Peace on Earth, good will to men</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Peace on Earth
+Peace on Earth
+Peace on Earth, good will to men</lines>
+    </verse>
+  </lyrics>
+</song>

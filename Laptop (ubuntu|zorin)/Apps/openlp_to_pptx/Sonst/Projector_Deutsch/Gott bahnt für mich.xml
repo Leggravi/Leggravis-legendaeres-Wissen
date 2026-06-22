@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gott bahnt für mich</title>
+    </titles>
+    <authors>
+      <author type="words">Lukas Di Nunzio</author>
+      <author type="music">Lukas Di Nunzio</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gott bahnt für mich
+Gott bahnt für mich
+Gott bahnt für dich
+Gott bahnt für dich
+Gott bahnt für alle seinen Weg</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Darum will ich auf ihn hören,
+darum will ich mit ihm gehen,
+darum leben ich jeden Tag auf's neue mit meinem Herrn,
+denn Gott bahnt seinen Weg.</lines>
+    </verse>
+  </lyrics>
+</song>

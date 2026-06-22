@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Immer auf Gott zu vertrauen</title>
+    </titles>
+    <authors>
+      <author type="words">Herbert Masuch</author>
+      <author type="music">Spiritual</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Immer auf Gott zu vertrauen,
+immer auf Gott zu vertrauen,
+immer auf Gott zu vertrauen,
+das ist der beste Weg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mag es vielen auch töricht scheinen,
+weil sie Gott und sein Wort verneinen,
+mag der Teufel zu siegen scheinen,
+soll dies deine Losung sein:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mögen Freunde dich auch verlassen,
+mag die Welt dich schmähen und hassen,
+Jesus wird deine Hand erfassen,
+will dein Freund und Helfer sein:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mag die Krankheit bedrohn dein Leben,
+mag sich Krieg und Gefahr erheben,
+mag die Welt auch vor Furcht erbeben,
+Gott will deine Zuflucht sein:</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Will die Sorge nicht von dir weichen,
+will die Einsamkeit dich beschleichen,
+will dich Unglück und Tod erreichen,
+niemals lässt Gott dich allein:</lines>
+    </verse>
+  </lyrics>
+</song>

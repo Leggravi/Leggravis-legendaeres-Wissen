@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Stille unsers Herzens Sehnen</title>
+    </titles>
+    <authors>
+      <author type="words">Carl Friedrich Brockhaus</author>
+      <author type="music">Richard William Beaty</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stille unsers Herzens Sehnen,
+Herr Jesus, komm!
+Führ' uns aus dem Land der Tränen,
+Herr Jesus, komm!
+Hier, wo Feinde uns umringen,
+Satan uns legt tausend Schlingen,
+Will Dein Lob nur schwach erklingen.
+Herr Jesus, komm!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ganz zertrennt die Heil'gen stehen,
+Herr Jesus, komm!
+Einheit ist nicht mehr zu sehen.
+Herr Jesus, komm!
+Satans List hat sie zerstöret,
+Sünd' und Welt manch Herz betöret,
+Ach, wie sehr wirst Du entehret!
+Herr Jesus, komm!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dann wird alle Schwachheit enden,
+Herr Jesus, komm!
+Nie ein Herz von Dir sich wenden,
+Herr Jesus, komm!
+Jeder wird Dich froh begrüßen,
+Beten an zu Deinen Füßen
+Und in ew'gem Lob zerfließen.
+Herr Jesus, komm!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Herrlich wirst Du dann erscheinen,
+Herr Jesus, komm!
+In der Mitte all der Deinen.
+Herr Jesus, komm!
+Erd' und Himmel werden spenden
+Ruhm und Preis an allen Enden.
+O welch seliges Vollenden!
+Herr Jesus, komm!</lines>
+    </verse>
+  </lyrics>
+</song>

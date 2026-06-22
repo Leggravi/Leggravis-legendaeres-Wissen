@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Awake</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v2 v3 v5 v2 v3 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Arise, arise
+Can you feel the fire
+Rising up higher
+Higher, higher
+Arise, arise
+Darkness can't stand by
+Cause the light is getting brighter
+Brighter, brighter</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And when we hear the trumpet sound
+And the four winds blow
+We will be the ones found
+Looking up ready to go
+In the twinkling of an eye
+We will be raised high
+Every heart beating in time
+With Adonai</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Awake, Awake
+Sleeping giant
+Open your eyes, it's time
+To rise and shine
+Awake, Awake
+Sleeping giant
+Open your eyes, it's time
+Dry bones come alive</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Revive, revive
+Breathe the breath of life
+Let it fill you with power
+Power, power
+Revive, revive
+Heed His voice be wise
+Ready for the final hour
+Hour, hour</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Holy, holy is the one
+Who was and is and is to come
+Oh, Holy, holy
+Holy, holy is the one
+Who was and is and is to come
+Oh, Holy, holy</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Awake, Awake
+Sleeping giant
+Open your eyes, it's time
+To rise and shine
+Awake, Awake
+And open your eyes
+Dry bones come alive</lines>
+    </verse>
+  </lyrics>
+</song>

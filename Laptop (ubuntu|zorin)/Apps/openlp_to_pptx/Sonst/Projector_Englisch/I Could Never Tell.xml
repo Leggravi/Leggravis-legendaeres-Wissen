@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Could Never Tell</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It could be just as easy to count
+Every grain of sand on every shore
+Give a name to every star
+Between here and heaven's door
+I could tell you
+How a seed, planted in a ground,
+could make a tree
+Much easier than I could tell you
+All the blessings He has given me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I could never tell all the good things
+He has done
+But if I try, I'll start by saying,
+First of all He sent His son
+He blessed my life with happiness
+And He has given me so much more
+And besides all these,
+At the end, I'll step on heaven's shore</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If you ask me why the lightening
+ flashes accross the sky
+Oh, why the sun shines through the day
+And darkness falls at evening time
+Maybe I could give an answer
+ to you that would satisfy
+But if you ask me why He loved me,
+I could never tell you the reason why</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Maybe I could give an answer
+If you ask me why the lightening
+ flashes accross the sky
+But if you ask me why He loved me,
+I could never tell you the reason why</lines>
+    </verse>
+  </lyrics>
+</song>

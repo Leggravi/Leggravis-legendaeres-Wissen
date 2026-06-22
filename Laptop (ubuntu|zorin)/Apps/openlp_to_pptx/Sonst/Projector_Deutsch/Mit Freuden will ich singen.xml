@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Mit Freuden will ich singen</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Valentin Andreä</author>
+      <author type="music">Leipzig</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mit Freuden will ich singen, Herr,
+Du bist der Fels meiner Erlösung.
+Ich komm mit einem Herz voll Dannk zu Dir
+und erheb Dich mit Gesang.
+Du bist der Schöpfer dieser ganzen Welt.
+Du hältst die Tiefen der Erd' in der Hand.
+Mit Freuden will ich singen, Herr,
+Du bist der Fels meiner Erlösung.</lines>
+    </verse>
+  </lyrics>
+</song>

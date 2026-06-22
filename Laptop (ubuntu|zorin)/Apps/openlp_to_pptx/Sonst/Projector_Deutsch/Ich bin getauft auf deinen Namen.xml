@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich bin getauft auf deinen Namen</title>
+    </titles>
+    <authors>
+      <author type="words">Johann Jakob Rambach</author>
+      <author type="music">O, dass ich tausend Zungen hätte</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich bin getauft auf deinen Namen,
+Gott Vater, Sohn und Heilger Geist;
+ich bin gezählt zu deinem Samen,
+zum Volk, das dir geheiligt heißt;
+Ich bin in Christus eingesenkt,
+ich bin mit seinem Geist beschenkt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du hast zu deinem Kind und Erben,
+mein lieber Vater, mich erklärt;
+du hast die Frucht von deinem Sterben,
+mein treuer Heiland, mir gewährt;
+du willst in aller Not und Pein,
+o guter Geist, mein Tröster sein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Doch hab ich dir auch Furcht und Liebe,
+Treu und Gehorsam zugesagt;
+ich hab, o Herr, aus reinem Triebe
+dein Eigentum zu sein gewagt;
+hingegen sagt ich bis ins Grab
+des Satans bösen Werken ab.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mein treuer Gott, auf deiner Seite
+bleibt dieser Bund wohl feste stehn;
+wenn aber ich ihn überschreite,
+so lass mich nicht verloren gehn;
+nimm mich, dein Kind, zu Gnaden an,
+wenn ich hab einen Fall getan.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ich gebe dir, mein Gott, aufs Neue
+Leib, Seel und Herz zum Opfer hin;
+erwecke mich zu neuer Treue
+und nimm Besitz von meinem Sinn.
+Es sei in mir kein Tropfen Blut,
+der nicht, Herr, deinen Willen tut.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Lass diesen Vorsatz nimmer wanken,
+Gott Vater, Sohn und Heilger Geist.
+Halt mich in deines Bundes Schranken,
+bis mich dein Wille sterben heißt.
+So leb ich dir, so sterb ich dir,
+so lob ich dich dort für und für.</lines>
+    </verse>
+  </lyrics>
+</song>

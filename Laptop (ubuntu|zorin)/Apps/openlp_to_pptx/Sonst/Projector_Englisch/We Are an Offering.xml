@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We Are an Offering</title>
+    </titles>
+    <authors>
+      <author type="words">Dwight Liles</author>
+      <author type="music">Dwight Liles</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We lift our voices,
+We lift our hands;
+We lift our lives up to You,
+We are an offering.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, use our voices,
+Lord, use our hands;
+Lord, use our lives…
+They are Yours,
+We are an offering</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All that we have,
+All that we are,
+All that we hope to be
+We give to You,
+We give to You.</lines>
+    </verse>
+  </lyrics>
+</song>

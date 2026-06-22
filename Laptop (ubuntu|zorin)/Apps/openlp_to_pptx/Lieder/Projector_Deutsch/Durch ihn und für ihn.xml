@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Durch ihn und für ihn </title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus ist das Ebenbild des unsichtbaren Gottes.
+Er ist der Erstgeborne, der über der ganzen Schöpfung steht.
+Jesus liebt dich und sieht dein ganzes Leben
+er weiß was war und auch was kommen wird.
+Er führt und leitet, nimmt dich in seine Hand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alles ist durch ihn und für ihn geschaffen.
+Alles hat in ihm sein Ziel.
+Er war vor allem anderen da und alles besteht durch ihn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus ist das Haupt der Gemeinde
+Den ersten Platz soll er in allem einnehmen
+Jesus segnet dich und du darfst Segen sein
+Er beschenkt dich mit Liebe, Güte, Gnade.
+Er wird bei dir sein, dein ganzes Leben lang.</lines>
+    </verse>
+  </lyrics>
+</song>

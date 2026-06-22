@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Longing For Jesus</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Longing, longing for Jesus,
+I have a longing in my heart for Him;
+Just to be near Him,
+To feel His presence,
+I have a longing in my heart for Him.</lines>
+    </verse>
+  </lyrics>
+</song>

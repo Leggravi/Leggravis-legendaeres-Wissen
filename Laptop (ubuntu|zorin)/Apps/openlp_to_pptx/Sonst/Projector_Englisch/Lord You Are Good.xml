@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord You Are Good</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Where would I be
+if You had not been by my side,
+How could I rise to meet
+the morning of the day?
+Your tender mercy's
+always calling from behind;
+At times I could not see You
+even though You were close by.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, You are good, You are good
+and Your mercy forever endures.
+Lord, You are good, You are good
+and Your mercy forever endures.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Help me to see Your loving kindness,
+Help me to see You as You are.
+Help me to see Your loving kindness,
+Help me to see You as You are,
+As You really, really are.</lines>
+    </verse>
+  </lyrics>
+</song>

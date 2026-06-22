@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Beyond Beautiful</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Everything that touches Your hand
+It is beyond beautiful
+Everything that You love
+There is life and there is joy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And You love me
+More than love me
+And I couldn’t ask for more</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your love has changed me Lord
+Your love made me whole
+I am grateful
+I lift my hands and worship You
+Your word has changed me Lord
+Your word made me see
+That You’re beyond beautiful
+I praise You Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hands raised high
+Voices singing, with my everything
+My heart explodes, You are exposed
+Because You’re the very meaning</lines>
+    </verse>
+  </lyrics>
+</song>

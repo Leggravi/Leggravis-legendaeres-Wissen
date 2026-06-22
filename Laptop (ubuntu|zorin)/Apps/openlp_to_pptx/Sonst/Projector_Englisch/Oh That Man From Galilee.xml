@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh That Man From Galilee</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In a manger long ago, I know it’s really so,
+A babe was born to save men from their sin.
+John saw Him on the shore, the Lamb forevermore,
+Oh, Christ, the Crucified of Calvary.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, I love that Man from Galilee, from Galilee,
+For He’s done so very much for me.
+He’s forgiven all my sins, placed the Holy Ghost within;
+Oh, I love, I love that Man from Galilee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The publican went to pray in the temple there one day,
+He cried, “O Lord, be merciful to me!”
+He was forgiven of every sin, and a deep peace placed within;
+He said, “Come see this Man from Galilee.”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The lame was made to walk, the dumb was made to talk,
+That power was spoken with love upon the sea;
+The blind was made to see, I know it could only be
+The mercy of that Man from Galilee.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nicodemus came by night, to know the way of right,
+He asked the Son of man what must he do.
+These wordsHe said to him, “Ye must be born again,”
+By the Spirit of that Man from Galilee.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>The woman at the well, He all her sins did tell,
+How five husbands she had atthat time,
+She was forgiven of every sin, and a deep peace came within;
+Then she cried, “Come see that Man from Galilee!”</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O Gott, Dir sei Ehre</title>
+    </titles>
+    <authors>
+      <author type="words">Hartmut Handt</author>
+      <author type="music">Lateinamerika</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Gott, Dir sei Ehre, der Großes getan!
+Du liebtest die Welt, nahmst der Sünder Dich an!
+Dein Sohn hat Sein Leben zum Opfer geweiht.
+Der Himmel steht offen zur ewigen Freud'!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Preist den Herrn! Preist den Herrn!
+Erde, hör diesen Schall!
+Preist den Herrn! Preist den Herrn!
+Völker, freuet auch all'!
+O kommt zu dem Vater! In Jesus wir nah'n.
+Und gebt Ihm die Ehre, der Großes getan!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O große Erlösung, erkauft durch Sein Blut!
+Dem Sünder, der glaubt, kommt sie heute zugut!
+Die volle Vergebung wird jedem zuteil,
+der Jesus erfasset, das göttliche Heil.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wie groß ist Sein Lieben! Wie groß ist Sein Tun?
+Wie groß unsre Freude, in Jesus zu run'n!
+Doch größer und reiner und höher wird's sein,
+wenn jubelnd und schauend wir droben zieh'n ein!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Close To You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I, need to understand
+Your perfect will, Your perfect plan for me.
+In my life my Lord,
+Help me to be strong
+LORD I NEED TO KNOW WHERE I BELONG
+STAY WITH ME I NEEDTO GET BACK</lines>
+    </verse>
+    <verse name="v2">
+      <lines>CLOSE TO YOU I'M SO AFRAID TO WALK ALONE
+I'M NEEDING YOU TO CARRY ME AND MAKE ME SEE
+THAT YOU WILL ALWAYS CARE</lines>
+    </verse>
+    <verse name="v3">
+      <lines>LORD I HAVE LOST MY WAY
+BUT NOW I FIND MYSELF I'M HERE TO STAY WITHYOU
+TO SERVE YOU MORE O LORD
+YOU'RE THE ONE I NEED
+IN MY LIFE IS ALL THAT I CAN GIVE
+TAKE IT LORD I NEED TO GET BACK</lines>
+    </verse>
+  </lyrics>
+</song>

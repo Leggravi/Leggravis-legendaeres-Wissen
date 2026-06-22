@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Walk with You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Early in the morning
+You wait for me to rise
+Counting down the seconds
+Till I open up my eyes</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I hear Your invitation
+You have been so patient
+So Lord this is my reply</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I want to walk with You
+And talk with You
+Hear You speaking
+Feel You breathing</lines>
+    </verse>
+  </lyrics>
+</song>

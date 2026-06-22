@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>One Day I Was Wondering</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One day I was wondering
+what life’s all about,
+Life was full of heartaches,
+restlessness, and doubt;
+Then a gentle stranger whispered
+words of life,
+Pointed me to Heaven,
+wrote my name above.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know where I’m going
+and whom I’m going to see;
+I have a friend named Jesus
+Waiting there for me,
+He has given me something that only
+He could give -
+He gave His life in payment
+so that I could live.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There are many mansions He has
+prepared there,
+That could not be purchased
+by a millionaire;
+Streets of gold there glitter, gates of
+pearly white,
+In that day eternal where
+there‘II be no night.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Friends if you are searching
+for a better way,
+I am recommending Jesus,
+trust in Him today;
+He will give life meaning
+like no other can:
+Come and travel with me
+to that promised land.</lines>
+    </verse>
+  </lyrics>
+</song>

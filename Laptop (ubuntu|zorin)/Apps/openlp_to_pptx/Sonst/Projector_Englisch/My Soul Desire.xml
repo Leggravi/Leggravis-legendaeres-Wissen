@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Soul Desire</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, when You placed Your hands upon me
+I knew that I would never be the same
+For in that moment, I became your servant
+And since that day, I only have one aim</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My soul desire is to be used
+An empty vessel longing to be filled by You
+My soul desire is to serve You, Lord
+To do your perfect will
+To work each day and build Your Kingdom
+This is my soul desire.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, I do not seek to claim the glory
+I only wish to be under Your control
+For I know that You alone are worthy
+And it's You who placed this longing in my soul</lines>
+    </verse>
+  </lyrics>
+</song>

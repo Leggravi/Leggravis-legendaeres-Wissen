@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.0rc4" modifiedIn="OpenLP 3.1.0rc4" modifiedDate="2026-04-04T19:19:07">
+  <properties>
+    <titles>
+      <title>Wunderbarer König</title>
+    </titles>
+    <authors>
+      <author type="words">Joachim Neander (1680)</author>
+      <author type="words">Bern (1853)</author>
+      <author type="music">Joachim Neander</author>
+    </authors>
+    <ccliNo>4339085</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wunderbarer König,
+Herrscher von uns allen,
+lass dir unser Lob gefallen.
+Deine Vatergüte
+hast du lassen fließen,
+ob wir schon dich oft verließen.
+Hilf uns noch,
+stärk uns doch;
+lass die Zunge singen,
+lass die Stimme klingen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Himmel, lobe prächtig
+deines Schöpfers Taten
+mehr als aller Menschen Staaten.
+Großes Licht der Sonne,
+schieße deine Strahlen,
+die das große Rund bemalen.
+Lobet gern,
+Mond und Stern,
+seid bereit, zu ehren
+einen solchen Herren.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O du meine Seele,
+singe fröhlich, singe,
+singe deine Glaubenslieder;
+was den Odem holet,
+jauchze, preise, klinge;
+wirf dich in den Staub darnieder.
+Er ist Gott
+Zebaoth,
+er nur ist zu loben
+hier und ewig droben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Halleluja bringe,
+wer den Herren kennet,
+wer den Herren Jesus liebet;
+Halleluja singe,
+welcher Christus nennet,
+sich von Herzen ihm ergibet.
+O wohl dir!
+Glaube mir:
+endlich wirst du droben
+ohne Sünd ihn loben.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Siegelring</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich will sein so wie das Siegelring,
+den am Hals du trägst, der am Herzen dir ruht,
+ganz nah bei Dir, am Puls der Gnade,
+von dir geträgt nur allein, nach dir benannt,
+in Dir erkannt, so schlägt dein Herz nur auch in mir, ich bin in dir.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich will sein sowie der Siegelreif,
+den am Arm du trägst,
+deinem Arm, der die Welt schuf,
+und auch heute noch hält.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In deiner Kraft setzen ein Ausdruck der Liebe in dieser Welt zu sein,
+Deine Hand rechts du in mir,
+ziehst Menschen zu dir.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dich allein liebe ich, Herr, denn du hast mich geliebt,
+starbst, besiegtest den Tod,
+öffnest die Tür zum Haus des Vaters.
+Ich trete ein, bin daheim. Herr, Deine Liebe hüllt mich ein.
+Du Flamme des Herrn, brenne in mir, ich bin in Dir.</lines>
+    </verse>
+  </lyrics>
+</song>

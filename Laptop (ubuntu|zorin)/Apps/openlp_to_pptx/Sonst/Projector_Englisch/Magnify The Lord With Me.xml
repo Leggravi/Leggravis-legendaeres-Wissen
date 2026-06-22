@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Magnify The Lord With Me</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Moses Hogan</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh magnify the Lord with me,
+Blessed Lamb of Calvary,
+For His grace so rich and free,
+Magnify the Lord with me.
+Magnify the Lord with me,
+Blessed Lamb of Calvary,
+Jesus gives the victory
+Oh magnify the Lord with me.</lines>
+    </verse>
+  </lyrics>
+</song>

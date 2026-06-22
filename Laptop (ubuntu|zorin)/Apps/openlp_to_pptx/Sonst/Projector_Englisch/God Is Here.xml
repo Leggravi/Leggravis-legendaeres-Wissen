@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God Is Here</title>
+    </titles>
+    <authors>
+      <author type="words">Joel Houston</author>
+      <author type="music">Joel Houston</author>
+      <author type="translation">Die Rettung ist da</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a sweet anointing in this sanctuary,
+There is a stillness in the atmosphere;
+Come and lay down the burdens you have carried
+For in the sanctuary, God is here.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He is here
+He is here to break the yoke
+And lift the heavy burden</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He is here
+He is here to heal the hopeless heart
+And bless the broken</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh come and lay down
+The burdens you have carried
+For in this sanctuary, God is here</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Speak to me Lord
+Speak to me Lord</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Speak Lord, speak Lord
+Speak Lord, speak Lord</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Heavens Came Down</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh what a wonderful,
+wonderful day
+Day I’ll never forget,
+After I’d wandered in darkness away
+Jesus my Saviour I met,
+Oh what a tender,
+compassionate friend,
+He met the needs of my heart
+Shadows dispelling
+with joy I am telling
+He made all the darkness depart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Heavens came down
+and glory filled my soul,
+When at the cross my Saviour
+made me whole,
+My sins were washed away,
+And my night was turned to day
+Heavens came down
+and glory filled my soul.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Born of the spirit with life from above,
+Into God’s family divine,
+Justified fully through calvary’s love,
+Oh what a standing is mine,
+And the transaction so quickly was made,
+When as a sinner I came,
+Took up the offer
+of grace He did offer
+He saved me
+0h praise His dear name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now I have hope that I'll surely
+endure,
+After the passing of time,
+I have a future in heaven for sure,
+There in those mansions sublime,
+And it’s because of that wonderful day,
+When at the cross I believed,
+Riches eternal and blessing
+supernal,
+From His precious hand I received.</lines>
+    </verse>
+  </lyrics>
+</song>

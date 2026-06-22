@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ich weiß einen Strom</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich weiß einen Strom, dessen herrliche Flut,
+fließt wunderbar stille durchs Land;
+doch strahlet und glänzt er wie feurige Glut;
+wem ist dieses Wasser bekannt?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Seele, ich bitte dich: Komm!
+Und such diesen herrlichen Strom!
+Sein Wasser fließt frei und mächtiglich;
+O glaube, es fließet für dich!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wohin dieser Strom sich nur immer ergießt,
+da jubelt und jauchzet das Herz,
+das nunmehr den köstlichen Segen genießt,
+erlöset von Sorge und Schmerz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Das Wasser des Lebens, das ist diese Flut;
+durch Jesum ergießet sie sich.
+Sein kostbares, teures und heiliges Blut,
+o Sünder, vergoss er für dich!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wen dürstet, der komme und trinke sich satt!
+So rufet der Geist und die Braut.
+Nur wer in dem Strome gewaschen sich hat,
+das Angesicht Gottes einst schaut.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Der Strom ist gar tief, und sein Wasser ist klar,
+es schmecket so lieblich und fein;
+es heilet die Kranken und stärkt wunderbar,
+ja, machet die Unreinsten rein.</lines>
+    </verse>
+  </lyrics>
+</song>

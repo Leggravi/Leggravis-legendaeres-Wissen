@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When John Came Preaching</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When John came preaching,
+preparing the way,
+For Jesus the heavenly King;
+For all who believed and
+trusted in His name,
+Would stand in God’s kingdom
+and not be ashamed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let the Spirit descend,
+like a beautiful dove,
+As it did on Jesus that day
+He was baptized by John,
+in the river of Jordan,
+God’s voice like thunder spoke
+This Is my Son.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When Lazarus lay dead,
+in the grave four days,
+Martha sent for Jesus to come,
+Said Lazarus, come forth
+and he heard what He said
+Lazarus life flowed back,
+he arose from the dead.</lines>
+    </verse>
+  </lyrics>
+</song>

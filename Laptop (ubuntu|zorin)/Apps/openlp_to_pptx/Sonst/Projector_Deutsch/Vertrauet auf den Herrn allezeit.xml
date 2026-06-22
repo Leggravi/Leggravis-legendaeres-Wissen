@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Vertrauet auf den Herrn, allezeit</title>
+    </titles>
+    <authors>
+      <author type="words">Jugend mit einer Mission</author>
+      <author type="music">Israel Harel</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vertrauet auf den Herrn, allezeit
+Vertrauet auf den Herrn, allezeit
+|: Denn der Herr, unser Gott, ist ein Fels in Ewigkeit (3x):|
+denn der Herr, unser Gott ist unser Fels.</lines>
+    </verse>
+  </lyrics>
+</song>

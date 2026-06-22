@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Know Where There's Water</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know I can't live my life
+based on how I feel
+But at times there is a famine
+cross the land in which I dwell
+I know there's a mountain
+where blood from His side fell
+And the blood became a fountain,
+a fountain of living well</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In a dry and thirsty land,
+I know where there's water
+In a burning desert sand,
+I know where there's water
+There's a place where I can go
+where the living waters flow,
+To refresh my weary soul,
+I know there's water</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This world takes my strength
+until there's nothing left
+And it's a hopeless battle
+to fight it by myself
+So in the times I'm weak from
+this journey I am on
+There's a wellspring that I drink from
+flowing from the cornerstone</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In a dry and thirsty land,
+I know where there's water
+In a burning desert sand,
+I know where there's water
+There's a place where I can go,
+where the living waters flow,
+To refresh my weary soul,
+I know there's water
+To refresh my weary soul,
+I know there's water</lines>
+    </verse>
+  </lyrics>
+</song>

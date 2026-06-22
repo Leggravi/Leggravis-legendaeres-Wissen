@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wer kann, Herr, deine Liebe fassen</title>
+    </titles>
+    <authors>
+      <author type="words">Walter Brockhaus</author>
+      <author type="music">Johann Balthasar König</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wer kann, Herr, Deine Liebe fassen,
+wer ihre Tiefen je verstehen,
+die Liebe, die Dich ließ verlassen
+des Vaterhauses lichte Höhn,
+zu tragen willig Schmach und Hohn
+und unsern Sünden Lohn</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sind's die Gewaltigen an Stärke,
+die Wächter dort im Heiligtum,
+sind's Deiner Schöpferhände Werke,
+die würdig künden ihren Ruhm,
+der Liebe, die in bittrer Not
+Dir bracht' den Kreuzestod?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wer anders könnte sie erfassen
+als Sünder, einstmals arm und blind,
+die fern von ihr im Finstern saßen
+und nun des Lichtes Kinder sind!
+Wir preisen jubelnd ihre Macht,
+die uns zu Dir gebracht.</lines>
+    </verse>
+  </lyrics>
+</song>

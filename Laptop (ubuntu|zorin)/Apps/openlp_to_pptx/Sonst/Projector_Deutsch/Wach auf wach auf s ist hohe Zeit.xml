@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Wach auf, wach auf, 's ist hohe Zeit</title>
+    </titles>
+    <authors>
+      <author type="words">Ambrosius Blarer</author>
+      <author type="music">Der Tag bricht an und zeiget sich</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1) Wach auf, wach auf, 's ist hohe Zeit,
+Christ, sei mit deiner Hilf nicht weit!
+Das wütend ungestüme Meer
+läuft an mit Macht und drängt uns sehr.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2) Hilfst du nicht bald, so ist's geschehn,
+zugrund wir müssen eilends gehn.
+Bedroh der Wellen wild Gebrüll,
+so legt es sich und wird ganz still.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3) Ach Herr, um deines Namens Ehr
+halt uns im Fried bei deiner Lehr;
+gib deiner Kirche gute Ruh,
+Gesundheit und Gedeihn dazu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4) Darüber auch das Allerbest:
+dass wir im Glauben stark und fest
+dich preisen und den Namen dein,
+dir leben, dein lieb Völklein sein,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5) aus deinem Geist ganz neu geborn;
+den gib uns, Herr, sonst ist's verlorn.
+Dies alles unser Herz begehrt,
+wiewohl wir deren keins sind wert.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6) Haben das Widerspiel verschuld't,
+zum Zorn gereizt oft dein Geduld,
+dein treue Warnung auch veracht',
+all Zucht und Ehrbarkeit verlacht.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>7) Und ist vielleicht das Maß jetzt voll,
+dass unsre Sünde haben soll
+verdiente Straf, so g'schieht uns recht
+als einem unge'treuen Knecht.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>8) Jedoch, dieweil dein Wort ist gut,
+so wehr all derer Übermut,
+die uns dabei nicht lassen stehn
+und es vertrieben möchten sehn.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>9) Mach uns vor ihnen nicht zu Spott;
+die Sach ist dein, o starker Gott.
+Gib uns den Feinden nicht zur Schand;
+wir fallen gern in deine Hand.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>10) Bekehr den Feind zu Christi Lehr,
+dass er mit uns dich lob und ehr
+und alle Welt des innewerd,
+dass du groß Wunder tust auf Erd.</lines>
+    </verse>
+  </lyrics>
+</song>

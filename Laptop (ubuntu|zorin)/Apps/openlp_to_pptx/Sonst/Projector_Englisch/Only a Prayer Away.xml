@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Only a Prayer Away</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One day I heard the ancient story
+Of a cross on a hill far away
+And now I've a friend up in glory
+And He’s only a prayer away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, He never would say: 'I'm too busy today’
+Every tear, every care, He's promised He will share
+And although He's the Lord of all glory
+Yet He's only a prayer away</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sometimes I don't feel much like praying,
+But He speaks words of love just the same
+And deep in my soul there starts flowing
+Living waters, songs of praise to His name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If I keep the cross e’er before me,
+As I die I will live day by day.
+If I sin, If I fall, He'll restore me
+For He's only a prayer away.</lines>
+    </verse>
+  </lyrics>
+</song>

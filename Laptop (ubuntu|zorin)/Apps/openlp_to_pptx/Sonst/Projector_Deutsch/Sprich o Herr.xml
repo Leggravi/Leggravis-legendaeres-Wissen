@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Sprich, o Herr</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sprich, o Herr, denn wir stehn vor Dir
+um zu hören nun auf dein heilges Wort
+Pflanz in uns Deine Wahrheit ein
+forme Du uns, Herr, in Dein Bild hinein.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Damit Christi Licht täglich durch uns scheint,
+wir ein Spiegel sind Deiner Herrlichkeit.
+Sprich, o Herr, und erfüll in uns
+Deinen Plan zu Deiner Herrlichkeit</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lehre uns, zu gehorchen, Herr,
+schenk uns Demut und wahre Heiligkeit.
+Prüfe Du unser Denken, Herr,
+in dem Lichte Deiner Vollkommenheit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dass der Glaube wächst und wir mehr verstehn
+Deine große Macht, Deine Majestät
+und Dein Wort, das niemals vergeht
+darauf wollen wir immer fest vertraun</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Schaff in uns einen neuen Geist,
+dass wir deinen Plan für uns sehen, Herr.
+Deine Wahrheit steht fest und bleibt
+von Beginn der Zeit bis in Ewigkeit.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Deiner Gnade Herr, können wir vertraun,
+nur auf Dich allein unsern Glauben baun.
+Sprich, o Herr, bis die Zeit erfüllt
+und Du kommst in Deiner Herrlichkeit.</lines>
+    </verse>
+  </lyrics>
+</song>

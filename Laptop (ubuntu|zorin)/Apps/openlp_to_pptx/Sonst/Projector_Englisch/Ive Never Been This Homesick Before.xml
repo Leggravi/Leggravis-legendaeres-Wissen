@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I've Never Been This Homesick Before</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a light in the window
+The table's spread in splendor
+Someone's standing by the open door
+I can see a crystal river
+I must be near forever
+See, I've never been this homesick before</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I see the bright light shine
+It's just about hometime
+I can see my Father standing at the door
+This world has been a wilderness
+I'm ready for deliverance
+Lord, I've never been this homesick before</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I can see the family gather
+Sweet faces, all familiar
+And no one's old or feeble anymore
+And my lonesome heart is cryin'
+Think I'll spread my wings for flyin'
+See I've never felt this homesick before</lines>
+    </verse>
+    <verse name="v4">
+      <lines>See the bright light shine
+It's just about hometime
+I can see my Father standing at the door
+This world has been a wilderness
+I'm ready for deliverance
+Lord, I've never been this homesick before</lines>
+    </verse>
+    <verse name="v5">
+      <lines>See the bright light shine
+It's just about hometime
+I can see my Father standing at the door
+This world has been a wilderness
+I'm ready for deliverance
+Lord, I've never been this homesick before
+Lord, I've never been this homesick before, thank you Lord</lines>
+    </verse>
+  </lyrics>
+</song>

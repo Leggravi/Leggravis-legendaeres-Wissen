@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>In the Upper Room</title>
+    </titles>
+    <authors>
+      <author type="words">Benjamin Hastings</author>
+      <author type="music">Benjamin Hastings</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a place for all the weak &amp; weary.
+A place where all may find real peace.
+In the upper room with Jesus,
+All our cares and heartaches cease.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the upper room with Jesus.
+Sitting at His nail-scarred feet.
+Oh, what rich and full communion!
+Fellowship, divine and sweet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is cooling water for the weary.
+There's a balm for every broken heart.
+And there's rest for all the heavy-laden.
+His peace to you He will impart.</lines>
+    </verse>
+  </lyrics>
+</song>

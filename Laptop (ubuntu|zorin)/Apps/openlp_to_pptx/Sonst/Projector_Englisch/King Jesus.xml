@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>King Jesus</title>
+    </titles>
+    <authors>
+      <author type="words">Nathan Fellingham</author>
+      <author type="music">Nathan Fellingham</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It is right to praise You
+To bring the sacrifice You deserve
+For those forgiven much
+Dare not forget Your touch
+Cannot withhold Your praise
+For there is no other
+Seated at the Father's right hand
+And Yours scarred with the proof of what You chose to lose
+So grace was mine to gain</lines>
+    </verse>
+    <verse name="v2">
+      <lines>King Jesus
+King Jesus
+King Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You come with eyes ablazing
+And on Your thigh, the Name above Names
+Interceding Son
+Our Christ the Risen One
+The slain and worthy Lamb
+You ride to end the battle
+That in eternity You've already won
+We praise and pull it down
+The victory, the sound
+Heaven on earth, the same</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let it rise, praise ascend
+Glory to the Lamb
+Let it rise, praise again
+Glory to the Lamb
+Let it rise, praise ascend
+Glory to the Lamb (Hallelujah, Lord)
+Let it rise, praise again
+Glory to the Lamb (Let it rise)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let it rise, praise ascend (Praise ascend)
+Glory to the Lamb (Glory to the Lamb)
+Let it rise, praise again
+Glory to the Lamb (Let it rise, let it rise)
+Let it rise, praise ascend (oh)
+Glory to the Lamb
+Let it rise, praise again
+Glory to the Lamb</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Holy, holy,
+Holy is the Lord,
+Worthy, worthy,
+Worthy is the Lord,
+Holy, holy,
+Holy is the Lord,
+Worthy, worthy,
+Worthy is the Lord (We sing holy, holy).</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Holy, holy,
+Holy is the Lord,
+(Worthy, worthy, worthy),
+Worthy, worthy,
+Oh, worthy is, is the Lord (We sing holy, holy)
+Holy, holy,
+He is holy (Holy) is the Lord,
+Worthy, worthy, worthy is the Lord (Worthy),
+Oh, worthy,
+Oh, worthy is the Lord, yeah!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>King Jesus,
+King Jesus,
+Worthy are You Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

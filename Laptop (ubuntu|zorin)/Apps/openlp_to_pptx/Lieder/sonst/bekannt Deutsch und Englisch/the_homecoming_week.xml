@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP JSON Converter" modifiedIn="OpenLP JSON Converter" modifiedDate="Sep 13, 2019, 6:04:40 PM">
+  <properties>
+    <titles>
+      <title>The Homecoming Week</title>
+    </titles>
+    <verseOrder>V1 C2 V3 C2 V4 C2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="V1">
+      <lines>Upon our journey here below
+we meet with pain and loss;
+Sometimes there is a crown of thorns,
+sometimes the heavy cross.
+The dreary road to Calvary,
+the bitter goad and sting,
+But what's inside those gates of pearl
+will be worth everything.</lines>
+    </verse>
+    <verse name="C2">
+      <lines>When we're inside the gates of pearl,
+We'll learn a lot of things,
+We'll have a harp that's made of gold,
+Perhaps a thousand strings;
+We'll sing and shout and dance about,
+The Lamb will dry our tears;
+We'll have a grand homecoming week,
+The first ten thousand years.</lines>
+    </verse>
+    <verse name="V3">
+      <lines>The shadows now begin to fall,
+the time is drawing nigh,
+When Christ our Lord shall come again
+like lightning from the sky.
+And while we wait and suffer here,
+praise God, we'll shout and sing,
+For one glimpse through those gates
+of pearl will be worth everything.</lines>
+    </verse>
+    <verse name="V4">
+      <lines>The precious blood of God's own Son
+has saved and sanctified
+A wondrous people for His name
+and they are called the Bride.
+Though here neglected and despised,
+one day the Lord will bring
+His chosen ones within the gates,
+and that's worth everything.</lines>
+    </verse>
+  </lyrics>
+</song>

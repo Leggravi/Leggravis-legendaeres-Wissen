@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Love of God (Abounds in Me)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I think of the goodness in my life
+I'm soul rejoice to You
+my Lord
+How wonderful
+How wonderful Your love for me
+I'm so blessed to have it now</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The love of God abounds in me
+I'm so glad He saved me
+He died for me, He died for me
+On the cross of Calvary
+Just to let me know, just to let me know
+His love for me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And now I'm fully convinced
+that God really loves me
+And even though the whole world
+turn their back to me
+I know His love will be mine forever</lines>
+    </verse>
+  </lyrics>
+</song>

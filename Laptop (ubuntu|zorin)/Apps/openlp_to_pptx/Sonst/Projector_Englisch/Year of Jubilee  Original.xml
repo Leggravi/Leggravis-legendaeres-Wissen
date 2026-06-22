@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Year of Jubilee – Original</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v1 v2 v3 v4 v2 v3 v2 v5 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We will celebrate sing unto the Lord
+We will sing to Him a new song
+We will celebrate sing unto the Lord
+We will sing to Him a new song</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Shalom, Shalom,
+Shalom, Shalom,
+Shalom, Shalom,
+Jerusalem, Jerusalem, Jerusalem, Shalom</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This is the year of Jubilee,
+When the lame shall walk,
+And the blind shall see,
+And the Lord will set the captive free,
+This is the year of Jubilee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hallelujah, Hallelujah, Hallelujah,
+Hallelujah, Hallelujah, Hallelujah!
+Hallelujah, Hallelujah, Hallelujah,
+Hallelujah, Hallelujah, Hallelujah!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jerusalem, Jerusalem, Shalom,
+Jerusalem, Jerusalem, Shalom,
+Jerusalem, Jerusalem, Shalom,
+Jerusalem, Jerusalem, Jerusalem, Shalom</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let Go And Let God</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let go and let God
+have His wonderful way,
+Let go and let God have His way.
+Your sorrow will vanish,
+Your night turn to day.
+Let go and let God have His way.</lines>
+    </verse>
+  </lyrics>
+</song>

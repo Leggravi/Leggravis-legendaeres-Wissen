@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Psalm 23</title>
+    </titles>
+    <authors>
+      <author type="words">Aus der Bibel</author>
+      <author type="music">Hanne Fossum</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord is my Shepherd I shall not want
+In green pastures He makes me lie down
+He restores my soul and leads me on for His Name
+for His great Name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Surely goodness surely mercy
+right beside me all my days
+and I will dwell in Your house forever
+and bless Your Holy Name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You prepare a table right before me
+in the presence of my enemies
+though the arrow flies and the terror of night
+is at my door I'll trust you Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>even though I walk through the valley of the shadow of death
+I will fear no evil
+even though I walk through the valley
+of the shadow of death
+You are on my side
+even though I walk through the valley
+of the shadow of death
+I will fear no evil
+even though I walk through the valley
+of the shadow of death
+You are on my side</lines>
+    </verse>
+  </lyrics>
+</song>

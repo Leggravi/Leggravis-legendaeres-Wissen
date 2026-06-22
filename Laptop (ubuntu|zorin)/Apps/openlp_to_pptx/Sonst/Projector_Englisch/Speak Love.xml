@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Speak Love</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Words can be so meaningful
+Words can do so much
+Words can deal a vicious blow
+Or lend a healing touch
+When you speak the power of
+The tongue is yours to claim
+Speak a word of love
+In Jesus name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Speak love
+Into the lives of those around you
+Speak truth
+From your heart and show you care
+Speak peace
+And let it shine from your life and through your eyes
+Speak joy
+Into sad and empty lives</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A word that's fitly spoken
+Is beautiful to hear
+Where such words are present
+We know the Lord is near
+Speak a word in season
+To the weary and oppressed
+Speak a word of hope and peace and rest</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Just one word can do so much to heal
+A torn and troubled sorrow
+Lead them to the one who makes them whole</lines>
+    </verse>
+  </lyrics>
+</song>

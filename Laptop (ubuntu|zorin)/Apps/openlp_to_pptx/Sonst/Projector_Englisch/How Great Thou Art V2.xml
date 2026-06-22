@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>How Great Thou Art (V2)</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lord my God, when I in awesome wonder
+Consider all the works Thy hands have made
+I see the stars, I hear the rolling thunder
+Thy power through out the universe displayed!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Then sings my soul, my Savior God, to Thee
+How great Thou art, how great Thou art!
+Then sings my soul, my Savior God, to Thee
+How great Thou art, how great Thou art!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When Christ shall come with shout of acclamation
+And take me home, what joy shall fill my heart!
+Then I shall bow in humble adoration
+And there proclaim, my God, how great Thou art!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Great and mighty, awesome, wonderful
+You conquer all!
+God, our Father, God omnipotent
+You reign on us!</lines>
+    </verse>
+  </lyrics>
+</song>

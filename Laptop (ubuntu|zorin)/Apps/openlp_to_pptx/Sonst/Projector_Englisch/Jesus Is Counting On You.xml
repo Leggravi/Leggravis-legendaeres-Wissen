@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Jesus Is Counting On You</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord said, stand up Paul
+And dry up your tears
+You must preach this gospel
+For many long years
+Go down to Damascus
+The way that is straight
+You’ll find Ananias
+And there you must wait.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I counted on Jonah,
+I counted on Cain,
+I counted on Adam but he was the
+same I counted on Judas
+but he proved untrue
+So go tell the world Paul
+I’m counting on you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Three days have passed by Lord
+And yet I don’t see, and here stands
+my brother He’s talking to me
+He says brother Paul,
+The Lord in the sky
+Has sent me to heal you
+and open your eyes.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I’ll send you to the gentiles,
+I’ll send you to Rome
+But Paul you must suffer,
+till I call you home,
+They’ll put you in prison,
+you’ll wreck out in sea,,
+But Paul you must preach
+all this gospel for me.</lines>
+    </verse>
+  </lyrics>
+</song>

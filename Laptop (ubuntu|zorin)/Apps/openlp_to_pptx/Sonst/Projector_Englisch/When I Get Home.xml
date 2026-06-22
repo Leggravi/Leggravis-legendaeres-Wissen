@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>When I Get Home</title>
+    </titles>
+    <authors>
+      <author>Unbekannt</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You have gone ahead to make a place for me
+Though here below You've left a taste of what will be
+When I get Home, When I get Home
+Here below I’ve tasted sadness tasted pain
+But there with You the Prince of Peace I’ll ever reign
+When I get home, when I get home
+For where You are is where I want to be
+And where You are is all the heaven I will need</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For here below the Lamb is light
+For me there is no night
+Just endless glory bright
+Just like my heavenly home
+But when I walk the streets of gold more grand than I was told
+When Jesus I behold I’ll know I’m home</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Here below I’ve tasted death and tasted strife
+But there a river flows of purest crystal life
+When I get home, when I get home
+And here below You are the sweetest taste I know
+But one day soon I’ll taste the glory round Your throne
+When I get home, when I get home
+For where You are is where I want to be
+And where You are is all the heaven I will need</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Children I can’t wait till that day
+When I call you to my side
+I’ve been building a special for you with me
+And I can’t wait for you to see
+I can’t wait to say well done my good and faithful servant
+Well done you’ve fought a good fight
+And I can’t wait to say, Father this is my bride,
+The day that I take you to my side
+Oh, I can’t wait till the day that I take you my precious bride</lines>
+    </verse>
+  </lyrics>
+</song>
