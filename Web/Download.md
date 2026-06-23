@@ -13,6 +13,11 @@ Bei Spotify wird nach alternativen gesucht
 > SPotify funktioniert zurzeit nicht
 > Musst entsprechenden SOng/Album auf Youtube suchen!
 
+## Alternativen
+
+https://notube.cc/de/youtube-app-160
+https://en1.savefrom.net
+
 ## Install
 
 ```
