@@ -39,7 +39,7 @@ https://reporting.ccli.com/history/ccl
 
       2. dann auf edit all
 
-      3. gegoogelte Lyrics per [Skript](https://grok.com/c/3f740f25-3d5d-4e32-a09f-90c6f132e3ce?rid=be9e3d97-a9f1-47f6-9d5b-9f4202a2f1ec) schön machen
+      3. gegoogelte Lyrics per [Skript](https://grok.com/c/3f740f25-3d5d-4e32-a09f-90c6f132e3ce?rid=be9e3d97-a9f1-47f6-9d5b-9f4202a2f1ec) schön machen (geht gut per grok)
 
          1. ```
             ich schicke dir lieder und du verwandelst sie infolgendes format!:
