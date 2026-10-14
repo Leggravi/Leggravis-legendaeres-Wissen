@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 *.mov filter=lfs diff=lfs merge=lfs -text
+Laptop[[:space:]](ubuntu|zorin)/Apps/openlp_to_pptx/Hintergründe/vanta-desktop/node_modules/electron/dist/electron filter=lfs diff=lfs merge=lfs -text
