@@ -1,0 +1,108 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Vanta Background</title>
+
+<!-- three + vanta builds -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vanta/dist/vanta.halo.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vanta/dist/vanta.birds.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vanta/dist/vanta.waves.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vanta/dist/vanta.clouds.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vanta/dist/vanta.fog.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vanta/dist/vanta.net.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vanta/dist/vanta.cells.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vanta/dist/vanta.rings.min.js"></script>
+
+<style>
+  html,body { margin:0; height:100%; background:black; }
+  #vanta-bg { position:fixed; inset:0; z-index:0; }
+  #overlay { position:fixed; inset:0; z-index:2; background:black; pointer-events:none; opacity:0; transition: opacity 150ms linear; }
+  /* Drag region (frameless). Very low opacity so it doesn't show; increase for visible handle */
+  #dragbar {
+    position: fixed; left: 8px; top: 8px; width: 160px; height: 28px; z-index:3;
+    -webkit-app-region: drag;
+    opacity: 0.02;
+    background: rgba(0,0,0,0);
+  }
+</style>
+</head>
+<body>
+  <div id="vanta-bg"></div>
+  <div id="overlay"></div>
+  <div id="dragbar" title="Drag window"></div>
+
+<script>
+  const { ipcRenderer } = require('electron');
+  let vantaEffect = null;
+
+  function destroyEffect() {
+    try { if (vantaEffect && typeof vantaEffect.destroy === 'function') vantaEffect.destroy(); } catch(e) {}
+    vantaEffect = null;
+  }
+
+  function parseColor(v) {
+    if (!v) return undefined;
+    if (typeof v === 'number') return v;
+    if (typeof v === 'string') {
+      if (v.startsWith('#')) return parseInt(v.replace('#','0x'), 16);
+      if (v.startsWith('0x')) return parseInt(v, 16);
+    }
+    return undefined;
+  }
+
+  function safeCreate(preset, settings) {
+    destroyEffect();
+    const el = document.getElementById('vanta-bg');
+    const defaults = {
+      el, mouseControls: true, touchControls: true, gyroControls: false,
+      minHeight: 200, minWidth: 200, scale: 1, scaleMobile: 1, speed: 1
+    };
+    const opts = Object.assign({}, defaults, settings || {});
+    Object.keys(opts).forEach(k => opts[k] === undefined && delete opts[k]);
+
+    try {
+      switch ((preset||'').toUpperCase()) {
+        case 'HALO': vantaEffect = VANTA.HALO(opts); break;
+        case 'BIRDS': vantaEffect = VANTA.BIRDS(opts); break;
+        case 'WAVES': vantaEffect = VANTA.WAVES(opts); break;
+        case 'CLOUDS': vantaEffect = VANTA.CLOUDS(opts); break;
+        case 'FOG': vantaEffect = VANTA.FOG(opts); break;
+        case 'NET': vantaEffect = VANTA.NET(opts); break;
+        case 'CELLS': vantaEffect = VANTA.CELLS(opts); break;
+        case 'RINGS': vantaEffect = VANTA.RINGS(opts); break;
+        default: vantaEffect = VANTA.WAVES(opts);
+      }
+    } catch (err) {
+      console.error('Vanta init failed:', err);
+    }
+  }
+
+  // initial create
+  safeCreate('WAVES', { color: 0x136b2c, waveHeight:26.5, waveSpeed:1.25, shininess:101, zoom:0.75 });
+
+  ipcRenderer.on('update-vanta', (e, cfg) => {
+    const map = {};
+    // common flags
+    if (typeof cfg.mouseControls !== 'undefined') map.mouseControls = !!cfg.mouseControls;
+    if (typeof cfg.touchControls !== 'undefined') map.touchControls = !!cfg.touchControls;
+    if (typeof cfg.gyroControls !== 'undefined') map.gyroControls = !!cfg.gyroControls;
+    if (typeof cfg.speed !== 'undefined') map.speed = cfg.speed;
+    if (typeof cfg.scale !== 'undefined') map.scale = cfg.scale;
+    if (typeof cfg.scaleMobile !== 'undefined') map.scaleMobile = cfg.scaleMobile;
+    // preset specific (use provided names)
+    const keys = ['size','amplitudeFactor','xOffset','yOffset','backgroundColor','color','color1','color2','colorMode','birdSize','wingSpan','speedLimit','separation','alignment','cohesion','quantity','shininess','waveHeight','waveSpeed','zoom','highlightColor','midtoneColor','lowlightColor','baseColor','blurFactor','skyColor','cloudColor','cloudShadowColor','sunColor','sunGlareColor','sunlightColor'];
+    keys.forEach(k => { if (typeof cfg[k] !== 'undefined') map[k] = (k.toLowerCase().includes('color') ? parseColor(cfg[k]) : cfg[k]); });
+
+    // strength overlay
+    const strength = Math.max(0, Math.min(100, Number(cfg.strength || 100)));
+    document.getElementById('overlay').style.opacity = String(1 - (strength / 100));
+
+    safeCreate(cfg.preset || 'WAVES', map);
+  });
+
+  window.addEventListener('resize', () => { try { if (vantaEffect && vantaEffect.onResize) vantaEffect.onResize(); } catch(e){} });
+</script>
+</body>
+</html>

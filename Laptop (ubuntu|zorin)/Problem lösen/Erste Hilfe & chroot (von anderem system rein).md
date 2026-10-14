@@ -107,7 +107,7 @@ apt autoremove
 # DKMS-Cache bereinigen
 rm -rf /var/lib/dkms/nvidia
 # NVIDIA Treiber neu installieren (Version ggf. anpassen)
-apt install nvidia-driver-570
+apt install nvidia-driver-595-open nvidia-utils-595
 # Danach erneut initramfs bauen
 update-initramfs -u -k all
 # GRUB erneut aktualisieren

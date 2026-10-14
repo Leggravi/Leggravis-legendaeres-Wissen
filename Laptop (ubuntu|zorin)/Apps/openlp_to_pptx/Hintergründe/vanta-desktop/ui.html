@@ -1,0 +1,340 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Vanta UI - full controls</title>
+<style>
+  body{font-family:system-ui;margin:12px;max-width:520px}
+  label{display:block;margin-top:8px}
+  .row{display:flex;gap:8px;align-items:center}
+  input[type=range]{width:220px}
+  .small{width:90px}
+  .controls-group{border:1px solid #ddd;padding:8px;border-radius:6px;margin-top:8px}
+  .field{margin:6px 0}
+  .field label{font-size:13px}
+  button{margin-right:8px;margin-top:6px}
+  .section-title{font-weight:600;margin-top:12px}
+</style>
+</head>
+<body>
+  <h2>Vanta Control Panel — Full</h2>
+
+  <label>Preset
+    <select id="preset">
+      <option>HALO</option><option>BIRDS</option><option>WAVES</option><option>CLOUDS</option>
+      <option>FOG</option><option>NET</option><option>CELLS</option><option>RINGS</option>
+    </select>
+  </label>
+
+  <div class="row" style="align-items:center;margin-top:6px">
+    <label>Live <input id="live" type="checkbox" checked style="margin-left:8px"></label>
+    <label style="margin-left:18px">Strength <input id="strength" type="range" min="0" max="100" value="100" style="width:180px;margin-left:8px"> <span id="strengthVal">100</span></label>
+  </div>
+
+  <div class="controls-group">
+    <div class="section-title">Common</div>
+    <div class="field"><label><input type="checkbox" id="mouseControls" checked> mouseControls</label></div>
+    <div class="field"><label><input type="checkbox" id="touchControls" checked> touchControls</label></div>
+    <div class="field"><label><input type="checkbox" id="gyroControls"> gyroControls</label></div>
+
+    <div class="field row"><label>speed</label><input id="speed" type="number" step="0.1" value="1" class="small"></div>
+    <div class="field row"><label>scale</label><input id="scale" type="number" step="0.1" value="1" class="small"></div>
+    <div class="field row"><label>scaleMobile</label><input id="scaleMobile" type="number" step="0.1" value="1" class="small"></div>
+  </div>
+
+  <div id="presetControls" class="controls-group">
+    <div class="section-title">Preset Specific</div>
+    <!-- fields inserted here -->
+  </div>
+
+  <div style="margin-top:10px">
+    <button id="apply">Apply</button>
+    <button id="random">Randomize (exclude strength)</button>
+  </div>
+
+  <hr>
+  <h4>Display / Window</h4>
+  <label>Displays:
+    <select id="displays"></select>
+  </label>
+  <div style="margin-top:6px">
+    <button id="moveToDisplay">Move to display</button>
+    <button id="maximizeBg">Maximize</button>
+    <button id="toggleFs">Toggle Fullscreen</button>
+  </div>
+
+<script>
+  const { ipcRenderer } = require('electron');
+
+  // preset definitions (all options you supplied)
+  const presetsDef = {
+    HALO: [
+      {key:'amplitudeFactor', type:'number', step:0.1, label:'amplitudeFactor', default:1.7},
+      {key:'xOffset', type:'number', step:0.01, label:'xOffset', default:0.13},
+      {key:'yOffset', type:'number', step:0.01, label:'yOffset', default:0.25},
+      {key:'size', type:'number', step:0.1, label:'size', default:1.8},
+      {key:'backgroundColor', type:'color', label:'backgroundColor', default:'#1e234a'}
+    ],
+    BIRDS: [
+      {key:'scale', type:'number', step:0.1, label:'scale', default:1.0},
+      {key:'scaleMobile', type:'number', step:0.1, label:'scaleMobile', default:1.0},
+      {key:'backgroundColor', type:'color', label:'backgroundColor', default:'#1c072f'},
+      {key:'color1', type:'color', label:'color1', default:'#b11717'},
+      {key:'color2', type:'color', label:'color2', default:'#1294b1'},
+      {key:'colorMode', type:'select', label:'colorMode', options:['lerp','variance','lerpGradient','varianceGradient'], default:'lerp'},
+      {key:'birdSize', type:'number', step:0.1, label:'birdSize', default:1.7},
+      {key:'wingSpan', type:'number', step:1, label:'wingSpan', default:25},
+      {key:'speedLimit', type:'number', step:0.1, label:'speedLimit', default:6},
+      {key:'separation', type:'number', step:1, label:'separation', default:41},
+      {key:'alignment', type:'number', step:1, label:'alignment', default:30},
+      {key:'cohesion', type:'number', step:1, label:'cohesion', default:36},
+      {key:'quantity', type:'number', step:1, label:'quantity', default:4}
+    ],
+    CELLS: [
+      {key:'scale', type:'number', step:0.1, label:'scale', default:1.0},
+      {key:'color1', type:'color', label:'color1', default:'#00298c'},
+      {key:'color2', type:'color', label:'color2', default:'#ad25ca'},
+      {key:'size', type:'number', step:0.1, label:'size', default:2.2},
+      {key:'speed', type:'number', step:0.1, label:'speed', default:1.4}
+    ],
+    CLOUDS: [
+      {key:'skyColor', type:'color', label:'skyColor', default:'#d267b8'},
+      {key:'cloudColor', type:'color', label:'cloudColor', default:'#c9adde'},
+      {key:'cloudShadowColor', type:'color', label:'cloudShadowColor', default:'#050607'},
+      {key:'sunColor', type:'color', label:'sunColor', default:'#ffd618'},
+      {key:'sunGlareColor', type:'color', label:'sunGlareColor', default:'#fff332'},
+      {key:'sunlightColor', type:'color', label:'sunlightColor', default:'#b16c2a'},
+      {key:'speed', type:'number', step:0.1, label:'speed', default:1.3}
+    ],
+    WAVES: [
+      {key:'scale', type:'number', step:0.1, label:'scale', default:1.0},
+      {key:'scaleMobile', type:'number', step:0.1, label:'scaleMobile', default:1.0},
+      {key:'color', type:'color', label:'color', default:'#136b2c'},
+      {key:'shininess', type:'number', step:1, label:'shininess', default:101},
+      {key:'waveHeight', type:'number', step:0.1, label:'waveHeight', default:26.5},
+      {key:'waveSpeed', type:'number', step:0.1, label:'waveSpeed', default:1.25},
+      {key:'zoom', type:'number', step:0.1, label:'zoom', default:0.75}
+    ],
+    FOG: [
+      {key:'highlightColor', type:'color', label:'highlightColor', default:'#a48d42'},
+      {key:'midtoneColor', type:'color', label:'midtoneColor', default:'#a03627'},
+      {key:'lowlightColor', type:'color', label:'lowlightColor', default:'#ff00a5'},
+      {key:'baseColor', type:'color', label:'baseColor', default:'#c3b8b8'},
+      {key:'blurFactor', type:'number', step:0.01, label:'blurFactor', default:0.35},
+      {key:'speed', type:'number', step:0.1, label:'speed', default:2.0},
+      {key:'zoom', type:'number', step:0.1, label:'zoom', default:3.0}
+    ],
+    NET: [
+      {key:'scale', type:'number', step:0.1, label:'scale', default:1.0},
+      {key:'scaleMobile', type:'number', step:0.1, label:'scaleMobile', default:1.0},
+      {key:'color', type:'color', label:'color', default:'#ffffff'},
+      {key:'backgroundColor', type:'color', label:'backgroundColor', default:'#000000'},
+      {key:'size', type:'number', step:0.1, label:'size', default:1.0},
+      {key:'speed', type:'number', step:0.1, label:'speed', default:1.0}
+    ],
+    RINGS: [
+      {key:'scale', type:'number', step:0.1, label:'scale', default:1.0},
+      {key:'scaleMobile', type:'number', step:0.1, label:'scaleMobile', default:1.0},
+      {key:'color', type:'color', label:'color', default:'#ffffff'},
+      {key:'backgroundColor', type:'color', label:'backgroundColor', default:'#000000'},
+      {key:'size', type:'number', step:0.1, label:'size', default:1.0},
+      {key:'speed', type:'number', step:0.1, label:'speed', default:1.0}
+    ]
+  };
+
+  // DOM helpers
+  const $ = id => document.getElementById(id);
+  const presetSel = $('preset');
+  const live = $('live');
+  const strength = $('strength');
+  const strengthVal = $('strengthVal');
+  const mouseControls = $('mouseControls');
+  const touchControls = $('touchControls');
+  const gyroControls = $('gyroControls');
+  const speed = $('speed');
+  const scale = $('scale');
+  const scaleMobile = $('scaleMobile');
+  const presetControls = $('presetControls');
+  const applyBtn = $('apply');
+  const randomBtn = $('random');
+  const displaysSelect = $('displays');
+  const moveToDisplayBtn = $('moveToDisplay');
+  const maximizeBtn = $('maximizeBg');
+  const toggleFsBtn = $('toggleFs');
+
+  // create and manage dynamic fields
+  function renderPresetControls(preset) {
+    presetControls.innerHTML = '<div class="section-title">Preset Specific</div>';
+    const defs = presetsDef[preset] || [];
+    defs.forEach(d => {
+      const wrapper = document.createElement('div');
+      wrapper.className = 'field';
+      const id = 'field_' + d.key;
+      if (d.type === 'number') {
+        wrapper.innerHTML = `<label>${d.label} <input id="${id}" type="number" step="${d.step||0.1}" class="small"></label>`;
+      } else if (d.type === 'color') {
+        wrapper.innerHTML = `<label>${d.label} <input id="${id}" type="color"></label>`;
+      } else if (d.type === 'select') {
+        const opts = d.options.map(o => `<option value="${o}">${o}</option>`).join('');
+        wrapper.innerHTML = `<label>${d.label} <select id="${id}">${opts}</select></label>`;
+      } else if (d.type === 'checkbox') {
+        wrapper.innerHTML = `<label><input id="${id}" type="checkbox"> ${d.label}</label>`;
+      } else {
+        wrapper.innerHTML = `<label>${d.label} <input id="${id}" type="text"></label>`;
+      }
+      presetControls.appendChild(wrapper);
+      // set default
+      const el = document.getElementById(id);
+      if (!el) return;
+      if (d.type === 'number') el.value = d.default;
+      else if (d.type === 'color') el.value = d.default;
+      else if (d.type === 'select') el.value = d.default;
+      else if (d.type === 'checkbox') el.checked = !!d.default;
+    });
+    hookLiveOnPresetFields();
+  }
+
+  function readPresetFields(preset) {
+    const out = {};
+    const defs = presetsDef[preset] || [];
+    defs.forEach(d => {
+      const id = 'field_' + d.key;
+      const el = document.getElementById(id);
+      if (!el) return;
+      if (d.type === 'number') out[d.key] = parseFloat(el.value);
+      else if (d.type === 'color') out[d.key] = el.value;
+      else if (d.type === 'select') out[d.key] = el.value;
+      else if (d.type === 'checkbox') out[d.key] = el.checked;
+      else out[d.key] = el.value;
+    });
+    return out;
+  }
+
+  function buildConfig() {
+    const cfg = {
+      preset: presetSel.value,
+      strength: Number(strength.value),
+      mouseControls: mouseControls.checked,
+      touchControls: touchControls.checked,
+      gyroControls: gyroControls.checked,
+      speed: parseFloat(speed.value) || undefined,
+      scale: parseFloat(scale.value) || undefined,
+      scaleMobile: parseFloat(scaleMobile.value) || undefined
+    };
+    const presetFields = readPresetFields(presetSel.value);
+    Object.assign(cfg, presetFields);
+    return cfg;
+  }
+
+  function sendUpdate() {
+    ipcRenderer.send('update-vanta', buildConfig());
+  }
+
+  // Live behavior: attach input handlers
+  function hookLiveOnPresetFields() {
+    // remove old listeners by cloning nodes
+    const inputs = presetControls.querySelectorAll('input,select');
+    inputs.forEach(i => {
+      const clone = i.cloneNode(true);
+      i.parentNode.replaceChild(clone, i);
+    });
+    if (live.checked) {
+      const newInputs = presetControls.querySelectorAll('input,select');
+      newInputs.forEach(i => i.addEventListener('input', sendUpdate));
+    }
+  }
+
+  // attach common listeners
+  function hookCommonLive() {
+    const common = [strength, mouseControls, touchControls, gyroControls, speed, scale, scaleMobile, presetSel];
+    common.forEach(i => {
+      i.oninput = null; i.onchange = null;
+    });
+    if (live.checked) {
+      common.forEach(i => {
+        i.addEventListener('input', sendUpdate);
+        i.addEventListener('change', sendUpdate);
+      });
+    }
+  }
+
+  presetSel.addEventListener('change', () => {
+    renderPresetControls(presetSel.value);
+    hookCommonLive();
+    if (live.checked) sendUpdate();
+  });
+
+  live.addEventListener('change', () => {
+    hookCommonLive();
+    hookLiveOnPresetFields();
+  });
+
+  strength.addEventListener('input', () => strengthVal.textContent = strength.value);
+
+  applyBtn.addEventListener('click', sendUpdate);
+
+  // Randomize visible preset fields EXCEPT strength
+  function randColor() { return '#'+Math.floor(Math.random()*16777215).toString(16).padStart(6,'0'); }
+  function randomizeVisible() {
+    // common: randomize some commons (but not strength)
+    mouseControls.checked = Math.random() > 0.5;
+    touchControls.checked = Math.random() > 0.5;
+    gyroControls.checked = Math.random() > 0.85;
+    speed.value = (Math.random()*2.5 + 0.1).toFixed(2);
+    scale.value = (Math.random()*1.5 + 0.5).toFixed(2);
+    scaleMobile.value = (Math.random()*1.5 + 0.5).toFixed(2);
+
+    // preset-specific
+    const defs = presetsDef[presetSel.value] || [];
+    defs.forEach(d => {
+      const el = document.getElementById('field_' + d.key);
+      if (!el) return;
+      if (d.type === 'number') {
+        // choose sensible ranges
+        const r = (Math.random() * (d.default * 2 + 1)) + (d.default * 0.1);
+        el.value = Number(r.toFixed( d.step && d.step < 1 ? 2 : 0 ));
+      } else if (d.type === 'color') el.value = randColor();
+      else if (d.type === 'select') {
+        const opts = d.options;
+        el.value = opts[Math.floor(Math.random()*opts.length)];
+      } else if (d.type === 'checkbox') {
+        el.checked = Math.random() > 0.5;
+      } else {
+        el.value = '';
+      }
+    });
+
+    if (live.checked) sendUpdate();
+  }
+
+  randomBtn.addEventListener('click', randomizeVisible);
+
+  // display controls
+  moveToDisplayBtn.addEventListener('click', () => {
+    const idx = displaysSelect.selectedIndex;
+    if (idx >= 0) ipcRenderer.send('move-bg-to-display', idx);
+  });
+  maximizeBtn.addEventListener('click', () => ipcRenderer.send('maximize-bg'));
+  toggleFsBtn.addEventListener('click', () => ipcRenderer.send('toggle-bg-fullscreen'));
+
+  // load displays
+  (async () => {
+    const displays = await ipcRenderer.invoke('get-displays');
+    displays.forEach((d,i) => {
+      const opt = document.createElement('option');
+      opt.value = i;
+      opt.textContent = `Display ${i} — ${d.bounds.width}x${d.bounds.height} @ (${d.bounds.x},${d.bounds.y})`;
+      displaysSelect.appendChild(opt);
+    });
+  })();
+
+  // init
+  renderPresetControls(presetSel.value);
+  hookCommonLive();
+  hookLiveOnPresetFields();
+  // initial send
+  window.addEventListener('DOMContentLoaded', () => { if (live.checked) sendUpdate(); });
+
+</script>
+</body>
+</html>

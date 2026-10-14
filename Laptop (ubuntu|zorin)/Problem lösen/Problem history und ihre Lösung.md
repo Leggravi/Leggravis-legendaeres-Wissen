@@ -1,6 +1,6 @@
-| **Date**   | Problem              | Fix                                                          |
-| ---------- | -------------------- | ------------------------------------------------------------ |
-| 24.02.2026 | Booten (Blackscreen) | [erste Hilfe (über anderen Kernel, bzw chroot)](Erste Hilfe & chroot (von anderem system rein).md) |
-|            |                      |                                                              |
-|            |                      |                                                              |
+| **Date**   | Problem                                         | Fix                                                          |
+| ---------- | ----------------------------------------------- | ------------------------------------------------------------ |
+| 24.02.2026 | Booten (Blackscreen)                            | [erste Hilfe (über anderen Kernel, bzw chroot)](Erste Hilfe & chroot (von anderem system rein).md) |
+| 03.10.2026 | fehlende NvidiaTreiber (nach upgrade auf 26.04) |                                                              |
+|            |                                                 |                                                              |
 
